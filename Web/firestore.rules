@@ -175,7 +175,8 @@ service cloud.firestore {
         'payroll_runs', 'payslips', 'salary_structures',
         'students', 'staff', 'consent_records',
         'iep_plans', 'therapy_logs',
-        'attendance_days', 'assessment_results', 'exam_results', 'hpc_cards'
+        'attendance_days', 'assessment_results', 'exam_results', 'hpc_cards',
+        'certificates', 'certificate_counters'
       ];
     }
 
@@ -334,6 +335,17 @@ service cloud.firestore {
       match /staff/{docId} {
         allow read: if isSuperAdmin() || isStaff(schoolId);
         allow write: if isSuperAdmin() || isHrStaff(schoolId);
+      }
+
+      // ----- CERTIFICATES: issued docs + serial counters — staff only (no families) -----
+      // Bonafide/TC/character etc. carry student PII; the issuance register and the
+      // serial counters are internal office records. Staff read/write; parents/students
+      // have no access (a future parent "my certificates" view would add own-scoping).
+      match /certificates/{docId} {
+        allow read, write: if isSuperAdmin() || isStaff(schoolId);
+      }
+      match /certificate_counters/{docId} {
+        allow read, write: if isSuperAdmin() || isStaff(schoolId);
       }
 
       // ----- CONSENT (DPDP): consent/data-protection staff + leadership -----

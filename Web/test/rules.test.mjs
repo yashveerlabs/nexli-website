@@ -106,6 +106,8 @@ await testEnv.withSecurityRulesDisabled(async (ctx) => {
   await set('counseling', 'co1', { studentId: 'stu1' });
   await set('circulars', 'c1', { audience: 'whole_school', title: 'Notice' });   // default collection
   await set('finance_settings', 'main', { bankName: 'Demo Bank' });              // default collection
+  await set('certificates', 'crt1', { studentId: 'stu1', serialNo: 'BON-2026-0001', type: 'bonafide' });
+  await set('certificate_counters', 'bonafide', { value: 1 });
 });
 
 // contexts
@@ -156,6 +158,8 @@ await no('anon read circular', readDoc(unauth, 'circulars', 'c1'));
   await ok('class_teacher save assessment marks', writeDoc(db, ['assessment_results', 'as1'], { entries: { stu1: 88 } }));
   await ok('class_teacher save exam result', writeDoc(db, ['exam_results', 'ex1'], { examId: 'e1', studentId: 'stu1', marks: 70 }));
   await ok('class_teacher read students', readDoc(db, 'students', 'stu1'));
+  await ok('class_teacher read certificates (staff)', readDoc(db, 'certificates', 'crt1'));
+  await ok('class_teacher write certificate (staff)', writeDoc(db, ['certificates', 'crt9'], { studentId: 'stu1', serialNo: 'BON-2026-0009', type: 'bonafide' }));
   await ok('class_teacher read attendance', readDoc(db, 'attendance_days', 'ad1'));
   await no('class_teacher read payroll', readDoc(db, 'payroll_runs', 'r1'));
   await no('class_teacher read salary', readDoc(db, 'salary_structures', 'stf1'));
@@ -290,6 +294,7 @@ await no('anon read circular', readDoc(unauth, 'circulars', 'c1'));
   await no('parentP1 read payroll', readDoc(db, 'payroll_runs', 'r1'));
   await no('parentP1 read salary', readDoc(db, 'salary_structures', 'stf1'));
   await no('parentP1 read staff PII', readDoc(db, 'staff', 'stf1'));
+  await no('parentP1 read certificates', readDoc(db, 'certificates', 'crt1'));
   await no('parentP1 read pocso', readDoc(db, 'pocso', 'pc1'));
   await no('parentP1 read medical', readDoc(db, 'medical', 'md1'));
   await no('parentP1 read iep', readDoc(db, 'iep_plans', 'iep1'));
@@ -305,6 +310,7 @@ await no('anon read circular', readDoc(unauth, 'circulars', 'c1'));
   await no('studentS1 read other student', readDoc(db, 'students', 'stu2'));
   await no('studentS1 read other invoice', readDoc(db, 'fee_invoices', 'inv2'));
   await no('studentS1 read payroll', readDoc(db, 'payroll_runs', 'r1'));
+  await no('studentS1 read certificates', readDoc(db, 'certificates', 'crt1'));
   await no('studentS1 read pocso', readDoc(db, 'pocso', 'pc1'));
 }
 
