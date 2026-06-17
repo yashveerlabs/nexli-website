@@ -49,6 +49,7 @@ export const STAFF_NAV: NavItem[] = [
   { id: 'dashboard', label: 'Dashboard', icon: 'dashboard', path: '/', end: true },
   { id: 'students', label: 'Students', icon: 'users', path: '/students', permission: 'students.read' },
   { id: 'admissions', label: 'Admissions', icon: 'user-plus', path: '/admissions', permission: 'admissions.read' },
+  { id: 'certificates', label: 'Certificates', icon: 'award', path: '/certificates', permission: 'students.write' },
   { id: 'academics', label: 'Academics', icon: 'book', path: '/academics', permission: 'academics.read' },
   { id: 'attendance', label: 'Attendance', icon: 'clock', path: '/attendance', permission: 'attendance.read' },
   { id: 'staff_attendance', label: 'Staff Attendance', icon: 'clock', path: '/staff-attendance' },

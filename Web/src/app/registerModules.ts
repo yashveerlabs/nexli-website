@@ -38,6 +38,7 @@ export function registerAllModules(): void {
   // --- P3 School backbone ---
   registerModule('staff', 'students', lazy(() => import('@/features/students/routes')));
   registerModule('staff', 'admissions', lazy(() => import('@/features/admissions/routes')));
+  registerModule('staff', 'certificates', lazy(() => import('@/features/certificates/routes')));
   registerModule('staff', 'academics', lazy(() => import('@/features/academics/routes')));
   registerModule('staff', 'hr', lazy(() => import('@/features/hr/routes')));
 
