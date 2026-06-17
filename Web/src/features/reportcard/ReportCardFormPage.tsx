@@ -29,7 +29,7 @@ export function ReportCardFormPage() {
   const navigate = useNavigate();
   const toast = useToast();
   const { schoolId, uid, member, can } = useSession();
-  const canWrite = can('gradebook.write');
+  const canWrite = can('gradebook.write') || can('exams.write');
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
 
   const { data: existing, loading } = useReportCard(schoolId, id);

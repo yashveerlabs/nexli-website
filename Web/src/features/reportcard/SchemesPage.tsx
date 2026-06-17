@@ -25,7 +25,7 @@ export function SchemesPage() {
   const navigate = useNavigate();
   const toast = useToast();
   const { schoolId, uid, member, can } = useSession();
-  const canWrite = can('gradebook.write');
+  const canWrite = can('gradebook.write') || can('exams.write');
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
 
   const { data: schemes, loading } = useSchemes(schoolId);

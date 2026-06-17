@@ -32,7 +32,7 @@ export function ReportCardView({ basePath = '/report-cards', requirePublished = 
   const { data: card, loading } = useReportCard(schoolId, id);
   const { data: scheme } = useScheme(schoolId, card?.schemeId);
 
-  const canWrite = can('gradebook.write');
+  const canWrite = can('gradebook.write') || can('exams.write');
   const isApprover = canApproveReportCard(role, can);
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
 

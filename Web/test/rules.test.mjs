@@ -64,6 +64,8 @@ await testEnv.withSecurityRulesDisabled(async (ctx) => {
     'principal', 'class_teacher', 'subject_teacher', 'accounts_clerk', 'chief_accountant',
     'hr_manager', 'bus_driver', 'nurse', 'special_educator', 'dpo', 'counselor', 'cpo',
     'posh_committee', 'icc_member', 'sports_teacher',
+    // Phase-A follow-up roles for the certificate/exam/career access checks:
+    'hod', 'vp_admin', 'registrar', 'guidance_counselor',
   ];
   for (const r of roles) {
     await member(S1, r, r);
@@ -114,6 +116,7 @@ await testEnv.withSecurityRulesDisabled(async (ctx) => {
   await set('reportCards', 'rc_draft', { studentId: 'stu1', published: false, term: 'term2' });
   await set('portfolio', 'pf1', { studentId: 'stu1', title: 'Science fair', status: 'submitted' });
   await set('careerAssessments', 'ca1', { studentId: 'stu1', status: 'completed' });
+  await set('consent_purposes', 'cp1', { name: 'Photography consent', required: false });
 });
 
 // contexts
@@ -164,14 +167,14 @@ await no('anon read circular', readDoc(unauth, 'circulars', 'c1'));
   await ok('class_teacher save assessment marks', writeDoc(db, ['assessment_results', 'as1'], { entries: { stu1: 88 } }));
   await ok('class_teacher save exam result', writeDoc(db, ['exam_results', 'ex1'], { examId: 'e1', studentId: 'stu1', marks: 70 }));
   await ok('class_teacher read students', readDoc(db, 'students', 'stu1'));
-  await ok('class_teacher read certificates (staff)', readDoc(db, 'certificates', 'crt1'));
-  await ok('class_teacher write certificate (staff)', writeDoc(db, ['certificates', 'crt9'], { studentId: 'stu1', serialNo: 'BON-2026-0009', type: 'bonafide' }));
+  await no('class_teacher read certificates (NOT an authorized issuer)', readDoc(db, 'certificates', 'crt1'));
+  await no('class_teacher write certificate (NOT an authorized issuer)', writeDoc(db, ['certificates', 'crt9'], { studentId: 'stu1', serialNo: 'BON-2026-0009', type: 'bonafide' }));
   await ok('class_teacher read question paper (academic)', readDoc(db, 'questionPapers', 'qp1'));
   await ok('class_teacher write question (academic)', writeDoc(db, ['questionBank', 'qb9'], { stem: 'x?', subjectId: 'sub-math', marks: 1 }));
   await ok('class_teacher read report card (academic)', readDoc(db, 'reportCards', 'rc_pub'));
   await ok('class_teacher read portfolio (staff)', readDoc(db, 'portfolio', 'pf1'));
   await ok('class_teacher verify portfolio (staff)', writeDoc(db, ['portfolio', 'pf1'], { studentId: 'stu1', title: 'Science fair', status: 'verified' }));
-  await ok('class_teacher read career attempt (staff)', readDoc(db, 'careerAssessments', 'ca1'));
+  await no('class_teacher read career attempt (NOT counselling staff)', readDoc(db, 'careerAssessments', 'ca1'));
   await ok('class_teacher read attendance', readDoc(db, 'attendance_days', 'ad1'));
   await no('class_teacher read payroll', readDoc(db, 'payroll_runs', 'r1'));
   await no('class_teacher read salary', readDoc(db, 'salary_structures', 'stf1'));
@@ -337,6 +340,55 @@ await no('anon read circular', readDoc(unauth, 'circulars', 'c1'));
   await ok('studentS1 read own career attempt (scoped)', listWhere(db, 'careerAssessments', 'studentId', 'stu1'));
   await ok('studentS1 create own career attempt', writeDoc(db, ['careerAssessments', 'ca_new'], { studentId: 'stu1', status: 'completed' }));
   await no('studentS1 read pocso', readDoc(db, 'pocso', 'pc1'));
+}
+
+// --- Certificate issuer allowlist (leadership / academic+admin leadership / office) ---
+{
+  // Previously LOCKED OUT by the students.write gate — must now be allowed.
+  const hod = as('hod');
+  await ok('hod read certificate (issuer)', readDoc(hod, 'certificates', 'crt1'));
+  await ok('hod write certificate (issuer)', writeDoc(hod, ['certificates', 'crt_hod'], { studentId: 'stu1', serialNo: 'BON-2026-1001', type: 'bonafide' }));
+  await ok('hod write certificate_counter (issuer)', writeDoc(hod, ['certificate_counters', 'bonafide'], { value: 2 }));
+  const vpa = as('vp_admin');
+  await ok('vp_admin read certificate (issuer)', readDoc(vpa, 'certificates', 'crt1'));
+  await ok('vp_admin write certificate (issuer)', writeDoc(vpa, ['certificates', 'crt_vpa'], { studentId: 'stu1', serialNo: 'BON-2026-1002', type: 'bonafide' }));
+  await ok('registrar write certificate (issuer)', writeDoc(as('registrar'), ['certificates', 'crt_reg'], { studentId: 'stu1', serialNo: 'TC-2026-0001', type: 'transfer' }));
+  // Staff who are NOT certificate issuers must now be DENIED (over-permission closed).
+  await no('accounts_clerk read certificate (not issuer)', readDoc(as('accounts_clerk'), 'certificates', 'crt1'));
+  await no('nurse read certificate (not issuer)', readDoc(as('nurse'), 'certificates', 'crt1'));
+  await no('bus_driver write certificate (not issuer)', writeDoc(as('bus_driver'), ['certificates', 'crtX'], { studentId: 'stu1', serialNo: 'X', type: 'bonafide' }));
+  await no('nurse write certificate_counter (not issuer)', writeDoc(as('nurse'), ['certificate_counters', 'bonafide'], { value: 99 }));
+}
+
+// --- Question papers/bank/blueprints: exam staff only (tightened from isAcademicStaff) ---
+{
+  await ok('subject_teacher read question paper (exam staff)', readDoc(as('subject_teacher'), 'questionPapers', 'qp1'));
+  await ok('hod write question bank (exam staff)', writeDoc(as('hod'), ['questionBank', 'qb_hod'], { stem: 'y?', subjectId: 'sub-math', marks: 2 }));
+  // sports/arts/special-ed were swept in by isAcademicStaff before — answer keys must NOT reach them.
+  await no('sports_teacher read question paper (not exam staff)', readDoc(as('sports_teacher'), 'questionPapers', 'qp1'));
+  await no('sports_teacher read question bank (not exam staff)', readDoc(as('sports_teacher'), 'questionBank', 'qb1'));
+  await no('special_educator read question paper (not exam staff)', readDoc(as('special_educator'), 'questionPapers', 'qp1'));
+}
+
+// --- Career assessments: counselling staff review; student owns own; others denied ---
+{
+  const cou = as('counselor');
+  await ok('counselor read career attempt (counselling staff)', readDoc(cou, 'careerAssessments', 'ca1'));
+  await ok('counselor review (update) career attempt', writeDoc(cou, ['careerAssessments', 'ca1'], { studentId: 'stu1', status: 'reviewed' }));
+  await ok('guidance_counselor read career attempt', readDoc(as('guidance_counselor'), 'careerAssessments', 'ca1'));
+  // non-counselling staff must NOT read every student's aptitude profile (tightened from isStaff)
+  await no('nurse read career attempt (not counselling staff)', readDoc(as('nurse'), 'careerAssessments', 'ca1'));
+  await no('accounts_clerk read career attempt (not counselling staff)', readDoc(as('accounts_clerk'), 'careerAssessments', 'ca1'));
+  await no('studentS1 cannot update own career attempt (review is staff-only)', writeDoc(as('studentS1'), ['careerAssessments', 'ca1'], { studentId: 'stu1', status: 'reviewed' }));
+}
+
+// --- Consent PURPOSES catalogue: any active member reads; only consent staff writes ---
+{
+  await ok('class_teacher read consent purpose (active member)', readDoc(as('class_teacher'), 'consent_purposes', 'cp1'));
+  await ok('parentP1 read consent purpose (needed to respond)', readDoc(as('parentP1'), 'consent_purposes', 'cp1'));
+  await ok('dpo write consent purpose (consent staff)', writeDoc(as('dpo'), ['consent_purposes', 'cp2'], { name: 'Field trip consent' }));
+  await no('bus_driver write consent purpose (not consent staff)', writeDoc(as('bus_driver'), ['consent_purposes', 'cpX'], { name: 'x' }));
+  await no('class_teacher write consent purpose (not consent staff)', writeDoc(as('class_teacher'), ['consent_purposes', 'cpY'], { name: 'y' }));
 }
 
 // ----------------------------- report -----------------------------

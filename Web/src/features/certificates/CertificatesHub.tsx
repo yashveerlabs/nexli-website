@@ -16,7 +16,7 @@ const TYPE_OPTIONS = (Object.keys(CERT_META) as CertificateType[]).map((k) => ({
 
 export function CertificatesHub() {
   const { schoolId, uid, member, school, can } = useSession();
-  const canIssue = can('students.write');
+  const canIssue = can('certificates.write');
   const [tab, setTab] = useState<'issue' | 'register'>('issue');
 
   return (

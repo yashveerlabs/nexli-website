@@ -56,7 +56,7 @@ const OVERSIGHT: PermissionMatrix = {
 
 /** Academic leadership (VP-Academic, Academic Director, Headmaster). */
 const ACADEMIC_LEAD: PermissionMatrix = {
-  students: VCEX, admissions: VCE, attendance: MANAGE, academics: MANAGE, gradebook: MANAGE,
+  students: VCEX, certificates: VCE, admissions: VCE, attendance: MANAGE, academics: MANAGE, gradebook: MANAGE,
   homework: MANAGE, exams: MANAGE, hpc: MANAGE, library: V, sped: V, counseling: V,
   communication: MANAGE, events: MANAGE, reports: VX, compliance: V, hr: V, users: MANAGE,
   delegation: MANAGE,
@@ -64,7 +64,7 @@ const ACADEMIC_LEAD: PermissionMatrix = {
 
 /** Administrative leadership (VP-Admin, Administrator, School/Admin Manager). */
 const ADMIN_LEAD: PermissionMatrix = {
-  students: V, fees: APPR, expense: MANAGE, payroll: APPR, hr: MANAGE, transport: MANAGE,
+  students: V, certificates: VCE, fees: APPR, expense: MANAGE, payroll: APPR, hr: MANAGE, transport: MANAGE,
   hostel: MANAGE, facility: MANAGE, canteen: V, visitors: MANAGE, compliance: MANAGE,
   consent: V, reports: VX, communication: MANAGE, events: V, users: MANAGE, settings: MANAGE,
   audit: V, delegation: MANAGE,
@@ -90,19 +90,19 @@ export const ROLE_CATALOG: RoleDefinition[] = [
 
   /* --------------------------- academic & teaching --------------------------- */
   r('academic_coordinator', 'Academic Coordinator', 'academic', {
-    students: VCEX, admissions: VCE, attendance: MANAGE, academics: MANAGE, gradebook: V,
+    students: VCEX, certificates: VCE, admissions: VCE, attendance: MANAGE, academics: MANAGE, gradebook: V,
     homework: V, exams: MANAGE, hpc: VCE, reports: VX, hr: V, communication: VCE, events: VCE,
     compliance: V, users: MANAGE, delegation: MANAGE, alumni: VCE,
   }, { level: 'Senior' }),
   r('academic_coordinator_junior', 'Academic Coordinator (Junior)', 'academic', {
-    students: VCE, admissions: VCE, attendance: VCEX, academics: VCE, gradebook: V,
+    students: VCE, certificates: VCE, admissions: VCE, attendance: VCEX, academics: VCE, gradebook: V,
     exams: VCE, hpc: VCE, reports: V, communication: VCE, events: VCE,
   }, { level: 'Junior' }),
   r('academic_coordinator_associate', 'Academic Coordinator (Associate / Assistant)', 'academic', {
-    students: V, attendance: VCE, academics: V, exams: V, hpc: V, homework: V, communication: VC, events: V,
+    students: V, certificates: VCE, attendance: VCE, academics: V, exams: V, hpc: V, homework: V, communication: VC, events: V,
   }, { level: 'Associate / Assistant' }),
   r('hod', 'Head of Department', 'academic', {
-    students: V, gradebook: MANAGE, homework: V, exams: VCE, hpc: VCE, academics: VCE, reports: V, users: V,
+    students: V, certificates: VCE, gradebook: MANAGE, homework: V, exams: VCE, hpc: VCE, academics: VCE, reports: V, users: V,
   }),
   r('exam_controller', 'Exam Controller', 'academic', {
     students: V, exams: MANAGE, gradebook: VX, hpc: VX, academics: V, reports: VX, communication: VCE,
@@ -142,24 +142,24 @@ export const ROLE_CATALOG: RoleDefinition[] = [
   /* --------------------------- administrative & office --------------------------- */
   r('administrator', 'Administrator', 'administration', ADMIN_LEAD),
   r('admin_officer', 'Administrative Officer', 'administration', {
-    students: V, admissions: VCE, fees: V, hr: V, transport: V, hostel: V, facility: V, visitors: VCE,
+    students: V, certificates: VCE, admissions: VCE, fees: V, hr: V, transport: V, hostel: V, facility: V, visitors: VCE,
     compliance: VCE, communication: VCE, reports: V, settings: V,
   }),
   r('dean_of_students', 'Dean of Students', 'administration', {
-    students: VCEX, attendance: VX, events: MANAGE, communication: MANAGE, reports: V,
+    students: VCEX, certificates: VCE, attendance: VX, events: MANAGE, communication: MANAGE, reports: V,
   }),
   r('registrar', 'Registrar', 'administration', {
-    students: MANAGE, admissions: MANAGE, academics: VCE, exams: VX, compliance: VCE, reports: VX,
+    students: MANAGE, certificates: VCE, admissions: MANAGE, academics: VCE, exams: VX, compliance: VCE, reports: VX,
     communication: VCE,
   }),
   r('admissions_officer', 'Admissions Officer', 'administration', {
-    admissions: MANAGE, students: VCE, fees: V, communication: VCE, reports: V,
+    admissions: MANAGE, certificates: VCE, students: VCE, fees: V, communication: VCE, reports: V,
   }),
   r('front_desk', 'Front Desk', 'administration', {
-    visitors: VCE, admissions: VC, students: V, communication: VC, alumni: VCE,
+    visitors: VCE, certificates: VCE, admissions: VC, students: V, communication: VC, alumni: VCE,
   }),
   r('office_assistant', 'Office Assistant', 'administration', {
-    students: V, visitors: VCE, communication: VC, events: V,
+    students: V, certificates: VCE, visitors: VCE, communication: VC, events: V,
   }),
 
   /* ------------------------------- finance ------------------------------- */
@@ -190,8 +190,8 @@ export const ROLE_CATALOG: RoleDefinition[] = [
   r('it_admin', 'IT Administrator', 'management', { settings: MANAGE, users: MANAGE, audit: V }, {
     raw: ['import.run', 'delegation.manage'],
   }),
-  r('main_receptionist', 'Main Receptionist', 'management', { visitors: VCE, communication: VC, students: V, admissions: VC }),
-  r('admissions_receptionist', 'Admissions Receptionist', 'management', { admissions: VCE, visitors: VCE, students: V }),
+  r('main_receptionist', 'Main Receptionist', 'management', { visitors: VCE, certificates: VCE, communication: VC, students: V, admissions: VC }),
+  r('admissions_receptionist', 'Admissions Receptionist', 'management', { admissions: VCE, certificates: VCE, visitors: VCE, students: V }),
   r('pr_executive', 'Public Relations Executive', 'management', { communication: MANAGE, events: VCE, reports: V, alumni: VCE }),
 
   /* --------------------------- hostel & residential --------------------------- */

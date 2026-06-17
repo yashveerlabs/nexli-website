@@ -14,6 +14,7 @@ export interface AppModule {
 
 export const APP_MODULES: AppModule[] = [
   { key: 'students', label: 'Students — records & profiles', legacy: 'students' },
+  { key: 'certificates', label: 'Certificates — issue & register', legacy: 'certificates' },
   { key: 'admissions', label: 'Admissions', legacy: 'admissions' },
   { key: 'attendance', label: 'Student attendance', legacy: 'attendance' },
   { key: 'academics', label: 'Academics & timetable', legacy: 'academics' },

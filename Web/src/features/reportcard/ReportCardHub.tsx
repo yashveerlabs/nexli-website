@@ -28,7 +28,7 @@ export function ReportCardHub() {
   const navigate = useNavigate();
   const toast = useToast();
   const { schoolId, uid, member, role, can } = useSession();
-  const canWrite = can('gradebook.write');
+  const canWrite = can('gradebook.write') || can('exams.write');
   const isApprover = canApproveReportCard(role, can);
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
 

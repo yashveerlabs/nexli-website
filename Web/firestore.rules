@@ -128,6 +128,37 @@ service cloud.firestore {
         'academic_director', 'vp_academic'
       ]);
     }
+    // Exam/paper staff ONLY — question bank/papers/blueprints carry answer keys, so
+    // this is narrower than isAcademicStaff (excludes sports/arts/substitute/lab/club/
+    // activity/special-educator/dean, none of whom hold `exams.read` in the catalogue).
+    function isExamStaff(sid) {
+      return isPrincipalLike(sid) || hasAnyRole(sid, [
+        'subject_teacher', 'class_teacher', 'hod', 'exam_controller',
+        'academic_coordinator', 'academic_coordinator_junior', 'academic_coordinator_associate',
+        'registrar', 'academic_director', 'vp_academic'
+      ]);
+    }
+    // Career-counselling staff who may read the cohort + review aptitude profiles
+    // (mirrors the client `counseling.read`/`counseling.write` gate). A student reads
+    // their OWN assessment via ownsStudentId at the collection.
+    function isCounselingStaff(sid) {
+      return isPrincipalLike(sid) || hasAnyRole(sid, [
+        'counselor', 'guidance_counselor', 'cpo', 'academic_director', 'vp_academic'
+      ]);
+    }
+    // Authorized certificate issuers (Bonafide/TC/Character/Conduct/Leaving): school +
+    // academic + admin leadership and the registry/admissions/office staff who run the
+    // certificate desk. Deliberately EXCLUDES teachers and operational/health/hostel/
+    // library/transport/canteen/security/finance roles (they don't issue certificates).
+    // Kept in lockstep with the `certificates` permission granted in lib/roles/catalog.ts.
+    function isCertificateIssuer(sid) {
+      return isPrincipalLike(sid) || isAdminLeadership(sid) || hasAnyRole(sid, [
+        'academic_director', 'vp_academic', 'hod',
+        'academic_coordinator', 'academic_coordinator_junior', 'academic_coordinator_associate',
+        'registrar', 'admissions_officer', 'admin_officer', 'dean_of_students',
+        'front_desk', 'office_assistant', 'main_receptionist', 'admissions_receptionist'
+      ]);
+    }
 
     // School leadership / admin roles allowed to manage users, settings, profile.
     // Kept in sync with the data-driven catalogue: every role that holds the
@@ -173,7 +204,7 @@ service cloud.firestore {
         // Danger 1 — newly locked
         'fee_invoices', 'fee_payments', 'finance_counters',
         'payroll_runs', 'payslips', 'salary_structures',
-        'students', 'staff', 'consent_records',
+        'students', 'staff', 'consent_records', 'consent_purposes',
         'iep_plans', 'therapy_logs',
         'attendance_days', 'assessment_results', 'exam_results', 'hpc_cards',
         'certificates', 'certificate_counters',
@@ -344,21 +375,21 @@ service cloud.firestore {
       // serial counters are internal office records. Staff read/write; parents/students
       // have no access (a future parent "my certificates" view would add own-scoping).
       match /certificates/{docId} {
-        allow read, write: if isSuperAdmin() || isStaff(schoolId);
+        allow read, write: if isSuperAdmin() || isCertificateIssuer(schoolId);
       }
       match /certificate_counters/{docId} {
-        allow read, write: if isSuperAdmin() || isStaff(schoolId);
+        allow read, write: if isSuperAdmin() || isCertificateIssuer(schoolId);
       }
 
       // ----- QUESTION PAPERS: academic staff only (papers must NEVER reach students) -----
       match /questionBank/{docId} {
-        allow read, write: if isSuperAdmin() || isAcademicStaff(schoolId);
+        allow read, write: if isSuperAdmin() || isExamStaff(schoolId);
       }
       match /questionPapers/{docId} {
-        allow read, write: if isSuperAdmin() || isAcademicStaff(schoolId);
+        allow read, write: if isSuperAdmin() || isExamStaff(schoolId);
       }
       match /paperBlueprints/{docId} {
-        allow read, write: if isSuperAdmin() || isAcademicStaff(schoolId);
+        allow read, write: if isSuperAdmin() || isExamStaff(schoolId);
       }
 
       // ----- REPORT CARDS: academic staff write; families read OWN PUBLISHED only -----
@@ -385,14 +416,20 @@ service cloud.firestore {
 
       // ----- CAREER ASSESSMENTS: student creates/reads OWN; counsellor/staff read cohort + review -----
       match /careerAssessments/{docId} {
-        allow read: if isSuperAdmin() || isStaff(schoolId) || ownsStudentId(schoolId, resource.data.studentId);
-        allow create: if isSuperAdmin() || isStaff(schoolId) || ownsStudentId(schoolId, request.resource.data.studentId);
-        allow update: if isSuperAdmin() || isStaff(schoolId);
+        allow read: if isSuperAdmin() || isCounselingStaff(schoolId) || ownsStudentId(schoolId, resource.data.studentId);
+        allow create: if isSuperAdmin() || isCounselingStaff(schoolId) || ownsStudentId(schoolId, request.resource.data.studentId);
+        allow update: if isSuperAdmin() || isCounselingStaff(schoolId);
       }
 
       // ----- CONSENT (DPDP): consent/data-protection staff + leadership -----
       match /consent_records/{docId} {
         allow read, write: if isSuperAdmin() || isConsentStaff(schoolId);
+      }
+      // Consent PURPOSE catalogue (DPDP): any active member may READ the purpose list
+      // (e.g. parents need it to respond to consent); only consent staff + leadership WRITE.
+      match /consent_purposes/{docId} {
+        allow read: if isSuperAdmin() || isActiveMember(schoolId);
+        allow write: if isSuperAdmin() || isConsentStaff(schoolId);
       }
 
       // ----- SPECIAL EDUCATION (IEP) / THERAPY: special-ed + leadership -----
