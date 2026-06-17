@@ -89,7 +89,17 @@ cashless wallet (gateway), e-sign (legal), AI at-risk (AI key — scoring logic 
 - 2026-06-17 — Certificates collection locked in rules (staff-only) + tests 100/0 + **deployed** (ruleset `d9250142`).
 - 2026-06-17 — Built Question Paper Generator (`features/qpaper`, commit `417cf68`); rules tests 105/0; verification subagent run + fixes applied.
 - 2026-06-17 — Launched 4 parallel build agents (in flight): Report Card (`features/reportcard`), Gamified Dashboard (`features/gamification`), Skills Passport (`features/portfolio`), Career-Counselling (`features/career`). Each builds only its own feature folder; parent integrates nav/registry/roles/rules + gates + verification + commit per module as they land.
-- 2026-06-17 — All 4 build agents complete. Integrated all four (nav + registry for staff/parent/student as relevant), locked their collections in rules, fixed integration issues (career student query scoped to own; portfolio staff verify-gate → `students.write`). Full build green; strict typecheck clean; emulator rules tests **119/0**. Verification subagents next.
+- 2026-06-17 — All 4 build agents complete. Integrated all four (nav + registry for staff/parent/student as relevant), locked their collections in rules, fixed integration issues (career student query scoped to own; portfolio staff verify-gate → `students.write`). Full build green; strict typecheck clean; emulator rules tests **119/0**. Committed `cd0ee28`.
+- 2026-06-17 — 4 verification subagents reviewed the modules; fixes applied + committed `b57bb93`: 2 BLOCKERs (skills-passport index-requiring query → client-side sort; report-card grade-band gap → highest-band-by-minPct), + skills print school name, gamification `leave` freezes streak, report-card permission-matrix row. Career verified clean. Build green; rules tests **119/0**.
+
+### Buildable Track-2 wave — ✅ COMPLETE
+All buildable modules the user listed are built, integrated, gated (build + strict typecheck + rules tests 119/0), verified, and committed: counselling (T1), rankings (marks + attendance), certificate generator, question paper generator, report card (traditional marks), gamified dashboard, skills passport, career-counselling. Remaining Track-2 items are the **blocked** integrations (plans + offline shells only — no faked connections): APAAR/ABC/DigiLocker, UPI AutoPay/eNACH, secure online exam (proctoring), IoT campus safety, WhatsApp Business API, SSO/Open API, cashless wallet, e-sign, AI at-risk (scoring logic buildable; model blocked).
+
+### Phase-2 follow-ups (verification noted; not blockers)
+- Report card auto-fill currently reads exam marks only (not gradebook `assessment_results`); document or wire later. Subject mapping needs `subjectId` on papers.
+- Gamification: homework-streak ordering when `submittedAt` is absent; reading "best" label is cosmetic.
+- Skills passport: staff "record-on-behalf (pre-verified)" create path not yet built.
+- Career: save-and-resume + aptitude timer + career-library + PDF + class-eligibility gate are later-phase items.
 
 ### ⚠️ Rules: locked-in-file but NOT yet deployed (pending next deploy)
 The live deployed ruleset is `d9250142` (Phase-A + certificates). These newer collections are locked in
