@@ -34,7 +34,7 @@ function RoleRoutes() {
               key={item.id}
               path={`${sub}/*`}
               element={
-                <Guarded perm={item.permission} flag={item.flag} moduleKey={item.id}>
+                <Guarded perm={item.permission} anyPerm={item.anyPermission} flag={item.flag} moduleKey={item.id}>
                   {inner}
                 </Guarded>
               }

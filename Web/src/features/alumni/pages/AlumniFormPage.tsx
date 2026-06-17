@@ -14,7 +14,7 @@ import {
   FormRow,
 } from '@/components/form';
 import { useToast } from '@/components/Toast';
-import { useSession } from '@/app/providers/SessionProvider';
+import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { useAlumnus, createAlumnus, updateAlumnus } from '@/features/analytics/data';
 import { MentorAreasField } from '../components/MentorAreasField';
 import { INDUSTRY_OPTIONS } from '../meta';
@@ -31,12 +31,29 @@ export function AlumniFormPage({ mode }: { mode: 'new' | 'edit' }) {
   const navigate = useNavigate();
   const toast = useToast();
   const { schoolId, uid, member } = useSession();
+  const { canOperate } = useOwnership('alumni');
   const { data: existing, loading } = useAlumnus(mode === 'edit' ? schoolId : undefined, mode === 'edit' ? id : undefined);
 
   if (!schoolId) {
     return (
       <div className="nx-page">
         <EmptyState icon="school" title="No school context" />
+      </div>
+    );
+  }
+  // Defense-in-depth: the /alumni/* subtree is gated on `alumni.read`, which the
+  // alumni audience (and read-only reviewers) also hold — so guard the add/edit
+  // form against non-operators reaching it by direct URL. The Alumni Office
+  // operates; everyone else is read-only. Firestore rules remain authoritative.
+  if (!canOperate) {
+    return (
+      <div className="nx-page">
+        <EmptyState
+          icon="lock"
+          title="Read-only access"
+          message="Alumni profiles are maintained by the Alumni Office. You can browse the directory, mentorship board and insights."
+          action={<Button variant="subtle" onClick={() => navigate('/alumni')}>Back to alumni</Button>}
+        />
       </div>
     );
   }

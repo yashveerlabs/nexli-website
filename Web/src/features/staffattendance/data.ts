@@ -1,4 +1,4 @@
-import { getDoc, serverTimestamp, setDoc } from 'firebase/firestore';
+import { getDoc, query, serverTimestamp, setDoc, where } from 'firebase/firestore';
 import { tenantCol, tenantDoc, useCollection, useDocument } from '@/lib/db';
 import { writeAuditEvent } from '@/lib/audit';
 import type {
@@ -243,12 +243,14 @@ export async function saveStaffAttendanceSettings(
 
 /** All staff-attendance records for a given day (hub + manual roster seed). */
 export function useStaffAttendanceForDate(schoolId?: string, date?: string) {
-  // Day docs are keyed by `${staffId}_${date}`, so we filter the small daily set
-  // client-side on the `date` field — avoids needing a composite index on Spark.
+  // Scope the read to the requested day server-side. A single equality filter on
+  // `date` needs only the automatic single-field index — no composite index on
+  // Spark — and keeps this bounded to one day's docs instead of streaming the
+  // whole (ever-growing) collection. Without a date we have nothing to scope to,
+  // so stay idle rather than subscribe to everything.
   const state = useCollection<StaffAttendanceRecord>(
-    schoolId ? tenantCol(schoolId, SUB) : null,
-    [schoolId],
+    schoolId && date ? query(tenantCol(schoolId, SUB), where('date', '==', date)) : null,
+    [schoolId, date],
   );
-  const data = date ? state.data.filter((r) => r.date === date) : state.data;
-  return { ...state, data };
+  return state;
 }

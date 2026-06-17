@@ -5,7 +5,7 @@ import { Tabs } from '@/components/Tabs';
 import { Icon } from '@/components/Icon';
 import { EmptyState, Skeleton } from '@/components/feedback';
 import { useSession } from '@/app/providers/SessionProvider';
-import { useStudents } from '@/features/school/data';
+import { useStudentsByIds } from '@/features/school/data';
 import { useExams } from '@/features/daily/data';
 import type { Student } from '@/types/sis';
 import type { Exam } from '@/types/daily';
@@ -14,7 +14,6 @@ import './examinations.css';
 
 export function MyExaminationsPage() {
   const { schoolId, role, member } = useSession();
-  const { data: students, loading: sLoading } = useStudents(schoolId);
   const { data: exams, loading: eLoading } = useExams(schoolId);
 
   const childIds = useMemo<string[]>(() => {
@@ -22,7 +21,9 @@ export function MyExaminationsPage() {
     return member?.childStudentIds ?? [];
   }, [role, member]);
 
-  const children = useMemo(() => students.filter((s) => childIds.includes(s.id)), [students, childIds]);
+  // Own-record scoping: families can't list the whole students collection (rules
+  // deny it) — fetch only the linked child docs by id.
+  const { data: children, loading: sLoading } = useStudentsByIds(schoolId, childIds);
   const published = useMemo(() => exams.filter((e) => e.published), [exams]);
 
   if (sLoading || eLoading) {

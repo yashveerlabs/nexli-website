@@ -1,11 +1,12 @@
 import { useNavigate } from 'react-router-dom';
-import { InfoCard } from '@/components/feedback';
+import { EmptyState, InfoCard } from '@/components/feedback';
+import { Button } from '@/components/Button';
 import {
   Form, FormInput, FormTextarea, FormSelect, FormRadioGroup, FormToggle,
   FormPage, FormSection, FormRow,
 } from '@/components/form';
 import { useToast } from '@/components/Toast';
-import { useSession } from '@/app/providers/SessionProvider';
+import { useSession, useCan } from '@/app/providers/SessionProvider';
 import { createCircular } from '@/features/daily/data';
 import { useGrades, useSections } from '@/features/school/data';
 import { CIRCULAR_AUDIENCE_OPTIONS, CIRCULAR_CATEGORY_META } from '@/features/daily/meta';
@@ -33,10 +34,29 @@ export function ComposeCircularPage() {
   const navigate = useNavigate();
   const toast = useToast();
   const { schoolId, uid, member } = useSession();
+  const canSend = useCan('announcements.send');
   const { data: grades } = useGrades(schoolId);
   const { data: sections } = useSections(schoolId);
 
   const gradeName = (gid?: string) => grades.find((g) => g.id === gid)?.name;
+
+  // Defense-in-depth: the list page only shows "New circular" to senders, but the
+  // /communication/* subtree itself isn't permission-gated (all staff reach the
+  // inbox/list), so guard direct navigation to compose too. Mirrors CircularList/
+  // CircularDetail's `announcements.send` check; the Firestore rules remain
+  // authoritative on the write.
+  if (!canSend) {
+    return (
+      <div className="nx-page">
+        <EmptyState
+          icon="lock"
+          title="You can’t publish circulars"
+          message="Publishing announcements is limited to staff with the sender permission. You can still read circulars from the Communication list."
+          action={<Button variant="subtle" leftIcon="chevron-left" onClick={() => navigate('/communication')}>Back to circulars</Button>}
+        />
+      </div>
+    );
+  }
 
   return (
     <div className="nx-page">

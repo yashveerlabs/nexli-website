@@ -92,7 +92,7 @@ export const ROLE_CATALOG: RoleDefinition[] = [
   r('academic_coordinator', 'Academic Coordinator', 'academic', {
     students: VCEX, admissions: VCE, attendance: MANAGE, academics: MANAGE, gradebook: V,
     homework: V, exams: MANAGE, hpc: VCE, reports: VX, hr: V, communication: VCE, events: VCE,
-    compliance: V, users: MANAGE, delegation: MANAGE,
+    compliance: V, users: MANAGE, delegation: MANAGE, alumni: VCE,
   }, { level: 'Senior' }),
   r('academic_coordinator_junior', 'Academic Coordinator (Junior)', 'academic', {
     students: VCE, admissions: VCE, attendance: VCEX, academics: VCE, gradebook: V,
@@ -156,7 +156,7 @@ export const ROLE_CATALOG: RoleDefinition[] = [
     admissions: MANAGE, students: VCE, fees: V, communication: VCE, reports: V,
   }),
   r('front_desk', 'Front Desk', 'administration', {
-    visitors: VCE, admissions: VC, students: V, communication: VC,
+    visitors: VCE, admissions: VC, students: V, communication: VC, alumni: VCE,
   }),
   r('office_assistant', 'Office Assistant', 'administration', {
     students: V, visitors: VCE, communication: VC, events: V,
@@ -192,7 +192,7 @@ export const ROLE_CATALOG: RoleDefinition[] = [
   }),
   r('main_receptionist', 'Main Receptionist', 'management', { visitors: VCE, communication: VC, students: V, admissions: VC }),
   r('admissions_receptionist', 'Admissions Receptionist', 'management', { admissions: VCE, visitors: VCE, students: V }),
-  r('pr_executive', 'Public Relations Executive', 'management', { communication: MANAGE, events: VCE, reports: V }),
+  r('pr_executive', 'Public Relations Executive', 'management', { communication: MANAGE, events: VCE, reports: V, alumni: VCE }),
 
   /* --------------------------- hostel & residential --------------------------- */
   r('chief_warden', 'Chief Warden', 'hostel', { hostel: MANAGE, students: V }),
@@ -249,7 +249,11 @@ export const ROLE_CATALOG: RoleDefinition[] = [
     raw: ['grievances.read', 'grievances.write'],
   }),
   r('board_representative', 'School Board Representative', 'welfare', OVERSIGHT),
-  r('dpo', 'Data Protection Officer', 'welfare', { consent: MANAGE, audit: V, compliance: V }),
+  r('dpo', 'Data Protection Officer', 'welfare', { consent: MANAGE, audit: V, compliance: V }, {
+    // DPO handles the grievance/redressal side (rules already grant `grievances`);
+    // grant the matching client keys so the Safeguarding → Grievances tab is reachable.
+    raw: ['grievances.read', 'grievances.write'],
+  }),
   r('consent_officer', 'Consent Officer', 'welfare', { consent: VCE }),
 
   /* -------------------------- security & facilities -------------------------- */

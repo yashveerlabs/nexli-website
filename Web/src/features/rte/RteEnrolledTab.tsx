@@ -21,7 +21,7 @@ const CATEGORY_LABEL: Record<SocialCategory, string> = {
  */
 export function RteEnrolledTab() {
   const { schoolId } = useSession();
-  const { data: students, loading } = useStudents(schoolId);
+  const { data: students, loading, error } = useStudents(schoolId);
 
   const active = useMemo(() => students.filter((s) => s.status === 'active'), [students]);
   const rte = useMemo(() => active.filter((s) => s.rteQuota === true), [active]);
@@ -36,6 +36,13 @@ export function RteEnrolledTab() {
   const pct = active.length ? ((rte.length / active.length) * 100).toFixed(1) : '0';
 
   if (loading) return <Skeleton height={260} />;
+  if (error) {
+    return (
+      <Panel>
+        <EmptyState icon="alert-triangle" title="Could not load student records" message="We could not reach the student records the RTE-quota summary is derived from. Please try again." />
+      </Panel>
+    );
+  }
   if (active.length === 0) {
     return (
       <Panel>

@@ -6,7 +6,7 @@ import { Panel } from '@/components/Panel';
 import { EmptyState, Skeleton } from '@/components/feedback';
 import { useToast } from '@/components/Toast';
 import { useSession } from '@/app/providers/SessionProvider';
-import { useStudents } from '@/features/school/data';
+import { useStudentsByIds } from '@/features/school/data';
 import { upsertSubmission } from '@/features/daily/data';
 import { useAllHomeworkForStudent, useStudentSubmissions } from './data';
 import { HOMEWORK_STATUS_META } from '@/features/daily/meta';
@@ -23,7 +23,6 @@ import './homework.css';
  */
 export function MyHomeworkPage() {
   const { schoolId, role, member } = useSession();
-  const { data: students, loading: sLoading } = useStudents(schoolId);
 
   const isStudent = role === 'student';
 
@@ -32,7 +31,9 @@ export function MyHomeworkPage() {
     return member?.childStudentIds ?? [];
   }, [isStudent, member]);
 
-  const children = useMemo(() => students.filter((s) => childIds.includes(s.id)), [students, childIds]);
+  // Own-record scoping: families can't list the whole students collection (rules
+  // deny it) — fetch only the linked child docs by id.
+  const { data: children, loading: sLoading } = useStudentsByIds(schoolId, childIds);
 
   if (sLoading) {
     return (

@@ -28,18 +28,22 @@ export function RequireSuperAdmin({ children }: { children: ReactNode }) {
 }
 
 /**
- * Combine a permission and/or flag gate (both must pass). When `moduleKey` is the
- * target of an active temporary delegation, the permission gate is waived so a
+ * Combine a permission and/or flag gate (both must pass). `anyPerm` mirrors a nav
+ * item's `anyPermission` (hold ANY of them) for screens that serve several distinct
+ * permissions (e.g. the safeguarding hub: POCSO vs grievances). When `moduleKey` is
+ * the target of an active temporary delegation, the permission gate is waived so a
  * substitute can reach the module they've been asked to cover (the flag gate still
  * applies — a disabled feature stays off regardless of delegation).
  */
 export function Guarded({
   perm,
+  anyPerm,
   flag,
   moduleKey,
   children,
 }: {
   perm?: Permission;
+  anyPerm?: Permission[];
   flag?: FeatureFlagKey;
   moduleKey?: string;
   children: ReactNode;
@@ -47,6 +51,9 @@ export function Guarded({
   const { can, hasFlag, delegatedModules } = useSession();
   if (flag && !hasFlag(flag)) return <ForbiddenScreen />;
   const delegated = !!moduleKey && delegatedModules.includes(moduleKey);
-  if (perm && !can(perm) && !delegated) return <ForbiddenScreen />;
+  if (!delegated) {
+    if (perm && !can(perm)) return <ForbiddenScreen />;
+    if (anyPerm && !anyPerm.some((p) => can(p))) return <ForbiddenScreen />;
+  }
   return <>{children}</>;
 }

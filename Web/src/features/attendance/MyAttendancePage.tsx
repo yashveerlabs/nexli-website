@@ -3,7 +3,7 @@ import { Panel } from '@/components/Panel';
 import { Badge } from '@/components/Badge';
 import { EmptyState, Skeleton } from '@/components/feedback';
 import { useSession } from '@/app/providers/SessionProvider';
-import { useStudents } from '@/features/school/data';
+import { useStudentsByIds } from '@/features/school/data';
 import { useAllAttendance } from '@/features/daily/data';
 import { ATTENDANCE_MIN_PERCENT, ATTENDANCE_STATUS_META } from '@/features/daily/meta';
 import type { AttendanceDay, AttendanceStatus } from '@/types/daily';
@@ -11,15 +11,16 @@ import './attendance.css';
 
 export function MyAttendancePage() {
   const { schoolId, role, member } = useSession();
-  const { data: students, loading: sLoading } = useStudents(schoolId);
-  const { data: days, loading: aLoading } = useAllAttendance(schoolId);
 
   const childIds = useMemo<string[]>(() => {
     if (role === 'student') return member?.studentId ? [member.studentId] : [];
     return member?.childStudentIds ?? [];
   }, [role, member]);
 
-  const children = students.filter((s) => childIds.includes(s.id));
+  // Own-record scoping: fetch ONLY the family's own child record(s) by id — never
+  // the whole students collection (the tightened rules forbid non-staff reading all).
+  const { data: children, loading: sLoading } = useStudentsByIds(schoolId, childIds);
+  const { data: days, loading: aLoading } = useAllAttendance(schoolId);
 
   if (sLoading || aLoading) return <div className="nx-page"><Skeleton height={48} /><Panel><Skeleton height={200} /></Panel></div>;
 

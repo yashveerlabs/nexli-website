@@ -6,7 +6,7 @@ import { Panel } from '@/components/Panel';
 import { EmptyState, Skeleton } from '@/components/feedback';
 import { formatRelative } from '@/lib/format';
 import { useSession } from '@/app/providers/SessionProvider';
-import { useStudents } from '@/features/school/data';
+import { useStudentsByIds } from '@/features/school/data';
 import { useHpcCards } from '@/features/analytics/data';
 import { TERM_LABEL } from './hpcSchema';
 import type { HpcCard } from '@/types/special';
@@ -17,7 +17,6 @@ import './hpc.css';
 export function MyHpcPage() {
   const navigate = useNavigate();
   const { schoolId, role, member } = useSession();
-  const { data: students, loading: sLoading } = useStudents(schoolId);
   const { data: cards, loading: cLoading } = useHpcCards(schoolId);
 
   const childIds = useMemo<string[]>(() => {
@@ -25,7 +24,9 @@ export function MyHpcPage() {
     return member?.childStudentIds ?? [];
   }, [role, member]);
 
-  const children = useMemo(() => students.filter((s) => childIds.includes(s.id)), [students, childIds]);
+  // Own-record scoping: families can't list the whole students collection (rules
+  // deny it) — fetch only the linked child docs by id.
+  const { data: children, loading: sLoading } = useStudentsByIds(schoolId, childIds);
 
   const published = useMemo(
     () =>

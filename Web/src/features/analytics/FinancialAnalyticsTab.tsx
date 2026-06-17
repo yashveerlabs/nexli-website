@@ -12,8 +12,8 @@ const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', '
 
 export function FinancialAnalyticsTab() {
   const { schoolId } = useSession();
-  const { data: invoices, loading: iLoading } = useInvoices(schoolId);
-  const { data: payments, loading: pLoading } = usePayments(schoolId);
+  const { data: invoices, loading: iLoading, error: iError } = useInvoices(schoolId);
+  const { data: payments, loading: pLoading, error: pError } = usePayments(schoolId);
 
   const a = useMemo(() => {
     let billed = 0, collected = 0, outstanding = 0;
@@ -56,6 +56,10 @@ export function FinancialAnalyticsTab() {
   }, [invoices, payments]);
 
   if (iLoading || pLoading) return <Skeleton height={320} />;
+
+  if (iError || pError) {
+    return <Panel><EmptyState icon="alert-triangle" title="Could not load finance data" message="We could not reach the fee records. Please try again." /></Panel>;
+  }
 
   if (invoices.length === 0 && payments.length === 0) {
     return <Panel><EmptyState icon="credit-card" title="No finance data yet" message="Fee analytics appear once invoices are raised and payments recorded." /></Panel>;

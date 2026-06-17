@@ -145,13 +145,18 @@ export function ReportCardFormPage() {
   };
 
   const save = async () => {
-    const present = attPresent.trim() === '' ? null : Number(attPresent);
-    const total = attTotal.trim() === '' ? null : Number(attTotal);
+    const num = (s: string): number | null => {
+      if (s.trim() === '') return null;
+      const n = Number(s);
+      return Number.isFinite(n) ? n : null;
+    };
+    const present = num(attPresent);
+    const total = num(attTotal);
     const pct = present != null && total != null && total > 0 ? Math.round((present / total) * 100) : 0;
     const attendance =
       present != null && total != null && total > 0 ? { present, total, pct } : undefined;
-    const h = heightCm.trim() === '' ? undefined : Number(heightCm);
-    const w = weightKg.trim() === '' ? undefined : Number(weightKg);
+    const h = num(heightCm) ?? undefined;
+    const w = num(weightKg) ?? undefined;
     const health = h != null || w != null ? { heightCm: h, weightKg: w } : undefined;
 
     const patch: Partial<ReportCard> = {

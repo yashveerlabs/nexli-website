@@ -42,17 +42,26 @@ export function StudentEventsPage() {
   const [cancelling, setCancelling] = useState<{ event: SchoolEvent; reg: EventRegistration } | null>(null);
 
   const today = startOfToday();
+  const myGradeId = student?.gradeId;
 
-  // Published, registration-required, upcoming (non-cancelled) events only.
+  // Published, registration-required, upcoming (non-cancelled) events the student
+  // is actually an audience for. Without an audience check a student would see —
+  // and could self-register for — staff/parents/invitees-only or other-grade
+  // events. Students see whole-school, students-wide, and their own grade only.
   const openEvents = useMemo(
     () =>
       sortByStart(
-        events.filter(
-          (e) => isPublished(e) && e.registrationRequired && e.status !== 'cancelled' && e.startDate >= today,
-        ),
+        events.filter((e) => {
+          if (!isPublished(e) || !e.registrationRequired || e.status === 'cancelled' || e.startDate < today) {
+            return false;
+          }
+          if (e.audience === 'whole_school' || e.audience === 'students') return true;
+          if (e.audience === 'grade') return !!myGradeId && e.gradeId === myGradeId;
+          return false; // 'staff' | 'parents' | 'invitees' are not student-self-serve
+        }),
         'asc',
       ),
-    [events, today],
+    [events, today, myGradeId],
   );
 
   // This student's own registrations, keyed by event for O(1) lookup.

@@ -15,7 +15,15 @@ import type { Vehicle, VehicleStatus, VehicleType } from '@/types/ops';
 import { vehicleDocs, worstDocLevel, type DocExpiryLevel } from './docExpiry';
 
 const isoToTs = (v: string) => (v ? new Date(`${v}T00:00:00`).getTime() : undefined);
-const tsToIso = (t?: number) => (t ? new Date(t).toISOString().slice(0, 10) : '');
+// Format using LOCAL date parts (mirrors isoToTs's local-midnight parse). Using
+// toISOString() here would shift the date a day earlier in IST (UTC+5:30) on the
+// edit round-trip, silently moving stored doc-expiry dates back by one day.
+const tsToIso = (t?: number) => {
+  if (!t) return '';
+  const d = new Date(t);
+  const pad = (n: number) => String(n).padStart(2, '0');
+  return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
+};
 
 interface Draft {
   regNo: string; type: VehicleType; model: string; capacity: string;

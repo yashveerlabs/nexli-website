@@ -5,7 +5,7 @@ import { Sheet } from '@/components/Sheet';
 import { EmptyState, Skeleton } from '@/components/feedback';
 import { useSession } from '@/app/providers/SessionProvider';
 import { useCirculars } from '@/features/daily/data';
-import { useStudents, useGrades, useSections } from '@/features/school/data';
+import { useStudentsByIds, useGrades, useSections } from '@/features/school/data';
 import { CIRCULAR_CATEGORY_META } from '@/features/daily/meta';
 import { formatDate, formatRelative } from '@/lib/format';
 import type { Circular, CircularAudience } from '@/types/daily';
@@ -16,22 +16,27 @@ import { audienceSummary, sortCirculars } from './util';
 export function InboxPage() {
   const { schoolId, role, member } = useSession();
   const { data: circulars, loading: cLoading } = useCirculars(schoolId);
-  const { data: students, loading: sLoading } = useStudents(schoolId);
+  const isStudent = role === 'student';
+  // Own-record scoping: a parent/student may NOT list the whole students
+  // collection under the tightened rules (and shouldn't — it's an unbounded
+  // read). Fetch only their own linked student record(s) by id to resolve the
+  // grade/section that grade- and section-targeted circulars are matched against.
+  const ownStudentIds = useMemo(
+    () => (isStudent ? (member?.studentId ? [member.studentId] : []) : (member?.childStudentIds ?? [])),
+    [isStudent, member],
+  );
+  const { data: students, loading: sLoading } = useStudentsByIds(schoolId, ownStudentIds);
   const { data: grades } = useGrades(schoolId);
   const { data: sections } = useSections(schoolId);
   const [open, setOpen] = useState<Circular | null>(null);
 
-  const isStudent = role === 'student';
-
-  // Resolve which grades/sections this user belongs to.
+  // Resolve which grades/sections this user belongs to (their own records only).
   const { gradeIds, sectionIds } = useMemo(() => {
-    const ids = isStudent ? (member?.studentId ? [member.studentId] : []) : (member?.childStudentIds ?? []);
-    const mine = students.filter((s) => ids.includes(s.id));
     return {
-      gradeIds: new Set(mine.map((s) => s.gradeId).filter(Boolean) as string[]),
-      sectionIds: new Set(mine.map((s) => s.sectionId).filter(Boolean) as string[]),
+      gradeIds: new Set(students.map((s) => s.gradeId).filter(Boolean) as string[]),
+      sectionIds: new Set(students.map((s) => s.sectionId).filter(Boolean) as string[]),
     };
-  }, [students, member, isStudent]);
+  }, [students]);
 
   const visible = useMemo(() => {
     const baseAudiences: CircularAudience[] = isStudent

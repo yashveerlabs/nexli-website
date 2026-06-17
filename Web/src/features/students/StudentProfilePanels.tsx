@@ -68,7 +68,8 @@ export function StudentFeesPanel({ schoolId, studentId }: { schoolId: string; st
     for (const i of mine) {
       billed += i.netAmount ?? 0;
       paid += i.paidAmount ?? 0;
-      due += i.dueAmount ?? 0;
+      // Canonical due = net − paid (don't trust a possibly-stale stored dueAmount).
+      due += Math.max(0, (i.netAmount ?? 0) - (i.paidAmount ?? 0));
     }
     return { billed, paid, due };
   }, [mine]);

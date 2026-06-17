@@ -135,7 +135,10 @@ export function StaffDashboard() {
     let outstanding = 0, billed = 0;
     for (const inv of invoices) {
       if (inv.status === 'cancelled') continue;
-      outstanding += inv.dueAmount ?? 0;
+      // Recompute from net − paid (canonical) rather than trusting a stored
+      // `dueAmount`, which can be missing/stale on seed/legacy invoices and made
+      // this dashboard read ₹0 while other screens showed the real outstanding.
+      outstanding += Math.max(0, (inv.netAmount ?? 0) - (inv.paidAmount ?? 0));
       billed += inv.netAmount ?? 0;
     }
     const collectedOfBilled = billed > 0 ? Math.max(0, billed - outstanding) : collectedTotal;
