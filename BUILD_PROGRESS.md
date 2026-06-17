@@ -91,6 +91,21 @@ cashless wallet (gateway), e-sign (legal), AI at-risk (AI key — scoring logic 
 - 2026-06-17 — Launched 4 parallel build agents (in flight): Report Card (`features/reportcard`), Gamified Dashboard (`features/gamification`), Skills Passport (`features/portfolio`), Career-Counselling (`features/career`). Each builds only its own feature folder; parent integrates nav/registry/roles/rules + gates + verification + commit per module as they land.
 - 2026-06-17 — All 4 build agents complete. Integrated all four (nav + registry for staff/parent/student as relevant), locked their collections in rules, fixed integration issues (career student query scoped to own; portfolio staff verify-gate → `students.write`). Full build green; strict typecheck clean; emulator rules tests **119/0**. Committed `cd0ee28`.
 - 2026-06-17 — 4 verification subagents reviewed the modules; fixes applied + committed `b57bb93`: 2 BLOCKERs (skills-passport index-requiring query → client-side sort; report-card grade-band gap → highest-band-by-minPct), + skills print school name, gamification `leave` freezes streak, report-card permission-matrix row. Career verified clean. Build green; rules tests **119/0**.
+- 2026-06-18 — Full-codebase review + rules hardening pass (effort: max):
+  - **STEP 1** — 12 parallel Opus subagents reviewed all of `Web/` line-by-line. Fixes (commit `6e56865`):
+    route guard now enforces `anyPermission` (POCSO sub-routes no longer reachable by direct URL); family
+    portal pages (attendance/homework/exams/HPC + comms inbox) fetch own children via `useStudentsByIds`
+    (whole-`students` reads were denied by rules → blank pages); dashboard + student-profile outstanding
+    dues recomputed as `net − paid` (root cause of the ₹0-vs-₹1.46L discrepancy); report-card NaN guard;
+    transport IST date round-trip; staff-attendance unbounded read scoped; student event-audience filter;
+    alumni-office + DPO permission grants; analytics/RTE surface read errors.
+  - **STEP 2** — 3 Opus verifiers re-traced the 6 newest modules end-to-end (commit `144aae2`): all work;
+    fix = report-card print no longer prints "Result: Fail" on an unmarked card.
+  - **STEP 3** — two-pass rules review (subagent + self) → access reconciled for the 9 new collections
+    (commit `c5369a2`): certificate **issuer allowlist** (unlocks HOD/VP-Admin/registrar/office, excludes
+    operational staff); question papers → exam-staff-only; career → counselling-staff-only; report-card
+    client write unblocks Exam Controller/Coordinators; `consent_purposes` locked. Emulator tests 119 → **145/0**.
+  - **STEP 4** — rules **DEPLOYED** via Admin SDK → live ruleset `fa68c528-7134-4bbc-9776-5e4ebf30e21d`. Build green.
 
 ### Buildable Track-2 wave — ✅ COMPLETE
 All buildable modules the user listed are built, integrated, gated (build + strict typecheck + rules tests 119/0), verified, and committed: counselling (T1), rankings (marks + attendance), certificate generator, question paper generator, report card (traditional marks), gamified dashboard, skills passport, career-counselling. Remaining Track-2 items are the **blocked** integrations (plans + offline shells only — no faked connections): APAAR/ABC/DigiLocker, UPI AutoPay/eNACH, secure online exam (proctoring), IoT campus safety, WhatsApp Business API, SSO/Open API, cashless wallet, e-sign, AI at-risk (scoring logic buildable; model blocked).
@@ -101,14 +116,26 @@ All buildable modules the user listed are built, integrated, gated (build + stri
 - Skills passport: staff "record-on-behalf (pre-verified)" create path not yet built.
 - Career: save-and-resume + aptitude timer + career-library + PDF + class-eligibility gate are later-phase items.
 
-### ⚠️ Rules: locked-in-file but NOT yet deployed (pending next deploy)
-The live deployed ruleset is `d9250142` (Phase-A + certificates). These newer collections are locked in
-`firestore.rules` and pass the local emulator tests, but were **not deployed** this session (per instruction
-to deploy only the certificates fix). Deploy them (Admin SDK, same as before) before real-school use:
-- `questionBank`, `questionPapers`, `paperBlueprints` (academic-staff only)
-- `reportCards` (academic staff; families read own PUBLISHED only), `reportCardSchemes` (academic staff)
-- `portfolio` (student owns own; staff verify; no self-verify), `careerAssessments` (student owns own; staff review)
-- _(gamification persists nothing — computes live from existing member-readable collections)_
+### ✅ Rules: DEPLOYED (2026-06-18) — live ruleset `fa68c528-7134-4bbc-9776-5e4ebf30e21d`
+All new-collection rules are now LIVE (deployed via Admin SDK, no CLI login), superseding `d9250142`.
+Emulator tests **145/0** on this exact ruleset. Live coverage:
+- `certificates` + `certificate_counters` → **issuer allowlist** (`isCertificateIssuer`: leadership +
+  academic/admin leadership + registrar/admissions/office/dean/HOD/coordinators). NOT teachers/operational.
+- `questionBank`/`questionPapers`/`paperBlueprints` → **exam staff only** (`isExamStaff`, tighter than academic).
+- `reportCards` (academic staff; families read own PUBLISHED only), `reportCardSchemes` (academic staff).
+- `portfolio` (student owns own; staff verify; no self-verify), `careerAssessments` (student owns own;
+  **counselling staff** read/review only).
+- `consent_purposes` (active member reads; consent staff writes) — closed a default-rule gap.
+- _(gamification persists nothing — computes live from existing member-readable collections.)_
 
-To deploy them all in one go (Admin SDK, same safe method, no CLI login):
+Re-deploy command (Admin SDK, no CLI login):
 `cd Web && GOOGLE_APPLICATION_CREDENTIALS=serviceAccount.json node scripts/deploy-rules.mjs`
+
+### Known follow-ups (documented, not blockers)
+- Class-teacher SECTION scoping: in the live UI, `StructureTab` stores `classTeacherUid` as a `staff`-profile
+  doc id, but `useScopedSectionIds` compares against the auth `uid`; they differ unless seeded equal (the demo
+  seeds `member.sectionIds`, so the demo class teacher is correctly scoped). Needs a staff↔member identity
+  decision before relying on the class-teacher → section inference. (Surfaced by STEP-1 review.)
+- portfolio rule stays `isStaff` for verify/read (tightening risked a new mismatch lockout; the critical
+  no-self-verify is enforced). `reportCardSchemes` write stays `isAcademicStaff` (minor lab-assistant over-grant).
+- `useEscapeKey` closes all stacked overlays (rare; a correct fix needs an overlay-stack manager).
