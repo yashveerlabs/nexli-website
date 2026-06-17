@@ -56,6 +56,7 @@ export const STAFF_NAV: NavItem[] = [
   { id: 'gradebook', label: 'Class Assessments', icon: 'edit', path: '/gradebook', permission: 'gradebook.read' },
   { id: 'homework', label: 'Homework', icon: 'clipboard', path: '/homework', permission: 'homework.read' },
   { id: 'examinations', label: 'Examinations', icon: 'file-text', path: '/examinations', permission: 'exams.read' },
+  { id: 'qpaper', label: 'Question Papers', icon: 'file-text', path: '/question-papers', permission: 'exams.read' },
   { id: 'hpc', label: 'Holistic Progress Card', icon: 'trophy', path: '/hpc', permission: 'gradebook.read' },
   { id: 'library', label: 'Library', icon: 'book', path: '/library', permission: 'library.read', flag: 'library' },
   { id: 'fees', label: 'Fees & Finance', icon: 'credit-card', path: '/fees', permission: 'fees.read' },

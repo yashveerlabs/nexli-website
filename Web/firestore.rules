@@ -176,7 +176,8 @@ service cloud.firestore {
         'students', 'staff', 'consent_records',
         'iep_plans', 'therapy_logs',
         'attendance_days', 'assessment_results', 'exam_results', 'hpc_cards',
-        'certificates', 'certificate_counters'
+        'certificates', 'certificate_counters',
+        'questionBank', 'questionPapers', 'paperBlueprints'
       ];
     }
 
@@ -346,6 +347,17 @@ service cloud.firestore {
       }
       match /certificate_counters/{docId} {
         allow read, write: if isSuperAdmin() || isStaff(schoolId);
+      }
+
+      // ----- QUESTION PAPERS: academic staff only (papers must NEVER reach students) -----
+      match /questionBank/{docId} {
+        allow read, write: if isSuperAdmin() || isAcademicStaff(schoolId);
+      }
+      match /questionPapers/{docId} {
+        allow read, write: if isSuperAdmin() || isAcademicStaff(schoolId);
+      }
+      match /paperBlueprints/{docId} {
+        allow read, write: if isSuperAdmin() || isAcademicStaff(schoolId);
       }
 
       // ----- CONSENT (DPDP): consent/data-protection staff + leadership -----

@@ -20,6 +20,7 @@ export const APP_MODULES: AppModule[] = [
   { key: 'gradebook', label: 'Class assessments', legacy: 'gradebook' },
   { key: 'homework', label: 'Homework', legacy: 'homework' },
   { key: 'exams', label: 'Examinations', legacy: 'exams' },
+  { key: 'qpaper', label: 'Question papers', legacy: 'exams' },
   { key: 'hpc', label: 'Progress cards (HPC)', legacy: 'gradebook' },
   { key: 'library', label: 'Library', legacy: 'library' },
   { key: 'fees', label: 'Fees & finance', legacy: 'fees' },

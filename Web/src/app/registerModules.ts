@@ -71,6 +71,7 @@ export function registerAllModules(): void {
   registerModule('student', 'assignments', lazy(() => import('@/features/homework/routes').then((m) => ({ default: m.MyHomeworkRoutes }))));
 
   registerModule('staff', 'examinations', lazy(() => import('@/features/examinations/routes')));
+  registerModule('staff', 'qpaper', lazy(() => import('@/features/qpaper/routes')));
   registerModule('parent', 'examinations', lazy(() => import('@/features/examinations/routes').then((m) => ({ default: m.MyExaminationsRoutes }))));
   registerModule('student', 'examinations', lazy(() => import('@/features/examinations/routes').then((m) => ({ default: m.MyExaminationsRoutes }))));
 
