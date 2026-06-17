@@ -1,0 +1,173 @@
+/* ============================================================================
+ * Traditional marks Report Card — module-only styles.
+ * Mirrors the HPC `hpc.css` print model (`.rc-print`/`.rc-noprint`) so the
+ * printable document and batch print behave identically.
+ * ==========================================================================*/
+
+/* ---- Printable card document ---- */
+.rc-doc {
+  background: var(--card); border: 1px solid var(--hairline); border-radius: var(--radius-md);
+  padding: clamp(16px, 4vw, 28px); max-width: 880px; margin-inline: auto;
+}
+.rc-doc__head {
+  display: flex; justify-content: space-between; gap: 16px; align-items: flex-start;
+  border-bottom: 1px solid var(--hairline); padding-bottom: 16px; margin-bottom: 18px; flex-wrap: wrap;
+}
+.rc-doc__brand { min-width: 0; }
+.rc-doc__kicker {
+  font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--gold); font-weight: 600; margin-bottom: 4px;
+}
+.rc-doc__school { font-size: 18px; font-weight: 700; line-height: 1.2; }
+.rc-doc__meta { font-size: 12.5px; color: var(--text-muted); }
+.rc-doc__student { text-align: right; }
+.rc-doc__name { font-size: 16px; font-weight: 700; }
+
+.rc-doc__section { margin-top: 22px; }
+.rc-doc__section-title {
+  font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em;
+  color: var(--text-muted); font-weight: 600; margin-bottom: 10px;
+}
+
+/* subject + co-scholastic tables */
+.rc-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.rc-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.rc-table th {
+  text-align: left; font-weight: 600; font-size: 11px; text-transform: uppercase;
+  letter-spacing: 0.04em; color: var(--text-muted); padding: 6px 8px; border-bottom: 1px solid var(--hairline);
+}
+.rc-table td { padding: 8px; border-bottom: 1px solid var(--hairline); vertical-align: middle; }
+.rc-table tr:last-child td { border-bottom: none; }
+.rc-table__num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.rc-table__grade { font-weight: 700; white-space: nowrap; }
+.rc-table tfoot td { font-weight: 700; border-top: 2px solid var(--hairline); }
+
+/* summary stat strip */
+.rc-summary { display: flex; flex-wrap: wrap; gap: 14px; }
+.rc-stat {
+  flex: 1 1 130px; border: 1px solid var(--hairline); border-radius: var(--radius-md);
+  padding: 12px 14px; background: var(--card);
+}
+.rc-stat__label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted); }
+.rc-stat__value { font-size: 20px; font-weight: 700; font-variant-numeric: tabular-nums; margin-top: 2px; }
+
+/* grade legend */
+.rc-legend { display: flex; flex-wrap: wrap; gap: 8px 14px; font-size: 12px; color: var(--text-muted); }
+.rc-legend__item b { color: var(--text); }
+
+/* remark prose */
+.rc-remark { font-size: 13.5px; line-height: 1.55; white-space: pre-wrap; word-break: break-word; }
+.rc-remarks { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+@media (max-width: 640px) { .rc-remarks { grid-template-columns: 1fr; } }
+.rc-remark-card { border: 1px solid var(--hairline); border-radius: var(--radius-md); padding: 14px; background: var(--card); }
+.rc-remark-card__label {
+  display: flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 600;
+  color: var(--text-muted); margin-bottom: 6px;
+}
+
+.rc-doc__sign {
+  margin-top: 30px; display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap;
+  font-size: 12px; color: var(--text-muted);
+}
+.rc-doc__sign-line { border-top: 1px solid var(--hairline); padding-top: 6px; min-width: 140px; text-align: center; }
+
+.rc-doc__approval {
+  display: inline-flex; align-items: center; gap: 7px; margin-top: 22px; padding: 7px 12px;
+  border: 1px solid var(--gold); border-radius: 999px; color: var(--gold);
+  font-size: 12.5px; font-weight: 600;
+}
+
+/* ---- Hub list rows (shared visual language with hpc) ---- */
+.rc-row {
+  display: flex; align-items: center; gap: 12px; padding: 12px 14px; text-align: left; width: 100%;
+  border: 1px solid var(--hairline); border-radius: var(--radius-md); background: var(--card);
+  color: inherit; cursor: pointer; transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+.rc-row:hover { border-color: var(--gold); }
+.rc-row:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+.rc-row__main { min-width: 0; flex: 1; }
+.rc-row__name { font-weight: 600; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.rc-row__meta { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+.rc-row__list { display: flex; flex-direction: column; gap: 8px; }
+.rc-row__rowactions { display: flex; gap: 4px; }
+
+.rc-filters { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.rc-filters .nx-input-wrap { min-width: 150px; flex: 1 1 150px; }
+@media (max-width: 480px) { .rc-filters .nx-input-wrap { flex-basis: 100%; } }
+.rc-head-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+
+/* status tabs */
+.rc-tabs {
+  display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px;
+  border-bottom: 1px solid var(--hairline); padding-bottom: 12px;
+}
+.rc-tab {
+  display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px;
+  border: 1px solid var(--hairline); border-radius: 999px; background: transparent;
+  color: var(--text-muted); font-size: 13px; font-weight: 600; cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+.rc-tab:hover { border-color: var(--gold); color: var(--text); }
+.rc-tab:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+.rc-tab.is-on { background: var(--gold); border-color: var(--gold); color: #1a1206; }
+.rc-tab__count {
+  display: inline-flex; align-items: center; justify-content: center; min-width: 18px; height: 18px;
+  padding: 0 5px; border-radius: 999px; font-size: 11px; font-weight: 700;
+  background: color-mix(in srgb, currentColor 16%, transparent);
+}
+
+/* card view action bar + status strip */
+.rc-cardbar { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.rc-cardbar__actions { display: flex; align-items: center; gap: 8px; margin-left: auto; flex-wrap: wrap; }
+.rc-status-strip {
+  display: flex; align-items: flex-start; gap: 8px; margin-bottom: 14px; padding: 10px 14px;
+  border: 1px solid var(--hairline); border-radius: var(--radius-md); background: var(--card);
+  font-size: 13px; color: var(--text-muted); line-height: 1.5;
+}
+.rc-status-strip b { color: var(--text); font-weight: 600; }
+.rc-status-strip > svg { flex: none; margin-top: 2px; color: var(--gold); }
+
+/* generate / scheme grids */
+.rc-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+@media (max-width: 560px) { .rc-grid { grid-template-columns: 1fr; } }
+.rc-note {
+  display: flex; align-items: flex-start; gap: 6px; margin: 12px 0; font-size: 12.5px;
+  color: var(--text-muted); line-height: 1.5;
+}
+.rc-note > svg { flex: none; margin-top: 2px; }
+
+/* editor component grid */
+.rc-subject-block { border: 1px solid var(--hairline); border-radius: var(--radius-md); padding: 14px; margin-bottom: 12px; background: var(--card); }
+.rc-subject-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
+.rc-subject-name { font-weight: 700; font-size: 14px; }
+.rc-subject-totals { font-size: 12.5px; color: var(--text-muted); display: flex; gap: 12px; flex-wrap: wrap; }
+.rc-comp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 10px; }
+.rc-comp label { display: block; font-size: 11.5px; color: var(--text-muted); margin-bottom: 4px; }
+.rc-comp small { color: var(--text-muted); }
+
+/* batch print */
+.rc-batch { display: flex; flex-direction: column; gap: 16px; }
+.rc-batch__page { break-inside: avoid; }
+.rc-batch__count { font-size: 13px; color: var(--text-muted); margin-right: 4px; }
+
+/* preview table for the generate flow */
+.rc-preview-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.rc-preview-table th { text-align: left; font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em; color: var(--text-muted); padding: 6px 8px; border-bottom: 1px solid var(--hairline); }
+.rc-preview-table td { padding: 8px; border-bottom: 1px solid var(--hairline); }
+
+/* ---- Print: only the card document(s) ---- */
+@media print {
+  body * { visibility: hidden; }
+  .rc-print, .rc-print * { visibility: visible; }
+  .rc-print { position: absolute; inset: 0 0 auto 0; margin: 0; border: none; max-width: none; background: #fff; color: #000; }
+  .rc-print .rc-doc { border: none; max-width: none; }
+  .rc-print .rc-doc__school, .rc-print .rc-doc__name { color: #000; }
+  .rc-batch { display: block; gap: 0; }
+  .rc-batch__page { break-after: page; page-break-after: always; }
+  .rc-batch__page:last-child { break-after: auto; page-break-after: auto; }
+  .rc-noprint { display: none !important; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rc-row { transition: none; }
+}

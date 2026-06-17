@@ -59,6 +59,11 @@ Plans live in `docs/feature-plans/<module>/` (see that folder's `README.md` for 
 | Counselling workspace (`features/counseling`) | ✅ Built (Track 1) |
 | Rankings — marks engine + attendance engine (`features/rankings`) | ✅ Built |
 | Certificate Generator (`features/certificates`) | ✅ Built |
+| Question Paper Generator (`features/qpaper`) | ✅ Built |
+| Report Card — traditional marks card (`features/reportcard`) | ✅ Built |
+| Gamified student dashboard (`features/gamification`) | ✅ Built |
+| Skills Passport / e-portfolio (`features/portfolio`) | ✅ Built |
+| Career-Counselling & aptitude (`features/career`) | ✅ Built |
 
 - Rankings: separate marks (normalised exam %) + attendance engines, school/grade/section scopes, paginated lists, tie-breaks, medals, staff-only, honest empty states. Nav `Rankings` gated by `exams.read`.
 - Certificates: issue Bonafide/Character/Conduct/Leaving/Transfer, auto-filled from student record, atomic serial numbers, issuance register + re-print, offline print-ready HTML. Nav `Certificates` gated by `students.write`.
@@ -81,3 +86,19 @@ cashless wallet (gateway), e-sign (legal), AI at-risk (AI key — scoring logic 
 - 2026-06-17 — Git checkpoint `d68c887`; task list + this progress file created. Beginning Track 1 investigation.
 - 2026-06-17 — Track 1 COMPLETE → commit `7869958` (build green; emulator rules tests 96/0).
 - 2026-06-17 — Track 2 started: plans folder + 4 planning subagents launched; built Rankings module (marks + attendance).
+- 2026-06-17 — Certificates collection locked in rules (staff-only) + tests 100/0 + **deployed** (ruleset `d9250142`).
+- 2026-06-17 — Built Question Paper Generator (`features/qpaper`, commit `417cf68`); rules tests 105/0; verification subagent run + fixes applied.
+- 2026-06-17 — Launched 4 parallel build agents (in flight): Report Card (`features/reportcard`), Gamified Dashboard (`features/gamification`), Skills Passport (`features/portfolio`), Career-Counselling (`features/career`). Each builds only its own feature folder; parent integrates nav/registry/roles/rules + gates + verification + commit per module as they land.
+- 2026-06-17 — All 4 build agents complete. Integrated all four (nav + registry for staff/parent/student as relevant), locked their collections in rules, fixed integration issues (career student query scoped to own; portfolio staff verify-gate → `students.write`). Full build green; strict typecheck clean; emulator rules tests **119/0**. Verification subagents next.
+
+### ⚠️ Rules: locked-in-file but NOT yet deployed (pending next deploy)
+The live deployed ruleset is `d9250142` (Phase-A + certificates). These newer collections are locked in
+`firestore.rules` and pass the local emulator tests, but were **not deployed** this session (per instruction
+to deploy only the certificates fix). Deploy them (Admin SDK, same as before) before real-school use:
+- `questionBank`, `questionPapers`, `paperBlueprints` (academic-staff only)
+- `reportCards` (academic staff; families read own PUBLISHED only), `reportCardSchemes` (academic staff)
+- `portfolio` (student owns own; staff verify; no self-verify), `careerAssessments` (student owns own; staff review)
+- _(gamification persists nothing — computes live from existing member-readable collections)_
+
+To deploy them all in one go (Admin SDK, same safe method, no CLI login):
+`cd Web && GOOGLE_APPLICATION_CREDENTIALS=serviceAccount.json node scripts/deploy-rules.mjs`

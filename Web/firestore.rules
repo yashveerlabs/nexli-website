@@ -177,7 +177,8 @@ service cloud.firestore {
         'iep_plans', 'therapy_logs',
         'attendance_days', 'assessment_results', 'exam_results', 'hpc_cards',
         'certificates', 'certificate_counters',
-        'questionBank', 'questionPapers', 'paperBlueprints'
+        'questionBank', 'questionPapers', 'paperBlueprints',
+        'reportCards', 'reportCardSchemes', 'portfolio', 'careerAssessments'
       ];
     }
 
@@ -358,6 +359,35 @@ service cloud.firestore {
       }
       match /paperBlueprints/{docId} {
         allow read, write: if isSuperAdmin() || isAcademicStaff(schoolId);
+      }
+
+      // ----- REPORT CARDS: academic staff write; families read OWN PUBLISHED only -----
+      match /reportCards/{docId} {
+        allow read: if isSuperAdmin() || isAcademicStaff(schoolId)
+          || (ownsStudentId(schoolId, resource.data.studentId) && resource.data.published == true);
+        allow write: if isSuperAdmin() || isAcademicStaff(schoolId);
+      }
+      match /reportCardSchemes/{docId} {
+        allow read, write: if isSuperAdmin() || isAcademicStaff(schoolId);
+      }
+
+      // ----- SKILLS PASSPORT (portfolio): student owns own; staff verify; no self-verify -----
+      match /portfolio/{docId} {
+        allow read: if isSuperAdmin() || isStaff(schoolId) || ownsStudentId(schoolId, resource.data.studentId);
+        allow create: if isSuperAdmin() || isStaff(schoolId)
+          || (ownsStudentId(schoolId, request.resource.data.studentId) && request.resource.data.status != 'verified');
+        allow update: if isSuperAdmin() || isStaff(schoolId)
+          || (ownsStudentId(schoolId, resource.data.studentId)
+              && request.resource.data.studentId == resource.data.studentId
+              && request.resource.data.status != 'verified');
+        allow delete: if isSuperAdmin() || isStaff(schoolId) || ownsStudentId(schoolId, resource.data.studentId);
+      }
+
+      // ----- CAREER ASSESSMENTS: student creates/reads OWN; counsellor/staff read cohort + review -----
+      match /careerAssessments/{docId} {
+        allow read: if isSuperAdmin() || isStaff(schoolId) || ownsStudentId(schoolId, resource.data.studentId);
+        allow create: if isSuperAdmin() || isStaff(schoolId) || ownsStudentId(schoolId, request.resource.data.studentId);
+        allow update: if isSuperAdmin() || isStaff(schoolId);
       }
 
       // ----- CONSENT (DPDP): consent/data-protection staff + leadership -----

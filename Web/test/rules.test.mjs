@@ -110,6 +110,10 @@ await testEnv.withSecurityRulesDisabled(async (ctx) => {
   await set('certificate_counters', 'bonafide', { value: 1 });
   await set('questionPapers', 'qp1', { title: 'Term 1 Maths', subjectId: 'sub-math' });
   await set('questionBank', 'qb1', { stem: 'What is 2+2?', subjectId: 'sub-math', marks: 1 });
+  await set('reportCards', 'rc_pub', { studentId: 'stu1', published: true, term: 'term1' });
+  await set('reportCards', 'rc_draft', { studentId: 'stu1', published: false, term: 'term2' });
+  await set('portfolio', 'pf1', { studentId: 'stu1', title: 'Science fair', status: 'submitted' });
+  await set('careerAssessments', 'ca1', { studentId: 'stu1', status: 'completed' });
 });
 
 // contexts
@@ -164,6 +168,10 @@ await no('anon read circular', readDoc(unauth, 'circulars', 'c1'));
   await ok('class_teacher write certificate (staff)', writeDoc(db, ['certificates', 'crt9'], { studentId: 'stu1', serialNo: 'BON-2026-0009', type: 'bonafide' }));
   await ok('class_teacher read question paper (academic)', readDoc(db, 'questionPapers', 'qp1'));
   await ok('class_teacher write question (academic)', writeDoc(db, ['questionBank', 'qb9'], { stem: 'x?', subjectId: 'sub-math', marks: 1 }));
+  await ok('class_teacher read report card (academic)', readDoc(db, 'reportCards', 'rc_pub'));
+  await ok('class_teacher read portfolio (staff)', readDoc(db, 'portfolio', 'pf1'));
+  await ok('class_teacher verify portfolio (staff)', writeDoc(db, ['portfolio', 'pf1'], { studentId: 'stu1', title: 'Science fair', status: 'verified' }));
+  await ok('class_teacher read career attempt (staff)', readDoc(db, 'careerAssessments', 'ca1'));
   await ok('class_teacher read attendance', readDoc(db, 'attendance_days', 'ad1'));
   await no('class_teacher read payroll', readDoc(db, 'payroll_runs', 'r1'));
   await no('class_teacher read salary', readDoc(db, 'salary_structures', 'stf1'));
@@ -194,6 +202,7 @@ await no('anon read circular', readDoc(unauth, 'circulars', 'c1'));
   await no('bus_driver read payroll', readDoc(db, 'payroll_runs', 'r1'));
   await no('bus_driver read pocso', readDoc(db, 'pocso', 'pc1'));
   await no('bus_driver read question paper (non-academic staff)', readDoc(db, 'questionPapers', 'qp1'));
+  await no('bus_driver read report card (non-academic staff)', readDoc(db, 'reportCards', 'rc_pub'));
 }
 
 // --- Accounts clerk (fees staff): fees yes, payroll no ---
@@ -301,6 +310,10 @@ await no('anon read circular', readDoc(unauth, 'circulars', 'c1'));
   await no('parentP1 read staff PII', readDoc(db, 'staff', 'stf1'));
   await no('parentP1 read certificates', readDoc(db, 'certificates', 'crt1'));
   await no('parentP1 read question paper', readDoc(db, 'questionPapers', 'qp1'));
+  await ok('parentP1 read own PUBLISHED report card (scoped)', getDocs(query(collection(db, 'schools', S1, 'reportCards'), where('studentId', '==', 'stu1'), where('published', '==', true))));
+  await no('parentP1 read unpublished report card', readDoc(db, 'reportCards', 'rc_draft'));
+  await ok('parentP1 read own child portfolio (scoped)', listWhere(db, 'portfolio', 'studentId', 'stu1'));
+  await ok('parentP1 read own child career attempt (scoped)', listWhere(db, 'careerAssessments', 'studentId', 'stu1'));
   await no('parentP1 read pocso', readDoc(db, 'pocso', 'pc1'));
   await no('parentP1 read medical', readDoc(db, 'medical', 'md1'));
   await no('parentP1 read iep', readDoc(db, 'iep_plans', 'iep1'));
@@ -318,6 +331,11 @@ await no('anon read circular', readDoc(unauth, 'circulars', 'c1'));
   await no('studentS1 read payroll', readDoc(db, 'payroll_runs', 'r1'));
   await no('studentS1 read certificates', readDoc(db, 'certificates', 'crt1'));
   await no('studentS1 read question paper (must never reach students)', readDoc(db, 'questionPapers', 'qp1'));
+  await ok('studentS1 read own portfolio (scoped)', listWhere(db, 'portfolio', 'studentId', 'stu1'));
+  await ok('studentS1 create own portfolio entry', writeDoc(db, ['portfolio', 'pf_new'], { studentId: 'stu1', title: 'Debate', status: 'submitted' }));
+  await no('studentS1 cannot self-verify portfolio', writeDoc(db, ['portfolio', 'pf_cheat'], { studentId: 'stu1', title: 'X', status: 'verified' }));
+  await ok('studentS1 read own career attempt (scoped)', listWhere(db, 'careerAssessments', 'studentId', 'stu1'));
+  await ok('studentS1 create own career attempt', writeDoc(db, ['careerAssessments', 'ca_new'], { studentId: 'stu1', status: 'completed' }));
   await no('studentS1 read pocso', readDoc(db, 'pocso', 'pc1'));
 }
 

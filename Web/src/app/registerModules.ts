@@ -72,6 +72,9 @@ export function registerAllModules(): void {
 
   registerModule('staff', 'examinations', lazy(() => import('@/features/examinations/routes')));
   registerModule('staff', 'qpaper', lazy(() => import('@/features/qpaper/routes')));
+  registerModule('staff', 'reportcard', lazy(() => import('@/features/reportcard/routes')));
+  registerModule('parent', 'reportcard', lazy(() => import('@/features/reportcard/routes').then((m) => ({ default: m.MyReportCardRoutes }))));
+  registerModule('student', 'reportcard', lazy(() => import('@/features/reportcard/routes').then((m) => ({ default: m.MyReportCardRoutes }))));
   registerModule('parent', 'examinations', lazy(() => import('@/features/examinations/routes').then((m) => ({ default: m.MyExaminationsRoutes }))));
   registerModule('student', 'examinations', lazy(() => import('@/features/examinations/routes').then((m) => ({ default: m.MyExaminationsRoutes }))));
 
@@ -125,6 +128,11 @@ export function registerAllModules(): void {
   registerModule('student', 'academics', lazy(() => import('@/features/studentportal/routes').then((m) => ({ default: m.StudentAcademicsRoutes }))));
   registerModule('student', 'calendar', lazy(() => import('@/features/studentportal/routes').then((m) => ({ default: m.StudentCalendarRoutes }))));
   registerModule('student', 'achievements', lazy(() => import('@/features/studentportal/routes').then((m) => ({ default: m.StudentAchievementsRoutes }))));
+  registerModule('student', 'rewards', lazy(() => import('@/features/gamification/routes')));
+  registerModule('student', 'portfolio', lazy(() => import('@/features/portfolio/routes')));
+  registerModule('staff', 'portfolio', lazy(() => import('@/features/portfolio/routes')));
+  registerModule('student', 'career', lazy(() => import('@/features/career/routes').then((m) => ({ default: m.CareerStudentRoutes }))));
+  registerModule('staff', 'career', lazy(() => import('@/features/career/routes').then((m) => ({ default: m.CareerStaffRoutes }))));
   registerModule('student', 'wellness', lazy(() => import('@/features/studentportal/routes').then((m) => ({ default: m.StudentWellnessRoutes }))));
   registerModule('student', 'support', lazy(() => import('@/features/studentportal/routes').then((m) => ({ default: m.StudentSupportRoutes }))));
 }
