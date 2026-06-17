@@ -44,10 +44,13 @@ function r(
   return { id, label, group, order: SEQ++, permissions, builtIn: true, active: true, ...opts };
 }
 
-/** Read-only governance oversight (chairman/trustee/board) — see, export, never edit. */
+/** Read-only governance oversight (chairman/trustee/board) — see, export, never edit.
+ *  Deliberately EXCLUDES direct HR + Payroll: governance gets only aggregate
+ *  finance (fees/expense view) + the Reports module, never the staff directory or
+ *  individual salary/payslip records (2026-06-17 decision; report items #4 / H4). */
 const OVERSIGHT: PermissionMatrix = {
   students: VX, attendance: VX, academics: V, exams: VX, gradebook: V, hpc: V,
-  fees: VX, expense: VX, payroll: VX, hr: VX, reports: VX, compliance: VX,
+  fees: VX, expense: VX, reports: VX, compliance: VX,
   hostel: V, transport: V, communication: V, events: V, audit: V,
 };
 

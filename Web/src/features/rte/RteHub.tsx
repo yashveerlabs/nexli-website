@@ -1,13 +1,14 @@
 import { useState } from 'react';
 import { Tabs } from '@/components/Tabs';
+import { RteEnrolledTab } from './RteEnrolledTab';
 import { ApplicationsTab } from './ApplicationsTab';
 import { ClaimsTab } from './ClaimsTab';
 
-type TabId = 'applications' | 'claims';
+type TabId = 'enrolled' | 'applications' | 'claims';
 
 /** RTE quota (applications + lottery) and state reimbursement claims hub. */
 export function RteHub() {
-  const [tab, setTab] = useState<TabId>('applications');
+  const [tab, setTab] = useState<TabId>('enrolled');
   return (
     <div className="nx-page">
       <div className="nx-page__head">
@@ -23,12 +24,14 @@ export function RteHub() {
         value={tab}
         onChange={(id) => setTab(id as TabId)}
         tabs={[
+          { id: 'enrolled', label: 'Quota enrolment', icon: 'users' },
           { id: 'applications', label: 'Applications', icon: 'award' },
           { id: 'claims', label: 'Reimbursement claims', icon: 'wallet' },
         ]}
       >
         {(active) => (
           <>
+            {active === 'enrolled' && <RteEnrolledTab />}
             {active === 'applications' && <ApplicationsTab />}
             {active === 'claims' && <ClaimsTab />}
           </>

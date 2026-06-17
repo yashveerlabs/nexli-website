@@ -274,7 +274,9 @@
 .nx-modal__panel {
   position: relative; width: 100%; background: var(--surface); border: 1px solid var(--border-2);
   border-radius: var(--r-xl); box-shadow: 0 24px 70px rgba(0, 0, 0, 0.6); padding: 24px;
-  max-height: calc(100vh - 40px); overflow-y: auto;
+  /* Flex column so the body scrolls and the footer (primary action) stays pinned
+     and visible on a phone — never clipped below the fold. */
+  max-height: calc(100vh - 40px); overflow: hidden; display: flex; flex-direction: column;
   opacity: 0; transform: translateY(8px) scale(0.98); transition: opacity 0.22s var(--ease), transform 0.22s var(--ease);
 }
 .nx-modal.is-shown .nx-modal__panel { opacity: 1; transform: translateY(0) scale(1); }
@@ -287,7 +289,7 @@
   transition: background 0.15s, color 0.15s;
 }
 .nx-modal__close:hover { background: rgba(255, 255, 255, 0.05); color: var(--text); }
-.nx-modal__head { display: flex; gap: 14px; align-items: flex-start; padding-right: 32px; }
+.nx-modal__head { display: flex; gap: 14px; align-items: flex-start; padding-right: 32px; flex-shrink: 0; }
 .nx-modal__icon { width: 44px; height: 44px; border-radius: 12px; display: grid; place-items: center; flex-shrink: 0; }
 .nx-modal__icon--default, .nx-modal__icon--gold { background: rgba(198, 165, 92, 0.1); border: 1px solid rgba(198, 165, 92, 0.22); color: var(--gold); }
 .nx-modal__icon--danger { background: var(--danger-bg); border: 1px solid rgba(239, 68, 68, 0.3); color: var(--danger); }
@@ -297,8 +299,8 @@
 .nx-modal__headtext { min-width: 0; padding-top: 2px; }
 .nx-modal__title { font-size: 16.5px; font-weight: 700; color: var(--text); line-height: 1.3; }
 .nx-modal__desc { font-size: 13px; color: var(--text-muted); margin-top: 5px; line-height: 1.55; }
-.nx-modal__body { margin-top: 16px; font-size: 13.5px; color: var(--text); line-height: 1.55; }
-.nx-modal__foot { display: flex; align-items: center; justify-content: flex-end; gap: 10px; margin-top: 22px; flex-wrap: wrap; }
+.nx-modal__body { margin-top: 16px; font-size: 13.5px; color: var(--text); line-height: 1.55; overflow-y: auto; flex: 1 1 auto; min-height: 0; }
+.nx-modal__foot { display: flex; align-items: center; justify-content: flex-end; gap: 10px; margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--border); flex-wrap: wrap; flex-shrink: 0; }
 @media (max-width: 479.98px) {
   .nx-modal { padding: 0; place-items: end stretch; }
   .nx-modal__panel { max-width: none; border-radius: var(--r-xl) var(--r-xl) 0 0; max-height: 92vh; padding: 22px 18px calc(22px + var(--safe-bottom)); transform: translateY(16px); }

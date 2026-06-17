@@ -55,13 +55,20 @@ export function FamilyChildrenGrid({ students, days }: { students: ChildLike[]; 
             sub={[c.gradeName, c.sectionName].filter(Boolean).join(' · ')}
             headerRight={<Avatar name={c.fullName} src={c.photoUrl} size={36} />}
           >
-            <div className="nx-att-pct" style={{ marginBottom: 12 }}>
-              <span style={{ fontSize: 12, color: 'var(--text-muted)' }}>Attendance</span>
-              <div className="nx-att-pct__bar">
-                <div className="nx-att-pct__fill" style={{ width: `${a.pct}%`, background: color }} />
+            {a.total === 0 ? (
+              <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 8, marginBottom: 12 }}>
+                <span style={{ fontSize: 12, color: 'var(--text-muted)' }}>Attendance</span>
+                <span style={{ fontSize: 12.5, color: 'var(--text-muted)' }}>Not recorded yet</span>
               </div>
-              <span className="nx-att-pct__val" style={{ color }}>{a.total ? `${a.pct}%` : '—'}</span>
-            </div>
+            ) : (
+              <div className="nx-att-pct" style={{ marginBottom: 12 }}>
+                <span style={{ fontSize: 12, color: 'var(--text-muted)' }}>Attendance</span>
+                <div className="nx-att-pct__bar">
+                  <div className="nx-att-pct__fill" style={{ width: `${a.pct}%`, background: color }} />
+                </div>
+                <span className="nx-att-pct__val" style={{ color }}>{a.pct}%</span>
+              </div>
+            )}
             <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
               <Link to="/attendance" className="nx-chip-link"><Icon name="clock" size={13} /> Attendance</Link>
               <Link to="/assignments" className="nx-chip-link"><Icon name="file-text" size={13} /> Homework</Link>

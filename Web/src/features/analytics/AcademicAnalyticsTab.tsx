@@ -65,7 +65,7 @@ export function AcademicAnalyticsTab() {
   return (
     <div className="an-tab">
       <div className="kpi-grid">
-        <KPICard icon="users" label="Students tracked" count={analysis.tracked} format="us" sub={`of ${active.length} active`} />
+        <KPICard icon="users" label="Active students" count={active.length} format="us" sub={analysis.tracked ? `${analysis.tracked} with attendance data` : 'attendance not recorded yet'} />
         <KPICard icon="clock" label="Avg attendance" count={analysis.avg ?? 0} format="percent" suffix="%" subColor={analysis.avg != null && analysis.avg < ATTENDANCE_MIN_PERCENT ? 'var(--warning)' : 'var(--gold)'} sub={analysis.avg == null ? 'no data yet' : undefined} />
         <KPICard icon="alert-triangle" label="At-risk (<75%)" count={analysis.buckets.low} format="us" subColor={analysis.buckets.low ? 'var(--danger)' : 'var(--success)'} />
         <KPICard icon="check-circle" label="Above 90%" count={analysis.buckets.high} format="us" />

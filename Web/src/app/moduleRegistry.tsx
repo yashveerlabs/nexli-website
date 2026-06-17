@@ -21,6 +21,7 @@ const REGISTRY: Record<NavAudience, AudienceRegistry> = {
   staff: {},
   parent: {},
   student: {},
+  alumni: {},
 };
 
 /** Look up a module's route component for an audience + nav id (or null → stub). */

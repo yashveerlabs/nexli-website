@@ -24,7 +24,7 @@ export interface NavItem {
   end?: boolean;
 }
 
-export type NavAudience = 'platform' | 'staff' | 'parent' | 'student';
+export type NavAudience = 'platform' | 'staff' | 'parent' | 'student' | 'alumni';
 
 /* ---------------- Platform (Super Admin) ---------------- */
 export const PLATFORM_NAV: NavItem[] = [
@@ -48,7 +48,7 @@ export const PLATFORM_NAV: NavItem[] = [
 export const STAFF_NAV: NavItem[] = [
   { id: 'dashboard', label: 'Dashboard', icon: 'dashboard', path: '/', end: true },
   { id: 'students', label: 'Students', icon: 'users', path: '/students', permission: 'students.read' },
-  { id: 'admissions', label: 'Admissions', icon: 'user-plus', path: '/admissions', permission: 'students.write' },
+  { id: 'admissions', label: 'Admissions', icon: 'user-plus', path: '/admissions', permission: 'admissions.read' },
   { id: 'academics', label: 'Academics', icon: 'book', path: '/academics', permission: 'academics.read' },
   { id: 'attendance', label: 'Attendance', icon: 'clock', path: '/attendance', permission: 'attendance.read' },
   { id: 'staff_attendance', label: 'Staff Attendance', icon: 'clock', path: '/staff-attendance' },
@@ -73,10 +73,10 @@ export const STAFF_NAV: NavItem[] = [
   { id: 'udise', label: 'UDISE+ Reporting', icon: 'database', path: '/udise', permission: 'compliance.read' },
   { id: 'rte', label: 'RTE Quota', icon: 'award', path: '/rte', permission: 'compliance.read' },
   { id: 'safeguarding', label: 'Child Protection', icon: 'shield', path: '/safeguarding', anyPermission: ['pocso.read', 'grievances.read'] },
+  { id: 'counseling', label: 'Counselling', icon: 'heart-pulse', path: '/counselling', permission: 'counseling.read' },
   { id: 'consent', label: 'Privacy & Consent', icon: 'lock', path: '/consent', permission: 'consent.read' },
   { id: 'smc', label: 'SMC Portal', icon: 'briefcase', path: '/smc', permission: 'compliance.read', flag: 'smc' },
   { id: 'visitor', label: 'Visitor & Gate', icon: 'shield-check', path: '/visitor', permission: 'visitors.read' },
-  { id: 'security', label: 'Security', icon: 'shield', path: '/security', permission: 'security.read' },
   { id: 'canteen', label: 'Canteen', icon: 'utensils', path: '/canteen', permission: 'canteen.read', flag: 'canteen' },
   { id: 'facility', label: 'Assets & Facility', icon: 'box', path: '/facility', permission: 'facility.read' },
   { id: 'events', label: 'Events & Activities', icon: 'calendar', path: '/events' },
@@ -129,6 +129,16 @@ export const STUDENT_NAV: NavItem[] = [
   { id: 'support', label: 'Support', icon: 'help-circle', path: '/support' },
 ];
 
+/* ---------------- Alumni ---------------- */
+// Alumni are NOT staff: they get their own minimal portal, never the staff menu
+// (which previously leaked Staff Attendance + AI Insights to them).
+export const ALUMNI_NAV: NavItem[] = [
+  { id: 'dashboard', label: 'Dashboard', icon: 'dashboard', path: '/', end: true },
+  { id: 'alumni', label: 'Alumni Network', icon: 'award', path: '/alumni' },
+  { id: 'events', label: 'Events', icon: 'calendar', path: '/events' },
+  { id: 'communication', label: 'Communication', icon: 'megaphone', path: '/communication' },
+];
+
 /* ---------------- Curated mobile bottom-nav (≤4 + auto "More") ---------------- */
 const byIds = (items: NavItem[], ids: string[]): NavItem[] =>
   ids.map((id) => items.find((i) => i.id === id)).filter((i): i is NavItem => !!i);
@@ -137,6 +147,7 @@ export function audienceForRole(role: RoleId | undefined, isSuperAdmin: boolean)
   if (isSuperAdmin || role === 'super_admin') return 'platform';
   if (role === 'parent') return 'parent';
   if (role === 'student') return 'student';
+  if (role === 'alumni') return 'alumni';
   return 'staff';
 }
 
@@ -148,6 +159,8 @@ export function navForAudience(a: NavAudience): NavItem[] {
       return PARENT_NAV;
     case 'student':
       return STUDENT_NAV;
+    case 'alumni':
+      return ALUMNI_NAV;
     default:
       return STAFF_NAV;
   }
@@ -161,6 +174,8 @@ export function bottomNavForAudience(a: NavAudience): NavItem[] {
       return byIds(PARENT_NAV, ['dashboard', 'attendance', 'fees', 'communication']);
     case 'student':
       return byIds(STUDENT_NAV, ['dashboard', 'timetable', 'assignments', 'examinations']);
+    case 'alumni':
+      return byIds(ALUMNI_NAV, ['dashboard', 'alumni', 'events', 'communication']);
     default:
       return byIds(STAFF_NAV, ['dashboard', 'students', 'attendance', 'communication']);
   }

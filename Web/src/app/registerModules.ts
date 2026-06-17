@@ -95,6 +95,7 @@ export function registerAllModules(): void {
   registerModule('staff', 'rte', lazy(() => import('@/features/rte/routes')));
   registerModule('staff', 'safeguarding', lazy(() => import('@/features/safeguarding/routes')));
   registerModule('staff', 'consent', lazy(() => import('@/features/consent/routes')));
+  registerModule('staff', 'counseling', lazy(() => import('@/features/counseling/routes')));
   registerModule('staff', 'smc', lazy(() => import('@/features/smc/routes')));
 
   // --- P8 Analytics, Special & AI surfaces ---
@@ -107,6 +108,11 @@ export function registerAllModules(): void {
   registerModule('student', 'events', lazy(() => import('@/features/events/routes').then((m) => ({ default: m.MyEventsRoutes }))));
   registerModule('staff', 'alumni', lazy(() => import('@/features/alumni/routes')));
   registerModule('staff', 'insights', lazy(() => import('@/features/insights/routes')));
+
+  // --- Alumni portal (dedicated audience — minimal, never the staff menu) ---
+  registerModule('alumni', 'alumni', lazy(() => import('@/features/alumni/routes')));
+  registerModule('alumni', 'events', lazy(() => import('@/features/events/routes').then((m) => ({ default: m.MyEventsRoutes }))));
+  registerModule('alumni', 'communication', lazy(() => import('@/features/communication/routes').then((m) => ({ default: m.InboxRoutes }))));
   registerModule('staff', 'delegation', lazy(() => import('@/features/delegation/routes')));
   registerModule('staff', 'it_admin', lazy(() => import('@/features/itadmin/routes')));
 

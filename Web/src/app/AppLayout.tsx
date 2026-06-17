@@ -17,6 +17,13 @@ import {
 } from '@/app/nav';
 import { moduleComponent } from '@/app/moduleRegistry';
 import { ROLES } from '@/types/roles';
+import { useDocument, tenantDoc } from '@/lib/db';
+
+/** Student leadership positions (stored as tags on the student record by the seed/admin). */
+const LEADERSHIP_TITLES = ['Head Boy', 'Head Girl', 'Sports Captain', 'House Captain', 'Vice House Captain', 'Prefect'];
+function pickLeadershipTitle(tags?: string[]): string | undefined {
+  return tags?.find((t) => LEADERSHIP_TITLES.includes(t));
+}
 
 /**
  * Session-driven application frame. Resolves the signed-in user's audience, filters
@@ -62,7 +69,23 @@ export function AppLayout({ children }: { children: ReactNode }) {
   );
 
   const name = member?.name ?? (isSuperAdmin ? 'Super Admin' : 'Account');
-  const roleLabel = role ? ROLES[role]?.label : isSuperAdmin ? 'Platform' : '';
+
+  // For student accounts, surface a leadership position (Head Boy, Prefect, House
+  // Captain…) from their linked student record so the title shows instead of a
+  // bare "Student". One cached doc read, only for the student audience.
+  const { data: linkedStudent } = useDocument<{ tags?: string[] }>(
+    audience === 'student' && schoolId && member?.studentId
+      ? tenantDoc(schoolId, 'students', member.studentId)
+      : null,
+  );
+  const leadershipTitle = pickLeadershipTitle(linkedStudent?.tags);
+
+  // Role label: fold the graded LEVEL (Senior/Junior/Associate, warden/nurse tiers)
+  // into the label so distinct tiers aren't all shown as the same generic role.
+  const roleMeta = role ? ROLES[role] : undefined;
+  let roleLabel = roleMeta?.label ?? (isSuperAdmin ? 'Platform' : '');
+  if (roleMeta?.level && !roleLabel.includes(roleMeta.level)) roleLabel = `${roleLabel} · ${roleMeta.level}`;
+  if (leadershipTitle) roleLabel = leadershipTitle; // a captain/prefect is shown by their position
 
   const activeTitle = useMemo(() => currentTitle(nav, location.pathname), [nav, location.pathname]);
 

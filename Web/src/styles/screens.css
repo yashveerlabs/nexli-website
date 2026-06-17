@@ -4,7 +4,9 @@
    ============================================================= */
 
 /* ---- Generic routed-page header ---- */
-.nx-page { display: flex; flex-direction: column; gap: 18px; }
+/* Grow to fill the content column so a short page ends cleanly against the
+   shell background instead of leaving a large dark gap on tall phone screens. */
+.nx-page { display: flex; flex-direction: column; gap: 18px; flex: 1 0 auto; }
 .nx-page__head { display: flex; align-items: flex-start; justify-content: space-between; gap: 14px; flex-wrap: wrap; }
 .nx-page__title { font-size: 23px; font-weight: 700; letter-spacing: -0.01em; color: var(--text); line-height: 1.2; }
 .nx-page__sub { font-size: 13px; color: var(--text-muted); margin-top: 5px; line-height: 1.5; }

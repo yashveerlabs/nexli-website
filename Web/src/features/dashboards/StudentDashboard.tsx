@@ -80,8 +80,14 @@ export function StudentDashboard() {
 
             <Panel title="My attendance" headerRight={att.pct < ATTENDANCE_MIN_PERCENT && att.total > 0 ? <span style={{ fontSize: 11, color: 'var(--danger)' }}>Below {ATTENDANCE_MIN_PERCENT}%</span> : undefined}>
               <div style={{ textAlign: 'center', padding: '12px 0' }}>
-                <div style={{ fontSize: 40, fontWeight: 700, color: attColor }}>{att.total ? `${att.pct}%` : '—'}</div>
-                <div style={{ fontSize: 12, color: 'var(--text-muted)', marginTop: 4 }}>across {att.total} recorded days</div>
+                {att.total ? (
+                  <>
+                    <div style={{ fontSize: 40, fontWeight: 700, color: attColor }}>{att.pct}%</div>
+                    <div style={{ fontSize: 12, color: 'var(--text-muted)', marginTop: 4 }}>across {att.total} recorded days</div>
+                  </>
+                ) : (
+                  <div style={{ fontSize: 13, color: 'var(--text-muted)', padding: '14px 0' }}>No attendance recorded yet</div>
+                )}
               </div>
               <Link to="/attendance" className="nx-chip-link" style={{ width: 'fit-content', margin: '0 auto' }}><Icon name="clock" size={13} /> View details</Link>
             </Panel>

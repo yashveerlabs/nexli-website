@@ -10,6 +10,7 @@ const PlatformDashboard = lazy(() =>
 const StaffDashboard = lazy(() => import('@/features/dashboards/StaffDashboard').then((m) => ({ default: m.StaffDashboard })));
 const ParentDashboard = lazy(() => import('@/features/dashboards/ParentDashboard').then((m) => ({ default: m.ParentDashboard })));
 const StudentDashboard = lazy(() => import('@/features/dashboards/StudentDashboard').then((m) => ({ default: m.StudentDashboard })));
+const AlumniDashboard = lazy(() => import('@/features/dashboards/AlumniDashboard').then((m) => ({ default: m.AlumniDashboard })));
 
 /**
  * Audience-aware command center. Each role family gets its own dashboard
@@ -28,7 +29,9 @@ export function Dashboard() {
         ? ParentDashboard
         : audience === 'student'
           ? StudentDashboard
-          : StaffDashboard;
+          : audience === 'alumni'
+            ? AlumniDashboard
+            : StaffDashboard;
 
   return (
     <Suspense fallback={<div className="nx-route-loading"><Spinner size={22} /></div>}>
