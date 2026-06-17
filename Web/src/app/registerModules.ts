@@ -100,6 +100,7 @@ export function registerAllModules(): void {
 
   // --- P8 Analytics, Special & AI surfaces ---
   registerModule('staff', 'reports', lazy(() => import('@/features/analytics/routes')));
+  registerModule('staff', 'rankings', lazy(() => import('@/features/rankings/routes')));
   registerModule('staff', 'hpc', lazy(() => import('@/features/hpc/routes')));
   registerModule('parent', 'hpc', lazy(() => import('@/features/hpc/routes').then((m) => ({ default: m.MyHpcRoutes }))));
   registerModule('student', 'hpc', lazy(() => import('@/features/hpc/routes').then((m) => ({ default: m.MyHpcRoutes }))));

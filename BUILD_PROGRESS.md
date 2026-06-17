@@ -11,21 +11,23 @@ _Source of truth for the to-do list: `TEST_RESULTS.md` (project root)._
 
 ---
 
-## TRACK 1 — Fix every problem in the report (worst first)
+## TRACK 1 — Fix every problem in the report (worst first) — ✅ COMPLETE (commit `7869958`)
 
-| # | Item | Status |
-|---|------|--------|
-| 1 | `/counselling` real page (Counselor/Guidance/Wellness home) | ⏳ pending |
-| 2 | Security stub removed from security-role menus | ⏳ pending |
-| 3 | Admissions nav gate fix (receptionist sees it; class teacher doesn't) | ⏳ pending |
-| 4 | Narrow Chairman/Trustee/Board Rep (drop HR+Payroll) | ⏳ pending |
-| 5 | Remove Staff Attendance from Alumni menu | ⏳ pending |
-| 6 | Real titles: prefect/captain + Academic Coordinator tier | ⏳ pending |
-| 7 | Modal Save button pinned on phone (Add Book + all modals) | ⏳ pending |
-| 8 | Bottom blank-space layout fix | ⏳ pending |
-| 9 | Friendly empty states + attendance widget zero-data | ⏳ pending |
-| 10 | Reports "0 of 300" fix + RTE Quota populated | ⏳ pending |
-| 11 | Build + typecheck + rules tests green; commit checkpoint | ⏳ pending |
+| # | Item | Status | How |
+|---|------|--------|-----|
+| 1 | `/counselling` real page | ✅ done | New `features/counseling` (hub + data + route), nav item, registered for staff |
+| 2 | Security stub removed | ✅ done | Removed `security` nav item → no stub route builds |
+| 3 | Admissions nav gate | ✅ done | Gate changed `students.write` → `admissions.read` (fixes receptionist AND class-teacher in one) |
+| 4 | Narrow governance roles | ✅ done | Dropped `hr` + `payroll` from `OVERSIGHT` matrix |
+| 5 | Alumni menu leak | ✅ done | New `alumni` audience + `ALUMNI_NAV` + `AlumniDashboard` (no Staff Attendance / staff data) |
+| 6 | Role titles/tiers | ✅ done | `AppLayout` folds `level` into role label; reads student leadership tag for prefect/captain |
+| 7 | Modal Save pinned | ✅ done | `.nx-modal__panel` flex column; body scrolls; foot pinned (`kit.css`) |
+| 8 | Bottom blank-space | ✅ done | `.nx-page { flex: 1 0 auto }` (`screens.css`) |
+| 9 | Empty states + attendance | ✅ done | Family grid + student dashboard zero-data messages; AlumniDashboard removes confusing widget |
+| 10 | Reports + RTE | ✅ done | Reports headline KPI = active students; RTE "Quota enrolment" tab derived from student data |
+| 11 | Build + tests | ✅ done | `npm run build` exit 0; typecheck clean; emulator rules tests **96/0**. (No ESLint configured in repo.) |
+
+_Note on subagents in Track 1: these were surgical edits to shared files (nav/catalog/layout/registry) where parallel writers would collide — done directly and proven by the build + rules tests rather than farmed to parallel build agents._
 
 ---
 
@@ -37,9 +39,36 @@ _Starts only after Track 1 is fully green. Plans live in `docs/feature-plans/<mo
 
 **Blocked (need paid plan / API key / gateway / govt approval) — plan + offline shell only, never faked:** APAAR/ABC/DigiLocker, UPI AutoPay/eNACH + reconciliation, secure online exam (proctoring), IoT campus safety (hardware), WhatsApp Business API, SSO/Open API (partial), e-sign (paid), cashless wallet (gateway), AI at-risk (needs AI key — logic buildable, model blocked).
 
-_Status table added when Track 2 begins._
+### Track 2 status (live)
+
+Plans live in `docs/feature-plans/<module>/` (see that folder's `README.md` for index + legend).
+
+**Planning:** 4 research+planning subagents launched in parallel, each writing phased plan files
+(`research.md`, `Phase-1.md`…`Phase-N.md`) into its own module folders (markdown only — no code):
+- A: question-paper-generator, certificate-generator, report-card-hpc
+- B: gamified-dashboard, skills-passport, career-counselling
+- C: apaar-abc-digilocker, upi-autopay-reconciliation, esign-document-management
+- D: secure-online-exam, iot-campus-safety, whatsapp-automation, sso-open-api, ai-at-risk, cashless-wallet
+
+**Built modules (offline, real data):**
+| Module | Status |
+|---|---|
+| Counselling workspace (`features/counseling`) | ✅ Built (Track 1) |
+| Rankings — marks engine + attendance engine (`features/rankings`) | ✅ Built |
+
+Rankings: separate marks (normalised exam %) + attendance engines, school/grade/section scopes,
+paginated full lists, tie-breaks, medals, staff-only, honest empty states. Nav `Rankings` gated by `exams.read`.
+
+**Pending build (buildable; plans being written):** question paper generator, certificate generator,
+report card / NEP HPC, gamified dashboard, skills passport, career-counselling (assessment logic).
+
+**Blocked (plan + offline shell only — no faked live services):** APAAR/ABC/DigiLocker, UPI AutoPay/eNACH,
+secure online exam (proctoring), IoT campus safety (hardware), WhatsApp Business API, SSO/Open API,
+cashless wallet (gateway), e-sign (legal), AI at-risk (AI key — scoring logic buildable).
 
 ---
 
 ## Changelog
 - 2026-06-17 — Git checkpoint `d68c887`; task list + this progress file created. Beginning Track 1 investigation.
+- 2026-06-17 — Track 1 COMPLETE → commit `7869958` (build green; emulator rules tests 96/0).
+- 2026-06-17 — Track 2 started: plans folder + 4 planning subagents launched; built Rankings module (marks + attendance).

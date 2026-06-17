@@ -68,6 +68,7 @@ export const STAFF_NAV: NavItem[] = [
   { id: 'medical', label: 'Medical', icon: 'heart-pulse', path: '/medical', permission: 'medical.read', flag: 'medical' },
   { id: 'sped', label: 'Special Education', icon: 'heart-pulse', path: '/sped', permission: 'iep.read' },
   { id: 'reports', label: 'Reports & Analytics', icon: 'bar-chart', path: '/reports', permission: 'reports.read' },
+  { id: 'rankings', label: 'Rankings', icon: 'trophy', path: '/rankings', permission: 'exams.read' },
   { id: 'insights', label: 'AI Insights', icon: 'sparkles', path: '/insights', flag: 'ai', ai: true },
   { id: 'compliance', label: 'Compliance', icon: 'shield-check', path: '/compliance', permission: 'compliance.read' },
   { id: 'udise', label: 'UDISE+ Reporting', icon: 'database', path: '/udise', permission: 'compliance.read' },
