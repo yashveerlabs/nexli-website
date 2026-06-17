@@ -1,0 +1,444 @@
+rules_version = '2';
+
+// =============================================================
+// NEXLI — Firestore security rules.
+//
+// Principles:
+//  - DENY BY DEFAULT. Every path is explicitly allowed or refused.
+//  - STRUCTURAL TENANT ISOLATION: all school data lives under
+//    /schools/{schoolId}/… and is reachable only by that school's members
+//    (or a platform super admin). No app bug can cross tenants.
+//  - LEAST PRIVILEGE: each sensitive collection has its own role allowlist,
+//    matched to the data-driven role catalogue ("only what they need").
+//    Families (parent/student) see only their OWN records.
+//  - AUDIT is append-only (create only; no update/delete).
+//  - PLATFORM collections are super-admin only (with a few read-only exceptions
+//    the app needs at boot, e.g. global feature flags).
+//
+// Phase A · Danger 1 (2026-06-17): the old catch-all let ANY active member read
+// every non-sensitive collection and ANY staff write them. It is now replaced by
+// per-collection rules for fees, payroll, student records, staff records, consent,
+// special-education/therapy, and the academic write paths, plus own-record scoping
+// for parents/students. Read-scoping of the "whole-class-in-one-doc" academic data
+// (attendance/marks/exam results/HPC) is deferred to Danger 2 (data reshape); for
+// now those keep member-read but writes are limited to academic staff.
+// =============================================================
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ---------- identity / auth helpers ----------
+    function signedIn() {
+      return request.auth != null;
+    }
+    function uid() {
+      return request.auth.uid;
+    }
+    function idxPath() {
+      return /databases/$(database)/documents/userIndex/$(uid());
+    }
+    function hasIdx() {
+      return signedIn() && exists(idxPath());
+    }
+    function idx() {
+      return get(idxPath()).data;
+    }
+    function isSuperAdmin() {
+      // Safe field access: a normal user's userIndex has no `isSuperAdmin` field,
+      // so read it with a default to avoid an evaluation error on every rule.
+      return hasIdx() && (idx().get('isSuperAdmin', false) == true || idx().roleId == 'super_admin');
+    }
+
+    // ---------- membership / role helpers ----------
+    function memberPath(sid) {
+      return /databases/$(database)/documents/schools/$(sid)/members/$(uid());
+    }
+    function isMember(sid) {
+      return signedIn() && exists(memberPath(sid));
+    }
+    function memberData(sid) {
+      return get(memberPath(sid)).data;
+    }
+    function isActiveMember(sid) {
+      return isMember(sid) && memberData(sid).status == 'active';
+    }
+    function myRole(sid) {
+      return memberData(sid).roleId;
+    }
+    function hasAnyRole(sid, roles) {
+      return isActiveMember(sid) && (myRole(sid) in roles);
+    }
+    // Any staff member (i.e. not a parent / student / alumni).
+    function isStaff(sid) {
+      return isActiveMember(sid) && !(myRole(sid) in ['parent', 'student', 'alumni']);
+    }
+
+    // ---------- role-group helpers (kept in sync with lib/roles/catalog.ts) ----------
+
+    // Full-trust school leadership (the wildcard roles in the catalogue).
+    function isPrincipalLike(sid) {
+      return hasAnyRole(sid, [
+        'principal', 'head_of_school', 'headmaster', 'headmistress',
+        'director', 'regional_director', 'cluster_director'
+      ]);
+    }
+    // Administrative leadership (ADMIN_LEAD matrix: fees/payroll approve, hr/expense manage).
+    function isAdminLeadership(sid) {
+      return hasAnyRole(sid, ['vp_admin', 'administrator', 'school_manager', 'admin_manager']);
+    }
+    // Every role that holds the `fees` permission in the catalogue (+ leadership).
+    function isFeesStaff(sid) {
+      return isPrincipalLike(sid) || isAdminLeadership(sid) || hasAnyRole(sid, [
+        'finance_manager', 'bursar', 'chief_accountant', 'accountant_senior', 'school_accountant',
+        'accountant_junior', 'accounts_clerk', 'accounts_assistant', 'billing_executive', 'cashier',
+        'hostel_accountant', 'admin_officer', 'admissions_officer'
+      ]);
+    }
+    // Every role that holds the `payroll` permission in the catalogue (+ leadership).
+    function isPayrollStaff(sid) {
+      return isPrincipalLike(sid) || isAdminLeadership(sid) || hasAnyRole(sid, [
+        'finance_manager', 'bursar', 'chief_accountant', 'accountant_senior',
+        'hr_director', 'hr_manager', 'hr_executive', 'payroll_specialist'
+      ]);
+    }
+    // Roles that create/edit staff (HR) records (+ leadership).
+    function isHrStaff(sid) {
+      return isPrincipalLike(sid) || isAdminLeadership(sid) || hasAnyRole(sid, [
+        'hr_director', 'hr_manager', 'hr_executive', 'hr_assistant', 'recruitment_coordinator'
+      ]);
+    }
+    // Roles that handle consent (DPDP) records (+ leadership).
+    function isConsentStaff(sid) {
+      return isPrincipalLike(sid) || isAdminLeadership(sid) || hasAnyRole(sid, ['dpo', 'consent_officer']);
+    }
+    // Roles that handle special-education (IEP) / therapy records (+ leadership).
+    function isSpedStaff(sid) {
+      return isPrincipalLike(sid) || hasAnyRole(sid, [
+        'special_educator', 'nurse_sped', 'academic_director', 'vp_academic'
+      ]);
+    }
+    // Teaching / academic staff that record attendance, marks, exam results, HPC
+    // (generous, so a legitimate teacher is never blocked from saving their class).
+    function isAcademicStaff(sid) {
+      return isPrincipalLike(sid) || hasAnyRole(sid, [
+        'class_teacher', 'subject_teacher', 'substitute_teacher', 'hod', 'exam_controller',
+        'academic_coordinator', 'academic_coordinator_junior', 'academic_coordinator_associate',
+        'sports_teacher', 'arts_teacher', 'activity_coordinator', 'club_coordinator',
+        'special_educator', 'lab_assistant', 'registrar', 'dean_of_students',
+        'academic_director', 'vp_academic'
+      ]);
+    }
+
+    // School leadership / admin roles allowed to manage users, settings, profile.
+    // Kept in sync with the data-driven catalogue: every role that holds the
+    // "Users — manage" permission must be here, or it would be wrongly blocked
+    // from creating/editing members + settings.
+    function isSchoolAdmin(sid) {
+      return hasAnyRole(sid, [
+        'principal', 'head_of_school', 'headmaster', 'headmistress',
+        'vp_admin', 'vp_academic', 'academic_director', 'director',
+        'regional_director', 'cluster_director', 'it_admin', 'it_manager',
+        'academic_coordinator', 'hr_manager', 'hr_director',
+        'administrator', 'school_manager', 'admin_manager'
+      ]);
+    }
+    // Roles permitted to read audit logs (leadership + IT + data protection).
+    function canReadAudit(sid) {
+      return isSuperAdmin() || hasAnyRole(sid, [
+        'principal', 'head_of_school', 'headmaster', 'headmistress',
+        'director', 'academic_director', 'vp_admin', 'it_admin', 'it_manager', 'dpo'
+      ]);
+    }
+
+    // ---------- own-record helpers (parent ↔ children, student ↔ self) ----------
+
+    // True if `studentId` is one the signed-in member owns: a parent's child, or a
+    // student's own linked record. Sentinels avoid matching an absent field.
+    function ownsStudentId(sid, studentId) {
+      return isActiveMember(sid) && (
+        studentId == memberData(sid).get('studentId', '__none__')
+        || (studentId in memberData(sid).get('childStudentIds', []))
+      );
+    }
+
+    // Collections with their own explicit rules — excluded from the generic
+    // tenant wildcard so the wildcard can never widen their access (Firestore
+    // grants if ANY matching rule allows).
+    function isRestrictedCollection(c) {
+      return c in [
+        // identity / governance
+        'members', 'settings', 'audit_log', 'roleDefinitions',
+        // already-sensitive (unchanged)
+        'medical', 'immunization', 'counseling', 'pocso', 'grievances',
+        // Danger 1 — newly locked
+        'fee_invoices', 'fee_payments', 'finance_counters',
+        'payroll_runs', 'payslips', 'salary_structures',
+        'students', 'staff', 'consent_records',
+        'iep_plans', 'therapy_logs',
+        'attendance_days', 'assessment_results', 'exam_results', 'hpc_cards'
+      ];
+    }
+
+    // ============================================================
+    // PLATFORM (super admin) collections
+    // ============================================================
+
+    // userIndex: auth → tenant/role resolution. Self-readable; written only by
+    // admins (or the Admin-SDK bootstrap, which bypasses rules).
+    match /userIndex/{userId} {
+      allow read: if isSuperAdmin() || (signedIn() && userId == uid());
+      allow create, update: if isSuperAdmin()
+        || (signedIn() && request.resource.data.schoolId is string
+            && isSchoolAdmin(request.resource.data.schoolId));
+      allow delete: if isSuperAdmin();
+    }
+
+    match /schools/{schoolId} {
+      // School profile.
+      allow read: if isSuperAdmin() || isMember(schoolId);
+      allow create: if isSuperAdmin();
+      // Full profile edits: super admin or school leadership. Active members may
+      // ALSO write usage telemetry only (denormalized counts + last-active), so the
+      // platform can show live usage without Cloud Functions.
+      allow update: if isSuperAdmin() || isSchoolAdmin(schoolId)
+        || (isActiveMember(schoolId)
+            && request.resource.data.diff(resource.data).affectedKeys()
+                 .hasOnly(['studentCount', 'staffCount', 'lastActiveAt', 'lastModifiedAt', 'lastModifiedBy']));
+      allow delete: if isSuperAdmin();
+
+      // ----- tenant subcollections -----
+
+      // Member directory (identity + role + scope).
+      match /members/{memberUid} {
+        allow read: if isSuperAdmin()
+          || (signedIn() && memberUid == uid())   // own profile (needed at boot)
+          || isStaff(schoolId);                    // staff directory
+        allow create: if isSuperAdmin() || isSchoolAdmin(schoolId);
+        allow update: if isSuperAdmin()
+          || isSchoolAdmin(schoolId)
+          // self-service profile edit: cannot change own role / status / school.
+          || (signedIn() && memberUid == uid()
+              && request.resource.data.roleId == resource.data.roleId
+              && request.resource.data.status == resource.data.status
+              && request.resource.data.schoolId == resource.data.schoolId);
+        allow delete: if isSuperAdmin() || isSchoolAdmin(schoolId);
+      }
+
+      // Settings (incl. per-school feature flags). Readable by members.
+      match /settings/{docId} {
+        allow read: if isSuperAdmin() || isMember(schoolId);
+        allow write: if isSuperAdmin() || isSchoolAdmin(schoolId);
+      }
+
+      // Per-school role overrides/custom roles (data-driven RBAC): any active
+      // member reads (the session resolves their role's permissions); only school
+      // admins / super admin write. (Previously these fell through the generic
+      // tenant wildcard, which let ANY staff edit role definitions — too open.)
+      match /roleDefinitions/{rid} {
+        allow read: if isSuperAdmin() || isActiveMember(schoolId);
+        allow write: if isSuperAdmin() || isSchoolAdmin(schoolId);
+      }
+
+      // Append-only audit log.
+      match /audit_log/{entryId} {
+        allow read: if canReadAudit(schoolId);
+        allow create: if isActiveMember(schoolId);
+        allow update, delete: if false;
+      }
+
+      // ----- SENSITIVE: strict role allowlists -----
+
+      // Medical / clinic records — all nurse/doctor variants + leadership.
+      match /medical/{docId} {
+        allow read, write: if isSuperAdmin()
+          || hasAnyRole(schoolId, [
+            'nurse', 'doctor', 'nurse_residential', 'nurse_sped', 'nurse_pediatric',
+            'nurse_practitioner', 'nurse_community', 'nurse_visiting',
+            'principal', 'head_of_school', 'headmaster', 'headmistress', 'vp_admin'
+          ]);
+      }
+      match /immunization/{docId} {
+        allow read, write: if isSuperAdmin()
+          || hasAnyRole(schoolId, [
+            'nurse', 'doctor', 'nurse_residential', 'nurse_sped', 'nurse_pediatric',
+            'nurse_practitioner', 'nurse_community', 'nurse_visiting',
+            'principal', 'head_of_school', 'headmaster', 'headmistress', 'vp_admin'
+          ]);
+      }
+      // Counseling case notes — counselors + special educator + principal-equivalents.
+      match /counseling/{docId} {
+        allow read, write: if isSuperAdmin()
+          || hasAnyRole(schoolId, [
+            'counselor', 'guidance_counselor', 'special_educator',
+            'principal', 'head_of_school', 'headmaster', 'headmistress'
+          ]);
+      }
+      // Child protection (POCSO) — most restricted: CPO/Alternate CPO + principal-equivalents.
+      // NOTE: the POSH/POCSO Committee and ICC are deliberately NOT here — they get
+      // grievances only (decision 2026-06-17).
+      match /pocso/{docId} {
+        allow read, write: if isSuperAdmin()
+          || hasAnyRole(schoolId, [
+            'cpo', 'alternate_cpo', 'principal', 'head_of_school', 'headmaster', 'headmistress'
+          ]);
+      }
+      // Grievance / complaints redressal — CPO + DPO + leadership AND the
+      // POSH/POCSO Committee + ICC (the staff-complaints/grievance side only).
+      match /grievances/{docId} {
+        allow read, write: if isSuperAdmin()
+          || hasAnyRole(schoolId, [
+            'cpo', 'alternate_cpo', 'dpo', 'principal', 'head_of_school', 'vp_admin',
+            'posh_committee', 'icc_member'
+          ]);
+      }
+
+      // ----- FEES & FINANCE: accounts/leadership + family own-records -----
+
+      // Per-student fee invoices: finance/leadership read all; a parent/student
+      // reads ONLY their own (their query must filter `studentId == <own>`).
+      match /fee_invoices/{docId} {
+        allow read: if isSuperAdmin() || isFeesStaff(schoolId)
+          || ownsStudentId(schoolId, resource.data.studentId);
+        allow write: if isSuperAdmin() || isFeesStaff(schoolId);
+      }
+      match /fee_payments/{docId} {
+        allow read: if isSuperAdmin() || isFeesStaff(schoolId)
+          || ownsStudentId(schoolId, resource.data.studentId);
+        allow write: if isSuperAdmin() || isFeesStaff(schoolId);
+      }
+      // Receipt-number counter (internal) — accounts/leadership only.
+      match /finance_counters/{docId} {
+        allow read, write: if isSuperAdmin() || isFeesStaff(schoolId);
+      }
+
+      // ----- PAYROLL: HR / accounts / leadership only (never families) -----
+      match /payroll_runs/{docId} {
+        allow read, write: if isSuperAdmin() || isPayrollStaff(schoolId);
+      }
+      match /payslips/{docId} {
+        allow read, write: if isSuperAdmin() || isPayrollStaff(schoolId);
+      }
+      match /salary_structures/{docId} {
+        allow read, write: if isSuperAdmin() || isPayrollStaff(schoolId);
+      }
+
+      // ----- STUDENT RECORDS: staff (broad) + family own-records -----
+      // Student docs carry Aadhaar/address/guardians — parents/students read ONLY
+      // their own (doc id == studentId). Staff retain broad access (lists, profiles).
+      match /students/{docId} {
+        allow read: if isSuperAdmin() || isStaff(schoolId) || ownsStudentId(schoolId, docId);
+        allow write: if isSuperAdmin() || isStaff(schoolId);
+      }
+
+      // ----- STAFF (HR) RECORDS: staff read directory; HR/leadership write -----
+      match /staff/{docId} {
+        allow read: if isSuperAdmin() || isStaff(schoolId);
+        allow write: if isSuperAdmin() || isHrStaff(schoolId);
+      }
+
+      // ----- CONSENT (DPDP): consent/data-protection staff + leadership -----
+      match /consent_records/{docId} {
+        allow read, write: if isSuperAdmin() || isConsentStaff(schoolId);
+      }
+
+      // ----- SPECIAL EDUCATION (IEP) / THERAPY: special-ed + leadership -----
+      match /iep_plans/{docId} {
+        allow read, write: if isSuperAdmin() || isSpedStaff(schoolId);
+      }
+      match /therapy_logs/{docId} {
+        allow read, write: if isSuperAdmin() || isSpedStaff(schoolId);
+      }
+
+      // ----- ACADEMIC RECORDS (attendance / marks / exam results / HPC) -----
+      // These store a whole class in one document (entries keyed by studentId), so
+      // per-family READ scoping must wait for the Danger-2 reshape; for now reads
+      // stay member-wide but WRITES are limited to academic staff (no more "any
+      // staff can edit marks"). HPC co-scholastic writes include sports/arts
+      // teachers (decision 2026-06-17, via isAcademicStaff).
+      match /attendance_days/{docId} {
+        allow read: if isSuperAdmin() || isActiveMember(schoolId);
+        allow write: if isSuperAdmin() || isAcademicStaff(schoolId);
+      }
+      match /assessment_results/{docId} {
+        allow read: if isSuperAdmin() || isActiveMember(schoolId);
+        allow write: if isSuperAdmin() || isAcademicStaff(schoolId);
+      }
+      match /exam_results/{docId} {
+        allow read: if isSuperAdmin() || isActiveMember(schoolId);
+        allow write: if isSuperAdmin() || isAcademicStaff(schoolId);
+      }
+      match /hpc_cards/{docId} {
+        allow read: if isSuperAdmin() || isActiveMember(schoolId);
+        allow write: if isSuperAdmin() || isAcademicStaff(schoolId);
+      }
+
+      // ----- DEFAULT tenant data -----
+      // Any other school subcollection (NOT one of the restricted ones above):
+      // tenant-scoped. Active members read; staff write. Modules refine these
+      // per-collection as they are built.
+      match /{collection}/{docId} {
+        allow read: if !isRestrictedCollection(collection)
+          && (isSuperAdmin() || isActiveMember(schoolId));
+        allow write: if !isRestrictedCollection(collection)
+          && (isSuperAdmin() || isStaff(schoolId));
+
+        // Nested grandchild docs inherit the same tenant boundary.
+        match /{document=**} {
+          allow read: if !isRestrictedCollection(collection)
+            && (isSuperAdmin() || isActiveMember(schoolId));
+          allow write: if !isRestrictedCollection(collection)
+            && (isSuperAdmin() || isStaff(schoolId));
+        }
+      }
+    }
+
+    // Platform subscriptions / plans / settings / flags / announcements.
+    match /subscriptions/{id} {
+      allow read: if isSuperAdmin();
+      allow write: if isSuperAdmin();
+    }
+    match /plans/{id} {
+      allow read: if signedIn();          // shown in-app
+      allow write: if isSuperAdmin();
+    }
+    match /platform_settings/{id} {
+      allow read: if signedIn();
+      allow write: if isSuperAdmin();
+    }
+    // Feature flags: any signed-in user reads (SessionProvider resolves flags at
+    // boot); only super admin writes.
+    match /feature_flags/{id} {
+      allow read: if signedIn();
+      allow write: if isSuperAdmin();
+    }
+    // Data-driven role definitions: any signed-in user reads (the session resolves
+    // their role's permissions at boot); only a super admin creates/edits roles.
+    match /roleDefinitions/{id} {
+      allow read: if signedIn();
+      allow write: if isSuperAdmin();
+    }
+    match /platform_announcements/{id} {
+      allow read: if signedIn();
+      allow write: if isSuperAdmin();
+    }
+    // Platform activity feed — super-admin readable; append-only.
+    match /platform_activity/{id} {
+      allow read: if isSuperAdmin();
+      allow create: if isSuperAdmin();
+      allow update, delete: if false;
+    }
+    // Impersonation sessions — super-admin only; create + end (update endedAt).
+    match /impersonation_sessions/{id} {
+      allow read, create, update: if isSuperAdmin();
+      allow delete: if false;
+    }
+    // Platform audit log: append-only, super-admin readable.
+    match /platform_audit_log/{id} {
+      allow read: if isSuperAdmin();
+      allow create: if isSuperAdmin();
+      allow update, delete: if false;
+    }
+
+    // Anything not matched above is denied.
+  }
+}
