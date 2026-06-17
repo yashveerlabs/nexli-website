@@ -113,20 +113,27 @@ export function ReportCardDoc({
       <section className="rc-doc__section">
         <h2 className="rc-doc__section-title">Summary</h2>
         <div className="rc-summary">
-          <div className="rc-stat">
-            <div className="rc-stat__label">Percentage</div>
-            <div className="rc-stat__value">{card.totals.percentage}%</div>
-          </div>
+          {/* Marks-derived stats are shown only when marks exist, so an unmarked
+              card never prints a misleading 0% / "Fail" (parity with the hub,
+              generate preview and family list, which all gate on totals.max > 0). */}
+          {card.totals.max > 0 && (
+            <div className="rc-stat">
+              <div className="rc-stat__label">Percentage</div>
+              <div className="rc-stat__value">{card.totals.percentage}%</div>
+            </div>
+          )}
           {card.totals.cgpa != null && (
             <div className="rc-stat">
               <div className="rc-stat__label">CGPA</div>
               <div className="rc-stat__value">{card.totals.cgpa}</div>
             </div>
           )}
-          <div className="rc-stat">
-            <div className="rc-stat__label">Result</div>
-            <div className="rc-stat__value" style={{ color: 'var(--gold)' }}>{result.label}</div>
-          </div>
+          {card.totals.max > 0 && (
+            <div className="rc-stat">
+              <div className="rc-stat__label">Result</div>
+              <div className="rc-stat__value" style={{ color: 'var(--gold)' }}>{result.label}</div>
+            </div>
+          )}
           {card.rank != null && (
             <div className="rc-stat">
               <div className="rc-stat__label">Class rank</div>
