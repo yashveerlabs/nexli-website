@@ -117,12 +117,14 @@ const blankForm = () => ({
 
 function StudentPassport({ embedded }: { embedded?: boolean }) {
   const toast = useToast();
-  const { schoolId, uid, member } = useSession();
+  const { schoolId, uid, member, school } = useSession();
   const ctx = useStudentContext();
   const studentId = ctx.studentId;
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
 
   const { data: entries, loading } = useStudentPortfolio(schoolId, studentId);
+  // Sort client-side (the query has no orderBy — see useStudentPortfolio).
+  const sorted = useMemo(() => [...entries].sort((a, b) => (b.date ?? 0) - (a.date ?? 0)), [entries]);
   const summary = useMemo(() => computeSkillsSummary(entries), [entries]);
 
   const [open, setOpen] = useState(false);
@@ -211,11 +213,12 @@ function StudentPassport({ embedded }: { embedded?: boolean }) {
     if (!ctx.schoolId) return;
     const ok = printPassport(
       buildPassportHtml({
-        schoolName: 'Skills Passport',
+        schoolName: school?.name ?? 'School',
+        schoolLocation: [school?.city, school?.state].filter(Boolean).join(', ') || undefined,
         studentName,
         studentClass,
         generatedDateText: formatDate(Date.now()),
-        entries,
+        entries: sorted,
         summary,
       }),
     );
@@ -272,7 +275,7 @@ function StudentPassport({ embedded }: { embedded?: boolean }) {
           ) : (
             <Panel>
               <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
-                {entries.map((e) => (
+                {sorted.map((e) => (
                   <EntryCard key={e.id} entry={e} onEdit={() => openEdit(e)} onDelete={() => void remove(e)} />
                 ))}
               </div>

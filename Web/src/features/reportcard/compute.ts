@@ -25,18 +25,26 @@ import type {
 /** A grading scheme reduced to just what the scoring math needs. */
 type ScoringScheme = Pick<ReportCardScheme, 'gradeBands' | 'passPercent' | 'components'>;
 
+/**
+ * Find the grade band for a percentage. Picks the HIGHEST band whose `minPct` the
+ * score reaches (bands sorted desc), so fractional scores in a boundary gap (e.g.
+ * 90.5% between an 81–90 and a 91–100 band) grade correctly instead of falling
+ * through to the lowest/failing band. `maxPct` is intentionally not used here.
+ */
+function bandFor(gradeBands: ReportCardScheme['gradeBands'], pct: number) {
+  const p = Math.max(0, Math.min(100, pct));
+  const sorted = [...gradeBands].sort((a, b) => b.minPct - a.minPct);
+  return sorted.find((b) => p >= b.minPct) ?? sorted[sorted.length - 1];
+}
+
 /** Map a percentage (0–100) to the scheme's grade band label. */
 export function gradeFor(scheme: Pick<ReportCardScheme, 'gradeBands'>, pct: number): string {
-  const p = Math.max(0, Math.min(100, pct));
-  const band = scheme.gradeBands.find((b) => p >= b.minPct && p <= b.maxPct);
-  return band?.grade ?? scheme.gradeBands[scheme.gradeBands.length - 1]?.grade ?? '—';
+  return bandFor(scheme.gradeBands, pct)?.grade ?? '—';
 }
 
 /** Grade point for a percentage, when the scheme defines points. */
 export function pointFor(scheme: Pick<ReportCardScheme, 'gradeBands'>, pct: number): number | undefined {
-  const p = Math.max(0, Math.min(100, pct));
-  const band = scheme.gradeBands.find((b) => p >= b.minPct && p <= b.maxPct);
-  return band?.point;
+  return bandFor(scheme.gradeBands, pct)?.point;
 }
 
 const round1 = (n: number) => Math.round(n * 10) / 10;

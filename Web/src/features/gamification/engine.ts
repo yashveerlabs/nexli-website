@@ -62,6 +62,9 @@ export function computeAttendance(days: AttendanceDay[], studentId: string): {
     total++;
     const isPresent = PRESENT.has(st);
     if (isPresent) present += st === 'half_day' ? 0.5 : 1;
+    // Approved leave counts in the % denominator (parity with rankings) but must
+    // FREEZE the streak — an excused absence shouldn't break a present-day run.
+    if (st === 'leave') continue;
     marks.push({ date: d.date, present: isPresent });
   }
   marks.sort((a, b) => a.date.localeCompare(b.date));

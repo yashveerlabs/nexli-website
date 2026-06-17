@@ -22,6 +22,7 @@ export const APP_MODULES: AppModule[] = [
   { key: 'exams', label: 'Examinations', legacy: 'exams' },
   { key: 'qpaper', label: 'Question papers', legacy: 'exams' },
   { key: 'hpc', label: 'Progress cards (HPC)', legacy: 'gradebook' },
+  { key: 'reportcard', label: 'Report cards', legacy: 'gradebook' },
   { key: 'library', label: 'Library', legacy: 'library' },
   { key: 'fees', label: 'Fees & finance', legacy: 'fees' },
   { key: 'expense', label: 'Expense & procurement', legacy: 'expense' },

@@ -72,13 +72,15 @@ export function parseSkills(raw: string): string[] {
 }
 
 /**
- * A student's own portfolio entries, newest first (own-record scope:
- * `where studentId == <id>`).
+ * A student's own portfolio entries (own-record scope: `where studentId == <id>`).
+ * No `orderBy` here — a where+orderBy on different fields needs a composite index
+ * (not declared), which would make the query fail and the passport load empty.
+ * Callers sort client-side by `date` (matches the rankings/career convention).
  */
 export function useStudentPortfolio(schoolId?: string, studentId?: string) {
   return useCollection<PortfolioEntry>(
     schoolId && studentId
-      ? query(tenantCol(schoolId, 'portfolio'), where('studentId', '==', studentId), orderBy('date', 'desc'))
+      ? query(tenantCol(schoolId, 'portfolio'), where('studentId', '==', studentId))
       : null,
     [schoolId, studentId],
   );
