@@ -17,11 +17,11 @@ world's best standalone product for that one feature" research.
 | Module | Folder | Status |
 |---|---|---|
 | Counselling workspace | (built in Track 1 — `features/counseling`) | ✅ Built |
-| Question Paper Generator | `question-paper-generator/` | 🟡 Buildable |
-| Certificate Generator | `certificate-generator/` | 🟡 Buildable |
-| Report Card / NEP Holistic Progress Card | `report-card-hpc/` | 🟡 Buildable |
-| Ranking — marks-based | `ranking-marks/` | 🟡 Buildable |
-| Ranking — attendance-based | `ranking-attendance/` | 🟡 Buildable |
+| Question Paper Generator | `question-paper-generator/` | 🟡 Buildable (plan ✅) |
+| Certificate Generator | `certificate-generator/` | ✅ **Built** (`features/certificates`) + plan |
+| Report Card / NEP Holistic Progress Card | `report-card-hpc/` | 🟡 Buildable (plan ✅; NEP HPC already exists) |
+| Ranking — marks-based | `ranking-marks/` | ✅ **Built** (`features/rankings`) |
+| Ranking — attendance-based | `ranking-attendance/` | ✅ **Built** (`features/rankings`) |
 
 ### Part C — differentiators (engagement / AI / trust)
 | Module | Folder | Status |

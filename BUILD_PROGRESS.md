@@ -50,17 +50,26 @@ Plans live in `docs/feature-plans/<module>/` (see that folder's `README.md` for 
 - C: apaar-abc-digilocker, upi-autopay-reconciliation, esign-document-management
 - D: secure-online-exam, iot-campus-safety, whatsapp-automation, sso-open-api, ai-at-risk, cashless-wallet
 
+**Planning: ✅ COMPLETE** — all 4 agents finished; **71 plan files across 17 modules** under `docs/feature-plans/`
+(each module has `research.md` + `Phase-1…N.md`, every Phase-1 with a "BLOCKED vs buildable-now" header).
+
 **Built modules (offline, real data):**
 | Module | Status |
 |---|---|
 | Counselling workspace (`features/counseling`) | ✅ Built (Track 1) |
 | Rankings — marks engine + attendance engine (`features/rankings`) | ✅ Built |
+| Certificate Generator (`features/certificates`) | ✅ Built |
 
-Rankings: separate marks (normalised exam %) + attendance engines, school/grade/section scopes,
-paginated full lists, tie-breaks, medals, staff-only, honest empty states. Nav `Rankings` gated by `exams.read`.
+- Rankings: separate marks (normalised exam %) + attendance engines, school/grade/section scopes, paginated lists, tie-breaks, medals, staff-only, honest empty states. Nav `Rankings` gated by `exams.read`.
+- Certificates: issue Bonafide/Character/Conduct/Leaving/Transfer, auto-filled from student record, atomic serial numbers, issuance register + re-print, offline print-ready HTML. Nav `Certificates` gated by `students.write`.
 
-**Pending build (buildable; plans being written):** question paper generator, certificate generator,
-report card / NEP HPC, gamified dashboard, skills passport, career-counselling (assessment logic).
+**Pending build (buildable; full plans written):** question paper generator (needs a question-bank build),
+report card / NEP HPC (HPC exists; add traditional marks card), gamified dashboard, skills passport,
+career-counselling (assessment-scoring logic).
+
+**Rules follow-up (note):** the new `certificates` + `certificate_counters` + `counseling`(already locked) +
+ranking-read collections — `certificates` currently uses the default tenant rule (staff write / member read).
+Add `certificates` to the Phase-A own-scoped/role-locked rules before real use (one-line rules edit + redeploy).
 
 **Blocked (plan + offline shell only — no faked live services):** APAAR/ABC/DigiLocker, UPI AutoPay/eNACH,
 secure online exam (proctoring), IoT campus safety (hardware), WhatsApp Business API, SSO/Open API,
