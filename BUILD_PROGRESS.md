@@ -135,6 +135,8 @@ cashless wallet (gateway), e-sign (legal), AI at-risk (AI key — scoring logic 
     one-time flash is the Firestore cached→server snapshot settle (+ React StrictMode in dev), which is why it
     clears on reload. Noted; no code change.
   - Checks: build + strict typecheck green; rules untouched → emulator tests still **145/0**.
+- 2026-06-18 — Synced docs: `context/CONTEXT.md` refreshed (demo now ships seeded academic data; added the
+  live working-doc list). `BUILD_PROGRESS.md` is the running build log; per-session status lives in `resume/RESUME.md`.
 
 ### Buildable Track-2 wave — ✅ COMPLETE
 All buildable modules the user listed are built, integrated, gated (build + strict typecheck + rules tests 119/0), verified, and committed: counselling (T1), rankings (marks + attendance), certificate generator, question paper generator, report card (traditional marks), gamified dashboard, skills passport, career-counselling. Remaining Track-2 items are the **blocked** integrations (plans + offline shells only — no faked connections): APAAR/ABC/DigiLocker, UPI AutoPay/eNACH, secure online exam (proctoring), IoT campus safety, WhatsApp Business API, SSO/Open API, cashless wallet, e-sign, AI at-risk (scoring logic buildable; model blocked).

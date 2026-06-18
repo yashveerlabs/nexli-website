@@ -62,6 +62,7 @@ It's for everyone in and around a school:
 - **`reference/`** — the design reference (HTML/CSS the app's visual style is matched to).
 - **`Android/` and `Ios/`** — **EMPTY placeholder folders.** There are **no native apps**; the product is the installable **PWA in `Web/`**.
 - **Project-root docs:** `NEXLI_MASTER_SPECIFICATION.md` (the blueprint), `NEXLI_BUILD_PLAN.md` (architecture/plan), `NEXLI_TEST_PLAN.md` (every demo account + how to test), `PHASE_A_PLAN.md` (security-tightening plan), `FIREBASE_SETUP.md`, plus dated snapshots `AUDIT_REPORT.md` and `BILLING_REVIEW.md` — and now **`context/CONTEXT.md`** (this file) and **`resume/RESUME.md`**.
+- **Live working docs (kept current each session):** **`BUILD_PROGRESS.md`** — the running build log (what was fixed/built, gates run, rules deployed); **`TEST_RESULTS.md`** — the mobile UI test report; **`RETEST_PLAN.md`** — the focused, phone-friendly re-test plan covering only what changed. Phased feature plans live under **`docs/feature-plans/<module>/`**.
 
 ## 8. The demo school and test accounts
 - One demo tenant: **`nexli-demo` = "Nexli Demo International School."**
@@ -71,6 +72,7 @@ It's for everyone in and around a school:
 - **Every demo account shares ONE password** (written in `NEXLI_TEST_PLAN.md`). Realistic Indian names and valid-looking emails/phone numbers — no gibberish.
 - The **real owner Super Admin `yashveersr4@gmail.com`** is separate and is never touched.
 - The complete account list + a step-by-step testing order is in **`NEXLI_TEST_PLAN.md`** (project root).
+- **Seeded academic data (so the modules show real numbers, not empty states):** ~30 school days of **attendance** across all 45 sections (a realistic present/absent/late/leave mix), one published **"Term 1 Examination"** with marks across each grade's subjects, **published report cards** for all 300 students (CBSE 9-point, class-ranked), and **fees** — annual invoices with a realistic paid / part-paid / unpaid mix giving real outstanding dues (~₹85 lakh). Added *additively* by `Web/scripts/seed-academic-demo.mjs` (idempotent; accounts/students/staff are never modified). This makes Rankings, Report Cards, the dashboards and the Fees figures all show live numbers.
 
 ## 9. The important rules and decisions we've made
 - **Charge by school size, not by features.** Every feature is included on every plan; price comes from the student-count band; **AI is the only paid add-on**; a per-school custom/founding price can override the band.
