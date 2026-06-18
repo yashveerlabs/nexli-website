@@ -27,7 +27,7 @@ function pctFor(days: AttendanceDay[], studentId: string) {
 export function AcademicAnalyticsTab() {
   const { schoolId } = useSession();
   const { data: students, loading: sLoading, error: sError } = useStudents(schoolId);
-  const { data: attendance, loading: aLoading } = useAllAttendance(schoolId);
+  const { data: attendance, loading: aLoading, error: aError } = useAllAttendance(schoolId);
   const { data: grades } = useGrades(schoolId);
 
   const active = useMemo(() => students.filter((s) => s.status === 'active'), [students]);
@@ -57,8 +57,8 @@ export function AcademicAnalyticsTab() {
 
   if (sLoading || aLoading) return <Skeleton height={320} />;
 
-  if (sError) {
-    return <Panel><EmptyState icon="alert-triangle" title="Could not load student data" message="We could not reach the student records. Please try again." /></Panel>;
+  if (sError || aError) {
+    return <Panel><EmptyState icon="alert-triangle" title="Could not load analytics data" message="We could not reach the student or attendance records. Please try again." /></Panel>;
   }
 
   if (active.length === 0) {

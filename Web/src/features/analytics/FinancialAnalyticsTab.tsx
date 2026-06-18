@@ -70,7 +70,7 @@ export function FinancialAnalyticsTab() {
     { label: 'Not due', val: a.ageing.current, color: 'var(--success)' },
     { label: '1–30 days', val: a.ageing.d30, color: 'var(--warning)' },
     { label: '31–60 days', val: a.ageing.d60, color: 'var(--warning)' },
-    { label: '60+ days', val: a.ageing.d90, color: 'var(--danger)' },
+    { label: '61+ days', val: a.ageing.d90, color: 'var(--danger)' },
   ];
 
   return (

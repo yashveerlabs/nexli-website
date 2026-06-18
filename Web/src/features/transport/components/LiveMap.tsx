@@ -13,7 +13,8 @@ interface MarkerPoint {
 const busIcon = L.divIcon({ className: '', html: '<div class="ops-bus-marker">🚌</div>', iconSize: [30, 30], iconAnchor: [15, 15] });
 const stopIcon = L.divIcon({ className: '', html: '<div class="ops-stop-marker"></div>', iconSize: [14, 14], iconAnchor: [7, 7] });
 
-// Default centre: Delhi (a sensible India fallback when no points exist).
+// Geographic placeholder — only used when no stops or positions have coords.
+// Schools may be anywhere in India; update if a school-level lat/lng is ever stored.
 const FALLBACK_CENTER: [number, number] = [28.6139, 77.209];
 
 /**

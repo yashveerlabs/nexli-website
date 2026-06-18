@@ -19,7 +19,7 @@ export function VaultTab() {
   const { schoolId, uid, member, can } = useSession();
   const canWrite = can('compliance.write');
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
-  const { data: docs, loading } = useComplianceDocuments(schoolId);
+  const { data: docs, loading, error } = useComplianceDocuments(schoolId);
 
   const [editing, setEditing] = useState<ComplianceDocument | null | undefined>(undefined);
   const [removing, setRemoving] = useState<ComplianceDocument | null>(null);
@@ -74,6 +74,8 @@ export function VaultTab() {
 
       {loading ? (
         <Skeleton height={200} />
+      ) : error ? (
+        <Panel><EmptyState icon="alert-triangle" title="Could not load documents" message="We could not reach the document vault. Please try again." /></Panel>
       ) : sorted.length === 0 ? (
         <Panel><EmptyState icon="file-text" title="Vault is empty" message={canWrite ? 'Add key statutory documents to track their validity.' : 'School documents will appear here.'} /></Panel>
       ) : (

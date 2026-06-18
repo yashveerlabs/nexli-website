@@ -94,7 +94,7 @@ export function AllocationsTab() {
         blockId: block.id, blockName: block.name,
         roomId: room.id, roomNumber: room.number,
         bedNo: bedNo.trim() || undefined,
-        fromDate: fromDate ? new Date(fromDate).getTime() : Date.now(),
+        fromDate: fromDate ? new Date(`${fromDate}T00:00:00`).getTime() : Date.now(),
         active: true,
       }, actor);
       // Keep the room's stored occupied count in sync.
