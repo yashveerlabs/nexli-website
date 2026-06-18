@@ -170,3 +170,39 @@ Re-deploy command (Admin SDK, no CLI login):
 - portfolio rule stays `isStaff` for verify/read (tightening risked a new mismatch lockout; the critical
   no-self-verify is enforced). `reportCardSchemes` write stays `isAcademicStaff` (minor lab-assistant over-grant).
 - `useEscapeKey` closes all stacked overlays (rare; a correct fix needs an overlay-stack manager).
+
+---
+
+## 2026-06-18 — Product review pass: UX, permissions, dashboards, certificates, transport, report cards
+
+6 Opus subagents in parallel across 12 product requirements. **Build green, `tsc --noEmit` exits 0, Firestore rules tests 145/0 (unchanged).**
+
+### Items implemented
+
+**1. Chairman Dashboard** — New `ExecutiveDashboard.tsx` with `ChairmanView`: KPI band (students/staff/attendance/fees), fee collection donut + MoM trend, horizontal enrollment-by-grade chart (gold = above average, muted = below), attendance health donut, at-risk count, institutional KPIs. No operational controls.
+
+**2. Trustee Dashboard** — `TrusteeView` in `ExecutiveDashboard.tsx`: KPI band, fee collection donut + defaulter count, horizontal enrollment chart, admissions funnel context, student + staff attendance panels, operations summary.
+
+**3. Director/CEO Dashboard** — `DirectorView` in `ExecutiveDashboard.tsx`: financial P&L KPIs (collected, outstanding, MoM trend), enrollment by grade, operations overview, attendance health, compliance notices count.
+
+**4. Dashboard Charts** — "Enrolment by grade" vertical BarChart replaced with `EnrolmentByGradeChart` (horizontal progress bars, gold fill ≥ mean / muted below, count on right, total at bottom) in both `StaffDashboard.tsx` and `ExecutiveDashboard.tsx`. `StaffDashboard.tsx` delegates to `ExecutiveDashboard` for `chairman | trustee | director` roles.
+
+**5. Certificate Generation** — Free-text "Certificate Name / Purpose" replaces type dropdown. New fields: logo URL, accent color picker (default gold), Portrait/Landscape layout, Serif/Sans/Mono font. Live preview panel (`CertificatePreview.tsx`, ResizeObserver-scaled A4) in two-column layout. `CertificateType` extended with `'custom'`; `certName` persisted to DB; familiar names auto-classify to typed templates; novel names use generic prose. Strict TS 0 errors.
+
+**6. Attendance UX** — `MarkAttendancePage.tsx`: before "Pick a section" state, two premium visualizations appear: (a) "Today's Top Sections" — horizontal progress bars for top 5 sections by attendance %, color-coded green/gold/red; (b) "7-Day Overview" — mini sparkline bar chart + school-wide average %. Grid collapses to single column on mobile. `useAllAttendance` loaded conditionally (only when no section selected).
+
+**7. Principal — Question Papers** — `qpaper` added to `MODULE_OWNERSHIP` (owners = teachers/HOD/exam controller/coordinator; secondary = VP/academic director; reviewers = principal). All four qpaper pages now gate create/edit/delete on `useOwnership('qpaper').canOperate`. Principal sees `ReviewModeNote` (review-only read access). Previously: unmodelled module → principal was treated as operator.
+
+**8. Report Card System** — CRITICAL BUG FIXED: `autoFillSubjects` in `compute.ts` now uses `paperId` (Firestore doc ID) instead of `subjectId` to look up marks — this was causing zero marks on all auto-generated cards. Plus: new `GradingSystemModal.tsx` adds A/B/C/D, A1/A2/B1/B2, custom grading system types per scheme; sports/activities/achievements/remarks fields on report card form and printed doc; `ReportCardTrend.tsx` shows term-over-term performance bar chart + sports/activities summary; `ReportCardDoc.tsx` has flexible logo-left layout. Full strict TS 0 errors.
+
+**9. Holistic Progress Card** — Principal's HPC write gate changed from `can('gradebook.write')` to `useOwnership('hpc').canOperate` in `HpcHub.tsx`, `HpcFormPage.tsx`, `HpcCardView.tsx`. Principal is already modelled as reviewer (not owner) in `MODULE_OWNERSHIP.hpc` → create/edit/submit hidden, approve/return preserved.
+
+**10. Payroll Permissions** — `SalaryStructureFormPage.tsx`: principal (and any reviewer with `payroll.read`) now sees salary structures in read-only mode (disabled fieldset, no save bar). Previously hard-blocked non-operators with a "Not allowed" lock.
+
+**11. Transport Module** — New `FleetTab.tsx` as first tab ("Fleet") in `TransportHub.tsx`. Each bus card: reg number, status badge, compliance summary, driver/conductor rows, route chip (linked via `route.vehicleId`). "View Details" modal: vehicle, driver/conductor, route stops, compliance docs. "Live Map" button switches to map tab. `VehiclesTab` remains as management tab.
+
+**12. Role Management** — `catalog.ts`: `class_teacher` and `subject_teacher` get unscoped `students.write` in raw permissions (enables add + import student). VP/coordinator roles already had `users: MANAGE` — no change needed. Principal stays wildcard.
+
+### Files changed
+**New:** `ExecutiveDashboard.tsx`, `CertificatePreview.tsx`, `FleetTab.tsx`, `GradingSystemModal.tsx`, `ReportCardTrend.tsx`
+**Modified (26 files):** attendance/MarkAttendancePage + css; certificates/CertificatesHub + data + print; dashboards/StaffDashboard; hpc/HpcCardView + HpcFormPage + HpcHub; payroll/SalaryStructureFormPage; qpaper ×4; reportcard ×6 + css; transport/TransportHub + css; lib/ownership + roles/catalog; types/daily + reportcard
