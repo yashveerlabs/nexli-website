@@ -4,7 +4,7 @@ import { Panel } from '@/components/Panel';
 import { Skeleton } from '@/components/feedback';
 import { useSession } from '@/app/providers/SessionProvider';
 import { useStudentsByIds } from '@/features/school/data';
-import { useAllAttendance } from '@/features/daily/data';
+import { useAttendanceBySections } from '@/features/daily/data';
 import { FamilyChildrenGrid } from './FamilyChildrenGrid';
 
 /**
@@ -16,7 +16,13 @@ export function MyChildrenPage() {
   const { schoolId, member } = useSession();
   const childIds = useMemo(() => member?.childStudentIds ?? [], [member]);
   const { data: children, loading: sLoading } = useStudentsByIds(schoolId, childIds);
-  const { data: attendance, loading: aLoading } = useAllAttendance(schoolId);
+  // Scope attendance to the children's own sections — never the whole collection
+  // (tightened rules deny non-staff a full attendance_days list).
+  const childSectionIds = useMemo(
+    () => [...new Set(children.map((c) => c.sectionId).filter((id): id is string => !!id))],
+    [children],
+  );
+  const { data: attendance, loading: aLoading } = useAttendanceBySections(schoolId, childSectionIds);
 
   return (
     <div className="nx-page">

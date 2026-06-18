@@ -88,6 +88,9 @@ export function ResultsTab({ exam }: { exam: Exam }) {
   }, [results]);
 
   // Seed editable marks from saved results whenever the section/roster changes.
+  // Use a stable identity key (joined ids) so a same-length roster change
+  // (e.g. one student swapped out) still triggers a re-seed.
+  const rosterKey = roster.map((s) => s.id).join(',');
   useEffect(() => {
     if (!sectionId) return;
     const seed: MarksMap = {};
@@ -96,7 +99,8 @@ export function ResultsTab({ exam }: { exam: Exam }) {
       seed[s.id] = saved ? { ...saved.marks } : {};
     }
     setMarks(seed);
-  }, [sectionId, roster.length, results]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [sectionId, resultsById, rosterKey]);
 
   const setMark = (studentId: string, paperId: string, raw: string) => {
     setMarks((prev) => {

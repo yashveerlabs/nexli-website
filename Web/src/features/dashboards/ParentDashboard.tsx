@@ -7,7 +7,7 @@ import { EmptyState } from '@/components/feedback';
 import { formatRelative } from '@/lib/format';
 import { useSession } from '@/app/providers/SessionProvider';
 import { useStudentsByIds } from '@/features/school/data';
-import { useAllAttendance, useCirculars, useHomework } from '@/features/daily/data';
+import { useAttendanceBySections, useCirculars, useHomeworkBySections } from '@/features/daily/data';
 import { CIRCULAR_CATEGORY_META } from '@/features/daily/meta';
 import { FamilyChildrenGrid } from '@/features/family/FamilyChildrenGrid';
 import './dashboards.css';
@@ -18,15 +18,22 @@ export function ParentDashboard() {
   const { schoolId, member } = useSession();
   const childIds = member?.childStudentIds ?? [];
   const { data: children } = useStudentsByIds(schoolId, childIds);
-  const { data: attendance } = useAllAttendance(schoolId);
+  // Derive section ids from the children's own records so attendance and homework
+  // queries are scoped to only those sections — never the whole collection (which
+  // tightened rules deny to non-staff / parent accounts).
+  const childSectionIds = useMemo(
+    () => [...new Set(children.map((c) => c.sectionId).filter((id): id is string => !!id))],
+    [children],
+  );
+  const { data: attendance } = useAttendanceBySections(schoolId, childSectionIds);
   const { data: circulars } = useCirculars(schoolId);
-  const { data: homework } = useHomework(schoolId);
+  const { data: homework } = useHomeworkBySections(schoolId, childSectionIds);
   const name = member?.name?.split(' ')[0] ?? 'there';
 
-  const childSectionIds = new Set(children.map((c) => c.sectionId).filter(Boolean));
+  const childSectionIdSet = useMemo(() => new Set(childSectionIds), [childSectionIds]);
   const upcomingHw = useMemo(
-    () => homework.filter((h) => childSectionIds.has(h.sectionId) && (h.dueDate ?? 0) >= Date.now() - 86400000).sort((a, b) => (a.dueDate ?? 0) - (b.dueDate ?? 0)).slice(0, 5),
-    [homework, children],
+    () => homework.filter((h) => childSectionIdSet.has(h.sectionId) && (h.dueDate ?? 0) >= Date.now() - 86400000).sort((a, b) => (a.dueDate ?? 0) - (b.dueDate ?? 0)).slice(0, 5),
+    [homework, childSectionIdSet],
   );
   const notices = circulars.filter((c) => ['whole_school', 'parents', 'grade', 'section'].includes(c.audience)).slice(0, 5);
 

@@ -45,12 +45,13 @@ export type ResultStatus = 'pass' | 'fail' | 'compartment';
 
 /**
  * Derive a per-student outcome across all papers.
- * - pass: every subject meets its pass mark (or overall ≥ PASS_PERCENT when no pass marks set).
- * - compartment: 1–2 subjects below their pass mark but otherwise strong.
- * - fail: 3+ subjects failed.
+ * - pass: every subject meets its pass mark AND overall ≥ PASS_PERCENT.
+ * - compartment: 1–2 subjects below their pass mark AND overall ≥ PASS_PERCENT.
+ * - fail: 3+ subjects failed, OR overall < PASS_PERCENT regardless of subject count.
  */
 export function resultStatusFor(failedSubjects: number, overallPct: number): ResultStatus {
-  if (failedSubjects === 0) return overallPct >= PASS_PERCENT ? 'pass' : 'fail';
+  if (overallPct < PASS_PERCENT) return 'fail';
+  if (failedSubjects === 0) return 'pass';
   if (failedSubjects <= 2) return 'compartment';
   return 'fail';
 }

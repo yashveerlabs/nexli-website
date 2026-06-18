@@ -50,6 +50,12 @@ export function isDelegationActive(d: Delegation, now: number = Date.now()): boo
  * delegations. Queries only `delegateUid == uid` (no composite index needed on
  * Spark) and filters the window client-side. Used by `SessionProvider` to feed
  * `delegatedModules` into `useOwnership`.
+ *
+ * Because the time-window check is client-side and Firestore only re-delivers
+ * when data changes (not when time passes), a periodic re-check is scheduled so
+ * an expired delegation is evicted within 60 seconds — even if no Firestore
+ * write occurs. The last known snapshot docs are re-filtered against `Date.now()`
+ * every minute until the caller unsubscribes.
  */
 export function subscribeActiveDelegations(
   schoolId: string,
@@ -57,16 +63,31 @@ export function subscribeActiveDelegations(
   cb: (moduleKeys: string[]) => void,
 ): Unsubscribe {
   const q = query(tenantCol(schoolId, 'delegations'), where('delegateUid', '==', uid));
-  return onSnapshot(
+  let lastDelegations: Delegation[] = [];
+
+  const emit = () => {
+    const now = Date.now();
+    const keys = lastDelegations
+      .filter((d) => isDelegationActive(d, now))
+      .map((d) => d.moduleKey);
+    cb(Array.from(new Set(keys)));
+  };
+
+  const unsub = onSnapshot(
     q,
     (snap) => {
-      const now = Date.now();
-      const keys = snap.docs
-        .map((d) => ({ id: d.id, ...(d.data() as object) }) as Delegation)
-        .filter((d) => isDelegationActive(d, now))
-        .map((d) => d.moduleKey);
-      cb(Array.from(new Set(keys)));
+      lastDelegations = snap.docs.map((d) => ({ id: d.id, ...(d.data() as object) }) as Delegation);
+      emit();
     },
-    () => cb([]),
+    () => { lastDelegations = []; cb([]); },
   );
+
+  // Re-evaluate expiry every 60 s so delegations are evicted promptly even
+  // when no Firestore write has triggered a new snapshot.
+  const interval = setInterval(emit, 60_000);
+
+  return () => {
+    unsub();
+    clearInterval(interval);
+  };
 }

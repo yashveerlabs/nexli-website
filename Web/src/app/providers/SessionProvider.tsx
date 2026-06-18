@@ -4,6 +4,7 @@ import {
   useContext,
   useEffect,
   useMemo,
+  useRef,
   useState,
   type ReactNode,
 } from 'react';
@@ -119,8 +120,12 @@ async function loadProfile(user: User): Promise<Partial<SessionState>> {
 
 export function SessionProvider({ children }: { children: ReactNode }) {
   const [state, setState] = useState<SessionState>(initial);
+  // Incremented on every auth-state change so an in-flight loadProfile can detect
+  // that a newer auth event has superseded it and discard its stale result.
+  const seqRef = useRef(0);
 
   const applyUser = useCallback(async (user: User | null) => {
+    const seq = ++seqRef.current;
     if (!user) {
       setState({ ...initial, status: 'unauthenticated' });
       return;
@@ -128,8 +133,11 @@ export function SessionProvider({ children }: { children: ReactNode }) {
     setState((s) => ({ ...s, status: 'loading', firebaseUser: user, uid: user.uid }));
     try {
       const next = await loadProfile(user);
+      // Discard if a newer auth event (logout or re-login) has already fired.
+      if (seqRef.current !== seq) return;
       setState({ ...initial, ...next } as SessionState);
     } catch (err) {
+      if (seqRef.current !== seq) return;
       // eslint-disable-next-line no-console
       console.error('[NEXLI session] failed to load profile', err);
       setState({ ...initial, status: 'no_profile', firebaseUser: user, uid: user.uid });

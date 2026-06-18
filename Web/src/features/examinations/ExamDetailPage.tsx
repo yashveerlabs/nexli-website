@@ -36,6 +36,7 @@ export function ExamDetailPage() {
   const [tab, setTab] = useState<TabId>('planning');
   const [publishing, setPublishing] = useState(false);
   const [removing, setRemoving] = useState(false);
+  const [deleting, setDeleting] = useState(false);
 
   const actor = { uid: uid ?? 'unknown', name: member?.name };
   const gradeName = (gid: string) => grades.find((g) => g.id === gid)?.name ?? gid;
@@ -66,14 +67,14 @@ export function ExamDetailPage() {
 
   const confirmDelete = async () => {
     if (!schoolId) return;
-    setPublishing(true);
+    setDeleting(true);
     try {
       await deleteExam(schoolId, exam.id, actor);
       toast.success('Exam deleted', exam.name);
       navigate('/examinations');
     } catch {
       toast.error('Could not delete', 'Please try again.');
-      setPublishing(false);
+      setDeleting(false);
       setRemoving(false);
     }
   };
@@ -142,7 +143,7 @@ export function ExamDetailPage() {
         onClose={() => setRemoving(false)}
         onConfirm={confirmDelete}
         tone="danger"
-        loading={publishing}
+        loading={deleting}
         title="Delete exam?"
         message={`"${exam.name}", its datesheet and saved results will be removed. This cannot be undone.`}
         confirmLabel="Delete exam"

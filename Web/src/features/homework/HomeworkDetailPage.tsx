@@ -50,7 +50,10 @@ export function HomeworkDetailPage() {
   const [confirmDelete, setConfirmDelete] = useState(false);
   const [deleting, setDeleting] = useState(false);
 
-  const now = Date.now();
+  // Capture now at mount; re-render is triggered by real data changes so this
+  // is sufficiently fresh.  Do not put Date.now() inside useMemo deps or it
+  // would recompute every millisecond.
+  const now = useMemo(() => Date.now(), []);
   const actor = useMemo(() => ({ uid: uid ?? 'unknown', name: member?.name }), [uid, member]);
 
   const sectionId = hw?.sectionId ?? '';
@@ -73,7 +76,9 @@ export function HomeworkDetailPage() {
           status: effectiveStatus(submission?.status, hw.dueDate, submission?.submittedAt, now),
         };
       });
-  }, [hw, students, sectionId, submissions, now]);
+  // `now` is intentionally stable (mount-time snapshot); omitting from deps is fine.
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [hw, students, sectionId, submissions]);
 
   const counts = useMemo(() => {
     const c: Record<HomeworkStatus, number> = { assigned: 0, submitted: 0, late: 0, graded: 0, missing: 0 };
@@ -343,11 +348,16 @@ function GradeModal({
   const [feedback, setFeedback] = useState<string>(row.submission?.feedback ?? '');
   const [saving, setSaving] = useState(false);
 
+  // Seed from the row only when the targeted student changes or the submission
+  // doc itself changes (detected via submittedAt). Depending on the whole `row`
+  // object would re-seed on every parent render (new object reference from
+  // useMemo) and reset in-progress edits.
   useEffect(() => {
     setStatus(row.status);
     setMarks(row.submission?.marks != null ? String(row.submission.marks) : '');
     setFeedback(row.submission?.feedback ?? '');
-  }, [row]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [row.studentId, row.submission?.submittedAt]);
 
   const marksNum = marks.trim() === '' ? undefined : Number(marks);
   const marksInvalid =

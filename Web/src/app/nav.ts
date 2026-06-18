@@ -54,7 +54,7 @@ export const STAFF_NAV: NavItem[] = [
   { id: 'career', label: 'Career Guidance', icon: 'briefcase', path: '/career', permission: 'counseling.read' },
   { id: 'academics', label: 'Academics', icon: 'book', path: '/academics', permission: 'academics.read' },
   { id: 'attendance', label: 'Attendance', icon: 'clock', path: '/attendance', permission: 'attendance.read' },
-  { id: 'staff_attendance', label: 'Staff Attendance', icon: 'clock', path: '/staff-attendance' },
+  { id: 'staff_attendance', label: 'Staff Attendance', icon: 'clock', path: '/staff-attendance', permission: 'hr.read' },
   { id: 'gradebook', label: 'Class Assessments', icon: 'edit', path: '/gradebook', permission: 'gradebook.read' },
   { id: 'homework', label: 'Homework', icon: 'clipboard', path: '/homework', permission: 'homework.read' },
   { id: 'examinations', label: 'Examinations', icon: 'file-text', path: '/examinations', permission: 'exams.read' },
@@ -156,7 +156,10 @@ const byIds = (items: NavItem[], ids: string[]): NavItem[] =>
 export function audienceForRole(role: RoleId | undefined, isSuperAdmin: boolean): NavAudience {
   if (isSuperAdmin || role === 'super_admin') return 'platform';
   if (role === 'parent') return 'parent';
-  if (role === 'student') return 'student';
+  // Student-leader roles (prefect, house_captain) are family/student roles and must
+  // get the student portal — NOT the staff nav. Without this they fell through to
+  // 'staff' and received unrestricted staff navigation.
+  if (role === 'student' || role === 'prefect' || role === 'house_captain') return 'student';
   if (role === 'alumni') return 'alumni';
   return 'staff';
 }

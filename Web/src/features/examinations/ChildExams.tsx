@@ -9,7 +9,7 @@ import { formatDate } from '@/lib/format';
 import type { Student } from '@/types/sis';
 import type { Exam } from '@/types/daily';
 import { sortPapers, endTimeLabel, dateRangeLabel } from './shared';
-import { letterGrade, RESULT_STATUS_META, type ResultStatus } from './examSchema';
+import { letterGrade, resultStatusFor, RESULT_STATUS_META, type ResultStatus } from './examSchema';
 
 export function ChildExams({ exam, student }: { exam: Exam; student: Student }) {
   const { schoolId } = useSession();
@@ -108,7 +108,14 @@ function ReportCard({
   });
   rows.sort((a, b) => a.subject.localeCompare(b.subject));
 
-  const status = (result.resultStatus ?? 'pass') as ResultStatus;
+  // Derive status from saved field; if absent, recompute from marks rather than
+  // defaulting to 'pass' (which would mislead a student whose result was saved
+  // before the resultStatus field existed).
+  const status: ResultStatus = result.resultStatus ?? (() => {
+    if (result.percentage == null) return 'fail';
+    const failed = rows.filter((r) => r.pass != null && r.marks < r.pass).length;
+    return resultStatusFor(failed, result.percentage);
+  })();
   const meta = RESULT_STATUS_META[status];
 
   return (

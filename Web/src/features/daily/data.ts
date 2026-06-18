@@ -51,6 +51,21 @@ export function useAttendanceDay(schoolId?: string, sectionId?: string, date?: s
 export function useSectionAttendance(schoolId?: string, sectionId?: string) {
   return useCollection<AttendanceDay>(schoolId && sectionId ? query(tenantCol(schoolId, 'attendance_days'), where('sectionId', '==', sectionId)) : null, [schoolId, sectionId]);
 }
+/**
+ * Attendance days for a specific set of section ids (up to 30 — Firestore `in`
+ * limit). Designed for parent / student portals where only the family's own
+ * sections should be queried (tightened rules deny non-staff a full collection
+ * list). Falls back to idle when sectionIds is empty or undefined.
+ */
+export function useAttendanceBySections(schoolId?: string, sectionIds?: readonly string[]) {
+  const key = sectionIds ? sectionIds.join(',') : '';
+  return useCollection<AttendanceDay>(
+    schoolId && sectionIds && sectionIds.length > 0
+      ? query(tenantCol(schoolId, 'attendance_days'), where('sectionId', 'in', sectionIds.slice(0, 30)))
+      : null,
+    [schoolId, key],
+  );
+}
 export function useAllAttendance(schoolId?: string) {
   return useCollection<AttendanceDay>(schoolId ? tenantCol(schoolId, 'attendance_days') : null, [schoolId]);
 }
@@ -74,6 +89,20 @@ export const saveAssessmentResult = (s: string, assessmentId: string, d: Omit<As
 /* ---------------- Homework ---------------- */
 export function useHomework(schoolId?: string, sectionId?: string) {
   return useCollection<Homework>(schoolId ? (sectionId ? query(tenantCol(schoolId, 'homework'), where('sectionId', '==', sectionId)) : tenantCol(schoolId, 'homework')) : null, [schoolId, sectionId]);
+}
+/**
+ * Homework for a set of section ids (up to 30 — Firestore `in` limit). Used by
+ * parent portals so only the children's own sections are queried, avoiding a
+ * whole-collection read that tightened rules deny to non-staff.
+ */
+export function useHomeworkBySections(schoolId?: string, sectionIds?: readonly string[]) {
+  const key = sectionIds ? sectionIds.join(',') : '';
+  return useCollection<Homework>(
+    schoolId && sectionIds && sectionIds.length > 0
+      ? query(tenantCol(schoolId, 'homework'), where('sectionId', 'in', sectionIds.slice(0, 30)))
+      : null,
+    [schoolId, key],
+  );
 }
 export const createHomework = (s: string, d: Omit<Homework, 'id'>, a: Actor) => createIn(s, 'homework', d, a, { action: 'homework.created', targetType: 'homework', summary: d.title });
 export const updateHomework = (s: string, id: string, p: Partial<Homework>, a: Actor) => updateIn(s, 'homework', id, p, a);

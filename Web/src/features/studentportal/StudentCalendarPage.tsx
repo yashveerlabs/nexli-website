@@ -19,12 +19,15 @@ function visibleToStudent(e: SchoolEvent, gradeId?: string): boolean {
   if (!isPublished(e) || e.status === 'cancelled') return false;
   switch (e.audience) {
     case 'staff':
+    case 'parents':
       return false;
     case 'grade':
       // Grade-targeted events: show only for the student's own grade.
-      return !e.gradeId || e.gradeId === gradeId;
+      // Guard against missing gradeId: if the event has no gradeId stored,
+      // treat it as whole-school rather than leaking to all grades.
+      return !!e.gradeId && e.gradeId === gradeId;
     default:
-      // whole_school / students / parents / invitees / undefined → visible.
+      // whole_school / students / invitees / undefined → visible.
       return true;
   }
 }

@@ -7,7 +7,7 @@ import { formatRelative } from '@/lib/format';
 import { useSession } from '@/app/providers/SessionProvider';
 import { useStudent } from '@/features/school/data';
 import { useTimetable } from '@/features/school/data';
-import { useHomework, useAllAttendance, useCirculars } from '@/features/daily/data';
+import { useHomework, useSectionAttendance, useCirculars } from '@/features/daily/data';
 import { ATTENDANCE_MIN_PERCENT, CIRCULAR_CATEGORY_META } from '@/features/daily/meta';
 import { DEFAULT_PERIODS, type Weekday } from '@/types/academics';
 import type { AttendanceDay } from '@/types/daily';
@@ -29,7 +29,9 @@ export function StudentDashboard() {
   const sectionId = me?.sectionId;
   const { data: timetable } = useTimetable(schoolId, sectionId);
   const { data: homework } = useHomework(schoolId, sectionId);
-  const { data: attendance } = useAllAttendance(schoolId);
+  // Use section-scoped query so a student-role account never needs list access
+  // to the full attendance_days collection (which tightened rules deny non-staff).
+  const { data: attendance } = useSectionAttendance(schoolId, sectionId);
   const { data: circulars } = useCirculars(schoolId);
 
   const wd = JS_TO_WD[new Date().getDay()];

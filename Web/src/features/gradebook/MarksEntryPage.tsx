@@ -50,12 +50,16 @@ export function MarksEntryPage() {
   );
 
   // Seed entries from the saved result once data is available.
+  // Use a stable identity key (joined ids) so a same-length roster change
+  // (e.g. one student swapped out) still triggers a re-seed.
+  const rosterKey = roster.map((s) => s.id).join(',');
   useEffect(() => {
     if (!sectionId) return;
     const seed: Record<string, AssessmentMark> = {};
     for (const s of roster) seed[s.id] = result?.entries?.[s.id] ?? {};
     setEntries(seed);
-  }, [sectionId, result, roster.length]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [sectionId, result, rosterKey]);
 
   const gradeName = (gid?: string) => grades.find((g) => g.id === gid)?.name;
   const sectionLabel = useMemo(() => {
@@ -186,7 +190,7 @@ export function MarksEntryPage() {
             {canWrite && (
               <Toggle
                 checked={!!assessment.published}
-                onChange={() => togglePublish()}
+                onChange={togglePublish}
                 disabled={publishing}
                 label="Publish"
                 aria-label="Publish assessment"

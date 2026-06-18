@@ -58,7 +58,17 @@ export function generateTempPassword(length = 12): string {
   const pick = (set: string, n: number) => set[n % set.length];
   const chars = [pick(upper, arr[0]), pick(lower, arr[1]), pick(digits, arr[2])];
   for (let i = 3; i < length; i++) chars.push(pick(all, arr[i]));
-  return chars.sort(() => 0.5 - Math.random()).join('');
+  // Cryptographically uniform Fisher-Yates shuffle using a fresh entropy buffer.
+  // The previous `sort(() => 0.5 - Math.random())` produced a biased distribution
+  // (V8's sort is not uniformly random), causing the mandatory upper/lower/digit
+  // characters to cluster near the start of the password.
+  const shuffleBuf = new Uint32Array(length);
+  crypto.getRandomValues(shuffleBuf);
+  for (let i = chars.length - 1; i > 0; i--) {
+    const j = shuffleBuf[i] % (i + 1);
+    [chars[i], chars[j]] = [chars[j], chars[i]];
+  }
+  return chars.join('');
 }
 
 /**
@@ -80,12 +90,19 @@ export async function provisionStaffMember(input: ProvisionStaffInput): Promise<
     return { uid, email: input.email.trim(), password: input.password };
   } finally {
     // Always tear down the secondary session/app, even on error.
+    // Both signOut and deleteApp are fire-and-forget here — a failure to clean up
+    // the throwaway app should not shadow the real provisioning error or create a
+    // false failure when the member docs were already written successfully.
     try {
       await signOut(secondaryAuth);
     } catch {
       /* ignore */
     }
-    await deleteApp(secondaryApp);
+    try {
+      await deleteApp(secondaryApp);
+    } catch {
+      /* ignore — app may already be in a torn-down state */
+    }
   }
 }
 

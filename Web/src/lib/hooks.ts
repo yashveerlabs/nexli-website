@@ -18,6 +18,12 @@ export function usePrefersReducedMotion(): boolean {
 export function useInView<T extends Element>(options?: IntersectionObserverInit) {
   const ref = useRef<T | null>(null);
   const [inView, setInView] = useState(false);
+  // Stabilise options so callers that pass an inline object literal (e.g.
+  // `useInView({ threshold: 0.5 })`) don't recreate the IntersectionObserver on
+  // every render. We store them in a ref: the observer is created once on mount
+  // and the initial options are stable for the element's lifetime (the hook fires
+  // only once anyway — it unobserves on first intersection).
+  const optionsRef = useRef(options);
   useEffect(() => {
     const el = ref.current;
     if (!el) return;
@@ -30,11 +36,12 @@ export function useInView<T extends Element>(options?: IntersectionObserverInit)
           }
         });
       },
-      { threshold: 0.2, ...options },
+      { threshold: 0.2, ...optionsRef.current },
     );
     obs.observe(el);
     return () => obs.disconnect();
-  }, [options]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
   return { ref, inView };
 }
 
