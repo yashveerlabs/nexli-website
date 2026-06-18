@@ -89,7 +89,7 @@ export const ROLE_CATALOG: RoleDefinition[] = [
   r('vp_admin', 'Vice Principal (Admin)', 'leadership', ADMIN_LEAD),
 
   /* --------------------------- academic & teaching --------------------------- */
-  r('academic_coordinator', 'Academic Coordinator', 'academic', {
+  r('academic_coordinator', 'Academic Coordinator (Senior)', 'academic', {
     students: VCEX, certificates: VCE, admissions: VCE, attendance: MANAGE, academics: MANAGE, gradebook: V,
     homework: V, exams: MANAGE, hpc: VCE, reports: VX, hr: V, communication: VCE, events: VCE,
     compliance: V, users: MANAGE, delegation: MANAGE, alumni: VCE,

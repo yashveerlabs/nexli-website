@@ -106,6 +106,24 @@ cashless wallet (gateway), e-sign (legal), AI at-risk (AI key — scoring logic 
     operational staff); question papers → exam-staff-only; career → counselling-staff-only; report-card
     client write unblocks Exam Controller/Coordinators; `consent_purposes` locked. Emulator tests 119 → **145/0**.
   - **STEP 4** — rules **DEPLOYED** via Admin SDK → live ruleset `fa68c528-7134-4bbc-9776-5e4ebf30e21d`. Build green.
+- 2026-06-18 — Retest follow-up (passed all but one tiny display bug):
+  - **F4 fix**: Senior Academic Coordinator label → `Academic Coordinator (Senior)`, so the dashboard
+    greeting shows the tier in parentheses like Junior/Associate (account modal already did). Build green.
+  - **Demo academic data SEEDED** into `nexli-demo` (additive only — Super Admin + every account/student/
+    staff/member doc untouched; Admin SDK `BulkWriter`; idempotent + deterministic; no rule change needed —
+    all seeded collections are readable by the intended roles under the live ruleset). ~2,565 docs:
+    - `attendance_days`: **1,350** (30 school days × 45 sections; realistic present/absent/late/leave mix).
+    - `exams`: 1 published **"Term 1 Examination"** + `exam_papers` **79** (per grade × its subjects, max 100)
+      + `exam_results` **300** (marks per subject, `percentage`+`total` for the marks ranking).
+    - `reportCards`: **300** published CBSE 9-point cards, ranked within section (families see their own).
+    - Fees: 3 `fee_heads`, 5 tier `fee_structures`, **300** `fee_invoices` (135 paid / 90 partial / 75 unpaid)
+      + **225** `fee_payments`. Billed ₹2.15Cr · collected ₹1.30Cr · **OUTSTANDING ₹85,04,500**.
+    - Scripts (committed): `scripts/{inspect-demo,seed-academic-demo,verify-academic-demo}.mjs`
+      (run with `GOOGLE_APPLICATION_CREDENTIALS=serviceAccount.json`).
+  - **Verified** by read-back: marks ranking is fair across classes (UKG 99% ranks above Class 12 39%);
+    attendance ranking spreads 58–100% over 30 days; a sample card has real grades (Nursery-A 80.3%, CGPA 8.3,
+    pass, rank 6/7); dues agree (net−paid) across dashboard/finance/student-profile. Build + typecheck green;
+    emulator rules tests **145/0**. Spark write budget: ~2.6k of 20k/day (representative full set — no subset needed).
 
 ### Buildable Track-2 wave — ✅ COMPLETE
 All buildable modules the user listed are built, integrated, gated (build + strict typecheck + rules tests 119/0), verified, and committed: counselling (T1), rankings (marks + attendance), certificate generator, question paper generator, report card (traditional marks), gamified dashboard, skills passport, career-counselling. Remaining Track-2 items are the **blocked** integrations (plans + offline shells only — no faked connections): APAAR/ABC/DigiLocker, UPI AutoPay/eNACH, secure online exam (proctoring), IoT campus safety, WhatsApp Business API, SSO/Open API, cashless wallet, e-sign, AI at-risk (scoring logic buildable; model blocked).
