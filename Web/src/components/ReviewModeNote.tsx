@@ -10,7 +10,7 @@ import { Icon } from '@/components/Icon';
 export function ReviewModeNote({ owner, children }: { owner: string; children?: ReactNode }) {
   return (
     <div className="nx-review-note" role="note">
-      <Icon name="eye" size={15} aria-hidden="true" />
+      <Icon name="eye" size={15} />
       <span>
         {children ?? (
           <>

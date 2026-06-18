@@ -147,6 +147,7 @@ export function ConfirmModal({
       icon={icon ?? (tone === 'danger' ? 'alert-triangle' : 'help-circle')}
       tone={tone === 'danger' ? 'danger' : 'gold'}
       dismissible={!loading}
+      hideClose={loading}
       footer={
         <>
           <Button type="button" variant="ghost" onClick={onClose} disabled={loading}>

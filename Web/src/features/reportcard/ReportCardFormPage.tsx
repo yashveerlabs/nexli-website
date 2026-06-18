@@ -152,9 +152,10 @@ export function ReportCardFormPage() {
     };
     const present = num(attPresent);
     const total = num(attTotal);
-    const pct = present != null && total != null && total > 0 ? Math.round((present / total) * 100) : 0;
+    const safePresent = present != null && total != null ? Math.min(present, total) : present;
+    const pct = safePresent != null && total != null && total > 0 ? Math.round((safePresent / total) * 100) : 0;
     const attendance =
-      present != null && total != null && total > 0 ? { present, total, pct } : undefined;
+      safePresent != null && total != null && total > 0 ? { present: safePresent, total, pct } : undefined;
     const h = num(heightCm) ?? undefined;
     const w = num(weightKg) ?? undefined;
     const health = h != null || w != null ? { heightCm: h, weightKg: w } : undefined;

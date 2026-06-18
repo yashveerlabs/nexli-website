@@ -111,24 +111,31 @@ function rankAndPaginate(rows: RankRow[], page: number) {
     (a, b) => b.value - a.value || b.tie - a.tie || a.student.fullName.localeCompare(b.student.fullName),
   );
   const total = sorted.length;
+  // Compute tie-aware ranks over the full list so page 2+ shows correct numbers.
+  const ranks: number[] = [];
+  sorted.forEach((r, i) => {
+    if (i === 0) { ranks.push(1); return; }
+    const prev = sorted[i - 1];
+    ranks.push(r.value === prev.value && r.tie === prev.tie ? ranks[i - 1] : i + 1);
+  });
   const slice = sorted.slice(page * PAGE, page * PAGE + PAGE);
-  // Absolute rank = position in the fully sorted list (1-based), accounting for the page offset.
-  return { total, slice, startRank: page * PAGE };
+  const sliceRanks = ranks.slice(page * PAGE, page * PAGE + PAGE);
+  return { total, slice, sliceRanks };
 }
 
 function RankList({ rows, page, setPage, valueSuffix, emptyTitle, emptyMsg }: {
   rows: RankRow[]; page: number; setPage: (n: number) => void; valueSuffix: string; emptyTitle: string; emptyMsg: string;
 }) {
-  const { total, slice, startRank } = useMemo(() => rankAndPaginate(rows, page), [rows, page]);
+  const { total, slice, sliceRanks } = useMemo(() => rankAndPaginate(rows, page), [rows, page]);
   if (total === 0) return <Panel><EmptyState icon="bar-chart" title={emptyTitle} message={emptyMsg} /></Panel>;
-  const from = startRank + 1;
-  const to = Math.min(startRank + slice.length, total);
+  const pageStart = page * PAGE; // 0-based position of first item on this page
+  const pageEnd = pageStart + slice.length; // exclusive
   const medal = (rank: number) => (rank === 1 ? '🥇' : rank === 2 ? '🥈' : rank === 3 ? '🥉' : null);
   return (
     <Panel>
       <div style={{ display: 'flex', flexDirection: 'column', gap: 4 }}>
         {slice.map((r, i) => {
-          const rank = startRank + i + 1;
+          const rank = sliceRanks[i];
           return (
             <Link key={r.student.id} to={`/students/${r.student.id}`}
               style={{ display: 'flex', alignItems: 'center', gap: 12, padding: '9px 4px', textDecoration: 'none', color: 'inherit', borderBottom: '1px solid var(--border, rgba(255,255,255,0.06))' }}>
@@ -148,10 +155,10 @@ function RankList({ rows, page, setPage, valueSuffix, emptyTitle, emptyMsg }: {
         })}
       </div>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginTop: 14, gap: 10 }}>
-        <span style={{ fontSize: 12.5, color: 'var(--text-muted)' }}>Showing {from}–{to} of {total}</span>
+        <span style={{ fontSize: 12.5, color: 'var(--text-muted)' }}>Showing {pageStart + 1}–{pageEnd} of {total}</span>
         <div style={{ display: 'flex', gap: 8 }}>
           <Button variant="ghost" size="sm" leftIcon="chevron-left" disabled={page === 0} onClick={() => setPage(page - 1)}>Prev</Button>
-          <Button variant="ghost" size="sm" rightIcon="chevron-right" disabled={to >= total} onClick={() => setPage(page + 1)}>Next</Button>
+          <Button variant="ghost" size="sm" rightIcon="chevron-right" disabled={pageEnd >= total} onClick={() => setPage(page + 1)}>Next</Button>
         </div>
       </div>
     </Panel>

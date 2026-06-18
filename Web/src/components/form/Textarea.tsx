@@ -1,4 +1,4 @@
-import { forwardRef, useEffect, useRef, type TextareaHTMLAttributes } from 'react';
+import { forwardRef, useEffect, useRef, type MutableRefObject, type TextareaHTMLAttributes } from 'react';
 import { cn } from '@/lib/cn';
 
 export interface TextareaProps extends TextareaHTMLAttributes<HTMLTextAreaElement> {
@@ -17,7 +17,7 @@ export const Textarea = forwardRef<HTMLTextAreaElement, TextareaProps>(function 
   const setRef = (node: HTMLTextAreaElement | null) => {
     innerRef.current = node;
     if (typeof ref === 'function') ref(node);
-    else if (ref) (ref as React.MutableRefObject<HTMLTextAreaElement | null>).current = node;
+    else if (ref) (ref as MutableRefObject<HTMLTextAreaElement | null>).current = node;
   };
 
   const resize = () => {

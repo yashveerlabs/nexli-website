@@ -45,7 +45,8 @@ export function OTPInput({
   };
 
   const setAt = (index: number, digit: string) => {
-    const arr = value.split('');
+    // Pad to `length` so a sparse write doesn't collapse earlier empty positions.
+    const arr = Array.from({ length }, (_, i) => value[i] ?? '');
     arr[index] = digit;
     commit(arr.join('').slice(0, length));
     if (digit && index < length - 1) refs.current[index + 1]?.focus();

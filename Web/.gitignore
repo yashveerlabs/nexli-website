@@ -16,6 +16,8 @@ serviceAccount.json
 serviceAccount*.json
 *-service-account.json
 **/serviceAccountKey.json
+# Firebase Console download pattern: <project>-firebase-adminsdk-<id>.json
+*firebase-adminsdk*.json
 
 # editor / os
 .DS_Store

@@ -33,19 +33,21 @@ export function ReportCardHub() {
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
 
   const { data: cards, loading } = useReportCards(schoolId);
-  const { data: schemes } = useSchemes(schoolId);
+  const { data: schemes, loading: schemesLoading } = useSchemes(schoolId);
   const { data: grades } = useGrades(schoolId);
 
   // Seed the bundled schemes once, on first load, when none exist yet (write users only).
+  // Guard on schemesLoading so we don't seed before the first Firestore snapshot arrives —
+  // firing while data: [] / loading: true would write seeds even when schemes already exist.
   const seededRef = useRef(false);
   useEffect(() => {
-    if (!schoolId || !canWrite || seededRef.current) return;
+    if (!schoolId || !canWrite || schemesLoading || seededRef.current) return;
     if (schemes.length === 0) {
       seededRef.current = true;
       void seedSchemes(schoolId, schemes, actor);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [schoolId, canWrite, schemes.length]);
+  }, [schoolId, canWrite, schemesLoading, schemes.length]);
 
   const [grade, setGrade] = useState('');
   const [term, setTerm] = useState('');

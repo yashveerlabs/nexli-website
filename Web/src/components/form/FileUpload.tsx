@@ -1,4 +1,4 @@
-import { useId, useRef, useState, type DragEvent } from 'react';
+import { useEffect, useId, useRef, useState, type DragEvent } from 'react';
 import { cn } from '@/lib/cn';
 import { Icon } from '@/components/Icon';
 import { Avatar } from '@/components/Avatar';
@@ -53,9 +53,17 @@ export function FileUpload({
   const reactId = useId();
   const inputId = id ?? `file-${reactId}`;
   const inputRef = useRef<HTMLInputElement>(null);
+  const localUrlRef = useRef<string | null>(null);
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [fileName, setFileName] = useState<string | null>(null);
+
+  // Revoke any outstanding object URL when the component unmounts.
+  useEffect(() => {
+    return () => {
+      if (localUrlRef.current) URL.revokeObjectURL(localUrlRef.current);
+    };
+  }, []);
 
   const pick = () => inputRef.current?.click();
 
@@ -67,13 +75,20 @@ export function FileUpload({
       return;
     }
     setFileName(file.name);
+    if (localUrlRef.current) {
+      URL.revokeObjectURL(localUrlRef.current);
+      localUrlRef.current = null;
+    }
     const localUrl = URL.createObjectURL(file);
+    localUrlRef.current = localUrl;
     onChange(localUrl);
     onFile?.(file);
     if (uploader) {
       setBusy(true);
       try {
         const url = await uploader(file);
+        URL.revokeObjectURL(localUrl);
+        localUrlRef.current = null;
         onChange(url);
       } catch {
         setError('Upload failed. Please try again.');
@@ -84,6 +99,10 @@ export function FileUpload({
   };
 
   const clear = () => {
+    if (localUrlRef.current) {
+      URL.revokeObjectURL(localUrlRef.current);
+      localUrlRef.current = null;
+    }
     onChange(null);
     onFile?.(null);
     setFileName(null);
