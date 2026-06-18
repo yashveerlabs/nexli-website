@@ -42,6 +42,34 @@
 .rc-table__grade { font-weight: 700; white-space: nowrap; }
 .rc-table tfoot td { font-weight: 700; border-top: 2px solid var(--hairline); }
 
+/* Phone (≤560px): restack the 9-column scholastic marks table into one card per
+   subject so nothing is clipped at 360px. Each cell becomes a label : value row.
+   Scoped to `screen` so print (A4) keeps the real table; co-scholastic (2 cols)
+   is left as a normal table since it fits. */
+@media screen and (max-width: 560px) {
+  .rc-table--marks thead { /* visually-hidden but kept for a11y */
+    position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; border: 0;
+    overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap;
+  }
+  .rc-table--marks, .rc-table--marks tbody, .rc-table--marks tfoot, .rc-table--marks tr, .rc-table--marks td { display: block; width: auto; }
+  .rc-table--marks tr { border: 1px solid var(--hairline); border-radius: var(--radius-md); padding: 8px 12px; margin-bottom: 10px; }
+  .rc-table--marks tfoot tr { border-color: var(--gold); }
+  .rc-table--marks td {
+    display: flex; justify-content: space-between; align-items: baseline; gap: 14px;
+    padding: 4px 0; border: none; text-align: right; white-space: normal;
+  }
+  .rc-table--marks td:empty { display: none; }
+  .rc-table--marks td::before {
+    content: attr(data-label); flex: 0 0 auto; text-align: left;
+    color: var(--text-muted); font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em;
+  }
+  .rc-table--marks td:first-child {
+    display: block; text-align: left; font-weight: 700; font-size: 14px;
+    padding: 0 0 6px; margin-bottom: 6px; border-bottom: 1px solid var(--hairline);
+  }
+  .rc-table--marks td:first-child::before { content: none; }
+}
+
 /* summary stat strip */
 .rc-summary { display: flex; flex-wrap: wrap; gap: 14px; }
 .rc-stat {
@@ -86,7 +114,7 @@
 .rc-row:hover { border-color: var(--gold); }
 .rc-row:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
 .rc-row__main { min-width: 0; flex: 1; }
-.rc-row__name { font-weight: 600; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.rc-row__name { font-weight: 600; font-size: 14px; line-height: 1.3; overflow-wrap: anywhere; }
 .rc-row__meta { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
 .rc-row__list { display: flex; flex-direction: column; gap: 8px; }
 .rc-row__rowactions { display: flex; gap: 4px; }

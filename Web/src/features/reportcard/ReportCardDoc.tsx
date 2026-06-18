@@ -67,7 +67,10 @@ export function ReportCardDoc({
           </p>
         ) : (
           <div className="rc-table-wrap">
-            <table className="rc-table">
+            {/* `rc-table--marks` restacks into per-subject cards on phones (≤560px) so
+                every column — incl. Subject total + Result — is fully visible with no
+                clipping; wider screens + print keep the tabular layout. */}
+            <table className="rc-table rc-table--marks">
               <thead>
                 <tr>
                   <th>Subject</th>
@@ -83,24 +86,24 @@ export function ReportCardDoc({
               <tbody>
                 {card.subjects.map((s) => (
                   <tr key={s.subjectName}>
-                    <td>{s.subjectName}</td>
+                    <td data-label="Subject">{s.subjectName}</td>
                     {s.components.map((c) => (
-                      <td key={c.componentId} className="rc-table__num">{c.marks == null ? '—' : c.marks}</td>
+                      <td key={c.componentId} data-label={`${c.label} / ${c.max}`} className="rc-table__num">{c.marks == null ? '—' : c.marks}</td>
                     ))}
-                    <td className="rc-table__num">{s.total} / {s.max}</td>
-                    <td className="rc-table__num">{s.percentage}%</td>
-                    <td className="rc-table__grade">{s.grade}</td>
-                    <td>{s.passed ? 'Pass' : 'Fail'}</td>
+                    <td data-label="Subject total" className="rc-table__num">{s.total} / {s.max}</td>
+                    <td data-label="Percentage" className="rc-table__num">{s.percentage}%</td>
+                    <td data-label="Grade" className="rc-table__grade">{s.grade}</td>
+                    <td data-label="Result">{s.passed ? 'Pass' : 'Fail'}</td>
                   </tr>
                 ))}
               </tbody>
               <tfoot>
                 <tr>
-                  <td>Total</td>
+                  <td data-label="Overall">Total</td>
                   {componentDefs.map((c) => <td key={c.componentId} />)}
-                  <td className="rc-table__num">{card.totals.obtained} / {card.totals.max}</td>
-                  <td className="rc-table__num">{card.totals.percentage}%</td>
-                  <td className="rc-table__grade">—</td>
+                  <td data-label="Grand total" className="rc-table__num">{card.totals.obtained} / {card.totals.max}</td>
+                  <td data-label="Percentage" className="rc-table__num">{card.totals.percentage}%</td>
+                  <td className="rc-table__grade" />
                   <td />
                 </tr>
               </tfoot>

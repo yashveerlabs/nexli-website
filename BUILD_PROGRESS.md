@@ -124,6 +124,17 @@ cashless wallet (gateway), e-sign (legal), AI at-risk (AI key — scoring logic 
     attendance ranking spreads 58–100% over 30 days; a sample card has real grades (Nursery-A 80.3%, CGPA 8.3,
     pass, rank 6/7); dues agree (net−paid) across dashboard/finance/student-profile. Build + typecheck green;
     emulator rules tests **145/0**. Spark write budget: ~2.6k of 20k/day (representative full set — no subset needed).
+- 2026-06-18 — With-data phone retest: 5/6 green; fixed the one layout bug:
+  - **Report Card on a phone**: the 9-column scholastic grades table (~784px) clipped its last columns
+    ("Subject total" + "Result") at ~360px with no usable scroll. Fixed by restacking the marks table into
+    one card per subject below 560px (each cell becomes a `label : value` row via `data-label`); desktop +
+    print keep the real table (media query scoped to `screen`). Co-scholastic (2 cols) fits — unchanged.
+    Stacked layout is overflow-proof by construction (full-width blocks); confirmed the rule shipped in the bundle.
+  - **Report-card LIST**: names no longer truncate to "Shau…" — `.rc-row__name` wraps instead of ellipsis.
+  - **Fees overview "double-render"**: not a state bug — `OverviewTab` is memoized with no re-render loop; the
+    one-time flash is the Firestore cached→server snapshot settle (+ React StrictMode in dev), which is why it
+    clears on reload. Noted; no code change.
+  - Checks: build + strict typecheck green; rules untouched → emulator tests still **145/0**.
 
 ### Buildable Track-2 wave — ✅ COMPLETE
 All buildable modules the user listed are built, integrated, gated (build + strict typecheck + rules tests 119/0), verified, and committed: counselling (T1), rankings (marks + attendance), certificate generator, question paper generator, report card (traditional marks), gamified dashboard, skills passport, career-counselling. Remaining Track-2 items are the **blocked** integrations (plans + offline shells only — no faked connections): APAAR/ABC/DigiLocker, UPI AutoPay/eNACH, secure online exam (proctoring), IoT campus safety, WhatsApp Business API, SSO/Open API, cashless wallet, e-sign, AI at-risk (scoring logic buildable; model blocked).
