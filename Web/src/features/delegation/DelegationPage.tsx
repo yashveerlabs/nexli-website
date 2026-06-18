@@ -76,9 +76,9 @@ export function DelegationPage() {
   const staffMembers = useMemo(
     () =>
       members
-        .filter((m) => !NON_STAFF_ROLES.includes(m.roleId) && m.status !== 'suspended')
+        .filter((m) => !NON_STAFF_ROLES.includes(m.roleId) && m.status !== 'suspended' && m.uid !== uid)
         .sort((a, b) => a.name.localeCompare(b.name)),
-    [members],
+    [members, uid],
   );
 
   const { active, history } = useMemo(() => {

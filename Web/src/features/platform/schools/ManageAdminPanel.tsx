@@ -42,6 +42,7 @@ export function ManageAdminPanel({ school }: { school: School }) {
 
   const submit = async () => {
     if (!name.trim() || !email.trim()) return;
+    if (mode === 'provision' && password.length < 8) return;
     setBusy(true);
     try {
       if (mode === 'provision') {

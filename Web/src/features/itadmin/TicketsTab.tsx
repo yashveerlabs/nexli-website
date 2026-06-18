@@ -211,7 +211,9 @@ function TriageModal({
         status,
         priority,
         assignedToName: assignedToName.trim() || undefined,
-        assignedToUid: assignedToName.trim() ? (ticket.assignedToUid ?? actor.uid) : undefined,
+        assignedToUid: assignedToName.trim()
+          ? (assignedToName.trim() === (ticket.assignedToName ?? '') ? ticket.assignedToUid : actor.uid)
+          : undefined,
         resolutionNotes: resolutionNotes.trim() || undefined,
         resolvedAt: isResolving ? (ticket.resolvedAt ?? Date.now()) : undefined,
       }, actor);

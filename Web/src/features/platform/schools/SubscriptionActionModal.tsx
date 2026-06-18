@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Modal } from '@/components/Modal';
 import { Button } from '@/components/Button';
 import { Field, Textarea } from '@/components/form';
@@ -30,6 +30,15 @@ export function SubscriptionActionModal({
   const [reason, setReason] = useState('');
   const [busy, setBusy] = useState(false);
   const [touched, setTouched] = useState(false);
+
+  // Reset form state whenever a new action is opened so stale reason/validation
+  // from a prior session never pre-fills or shows errors for a different action.
+  useEffect(() => {
+    if (action) {
+      setReason('');
+      setTouched(false);
+    }
+  }, [action]);
 
   if (!action) return null;
   const meta = SUBSCRIPTION_ACTIONS[action];
