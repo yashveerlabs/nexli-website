@@ -236,7 +236,11 @@ export function buildTemplatedNarrative(profile: AssessmentProfile): string {
   const topCode = profile.hollandCode[0] as RiasecCode;
   const lines = [
     `Your strongest interest pattern is "${profile.hollandCode}", led by ${RIASEC_META[topCode].label.toLowerCase()} interests — ${RIASEC_META[topCode].blurb.toLowerCase()}`,
-    `Based on a transparent weighting of your interests and aptitudes, the ${STREAM_META[top.stream].label} stream is your closest fit (${top.fit}%), with ${STREAM_META[alt.stream].label} as a strong alternative (${alt.fit}%).`,
+    top && alt
+      ? `Based on a transparent weighting of your interests and aptitudes, the ${STREAM_META[top.stream].label} stream is your closest fit (${top.fit}%), with ${STREAM_META[alt.stream].label} as a strong alternative (${alt.fit}%).`
+      : top
+        ? `Based on a transparent weighting of your interests and aptitudes, the ${STREAM_META[top.stream].label} stream is your closest fit (${top.fit}%).`
+        : '',
     topCareer
       ? `A career cluster to explore is ${topCareer.title} (${topCareer.fit}% match). ${topCareer.why}`
       : '',

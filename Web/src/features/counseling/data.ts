@@ -68,7 +68,7 @@ export async function createCounselingSession(
 export function updateCounselingSession(
   schoolId: string,
   id: string,
-  patch: Partial<CounselingSession>,
+  patch: Partial<Omit<CounselingSession, 'id' | 'schoolId' | 'createdAt' | 'createdBy'>>,
 ): Promise<void> {
   return updateDoc(tenantDoc(schoolId, 'counseling', id), { ...stripUndefined(patch), lastModifiedAt: Date.now() });
 }

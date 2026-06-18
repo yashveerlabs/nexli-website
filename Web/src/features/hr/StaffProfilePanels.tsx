@@ -1,5 +1,6 @@
 import { useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { query, where } from 'firebase/firestore';
 import { Panel } from '@/components/Panel';
 import { Button } from '@/components/Button';
 import { EmptyState, InfoCard, Skeleton } from '@/components/feedback';
@@ -9,10 +10,15 @@ type StaffAttRec = { id: string; uid?: string; date?: string; status?: string };
 
 /** Per-staff attendance summary (from the staff_attendance collection). */
 export function StaffAttendancePanel({ schoolId, uid }: { schoolId: string; uid: string }) {
-  const { data, loading } = useCollection<StaffAttRec>(schoolId ? tenantCol(schoolId, 'staff_attendance') : null, [schoolId]);
+  // Filter server-side by uid to avoid loading every staff member's attendance.
+  // Requires a single-field index on `uid` (auto-created by Firestore).
+  const { data, loading } = useCollection<StaffAttRec>(
+    schoolId && uid ? query(tenantCol(schoolId, 'staff_attendance'), where('uid', '==', uid)) : null,
+    [schoolId, uid],
+  );
   const mine = useMemo(
-    () => data.filter((r) => r.uid === uid || (!!uid && r.id.startsWith(`${uid}_`))).sort((a, b) => (b.date ?? '').localeCompare(a.date ?? '')),
-    [data, uid],
+    () => [...data].sort((a, b) => (b.date ?? '').localeCompare(a.date ?? '')),
+    [data],
   );
   const stats = useMemo(() => {
     let present = 0;

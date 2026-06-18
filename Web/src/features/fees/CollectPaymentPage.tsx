@@ -44,11 +44,14 @@ export function CollectPaymentPage() {
   const [busy, setBusy] = useState(false);
 
   // Default to the oldest open invoice + its due amount.
+  // Also clear a stale selection when the previously-selected invoice is no longer open
+  // (e.g. it was just fully paid via another session or real-time update).
   useEffect(() => {
-    if (!invoiceId && openInvoices.length) {
+    const stillOpen = invoiceId ? openInvoices.some((i) => i.id === invoiceId) : false;
+    if (!invoiceId || !stillOpen) {
       const first = openInvoices[0];
-      setInvoiceId(first.id);
-      setAmount(String(Math.max(0, first.netAmount - first.paidAmount)));
+      setInvoiceId(first?.id ?? '');
+      setAmount(first ? String(Math.max(0, first.netAmount - first.paidAmount)) : '');
     }
   }, [openInvoices, invoiceId]);
 

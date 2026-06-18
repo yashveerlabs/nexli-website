@@ -13,7 +13,7 @@ import { formatINR, formatDate } from '@/lib/format';
 import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { useStudents } from '@/features/school/data';
 import {
-  useInvoices, usePayments, useFeeStructures, createInvoice, updateInvoice, cancelInvoice, type Actor,
+  useInvoices, usePayments, useFeeStructures, createInvoice, updateInvoice, cancelInvoice, statusFor, type Actor,
 } from '@/features/finance/data';
 import { INVOICE_STATUS_META, STUDENT_FEE_CATEGORY_META, CONCESSION_TYPE_OPTIONS, PAYMENT_METHOD_META } from '@/features/finance/meta';
 import { studentDue, invoiceTotals } from './feeSchema';
@@ -275,9 +275,11 @@ function ConcessionModal({ invoice, onClose, schoolId, actor }: { invoice: FeeIn
   const submit = async () => {
     if (!schoolId || !invoice) return;
     const amt = Number(amount) || 0;
-    const maxAllowed = Math.max(0, invoice.netAmount - invoice.paidAmount);
+    // Cap against the remaining concedable gross (not against the remaining due):
+    // this prevents total concessions from exceeding grossAmount.
+    const maxAllowed = Math.max(0, invoice.grossAmount - (invoice.concessionAmount ?? 0));
     if (amt <= 0) { toast.error('Enter a concession amount'); return; }
-    if (amt > maxAllowed) { toast.error('Too high', `Concession can't exceed the ${formatINR(maxAllowed)} still due.`); return; }
+    if (amt > maxAllowed) { toast.error('Too high', `Concession can't exceed the ${formatINR(maxAllowed)} remaining on this invoice.`); return; }
     setBusy(true);
     try {
       const line: ConcessionLine = { type, reason: reason.trim() || CONCESSION_TYPE_OPTIONS.find((o) => o.value === type)?.label || 'Concession', amount: amt, approvedByUid: actor.uid, approvedByName: member?.name, approvedAt: Date.now() };
@@ -287,7 +289,7 @@ function ConcessionModal({ invoice, onClose, schoolId, actor }: { invoice: FeeIn
       await updateInvoice(schoolId, invoice.id, {
         concessions, grossAmount, concessionAmount, netAmount,
         dueAmount: Math.max(0, netAmount - paid),
-        status: paid >= netAmount && netAmount > 0 ? 'paid' : paid > 0 ? 'partial' : 'unpaid',
+        status: statusFor(netAmount, paid),
       }, actor);
       toast.success('Concession applied', formatINR(amt));
       onClose(); setReason(''); setAmount(''); setType('need_based');

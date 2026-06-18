@@ -129,6 +129,7 @@ export function AdmissionDetailPage() {
       navigate(`/students/${studentId}`);
     } catch {
       toast.error('Could not admit', 'Please try again.');
+    } finally {
       setBusy(false);
     }
   };

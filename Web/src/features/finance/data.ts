@@ -95,7 +95,8 @@ export function usePayment(schoolId?: string, id?: string) {
 }
 
 export function statusFor(net: number, paid: number): InvoiceStatus {
-  if (paid >= net && net > 0) return 'paid';
+  // net === 0 means the invoice has been fully conceded/waived; treat as paid.
+  if (net === 0 || (paid >= net && net > 0)) return 'paid';
   if (paid > 0) return 'partial';
   return 'unpaid';
 }
@@ -122,6 +123,7 @@ export interface RecordPaymentInput {
  * paid/due/status — all in a single transaction so totals never drift.
  */
 export async function recordPayment(schoolId: string, input: RecordPaymentInput, actor: Actor): Promise<{ id: string; receiptNo: string }> {
+  if (input.amount <= 0) throw new Error(`Payment amount must be positive (got ${input.amount}).`);
   const counterRef = tenantDoc(schoolId, 'finance_counters', 'receipt');
   const paymentRef = doc(collection(db, `schools/${schoolId}/fee_payments`));
   const year = new Date(input.paidAt).getFullYear();
@@ -342,8 +344,13 @@ export const submitPayrollRun = (s: string, id: string, a: Actor) =>
 export async function approvePayrollRun(s: string, id: string, a: Actor, note?: string): Promise<void> {
   const snap = await getDoc(tenantDoc(s, 'payroll_runs', id));
   const run = snap.data() as PayrollRun | undefined;
-  if (run?.submittedByUid && run.submittedByUid === a.uid) {
-    throw new Error('You submitted this pay run, so you can’t also approve it. Ask another authorised approver (Principal / VP-Admin) to approve.');
+  // Guard 1: the run must have been submitted before it can be approved.
+  if (!run || !run.submittedAt) {
+    throw new Error('This pay run has not been submitted for approval yet.');
+  }
+  // Guard 2 (separation of duties): the person who submitted may NOT approve.
+  if (run.submittedByUid && run.submittedByUid === a.uid) {
+    throw new Error("You submitted this pay run, so you can't also approve it. Ask another authorised approver (Principal / VP-Admin) to approve.");
   }
   await updateIn<PayrollRun>(s, 'payroll_runs', id, {
     status: 'finalized', finalizedAt: Date.now(),
