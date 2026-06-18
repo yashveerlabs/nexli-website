@@ -6,7 +6,7 @@ import { Badge } from '@/components/Badge';
 import { Field, Input, Select, Textarea, Toggle } from '@/components/form';
 import { EmptyState, Skeleton } from '@/components/feedback';
 import { useToast } from '@/components/Toast';
-import { useSession } from '@/app/providers/SessionProvider';
+import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { useGrades, useSubjects } from '@/features/school/data';
 import {
   BLOOM_OPTIONS,
@@ -33,8 +33,9 @@ export function QuestionFormPage() {
   const { id } = useParams();
   const navigate = useNavigate();
   const toast = useToast();
-  const { schoolId, uid, member, can } = useSession();
-  const canWrite = can('exams.write');
+  const { schoolId, uid, member } = useSession();
+  // Authoring questions is an operate action; leadership (reviewers) gets the view-only gate.
+  const canWrite = useOwnership('qpaper').canOperate;
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
   const isEdit = !!id;
 

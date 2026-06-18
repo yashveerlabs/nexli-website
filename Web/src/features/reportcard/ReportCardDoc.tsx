@@ -6,13 +6,21 @@ interface SchoolLike {
   name?: string;
   city?: string;
   state?: string;
+  logoUrl?: string;
+  phone?: string;
+  email?: string;
+  website?: string;
 }
 
 const REMARK_FIELDS: { key: keyof ReportCard; label: string; icon: IconName }[] = [
   { key: 'overallRemark', label: 'Overall remark', icon: 'file-text' },
   { key: 'classTeacherRemark', label: "Class teacher's remark", icon: 'edit' },
   { key: 'principalRemark', label: "Principal's remark", icon: 'award' },
+  { key: 'remarks', label: "Coordinator's remark", icon: 'activity' },
 ];
+
+/** Title-case a rating enum value ("needs_improvement" → "Needs improvement"). */
+const ratingLabel = (r: string) => (r ? r.replace(/_/g, ' ').replace(/^\w/, (c) => c.toUpperCase()) : '—');
 
 /** Premium, printable traditional marks Report Card. Add `className="rc-print"` to target print. */
 export function ReportCardDoc({
@@ -33,16 +41,27 @@ export function ReportCardDoc({
     .filter((f) => f.value);
   const result = RESULT_STATUS_META[card.result];
   const componentDefs = card.subjects[0]?.components ?? [];
+  const sports = (card.sports ?? []).filter((s) => s.activity || s.performance);
+  const activities = (card.activities ?? []).filter((a) => a.activity || a.participation);
+  const achievements = (card.achievements ?? []).filter(Boolean);
 
   return (
     <div className={`rc-doc ${className ?? ''}`}>
       <header className="rc-doc__head">
         <div className="rc-doc__brand">
-          <div className="rc-doc__kicker">Report Card{card.schemeName ? ` · ${card.schemeName}` : ''}</div>
-          <div className="rc-doc__school">{school?.name ?? 'Report Card'}</div>
-          {(school?.city || school?.state) && (
-            <div className="rc-doc__meta">{[school?.city, school?.state].filter(Boolean).join(', ')}</div>
+          {school?.logoUrl && (
+            <img className="rc-doc__logo" src={school.logoUrl} alt={school?.name ? `${school.name} logo` : 'School logo'} />
           )}
+          <div className="rc-doc__brandtext">
+            <div className="rc-doc__kicker">Report Card{card.schemeName ? ` · ${card.schemeName}` : ''}</div>
+            <div className="rc-doc__school">{school?.name ?? 'Report Card'}</div>
+            {(school?.city || school?.state) && (
+              <div className="rc-doc__meta">{[school?.city, school?.state].filter(Boolean).join(', ')}</div>
+            )}
+            {(school?.phone || school?.email || school?.website) && (
+              <div className="rc-doc__meta">{[school?.phone, school?.email, school?.website].filter(Boolean).join(' · ')}</div>
+            )}
+          </div>
         </div>
         <div className="rc-doc__student">
           <div className="rc-doc__name">{card.studentName}</div>
@@ -172,6 +191,58 @@ export function ReportCardDoc({
               </tbody>
             </table>
           </div>
+        </section>
+      )}
+
+      {/* Sports & games */}
+      {sports.length > 0 && (
+        <section className="rc-doc__section">
+          <h2 className="rc-doc__section-title">Sports &amp; games</h2>
+          <div className="rc-table-wrap">
+            <table className="rc-table">
+              <thead><tr><th>Activity</th><th>Performance</th><th>Remark</th></tr></thead>
+              <tbody>
+                {sports.map((s, i) => (
+                  <tr key={`${s.activity}-${i}`}>
+                    <td>{s.activity || '—'}</td>
+                    <td className="rc-table__grade">{ratingLabel(s.performance)}</td>
+                    <td>{s.remarks ?? ''}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )}
+
+      {/* Activities & clubs */}
+      {activities.length > 0 && (
+        <section className="rc-doc__section">
+          <h2 className="rc-doc__section-title">Activities &amp; clubs</h2>
+          <div className="rc-table-wrap">
+            <table className="rc-table">
+              <thead><tr><th>Activity</th><th>Participation</th><th>Remark</th></tr></thead>
+              <tbody>
+                {activities.map((a, i) => (
+                  <tr key={`${a.activity}-${i}`}>
+                    <td>{a.activity || '—'}</td>
+                    <td className="rc-table__grade">{ratingLabel(a.participation)}</td>
+                    <td>{a.remarks ?? ''}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )}
+
+      {/* Achievements */}
+      {achievements.length > 0 && (
+        <section className="rc-doc__section">
+          <h2 className="rc-doc__section-title">Achievements</h2>
+          <ul className="rc-doc__achievements">
+            {achievements.map((a, i) => <li key={`${a}-${i}`}>{a}</li>)}
+          </ul>
         </section>
       )}
 

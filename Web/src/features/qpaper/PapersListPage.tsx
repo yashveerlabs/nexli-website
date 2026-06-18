@@ -6,8 +6,9 @@ import { Badge } from '@/components/Badge';
 import { ConfirmModal } from '@/components/Modal';
 import { EmptyState, Skeleton } from '@/components/feedback';
 import { useToast } from '@/components/Toast';
+import { ReviewModeNote } from '@/components/ReviewModeNote';
 import { formatDate } from '@/lib/format';
-import { useSession } from '@/app/providers/SessionProvider';
+import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { PAPER_STATUS_META, type QuestionPaper } from '@/types/qpaper';
 import { usePapers, deletePaper, clonePaper, type Actor } from './data';
 import './qpaper.css';
@@ -17,7 +18,8 @@ export function PapersListPage() {
   const toast = useToast();
   const { schoolId, uid, member, can } = useSession();
   const canRead = can('exams.read');
-  const canWrite = can('exams.write');
+  // Operate (build/clone/delete) is owned by teachers/exam-control; leadership reviews.
+  const { canOperate: canWrite, isReviewer, ownerLabel } = useOwnership('qpaper');
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
 
   const { data: papers, loading, error } = usePapers(canRead ? schoolId : undefined);
@@ -65,6 +67,8 @@ export function PapersListPage() {
           <p className="nx-page__sub">Build, preview, print and clone board-style papers. Each carries its own snapshot of the questions used.</p>
         </div>
       </div>
+
+      {isReviewer && !canWrite && <ReviewModeNote owner={ownerLabel} />}
 
       <div className="qp-toolbar">
         <Button variant="ghost" leftIcon="book" onClick={() => navigate('/question-papers')}>Question bank</Button>

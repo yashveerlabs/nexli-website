@@ -2,7 +2,8 @@ import { useMemo, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { Button } from '@/components/Button';
 import { Panel } from '@/components/Panel';
-import { Field, Input, Textarea } from '@/components/form';
+import { Icon } from '@/components/Icon';
+import { Field, Input, Select, Textarea } from '@/components/form';
 import { EmptyState, Skeleton, InfoCard } from '@/components/feedback';
 import { Badge } from '@/components/Badge';
 import { useToast } from '@/components/Toast';
@@ -13,9 +14,26 @@ import { findSeedScheme } from './schemes';
 import { computeSubject, computeTotals, computeResult } from './compute';
 import { statusOf, canEditStatus, RC_STATUS_META } from './workflow';
 import type {
-  ReportCard, ReportCardCoScholastic, ReportCardScheme, ReportCardSubject,
+  ReportCard, ReportCardActivity, ReportCardCoScholastic, ReportCardScheme,
+  ReportCardSport, ReportCardSubject,
 } from '@/types/reportcard';
 import './reportcard.css';
+
+const PERFORMANCE_OPTIONS = [
+  { value: '', label: '— Rating —' },
+  { value: 'excellent', label: 'Excellent' },
+  { value: 'good', label: 'Good' },
+  { value: 'satisfactory', label: 'Satisfactory' },
+  { value: 'needs_improvement', label: 'Needs improvement' },
+];
+
+const PARTICIPATION_OPTIONS = [
+  { value: '', label: '— Participation —' },
+  { value: 'excellent', label: 'Excellent' },
+  { value: 'good', label: 'Good' },
+  { value: 'satisfactory', label: 'Satisfactory' },
+  { value: 'minimal', label: 'Minimal' },
+];
 
 /**
  * Card editor. Component marks are pre-filled from generation; the teacher
@@ -47,9 +65,14 @@ export function ReportCardFormPage() {
   const [heightCm, setHeightCm] = useState('');
   const [weightKg, setWeightKg] = useState('');
   const [promotedTo, setPromotedTo] = useState('');
+  const [sports, setSports] = useState<ReportCardSport[]>([]);
+  const [activities, setActivities] = useState<ReportCardActivity[]>([]);
+  const [achievements, setAchievements] = useState<string[]>([]);
+  const [achievementDraft, setAchievementDraft] = useState('');
   const [overallRemark, setOverallRemark] = useState('');
   const [classTeacherRemark, setClassTeacherRemark] = useState('');
   const [principalRemark, setPrincipalRemark] = useState('');
+  const [coordinatorRemark, setCoordinatorRemark] = useState('');
   const [hydrated, setHydrated] = useState(false);
   const [saving, setSaving] = useState(false);
 
@@ -62,9 +85,13 @@ export function ReportCardFormPage() {
     setHeightCm(existing.health?.heightCm != null ? String(existing.health.heightCm) : '');
     setWeightKg(existing.health?.weightKg != null ? String(existing.health.weightKg) : '');
     setPromotedTo(existing.promotedTo ?? '');
+    setSports((existing.sports ?? []).map((s) => ({ ...s })));
+    setActivities((existing.activities ?? []).map((a) => ({ ...a })));
+    setAchievements([...(existing.achievements ?? [])]);
     setOverallRemark(existing.overallRemark ?? '');
     setClassTeacherRemark(existing.classTeacherRemark ?? '');
     setPrincipalRemark(existing.principalRemark ?? '');
+    setCoordinatorRemark(existing.remarks ?? '');
     setHydrated(true);
   }
 
@@ -144,6 +171,27 @@ export function ReportCardFormPage() {
     setCoScholastic((prev) => prev.map((c, i) => (i === idx ? { ...c, grade: value } : c)));
   };
 
+  // Sports rows
+  const addSport = () => setSports((prev) => [...prev, { activity: '', performance: '' }]);
+  const setSport = (i: number, patch: Partial<ReportCardSport>) =>
+    setSports((prev) => prev.map((s, idx) => (idx === i ? { ...s, ...patch } : s)));
+  const removeSport = (i: number) => setSports((prev) => prev.filter((_, idx) => idx !== i));
+
+  // Activity rows
+  const addActivity = () => setActivities((prev) => [...prev, { activity: '', participation: '' }]);
+  const setActivity = (i: number, patch: Partial<ReportCardActivity>) =>
+    setActivities((prev) => prev.map((a, idx) => (idx === i ? { ...a, ...patch } : a)));
+  const removeActivity = (i: number) => setActivities((prev) => prev.filter((_, idx) => idx !== i));
+
+  // Achievement chips
+  const addAchievement = () => {
+    const v = achievementDraft.trim();
+    if (!v) return;
+    setAchievements((prev) => [...prev, v]);
+    setAchievementDraft('');
+  };
+  const removeAchievement = (i: number) => setAchievements((prev) => prev.filter((_, idx) => idx !== i));
+
   const save = async () => {
     const num = (s: string): number | null => {
       if (s.trim() === '') return null;
@@ -160,6 +208,22 @@ export function ReportCardFormPage() {
     const w = num(weightKg) ?? undefined;
     const health = h != null || w != null ? { heightCm: h, weightKg: w } : undefined;
 
+    // Keep only meaningful rows. Build objects WITHOUT undefined keys — Firestore
+    // rejects `undefined` inside array elements (unlike top-level optional fields).
+    const cleanSports: ReportCardSport[] = sports
+      .filter((s) => s.activity.trim() || s.performance)
+      .map((s) => {
+        const r = s.remarks?.trim();
+        return { activity: s.activity.trim(), performance: s.performance, ...(r ? { remarks: r } : {}) };
+      });
+    const cleanActivities: ReportCardActivity[] = activities
+      .filter((a) => a.activity.trim() || a.participation)
+      .map((a) => {
+        const r = a.remarks?.trim();
+        return { activity: a.activity.trim(), participation: a.participation, ...(r ? { remarks: r } : {}) };
+      });
+    const cleanAchievements = achievements.map((a) => a.trim()).filter(Boolean);
+
     const patch: Partial<ReportCard> = {
       subjects,
       coScholastic,
@@ -168,9 +232,13 @@ export function ReportCardFormPage() {
       totals,
       result,
       promotedTo: promotedTo.trim() || undefined,
+      sports: cleanSports.length ? cleanSports : undefined,
+      activities: cleanActivities.length ? cleanActivities : undefined,
+      achievements: cleanAchievements.length ? cleanAchievements : undefined,
       overallRemark: overallRemark.trim() || undefined,
       classTeacherRemark: classTeacherRemark.trim() || undefined,
       principalRemark: principalRemark.trim() || undefined,
+      remarks: coordinatorRemark.trim() || undefined,
       studentName: existing.studentName,
     };
     setSaving(true);
@@ -272,6 +340,70 @@ export function ReportCardFormPage() {
         </Panel>
       )}
 
+      <Panel title="Sports & games" sub="Add the student's sports/PE participation and a performance rating for each.">
+        {sports.length === 0 ? (
+          <p className="rc-note" style={{ margin: '0 0 10px' }}>No sports added yet.</p>
+        ) : (
+          <div className="rc-rowlist">
+            {sports.map((s, i) => (
+              <div className="rc-entry-row" key={i}>
+                <Input value={s.activity} placeholder="Sport / activity name" aria-label={`Sport ${i + 1} name`}
+                  onChange={(e) => setSport(i, { activity: e.target.value })} />
+                <Select value={s.performance} options={PERFORMANCE_OPTIONS} aria-label={`Sport ${i + 1} performance`}
+                  onChange={(e) => setSport(i, { performance: e.target.value as ReportCardSport['performance'] })} />
+                <Input value={s.remarks ?? ''} placeholder="Remark (optional)" aria-label={`Sport ${i + 1} remark`}
+                  onChange={(e) => setSport(i, { remarks: e.target.value })} />
+                <Button variant="ghost" leftIcon="minus-circle" aria-label={`Remove sport ${i + 1}`} onClick={() => removeSport(i)} />
+              </div>
+            ))}
+          </div>
+        )}
+        <Button variant="ghost" size="sm" leftIcon="plus" onClick={addSport} style={{ marginTop: 8 }}>Add sport</Button>
+      </Panel>
+
+      <Panel title="Activities & clubs" sub="Co-curricular activities and a participation level for each.">
+        {activities.length === 0 ? (
+          <p className="rc-note" style={{ margin: '0 0 10px' }}>No activities added yet.</p>
+        ) : (
+          <div className="rc-rowlist">
+            {activities.map((a, i) => (
+              <div className="rc-entry-row" key={i}>
+                <Input value={a.activity} placeholder="Activity / club name" aria-label={`Activity ${i + 1} name`}
+                  onChange={(e) => setActivity(i, { activity: e.target.value })} />
+                <Select value={a.participation} options={PARTICIPATION_OPTIONS} aria-label={`Activity ${i + 1} participation`}
+                  onChange={(e) => setActivity(i, { participation: e.target.value as ReportCardActivity['participation'] })} />
+                <Input value={a.remarks ?? ''} placeholder="Remark (optional)" aria-label={`Activity ${i + 1} remark`}
+                  onChange={(e) => setActivity(i, { remarks: e.target.value })} />
+                <Button variant="ghost" leftIcon="minus-circle" aria-label={`Remove activity ${i + 1}`} onClick={() => removeActivity(i)} />
+              </div>
+            ))}
+          </div>
+        )}
+        <Button variant="ghost" size="sm" leftIcon="plus" onClick={addActivity} style={{ marginTop: 8 }}>Add activity</Button>
+      </Panel>
+
+      <Panel title="Achievements" sub="Prizes, certificates and milestones earned this term.">
+        <div className="rc-chip-add">
+          <Input value={achievementDraft} placeholder="e.g. 1st place, Inter-house Quiz"
+            aria-label="Achievement to add"
+            onChange={(e) => setAchievementDraft(e.target.value)}
+            onKeyDown={(e) => { if (e.key === 'Enter') { e.preventDefault(); addAchievement(); } }} />
+          <Button variant="subtle" leftIcon="plus" onClick={addAchievement}>Add</Button>
+        </div>
+        {achievements.length > 0 && (
+          <div className="rc-chips">
+            {achievements.map((a, i) => (
+              <span className="rc-chip" key={`${a}-${i}`}>
+                {a}
+                <button type="button" className="rc-chip__x" aria-label={`Remove ${a}`} onClick={() => removeAchievement(i)}>
+                  <Icon name="x" size={12} />
+                </button>
+              </span>
+            ))}
+          </div>
+        )}
+      </Panel>
+
       <Panel title="Attendance, health & promotion">
         <div className="rc-grid">
           <Field label="Days present" optional htmlFor="rc-att-present" hint="Pre-filled from marked attendance; adjust if needed.">
@@ -309,6 +441,10 @@ export function ReportCardFormPage() {
         <Field label="Principal's remark" optional htmlFor="rc-principal">
           <Textarea id="rc-principal" rows={2} maxLength={600} value={principalRemark} placeholder="From the principal…"
             onChange={(e) => setPrincipalRemark(e.target.value)} />
+        </Field>
+        <Field label="Coordinator's remark" optional htmlFor="rc-coordinator" hint="A general remark from the activity / sports coordinator.">
+          <Textarea id="rc-coordinator" rows={2} maxLength={600} value={coordinatorRemark} placeholder="From the coordinator…"
+            onChange={(e) => setCoordinatorRemark(e.target.value)} />
         </Field>
       </Panel>
 

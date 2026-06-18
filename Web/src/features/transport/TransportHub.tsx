@@ -3,6 +3,7 @@ import { Tabs } from '@/components/Tabs';
 import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { ReviewModeNote } from '@/components/ReviewModeNote';
 import { useSosAlerts } from '@/features/ops/data';
+import { FleetTab } from './FleetTab';
 import { LiveMapTab } from './LiveMapTab';
 import { RoutesTab } from './RoutesTab';
 import { VehiclesTab } from './VehiclesTab';
@@ -11,11 +12,11 @@ import { SosTab } from './SosTab';
 import { DisruptionsTab } from './DisruptionsTab';
 import { useDisruptions } from './disruptions';
 
-type TabId = 'map' | 'routes' | 'vehicles' | 'attendance' | 'disruptions' | 'sos';
+type TabId = 'fleet' | 'map' | 'routes' | 'vehicles' | 'attendance' | 'disruptions' | 'sos';
 
-/** Transport & Fleet hub: live map, routes, vehicles, bus attendance and SOS. */
+/** Transport & Fleet hub: fleet overview, live map, routes, vehicles, bus attendance and SOS. */
 export function TransportHub() {
-  const [tab, setTab] = useState<TabId>('map');
+  const [tab, setTab] = useState<TabId>('fleet');
   const { schoolId } = useSession();
   const { canOperate, isReviewer, ownerLabel } = useOwnership('transport');
   const { data: alerts } = useSosAlerts(schoolId);
@@ -40,6 +41,7 @@ export function TransportHub() {
         value={tab}
         onChange={(id) => setTab(id as TabId)}
         tabs={[
+          { id: 'fleet', label: 'Fleet', icon: 'bus' },
           { id: 'map', label: 'Live map', icon: 'map-pin' },
           { id: 'routes', label: 'Routes', icon: 'bus' },
           { id: 'vehicles', label: 'Vehicles', icon: 'settings' },
@@ -50,6 +52,7 @@ export function TransportHub() {
       >
         {(active) => (
           <>
+            {active === 'fleet' && <FleetTab onSwitchToMap={() => setTab('map')} />}
             {active === 'map' && <LiveMapTab />}
             {active === 'routes' && <RoutesTab />}
             {active === 'vehicles' && <VehiclesTab />}

@@ -136,13 +136,14 @@ export interface ExamPaper extends TenantRecord {
   roomName?: string;
 }
 
-/** A student's exam result: subjectId → marks. */
+/** A student's exam result. */
 export interface ExamResult extends TenantRecord {
   examId: string;
   studentId: string;
   studentName?: string;
   sectionId?: string;
   gradeName?: string;
+  /** paperId (ExamPaper doc id) → obtained marks. */
   marks: Record<string, number>;
   total?: number;
   percentage?: number;

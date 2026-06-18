@@ -6,9 +6,10 @@ import { Panel, PanelAction } from '@/components/Panel';
 import { Badge } from '@/components/Badge';
 import { Icon, type IconName } from '@/components/Icon';
 import { EmptyState } from '@/components/feedback';
-import { Donut, DonutLegend, BarChart, type BarItem } from '@/components/charts';
+import { Donut, DonutLegend } from '@/components/charts';
 import { formatINRCompact, formatRelative } from '@/lib/format';
 import { useSession } from '@/app/providers/SessionProvider';
+import { ExecutiveDashboard } from './ExecutiveDashboard';
 import { useStudents, useStaff, useSections, useGrades } from '@/features/school/data';
 import { useAllAttendance, useCirculars } from '@/features/daily/data';
 import { useInvoices, usePayments } from '@/features/finance/data';
@@ -30,6 +31,12 @@ function greeting() {
 
 export function StaffDashboard() {
   const { schoolId, role, uid, member, school, can } = useSession();
+
+  // Executive roles get a dedicated read-only analytics dashboard (no quick
+  // actions / operational controls). Delegate before any other rendering.
+  const isExecutive = role === 'chairman' || role === 'trustee' || role === 'director';
+  if (isExecutive) return <ExecutiveDashboard />;
+
   const { data: students } = useStudents(schoolId);
   const { data: staff } = useStaff(schoolId);
   const { data: sections } = useSections(schoolId);
@@ -308,22 +315,12 @@ export function StaffDashboard() {
           </div>
 
           <div className="grid g-2">
-            {/* Enrolment by grade bar chart */}
+            {/* Enrolment by grade — horizontal bars (readable with many grades) */}
             <Panel title="Enrolment by grade" sub="active students">
               {enrolByGrade.length === 0 ? (
                 <EmptyState icon="bar-chart" title="No enrolment data" message="Active students grouped by grade will chart here." />
               ) : (
-                <>
-                  <BarChart
-                    bars={enrolByGrade.map<BarItem>((g) => ({ value: g.value, color: 'muted', label: g.label }))}
-                    axis={barAxis(Math.max(...enrolByGrade.map((g) => g.value), 1))}
-                  />
-                  <div className="nx-barlabels">
-                    {enrolByGrade.map((g) => (
-                      <span key={g.label} className="nx-barlabels__item">{g.label}</span>
-                    ))}
-                  </div>
-                </>
+                <EnrolmentByGradeChart rows={enrolByGrade} />
               )}
             </Panel>
 
@@ -387,10 +384,36 @@ export function StaffDashboard() {
 
 /* ----------------------------- helpers ----------------------------- */
 
-/** Tick labels for the bar chart Y axis (top → 0). */
-function barAxis(max: number): string[] {
-  const top = Math.max(max, 1);
-  return [top, Math.round(top * 0.66), Math.round(top * 0.33), 0].map(String);
+/**
+ * Horizontal enrolment-by-grade chart. One row per grade — readable even with
+ * 15+ grades, where vertical bars overlap. Gold fill for grades at/above the
+ * mean, muted below; count shown to the right and a running total at the bottom.
+ */
+function EnrolmentByGradeChart({ rows }: { rows: { label: string; value: number }[] }) {
+  const max = Math.max(...rows.map((r) => r.value), 1);
+  const total = rows.reduce((s, r) => s + r.value, 0);
+  const avg = total / (rows.length || 1);
+  return (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+      {rows.map((r) => {
+        const pct = Math.round((r.value / max) * 100);
+        const aboveAvg = r.value >= avg;
+        return (
+          <div key={r.label} style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: 12.5 }}>
+            <span style={{ width: 56, textAlign: 'right', color: 'var(--text-muted)', flexShrink: 0, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{r.label}</span>
+            <div style={{ flex: 1, height: 10, background: 'var(--surface)', borderRadius: 5, overflow: 'hidden' }}>
+              <div style={{ width: `${pct}%`, height: '100%', background: aboveAvg ? 'var(--gold)' : 'var(--text-muted)', borderRadius: 5, transition: 'width 0.4s var(--ease)' }} />
+            </div>
+            <span style={{ width: 32, textAlign: 'left', color: 'var(--text)', fontWeight: 600, flexShrink: 0 }}>{r.value}</span>
+          </div>
+        );
+      })}
+      <div style={{ display: 'flex', justifyContent: 'flex-end', gap: 6, marginTop: 4, fontSize: 12, color: 'var(--text-muted)' }}>
+        <span>Total</span>
+        <span style={{ color: 'var(--text)', fontWeight: 700 }}>{total}</span>
+      </div>
+    </div>
+  );
 }
 
 function AttByGradeList({ rows }: { rows: { label: string; pct: number }[] }) {

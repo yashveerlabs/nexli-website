@@ -16,7 +16,7 @@ import type {
  *
  * Marks are AUTO-FILLED from the existing examinations data without re-entry:
  *   • `exam_papers` give each exam's subjects + max marks,
- *   • `exam_results` give each student's marks per subject (by subjectId).
+ *   • `exam_results` give each student's marks per paper (keyed by paper doc id).
  * The scheme's components are mapped onto matched exams heuristically (component
  * label/id ~ exam name). When no marks are recorded, the card computes honest
  * zeros and the UI shows a clear "no marks recorded" state.
@@ -141,15 +141,17 @@ export function autoFillSubjects(src: AutoFillSources): ReportCardSubject[] {
   const resultByExam = new Map<string, ExamResult>();
   for (const r of results) if (r.studentId === src.studentId) resultByExam.set(r.examId, r);
 
-  // Index papers: examId → (subjectName → { subjectId, max }) and collect the subject universe.
-  const papersByExam = new Map<string, Map<string, { subjectId?: string; max: number; name: string }>>();
+  // Index papers: examId → (subjectName → { paperId, max }) and collect the subject universe.
+  // `exam_results.marks` is keyed by the PAPER's Firestore doc id (see examinations
+  // ResultsTab: `clean[p.id] = v`), NOT by subjectId — so we carry the paper id here.
+  const papersByExam = new Map<string, Map<string, { paperId: string; max: number; name: string }>>();
   const subjectNames = new Set<string>();
   for (const p of papers) {
     const name = p.subjectName?.trim();
     if (!name) continue;
     subjectNames.add(name);
     const m = papersByExam.get(p.examId) ?? new Map();
-    m.set(name, { subjectId: p.subjectId, max: p.maxMarks ?? 0, name });
+    m.set(name, { paperId: p.id, max: p.maxMarks ?? 0, name });
     papersByExam.set(p.examId, m);
   }
 
@@ -165,8 +167,8 @@ export function autoFillSubjects(src: AutoFillSources): ReportCardSubject[] {
       if (exam) {
         const paper = papersByExam.get(exam.id)?.get(subjectName);
         const result = resultByExam.get(exam.id);
-        const subjId = paper?.subjectId;
-        const raw = subjId != null ? result?.marks?.[subjId] : undefined;
+        // Marks are stored keyed by the paper's doc id, not the subjectId.
+        const raw = paper ? result?.marks?.[paper.paperId] : undefined;
         if (raw != null && paper && paper.max > 0) {
           // Scale the exam's raw marks into the component's max.
           marks = Math.round(Math.min(1, raw / paper.max) * c.max * 10) / 10;

@@ -19,8 +19,11 @@ export function SalaryStructureFormPage() {
   const { staffId = '' } = useParams();
   const navigate = useNavigate();
   const toast = useToast();
-  const { schoolId, uid, member } = useSession();
-  const canWrite = useOwnership('payroll').canOperate;
+  const { schoolId, uid, member, can } = useSession();
+  const { canOperate: canWrite, isReviewer } = useOwnership('payroll');
+  // Leadership/reviewers (and anyone with payroll.read) may VIEW a structure read-only;
+  // only operators may create/edit. Save is hidden and fields disabled in view mode.
+  const canView = canWrite || isReviewer || can('payroll.read');
 
   const { data: staff, loading: staffLoading } = useStaffMember(schoolId, staffId);
   const { data: existing, loading: structLoading } = useSalaryStructure(schoolId, staffId);
@@ -32,8 +35,8 @@ export function SalaryStructureFormPage() {
   if (!staff) {
     return <div className="nx-page"><EmptyState icon="users" title="Staff member not found" message="They may have been removed." action={<Button variant="subtle" onClick={back}>Back to payroll</Button>} /></div>;
   }
-  if (!canWrite) {
-    return <div className="nx-page"><EmptyState icon="lock" title="Not allowed" message="You don't have permission to edit salary structures." action={<Button variant="subtle" onClick={back}>Back</Button>} /></div>;
+  if (!canView) {
+    return <div className="nx-page"><EmptyState icon="lock" title="Not allowed" message="You don't have permission to view salary structures." action={<Button variant="subtle" onClick={back}>Back</Button>} /></div>;
   }
 
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
@@ -62,6 +65,7 @@ export function SalaryStructureFormPage() {
       >
         <StructureBody
           mode={existing ? 'edit' : 'new'}
+          readOnly={!canWrite}
           staffName={staff.name}
           designation={staff.designation}
           department={staff.department}
@@ -72,8 +76,8 @@ export function SalaryStructureFormPage() {
   );
 }
 
-function StructureBody({ mode, staffName, designation, department, onCancel }: {
-  mode: 'new' | 'edit'; staffName: string; designation?: string; department?: string; onCancel: () => void;
+function StructureBody({ mode, readOnly, staffName, designation, department, onCancel }: {
+  mode: 'new' | 'edit'; readOnly: boolean; staffName: string; designation?: string; department?: string; onCancel: () => void;
 }) {
   const { control, formState } = useFormContext<SalaryStructureValues>();
   const { fields, append, remove } = useFieldArray({ control, name: 'otherEarnings' });
@@ -81,18 +85,23 @@ function StructureBody({ mode, staffName, designation, department, onCancel }: {
   const d = deductionsFromForm(values);
 
   const subtitle = [designation, department].filter(Boolean).join(' · ') || 'Staff member';
+  const title = readOnly ? `Salary — ${staffName}` : `${mode === 'new' ? 'Set' : 'Edit'} salary — ${staffName}`;
+  const crumb = readOnly ? 'View salary' : mode === 'new' ? 'Set salary' : 'Edit salary';
 
   return (
     <FormPage
-      title={`${mode === 'new' ? 'Set' : 'Edit'} salary — ${staffName}`}
+      title={title}
       subtitle={subtitle}
-      breadcrumbs={[{ label: 'Payroll', onClick: onCancel }, { label: mode === 'new' ? 'Set salary' : 'Edit salary' }]}
+      breadcrumbs={[{ label: 'Payroll', onClick: onCancel }, { label: crumb }]}
       onBack={onCancel}
       onCancel={onCancel}
+      cancelLabel={readOnly ? 'Back' : 'Cancel'}
       submitLabel={mode === 'new' ? 'Save structure' : 'Save changes'}
       submitIcon="check"
       submitting={formState.isSubmitting}
+      hideActions={readOnly}
     >
+      <fieldset disabled={readOnly} style={{ border: 0, margin: 0, padding: 0, minInlineSize: 'auto' }}>
       <FormSection title="Earnings" description="Monthly components. Gross and annual CTC update live below.">
         <FormInput<SalaryStructureValues> name="basic" label="Basic" type="number" inputMode="numeric" placeholder="0" />
         <FormInput<SalaryStructureValues> name="hra" label="HRA" type="number" inputMode="numeric" placeholder="0" />
@@ -146,6 +155,7 @@ function StructureBody({ mode, staffName, designation, department, onCancel }: {
           </div>
         </div>
       </FormSection>
+      </fieldset>
     </FormPage>
   );
 }

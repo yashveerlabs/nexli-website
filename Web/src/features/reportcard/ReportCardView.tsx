@@ -10,8 +10,12 @@ import { EmptyState, Skeleton } from '@/components/feedback';
 import { useToast } from '@/components/Toast';
 import { formatRelative } from '@/lib/format';
 import { useSession } from '@/app/providers/SessionProvider';
-import { useReportCard, useScheme, submitReportCard, reviewReportCard, type Actor } from './data';
+import {
+  useReportCard, useReportCards, usePublishedReportCards, useScheme,
+  submitReportCard, reviewReportCard, type Actor,
+} from './data';
 import { ReportCardDoc } from './ReportCardDoc';
+import { ReportCardTrend } from './ReportCardTrend';
 import { findSeedScheme } from './schemes';
 import {
   statusOf, canApproveReportCard, canSubmitStatus, canReviewStatus, canEditStatus,
@@ -31,6 +35,13 @@ export function ReportCardView({ basePath = '/report-cards', requirePublished = 
   const { schoolId, school, role, member, uid, can } = useSession();
   const { data: card, loading } = useReportCard(schoolId, id);
   const { data: scheme } = useScheme(schoolId, card?.schemeId);
+  // Sibling cards for the same student (for the cross-term academic trend).
+  // Staff may read all of a student's cards; families may only query PUBLISHED ones
+  // (Firestore rules reject an unfiltered studentId query for non-staff). Pick the
+  // matching hook by context — both are always called to keep hook order stable.
+  const staffCards = useReportCards(requirePublished ? undefined : schoolId, card?.studentId);
+  const familyCards = usePublishedReportCards(requirePublished ? schoolId : undefined, card?.studentId);
+  const studentCards = requirePublished ? familyCards.data : staffCards.data;
 
   const canWrite = can('gradebook.write') || can('exams.write');
   const isApprover = canApproveReportCard(role, can);
@@ -50,6 +61,19 @@ export function ReportCardView({ basePath = '/report-cards', requirePublished = 
     () => scheme?.gradeBands ?? (card?.schemeId ? findSeedScheme(card.schemeId)?.gradeBands : undefined),
     [scheme, card],
   );
+
+  // Academic-trend points: this student's cards in the SAME academic year that
+  // actually carry marks, ordered by term, as { term, pct }. For parents/students
+  // only published cards are considered (parity with the visibility gate).
+  const trendPoints = useMemo(() => {
+    if (!card) return [];
+    return studentCards
+      .filter((c) => c.academicYear === card.academicYear)
+      .filter((c) => c.totals.max > 0)
+      .filter((c) => (requirePublished ? c.published === true : true))
+      .sort((a, b) => (a.term < b.term ? -1 : a.term > b.term ? 1 : 0))
+      .map((c) => ({ term: c.termLabel ?? c.term, pct: c.totals.percentage, current: c.id === card.id }));
+  }, [studentCards, card, requirePublished]);
 
   if (loading) {
     return (
@@ -165,6 +189,8 @@ export function ReportCardView({ basePath = '/report-cards', requirePublished = 
       )}
 
       <ReportCardDoc card={card} school={school} gradeBands={gradeBands} className="rc-print" />
+
+      <ReportCardTrend points={trendPoints} card={card} className="rc-noprint" />
 
       <ConfirmModal
         open={action === 'submit'}

@@ -34,7 +34,19 @@ export interface ReportCardGradeBand {
   maxPct: number;
   /** Grade point for CGPA-style schemes (optional). */
   point?: number;
+  /** Human-readable label for direct-grade systems (e.g. "Outstanding"). */
+  description?: string;
 }
+
+/**
+ * The grading model a scheme uses:
+ *  • `marks`        — numerical marks per component → computed % → grade (default).
+ *  • `grade_abcd`   — A/B/C/D letter grades entered directly (no marks math).
+ *  • `grade_a1b1`   — CBSE-style A1/A2/B1/B2/C1/C2/D direct grades.
+ *  • `grade_custom` — user-defined grade symbols + labels.
+ * Existing schemes with no value are treated as `marks`.
+ */
+export type ReportCardGradingSystem = 'marks' | 'grade_abcd' | 'grade_a1b1' | 'grade_custom';
 
 /** A configurable term within a scheme. */
 export interface ReportCardTerm {
@@ -55,6 +67,8 @@ export interface ReportCardScheme extends TenantRecord {
   terms: ReportCardTerm[];
   components: ReportCardComponentDef[];
   gradeBands: ReportCardGradeBand[];
+  /** Grading model. Absent = 'marks' (backwards-compatible default). */
+  gradingSystem?: ReportCardGradingSystem;
   coScholasticAreas?: string[];
   /** Pass threshold as a percentage of the subject max. */
   passPercent: number;
@@ -104,6 +118,20 @@ export interface ReportCardHealth {
   weightKg?: number;
 }
 
+/** Sport / physical-activity performance line. */
+export interface ReportCardSport {
+  activity: string;
+  performance: 'excellent' | 'good' | 'satisfactory' | 'needs_improvement' | '';
+  remarks?: string;
+}
+
+/** Co-curricular activity participation line. */
+export interface ReportCardActivity {
+  activity: string;
+  participation: 'excellent' | 'good' | 'satisfactory' | 'minimal' | '';
+  remarks?: string;
+}
+
 export interface ReportCardTotals {
   obtained: number;
   max: number;
@@ -138,9 +166,18 @@ export interface ReportCard extends TenantRecord {
   result: ResultStatus;
   promotedTo?: string;
 
+  /** Sports / games performance (optional). */
+  sports?: ReportCardSport[];
+  /** Co-curricular activity participation (optional). */
+  activities?: ReportCardActivity[];
+  /** Free-form achievement descriptions (prizes, certificates, milestones). */
+  achievements?: string[];
+
   overallRemark?: string;
   classTeacherRemark?: string;
   principalRemark?: string;
+  /** Overall coordinator/teacher remark (distinct from the holistic overallRemark). */
+  remarks?: string;
 
   /** Stays consistent with `approvalStatus === 'approved'`. Parent/student see it only when true. */
   published?: boolean;

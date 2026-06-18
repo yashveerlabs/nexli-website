@@ -39,6 +39,7 @@ export const MODULE_OWNERSHIP: Record<string, ModuleOwnership> = {
   gradebook: { owners: ['subject_teacher', 'class_teacher'], secondary: ['hod'], reviewers: ['principal', 'vp_academic', 'academic_coordinator', 'hod', 'exam_controller', 'academic_director'], ownerLabel: 'Teachers' },
   examinations: { owners: ['vp_academic', 'academic_coordinator', 'hod', 'exam_controller'], reviewers: ['principal', 'director', 'headmaster'], approvers: ['principal', 'vp_academic', 'exam_controller'], ownerLabel: 'Exam Controller' },
   hpc: { owners: ['class_teacher', 'subject_teacher', 'academic_coordinator', 'hod'], reviewers: ['principal', 'vp_academic', 'academic_director'], approvers: ['principal', 'vp_academic'], ownerLabel: 'Teachers / Coordinator' },
+  qpaper: { owners: ['subject_teacher', 'class_teacher', 'hod', 'exam_controller', 'academic_coordinator', 'academic_coordinator_junior'], secondary: ['vp_academic', 'academic_director'], reviewers: ['principal'], ownerLabel: 'Teachers / Exam Controller' },
   academics: { owners: ['academic_coordinator', 'academic_coordinator_junior', 'vp_academic', 'academic_director'], secondary: ['hod'], reviewers: ['principal', 'director', 'headmaster'], ownerLabel: 'Academic Coordinator' },
   library: { owners: ['librarian', 'librarian_senior_secondary', 'librarian_high', 'librarian_middle', 'librarian_primary', 'teacher_librarian', 'digital_media_librarian', 'assistant_librarian', 'library_attendant'], secondary: ['lab_assistant'], reviewers: ['principal', 'vp_admin', 'director'], ownerLabel: 'Librarian' },
 
@@ -112,6 +113,7 @@ export const MODULE_DISPLAY_NAMES: Record<string, string> = {
   gradebook: 'Class Assessments',
   examinations: 'Examinations',
   hpc: 'Holistic Progress Card',
+  qpaper: 'Question Papers',
   academics: 'Academics',
   library: 'Library',
   students: 'Students',

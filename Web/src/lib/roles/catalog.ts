@@ -109,18 +109,18 @@ export const ROLE_CATALOG: RoleDefinition[] = [
   }),
   r('class_teacher', 'Class Teacher', 'academic', {}, {
     raw: [
-      'students.read.section', 'students.write.section', 'attendance.read.section', 'attendance.write.section',
+      'students.read.section', 'students.write.section', 'students.write', 'attendance.read.section', 'attendance.write.section',
       'gradebook.read.section', 'reportcard.write.section', 'homework.read', 'homework.write',
       'communication.parent', 'announcements.class', 'hpc.read', 'exams.read',
     ],
-    description: 'Owns one section: that section’s students, attendance, marks & parent comms.',
+    description: 'Owns one section: that section’s students, attendance, marks & parent comms. May add/import students.',
   }),
   r('subject_teacher', 'Subject Teacher', 'academic', {}, {
     raw: [
-      'students.read.section', 'attendance.write.period', 'gradebook.read.subject', 'gradebook.write.subject',
+      'students.read.section', 'students.write', 'attendance.write.period', 'gradebook.read.subject', 'gradebook.write.subject',
       'homework.read', 'homework.write', 'lessonplans.read', 'lessonplans.write', 'exams.read',
     ],
-    description: 'Teaches subject(s): their classes’ marks, homework & period attendance.',
+    description: 'Teaches subject(s): their classes’ marks, homework & period attendance. May add/import students.',
   }),
   r('substitute_teacher', 'Substitute Teacher', 'academic', {}, {
     raw: ['attendance.write.period', 'lessonplans.read', 'homework.read'],

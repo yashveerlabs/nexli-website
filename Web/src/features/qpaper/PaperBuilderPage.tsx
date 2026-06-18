@@ -7,7 +7,7 @@ import { Modal } from '@/components/Modal';
 import { Field, Input, Select, Textarea } from '@/components/form';
 import { EmptyState, Skeleton } from '@/components/feedback';
 import { useToast } from '@/components/Toast';
-import { useSession } from '@/app/providers/SessionProvider';
+import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { useGrades, useSubjects } from '@/features/school/data';
 import {
   BOARD_OPTIONS,
@@ -30,8 +30,9 @@ export function PaperBuilderPage() {
   const navigate = useNavigate();
   const toast = useToast();
   const [searchParams] = useSearchParams();
-  const { schoolId, uid, member, school, can } = useSession();
-  const canWrite = can('exams.write');
+  const { schoolId, uid, member, school } = useSession();
+  // Building papers is an operate action; leadership (reviewers) gets the view-only gate.
+  const canWrite = useOwnership('qpaper').canOperate;
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
   const isEdit = !!id;
 

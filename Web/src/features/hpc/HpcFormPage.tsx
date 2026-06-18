@@ -7,7 +7,7 @@ import {
   Form, FormInput, FormSelect, FormTextarea, FormPage, FormSection,
 } from '@/components/form';
 import { useToast } from '@/components/Toast';
-import { useSession } from '@/app/providers/SessionProvider';
+import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { RadarChart, type RadarAxis } from '@/features/analytics/RadarChart';
 import { useHpcCard, hpcCardId, saveHpcCard, type Actor } from '@/features/analytics/data';
 import { HPC_RATING_DESCRIPTORS, HPC_TERM_OPTIONS } from '@/features/analytics/meta';
@@ -22,8 +22,9 @@ export function HpcFormPage({ mode }: { mode: 'new' | 'edit' }) {
   const { id = '' } = useParams();
   const navigate = useNavigate();
   const toast = useToast();
-  const { schoolId, uid, member, school, can } = useSession();
-  const canWrite = can('gradebook.write');
+  const { schoolId, uid, member, school } = useSession();
+  // Creating/editing cards is an operate action; leadership reviews & approves instead.
+  const canWrite = useOwnership('hpc').canOperate;
 
   const { data: existing, loading } = useHpcCard(mode === 'edit' ? schoolId : undefined, mode === 'edit' ? id : undefined);
   const { data: students, loading: sLoading } = useStudents(schoolId);

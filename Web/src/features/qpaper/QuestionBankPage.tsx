@@ -7,7 +7,8 @@ import { Input, Select } from '@/components/form';
 import { ConfirmModal } from '@/components/Modal';
 import { EmptyState, Skeleton } from '@/components/feedback';
 import { useToast } from '@/components/Toast';
-import { useSession } from '@/app/providers/SessionProvider';
+import { ReviewModeNote } from '@/components/ReviewModeNote';
+import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { useGrades, useSubjects } from '@/features/school/data';
 import {
   BLOOM_META,
@@ -57,7 +58,8 @@ export function QuestionBankPage() {
   const toast = useToast();
   const { schoolId, uid, member, can } = useSession();
   const canRead = can('exams.read');
-  const canWrite = can('exams.write');
+  // Operate (add/edit/delete questions, load samples) is owned by teachers/exam-control; leadership reviews.
+  const { canOperate: canWrite, isReviewer, ownerLabel } = useOwnership('qpaper');
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
 
   const { data: questions, loading, error } = useQuestions(canRead ? schoolId : undefined);
@@ -145,6 +147,8 @@ export function QuestionBankPage() {
           </p>
         </div>
       </div>
+
+      {isReviewer && !canWrite && <ReviewModeNote owner={ownerLabel} />}
 
       <div className="qp-toolbar">
         <div className="qp-grow">

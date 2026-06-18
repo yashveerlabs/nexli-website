@@ -9,7 +9,7 @@ import { Field } from '@/components/form';
 import { EmptyState, Skeleton } from '@/components/feedback';
 import { useToast } from '@/components/Toast';
 import { formatRelative } from '@/lib/format';
-import { useSession } from '@/app/providers/SessionProvider';
+import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { useHpcCard, submitHpcCard, reviewHpcCard, type Actor } from '@/features/analytics/data';
 import { HpcCardDoc } from './HpcCardDoc';
 import {
@@ -30,7 +30,8 @@ export function HpcCardView({ basePath = '/hpc', requirePublished = false }: { b
   const { schoolId, school, role, member, uid, can } = useSession();
   const { data: card, loading } = useHpcCard(schoolId, id);
 
-  const canWrite = can('gradebook.write');
+  // Edit/submit are operate actions (card authors); leadership only reviews (approve/return).
+  const canWrite = useOwnership('hpc').canOperate;
   const isApprover = canApproveHpc(role, can);
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
 

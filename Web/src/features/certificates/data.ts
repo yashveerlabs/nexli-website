@@ -8,13 +8,15 @@ import { tenantCol, tenantDoc, useCollection } from '@/lib/db';
  * per-type counter transaction (same pattern as fee receipts) so two clerks
  * issuing at once never collide.
  */
-export type CertificateType = 'bonafide' | 'character' | 'conduct' | 'leaving' | 'transfer';
+export type CertificateType = 'bonafide' | 'character' | 'conduct' | 'leaving' | 'transfer' | 'custom';
 
 export interface IssuedCertificate {
   id: string;
   schoolId: string;
   serialNo: string;
   type: CertificateType;
+  /** Free-text certificate name (for `custom` types); the displayed title/label. */
+  certName?: string;
   studentId: string;
   studentName: string;
   className?: string;
@@ -32,7 +34,7 @@ export interface Actor {
 
 const pad = (n: number, w = 4) => String(n).padStart(w, '0');
 export const CERT_PREFIX: Record<CertificateType, string> = {
-  bonafide: 'BON', character: 'CHR', conduct: 'CND', leaving: 'SLC', transfer: 'TC',
+  bonafide: 'BON', character: 'CHR', conduct: 'CND', leaving: 'SLC', transfer: 'TC', custom: 'CERT',
 };
 
 export function useIssuedCertificates(schoolId?: string) {
@@ -44,6 +46,7 @@ export function useIssuedCertificates(schoolId?: string) {
 
 export interface IssueInput {
   type: CertificateType;
+  certName?: string;
   studentId: string;
   studentName: string;
   className?: string;
@@ -66,6 +69,7 @@ export async function issueCertificate(schoolId: string, input: IssueInput, acto
     tx.set(certRef, {
       serialNo: sn,
       type: input.type,
+      certName: input.certName ?? null,
       studentId: input.studentId,
       studentName: input.studentName,
       className: input.className ?? null,

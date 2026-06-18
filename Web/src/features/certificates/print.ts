@@ -6,7 +6,34 @@ export const CERT_META: Record<CertificateType, { label: string; title: string }
   conduct: { label: 'Conduct Certificate', title: 'CONDUCT CERTIFICATE' },
   leaving: { label: 'School Leaving Certificate', title: 'SCHOOL LEAVING CERTIFICATE' },
   transfer: { label: 'Transfer Certificate', title: 'TRANSFER CERTIFICATE' },
+  custom: { label: 'Certificate', title: 'CERTIFICATE' },
 };
+
+export type CertFontStyle = 'serif' | 'sans-serif' | 'monospace';
+
+/** Default certificate accent (gold) used when no override is supplied. */
+export const CERT_DEFAULT_ACCENT = '#C6A55C';
+
+const FONT_STACKS: Record<CertFontStyle, string> = {
+  serif: `Georgia, 'Times New Roman', serif`,
+  'sans-serif': `'Segoe UI', Helvetica, Arial, sans-serif`,
+  monospace: `'Courier New', Consolas, monospace`,
+};
+
+/**
+ * Resolves the visual tokens shared by the print HTML and the in-app React
+ * preview so they always render identically: accent colour, font stack, the
+ * effective title, and the A4 page dimensions (swapped when landscape).
+ */
+export function certStyle(o: CertOpts) {
+  const accent = (o.accentColor || CERT_DEFAULT_ACCENT).trim() || CERT_DEFAULT_ACCENT;
+  const fontFamily = FONT_STACKS[o.fontStyle ?? 'serif'];
+  const meta = CERT_META[o.type];
+  const title = (o.certName?.trim() || meta.title).toUpperCase();
+  // A4 in px at 96dpi; swap for landscape.
+  const pageWidth = o.landscape ? 1123 : 794;
+  return { accent, fontFamily, title, landscape: !!o.landscape, pageWidth };
+}
 
 export interface CertStudent {
   fullName: string;
@@ -23,10 +50,20 @@ export interface CertOpts {
   schoolName: string;
   schoolLocation?: string;
   type: CertificateType;
+  /** Free-text title for `custom` certificates; falls back to the type's title. */
+  certName?: string;
   serialNo: string;
   issuedDateText: string;
   student: CertStudent;
   purpose?: string;
+  /** Direct image URL for the school logo, shown in the header when set. */
+  logoUrl?: string;
+  /** Accent colour for borders/headings (defaults to gold). */
+  accentColor?: string;
+  /** Render in landscape (wide) orientation. */
+  landscape?: boolean;
+  /** Body/heading font family. */
+  fontStyle?: CertFontStyle;
 }
 
 const esc = (s: string) =>
@@ -62,23 +99,40 @@ function body(o: CertOpts): string {
           <tr><td>Date of admission</td><td>${esc(s.admissionDateText ?? '—')}</td></tr>
         </table>
         <p>${isF ? 'She' : 'He'} is hereby relieved from this school. ${isF ? 'Her' : 'His'} conduct has been satisfactory and no dues are pending.</p>${purposeLine}`;
+    case 'custom':
+      return `<p>This is to certify that ${name}${guardian}${adm} is a bonafide student of this school${cls}${ay}.</p>${purposeLine || '<p>This certificate is issued on request for official use.</p>'}`;
   }
+}
+
+/**
+ * The certificate's inner body prose as an HTML fragment (no document chrome).
+ * Shared so the live React preview renders the exact same per-type paragraphs
+ * as the printed document without duplicating the prose logic.
+ */
+export function certBodyHtml(o: CertOpts): string {
+  return body(o);
 }
 
 /** Build a fully self-contained, print-ready HTML document for a certificate. */
 export function buildCertificateHtml(o: CertOpts): string {
-  const meta = CERT_META[o.type];
-  return `<!doctype html><html><head><meta charset="utf-8"><title>${esc(meta.label)} — ${esc(o.student.fullName)}</title>
+  const { accent, fontFamily, title, landscape } = certStyle(o);
+  const docTitle = o.certName?.trim() || CERT_META[o.type].label;
+  const maxW = landscape ? 1040 : 760;
+  const logo = o.logoUrl?.trim()
+    ? `<img class="cert__logo" src="${esc(o.logoUrl.trim())}" alt="" referrerpolicy="no-referrer" />`
+    : '';
+  return `<!doctype html><html><head><meta charset="utf-8"><title>${esc(docTitle)} — ${esc(o.student.fullName)}</title>
 <style>
-  @page { size: A4; margin: 18mm; }
+  @page { size: A4 ${landscape ? 'landscape' : 'portrait'}; margin: 18mm; }
   * { box-sizing: border-box; }
-  body { font-family: Georgia, 'Times New Roman', serif; color: #14110c; margin: 0; padding: 24px; background: #f4f1ea; }
-  .cert { max-width: 760px; margin: 0 auto; background: #fff; border: 2px solid #c6a55c; padding: 40px 48px; box-shadow: 0 2px 12px rgba(0,0,0,.08); }
+  body { font-family: ${fontFamily}; color: #14110c; margin: 0; padding: 24px; background: #f4f1ea; }
+  .cert { max-width: ${maxW}px; margin: 0 auto; background: #fff; border: 2px solid ${accent}; padding: 40px 48px; box-shadow: 0 2px 12px rgba(0,0,0,.08); }
   .cert__head { text-align: center; border-bottom: 1px solid #ddd; padding-bottom: 16px; margin-bottom: 24px; }
+  .cert__logo { display: block; max-height: 72px; max-width: 220px; margin: 0 auto 12px; object-fit: contain; }
   .cert__school { font-size: 26px; font-weight: 700; letter-spacing: .5px; color: #1a1206; }
   .cert__loc { font-size: 13px; color: #6b6354; margin-top: 4px; }
   .cert__serial { font-size: 12px; color: #6b6354; margin-top: 10px; }
-  .cert__title { text-align: center; font-size: 19px; font-weight: 700; letter-spacing: 3px; color: #8a6d2f; margin: 8px 0 26px; text-decoration: underline; }
+  .cert__title { text-align: center; font-size: 19px; font-weight: 700; letter-spacing: 3px; color: ${accent}; margin: 8px 0 26px; text-decoration: underline; }
   .cert__body { font-size: 15.5px; line-height: 2; text-align: justify; min-height: 220px; }
   .cert__body p { margin: 0 0 14px; }
   .cert-table { width: 100%; border-collapse: collapse; margin: 12px 0 18px; }
@@ -87,17 +141,18 @@ export function buildCertificateHtml(o: CertOpts): string {
   .cert__foot { display: flex; justify-content: space-between; align-items: flex-end; margin-top: 48px; font-size: 13.5px; }
   .cert__sign { text-align: center; }
   .cert__sign-line { border-top: 1px solid #333; padding-top: 6px; min-width: 180px; }
-  .cert__print-btn { display: block; margin: 18px auto 0; padding: 10px 22px; font-size: 14px; background: #c6a55c; color: #1a1206; border: 0; border-radius: 8px; cursor: pointer; }
-  @media print { body { background: #fff; padding: 0; } .cert { border: 2px solid #c6a55c; box-shadow: none; } .cert__print-btn { display: none; } }
+  .cert__print-btn { display: block; margin: 18px auto 0; padding: 10px 22px; font-size: 14px; background: ${accent}; color: #1a1206; border: 0; border-radius: 8px; cursor: pointer; }
+  @media print { body { background: #fff; padding: 0; } .cert { border: 2px solid ${accent}; box-shadow: none; } .cert__print-btn { display: none; } }
 </style></head>
 <body>
   <div class="cert">
     <div class="cert__head">
+      ${logo}
       <div class="cert__school">${esc(o.schoolName)}</div>
       ${o.schoolLocation ? `<div class="cert__loc">${esc(o.schoolLocation)}</div>` : ''}
       <div class="cert__serial">Serial No: ${esc(o.serialNo)} &nbsp;•&nbsp; Date: ${esc(o.issuedDateText)}</div>
     </div>
-    <div class="cert__title">${esc(meta.title)}</div>
+    <div class="cert__title">${esc(title)}</div>
     <div class="cert__body">${body(o)}</div>
     <div class="cert__foot">
       <div>Place: ${esc(o.schoolLocation ?? '____________')}</div>

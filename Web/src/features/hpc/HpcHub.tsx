@@ -10,8 +10,9 @@ import { Select, Field } from '@/components/form';
 import { ConfirmModal } from '@/components/Modal';
 import { EmptyState, Skeleton } from '@/components/feedback';
 import { useToast } from '@/components/Toast';
+import { ReviewModeNote } from '@/components/ReviewModeNote';
 import { formatRelative } from '@/lib/format';
-import { useSession } from '@/app/providers/SessionProvider';
+import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { useHpcCards, deleteHpcCard, type Actor } from '@/features/analytics/data';
 import { useGrades, useSections, useStudents } from '@/features/school/data';
 import { HPC_TERM_OPTIONS } from '@/features/analytics/meta';
@@ -29,7 +30,8 @@ export function HpcHub() {
   const navigate = useNavigate();
   const toast = useToast();
   const { schoolId, uid, member, role, can } = useSession();
-  const canWrite = can('gradebook.write');
+  // HPC authoring is owned by teachers/coordinator; leadership reviews & approves.
+  const { canOperate: canWrite, isReviewer: isHpcReviewer, ownerLabel } = useOwnership('hpc');
   const isApprover = canApproveHpc(role, can);
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
 
@@ -107,6 +109,8 @@ export function HpcHub() {
           )}
         </div>
       </div>
+
+      {isHpcReviewer && !canWrite && <ReviewModeNote owner={ownerLabel} />}
 
       <div className="kpi-grid">
         <KPICard icon="file-text" label="Cards created" count={counts.total} format="us" />

@@ -1,4 +1,6 @@
-import type { ReportCardScheme } from '@/types/reportcard';
+import type {
+  ReportCardGradeBand, ReportCardGradingSystem, ReportCardScheme,
+} from '@/types/reportcard';
 
 /**
  * Bundled seed grading schemes. These work on day one (no setup): the hub seeds
@@ -99,4 +101,59 @@ export const SEED_SCHEMES: ReportCardScheme[] = [
 /** Look up a seed scheme by id (used when a scheme isn't persisted yet). */
 export function findSeedScheme(id: string): ReportCardScheme | undefined {
   return SEED_SCHEMES.find((s) => s.id === id);
+}
+
+/* --------------------------- Grading systems --------------------------- */
+
+/** The grading system a scheme uses, with 'marks' as the legacy default. */
+export const gradingSystemOf = (scheme: Pick<ReportCardScheme, 'gradingSystem'>): ReportCardGradingSystem =>
+  scheme.gradingSystem ?? 'marks';
+
+/** Selector labels + helper copy for each grading system. */
+export const GRADING_SYSTEM_META: Record<ReportCardGradingSystem, { label: string; hint: string }> = {
+  marks: { label: 'Marks (numerical → grade)', hint: 'Teachers enter component marks; the percentage, grade and result compute automatically from the bands below.' },
+  grade_abcd: { label: 'Direct grades — A / B / C / D', hint: 'Teachers pick a letter grade per subject directly. No marks or percentages are computed.' },
+  grade_a1b1: { label: 'Direct grades — A1 / A2 … D (CBSE)', hint: 'CBSE-style direct grades per subject. Edit the descriptions or marks ranges as needed.' },
+  grade_custom: { label: 'Custom grade symbols', hint: 'Define your own grade symbols and labels. Teachers pick a symbol per subject.' },
+};
+
+export const GRADING_SYSTEM_OPTIONS = (Object.keys(GRADING_SYSTEM_META) as ReportCardGradingSystem[])
+  .map((value) => ({ value, label: GRADING_SYSTEM_META[value].label }));
+
+/** True when the scheme grades by symbol entry rather than computed marks. */
+export const isDirectGradeSystem = (sys: ReportCardGradingSystem): boolean => sys !== 'marks';
+
+/** A/B/C/D preset bands (descriptions editable; ranges are indicative). */
+export const ABCD_BANDS: ReportCardGradeBand[] = [
+  { grade: 'A', minPct: 75, maxPct: 100, description: 'Outstanding' },
+  { grade: 'B', minPct: 60, maxPct: 74, description: 'Very good' },
+  { grade: 'C', minPct: 45, maxPct: 59, description: 'Good' },
+  { grade: 'D', minPct: 0, maxPct: 44, description: 'Scope to improve' },
+];
+
+/** CBSE-style A1/A2/B1/B2/C1/C2/D preset bands with descriptions. */
+export const A1B1_BANDS: ReportCardGradeBand[] = [
+  { grade: 'A1', minPct: 91, maxPct: 100, point: 10, description: 'Exceptional' },
+  { grade: 'A2', minPct: 81, maxPct: 90, point: 9, description: 'Excellent' },
+  { grade: 'B1', minPct: 71, maxPct: 80, point: 8, description: 'Very good' },
+  { grade: 'B2', minPct: 61, maxPct: 70, point: 7, description: 'Good' },
+  { grade: 'C1', minPct: 51, maxPct: 60, point: 6, description: 'Fair' },
+  { grade: 'C2', minPct: 41, maxPct: 50, point: 5, description: 'Satisfactory' },
+  { grade: 'D', minPct: 0, maxPct: 40, point: 4, description: 'Needs improvement' },
+];
+
+/** Default bands to seed when switching a scheme into a given grading system. */
+export function defaultBandsFor(sys: ReportCardGradingSystem, current: ReportCardGradeBand[]): ReportCardGradeBand[] {
+  switch (sys) {
+    case 'grade_abcd':
+      return ABCD_BANDS.map((b) => ({ ...b }));
+    case 'grade_a1b1':
+      return A1B1_BANDS.map((b) => ({ ...b }));
+    case 'grade_custom':
+      // Keep whatever exists so the user can tweak it; seed one row if empty.
+      return current.length ? current.map((b) => ({ ...b })) : [{ grade: 'A', minPct: 0, maxPct: 100, description: '' }];
+    case 'marks':
+    default:
+      return current.map((b) => ({ ...b }));
+  }
 }

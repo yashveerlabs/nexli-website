@@ -11,7 +11,8 @@ import { useSession } from '@/app/providers/SessionProvider';
 import {
   useSchemes, createScheme, deleteScheme, seedSchemes, type Actor,
 } from './data';
-import { SEED_SCHEMES } from './schemes';
+import { SEED_SCHEMES, GRADING_SYSTEM_META, gradingSystemOf } from './schemes';
+import { GradingSystemModal } from './GradingSystemModal';
 import type { ReportCardScheme } from '@/types/reportcard';
 import './reportcard.css';
 
@@ -31,6 +32,7 @@ export function SchemesPage() {
   const { data: schemes, loading } = useSchemes(schoolId);
   const [busy, setBusy] = useState(false);
   const [removing, setRemoving] = useState<ReportCardScheme | null>(null);
+  const [grading, setGrading] = useState<ReportCardScheme | null>(null);
 
   const missingSeeds = useMemo(
     () => SEED_SCHEMES.filter((s) => !schemes.some((p) => p.id === s.id)),
@@ -113,7 +115,9 @@ export function SchemesPage() {
             headerRight={
               <div className="rc-head-actions">
                 <Badge variant="info">{scheme.board}</Badge>
+                <Badge variant="muted">{GRADING_SYSTEM_META[gradingSystemOf(scheme)].label}</Badge>
                 {scheme.showRank && <Badge variant="muted">Ranked</Badge>}
+                {canWrite && <Button variant="ghost" size="sm" leftIcon="edit" onClick={() => setGrading(scheme)}>Grading</Button>}
                 {canWrite && <Button variant="ghost" size="sm" leftIcon="plus" onClick={() => clone(scheme)}>Clone</Button>}
                 {canWrite && <Button variant="ghost" size="sm" leftIcon="minus-circle" aria-label={`Remove ${scheme.name}`} onClick={() => setRemoving(scheme)} />}
               </div>
@@ -129,8 +133,16 @@ export function SchemesPage() {
                 <div className="rc-legend">{scheme.components.map((c) => <span className="rc-legend__item" key={c.id}><b>{c.label}</b> /{c.max}</span>)}</div>
               </div>
               <div>
-                <div className="rc-doc__section-title">Grade bands</div>
-                <div className="rc-legend">{scheme.gradeBands.map((b) => <span className="rc-legend__item" key={b.grade}><b>{b.grade}</b> {b.minPct}–{b.maxPct}%</span>)}</div>
+                <div className="rc-doc__section-title">{gradingSystemOf(scheme) === 'marks' ? 'Grade bands' : 'Grade symbols'}</div>
+                <div className="rc-legend">
+                  {scheme.gradeBands.map((b) => (
+                    <span className="rc-legend__item" key={b.grade}>
+                      <b>{b.grade}</b>
+                      {gradingSystemOf(scheme) === 'marks' ? ` ${b.minPct}–${b.maxPct}%` : ''}
+                      {b.description ? ` · ${b.description}` : ''}
+                    </span>
+                  ))}
+                </div>
               </div>
               <div>
                 <div className="rc-doc__section-title">Pass / co-scholastic</div>
@@ -154,6 +166,8 @@ export function SchemesPage() {
         message={removing ? `${removing.name} will be removed. Existing cards already built from it are unaffected.` : ''}
         confirmLabel="Remove"
       />
+
+      <GradingSystemModal open={!!grading} scheme={grading} onClose={() => setGrading(null)} />
     </div>
   );
 }

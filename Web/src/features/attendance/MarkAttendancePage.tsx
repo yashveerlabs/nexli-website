@@ -11,7 +11,7 @@ import { cn } from '@/lib/cn';
 import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { ReviewModeNote } from '@/components/ReviewModeNote';
 import { useStudents, useGrades, useSections } from '@/features/school/data';
-import { useAttendanceDay, saveAttendanceDay } from '@/features/daily/data';
+import { useAttendanceDay, useAllAttendance, saveAttendanceDay } from '@/features/daily/data';
 import { ATTENDANCE_STATUS_META } from '@/features/daily/meta';
 import type { AttendanceStatus } from '@/types/daily';
 import './attendance.css';
@@ -46,6 +46,11 @@ export function MarkAttendancePage() {
   const [sectionId, setSectionId] = useState('');
   const [date, setDate] = useState(today());
   const { data: existing } = useAttendanceDay(schoolId, sectionId || undefined, date);
+
+  // School-wide attendance powers the pre-selection summaries. Only fetched while
+  // no section is chosen — once a section is selected we don't need (and don't want
+  // to pay for) the whole-collection read.
+  const { data: allAttendance } = useAllAttendance(!sectionId ? schoolId : undefined);
 
   // A scoped user may only mark a section they own. If a stale selection or URL
   // lands them on an unowned section, block the save with an inline note.
@@ -89,6 +94,61 @@ export function MarkAttendancePage() {
     }
     return c;
   }, [entries]);
+
+  // ---- Pre-selection summaries (school-wide) ----
+  // Count a day's present heads: 'present' + 'late' are present; 'holiday' rows are
+  // excluded from the denominator entirely.
+  const tallyDay = (entries: Record<string, AttendanceStatus>) => {
+    let present = 0;
+    let counted = 0;
+    for (const st of Object.values(entries)) {
+      if (st === 'holiday') continue;
+      counted++;
+      if (st === 'present' || st === 'late') present++;
+    }
+    return { present, counted };
+  };
+
+  // Visualization 1 — today's top sections by attendance %.
+  const topSections = useMemo(() => {
+    const td = today();
+    const rows: { id: string; label: string; pct: number }[] = [];
+    for (const d of allAttendance) {
+      if (d.date !== td || !d.entries) continue;
+      const { present, counted } = tallyDay(d.entries);
+      if (counted === 0) continue;
+      const label = `${d.gradeName ?? ''} ${d.sectionName ?? ''}`.trim() || d.sectionId;
+      rows.push({ id: d.id ?? `${d.sectionId}_${d.date}`, label, pct: Math.round((present / counted) * 100) });
+    }
+    rows.sort((a, b) => b.pct - a.pct);
+    return rows.slice(0, 5);
+  }, [allAttendance]);
+
+  // Visualization 2 — school-wide daily attendance % for the last 7 calendar days.
+  const sevenDay = useMemo(() => {
+    const days: { date: string; present: number; counted: number }[] = [];
+    for (let i = 6; i >= 0; i--) {
+      const dt = new Date();
+      dt.setDate(dt.getDate() - i);
+      days.push({ date: dt.toISOString().slice(0, 10), present: 0, counted: 0 });
+    }
+    const byDate = new Map(days.map((d) => [d.date, d]));
+    for (const d of allAttendance) {
+      const bucket = d.entries ? byDate.get(d.date) : undefined;
+      if (!bucket) continue;
+      const { present, counted } = tallyDay(d.entries);
+      bucket.present += present;
+      bucket.counted += counted;
+    }
+    const bars = days.map((d) => ({
+      date: d.date,
+      pct: d.counted > 0 ? Math.round((d.present / d.counted) * 100) : null,
+    }));
+    const totalPresent = days.reduce((s, d) => s + d.present, 0);
+    const totalCounted = days.reduce((s, d) => s + d.counted, 0);
+    const avg = totalCounted > 0 ? Math.round((totalPresent / totalCounted) * 100) : null;
+    return { bars, avg };
+  }, [allAttendance]);
 
   const setAll = (status: AttendanceStatus) => {
     const next: Record<string, AttendanceStatus> = {};
@@ -163,7 +223,53 @@ export function MarkAttendancePage() {
       )}
 
       {!sectionId ? (
-        <Panel><EmptyState icon="clock" title="Pick a section" message="Choose a class section to start marking attendance." /></Panel>
+        <>
+          <div className="nx-att-viz-grid">
+            <Panel title="Best Attendance Today" sub="top sections by %">
+              {topSections.length === 0 ? (
+                <p className="nx-att-viz-empty">No sections marked yet today.</p>
+              ) : (
+                <div className="nx-att-viz-list">
+                  {topSections.map((s) => {
+                    const color = s.pct >= 90 ? '#4CAF50' : s.pct >= 75 ? 'var(--gold)' : 'var(--danger)';
+                    return (
+                      <div className="nx-att-viz-row" key={s.id}>
+                        <span className="nx-att-viz-row__label" title={s.label}>{s.label}</span>
+                        <span className="nx-att-viz-row__track">
+                          <span className="nx-att-viz-row__fill" style={{ width: `${s.pct}%`, background: color }} />
+                        </span>
+                        <span className="nx-att-viz-row__val" style={{ color }}>{s.pct}%</span>
+                      </div>
+                    );
+                  })}
+                </div>
+              )}
+            </Panel>
+
+            <Panel title="7-Day School Attendance" sub="school-wide average">
+              <div className="nx-att-spark__head">
+                <span className="nx-att-spark__avg">{sevenDay.avg == null ? '—' : `${sevenDay.avg}%`}</span>
+                <span className="nx-att-spark__avg-label">avg, last 7 days</span>
+              </div>
+              <div className="nx-att-spark">
+                {sevenDay.bars.map((b) => {
+                  const color = b.pct == null ? 'var(--surface)' : b.pct >= 90 ? '#4CAF50' : b.pct >= 75 ? 'var(--gold)' : 'var(--danger)';
+                  const dow = new Date(b.date + 'T00:00:00').toLocaleDateString(undefined, { weekday: 'narrow' });
+                  return (
+                    <div className="nx-att-spark__col" key={b.date} title={`${b.date}: ${b.pct == null ? 'no data' : `${b.pct}%`}`}>
+                      <div className="nx-att-spark__bar-wrap">
+                        <div className="nx-att-spark__bar" style={{ height: `${b.pct ?? 2}%`, background: color, opacity: b.pct == null ? 0.35 : 1 }} />
+                      </div>
+                      <span className="nx-att-spark__day">{dow}</span>
+                    </div>
+                  );
+                })}
+              </div>
+            </Panel>
+          </div>
+
+          <Panel><EmptyState icon="clock" title="Pick a section" message="Choose a class section to start marking attendance." /></Panel>
+        </>
       ) : sLoading ? (
         <Panel><Skeleton height={300} /></Panel>
       ) : roster.length === 0 ? (

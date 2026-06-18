@@ -84,3 +84,13 @@
   font-size: 11.5px; color: var(--text-muted);
 }
 .tr-stopchip svg { color: var(--gold); flex-shrink: 0; }
+
+/* ---- Route chip on a fleet card (gold-tinted, links bus → route) ---- */
+.tr-route-chip {
+  display: inline-flex; align-items: center;
+  max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  padding: 2px 9px; border-radius: 999px;
+  border: 1px solid color-mix(in srgb, var(--gold) 45%, var(--hairline));
+  background: color-mix(in srgb, var(--gold) 12%, transparent);
+  font-size: 12px; font-weight: 600; color: var(--gold);
+}
