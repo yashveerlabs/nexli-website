@@ -263,3 +263,17 @@ Systematic fix pass against the deduplicated **P0–P3 / Tier-0/1 launch-blocker
 - **WCAG contrast verified**: gold #C6A55C measured **7.56:1** on card (audit's 3.4:1 claim was wrong) → untouched; fixed the genuine sub-AA `--text-dim` placeholder token (3.12→4.80:1). Skip-to-content link; aria-hidden on the one raw SVG (Icon.tsx already hides all `<Icon>`).
 - Removed `v0.1.0` badge (sidebar + foundation); PTM dead nav → disabled "Coming Soon"; RoleRoutes route tree memoized; portfolio print popup-blocker fix; StudentFormPage localStorage draft autosave + restore.
 - **Light/outdoor mode** (additive, safe): `[data-theme='light']` token overrides + persisted toggle; **dark unchanged/default**. Caveat: sidebar/appbar use hardcoded dark hex → full light-mode visual QA still required.
+
+### Wave 4 — Build / infra / config + tests
+
+**CI · Vitest · runbook** (commit `983bfbf`)
+- **Vitest** added — **74 unit tests, 0 failures** — covering the previously-untested high-risk math: payroll `computePayslip` (LOP reduces gross; **ESI/PT recomputed on earned gross**, regression-locked), Tally XML builders (+XML escaping), statutory CSV totals, report-card grading/CGPA/ranks/boundaries, RIASEC scoring. `vitest.config.ts` excludes the emulator rules test.
+- **GitHub Actions CI** (`.github/workflows/ci.yml`): `build-test` (typecheck → vitest → build) + `rules-test` (JDK 21 + Firestore emulator); deploy stays manual.
+- Declared `VITE_RECAPTCHA_SITE_KEY`/`VITE_SENTRY_DSN` (vite-env.d.ts + `.env.example`). **`docs/LAUNCH_RUNBOOK.md`** — actionable owner runbook for every external/paid item (Blaze, budget alerts, daily GCS backup, App Check, Sentry, key rotation, CSP verify, open decisions). Confirmed **no Google Analytics is wired** in app source.
+
+### Remediation result
+
+- **All gates green:** `tsc --noEmit` 0 errors · `vite build` OK · **Vitest 74/74** · **Firestore rules emulator 190/0**.
+- **13 per-area checkpoints** committed across 4 waves (security, legal, product, finance, data-integrity, performance, UX, infra) + 4 docs commits.
+- Every audit item was verified against current code first; confirmed-already-resolved items (e.g. `autoFillSubjects`, route code-splitting, serviceAccount gitignore, the overstated gold-contrast claim) were left untouched and noted.
+- Remaining gap is dominated by **owner-only external items** (Blaze upgrade, payment gateway, parent-notification provider, App Check key, Sentry DSN, service-account key rotation, legal review) — all captured in `docs/LAUNCH_RUNBOOK.md` and the session's "NEEDS YASHVEER" list. Self-assessed launch-readiness: **~5.7/10**, up from the audit's 2.7/10.
