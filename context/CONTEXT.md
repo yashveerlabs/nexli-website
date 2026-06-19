@@ -2,6 +2,8 @@
 
 _Plain-English background for anyone (or any fresh session) starting from zero. For "where things stand and what's next," read `resume/RESUME.md`._
 
+> **Status (2026-06-19):** Two formal pre-launch audits (`Web/Phase 3/1.md`, `2.md`) were systematically remediated over three rounds + a code-polish pass — security, legal/DPDP, data-integrity, finance, performance, UX, **234 Vitest unit tests**, and **249 Firestore-rules emulator tests** — taking launch-readiness from **2.7/10 → ~6.9/10**, essentially the **honest code ceiling (~7.5)**. What remains to actually launch are **owner-only external actions** (Blaze upgrade, payment gateway, service-account key rotation, Sentry, lawyer review of the `legal/` drafts) — all listed with steps in **`docs/LAUNCH_RUNBOOK.md`**. The next phase is the **dedicated Nexli marketing website**. See `resume/RESUME.md` for the full handoff and `BUILD_PROGRESS.md` for the change log.
+
 ---
 
 ## 1. What Nexli is and who it's for
@@ -23,7 +25,7 @@ It's for everyone in and around a school:
 - **Every school gets ALL features on every plan.** Features are never locked behind a more expensive tier.
 - **AI features are the only separate paid add-on.**
 - A **per-school custom / "founding" price** can override the band (used for the first schools).
-- _Not built yet:_ the automatic size-band **pricing engine** and a **real payment/charging system**. Today plans are assigned manually and only the custom-price override exists.
+- _Status:_ **GST tax-invoice generation** for subscription billing now exists (CGST/SGST/IGST split; the seller GSTIN/legal details are owner-config). Still external/unbuilt: the automatic size-band **pricing engine** and a **real payment gateway** (e.g. Razorpay) for actual charging — plans are still assigned manually with the custom-price override. Finalized pricing is saved in **`NEXLI_PRICING.md`**.
 
 ## 3. The technology and how the parts fit together
 - **Frontend:** React 19 + TypeScript (strict) + Vite 6. It's an **installable PWA** (works offline, has a service worker). Styling is Tailwind v4 plus a bespoke design system.

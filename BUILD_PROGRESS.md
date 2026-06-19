@@ -294,3 +294,26 @@ Second remediation round — built every pure-code item consciously deferred in 
 **+111 unit tests this round** (board CSV, substitute conflict, staff-import validation, leave-date, PTM capacity, GST split, fines, counseling scoping, IEP log, attendance window) → **185 total**.
 
 **Self-assessed launch-readiness: ~6.2/10** (weighted), up from 5.3. **Code ceiling ≈ 7.5/10** — the remaining ~2.5 to a perfect 10 is fundamentally external (Blaze, payment gateway, key rotation, Sentry DSN, lawyer sign-off, translators, CA validation, real customers), not unwritten code.
+
+---
+
+## 2026-06-19 (cont.) — Code-ceiling polish wave
+
+Final polish pass against the named remaining code items. Owner decisions honored (AI = honest "Coming Soon", no analytics). Skipped (website phase): public API docs, public Privacy/ToS page, self-serve trial. 5 disjoint agents in one wave; **build green, tsc 0, Vitest 234/234 (was 185), rules emulator 249/0 (was 238)**. Checkpoints `2f6cceb`…`8e158af`.
+
+- **Shell** (`2f6cceb`): tokenized shell/chart hardcoded hex so `[data-theme='light']` adapts (dark pixel-identical); unauthenticated `/healthz`; split `SessionProvider` into 4 memoized contexts (public `useSession()` API unchanged); i18next `hi` resources + persisted EN/हिंदी toggle + shell/nav strings → `t()`. (Per-feature hex + per-feature i18n strings + professional Hindi = documented follow-up.)
+- **Consent** (`6eafb50`): DPDP gate warn → **hard-block** — a student record may be created, but consent-dependent processing/finalization of an *active* student is blocked until required consent is recorded; non-deadlocking (escape via non-active status); deep-link "record consent" CTA; fail-closed-without-lockout for non-consent staff.
+- **Finance** (`e7595e4`): transactional **refunds** (`fee_refunds`, clamped, audited) + **reconciliation** summary (scoped reads); **GST seller** details → editable platform setting; **library fine-rate** config read by `computeFine`; scoped fees Overview/Students from all-invoices → open-balance/term/recent (totals unchanged).
+- **Examinations** (`2ce6143`): per-student **board-result viewer** + XSS-safe printable statement (import path unchanged).
+- **Rules** (`8e158af`): field-pin parent-write paths (`ptm_bookings`, `student_leave_requests` identity/ownership immutable); gate `fee_refunds` (student PII → accounts/own-family). Rules **249/0**.
+
+**+49 unit tests this wave** (i18n, consent-gate, refund/reconciliation, GST seller, fine-rate, board statement) → **234 total**.
+
+### FINAL STATE (2026-06-19)
+
+- **All gates green:** `tsc --noEmit` 0 · `vite build` OK · **Vitest 234/234** · **Firestore rules emulator 249/0** (JDK 21 via Android Studio JBR).
+- **Launch-readiness: 2.7 → ~6.9/10** (weighted across the audit's 10 dimensions). This is **at/near the honest code ceiling (~7.5)** — every dimension is at or just below its code-only maximum.
+- **The remaining gap to a perfect 10 is owner-only external action, not code:** rotate the SA key · Blaze + budget alerts · App Check key · Sentry DSN · payment gateway · notification provider · lawyer review of `legal/` + DPO · CA sign-off on payroll/GST · daily GCS backup. **All itemized with steps in `docs/LAUNCH_RUNBOOK.md`.**
+- **Two large pure-code sweeps deliberately deferred** (mechanical, beyond "polish"): full light-mode hex cleanup across all ~55 feature CSS files, and full i18n string extraction across all modules (shell is done; dark mode is unchanged/default so nothing is broken; Hindi translation itself is external).
+- **Next phase:** the dedicated **Nexli marketing website** (see `resume/RESUME.md`).
+- Throughout: Super Admin `yashveersr4@gmail.com` and the demo/seed data were never touched; every audit item was verified against current code before acting (already-resolved items left untouched and noted).

@@ -1,50 +1,65 @@
 # NEXLI — Resume (where we are, what's next)
 
-_Plain-English handover to pick up exactly where things stand. For background on what Nexli is, read `context/CONTEXT.md`._
+_Zero-context handoff: a brand-new session can read this top-to-bottom and pick up exactly where things stand. For "what Nexli is," read `context/CONTEXT.md`. For the full change log, read `BUILD_PROGRESS.md`. For the owner action list, read `docs/LAUNCH_RUNBOOK.md`._
+
+_Last updated: 2026-06-19, after the pre-launch audit remediation + code-ceiling polish pass._
 
 ---
 
 ## Current state (in short)
-The app is **built and running** on Firebase (free Spark tier). It's a working, multi-tenant school ERP (an installable PWA) with a Super Admin platform console, all the school / parent / student modules, a **data-driven roles & permissions system**, **student & staff profile pages**, a **size-band pricing model**, a **fully-seeded demo school** (~930 realistic test accounts), and **deployed Firestore security rules**. It compiles cleanly (`npm run build`, exit 0). It is an **excellent demo**, but it has **not yet been hardened for a real school** (deeper security + real payments are still pending).
+Nexli is a **built, working, multi-tenant school ERP** (installable PWA) — React 19 + TypeScript (strict) + Vite 6 + Tailwind v4 + Firebase (Auth + Firestore), on the **free Spark tier**. The app at `Web/` compiles clean and is green on every gate:
 
-## What's done and working
-- App shell, navigation, login, and session/tenancy resolution (sign in → school → role → permissions).
-- **Super Admin platform console** — Schools, Subscriptions, Plans & Pricing, Users & Roles, **Roles & Permissions**, Analytics, Onboarding, Health, Support, Audit, Settings.
-- **School modules** — students, attendance, academics, gradebook, homework, exams, holistic progress cards, fees, expense & procurement, HR, payroll, transport, hostel, library, medical, compliance (UDISE+/RTE/SMC), events, communication, messaging, and more.
-- **Parent and student portals.**
-- **Data-driven roles & permissions** — ~118 roles in 14 groups with levels; module × action matrix; editable by a Super Admin (no code change); enforced in menus + pages; sensitive data locked in the security rules.
-- **Student & staff profile pages** — searchable lists → full profiles; payroll and health tabs are permission-gated.
-- **Pricing model = size bands**, all features included, AI-only add-on, per-school custom/founding price override built.
-- **Demo school fully seeded** — 45 classes, 300 students, 300 linked parents, 300 staff (every role), 30 alumni, 1 test Super Admin, student leadership titles; one shared password (see `NEXLI_TEST_PLAN.md`).
-- **Firestore security rules deployed** — tenant isolation; sensitive-collection role allowlists aligned to the new roles; rules for role definitions; the "school admin" role list expanded so the right roles can manage users/settings.
-- **Recent polish fixes done** — cleaned out gibberish demo data; fixed mismatched counters, the attendance %, run-together text, the Expenses layout + overlapping buttons, the account/sign-out drawer position; hid empty "In build" menu items; made the school name consistent; numeric roll-number sort; tidied the payment-QR box.
-- The owner Super Admin **`yashveersr4@gmail.com`** has been preserved throughout.
+- **`tsc --noEmit` → 0 errors** · **`vite build` → OK** · **`npm test` (Vitest) → 234/234** · **Firestore rules emulator → 249/0**.
 
-## What's still pending / unfinished (priority order)
-1. **Phase A security hardening — highest priority before any real school.** Tighten the deployed Firestore rules to be **fully role-aware** (today they enforce tenancy + sensitive-collection allowlists, but not every per-module action), split any "all-peers-in-one-document" data into **per-student documents**, and add **App Check**. Plan: `PHASE_A_PLAN.md`.
-2. **3 role-permission decisions waiting on you (quick).**
-   - (a) Should **POSH / POCSO Committee** members get access to child-protection (POCSO) records, or only to compliance/grievances?
-   - (b) Same question for **ICC (Internal Complaints Committee)** members?
-   - (c) Should **Sports/PET & Arts teachers** be able to **record** co-scholastic marks (Holistic Progress Card), not just view?
-   - Until you decide, those sensitive accesses are kept **off** (tight) by default.
-3. **"In build" pages.** A few menu destinations are still placeholders and are currently **hidden from the menus**: staff **Settings** and **Security**; parent **Academics, Calendar, School Notices, Certificates, Wellness, Parent-Teacher Meeting**. Decide which to actually build.
-4. **Size-band pricing ENGINE + real payment/charging system (for later).** Today plans are assigned manually and only the custom-price override exists — there's no automatic band calculation, proration, invoicing, or payment gateway yet.
-5. **Role-by-role mobile testing (in progress).** Use `NEXLI_TEST_PLAN.md` to sign in as each role and confirm the menus, screens, and saving all work on a phone-size screen (Galaxy S20). Spread it across days because of free-tier limits.
-6. **(Lower) Custom roles + sensitive data.** A brand-new role created in the Roles UI won't automatically get the most sensitive collections (medical / POCSO / counselling / grievances) at the rules layer — that's **fail-closed by design**. Wiring a custom role into those needs a one-line rules edit + redeploy.
+Two formal pre-launch audits (`Web/Phase 3/1.md` = 3.7/10, `Web/Phase 3/2.md` = 2.7/10) were **systematically remediated** over three rounds, then a final code-polish pass. Self-assessed launch-readiness moved **2.7 → ~6.9/10**, which is at/near the **honest code ceiling (~7.5)** — the remaining gap to 10 is **owner-only external actions**, not unwritten code (see "Pending" below).
 
-## Known problems / open questions
-- The **3 role-permission decisions** above are open (waiting on you).
-- The **free Firebase (Spark) plan has daily limits** — logging into and clicking through ~930 accounts in one day can hit them; it looks like errors but it's the quota, not a bug.
-- **Phase A items** (looser-than-ideal rules, per-student data split, App Check) are the main gap between "great demo" and "safe for a real school with real children's data."
-- Any **new custom role** needs a rules edit to touch sensitive collections (by design, above).
+**The product is now safe to demo and architecturally close to pilot-ready; the blockers left are external (Blaze, payment gateway, key rotation, legal review), captured in `docs/LAUNCH_RUNBOOK.md`.**
 
-## How to run and test
-- **Start the app:** open a terminal in **`Web/`** and run **`npm run dev`**, then open the printed URL — usually **http://localhost:5173/**.
-- **Check it builds:** **`npm run build`** (runs the type-check + production build).
-- **Sign in:** use any account from **`NEXLI_TEST_PLAN.md`** with the **shared password** written in that file. (Your own Super Admin `yashveersr4@gmail.com` is separate and unchanged.)
-- **Test on a phone-size screen:** open the app in **Chrome** → press **F12** → click the **device-toolbar** icon (or press **Ctrl+Shift+M**) → choose **"Galaxy S20"** → reload.
-- **Test accounts file:** **`NEXLI_TEST_PLAN.md`** (project root) has every account (role, name, email, phone) grouped, plus a step-by-step testing order.
-- **Free-tier warning:** Firebase Spark has **daily** read/write/auth limits. If things start failing during heavy testing, it's almost certainly the daily quota — **test in batches across days**; quotas reset daily.
+## What was done in the remediation (high level — see BUILD_PROGRESS.md for detail)
+- **Security & rules:** closed privilege-escalation (`grantedPermissions` self-write), the messaging/POCSO read leak (`conversations`/`messages` now participant-only), cross-tenant `userIndex` write, and ~19 unguarded collections; CSP/HSTS/security headers; `sourcemap:false`; App Check seam (env-gated); clear IndexedDB on logout; crypto OTP; certificate XSS; per-counselor counseling scoping; parent-write rules with field-pinning; `fee_refunds` gated. Rules tests **145 → 249**.
+- **Legal/compliance:** India-specific **DRAFT** legal docs in `legal/` (Privacy Policy, ToS, DPA, Parent Consent — DPDP/POCSO/RTE/CBSE aware, lawyer review pending); POCSO 24-hour reporting SLA + atomic case numbers; DPDP **consent gate now hard-blocks** processing of an active student without recorded consent; data-erasure + breach-notification registers.
+- **Data integrity / money:** atomic counters (admission/TC/POCSO), atomic admit, RTE lottery (CSPRNG + batch), hostel/canteen/payroll/concession/refund all transactional; payslip locked after finalization; LOP recomputes ESI/PT; `cancelInvoice`/overpayment guarded; Tally XML + EPF/ESI/TDS exports; GST tax-invoice generation.
+- **Product honesty:** removed all fabricated AI data → honest "Coming Soon"; real library fine computation; transport map honest empty state; append-only backup log.
+- **Performance:** scoped the big unbounded reads (attendance, invoices) to windows/filters; composite indexes added.
+- **Features built (pure-code):** board-exam import + viewer, substitute-teacher conflict-check, staff CSV import, parent leave requests, PTM scheduling (transactional booking), UDISE+ infrastructure fields, CBSE TC Appendix-V, refunds + reconciliation, GST-seller & library fine-rate config, IEP progress-log.
+- **UX/infra:** route-level error boundaries + monitoring seam; WCAG contrast fix; light/outdoor theme (toggle + tokens; shell done); session-context split; `/healthz`; Hindi i18n infra + shell wiring; **74 → 234 Vitest tests**; **GitHub Actions CI**; `docs/LAUNCH_RUNBOOK.md`.
 
-## The single most important next step
-**Start Phase A security hardening** (`PHASE_A_PLAN.md`) — make the deployed Firestore rules fully role-aware and split the sensitive per-student data. That is the one thing standing between this (an excellent demo) and **safely onboarding a real school with real children's data**. _Tip:_ first clear the 3 quick role-permission decisions above — that takes minutes and lets the role catalogue be finalised before the rules are tightened around it.
+## ⛔ Pending — NEEDS YASHVEER (external accounts / paid services / decisions / human review)
+**These are the real launch blockers now. None are code I can write. Full step-by-step in `docs/LAUNCH_RUNBOOK.md`.**
+1. **Rotate the Firebase Admin service-account key** (`Web/serviceAccount.json` — gitignored & untracked, but a key existed on disk). Firebase Console → generate new, delete old.
+2. **Upgrade Firebase Spark → Blaze** + set ₹ budget alerts. (Spark's daily read cap is a hard wall; App Check enforcement + scheduled backups need Blaze.)
+3. **App Check** — create a reCAPTCHA v3 site key → set `VITE_RECAPTCHA_SITE_KEY` → enforce in Console. (Code seam ready in `src/lib/firebase.ts`.)
+4. **Sentry (or equivalent) DSN** → set `VITE_SENTRY_DSN` + `npm i @sentry/react`. (Seam ready in `src/lib/monitoring.ts`.)
+5. **Payment gateway (Razorpay)** for online fee collection — the #1 commercial feature; no code can collect money without it.
+6. **Parent-notification provider** (FCM / SMS like MSG91 / WhatsApp Business) — account + keys.
+7. **Lawyer review** of the four `legal/` drafts + appoint a **DPO**; fill the GST seller GSTIN and verify the CBSE TC Appendix-V field labels.
+8. **Daily Firestore backup to GCS** (needs Blaze; `gcloud` commands in the runbook) and **budget alerts**.
+9. **CA/auditor sign-off** on the payroll (PF/ESI/TDS) and GST calculations.
+
+## 🟡 Remaining pure-code headroom (optional, large/mechanical — NOT done)
+Everything specifically requested is done; these are the two big sweeps that would push UX from ~7.5 toward its 9.0 code-ceiling but are substantial mechanical jobs, not "polish":
+- **Full light-mode hex cleanup across all ~55 feature CSS files** (shell + shared components are done; per-feature hardcoded hex still won't fully adapt in light mode — dark is unchanged/default so nothing is broken).
+- **Full i18n string extraction across all modules** (i18next infra + shell/nav are wired with EN + accurate Hindi; per-feature UI strings + ~100 nav labels still need extraction to `t()` keys, and **professional Hindi translation is external**).
+
+## ➡️ Next phase (per owner)
+**Build the dedicated Nexli marketing website.** Deliberately OUT of scope for the app and skipped here: public API documentation, the public-facing Privacy/Terms page (the `legal/` drafts feed it later), and a self-serve trial signup flow. (A blog knowledge base is already being scaffolded under `Web/Blog/` by a separate process — leave it alone.)
+
+## How to run, test, verify
+- **Run the app:** in `Web/` → `npm run dev` → open the printed URL (usually http://localhost:5173/). Theme toggle + EN/हिंदी toggle are in the account sheet. Health check: `/healthz`.
+- **Build (typecheck + prod):** `npm run build` (exit 0 = green).
+- **Unit tests:** `npm test` (Vitest, 234 tests). Watch mode: `npm run test:watch`.
+- **Firestore rules tests:** `npm run test:rules` — **requires JDK 21+**. The system default Java is 1.8 (too old for firebase-tools 15); use the Android Studio JBR:
+  ```
+  cd Web && JAVA_HOME="/c/Program Files/Android/Android Studio/jbr" PATH="$JAVA_HOME/bin:$PATH" npm run test:rules
+  ```
+  Expect `PASS: 249  FAIL: 0`.
+- **Demo accounts:** `NEXLI_TEST_PLAN.md` (root) — ~930 seeded accounts, shared password. **Never touch the owner Super Admin `yashveersr4@gmail.com` or the demo/seed data.**
+- **Spark quota note:** heavy click-through can hit the free daily limit (looks like errors, isn't a bug) — test in batches, or do task #2 above (Blaze).
+
+## Key docs map
+- `docs/LAUNCH_RUNBOOK.md` — **owner action runbook** for every external item above (exact steps/commands).
+- `BUILD_PROGRESS.md` — full dated change log (the remediation rounds are the last three sections).
+- `legal/` — the four DRAFT legal documents (lawyer-review banner at the top of each).
+- `Web/Phase 3/1.md`, `Web/Phase 3/2.md` — the original audit reports that drove all of this.
+- `NEXLI_PRICING.md` — finalized pricing (reference; the GST invoice generator pulls amounts from subscription data, not from here).
+- `.github/workflows/ci.yml` — CI (typecheck → vitest → build; separate JDK-21 rules-test job). Activates on push once the repo is on GitHub Actions.
