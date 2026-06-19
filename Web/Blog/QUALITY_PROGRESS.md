@@ -1,6 +1,49 @@
 # Blog Quality Pass Progress
 
-**Last updated:** 2026-06-20 (Category 11 complete)
+**Last updated:** 2026-06-20 (Category 09 complete)
+
+## Category 09 — Leadership, Principal Management & Strategy
+
+**Status:** COMPLETE
+**Articles processed:** 115 total (92 numbered + 23 duplicate-series)
+**Commits:** Prior session (01-25 first series via b0021ba); `5e3a27f` (articles 26-55); `85917c1` (articles 56-80); `e80d5ef` (duplicate-series 03-25); `4db5b9b` (articles 81-92)
+
+### Fixes Applied
+
+| Fix | Count | Notes |
+|-----|-------|-------|
+| Frontmatter: full YAML | 90 | Articles 26-92 + duplicate-series 03-25: added primary_keyword, meta_description, secondary_keywords, intent, author, date, branding_block_* |
+| Branding blocks appended | 90 | All stub articles now have full 3-section branding block (Founder + Company + Nexli) |
+| CTA: /demo added | 115 | Every article now has `[Book a Free Demo](/demo)` |
+| USD → INR | 2 | Article 26: `$5K-15K` → `₹40,000–1,20,000`; article 33: "every dollar" → "every rupee" |
+| AI clichés | ~10 | "leverage" → "use"; "comprehensive" filler deleted; "utilize" → "use"; "In conclusion," deleted |
+| Entity names | ~5 | "the platform" → "Nexli" where found |
+| Branding blocks (first series 01-25) | 25 | Full BRANDING_BLOCKS.md text replaced short abbreviated blocks |
+| CTA URL fix (first series) | 10 | `[Start Free Trial](https://nexli.in)` → `[Book a Free Demo](/demo)` |
+
+### Branding Block Rotation
+- Articles 01-20 (first series): Blocks varied by article (assigned per prior session)
+- Articles 21-25 (first series): Block 1
+- Duplicate-series 03-25: Blocks 3-5 (matching order field)
+- Articles 26-45: Blocks 6-5 (cycling 6→20 then 1→5)
+- Articles 46-55: Blocks 6-15
+- Articles 56-80: Blocks 16-20 then 1-20
+- Articles 81-92: Blocks 1-12
+
+### Article Format Types Handled
+| Format | Articles | Action |
+|--------|----------|--------|
+| Full-length with abbreviated branding blocks | 01-25 (first series) | Replaced short blocks with full BRANDING_BLOCKS.md text; fixed CTA |
+| Stub (minimal frontmatter, short content) | 03-80 (new series) | Full frontmatter added; branding blocks appended; CTA added |
+| Stub (minimal frontmatter, short content) | 81-92 | Full frontmatter added; branding blocks appended; CTA added |
+| Duplicate-numbered stubs | 03-25 (second series) | Full frontmatter added; branding blocks appended; CTA added |
+
+### Notes
+- Article 78 in directory is `78-attending-educational-conferences.md` (not principal-wellbeing as initially listed)
+- No false fact claims identified; principal dashboard, chairman/trustee dashboards, 118+ roles, compliance calendar all referenced correctly
+- Working tree clean after all commits
+
+---
 
 ## Category 11 — ERP Comparisons & Software Evaluation
 
