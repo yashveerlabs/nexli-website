@@ -1,174 +1,113 @@
-﻿---
-title: "Teacher Code of Conduct"
-slug: "teacher-code-of-conduct"
-category: "Compliance"
-category_number: 7
-article_number: 102
-published: true
-seo:
-  description: "Complete compliance guide for Teacher Code of Conduct in Indian schools."
-  keywords: "school compliance, Teacher Code of Conduct, Indian education"
-  canonical: "https://nexli.io/blog/compliance/teacher-code-of-conduct"
-branding_block: 8
+---
+title: "Teacher Code of Conduct: Professional Standards and Compliance"
+slug: "teacher-code-of-conduct-schools"
+meta_description: "Establish a teacher code of conduct at your school. Covers professional boundaries, academic integrity, student privacy, social media conduct, and disciplinary procedure."
+category: "School Compliance"
+primary_keyword: "teacher code of conduct schools India"
+secondary_keywords: ["teacher professional conduct school", "teacher standards India", "school staff conduct policy", "teacher behavior policy school"]
+intent: "informational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 14
+branding_block_company: 14
+branding_block_nexli: 14
 ---
 
-## Introduction to Teacher Code of Conduct
+A teacher code of conduct defines the professional standards expected of teaching staff. It establishes clear boundaries, provides guidance on gray areas, and forms the basis for disciplinary action when teachers violate professional norms. Schools that lack a teacher code of conduct rely on individual judgment in situations where clarity protects both the teacher and the students.
 
-Teacher Code of Conduct is a critical compliance requirement for educational institutions in India. This comprehensive guide covers all aspects of implementation, requirements, and best practices.
+## Why a Teacher Code of Conduct Is Necessary
 
-## Legal Framework
+**Protection for teachers:** Clear standards protect teachers from accusations of impropriety when they act within the code. A teacher who follows the code can defend themselves against unfair complaints.
 
-The requirement for Teacher Code of Conduct stems from:
-- Central and State education policies
-- Statutory regulations
-- Board directives
-- Ministry guidelines
-- Supreme Court judgments
+**Protection for students:** Standards that prohibit inappropriate behavior protect students from staff misconduct.
 
-## Key Requirements
+**Legal basis for discipline:** Disciplinary action against a teacher must be based on a known standard. Without a code, the teacher can argue they did not know the behavior was unacceptable.
 
-Schools must:
-1. Understand compliance requirements
-2. Develop implementation procedures
-3. Train staff members
-4. Maintain proper documentation
-5. Conduct periodic audits
-6. Report to authorities as required
-7. Address deficiencies promptly
+**POCSO compliance:** Several behaviors prohibited under POCSO (inappropriate physical contact, private communication with students) should be explicitly addressed in the code.
 
-## Nexli FACTS for Compliance Management
+## Core Elements
 
-Nexli's Compliance module supports Teacher Code of Conduct through:
+### Professional Conduct with Students
 
-- **Compliance Calendar**: Automated reminders for deadlines and key dates
-- **Document Storage**: Secure cloud storage for all compliance documents
-- **Audit Trails**: Complete record of all actions taken for compliance
-- **Policy Tracking**: Monitor policy implementation across school
-- **Report Generation**: Create compliance reports for audits and inspections
-- **Task Assignment**: Assign compliance tasks to responsible staff
-- **Checklist Management**: Track completion of compliance requirements
-- **Digital Archiving**: Maintain accessible records for inspections
+**Appropriate interaction:**
+- All communication with students should be professional and educational in purpose
+- No private meetings with individual students in enclosed, unobservable spaces (door open or room visible from outside)
+- No physical contact beyond what is age-appropriate and professionally necessary (assisting a young child, first aid)
+- Language used with students must be respectful; no humiliation, sarcasm, or insults
 
-## Implementation Strategy
+**Prohibited conduct:**
+- Any form of physical punishment (RTE Act prohibition; also a POCSO offence in some circumstances)
+- Mental harassment, intimidation, or bullying of students
+- Discriminatory treatment of students
+- Romantic or sexual behavior toward students (POCSO offence)
 
-Develop a structured approach:
+### Communication Boundaries
 
-**Phase 1: Planning**
-- Understand requirements
-- Identify gaps
-- Create action plan
-- Allocate resources
-- Set timelines
+- Teacher personal social media accounts must not be connected to student accounts
+- Communication with students (for academic purposes) through official school channels only (school email, school app)
+- No communication with students via personal WhatsApp, Instagram, or similar platforms
+- No sharing of personal contact information (personal phone number, personal email) with students
 
-**Phase 2: Implementation**
-- Train staff
-- Develop procedures
-- Update systems
-- Create documentation
-- Communicate to stakeholders
+### Academic Integrity
 
-**Phase 3: Monitoring**
-- Track progress
-- Conduct audits
-- Address issues
-- Update procedures
-- Maintain records
+- Assessment must be objective and based on the student's work, not the teacher's personal feelings about the student
+- No favoritism in grading
+- No disclosure of exam content before examinations
+- No assistance to students during examinations beyond what is permitted
 
-**Phase 4: Reporting**
-- Prepare compliance reports
-- Submit to authorities
-- Document improvements
-- Plan next steps
-- Share with board
+### Confidentiality
 
-## Common Challenges
+- Information about students' personal situations, family circumstances, or welfare issues disclosed in confidence must not be shared beyond those who need to know
+- Student records are confidential; not to be discussed informally
+- DPDP Act obligations regarding student data apply to teachers
 
-- Understanding complex requirements
-- Limited staff resources
-- Data management issues
-- Coordination across departments
-- Maintaining documentation
-- Staying updated on changes
+### Disclosure of Outside Employment
 
-## Best Practices
+- Secondary employment or private tutoring of own students must be declared to the Principal
+- Tutoring one's own students for payment is a conflict of interest
 
-1. **Create detailed procedures** for all compliance activities
-2. **Train staff regularly** on compliance requirements
-3. **Use digital tools** like Nexli for efficient management
-4. **Conduct regular audits** to ensure compliance
-5. **Maintain organized documentation** for easy retrieval
-6. **Communicate transparently** with stakeholders
-7. **Stay updated** on policy changes
-8. **Plan ahead** for compliance deadlines
+### Social Media and Public Statements
 
-## Documentation Checklist
+- Teachers must not post about students, parents, or school matters on personal social media
+- Teachers must not make statements to media about school matters without authorization
+- Opinions about the school's management or policies should be raised through internal channels
 
-Essential documents for Teacher Code of Conduct:
-- [ ] Policy documents
-- [ ] Procedure manuals
-- [ ] Staff training records
-- [ ] Audit reports
-- [ ] Inspection certificates
-- [ ] Government correspondence
-- [ ] Implementation records
-- [ ] Compliance reports
+## Disciplinary Procedure for Teacher Violations
 
-## Risk Management
+When a teacher potentially violates the code:
+1. Complaint received by Principal or CPO (depending on nature)
+2. Preliminary assessment of seriousness
+3. If POCSO matter: immediate FIR to police; internal investigation suspended
+4. If non-POCSO conduct matter: investigation by Principal with documentation
+5. Teacher given opportunity to respond
+6. Action proportionate to finding: warning, counseling, suspension, termination
 
-Identify and mitigate risks:
-- Incomplete documentation
-- Missed deadlines
-- Staff non-compliance
-- System failures
-- Data loss
-- Regulatory changes
+## How Nexli Helps
 
-## Technology Solutions
+Nexli's HR module maintains behavioral records for staff: complaints, investigations, and disciplinary actions. Role-based access means student records are protected from staff outside their assigned classes.
 
-Implement digital solutions to:
-- Automate compliance tracking
-- Centralize documentation
-- Streamline reporting
-- Reduce manual errors
-- Improve accessibility
-- Ensure data security
+[Book a Free Demo](/demo) to see Nexli's HR and staff management tools.
 
-## Training and Awareness
+---
 
-Ensure all staff understand:
-- Regulatory requirements
-- School procedures
-- Their responsibilities
-- Consequences of non-compliance
-- Available support systems
+**About Nexli:** Nexli's HR module records teacher conduct incidents, disciplinary actions, and investigation outcomes. Role-based access ensures teachers see only their assigned students' records, enforcing confidentiality at the system level.
 
-## Audit and Verification
+**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli with teacher-student boundary protection as a design principle. Direct student messaging is disabled by default; communication goes through school channels. System architecture enforces professional boundaries.
 
-Prepare for audits by:
-- Maintaining complete documentation
-- Organizing records systematically
-- Creating summary reports
-- Addressing previous findings
-- Updating procedures as needed
+**How Nexli Helps:** Yashveer Labs invests in role-based access and communication controls because professional boundaries are most reliably maintained when the technology makes it easy to comply and hard to circumvent.
 
-## Reporting to Authorities
+---
 
-When required, submit:
-- Compliance certificates
-- Audit reports
-- Implementation status
-- Corrections made
-- Future plans
+## FAQ
 
-## Continuous Improvement
+**Q: Can a teacher tutor their own students privately?**
 
-Establish process to:
-- Review compliance effectiveness
-- Identify improvement areas
-- Update procedures
-- Train on changes
-- Document improvements
+A: This is a conflict of interest: the teacher grades the student they are also paid to tutor privately, creating an incentive to inflate grades. Many school codes prohibit this entirely. At minimum, it must be declared and approved by the Principal.
 
-## Conclusion
+**Q: Can a teacher be disciplined for social media posts made from their personal account?**
 
-Teacher Code of Conduct requires systematic implementation, proper documentation, and continuous monitoring. By using comprehensive compliance management systems like Nexli, schools can efficiently meet all requirements while maintaining proper audit trails and documentation for inspections.
+A: If the post violates the code of conduct (posting about students, revealing confidential school information, making defamatory statements about the school), it is within the school's disciplinary jurisdiction. Social media posts are not immune from professional consequence.
+
+**Q: What if a student makes a false conduct complaint against a teacher?**
+
+A: The complaint must be investigated fairly. If investigation concludes the complaint was malicious and false, the student faces appropriate consequences. However, investigations must not be designed to protect the teacher; they must be genuinely objective.
