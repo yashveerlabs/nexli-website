@@ -1,4 +1,4 @@
----
+﻿---
 title: "Reference Checks: Learning From Others' Pricing"
 slug: "reference-checks-learning-from-others'-pricing"
 meta_description: "Reference Checks: Learning From Others' Pricing"
@@ -59,7 +59,7 @@ Reduced paper, printing, and manual process overhead.
 
 ### How Nexli Fits the Financial Picture
 
-Nexli's pricing is transparent and all-inclusive. Every school gets complete access to academics, finance, compliance, safety, and communication modules. Most schools recover Nexli's cost within 6-12 months through reduced admin hours, improved fee collection, and operational efficiency.
+Nexli's pricing is transparent and all-inclusive. Every school gets complete access to academics, finance, compliance, safety, and communication modules. Schools report saving significant time on administrative tasks, and fee collection cycles typically improve once automated reminders and online payment links are in place.
 
 ### Internal Links
 

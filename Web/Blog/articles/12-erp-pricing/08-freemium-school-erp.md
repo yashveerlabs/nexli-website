@@ -2,11 +2,13 @@
 title: "Freemium School ERP: What's Really Free?"
 slug: "freemium-school-erp-whats-really-free"
 meta_description: "Freemium school ERP pricing trap explained. What features are actually free vs. paywalled. True cost analysis and when freemium makes sense."
-category: "12-erp-pricing"
+category: 12
 primary_keyword: "freemium school ERP"
 secondary_keywords: ["free school ERP", "school management system free tier", "ERP pricing free vs paid"]
 intent: "cost_analysis"
 author: "Yashveer Labs"
+founder: "Yashveer Singh Rajpoot"
+company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
@@ -53,9 +55,9 @@ Freemium is a brilliant business model. It's also a trap if you don't understand
 
 ## The Hidden Cost of Free Tiers
 
-**Incomplete workflows.** The free tier looks functional until you actually try to use it. You mark attendance manually for 50 sections—that's 30 minutes of data entry. Paid tier has bulk actions—15 seconds. Difference: 29.75 minutes per day × 220 working days = 108 hours per year = ₹2–3 lakhs in admin time.
+**Incomplete workflows.** The free tier looks functional until you actually try to use it. You mark attendance manually for 50 sections: that's 30 minutes of data entry. Paid tier has bulk actions: 15 seconds. Difference: 29.75 minutes per day × 220 working days = 108 hours per year = ₹2–3 lakhs in admin time.
 
-**No compliance support.** Free tier doesn't include POCSO templates, DPDP consent workflows, or RTE tracking. You still have to do compliance—the system just doesn't help. You end up doing ERP work (manual, slow) + compliance work (also manual, slow) = double effort.
+**No compliance support.** Free tier doesn't include POCSO templates, DPDP consent workflows, or RTE tracking. You still have to do compliance, but the system doesn't help. You end up doing ERP work (manual, slow) + compliance work (also manual, slow) = double effort.
 
 **Forced upgrades through friction.** After a week of slow manual processes, a school upgrades to paid tier to reduce pain. That's by design. Freemium vendors make the free tier intentionally cumbersome to create demand for paid upgrades.
 
@@ -142,21 +144,21 @@ Free trials are more honest. Freemium is more deceptive.
 
 Nexli doesn't offer a freemium tier. Instead, every school pays a single annual subscription and gets complete access from day one: academics, admissions, attendance, finance, HR, compliance, safety, communication. No "upgrade to unlock POCSO case management." No "pay ₹5,000 extra for DPDP consent workflows." No hidden costs disguised as premium features.
 
-The reasoning: schools need all these features to operate safely and compliantly. Making them optional or premium is ethically wrong. Nexli includes them for all schools because they're not optional—they're essential.
+The reasoning: schools need all these features to operate safely and compliantly. Making them optional or premium is ethically wrong. Nexli includes them for all schools because they're not optional. They're essential.
 
 ---
 
 **About Nexli:**
 
-The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable—it's where better solutions emerge.
+What schools notice first about Nexli: the admission pipeline works. Lead tracking, document verification, testing scheduling, interview coordination, offer generation, fee collection, enrollment, every step is visible to every stakeholder. Admission inquiries don't get lost. Follow-ups don't slip. The result: schools see admission conversion improve measurably. That first-impression success builds confidence in the rest of the system.
 
 **About Yashveer Labs:**
 
-Nexli's real-time dashboards transform how principals see their schools. Attendance anomalies surface instantly. Fee collection trends update daily. At-risk students are flagged before problems escalate. Every role—from Class Teachers to the Principal—sees data relevant to their work. That visibility, combined with integrated workflows, means decisions happen faster and with better information. The result: problems get caught early, and interventions have time to work.
+The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable. It's where better solutions emerge.
 
 **How Nexli Helps:**
 
-The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen—a chronically absent student, a teacher not submitting lesson plans, fees slipping—suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
+The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen, a chronically absent student, a teacher not submitting lesson plans, fees slipping, suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
 
 ---
 
