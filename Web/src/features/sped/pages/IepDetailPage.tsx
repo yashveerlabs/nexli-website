@@ -5,7 +5,7 @@ import { Button } from '@/components/Button';
 import { Badge } from '@/components/Badge';
 import { Icon } from '@/components/Icon';
 import { Skeleton, EmptyState } from '@/components/feedback';
-import { Select } from '@/components/form';
+import { Select, Textarea } from '@/components/form';
 import { ConfirmModal } from '@/components/Modal';
 import { useToast } from '@/components/Toast';
 import { formatDate, formatRelative } from '@/lib/format';
@@ -14,6 +14,7 @@ import { useIepPlan, updateIepPlan, deleteIepPlan } from '@/features/analytics/d
 import { IEP_GOAL_STATUS_META, IEP_STATUS_META } from '@/features/analytics/meta';
 import { ConfidentialNote } from '../components/Confidential';
 import { isReviewDue, goalsAchieved } from '../iepSchema';
+import { appendProgress, goalLog, type GoalWithLog } from '../progressLog';
 import type { IepGoal, IepGoalStatus, IepPlan } from '@/types/special';
 import '../sped.css';
 
@@ -33,6 +34,7 @@ export function IepDetailPage() {
   const { data: plan, loading } = useIepPlan(schoolId, canRead ? id : undefined);
 
   const [savingGoal, setSavingGoal] = useState<number | null>(null);
+  const [goalNotes, setGoalNotes] = useState<Record<number, string>>({});
   const [confirmDelete, setConfirmDelete] = useState(false);
   const [deleting, setDeleting] = useState(false);
 
@@ -94,11 +96,20 @@ export function IepDetailPage() {
 
   const setGoalStatus = async (index: number, status: IepGoalStatus) => {
     if (!plan.goals) return;
+    const note = goalNotes[index];
+    // Append-only: record the change in the goal's progressLog rather than
+    // overwriting history. `appendProgress` also updates the goal's `status`.
+    const goals: IepGoal[] = plan.goals.map((g, i) =>
+      i === index ? appendProgress(g as GoalWithLog, status, actor, note) : g,
+    );
     setSavingGoal(index);
-    const goals: IepGoal[] = plan.goals.map((g, i) => (i === index ? { ...g, status } : g));
     try {
       await updateIepPlan(schoolId, plan.id, { goals }, actor);
       toast.success('Goal updated', IEP_GOAL_STATUS_META[status].label);
+      setGoalNotes((n) => {
+        const { [index]: _drop, ...rest } = n;
+        return rest;
+      });
     } catch {
       toast.error('Could not update', 'Please try again.');
     } finally {
@@ -193,39 +204,18 @@ export function IepDetailPage() {
               <EmptyState icon="info" title="No goals recorded" />
             ) : (
               <div className="sped-goals">
-                {plan.goals.map((g, i) => {
-                  const gs = IEP_GOAL_STATUS_META[g.status];
-                  return (
-                    <div className="sped-goalcard" key={i}>
-                      <div className="sped-goalcard__top">
-                        <span className="sped-goalcard__area">{g.area}</span>
-                        <Badge variant={gs.variant}>{gs.label}</Badge>
-                      </div>
-                      <div className="sped-goalcard__goal">{g.goal}</div>
-                      {g.strategy && <div className="sped-goalcard__strategy">{g.strategy}</div>}
-                      <div className="sped-goalcard__foot">
-                        {g.targetDate && (
-                          <span className="sped-goalcard__date">
-                            <Icon name="calendar" size={12} aria-hidden="true" /> Target {formatDate(g.targetDate)}
-                          </span>
-                        )}
-                        {canWrite && (
-                          <label className="sped-goalcard__set">
-                            <span className="sr-only">Update goal {i + 1} status</span>
-                            <Select
-                              size="sm"
-                              aria-label={`Update goal ${i + 1} status`}
-                              value={g.status}
-                              disabled={savingGoal === i}
-                              onChange={(e) => void setGoalStatus(i, e.target.value as IepGoalStatus)}
-                              options={GOAL_STATUS_OPTIONS}
-                            />
-                          </label>
-                        )}
-                      </div>
-                    </div>
-                  );
-                })}
+                {plan.goals.map((g, i) => (
+                  <GoalCard
+                    key={i}
+                    goal={g}
+                    index={i}
+                    canWrite={canWrite}
+                    saving={savingGoal === i}
+                    note={goalNotes[i] ?? ''}
+                    onNote={(v) => setGoalNotes((n) => ({ ...n, [i]: v }))}
+                    onStatus={(status) => void setGoalStatus(i, status)}
+                  />
+                ))}
               </div>
             )}
           </Panel>
@@ -291,6 +281,96 @@ function DetailField({ label, value, pre }: { label: string; value?: string; pre
     <div className="sped-field">
       <div className="sped-field__label">{label}</div>
       <div className={pre ? 'sped-field__value sped-field__value--pre' : 'sped-field__value'}>{value}</div>
+    </div>
+  );
+}
+
+function GoalCard({
+  goal,
+  index,
+  canWrite,
+  saving,
+  note,
+  onNote,
+  onStatus,
+}: {
+  goal: IepGoal;
+  index: number;
+  canWrite: boolean;
+  saving: boolean;
+  note: string;
+  onNote: (value: string) => void;
+  onStatus: (status: IepGoalStatus) => void;
+}) {
+  const gs = IEP_GOAL_STATUS_META[goal.status];
+  const log = goalLog(goal as GoalWithLog);
+  // Newest first for the timeline.
+  const entries = [...log].sort((a, b) => b.at - a.at);
+  return (
+    <div className="sped-goalcard">
+      <div className="sped-goalcard__top">
+        <span className="sped-goalcard__area">{goal.area}</span>
+        <Badge variant={gs.variant}>{gs.label}</Badge>
+      </div>
+      <div className="sped-goalcard__goal">{goal.goal}</div>
+      {goal.strategy && <div className="sped-goalcard__strategy">{goal.strategy}</div>}
+      <div className="sped-goalcard__foot">
+        {goal.targetDate && (
+          <span className="sped-goalcard__date">
+            <Icon name="calendar" size={12} aria-hidden="true" /> Target {formatDate(goal.targetDate)}
+          </span>
+        )}
+        {canWrite && (
+          <label className="sped-goalcard__set">
+            <span className="sr-only">Update goal {index + 1} status</span>
+            <Select
+              size="sm"
+              aria-label={`Update goal ${index + 1} status`}
+              value={goal.status}
+              disabled={saving}
+              onChange={(e) => onStatus(e.target.value as IepGoalStatus)}
+              options={GOAL_STATUS_OPTIONS}
+            />
+          </label>
+        )}
+      </div>
+
+      {canWrite && (
+        <Textarea
+          className="sped-goalcard__note"
+          rows={2}
+          autoResize
+          value={note}
+          disabled={saving}
+          onChange={(e) => onNote(e.target.value)}
+          aria-label={`Progress note for goal ${index + 1}`}
+          placeholder="Optional progress note — saved when you change the status above."
+        />
+      )}
+
+      {entries.length > 0 && (
+        <div className="sped-goalcard__log">
+          <div className="sped-goalcard__log-title">Progress history</div>
+          <ol className="sped-timeline">
+            {entries.map((e, j) => {
+              const es = IEP_GOAL_STATUS_META[e.status as IepGoalStatus];
+              return (
+                <li className="sped-timeline__item" key={`${e.at}-${j}`}>
+                  <span className="sped-timeline__dot" aria-hidden="true" />
+                  <div className="sped-timeline__body">
+                    <div className="sped-timeline__head">
+                      <Badge variant={es?.variant ?? 'muted'}>{es?.label ?? e.status}</Badge>
+                      <span className="sped-timeline__when">{formatDate(e.at)}</span>
+                      {e.byName && <span className="sped-timeline__who">· {e.byName}</span>}
+                    </div>
+                    {e.note && <div className="sped-timeline__note">{e.note}</div>}
+                  </div>
+                </li>
+              );
+            })}
+          </ol>
+        </div>
+      )}
     </div>
   );
 }

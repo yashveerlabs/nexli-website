@@ -117,7 +117,12 @@ export function IepFormPage({ mode }: { mode: 'new' | 'edit' }) {
         onSubmit={async (values) => {
           try {
             const student = students.find((s) => s.id === values.studentId);
-            const base = formToIep(values);
+            // On edit, carry each goal's append-only progressLog forward (and
+            // append an entry for any status changed via the form).
+            const base =
+              mode === 'edit' && existing
+                ? formToIep(values, existing.goals, actor)
+                : formToIep(values);
             if (mode === 'new') {
               const payload: Omit<IepPlan, 'id'> = {
                 ...base,

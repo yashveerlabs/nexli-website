@@ -71,6 +71,14 @@
         { "fieldPath": "examId", "order": "ASCENDING" },
         { "fieldPath": "studentId", "order": "ASCENDING" }
       ]
+    },
+    {
+      "collectionGroup": "counseling",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "counselorUid", "order": "ASCENDING" },
+        { "fieldPath": "date", "order": "DESCENDING" }
+      ]
     }
   ],
   "fieldOverrides": []

@@ -345,6 +345,78 @@
     min-width: 0;
   }
 }
+.sped-goalcard__note {
+  margin-top: 10px;
+}
+
+/* ---- Goal progress timeline (append-only history) ---- */
+.sped-goalcard__log {
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px dashed var(--hairline);
+}
+.sped-goalcard__log-title {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+.sped-timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.sped-timeline__item {
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+.sped-timeline__item:not(:last-child)::before {
+  content: '';
+  position: absolute;
+  left: 4px;
+  top: 14px;
+  bottom: -10px;
+  width: 1px;
+  background: var(--hairline);
+}
+.sped-timeline__dot {
+  flex: 0 0 auto;
+  width: 9px;
+  height: 9px;
+  margin-top: 4px;
+  border-radius: 50%;
+  background: var(--gold);
+}
+.sped-timeline__body {
+  min-width: 0;
+  flex: 1;
+}
+.sped-timeline__head {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+.sped-timeline__when {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+.sped-timeline__who {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+.sped-timeline__note {
+  font-size: 13px;
+  line-height: 1.45;
+  margin-top: 3px;
+  white-space: pre-wrap;
+}
 
 /* ---- Therapy sessions list ---- */
 .sped-sessions {

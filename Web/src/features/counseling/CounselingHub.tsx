@@ -12,6 +12,7 @@ import { useSession } from '@/app/providers/SessionProvider';
 import {
   useCounselingSessions,
   createCounselingSession,
+  isCounselingOversight,
   useStudents,
   type Actor,
   type CounselingType,
@@ -32,12 +33,17 @@ const todayStr = () => new Date().toISOString().slice(0, 10);
 /** Counselling case register — confidential session notes for counsellors. */
 export function CounselingHub() {
   const toast = useToast();
-  const { schoolId, uid, member, can } = useSession();
+  const { schoolId, uid, role, secondaryRole, member, can } = useSession();
   const canRead = can('counseling.read');
   const canWrite = can('counseling.write');
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
 
-  const { data: sessions, loading } = useCounselingSessions(canRead ? schoolId : undefined);
+  // Confidentiality: a non-oversight counsellor sees only sessions they own
+  // (`counselorUid === uid`); leadership/principal-equivalents see the whole school.
+  const isOversight = isCounselingOversight(role, secondaryRole);
+  const ownerScope = !isOversight ? uid : undefined;
+
+  const { data: sessions, loading } = useCounselingSessions(canRead ? schoolId : undefined, ownerScope);
   const { data: students } = useStudents(canRead ? schoolId : undefined);
 
   const [filterType, setFilterType] = useState('');
@@ -135,7 +141,10 @@ export function CounselingHub() {
         <Icon name="lock" size={15} aria-hidden="true" />
         <span>
           <strong>Confidential.</strong> Counselling notes are sensitive personal data. Share only on a strict
-          need-to-know basis, and escalate child-protection concerns to the CPO via Safeguarding.
+          need-to-know basis, and escalate child-protection concerns to the CPO via Safeguarding.{' '}
+          {isOversight
+            ? 'As leadership you can see every counsellor’s sessions.'
+            : 'You see only the sessions you have logged.'}
         </span>
       </div>
 

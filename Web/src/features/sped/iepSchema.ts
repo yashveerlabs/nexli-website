@@ -1,5 +1,12 @@
 import { z } from 'zod';
 import type { IepPlan, IepGoal, IepGoalStatus, IepStatus } from '@/types/special';
+import {
+  appendProgress,
+  goalLog,
+  latestStatusFromLog,
+  type GoalWithLog,
+  type ProgressActor,
+} from './progressLog';
 
 /* ============================================================================
  * Special Education / IEP form schema.
@@ -120,11 +127,34 @@ function formToGoal(g: IepGoalValues): IepGoal {
 }
 
 /**
+ * Carry an existing goal's append-only `progressLog` onto the freshly-mapped
+ * form goal (matched by position — the form array has no stable goal id). When
+ * the form changes the status vs. the log's latest, APPEND a new entry so the
+ * form edit path stays append-only too; otherwise the prior log rides along
+ * unchanged.
+ */
+function mergeGoalProgress(next: IepGoal, prev: IepGoal | undefined, actor?: ProgressActor): IepGoal {
+  if (!prev) return next; // newly-added goal — no history to carry
+  const prevLog = goalLog(prev as GoalWithLog);
+  const withLog: GoalWithLog = prevLog.length ? { ...next, progressLog: prevLog } : { ...next };
+  if (actor && next.status !== latestStatusFromLog(prev as GoalWithLog)) {
+    return appendProgress(withLog, next.status as IepGoalStatus, actor);
+  }
+  return withLog;
+}
+
+/**
  * Map form values → the IEP plan payload. `studentName`/`gradeName` are resolved
  * by the caller from the picked student; `schoolId` is stamped by the writer.
+ *
+ * On edit, pass the existing plan's `goals` (+ the editing `actor`) so each
+ * goal's append-only `progressLog` survives the round-trip (the form itself does
+ * not expose the log) and form-driven status changes append an entry.
  */
 export function formToIep(
   v: IepPlanValues,
+  prevGoals?: IepGoal[],
+  actor?: ProgressActor,
 ): Omit<IepPlan, 'id' | 'schoolId' | 'studentName' | 'gradeName'> {
   return {
     studentId: v.studentId,
@@ -133,7 +163,7 @@ export function formToIep(
     strengths: v.strengths?.trim() || undefined,
     needs: v.needs?.trim() || undefined,
     accommodations: v.accommodations.length ? v.accommodations : undefined,
-    goals: v.goals.map(formToGoal),
+    goals: v.goals.map((g, i) => mergeGoalProgress(formToGoal(g), prevGoals?.[i], actor)),
     startDate: dateInputToMs(v.startDate),
     reviewDate: dateInputToMs(v.reviewDate),
     teamMembers: v.teamMembers.length ? v.teamMembers : undefined,
