@@ -1,11 +1,11 @@
 ---
 title: "Boarder-Specific Health and Safety"
 slug: "boarder-specific-health-and-safety"
-meta_description: "Boarder-Specific Health and Safety"
-category: 13
-primary_keyword: "boarder-specific"
-secondary_keywords: ["health", "and", "safety", "school"]
-intent: "buyer-guide"
+meta_description: "How school ERPs support boarder-specific health and safety for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
+category: "13-school-types"
+primary_keyword: "boarding school student health safety ERP"
+secondary_keywords: ["hostel health management software", "boarding student medical records", "residential school safety system", "school clinic ERP India"]
+intent: "educational"
 author: "Yashveer Labs"
 founder: "Yashveer Singh Rajpoot"
 company: "Yashveer Labs"
@@ -16,7 +16,7 @@ date: "2026-06-19"
 ---
 ## Boarder-Specific Health and Safety
 
-Different school types face different operational realities. boarder-specific health and safety requires understanding these specific needs.
+Different school types face different operational realities. Understanding boarder-specific health and safety helps schools choose the right ERP features for their context.
 
 ### The Reality of School Diversity
 
@@ -93,8 +93,14 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Yashveer Singh Rajpoot:**
 
-**About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it was not the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
-**How Nexli Helps:** The Report Card system includes auto-filled marks, automatic grade calculation per board rules, and print-ready PDF with school branding.
+**About Yashveer Labs:**
+
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools: the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+
+**About Nexli:**
+
+What sets Nexli apart is that it is built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system does not make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.
