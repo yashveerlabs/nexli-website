@@ -94,6 +94,7 @@ await testEnv.withSecurityRulesDisabled(async (ctx) => {
   await set('fee_invoices', 'inv1', { studentId: 'stu1', netAmount: 1000 });
   await set('fee_invoices', 'inv2', { studentId: 'stu2', netAmount: 1000 });
   await set('fee_payments', 'pay1', { studentId: 'stu1', amount: 500 });
+  await set('fee_refunds', 'rf1', { studentId: 'stu1', amount: 200, refundNo: 'RF-2026-0001' });
   await set('finance_counters', 'receipt', { value: 1 });
   await set('payroll_runs', 'r1', { label: 'Jun' });
   await set('payslips', 'ps1', { staffId: 'stf1', net: 50000 });
@@ -277,6 +278,8 @@ await no('anon read circular', readDoc(unauth, 'circulars', 'c1'));
   const db = as('accounts_clerk');
   await ok('accounts_clerk read all invoices', listAll(db, 'fee_invoices'));
   await ok('accounts_clerk read payment', readDoc(db, 'fee_payments', 'pay1'));
+  await ok('accounts_clerk read refund', readDoc(db, 'fee_refunds', 'rf1'));
+  await ok('accounts_clerk write refund', writeDoc(db, ['fee_refunds', 'rf2'], { studentId: 'stu1', amount: 50, refundNo: 'RF-2026-0002' }));
   await ok('accounts_clerk write invoice', writeDoc(db, ['fee_invoices', 'inv3'], { studentId: 'stu1', netAmount: 200 }));
   await ok('accounts_clerk read receipt counter', readDoc(db, 'finance_counters', 'receipt'));
   await no('accounts_clerk read payroll', readDoc(db, 'payroll_runs', 'r1'));
@@ -365,10 +368,12 @@ await no('anon read circular', readDoc(unauth, 'circulars', 'c1'));
   await ok('parentP1 read own child student', readDoc(db, 'students', 'stu1'));
   await ok('parentP1 read own child invoices (scoped query)', listWhere(db, 'fee_invoices', 'studentId', 'stu1'));
   await ok('parentP1 read own child payments (scoped query)', listWhere(db, 'fee_payments', 'studentId', 'stu1'));
+  await ok('parentP1 read own child refunds (scoped query)', listWhere(db, 'fee_refunds', 'studentId', 'stu1'));
   await ok('parentP1 read finance_settings (how-to-pay)', readDoc(db, 'finance_settings', 'main'));
   await ok('parentP1 read circular', readDoc(db, 'circulars', 'c1'));
   // cross-family / sensitive denials
   await no('parentP1 read OTHER child student', readDoc(db, 'students', 'stu2'));
+  await no('parentP1 read OTHER child refund (scoped query)', listWhere(db, 'fee_refunds', 'studentId', 'stu2'));
   await no('parentP1 read OTHER child invoice', readDoc(db, 'fee_invoices', 'inv2'));
   await no('parentP1 read ALL invoices (unscoped)', listAll(db, 'fee_invoices'));
   await no('parentP1 read ALL students (unscoped)', listAll(db, 'students'));
@@ -610,6 +615,12 @@ await no('anon read circular', readDoc(unauth, 'circulars', 'c1'));
   await ok('class_teacher reads any leave request', readDoc(as('class_teacher'), 'student_leave_requests', 'slr1'));
   await ok('class_teacher approves a leave request',
     writeDoc(as('class_teacher'), ['student_leave_requests', 'slr1'], { studentId: 'stu1', requestedByUid: 'parentP1', status: 'approved', reason: 'Fever' }));
+  // FIELD-PIN (defense-in-depth): even staff correcting a decision may NOT rewrite
+  // WHICH child the request is for, or WHO filed it.
+  await no('staff CANNOT change leave studentId on update',
+    writeDoc(as('class_teacher'), ['student_leave_requests', 'slr1'], { studentId: 'stu2', requestedByUid: 'parentP1', status: 'approved', reason: 'Fever' }));
+  await no('staff CANNOT change leave requestedByUid on update',
+    writeDoc(as('class_teacher'), ['student_leave_requests', 'slr1'], { studentId: 'stu1', requestedByUid: 'parentP2', status: 'approved', reason: 'Fever' }));
 }
 
 // --- ptm_meetings (+ booking subdocs): meetings member-visible; staff create; parent books ---
@@ -648,8 +659,25 @@ await no('anon read circular', readDoc(unauth, 'circulars', 'c1'));
   // parent cancels (updates) own booking; cannot delete.
   await ok('parentP1 cancels own booking (update)',
     writeDoc(as('parentP1'), ['ptm_bookings', 'pb1'], { meetingId: 'ptm1', slotId: 'slotA', studentId: 'stu1', parentUid: 'parentP1', status: 'cancelled' }));
+  // FIELD-PIN: a parent updating their OWN booking may flip status but may NOT
+  // rewrite the immutable identity/ownership fields.
+  // (a) cannot move the booking to ANOTHER child (steal a roster row).
+  await no('parentP1 CANNOT change booking studentId (move to another child)',
+    writeDoc(as('parentP1'), ['ptm_bookings', 'pb1'], { meetingId: 'ptm1', slotId: 'slotA', studentId: 'stu2', parentUid: 'parentP1', status: 'booked' }));
+  // (b) cannot change which meeting the booking belongs to.
+  await no('parentP1 CANNOT change booking meetingId',
+    writeDoc(as('parentP1'), ['ptm_bookings', 'pb1'], { meetingId: 'ptm_other', slotId: 'slotA', studentId: 'stu1', parentUid: 'parentP1', status: 'booked' }));
+  // (c) cannot grab a different slot (steal another seat).
+  await no('parentP1 CANNOT change booking slotId (steal another slot)',
+    writeDoc(as('parentP1'), ['ptm_bookings', 'pb1'], { meetingId: 'ptm1', slotId: 'slotB', studentId: 'stu1', parentUid: 'parentP1', status: 'booked' }));
+  // (d) cannot reassign ownership (dump the booking on / steal it from another parent).
+  await no('parentP1 CANNOT change booking parentUid (reassign ownership)',
+    writeDoc(as('parentP1'), ['ptm_bookings', 'pb1'], { meetingId: 'ptm1', slotId: 'slotA', studentId: 'stu1', parentUid: 'parentP2', status: 'booked' }));
   // staff read the roster.
   await ok('class_teacher reads booking roster', readDoc(as('class_teacher'), 'ptm_bookings', 'pb1'));
+  // staff update path stays UNCONSTRAINED — the desk may fix/move a booking row.
+  await ok('class_teacher CAN re-key a booking (staff roster fix)',
+    writeDoc(as('class_teacher'), ['ptm_bookings', 'pb1'], { meetingId: 'ptm1', slotId: 'slotB', studentId: 'stu2', parentUid: 'parentP2', status: 'booked' }));
 }
 
 // --- counseling per-counsellor confidentiality scoping ---

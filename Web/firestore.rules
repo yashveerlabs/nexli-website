@@ -254,7 +254,7 @@ service cloud.firestore {
         // already-sensitive (unchanged)
         'medical', 'immunization', 'counseling', 'pocso', 'grievances',
         // Danger 1 — newly locked
-        'fee_invoices', 'fee_payments', 'finance_counters',
+        'fee_invoices', 'fee_payments', 'fee_refunds', 'finance_counters',
         'payroll_runs', 'payslips', 'salary_structures',
         'students', 'staff', 'consent_records', 'consent_purposes',
         'iep_plans', 'therapy_logs',
@@ -470,6 +470,12 @@ service cloud.firestore {
         allow delete: if isSuperAdmin() || isFeesStaff(schoolId);
       }
       match /fee_payments/{docId} {
+        allow read: if isSuperAdmin() || isFeesStaff(schoolId)
+          || ownsStudentId(schoolId, resource.data.studentId);
+        allow write: if isSuperAdmin() || isFeesStaff(schoolId);
+      }
+      // Refund records (carry student financial PII) — accounts read all / family own; accounts write.
+      match /fee_refunds/{docId} {
         allow read: if isSuperAdmin() || isFeesStaff(schoolId)
           || ownsStudentId(schoolId, resource.data.studentId);
         allow write: if isSuperAdmin() || isFeesStaff(schoolId);
@@ -753,13 +759,21 @@ service cloud.firestore {
       // A parent/student reads their OWN child's requests (scoped query) and may
       // CREATE a new request for their own child (must start 'pending'); staff read
       // all and are the ONLY ones who approve/reject (update) or delete.
+      // Defense-in-depth: ON ANY UPDATE, the identity/ownership fields are IMMUTABLE
+      // — neither a parent nor a staff member correcting a decision may rewrite WHICH
+      // child the request is for (`studentId`) or WHO filed it (`requestedByUid`).
+      // (Update is staff/super only today, so this is belt-and-suspenders; defaults
+      // pin an absent field to absent so a doc without the field can't trip the guard.)
       match /student_leave_requests/{docId} {
         allow read: if isSuperAdmin() || isStaff(schoolId)
           || ownsStudentId(schoolId, resource.data.studentId);
         allow create: if isSuperAdmin() || isStaff(schoolId)
           || (ownsStudentId(schoolId, request.resource.data.studentId)
               && request.resource.data.get('status', '') == 'pending');
-        allow update, delete: if isSuperAdmin() || isStaff(schoolId);
+        allow update: if (isSuperAdmin() || isStaff(schoolId))
+          && request.resource.data.get('studentId', '') == resource.data.get('studentId', '')
+          && request.resource.data.get('requestedByUid', '') == resource.data.get('requestedByUid', '');
+        allow delete: if isSuperAdmin() || isStaff(schoolId);
       }
 
       // ----- PTM (Parent-Teacher Meeting) scheduling -----
@@ -803,6 +817,12 @@ service cloud.firestore {
       // Staff read every booking (roster). A parent reads/cancels only their OWN
       // bookings (parentUid == uid) and may CREATE a booking only for their own
       // child (and stamped with their own parentUid). Only staff hard-delete.
+      // On the PARENT-cancel update path the identity/ownership fields are PINNED:
+      // a parent may flip `status` (e.g. → 'cancelled') but may NOT move the booking
+      // to another child/slot/meeting or reassign ownership. Without these pins a
+      // parent could rewrite `studentId`/`slotId`/`meetingId` to steal another seat,
+      // or `parentUid` to dump the booking on (or claim it from) another parent.
+      // Staff/super keep an unconstrained update (the roster desk fixes anything).
       match /ptm_bookings/{docId} {
         allow read: if isSuperAdmin() || isStaff(schoolId)
           || resource.data.get('parentUid', '') == uid();
@@ -810,7 +830,11 @@ service cloud.firestore {
           || (request.resource.data.get('parentUid', '') == uid()
               && ownsStudentId(schoolId, request.resource.data.studentId));
         allow update: if isSuperAdmin() || isStaff(schoolId)
-          || resource.data.get('parentUid', '') == uid();
+          || (resource.data.get('parentUid', '') == uid()
+              && request.resource.data.get('studentId', '') == resource.data.get('studentId', '')
+              && request.resource.data.get('meetingId', '') == resource.data.get('meetingId', '')
+              && request.resource.data.get('slotId', '') == resource.data.get('slotId', '')
+              && request.resource.data.get('parentUid', '') == resource.data.get('parentUid', ''));
         allow delete: if isSuperAdmin() || isStaff(schoolId);
       }
 
