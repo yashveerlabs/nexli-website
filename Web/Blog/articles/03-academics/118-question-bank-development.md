@@ -100,7 +100,7 @@ Map all topics and learning outcomes for each subject/grade.
 
 **After assessment:**
 - Analyze performance (which questions were hard? Easy?)
-- Update question notes ("90% students got this wrong — revise wording")
+- Update question notes ("90% students got this wrong, revise wording")
 - Difficulty tag (if medium question performed as hard, update)
 
 ---
@@ -118,7 +118,7 @@ Question:
 "What type of reaction is: Magnesium + Oxygen → Magnesium Oxide?"
 
 Answer Key:
-"Combination reaction (synthesis reaction) — two or more substances combine to form one product."
+"Combination reaction (synthesis reaction), two or more substances combine to form one product."
 
 Difficulty Analysis:
 - 2024: 85% students correct
@@ -170,3 +170,6 @@ Related Outcomes:
 ---
 
 **Co-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>**
+
+
+[Book a Free Demo](/demo)

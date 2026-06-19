@@ -29,7 +29,7 @@ Without vertical alignment (coherence across grades), each grade functions indep
 
 ## Why Coherence Matters
 
-A vertically aligned, coherent curriculum creates a seamless learning journey:
+A vertically aligned, coherent curriculum creates a direct learning journey:
 
 - **Clear Progression:** Grade 6 builds Grade 5 concepts; Grade 7 builds Grade 6; and so on
 - **No Redundancy:** Each topic is taught once, in depth, at the right time
@@ -260,7 +260,7 @@ Create curriculum coherence in your school:
 4. **Establish cross-grade collaboration** (monthly meetings)
 5. **Use Nexli's vertical alignment tools** to make coherence visible and monitored
 
-Nexli's curriculum mapping and cross-grade collaboration features streamline this process. **[Request a demo](#contact)** and see how your school can create a truly coherent, seamless learning journey.
+Nexli's curriculum mapping and cross-grade collaboration features streamline this process. **[Request a demo](/demo)** and see how your school can create a coherent, direct learning journey.
 
 ---
 

@@ -68,7 +68,7 @@ Early detection of struggling students is critical. Schools using data-driven ea
 **Create baseline report:**
 
 ```
-CLASS 8A — MONTH 1 BASELINE
+CLASS 8A, MONTH 1 BASELINE
 
 Total students: 45
 Early warning flags:
@@ -85,7 +85,7 @@ Action needed immediately: Yes
 **Track KPIs:**
 
 ```
-DECEMBER PROGRESS CHECK — CLASS 8A
+DECEMBER PROGRESS CHECK, CLASS 8A
 
 Student | Attendance | Test Avg | Homework | Teacher Notes | Status |
 ---------|-----------|----------|----------|---------------|--------|
@@ -195,7 +195,7 @@ Neha | 95% | 78% | 95% complete | Good progress | GREEN |
 **For each student:**
 
 ```
-INTERVENTION PLAN — RAMESH (CLASS 8A)
+INTERVENTION PLAN, RAMESH (CLASS 8A)
 
 Current Status:
 - Attendance: 60%
@@ -321,3 +321,6 @@ A: Document your communication and efforts. Continue supporting student at schoo
 ---
 
 **Co-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>**
+
+
+[Book a Free Demo](/demo)

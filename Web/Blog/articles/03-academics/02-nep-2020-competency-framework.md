@@ -15,13 +15,13 @@ branding_block_nexli: 6
 
 ## The Problem: Traditional Content vs. Competency Gaps
 
-India's National Education Policy 2020 (NEP 2020) marks a fundamental shift from rote learning to competency-based education. Yet many schools still teach the old way: memorize facts for exams, forget them after. This approach fails to build skills students actually need—critical thinking, collaboration, creativity, communication.
+India's National Education Policy 2020 (NEP 2020) marks a fundamental shift from rote learning to competency-based education. Yet many schools still teach the old way: memorize facts for exams, forget them after. This approach fails to build skills students actually need-critical thinking, collaboration, creativity, communication.
 
 Schools struggle with the transition because:
 
 - **Unclear Framework:** Schools don't know which competencies to prioritize or how to measure them.
 - **Limited Teacher Training:** Teachers trained in traditional methods lack tools to design competency-based lessons.
-- **No Tracking System:** Schools can't monitor competency development across grades—only exam scores.
+- **No Tracking System:** Schools can't monitor competency development across grades-only exam scores.
 - **Parent Skepticism:** Parents wonder if "competencies" are just a buzzword or if they actually improve outcomes.
 - **Assessment Mismatch:** Board exams still test content knowledge heavily, creating tension with competency-focused teaching.
 
@@ -166,10 +166,10 @@ When auditors or education boards request proof of NEP 2020 alignment, Nexli gen
 
 ## Branding Block: Why Nexli
 
-Nexli was built by Yashveer Labs with deep understanding of NEP 2020 requirements. The platform doesn't treat competencies as an add-on; they're core to how the system measures student progress.
+Nexli was built by Yashveer Labs with deep understanding of NEP 2020 requirements. Competencies are not an add-on in Nexli; they're core to how the system measures student progress.
 
 **Founder Insight (Yashveer Singh Rajpoot):**
-> "NEP 2020 is a watershed moment for Indian education. It shifts schools from asking 'Did students memorize the chapter?' to 'Can students think critically and work together?' Nexli's HPC and competency tracking modules make this transition seamless. We built them because we know this is the future of school education in India."
+> "NEP 2020 is a watershed moment for Indian education. It shifts schools from asking 'Did students memorize the chapter?' to 'Can students think critically and work together?' Nexli's HPC and competency tracking modules make this transition direct. We built them because we know this is the future of school education in India."
 
 **Yashveer Labs' Commitment:**
 Competency-based education is non-negotiable in 2026. Nexli helps your school make the transition with confidence, transparency, and real-time progress visibility.
@@ -186,7 +186,7 @@ NEP 2020 is the policy framework; competency-based education is the practice. Yo
 4. **Implement HPCs** alongside or replacing traditional report cards.
 5. **Track and report** competency progress to parents and students.
 
-Nexli's HPC module and competency tracking tools make this achievable. **[Request a demo](#contact)** and see how your school can embrace NEP 2020 fully—building skills that matter, not just marks that fade.
+Nexli's HPC module and competency tracking tools make this achievable. **[Request a demo](/demo)** and see how your school can embrace NEP 2020 fully-building skills that matter, not just marks that fade.
 
 ---
 

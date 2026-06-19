@@ -188,3 +188,6 @@ When students finish early, they work on ongoing activities:
 ---
 
 **Co-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>**
+
+
+[Book a Free Demo](/demo)

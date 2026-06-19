@@ -225,7 +225,7 @@ A 2-year gap won't close in 8 weeks. Set ambitious but achievable goals. Better 
 Don't guess. Use interventions with research backing. For reading: Orton-Gillingham, Wilson Reading, etc. For math: Precision Mathematics, Singapore Math, etc.
 
 **5. Coordinate Across School**
-Intervention teachers, classroom teachers, counselors—they should be on the same page. Weekly coordination meetings prevent conflicting strategies.
+Intervention teachers, classroom teachers, counselors-they should be on the same page. Weekly coordination meetings prevent conflicting strategies.
 
 **6. Keep Plans Simple**
 Overly complex plans fail because no one remembers them. Aim for 3–4 clear strategies, not 10.
@@ -274,7 +274,7 @@ Over time, Nexli shows: "Of 25 action plans this year, 18 (72%) met goals. 5 (20
 Action plans work when they're clear, coordinated, and monitored. Nexli makes all three automatic.
 
 **Founder Insight (Yashveer Singh Rajpoot):**
-> "We've seen action plans written and forgotten—filed away, never monitored. Nexli puts action plans front and center. Teachers are reminded of check-ins. Parents see progress weekly. The student is motivated by visible improvement. It's the same intervention, but with systems, it actually works."
+> "We've seen action plans written and forgotten-filed away, never monitored. Nexli puts action plans front and center. Teachers are reminded of check-ins. Parents see progress weekly. The student is motivated by visible improvement. It's the same intervention, but with systems, it actually works."
 
 **Yashveer Labs' Commitment:**
 No struggling student is an outlier. With the right plan and the right support, every student can succeed. Nexli helps your school deliver that promise.
@@ -292,7 +292,7 @@ Create action plans for every struggling student:
 5. **Communicate regularly:** Keep student, parent, and school aligned
 6. **Escalate if needed:** If progress stalls, refer for further evaluation
 
-Nexli's action planning module makes this systematic and transparent. **[Request a demo](#contact)** and see how your school can turn struggling students' lives around with structured, data-driven support.
+Nexli's action planning module makes this systematic and transparent. **[Request a demo](/demo)** and see how your school can turn struggling students' lives around with structured, data-driven support.
 
 ---
 
@@ -314,4 +314,4 @@ A: Don't give up after 4 weeks. Data often shows improvement takes time. However
 A: Absolutely. Age-appropriate explanation helps students understand the goal and commit to effort. It also builds hope: "Here's a plan to help you succeed."
 
 **Q6: How do we handle action plans for students with learning disabilities?**
-A: Action plans and IEPs are complementary. An IEP is a legal document for special education services. An action plan is a school-wide support structure. A student can have both—IEP for formal accommodations; action plan for intervention goals and monitoring.
+A: Action plans and IEPs are complementary. An IEP is a legal document for special education services. An action plan is a school-wide support structure. A student can have both-IEP for formal accommodations; action plan for intervention goals and monitoring.

@@ -216,7 +216,7 @@ Track metrics directly tied to goals. If goal is "improve academics," track exam
 
 **Year 1 Results:**
 - Pass rate: 78% (progress toward 90%)
-- Implemented Nexli ERP (papers → digital workflows)
+- Implemented Nexli (papers → digital workflows)
 - Hired senior coordinator for staff development; conducted 12 training programs
 - Staff satisfaction improved 15%
 

@@ -240,10 +240,10 @@ When you build your school timetable, Nexli suggests which lesson plans should b
 
 ## Branding Block: Why Nexli
 
-Organization is the foundation of scale. Nexli treats lesson plan management as central to your school's academic infrastructure—not an afterthought.
+Organization is the foundation of scale. Nexli treats lesson plan management as central to your school's academic infrastructure-not an afterthought.
 
 **Founder Insight (Yashveer Singh Rajpoot):**
-> "We've seen schools with 300+ lesson plans that were completely unusable because they weren't organized. Nexli's hierarchy, search, version control, and dashboard make lesson planning a collaborative, transparent process. Your school's intellectual capital—the work of generations of teachers—is now captured, organized, and continuously improved."
+> "We've seen schools with 300+ lesson plans that were completely unusable because they weren't organized. Nexli's hierarchy, search, version control, and dashboard make lesson planning a collaborative, transparent process. Your school's intellectual capital-the work of generations of teachers-is now captured, organized, and continuously improved."
 
 **Yashveer Labs' Commitment:**
 Great schools build on the work of their predecessors. Nexli helps you organize, preserve, and scale that work.
@@ -261,7 +261,7 @@ Start organizing your lesson plans today:
 5. **Review and approve** (HOD reviews existing plans; teachers know which are ready to use)
 6. **Communicate** (show teachers the system; train them to search and adapt)
 
-Nexli's lesson plan organization module handles the infrastructure. **[Request a demo](#contact)** and see how your school can transform scattered lesson plans into a organized, searchable, continuously improving library.
+Nexli's lesson plan organization module handles the infrastructure. **[Request a demo](/demo)** and see how your school can transform scattered lesson plans into a organized, searchable, continuously improving library.
 
 ---
 
@@ -273,7 +273,7 @@ A: Both work. Most schools organize primarily by chapter (how curricula are stru
 **Q2: How many versions of a lesson plan should we keep?**
 A: Keep the current version (v1.0, v2.0, etc.) and the previous major version. Older versions can be archived if space is limited. Nexli keeps all versions unless you delete them.
 
-**Q3: Who owns a lesson plan—the teacher who created it or the school?**
+**Q3: Who owns a lesson plan-the teacher who created it or the school?**
 A: Best practice: the school owns it. Individual teachers can take personal copies, but the canonical version stays in the school library for others to access and improve.
 
 **Q4: Can teachers adapt and modify approved lesson plans?**

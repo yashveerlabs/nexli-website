@@ -92,7 +92,7 @@ Class 6: Organize "Diversity Day" where students learn about classmates' culture
 - Cross-lingual projects (write story in English, present in Hindi, discuss in local language)
 
 **Example activity:**
-Class 5: "Story Across Languages" — read a story in English, discuss in Hindi, summarize in mother tongue, illustrate, and present.
+Class 5: "Story Across Languages", read a story in English, discuss in Hindi, summarize in mother tongue, illustrate, and present.
 
 ### 4. Cultural Competence
 
@@ -328,3 +328,6 @@ A: No. Competency development and exam preparation go together. Critical thinkin
 ---
 
 **Co-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>**
+
+
+[Book a Free Demo](/demo)

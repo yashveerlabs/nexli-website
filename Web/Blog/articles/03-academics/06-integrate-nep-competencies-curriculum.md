@@ -23,7 +23,7 @@ The fundamental misconception is that competencies are separate from subject con
 
 ## Why Integration Matters
 
-When competencies are truly embedded in curriculum:
+When competencies are embedded in curriculum:
 
 - **Learning Feels Purposeful:** Students understand they're building real skills, not just passing tests.
 - **Higher Engagement:** Competency-based tasks are more interesting than passive content delivery.
@@ -224,7 +224,7 @@ Start integrating NEP 2020 competencies today:
 4. **Report on competencies** alongside marks (use HPC or similar)
 5. **Train teachers** (workshops, ongoing support, peer collaboration)
 
-Nexli's lesson planning, assessment, and HPC modules make this seamless. **[Request a demo](#contact)** and see how your school can fully implement NEP 2020—building competencies that stick with students for life.
+Nexli's lesson planning, assessment, and HPC modules make this direct. **[Request a demo](/demo)** and see how your school can fully implement NEP 2020-building competencies that stick with students for life.
 
 ---
 

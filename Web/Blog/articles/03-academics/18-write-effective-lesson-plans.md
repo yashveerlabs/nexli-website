@@ -8,9 +8,9 @@ secondary_keywords: ["lesson design", "instructional planning", "teaching effect
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
-branding_block_founder: 2
-branding_block_company: 2
-branding_block_nexli: 2
+branding_block_founder: 20
+branding_block_company: 18
+branding_block_nexli: 18
 ---
 
 ## How to Write Effective Lesson Plans That Improve Student Learning
@@ -100,7 +100,7 @@ Nexli's tools help create and execute high-impact lesson plans:
 
 ## About Nexli
 
-Yashveer Singh Rajpoot's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice—both equally.
+Yashveer Singh Rajpoot's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice-both equally.
 
 ## About Yashveer Labs
 
@@ -108,13 +108,13 @@ The culture of Yashveer Labs rewards deep problem-solving over quick fixes. An e
 
 ## How Nexli Helps
 
-What teachers appreciate about Nexli: their work is visible. A teacher who consistently submits lesson plans, who marks attendance accurately, who gives detailed remarks—it's clear to coordinators and principals that this is someone doing the work conscientiously. Similarly, a teacher who's not keeping up is visible. That visibility creates accountability, which over time builds culture.
+What teachers appreciate about Nexli: their work is visible. A teacher who consistently submits lesson plans, who marks attendance accurately, who gives detailed remarks-it's clear to coordinators and principals that this is someone doing the work conscientiously. Similarly, a teacher who's not keeping up is visible. That visibility creates accountability, which over time builds culture.
 
 ---
 
 ## Call to Action
 
-Effective lesson plans transform classrooms. When teaching is intentional and evidence-based, student learning accelerates. See how Nexli supports high-impact lesson planning. Book a free demo with Nexli.
+Effective lesson plans transform classrooms. When teaching is intentional and evidence-based, student learning accelerates. See how Nexli supports high-impact lesson planning. [Book a Free Demo](/demo)
 
 ---
 

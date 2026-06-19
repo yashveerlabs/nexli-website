@@ -68,7 +68,7 @@ Curriculum mapping is the process of aligning your school's curriculum to offici
 **Template structure:**
 
 ```
-CURRICULUM MAP — CLASS [X] — [SUBJECT]
+CURRICULUM MAP, CLASS [X], [SUBJECT]
 
 | Chapter | Pages | NCERT Topic | Learning Outcomes | Hours Allocated | Teacher | Status |
 |---------|-------|------------|-------------------|-----------------|---------|--------|
@@ -208,7 +208,7 @@ Remaining time: 50 hours for Board exam revision, practice, mock tests
 **Create monthly summary for management:**
 
 ```
-CURRICULUM COVERAGE REPORT — CLASS 10 SCIENCE — SEPTEMBER
+CURRICULUM COVERAGE REPORT, CLASS 10 SCIENCE, SEPTEMBER
 
 Target coverage: 60% of annual curriculum
 Actual coverage: 58% (slight delay)
@@ -353,3 +353,6 @@ A: Update mapping immediately. Alert all teachers. Adjust timeline if new conten
 ---
 
 **Co-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>**
+
+
+[Book a Free Demo](/demo)

@@ -228,7 +228,7 @@ Nexli's templates guide teachers to write specific, measurable learning objectiv
 When planning activities, Nexli suggests scaffolding strategies matched to the learning objective. Teachers don't have to invent from scratch.
 
 **Formative Assessment Integration**
-Nexli's quiz and assignment tools are seamlessly integrated into lesson plans. Teachers design formative checks and get real-time data on student understanding.
+Nexli's quiz and assignment tools are directly integrated into lesson plans. Teachers design formative checks and get real-time data on student understanding.
 
 **Engagement Activity Library**
 Nexli includes a searchable library of engagement activities (discussions, think-pair-share prompts, labs, projects) tagged by subject, grade, and learning objective.
@@ -257,7 +257,7 @@ Parents see lesson objectives and can ask their child: "What was the objective t
 Great teaching is intentional, structured, and data-informed. Nexli treats effective lesson design not as an ideal, but as the foundation of your school's academic system.
 
 **Founder Insight (Yashveer Singh Rajpoot):**
-> "We've learned that lesson effectiveness is measurable and improvable. Teachers who use Nexli's lesson planning system—with clear objectives, formative assessments, and reflection—see 15–20% improvements in student outcomes. That's not magic; it's deliberate design."
+> "We've learned that lesson effectiveness is measurable and improvable. Teachers who use Nexli's lesson planning system-with clear objectives, formative assessments, and reflection-see 15–20% improvements in student outcomes. That's not magic; it's deliberate design."
 
 **Yashveer Labs' Commitment:**
 Your teachers are working hard. Nexli ensures their work translates into student learning.
@@ -274,7 +274,7 @@ Design more effective lessons:
 4. **Include formative checks:** Assess understanding throughout, not just at the end
 5. **Reflect and improve:** After teaching, capture what worked and what to adjust
 
-Nexli's lesson planning system guides you through this process. **[Request a demo](#contact)** and see how your school can transform lessons into powerful learning experiences.
+Nexli's lesson planning system guides you through this process. **[Request a demo](/demo)** and see how your school can transform lessons into powerful learning experiences.
 
 ---
 

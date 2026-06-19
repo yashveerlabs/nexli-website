@@ -37,7 +37,7 @@ Schools with structured lesson planning see:
 - **Better Classroom Management:** When activities are purposeful, engagement increases and discipline issues drop.
 - **Consistent Quality:** All teachers, regardless of experience, follow a proven structure.
 - **Easier Feedback & Improvement:** When lesson plans are documented, principals can observe aligned to specific learning objectives and give targeted feedback.
-- **Knowledge Transfer:** When a teacher leaves, their lesson plans remain—new teachers inherit a knowledge base.
+- **Knowledge Transfer:** When a teacher leaves, their lesson plans remain-new teachers inherit a knowledge base.
 - **Board Compliance:** When CBSE or state inspectors visit, schools with documented lesson plans demonstrate rigor.
 
 ## Components of an Effective Lesson Plan
@@ -177,14 +177,14 @@ First time teaching a lesson, follow the plan closely. After, revise based on wh
 Avoid lecture-heavy plans. Include student activities, discussions, and hands-on engagement.
 
 **8. Plan for Equity**
-Every lesson should include strategies to support diverse learners—different languages, abilities, backgrounds.
+Every lesson should include strategies to support diverse learners-different languages, abilities, backgrounds.
 
 ## How Nexli Supports Lesson Planning
 
 Nexli's Academic Module provides a built-in lesson planning system:
 
 **Structured Lesson Plan Templates**
-Teachers access pre-built templates matching CBSE and NEP 2020 standards. Templates include all components listed above (objectives, activities, assessments, differentiation). Teachers fill in the blanks—no need to reinvent the wheel.
+Teachers access pre-built templates matching CBSE and NEP 2020 standards. Templates include all components listed above (objectives, activities, assessments, differentiation). Teachers fill in the blanks-no need to reinvent the wheel.
 
 **NCERT Standard Linking**
 When creating a lesson, teachers select the NCERT chapter and learning standard. Nexli auto-suggests related resources and previous lesson plans on the same standard.
@@ -196,7 +196,7 @@ Teachers see a calendar view of their week. Drag-and-drop lesson plans into time
 Before a lesson goes live, the Head of Department can review it for standards alignment, rigor, and inclusion of assessment. Feedback is timestamped and collaborative.
 
 **Searchable Lesson Library**
-All past lesson plans are searchable by subject, chapter, grade, learning objective, or board standard. Teachers find and adapt existing plans—saving hours of planning time.
+All past lesson plans are searchable by subject, chapter, grade, learning objective, or board standard. Teachers find and adapt existing plans-saving hours of planning time.
 
 **Automatic Curriculum Coverage Tracking**
 As teachers create lesson plans, Nexli tracks which standards have been covered and which are still pending. The principal sees a real-time coverage dashboard.
@@ -231,7 +231,7 @@ If your school doesn't have a structured lesson planning process, start now:
 4. **Build a lesson library** (archive and reuse past plans)
 5. **Track coverage** (use a dashboard to monitor curriculum alignment)
 
-Nexli's lesson planning module streamlines all of this. **[Request a demo](#contact)** and see how your school can transform lesson planning from a paperwork burden into a powerful tool for student achievement.
+Nexli's lesson planning module streamlines all of this. **[Request a demo](/demo)** and see how your school can transform lesson planning from a paperwork burden into a powerful tool for student achievement.
 
 ---
 

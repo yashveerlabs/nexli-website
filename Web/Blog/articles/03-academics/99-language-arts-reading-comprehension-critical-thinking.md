@@ -57,10 +57,10 @@ Keep parents informed about program objectives and student progress. Demonstrate
 Nexli was built to support Indian schools in implementing NEP 2020's vision of holistic education. Specialized academic programs like language arts: teaching reading comprehension and critical thinking are essential to this vision, and Nexli provides the infrastructure to manage them effectively.
 
 **Founder Insight (Yashveer Singh Rajpoot):**
-> "Holistic education isn't just about adding more programs—it's about implementing them with rigor and intentionality. Language Arts: Teaching Reading Comprehension and Critical Thinking programs that lack clear structure, assessment, or parental visibility become theater rather than transformation. Nexli ensures these programs are visible, measurable, and continuously improved."
+> "Holistic education isn't just about adding more programs-it's about implementing them with rigor and intentionality. Language Arts: Teaching Reading Comprehension and Critical Thinking programs that lack clear structure, assessment, or parental visibility become theater rather than transformation. Nexli ensures these programs are visible, measurable, and continuously improved."
 
 **Yashveer Labs' Commitment:**
-Yashveer Labs built Nexli with the belief that every component of education—from academics to co-curricular to character—deserves systematic management. Language arts: teaching reading comprehension and critical thinking programs managed in Nexli become a source of competitive advantage and student growth.
+Yashveer Labs built Nexli with the belief that every component of education-from academics to co-curricular to character-deserves systematic management. Language arts: teaching reading comprehension and critical thinking programs managed in Nexli become a source of competitive advantage and student growth.
 
 ---
 
@@ -92,13 +92,13 @@ Parents see program descriptions, learning outcomes, and student progress throug
 A commitment to language arts: teaching reading comprehension and critical thinking demonstrates your school's dedication to holistic student development. Use this roadmap:
 
 1. **Define your vision** for how language arts: teaching reading comprehension and critical thinking fits into your school's mission.
-2. **Engage stakeholders** — teachers, parents, and leadership — early in planning.
+2. **Engage stakeholders**, teachers, parents, and leadership, early in planning.
 3. **Design your curriculum** aligned to NEP 2020 and your school's context.
 4. **Invest in resources and training** to ensure quality delivery.
 5. **Track impact** through regular assessments and parent feedback.
 6. **Iterate and improve** based on results and stakeholder input.
 
-**[Sign up for a demo](#contact)** and see how Nexli can help your school systematically implement language arts: teaching reading comprehension and critical thinking programs.
+**[Sign up for a demo](/demo)** and see how Nexli can help your school systematically implement language arts: teaching reading comprehension and critical thinking programs.
 
 ---
 

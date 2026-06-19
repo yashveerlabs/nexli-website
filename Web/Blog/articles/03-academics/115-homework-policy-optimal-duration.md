@@ -299,3 +299,6 @@ A: For younger grades: Completion-based (turned in = credit). For older grades: 
 ---
 
 **Co-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>**
+
+
+[Book a Free Demo](/demo)

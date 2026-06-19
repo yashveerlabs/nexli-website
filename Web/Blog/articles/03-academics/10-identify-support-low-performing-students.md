@@ -107,7 +107,7 @@ Different students need different levels of support:
 - Specialized curriculum
 - Daily or near-daily intervention
 - Longer duration (8+ weeks, potentially ongoing)
-- Example: "Dyscalculia Support" — daily 30-minute session with specialized instructor
+- Example: "Dyscalculia Support", daily 30-minute session with specialized instructor
 
 **Investment:**
 - Tier 1: Built into regular teaching
@@ -226,7 +226,7 @@ Implement early identification and support in your school:
 5. **Monitor progress** and adjust interventions if needed
 6. **Communicate with parents** regularly about progress
 
-Nexli's screening, diagnostic, and progress monitoring tools make this entire process transparent and manageable. **[Request a demo](#contact)** and see how your school can catch struggling students early and turn their trajectories around.
+Nexli's screening, diagnostic, and progress monitoring tools make this entire process transparent and manageable. **[Request a demo](/demo)** and see how your school can catch struggling students early and turn their trajectories around.
 
 ---
 
@@ -251,4 +251,4 @@ A: Escalate. Refer for psychoeducational testing (rule out learning disability o
 A: Until the student reaches benchmark. Typically 6–12 weeks for Tier 2. Tier 3 may continue longer. Monitor progress; adjust timeline based on data.
 
 **Q7: Do we tell the student they're in an intervention?**
-A: Yes, but frame it positively. "You're working really hard in math. This group will help you build fluency faster." Shame or secrecy backfires.
+A: Yes, but frame it positively. "You're working hard in math. This group will help you build fluency faster." Shame or secrecy backfires.

@@ -112,9 +112,9 @@ This blend ensures students have foundational knowledge but spend most time deve
 Assessments should mirror the 40-60 split:
 
 **Formative Assessments (Weekly/Ongoing):**
-- Quick quizzes: fact recall (rote) — 20%
-- Discussion/debate: idea analysis (competency) — 50%
-- Problem sets: application (competency) — 30%
+- Quick quizzes: fact recall (rote), 20%
+- Discussion/debate: idea analysis (competency), 50%
+- Problem sets: application (competency), 30%
 
 **Summative Assessments (End of Unit):**
 - Written exam: 30% recall, 50% application/analysis, 20% extended response (synthesis/evaluation)
@@ -178,8 +178,8 @@ This transparency helps parents understand that both components matter.
 
 **Homework Tracking**
 Nexli's assignment module distinguishes between:
-- Rote tasks (flashcards, fact reviews) — short, focused, frequent
-- Competency tasks (projects, case studies) — longer, deeper, less frequent
+- Rote tasks (flashcards, fact reviews), short, focused, frequent
+- Competency tasks (projects, case studies), longer, deeper, less frequent
 
 Teachers see a dashboard: "Grade 9 is getting too much rote homework; add more projects."
 
@@ -190,7 +190,7 @@ Nexli generates reports showing competency growth over time: "In September, this
 
 ## Branding Block: Why Nexli
 
-Nexli was built to support the reality of Indian school education: balancing board-exam success with 21st-century skill development. The platform doesn't force you to choose.
+Nexli was built to support the reality of Indian school education: balancing board-exam success with 21st-century skill development. Nexli doesn't force you to choose.
 
 **Founder Insight (Yashveer Singh Rajpoot):**
 > "The best schools we've seen don't abandon rote learning or competency-based learning. They do both, strategically. Nexli's lesson planning, assessment, and reporting tools help teachers design this balance naturally. Students memorize what they need to, but spend most of their time thinking deeply and working on real problems."
@@ -211,7 +211,7 @@ Design a balanced curriculum for your school:
 5. **Train teachers** on balancing (workshop: "Teaching for Understanding, Not Just Memory")
 6. **Track and adjust** (use Nexli's dashboard to see competency growth; adjust if needed)
 
-Nexli makes this balance visible and manageable. **[Request a demo](#contact)** and see how your school can achieve exam success and develop 21st-century thinkers simultaneously.
+Nexli makes this balance visible and manageable. **[Request a demo](/demo)** and see how your school can achieve exam success and develop 21st-century thinkers simultaneously.
 
 ---
 
