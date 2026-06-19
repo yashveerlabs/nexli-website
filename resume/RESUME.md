@@ -11,7 +11,7 @@ Nexli is a **built, working, multi-tenant school ERP** (installable PWA) — Rea
 
 - **`tsc --noEmit` → 0 errors** · **`vite build` → OK** · **`npm test` (Vitest) → 234/234** · **Firestore rules emulator → 249/0**.
 
-Two formal pre-launch audits (`Web/Phase 3/1.md` = 3.7/10, `Web/Phase 3/2.md` = 2.7/10) were **systematically remediated** over three rounds, then a final code-polish pass. Self-assessed launch-readiness moved **2.7 → ~6.9/10**, which is at/near the **honest code ceiling (~7.5)** — the remaining gap to 10 is **owner-only external actions**, not unwritten code (see "Pending" below).
+Two formal pre-launch audits (`docs/archive/audits/phase3-audit-1.md` = 3.7/10, `docs/archive/audits/phase3-audit-2.md` = 2.7/10) were **systematically remediated** over three rounds, then a final code-polish pass. Self-assessed launch-readiness moved **2.7 → ~6.9/10**, which is at/near the **honest code ceiling (~7.5)** — the remaining gap to 10 is **owner-only external actions**, not unwritten code (see "Pending" below).
 
 **The product is now safe to demo and architecturally close to pilot-ready; the blockers left are external (Blaze, payment gateway, key rotation, legal review), captured in `docs/LAUNCH_RUNBOOK.md`.**
 
@@ -57,9 +57,10 @@ Everything specifically requested is done; these are the two big sweeps that wou
 - **Spark quota note:** heavy click-through can hit the free daily limit (looks like errors, isn't a bug) — test in batches, or do task #2 above (Blaze).
 
 ## Key docs map
+- `README.md` — top-level **folder map + doc index** (start here for navigation).
 - `docs/LAUNCH_RUNBOOK.md` — **owner action runbook** for every external item above (exact steps/commands).
 - `BUILD_PROGRESS.md` — full dated change log (the remediation rounds are the last three sections).
 - `legal/` — the four DRAFT legal documents (lawyer-review banner at the top of each).
-- `Web/Phase 3/1.md`, `Web/Phase 3/2.md` — the original audit reports that drove all of this.
+- `docs/archive/audits/phase3-audit-1.md`, `phase3-audit-2.md` — the original audit reports that drove all of this.
 - `NEXLI_PRICING.md` — finalized pricing (reference; the GST invoice generator pulls amounts from subscription data, not from here).
 - `.github/workflows/ci.yml` — CI (typecheck → vitest → build; separate JDK-21 rules-test job). Activates on push once the repo is on GitHub Actions.

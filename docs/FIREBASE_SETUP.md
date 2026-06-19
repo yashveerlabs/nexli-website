@@ -107,7 +107,7 @@ This is the exact backend configuration NEXLI needs. The spec (§14) makes Fireb
 
 ## 8. What I will produce on approval (no app code until then)
 
-`firebase.json`, `.firebaserc`, `firestore.rules`, `firestore.indexes.json`, the `functions/` workspace, the client `.env.example`, App Check init, the Super Admin bootstrap script, and the auth/RBAC + Firestore data layer — then I begin the staged build in `NEXLI_BUILD_PLAN.md` §20.
+`firebase.json`, `.firebaserc`, `firestore.rules`, `firestore.indexes.json`, the `functions/` workspace, the client `.env.example`, App Check init, the Super Admin bootstrap script, and the auth/RBAC + Firestore data layer — then I begin the staged build in `NEXLI_BUILD_PLAN.md` §20 _(archived under `docs/archive/planning/`)_.
 
 ---
 
