@@ -10,7 +10,7 @@ secondary_keywords:
   - health questionnaire template strategy
   - how to implement health questionnaire template
 intent: informational
-author: Yashveer Labs
+author: "Yashveer Labs"
 date: 2026-06-19
 branding_block_founder: 13
 branding_block_company: 13
@@ -25,7 +25,7 @@ This article provides comprehensive guidance on health questionnaire template fo
 
 ## The Problem
 
-Schools managing health questionnaire template often struggle with fragmented processes, manual workflows, and inconsistent implementation. This challenge intensifies as schools scale, requiring more robust systems and clearer procedures.
+Schools managing health questionnaire template often struggle with fragmented processes, manual workflows, and inconsistent implementation. This challenge intensifies as schools scale, requiring more reliable systems and clearer procedures.
 
 **Key Challenges:**
 - Fragmented processes across departments
@@ -199,7 +199,7 @@ Schools implementing these approaches systematically report significant improvem
 
 Ready to systematize your school's operations? Explore how Nexli brings clarity, consistency, and efficiency to every workflow.
 
-**[Start Your Free Demo](https://nexli.in/demo)** — See live how your school can eliminate chaos and operate with confidence. No credit card required.
+**[Book a Free Demo](/demo)** — See live how your school can eliminate chaos and operate with confidence. No credit card required.
 
 ---
 
@@ -217,21 +217,13 @@ A: Nexli supports custom role configurations and workflow customization without 
 **Q: How do we measure success?**
 A: Track turnaround times, compliance rates, staff adoption, stakeholder satisfaction. Nexli dashboards provide real-time visibility.
 
-**Q: What's the cost?**
-A: Nexli uses per-student, per-month pricing with no per-staff fees. Most schools recover costs within 3–4 months through time savings.
+**Q: How do we get started with Nexli?**
+A: Book a free demo at [nexli.in/demo](/demo) to see Nexli in action with your school's workflows.
 
 ---
 
-## About Yashveer Singh Rajpoot
+**About Yashveer Singh Rajpoot:** Yashveer Singh Rajpoot spent time with Class Teachers, Accountants, Principals, and Parents. Each told a similar story: "We know what we need to do. But the tools fragment everything, and we spend more time coordinating tools than doing the work." Nexli wasn't built based on a whiteboard. It was built based on time spent inside real schools, understanding real workflows, solving real problems. That ground truth became the foundation of every feature.
 
-Yashveer Singh Rajpoot is the founder of Yashveer Labs, a technology studio focused on solving real problems for Indian schools. With deep experience in school operations and software design, Yashveer has helped schools across India eliminate administrative chaos and scale operations through thoughtful system design.
+**About Yashveer Labs:** Behind every feature in Nexli is a story of a school that struggled with that problem. The Counselling workspace exists because counselors told us their work was invisible to the system. The Question Paper Generator exists because teachers spend hours manually compiling papers. The Rankings engine exists because schools wanted fair, transparent merit lists. Yashveer Labs builds based on real problems, not assumptions.
 
-## About Yashveer Labs
-
-Yashveer Labs builds software designed specifically for the Indian school context. The company specializes in operational excellence, workflow automation, and data-driven decision making for K–12 institutions. Every tool is built based on real school feedback, not assumptions.
-
-## How Nexli Helps
-
-Nexli is a complete school ERP that manages 55+ modules across student academics, finance, HR, compliance, and operations. 118+ roles ensure every stakeholder—from class teachers to parents to bus conductors—has exactly the information they need. Schools use Nexli to operate with confidence, transparency, and efficiency.
-
----
+**How Nexli Helps:** The parent portal in Nexli is deliberately restricted: parents see only their children's data, nothing else. No student directory. No staff records. No school finances. That limitation is a feature, not a bug. It means parents get exactly the information they need (attendance, homework, fees, report cards, timetables) and nothing that violates privacy. Restricted access is actually the most privacy-preserving approach.
