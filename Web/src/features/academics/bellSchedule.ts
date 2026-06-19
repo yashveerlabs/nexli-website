@@ -6,6 +6,7 @@ import type { RoleId } from '@/types/roles';
 import {
   DEFAULT_PERIODS,
   type PeriodDef,
+  type Substitution,
   type TimetableSlot,
   type Weekday,
 } from '@/types/academics';
@@ -294,4 +295,55 @@ export function suggestSubstitutes(
         a.loadThatDay - b.loadThatDay ||
         (a.teacher.name ?? '').localeCompare(b.teacher.name ?? ''),
     );
+}
+
+/* ----------------------------------------------------------------------- */
+/* Substitution conflict check (substitute double-booked)                   */
+/* ----------------------------------------------------------------------- */
+
+/** A proposed substitution we are about to save (the minimal fields a clash needs). */
+export interface ProposedSubstitution {
+  /** When editing an existing sub, its id — so we never clash with ourselves. */
+  id?: string;
+  date: number;
+  periodNo: number;
+  sectionId: string;
+  substituteTeacherUid?: string;
+}
+
+/**
+ * Find an EXISTING substitution that would double-book the chosen substitute: same
+ * date + same period, same substitute teacher, but a DIFFERENT class (section).
+ * Returns the conflicting substitution, or `undefined` when the substitute is free.
+ *
+ * This is the gap the timetable check alone cannot cover — a teacher who is free in
+ * the master timetable at that period may already have been pulled in to cover some
+ * OTHER absent teacher's class in the same slot. Pure + side-effect free so it is
+ * unit-tested and reused by both the manual "Add substitution" form and the
+ * "Mark a teacher absent" flow.
+ *
+ * Booking the SAME substitute for the SAME class+period again is not a conflict
+ * (it's an idempotent re-assignment / overwrite, not a clash).
+ */
+export function findSubstituteConflict(
+  proposed: ProposedSubstitution,
+  existing: readonly Substitution[],
+): Substitution | undefined {
+  if (!proposed.substituteTeacherUid) return undefined;
+  return existing.find(
+    (s) =>
+      s.id !== proposed.id &&
+      s.date === proposed.date &&
+      s.periodNo === proposed.periodNo &&
+      s.substituteTeacherUid === proposed.substituteTeacherUid &&
+      s.sectionId !== proposed.sectionId,
+  );
+}
+
+/** True when the chosen substitute is already booked elsewhere that date+period. */
+export function isSubstituteDoubleBooked(
+  proposed: ProposedSubstitution,
+  existing: readonly Substitution[],
+): boolean {
+  return findSubstituteConflict(proposed, existing) !== undefined;
 }

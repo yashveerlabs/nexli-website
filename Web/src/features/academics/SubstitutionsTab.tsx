@@ -16,7 +16,7 @@ import {
 import { WEEKDAYS, type Weekday, type Substitution, type TimetableSlot } from '@/types/academics';
 import { useActor, staffOptions, staffName } from './shared';
 import {
-  useBellSchedule, periodLabelOf, affectedSlotsFor, suggestSubstitutes,
+  useBellSchedule, periodLabelOf, affectedSlotsFor, suggestSubstitutes, findSubstituteConflict,
   type SubSuggestion, type TeacherLike,
 } from './bellSchedule';
 
@@ -79,6 +79,17 @@ export function SubstitutionsTab() {
 
   const save = async () => {
     if (!schoolId || !date || !sectionId || !substitute) return;
+    // Block double-booking: the chosen substitute must not already be covering a
+    // DIFFERENT class in the same date + period (the timetable check can't see
+    // other substitutions). Pure check lives in bellSchedule for testability.
+    const clash = findSubstituteConflict(
+      { date: new Date(`${date}T00:00:00`).getTime(), periodNo: Number(periodNo), sectionId, substituteTeacherUid: substitute },
+      subs,
+    );
+    if (clash) {
+      toast.error('Substitute already booked', `${staffName(staff, substitute) ?? 'This teacher'} is covering ${clash.sectionName ?? 'another class'} in ${periodLabelOf(periods, Number(periodNo))} already.`);
+      return;
+    }
     setBusy(true);
     try {
       const section = sections.find((s) => s.id === sectionId);
@@ -248,6 +259,15 @@ function AbsentFlow({
 
   const assign = async (slot: TimetableSlot, subUid: string, subName?: string) => {
     if (!schoolId) return;
+    // Guard against booking the same substitute into two classes at once.
+    const clash = findSubstituteConflict(
+      { date: dateMs, periodNo: slot.periodNo, sectionId: slot.sectionId, substituteTeacherUid: subUid },
+      existingSubs,
+    );
+    if (clash) {
+      toast.error('Substitute already booked', `${subName ?? staffName(staff, subUid) ?? 'This teacher'} is already covering ${clash.sectionName ?? 'another class'} this period.`);
+      return;
+    }
     setSavingSlot(slot.id);
     try {
       await createSubstitution(schoolId, {
@@ -308,9 +328,11 @@ function AbsentFlow({
               key={slot.id}
               slot={slot}
               day={day}
+              dateMs={dateMs}
               absentUid={absent}
               staff={staff}
               allSlots={allSlots}
+              existingSubs={existingSubs}
               periodLabel={periodLabel}
               sectionLabel={sectionLabel}
               alreadyCovered={coveredKey.has(`${slot.sectionId}_${slot.periodNo}`)}
@@ -327,14 +349,16 @@ function AbsentFlow({
 }
 
 function SlotCover({
-  slot, day, absentUid, staff, allSlots, periodLabel, sectionLabel,
+  slot, day, dateMs, absentUid, staff, allSlots, existingSubs, periodLabel, sectionLabel,
   alreadyCovered, assignedUid, saving, disabledAll, onAssign,
 }: {
   slot: TimetableSlot;
   day: Weekday;
+  dateMs: number;
   absentUid: string;
   staff: TeacherLike[];
   allSlots: TimetableSlot[];
+  existingSubs: Substitution[];
   periodLabel: (no: number) => string;
   sectionLabel: (id: string) => string;
   alreadyCovered: boolean;
@@ -344,8 +368,18 @@ function SlotCover({
   onAssign: (uid: string, name?: string) => void;
 }) {
   const suggestions: SubSuggestion[] = useMemo(
-    () => suggestSubstitutes({ day, periodNo: slot.periodNo }, absentUid, staff, allSlots),
-    [day, slot.periodNo, absentUid, staff, allSlots],
+    () =>
+      suggestSubstitutes({ day, periodNo: slot.periodNo }, absentUid, staff, allSlots)
+        // Also drop anyone already pulled into another class this exact date+period
+        // (the timetable check can't see substitutions). Keeps the chips truthful.
+        .filter(
+          (s) =>
+            !findSubstituteConflict(
+              { date: dateMs, periodNo: slot.periodNo, sectionId: slot.sectionId, substituteTeacherUid: s.teacher.id },
+              existingSubs,
+            ),
+        ),
+    [day, slot.periodNo, slot.sectionId, dateMs, absentUid, staff, allSlots, existingSubs],
   );
 
   const top = suggestions.slice(0, 3);

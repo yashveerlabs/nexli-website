@@ -13,7 +13,13 @@ import type { Exam } from '@/types/daily';
 import { dateRangeLabel } from './shared';
 import './examinations.css';
 
-export function ExamsListPage() {
+/**
+ * Exam-terms list. Rendered standalone at `/examinations` OR embedded as the first
+ * tab of the Examinations hub. When `embedded`, the outer page wrapper + heading
+ * are omitted (the hub supplies a single shared head) and the "New exam" action
+ * moves into the toolbar so the tab body stays self-contained.
+ */
+export function ExamsListPage({ embedded = false }: { embedded?: boolean } = {}) {
   const navigate = useNavigate();
   const { schoolId, can } = useSession();
   const canWrite = can('exams.write');
@@ -35,17 +41,26 @@ export function ExamsListPage() {
     return { total: exams.length, published, drafts: exams.length - published };
   }, [exams]);
 
-  return (
-    <div className="nx-page">
-      <div className="nx-page__head">
-        <div>
-          <h1 className="nx-page__title">Examinations</h1>
-          <p className="nx-page__sub">Formal term/board exams — datesheets, admit cards &amp; results. For routine class tests &amp; assignments, use Class Assessments.</p>
+  const body = (
+    <>
+      {embedded ? (
+        canWrite && (
+          <div className="nx-page__head" style={{ marginBottom: 12 }}>
+            <p className="nx-page__sub" style={{ margin: 0 }}>Create exam terms, build datesheets, enter results &amp; issue admit cards.</p>
+            <Button variant="gold" leftIcon="plus" onClick={() => navigate('/examinations/new')}>New exam</Button>
+          </div>
+        )
+      ) : (
+        <div className="nx-page__head">
+          <div>
+            <h1 className="nx-page__title">Examinations</h1>
+            <p className="nx-page__sub">Formal term/board exams — datesheets, admit cards &amp; results. For routine class tests &amp; assignments, use Class Assessments.</p>
+          </div>
+          {canWrite && (
+            <Button variant="gold" leftIcon="plus" onClick={() => navigate('/examinations/new')}>New exam</Button>
+          )}
         </div>
-        {canWrite && (
-          <Button variant="gold" leftIcon="plus" onClick={() => navigate('/examinations/new')}>New exam</Button>
-        )}
-      </div>
+      )}
 
       {!loading && !error && exams.length > 0 && (
         <div className="nx-statstrip" style={{ marginBottom: 16 }}>
@@ -98,8 +113,10 @@ export function ExamsListPage() {
           ))}
         </div>
       )}
-    </div>
+    </>
   );
+
+  return embedded ? body : <div className="nx-page">{body}</div>;
 }
 
 function ExamCard({ exam, gradeName, onOpen }: { exam: Exam; gradeName: (id: string) => string; onOpen: () => void }) {
