@@ -144,7 +144,7 @@ function RequisitionBody({ mode, onCancel }: { mode: 'new' | 'edit'; onCancel: (
             <FormInput<RequisitionValues> name={`items.${i}.name`} label={i === 0 ? 'Item' : undefined} placeholder="Item name" />
             <FormInput<RequisitionValues> name={`items.${i}.qty`} label={i === 0 ? 'Qty' : undefined} type="number" inputMode="numeric" placeholder="1" />
             <FormInput<RequisitionValues> name={`items.${i}.unit`} label={i === 0 ? 'Unit' : undefined} placeholder="pcs" />
-            <FormInput<RequisitionValues> name={`items.${i}.estCost`} label={i === 0 ? 'Est. cost (₹)' : undefined} type="number" inputMode="numeric" placeholder="0" />
+            <FormInput<RequisitionValues> name={`items.${i}.estCost`} label={i === 0 ? 'Est. cost (₹)' : undefined} type="text" inputMode="decimal" placeholder="0" />
             <div className="fin-itemrow__rm">
               {fields.length > 1 && (
                 <Button type="button" variant="ghost" size="sm" leftIcon="x" aria-label={`Remove item ${i + 1}`} onClick={() => remove(i)} />

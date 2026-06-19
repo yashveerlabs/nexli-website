@@ -103,11 +103,11 @@ function StructureBody({ mode, readOnly, staffName, designation, department, onC
     >
       <fieldset disabled={readOnly} style={{ border: 0, margin: 0, padding: 0, minInlineSize: 'auto' }}>
       <FormSection title="Earnings" description="Monthly components. Gross and annual CTC update live below.">
-        <FormInput<SalaryStructureValues> name="basic" label="Basic" type="number" inputMode="numeric" placeholder="0" />
-        <FormInput<SalaryStructureValues> name="hra" label="HRA" type="number" inputMode="numeric" placeholder="0" />
-        <FormInput<SalaryStructureValues> name="da" label="Dearness allowance (DA)" type="number" inputMode="numeric" placeholder="0" />
-        <FormInput<SalaryStructureValues> name="conveyance" label="Conveyance" type="number" inputMode="numeric" placeholder="0" />
-        <FormInput<SalaryStructureValues> name="specialAllowance" label="Special allowance" type="number" inputMode="numeric" placeholder="0" />
+        <FormInput<SalaryStructureValues> name="basic" label="Basic" type="text" inputMode="decimal" placeholder="0" />
+        <FormInput<SalaryStructureValues> name="hra" label="HRA" type="text" inputMode="decimal" placeholder="0" />
+        <FormInput<SalaryStructureValues> name="da" label="Dearness allowance (DA)" type="text" inputMode="decimal" placeholder="0" />
+        <FormInput<SalaryStructureValues> name="conveyance" label="Conveyance" type="text" inputMode="decimal" placeholder="0" />
+        <FormInput<SalaryStructureValues> name="specialAllowance" label="Special allowance" type="text" inputMode="decimal" placeholder="0" />
       </FormSection>
 
       <FormSection
@@ -122,7 +122,7 @@ function StructureBody({ mode, readOnly, staffName, designation, department, onC
           fields.map((f, i) => (
             <div className="pay-earnrow" key={f.id}>
               <FormInput<SalaryStructureValues> name={`otherEarnings.${i}.name`} label={i === 0 ? 'Component' : undefined} placeholder="e.g. Medical allowance" />
-              <FormInput<SalaryStructureValues> name={`otherEarnings.${i}.amount`} label={i === 0 ? 'Amount' : undefined} type="number" inputMode="numeric" placeholder="0" />
+              <FormInput<SalaryStructureValues> name={`otherEarnings.${i}.amount`} label={i === 0 ? 'Amount' : undefined} type="text" inputMode="decimal" placeholder="0" />
               <div className="pay-earnrow__rm">
                 <Button type="button" variant="ghost" size="sm" leftIcon="x" aria-label={`Remove component ${i + 1}`} onClick={() => remove(i)} />
               </div>
@@ -135,7 +135,7 @@ function StructureBody({ mode, readOnly, staffName, designation, department, onC
         <FormToggle<SalaryStructureValues> name="pfApplicable" label="Provident Fund (PF) — 12% of basic" />
         <FormToggle<SalaryStructureValues> name="esiApplicable" label="ESI — 0.75% of gross (gross ≤ ₹21,000)" />
         <FormToggle<SalaryStructureValues> name="ptApplicable" label="Professional Tax (PT)" />
-        <FormInput<SalaryStructureValues> name="tdsMonthly" label="Monthly TDS (optional)" type="number" inputMode="numeric" placeholder="0" optional />
+        <FormInput<SalaryStructureValues> name="tdsMonthly" label="Monthly TDS (optional)" type="text" inputMode="decimal" placeholder="0" optional />
       </FormSection>
 
       <FormSection title="Summary" single>

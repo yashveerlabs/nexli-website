@@ -123,7 +123,7 @@ function ExpenseBody({ mode, vendorOptions, onCancel }: {
         <FormInput<ExpenseValues> name="description" label="Description" required placeholder="e.g. June electricity bill" fieldClassName="nx-col-full" />
         <FormSelect<ExpenseValues> name="category" label="Category" required options={EXPENSE_CATEGORY_OPTIONS} />
         <FormSelect<ExpenseValues> name="vendorId" label="Vendor" optional options={vendorOptions} />
-        <FormInput<ExpenseValues> name="amount" label="Amount (₹)" required type="number" inputMode="numeric" placeholder="0" />
+        <FormInput<ExpenseValues> name="amount" label="Amount (₹)" required type="text" inputMode="decimal" placeholder="0" />
         <FormDate<ExpenseValues> name="date" label="Date" required max={today()} />
       </FormSection>
 

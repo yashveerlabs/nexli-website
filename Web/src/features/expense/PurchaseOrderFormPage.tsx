@@ -143,7 +143,7 @@ function POBody({ vendorOptions, hasVendors, requisition, onCancel }: {
               <FormInput<PurchaseOrderValues> name={`items.${i}.name`} label={i === 0 ? 'Item' : undefined} placeholder="Item name" />
               <FormInput<PurchaseOrderValues> name={`items.${i}.qty`} label={i === 0 ? 'Qty' : undefined} type="number" inputMode="numeric" placeholder="1" />
               <FormInput<PurchaseOrderValues> name={`items.${i}.unit`} label={i === 0 ? 'Unit' : undefined} placeholder="pcs" />
-              <FormInput<PurchaseOrderValues> name={`items.${i}.rate`} label={i === 0 ? 'Rate (₹)' : undefined} type="number" inputMode="numeric" placeholder="0" />
+              <FormInput<PurchaseOrderValues> name={`items.${i}.rate`} label={i === 0 ? 'Rate (₹)' : undefined} type="text" inputMode="decimal" placeholder="0" />
               <div className="exp-itemrow__amt" aria-label="Line amount">{formatINR(amt)}</div>
               <div className="fin-itemrow__rm">
                 {fields.length > 1 && (

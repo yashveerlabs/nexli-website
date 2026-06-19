@@ -125,10 +125,10 @@ export function ApprovalSettingsTab() {
                   </Field>
                   <div className="grid g-2">
                     <Field label="Min amount (₹)" optional hint="Leave blank for no lower bound.">
-                      <Input value={r.minAmount} onChange={(e) => setRule(r.id, { minAmount: e.target.value })} type="number" inputMode="numeric" placeholder="0" disabled={!canWrite} />
+                      <Input value={r.minAmount} onChange={(e) => setRule(r.id, { minAmount: e.target.value })} type="text" inputMode="decimal" placeholder="0" disabled={!canWrite} />
                     </Field>
                     <Field label="Max amount (₹)" optional hint="Leave blank for no upper bound.">
-                      <Input value={r.maxAmount} onChange={(e) => setRule(r.id, { maxAmount: e.target.value })} type="number" inputMode="numeric" placeholder="No limit" disabled={!canWrite} />
+                      <Input value={r.maxAmount} onChange={(e) => setRule(r.id, { maxAmount: e.target.value })} type="text" inputMode="decimal" placeholder="No limit" disabled={!canWrite} />
                     </Field>
                   </div>
                   <Field label="Approver" optional hint="Who signs this off, e.g. VP Admin, Principal, Trustee.">

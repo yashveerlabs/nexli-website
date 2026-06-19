@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Badge } from '@/components/Badge';
+import { Button } from '@/components/Button';
 import { DataTable, type Column } from '@/components/DataTable';
 import { Input, Select } from '@/components/form';
 import { InfoCard } from '@/components/feedback';
@@ -9,6 +10,7 @@ import { formatINR, formatDate } from '@/lib/format';
 import { useSession } from '@/app/providers/SessionProvider';
 import { usePayments } from '@/features/finance/data';
 import { PAYMENT_METHOD_META, PAYMENT_METHOD_OPTIONS, PAYMENT_STATUS_META } from '@/features/finance/meta';
+import { buildFeePaymentsTallyXml, downloadXml } from '@/features/finance/tallyExport';
 import type { FeePayment } from '@/types/finance';
 
 export function PaymentsTab() {
@@ -44,6 +46,11 @@ export function PaymentsTab() {
     { key: 'amount', header: 'Amount', align: 'right', render: (p) => <span className="fin-amount fin-amount--paid">{formatINR(p.amount)}</span> },
   ];
 
+  const exportTally = () => {
+    if (rows.length === 0) return;
+    downloadXml('fee-receipts-tally', buildFeePaymentsTallyXml(rows));
+  };
+
   const toolbar = (
     <div className="nx-toolbar">
       <div className="nx-toolbar__search">
@@ -51,6 +58,7 @@ export function PaymentsTab() {
       </div>
       <Select value={method} onChange={(e) => setMethod(e.target.value)} aria-label="Filter by method"
         options={[{ value: '', label: 'All methods' }, ...PAYMENT_METHOD_OPTIONS]} />
+      <Button variant="subtle" leftIcon="download" onClick={exportTally} disabled={rows.length === 0} title="Export the listed receipts as a Tally-importable XML">Tally XML</Button>
     </div>
   );
 

@@ -1,15 +1,15 @@
 import {
   addDoc, collection, deleteDoc, deleteField, doc, getDoc, getDocs, orderBy, query, runTransaction,
-  serverTimestamp, setDoc, updateDoc, where, limit as fsLimit, type FieldValue, type QueryConstraint,
+  serverTimestamp, setDoc, updateDoc, where, writeBatch, limit as fsLimit, type FieldValue, type QueryConstraint,
 } from 'firebase/firestore';
 import { db } from '@/lib/firebase';
 import { tenantCol, tenantDoc, useCollection, useDocument } from '@/lib/db';
 import { writeAuditEvent, type AuditAction } from '@/lib/audit';
 import type {
-  FeeHead, FeeStructure, FeeInvoice, FeePayment, FinanceSettings, InvoiceStatus,
+  FeeHead, FeeStructure, FeeInvoice, FeePayment, FinanceSettings, InvoiceStatus, ConcessionLine,
   Requisition, RequisitionStatus, Vendor, PurchaseOrder, GoodsReceipt, Expense,
   ExpenseSettings, ApprovalRule,
-  SalaryStructure, PayrollRun, Payslip,
+  SalaryStructure, PayrollRun, PayrollRunStatus, Payslip,
 } from '@/types/finance';
 
 /**
@@ -82,7 +82,73 @@ export function useInvoice(schoolId?: string, id?: string) {
 }
 export const createInvoice = (s: string, d: Omit<FeeInvoice, 'id'>, a: Actor) => createIn(s, 'fee_invoices', d, a, { action: 'fee.invoice_created', targetType: 'fee_invoice', summary: `${d.studentName} · ${d.title}` });
 export const updateInvoice = (s: string, id: string, p: Partial<FeeInvoice>, a: Actor) => updateIn(s, 'fee_invoices', id, p, a, { action: 'fee.updated', targetType: 'fee_invoice' });
-export const cancelInvoice = (s: string, id: string, a: Actor) => updateIn(s, 'fee_invoices', id, { status: 'cancelled' as InvoiceStatus }, a, { action: 'fee.invoice_cancelled', targetType: 'fee_invoice' });
+
+/**
+ * Cancel an invoice — but ONLY when nothing has been collected against it.
+ * Cancelling drops the invoice from `studentDue`, so cancelling one that already
+ * carries payments would orphan those receipts (the money becomes invisible /
+ * un-reconcilable). Reading the invoice in a transaction guarantees we decide on
+ * the current `paidAmount`, not a stale UI snapshot. If a paid invoice truly must
+ * be voided, record a refund first (settling `paidAmount` back to 0).
+ */
+export async function cancelInvoice(s: string, id: string, a: Actor): Promise<void> {
+  const ref = tenantDoc(s, 'fee_invoices', id);
+  await runTransaction(db, async (tx) => {
+    const snap = await tx.get(ref);
+    if (!snap.exists()) throw new Error('This invoice no longer exists.');
+    const inv = snap.data() as FeeInvoice;
+    if (inv.status === 'cancelled') return; // idempotent
+    if ((inv.paidAmount ?? 0) > 0) {
+      throw new Error('This invoice has payments recorded against it and cannot be cancelled. Refund the collected amount first, then cancel.');
+    }
+    tx.update(ref, { status: 'cancelled' as InvoiceStatus, lastModifiedAt: Date.now(), lastModifiedBy: a.uid });
+  });
+  void writeAuditEvent({ action: 'fee.invoice_cancelled', schoolId: s, actor: a, targetType: 'fee_invoice', targetId: id });
+}
+
+/**
+ * Apply a concession line to an invoice atomically. Two cashiers conceding the
+ * same invoice at once would otherwise each read a stale `concessions` array and
+ * overwrite the other (losing a line) or push the net below zero. The transaction
+ * re-reads the CURRENT invoice, appends to its live concessions, caps the line at
+ * the remaining concedable gross, recomputes net (floored at 0) and re-derives
+ * paid/due/status from the live `paidAmount`. Returns the new net amount.
+ */
+export async function applyConcession(
+  s: string,
+  invoiceId: string,
+  line: ConcessionLine,
+  a: Actor,
+): Promise<number> {
+  if ((line.amount ?? 0) <= 0) throw new Error('Concession amount must be positive.');
+  const ref = tenantDoc(s, 'fee_invoices', invoiceId);
+  const net = await runTransaction(db, async (tx) => {
+    const snap = await tx.get(ref);
+    if (!snap.exists()) throw new Error('This invoice no longer exists.');
+    const inv = snap.data() as FeeInvoice;
+    if (inv.status === 'cancelled') throw new Error('This invoice is cancelled — concessions cannot be applied.');
+    const gross = inv.grossAmount ?? 0;
+    const existing = inv.concessions ?? [];
+    const usedConcession = existing.reduce((sum, c) => sum + (c.amount || 0), 0);
+    // Cap against the concedable gross still remaining (current, not a UI snapshot).
+    const remaining = Math.max(0, gross - usedConcession);
+    if (line.amount > remaining) {
+      throw new Error(`Concession of ₹${line.amount} exceeds the ₹${remaining} still concedable on this invoice.`);
+    }
+    const concessions = [...existing, line];
+    const concessionAmount = usedConcession + line.amount;
+    const netAmount = Math.max(0, gross - concessionAmount);
+    const paid = inv.paidAmount ?? 0;
+    tx.update(ref, {
+      concessions, grossAmount: gross, concessionAmount, netAmount,
+      dueAmount: Math.max(0, netAmount - paid), status: statusFor(netAmount, paid),
+      lastModifiedAt: Date.now(), lastModifiedBy: a.uid,
+    });
+    return netAmount;
+  });
+  void writeAuditEvent({ action: 'fee.updated', schoolId: s, actor: a, targetType: 'fee_invoice', targetId: invoiceId, summary: `Concession ₹${line.amount}` });
+  return net;
+}
 
 export function usePayments(schoolId?: string, studentId?: string) {
   return useCollection<FeePayment>(
@@ -144,8 +210,18 @@ export async function recordPayment(schoolId: string, input: RecordPaymentInput,
         // unpaid/partial/paid, so applying it here would silently revive a
         // cancelled demand. Record the receipt, but leave the invoice untouched.
         if (inv.status !== 'cancelled') {
-          const paid = (inv.paidAmount ?? 0) + input.amount;
           const net = inv.netAmount ?? 0;
+          const alreadyPaid = inv.paidAmount ?? 0;
+          // Overpayment guard (authoritative — the UI guard can be bypassed by a
+          // race or direct API call). Read-in-transaction means `alreadyPaid` is
+          // current, so cumulative paid can never exceed the invoice net. There is
+          // no advance/credit-balance ledger, so reject rather than silently
+          // booking the excess against this demand.
+          const due = Math.max(0, net - alreadyPaid);
+          if (input.amount > due) {
+            throw new Error(`Payment of ₹${input.amount} exceeds the ₹${due} still due on this invoice. Reduce the amount or record it as a general payment.`);
+          }
+          const paid = alreadyPaid + input.amount;
           invoicePatch = {
             ref: invRef,
             data: { paidAmount: paid, dueAmount: Math.max(0, net - paid), status: statusFor(net, paid), lastModifiedAt: Date.now(), lastModifiedBy: actor.uid },
@@ -295,6 +371,29 @@ export function useGoodsReceipts(schoolId?: string, poId?: string) {
 }
 export const createGoodsReceipt = (s: string, d: Omit<GoodsReceipt, 'id'>, a: Actor) => createIn(s, 'goods_receipts', d, a, { action: 'grn.created', targetType: 'goods_receipt', summary: d.grnNo });
 
+/**
+ * Record a goods receipt AND update its purchase order (per-line receivedQty +
+ * status) in ONE atomic `writeBatch`. Previously these were two sequential writes,
+ * so a failure after the GRN was created left the PO status/quantities stale
+ * (received stock with the PO still showing "issued"). Returns the new GRN id.
+ */
+export async function recordGoodsReceipt(
+  s: string,
+  grn: Omit<GoodsReceipt, 'id'>,
+  poId: string,
+  poPatch: Partial<PurchaseOrder>,
+  a: Actor,
+): Promise<string> {
+  const grnRef = doc(collection(db, `schools/${s}/goods_receipts`));
+  const poRef = tenantDoc(s, 'purchase_orders', poId);
+  const batch = writeBatch(db);
+  batch.set(grnRef, { ...stripUndefined(grn), schoolId: s, createdAt: Date.now(), createdBy: a.uid, version: 1 });
+  batch.update(poRef, { ...stripUndefined(poPatch), lastModifiedAt: Date.now(), lastModifiedBy: a.uid });
+  await batch.commit();
+  void writeAuditEvent({ action: 'grn.created', schoolId: s, actor: a, targetType: 'goods_receipt', targetId: grnRef.id, summary: grn.grnNo });
+  return grnRef.id;
+}
+
 export function useExpenses(schoolId?: string) {
   return useCollection<Expense>(schoolId ? tenantCol(schoolId, 'expenses') : null, [schoolId]);
 }
@@ -342,20 +441,33 @@ export const submitPayrollRun = (s: string, id: string, a: Actor) =>
  * just in the UI) by reading the run and rejecting a self-approval.
  */
 export async function approvePayrollRun(s: string, id: string, a: Actor, note?: string): Promise<void> {
-  const snap = await getDoc(tenantDoc(s, 'payroll_runs', id));
-  const run = snap.data() as PayrollRun | undefined;
-  // Guard 1: the run must have been submitted before it can be approved.
-  if (!run || !run.submittedAt) {
-    throw new Error('This pay run has not been submitted for approval yet.');
-  }
-  // Guard 2 (separation of duties): the person who submitted may NOT approve.
-  if (run.submittedByUid && run.submittedByUid === a.uid) {
-    throw new Error("You submitted this pay run, so you can't also approve it. Ask another authorised approver (Principal / VP-Admin) to approve.");
-  }
-  await updateIn<PayrollRun>(s, 'payroll_runs', id, {
-    status: 'finalized', finalizedAt: Date.now(),
-    approvedByName: a.name, approvedAt: Date.now(), approvalNote: note?.trim() || deleteField(),
-  } as Clearable<PayrollRun> as Partial<PayrollRun>, a, { action: 'payroll.approved', targetType: 'payroll_run' });
+  const ref = tenantDoc(s, 'payroll_runs', id);
+  // Run the read + all guards + write inside one transaction so two approvers
+  // can't both pass the status check and double-approve (or approve a run another
+  // approver just finalized). The transaction re-reads on contention and retries.
+  await runTransaction(db, async (tx) => {
+    const snap = await tx.get(ref);
+    const run = snap.exists() ? (snap.data() as PayrollRun) : undefined;
+    // Guard 1: the run must have been submitted before it can be approved.
+    if (!run || !run.submittedAt) {
+      throw new Error('This pay run has not been submitted for approval yet.');
+    }
+    // Guard 2: it must still be awaiting approval — block re-approving an already
+    // finalized/paid run (the race this transaction is here to prevent).
+    if (run.status !== 'draft') {
+      throw new Error('This pay run has already been approved or paid.');
+    }
+    // Guard 3 (separation of duties): the person who submitted may NOT approve.
+    if (run.submittedByUid && run.submittedByUid === a.uid) {
+      throw new Error("You submitted this pay run, so you can't also approve it. Ask another authorised approver (Principal / VP-Admin) to approve.");
+    }
+    tx.update(ref, stripUndefined({
+      status: 'finalized', finalizedAt: Date.now(),
+      approvedByName: a.name, approvedAt: Date.now(), approvalNote: note?.trim() || deleteField(),
+      lastModifiedAt: Date.now(), lastModifiedBy: a.uid,
+    }));
+  });
+  void writeAuditEvent({ action: 'payroll.approved', schoolId: s, actor: a, targetType: 'payroll_run', targetId: id });
 }
 
 /** Principal/VP-Admin return a submitted run to draft with a reason. */
@@ -365,9 +477,51 @@ export const returnPayrollRun = (s: string, id: string, note: string, a: Actor) 
     approvedByName: deleteField(), approvedAt: deleteField(), approvalNote: note.trim() || deleteField(),
   } as Clearable<PayrollRun> as Partial<PayrollRun>, a, { action: 'payroll.returned', targetType: 'payroll_run' });
 
-/** Accounts disburse an approved (finalized) run → paid. */
-export const markPayrollRunPaid = (s: string, id: string, a: Actor) =>
-  updateIn<PayrollRun>(s, 'payroll_runs', id, { status: 'paid', paidAt: Date.now() }, a, { action: 'payroll.paid', targetType: 'payroll_run' });
+/**
+ * Accounts disburse an approved (finalized) run → paid. Flips the run to `paid`
+ * AND stamps every payslip `status: 'paid'` in atomic `writeBatch`es, so a partial
+ * failure can't leave the run paid with half its payslips still 'generated' (the
+ * old per-slip sequential loop could). Firestore caps a batch at 500 writes, so
+ * the payslips are chunked; the run-status flip rides in the first batch.
+ */
+export async function markPayrollRunPaid(s: string, id: string, a: Actor): Promise<void> {
+  const runRef = tenantDoc(s, 'payroll_runs', id);
+  const runSnap = await getDoc(runRef);
+  const run = runSnap.exists() ? (runSnap.data() as PayrollRun) : undefined;
+  if (!run) throw new Error('This pay run no longer exists.');
+  // Allow re-running when already 'paid' (idempotent) so a previous partial run
+  // — run flipped to paid but a later payslip chunk failed — can finish marking
+  // the remaining payslips. Only block runs that were never approved.
+  if (run.status !== 'finalized' && run.status !== 'paid') {
+    throw new Error('This pay run must be approved before it can be marked paid.');
+  }
+
+  // Only touch payslips that aren't already paid (keeps retries cheap + correct).
+  const slipSnap = await getDocs(query(tenantCol(s, 'payslips'), where('runId', '==', id)));
+  const slipRefs = slipSnap.docs.filter((d) => (d.data() as Payslip).status !== 'paid').map((d) => d.ref);
+
+  const needsRunFlip = run.status !== 'paid';
+  if (!needsRunFlip && slipRefs.length === 0) return; // nothing left to do
+
+  // One write for the run flip + one per straggler payslip. Chunk under the
+  // 500-op batch cap, keeping the run flip in the first batch.
+  const RUN_STATUS = { status: 'paid' as PayrollRunStatus, paidAt: Date.now(), lastModifiedAt: Date.now(), lastModifiedBy: a.uid };
+  const SLIP_STATUS = { status: 'paid' as Payslip['status'], lastModifiedAt: Date.now(), lastModifiedBy: a.uid };
+  const CHUNK = 450; // headroom below 500
+  let index = 0;
+  let flipPending = needsRunFlip;
+  // Loop while there are payslips left OR the run flip still needs its own batch.
+  while (index < slipRefs.length || flipPending) {
+    const batch = writeBatch(db);
+    if (flipPending) { batch.update(runRef, RUN_STATUS); flipPending = false; }
+    const slice = slipRefs.slice(index, index + CHUNK);
+    for (const ref of slice) batch.update(ref, SLIP_STATUS);
+    index += CHUNK;
+    await batch.commit();
+  }
+
+  void writeAuditEvent({ action: 'payroll.paid', schoolId: s, actor: a, targetType: 'payroll_run', targetId: id });
+}
 
 export function usePayslips(schoolId?: string, runId?: string) {
   return useCollection<Payslip>(
@@ -384,6 +538,68 @@ export function useStaffPayslips(schoolId?: string, staffId?: string) {
 /** Payslip doc id = `${runId}_${staffId}`. */
 export const payslipId = (runId: string, staffId: string) => `${runId}_${staffId}`;
 export const savePayslip = (s: string, id: string, d: Omit<Payslip, 'id'>, a: Actor) => setIn(s, 'payslips', id, d, a, { action: 'payslip.generated', targetType: 'payslip', summary: `${d.staffName} · ${d.label}` });
+
+/**
+ * Edit a payslip ONLY while its run is still an editable draft. Once the run is
+ * approved (`finalized`) or `paid`, its figures are locked — silently rewriting a
+ * payslip after sign-off/disbursement is a fraud vector (gross/net could be
+ * altered post-approval). The run status is read in the same transaction as the
+ * write, so the gate can't be raced. Used for the Loss-of-Pay editor.
+ */
+export async function savePayslipGuarded(s: string, runId: string, staffId: string, d: Omit<Payslip, 'id'>, a: Actor): Promise<void> {
+  const runRef = tenantDoc(s, 'payroll_runs', runId);
+  const slipRef = tenantDoc(s, 'payslips', payslipId(runId, staffId));
+  await runTransaction(db, async (tx) => {
+    const runSnap = await tx.get(runRef);
+    const run = runSnap.exists() ? (runSnap.data() as PayrollRun) : undefined;
+    if (run && run.status !== 'draft') {
+      throw new Error('This pay run has been approved/paid, so its payslips are locked and can no longer be edited.');
+    }
+    tx.set(slipRef, { ...stripUndefined(d), schoolId: s, lastModifiedAt: Date.now(), lastModifiedBy: a.uid }, { merge: true });
+  });
+  void writeAuditEvent({ action: 'payslip.generated', schoolId: s, actor: a, targetType: 'payslip', targetId: slipRef.id, summary: `${d.staffName} · ${d.label}` });
+}
+
+/**
+ * Atomically generate a draft payroll run: writes the run doc AND every payslip
+ * together. The OLD flow wrote payslips first in a loop and the run doc last, so a
+ * mid-loop failure orphaned payslips with no run, and the run's totals could be
+ * wrong on retry. Here the run doc (with final totals computed up-front) rides in
+ * the FIRST batch, so the run always exists; payslip ids are deterministic
+ * (`runId_staffId`), so re-running merges/overwrites cleanly (idempotent retry).
+ * Firestore's 500-write batch cap is respected by chunking the payslips.
+ *
+ * `slips` is the already-computed list (id-less) from `computePayslip`, paired
+ * with each staffId so the doc id can be derived.
+ */
+export async function generatePayrollRun(
+  s: string,
+  runId: string,
+  run: Omit<PayrollRun, 'id'>,
+  slips: { staffId: string; data: Omit<Payslip, 'id'> }[],
+  a: Actor,
+): Promise<void> {
+  const runRef = tenantDoc(s, 'payroll_runs', runId);
+  const runDoc = { ...stripUndefined(run), schoolId: s, lastModifiedAt: Date.now(), lastModifiedBy: a.uid };
+  const stamp = { schoolId: s, createdAt: Date.now(), createdBy: a.uid, version: 1, lastModifiedAt: Date.now(), lastModifiedBy: a.uid };
+
+  const CHUNK = 450; // headroom below the 500-op cap
+  let index = 0;
+  let isFirst = true;
+  while (isFirst || index < slips.length) {
+    const batch = writeBatch(db);
+    // Run doc rides in the first batch so the run always exists for retries.
+    if (isFirst) { batch.set(runRef, runDoc, { merge: true }); isFirst = false; }
+    const slice = slips.slice(index, index + CHUNK);
+    for (const sl of slice) {
+      batch.set(tenantDoc(s, 'payslips', payslipId(runId, sl.staffId)), { ...stripUndefined(sl.data), ...stamp }, { merge: true });
+    }
+    index += CHUNK;
+    await batch.commit();
+  }
+
+  void writeAuditEvent({ action: 'payroll.run_saved', schoolId: s, actor: a, targetType: 'payroll_run', targetId: runId, summary: run.label });
+}
 
 /* ---------------- one-shot ---------------- */
 export async function financeQueryOnce<T>(schoolId: string, sub: string, ...c: QueryConstraint[]): Promise<T[]> {

@@ -10,8 +10,8 @@ import { useToast } from '@/components/Toast';
 import { formatINR } from '@/lib/format';
 import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import {
-  useSalaryStructures, usePayrollRuns, savePayrollRun, savePayslip,
-  payrollRunId, payslipId, type Actor,
+  useSalaryStructures, usePayrollRuns, generatePayrollRun,
+  payrollRunId, type Actor,
 } from '@/features/finance/data';
 import { PAYROLL_RUN_PHASE_META, payrollRunPhase, MONTHS, monthLabel } from '@/features/finance/meta';
 import { computePayslip, isStructureActive } from './salarySchema';
@@ -97,19 +97,22 @@ export function RunsTab() {
               return false;
             }
             try {
+              // Compute every payslip up-front, then write the run doc + all
+              // payslips atomically (see generatePayrollRun) so a failure can't
+              // orphan payslips or leave the run with wrong totals; retry is safe.
               let totalGross = 0, totalDeductions = 0, totalNet = 0;
-              for (const s of eligible) {
+              const slips = eligible.map((s) => {
                 const slip = computePayslip(s, { runId: id, month, year, label });
                 totalGross += slip.grossEarnings;
                 totalDeductions += slip.totalDeductions;
                 totalNet += slip.netPay;
-                await savePayslip(schoolId!, payslipId(id, s.staffId), slip, actor);
-              }
+                return { staffId: s.staffId, data: slip };
+              });
               const run: Omit<PayrollRun, 'id'> = {
                 schoolId: schoolId!, month, year, label, status: 'draft',
                 staffCount: eligible.length, totalGross, totalDeductions, totalNet,
               };
-              await savePayrollRun(schoolId!, id, run, actor);
+              await generatePayrollRun(schoolId!, id, run, slips, actor);
               toast.success('Draft run generated', `${label} · ${eligible.length} payslips`);
               setNewOpen(false);
               navigate(`/payroll/runs/${id}`);

@@ -11,7 +11,7 @@ import { useToast } from '@/components/Toast';
 import { formatINR, formatDate } from '@/lib/format';
 import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import {
-  usePurchaseOrder, useGoodsReceipts, createGoodsReceipt, updatePurchaseOrder, deletePurchaseOrder, type Actor,
+  usePurchaseOrder, useGoodsReceipts, recordGoodsReceipt, updatePurchaseOrder, deletePurchaseOrder, type Actor,
 } from '@/features/finance/data';
 import { PO_STATUS_META, GRN_STATUS_META } from '@/features/finance/meta';
 import { docNumber } from './expenseSchema';
@@ -216,7 +216,9 @@ function GoodsReceiptModal({ po, received, schoolId, actor, grnCount, onClose, f
 
     setBusy(true);
     try {
-      await createGoodsReceipt(schoolId, {
+      // Atomic: the GRN doc + the PO update (received qty + status) commit together,
+      // so a failure can't leave received stock with a stale PO status.
+      await recordGoodsReceipt(schoolId, {
         schoolId,
         grnNo: docNumber('GRN', grnCount),
         poId: po.id,
@@ -228,8 +230,7 @@ function GoodsReceiptModal({ po, received, schoolId, actor, grnCount, onClose, f
         receivedByUid: actor.uid,
         receivedByName: actor.name,
         note: note.trim() || undefined,
-      }, actor);
-      await updatePurchaseOrder(schoolId, po.id, { items: updatedItems, status: poStatus }, actor);
+      }, po.id, { items: updatedItems, status: poStatus }, actor);
       toast.success('Goods receipt recorded', allDone ? 'PO fully received' : 'PO partly received');
       onClose();
     } catch { toast.error('Could not record receipt', 'Please try again.'); } finally { setBusy(false); }

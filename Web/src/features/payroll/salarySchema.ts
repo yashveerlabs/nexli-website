@@ -125,8 +125,10 @@ export function daysInMonth(year: number, month: number): number {
 /**
  * Computes a payslip from a salary structure for a given run month, applying
  * `lopDays` Loss-of-Pay. Statutory deductions use India defaults from
- * `@/features/finance/meta` (PF on basic, ESI/PT on gross). LOP reduces net only
- * (statutory figures keep the full-month basis — a sensible default).
+ * `@/features/finance/meta`: PF on basic; ESI/PT on the *earned* (post-LOP) gross.
+ * LOP means days not worked aren't earned, so ESI (0.75% of gross, ≤₹21k ceiling)
+ * and the PT slab must be assessed on what was actually earned this month — using
+ * the full contractual gross would under/over-deduct when there is LOP.
  */
 export function computePayslip(
   s: SalaryStructure,
@@ -146,11 +148,14 @@ export function computePayslip(
   const dim = daysInMonth(ctx.year, ctx.month);
   const lopDays = Math.max(0, Math.min(ctx.lopDays ?? 0, dim));
   const lop = Math.round(perDayRate(grossEarnings, dim) * lopDays);
+  // Earned gross = contractual gross minus the LOP-forfeited amount. ESI/PT are
+  // assessed on this (not the full gross) so deductions track actual earnings.
+  const earnedGross = Math.max(0, grossEarnings - lop);
 
   const deductions: PayslipDeductions = {
     pf: computePF(earnings.basic, s.pfApplicable),
-    esi: computeESI(grossEarnings, s.esiApplicable),
-    pt: computePT(grossEarnings, s.ptApplicable),
+    esi: computeESI(earnedGross, s.esiApplicable),
+    pt: computePT(earnedGross, s.ptApplicable),
     tds: s.tdsMonthly ?? 0,
     lop,
     other: 0,

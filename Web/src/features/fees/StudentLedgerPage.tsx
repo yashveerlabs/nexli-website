@@ -13,7 +13,7 @@ import { formatINR, formatDate } from '@/lib/format';
 import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { useStudents } from '@/features/school/data';
 import {
-  useInvoices, usePayments, useFeeStructures, createInvoice, updateInvoice, cancelInvoice, statusFor, type Actor,
+  useInvoices, usePayments, useFeeStructures, createInvoice, cancelInvoice, applyConcession, type Actor,
 } from '@/features/finance/data';
 import { INVOICE_STATUS_META, STUDENT_FEE_CATEGORY_META, CONCESSION_TYPE_OPTIONS, PAYMENT_METHOD_META } from '@/features/finance/meta';
 import { studentDue, invoiceTotals } from './feeSchema';
@@ -61,7 +61,7 @@ export function StudentLedgerPage() {
     if (!schoolId || !cancelFor) return;
     setBusy(true);
     try { await cancelInvoice(schoolId, cancelFor.id, actor); toast.success('Invoice cancelled'); setCancelFor(null); }
-    catch { toast.error('Could not cancel'); } finally { setBusy(false); }
+    catch (e) { toast.error('Could not cancel', e instanceof Error ? e.message : undefined); } finally { setBusy(false); }
   };
 
   return (
@@ -127,7 +127,11 @@ export function StudentLedgerPage() {
                   {canWrite && inv.status !== 'cancelled' && (
                     <div className="fin-invrow__actions">
                       <Button variant="ghost" size="sm" leftIcon="award" aria-label="Add concession" onClick={() => setConcessionFor(inv)} />
-                      <Button variant="ghost" size="sm" leftIcon="minus-circle" aria-label="Cancel invoice" onClick={() => setCancelFor(inv)} />
+                      {/* A paid/partly-paid invoice can't be cancelled (it would orphan
+                          the receipts); hide the action so it never fails confusingly. */}
+                      {(inv.paidAmount ?? 0) === 0 && (
+                        <Button variant="ghost" size="sm" leftIcon="minus-circle" aria-label="Cancel invoice" onClick={() => setCancelFor(inv)} />
+                      )}
                     </div>
                   )}
                 </div>
@@ -283,17 +287,12 @@ function ConcessionModal({ invoice, onClose, schoolId, actor }: { invoice: FeeIn
     setBusy(true);
     try {
       const line: ConcessionLine = { type, reason: reason.trim() || CONCESSION_TYPE_OPTIONS.find((o) => o.value === type)?.label || 'Concession', amount: amt, approvedByUid: actor.uid, approvedByName: member?.name, approvedAt: Date.now() };
-      const concessions = [...(invoice.concessions ?? []), line];
-      const { grossAmount, concessionAmount, netAmount } = invoiceTotals(invoice.lines, concessions);
-      const paid = invoice.paidAmount ?? 0;
-      await updateInvoice(schoolId, invoice.id, {
-        concessions, grossAmount, concessionAmount, netAmount,
-        dueAmount: Math.max(0, netAmount - paid),
-        status: statusFor(netAmount, paid),
-      }, actor);
+      // Atomic: re-reads the live invoice, caps + floors net at 0, so concurrent
+      // concessions can't be lost or push the net below zero.
+      await applyConcession(schoolId, invoice.id, line, actor);
       toast.success('Concession applied', formatINR(amt));
       onClose(); setReason(''); setAmount(''); setType('need_based');
-    } catch { toast.error('Could not apply concession'); } finally { setBusy(false); }
+    } catch (e) { toast.error('Could not apply concession', e instanceof Error ? e.message : undefined); } finally { setBusy(false); }
   };
 
   return (
@@ -308,7 +307,7 @@ function ConcessionModal({ invoice, onClose, schoolId, actor }: { invoice: FeeIn
           <Field label="Type" required>
             <Select value={type} onChange={(e) => setType(e.target.value as ConcessionType)} options={CONCESSION_TYPE_OPTIONS} />
           </Field>
-          <Field label="Amount (₹)" required><Input type="number" inputMode="numeric" min={0} value={amount} onChange={(e) => setAmount(e.target.value)} placeholder="0" /></Field>
+          <Field label="Amount (₹)" required><Input type="text" inputMode="decimal" value={amount} onChange={(e) => setAmount(e.target.value)} placeholder="0" /></Field>
           <Field label="Reason / approval note" optional><Textarea value={reason} onChange={(e) => setReason(e.target.value)} rows={2} placeholder="Need-based concession approved by Principal" /></Field>
         </>
       )}

@@ -83,7 +83,11 @@ export function CollectPaymentPage() {
       }, actor);
       toast.success('Payment recorded', `${formatINR(amt)} · receipt generated`);
       navigate(`/fees/receipt/${id}`, { state: { justCreated: true } });
-    } catch { toast.error('Could not record payment', 'Please try again.'); } finally { setBusy(false); }
+    } catch (e) {
+      // Surface the data-layer guard message (e.g. overpayment rejected by the
+      // transaction) instead of a generic error, so the cashier knows what to fix.
+      toast.error('Could not record payment', e instanceof Error ? e.message : 'Please try again.');
+    } finally { setBusy(false); }
   };
 
   return (
@@ -112,7 +116,7 @@ export function CollectPaymentPage() {
 
             <div className="grid g-2">
               <Field label="Amount (₹)" required hint={selected ? `Due: ${formatINR(selectedDue)}` : undefined}>
-                <Input type="number" inputMode="numeric" min={0} value={amount} onChange={(e) => setAmount(e.target.value)} placeholder="0" autoFocus />
+                <Input type="text" inputMode="decimal" value={amount} onChange={(e) => setAmount(e.target.value)} placeholder="0" autoFocus />
               </Field>
               <Field label="Date" required><DatePicker value={date} onChange={(e) => setDate(e.target.value)} max={today()} /></Field>
             </div>

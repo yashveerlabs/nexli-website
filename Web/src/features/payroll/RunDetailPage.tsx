@@ -10,11 +10,13 @@ import { useToast } from '@/components/Toast';
 import { formatINR } from '@/lib/format';
 import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import {
-  usePayrollRun, usePayslips, useSalaryStructures, savePayslip, updatePayrollRun,
+  usePayrollRun, usePayslips, useSalaryStructures, savePayslipGuarded, updatePayrollRun,
   submitPayrollRun, approvePayrollRun, returnPayrollRun, markPayrollRunPaid,
-  payslipId, type Actor,
+  type Actor,
 } from '@/features/finance/data';
-import { PAYROLL_RUN_PHASE_META, payrollRunPhase } from '@/features/finance/meta';
+import { PAYROLL_RUN_PHASE_META, payrollRunPhase, computeESI, computePT } from '@/features/finance/meta';
+import { buildPayrollTallyXml, downloadXml } from '@/features/finance/tallyExport';
+import { downloadStatutoryCsv, printStatutorySummary } from './statutoryExport';
 import { computePayslip } from './salarySchema';
 import type { Payslip, PayrollRun } from '@/types/finance';
 
@@ -28,7 +30,7 @@ export function RunDetailPage() {
   const { runId = '' } = useParams();
   const navigate = useNavigate();
   const toast = useToast();
-  const { schoolId, uid, member } = useSession();
+  const { schoolId, uid, member, school } = useSession();
   const { canOperate, isApprover } = useOwnership('payroll');
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
 
@@ -69,13 +71,10 @@ export function RunDetailPage() {
     await updatePayrollRun(schoolId!, runId, patch, actor);
   };
 
-  const runAction = async (fn: () => Promise<void>, okTitle: string, paidSlips = false) => {
+  const runAction = async (fn: () => Promise<void>, okTitle: string) => {
     setBusy(true);
     try {
       await fn();
-      if (paidSlips) {
-        for (const p of sorted) await savePayslip(schoolId!, payslipId(runId, p.staffId), { ...p, status: 'paid' }, actor);
-      }
       toast.success(okTitle, run.label);
       setConfirm(null);
       setReturning(false);
@@ -171,6 +170,20 @@ export function RunDetailPage() {
         )}
       </Panel>
 
+      {sorted.length > 0 && (
+        <Panel title="Exports" sub="Tally &amp; statutory">
+          <p style={{ fontSize: 12.5, color: 'var(--text-muted)', margin: '0 0 12px' }}>
+            Tally XML posts this run's net salary as a Payment voucher (map the ledger names in Tally).
+            The statutory sheet lists per-employee PF / ESI / PT / TDS for challan preparation.
+          </p>
+          <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+            <Button variant="subtle" leftIcon="download" onClick={() => downloadXml(`payroll-${run.label}-tally`, buildPayrollTallyXml([run]))}>Tally XML</Button>
+            <Button variant="subtle" leftIcon="download" onClick={() => downloadStatutoryCsv(run, sorted)}>Statutory CSV</Button>
+            <Button variant="ghost" leftIcon="file-text" onClick={() => { if (!printStatutorySummary({ schoolName: school?.name ?? 'School', run, slips: sorted })) toast.error('Popup blocked', 'Allow popups to print the statutory summary.'); }}>Print statutory summary</Button>
+          </div>
+        </Panel>
+      )}
+
       <LopEditModal
         slip={editing}
         onClose={() => setEditing(null)}
@@ -182,13 +195,15 @@ export function RunDetailPage() {
             const recomputed = struct
               ? computePayslip(struct, { runId, month: run.month, year: run.year, label: run.label, lopDays })
               : recomputeFromExisting(editing, lopDays, run);
-            await savePayslip(schoolId, payslipId(runId, editing.staffId), recomputed, actor);
+            // Guarded write: rejected (in-transaction) if the run is already
+            // approved/paid, so payslips can't be altered after sign-off.
+            await savePayslipGuarded(schoolId, runId, editing.staffId, recomputed, actor);
             const next = sorted.map((s) => (s.staffId === editing.staffId ? { ...recomputed, id: s.id } as Payslip : s));
             await recalcRunTotals(next);
             toast.success('Payslip updated', editing.staffName);
             setEditing(null);
-          } catch {
-            toast.error('Could not update payslip', 'Please try again.');
+          } catch (e) {
+            toast.error('Could not update payslip', e instanceof Error ? e.message : 'Please try again.');
           } finally { setBusy(false); }
         }}
         busy={busy}
@@ -210,7 +225,7 @@ export function RunDetailPage() {
       />
       <ConfirmModal
         open={confirm === 'paid'} onClose={() => setConfirm(null)} icon="wallet"
-        onConfirm={() => runAction(() => markPayrollRunPaid(schoolId!, runId, actor), 'Run marked paid', true)}
+        onConfirm={() => runAction(() => markPayrollRunPaid(schoolId!, runId, actor), 'Run marked paid')}
         tone="gold" loading={busy} confirmLabel="Mark as paid"
         title="Mark run as paid?" message={`Confirm that ${formatINR(run.totalNet)} has been disbursed to ${run.staffCount} staff for ${run.label}.`}
       />
@@ -333,12 +348,23 @@ function LopEditModalInner({ slip, onClose, onSave, busy }: {
   );
 }
 
-/** Fallback recompute (structure missing): scale LOP off the existing gross. */
+/**
+ * Fallback recompute (salary structure deleted): scale LOP off the existing gross
+ * AND re-derive ESI/PT on the earned (post-LOP) gross, mirroring `computePayslip`.
+ * Applicability is inferred from the original slip (a deduction that was > 0 was
+ * applicable); PF/TDS are kept as-is (PF is on basic, not gross-derived).
+ */
 function recomputeFromExisting(slip: Payslip, lopDays: number, run: PayrollRun): Omit<Payslip, 'id'> {
   const dim = new Date(run.year, run.month, 0).getDate();
   const safeLop = Math.max(0, Math.min(lopDays, dim));
-  const lop = Math.round((slip.grossEarnings / dim) * safeLop);
-  const deductions = { ...slip.deductions, lop };
+  const lop = dim > 0 ? Math.round((slip.grossEarnings / dim) * safeLop) : 0;
+  const earnedGross = Math.max(0, slip.grossEarnings - lop);
+  const deductions = {
+    ...slip.deductions,
+    esi: computeESI(earnedGross, (slip.deductions.esi ?? 0) > 0),
+    pt: computePT(earnedGross, (slip.deductions.pt ?? 0) > 0),
+    lop,
+  };
   const totalDeductions = deductions.pf + deductions.esi + deductions.pt + deductions.tds + deductions.lop + deductions.other;
   const { id: _drop, ...rest } = slip;
   void _drop;

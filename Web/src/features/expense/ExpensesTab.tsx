@@ -14,6 +14,7 @@ import { useExpenses, updateExpense, deleteExpense, type Actor } from '@/feature
 import {
   EXPENSE_CATEGORY_META, EXPENSE_CATEGORY_OPTIONS, EXPENSE_STATUS_META,
 } from '@/features/finance/meta';
+import { buildExpensesTallyXml, downloadXml } from '@/features/finance/tallyExport';
 import type { Expense, ExpenseStatus } from '@/types/finance';
 
 const startOfMonth = (d = new Date()) => new Date(d.getFullYear(), d.getMonth(), 1).getTime();
@@ -130,6 +131,7 @@ export function ExpensesTab() {
           options={[{ value: '', label: 'All categories' }, ...EXPENSE_CATEGORY_OPTIONS]} />
         <Select value={status} onChange={(e) => setStatus(e.target.value)} aria-label="Filter by status"
           options={[{ value: '', label: 'All statuses' }, ...(Object.keys(EXPENSE_STATUS_META) as ExpenseStatus[]).map((s) => ({ value: s, label: EXPENSE_STATUS_META[s].label }))]} />
+        <Button variant="subtle" leftIcon="download" onClick={() => rows.length && downloadXml('expenses-tally', buildExpensesTallyXml(rows))} disabled={rows.length === 0} title="Export the listed expenses as a Tally-importable XML">Tally XML</Button>
         {canWrite && <Button variant="gold" leftIcon="plus" onClick={() => navigate('/expense/new')}>Record expense</Button>}
       </div>
     </>

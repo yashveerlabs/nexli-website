@@ -118,7 +118,7 @@ function StructureBody({ mode, heads, grades, onCancel }: {
             {fields.map((f, i) => (
               <div className="fin-itemrow" key={f.id}>
                 <FormSelect<FeeStructureValues> name={`items.${i}.headId`} label={i === 0 ? 'Fee head' : undefined} placeholder="Select head" options={headOptions} />
-                <FormInput<FeeStructureValues> name={`items.${i}.amount`} label={i === 0 ? 'Amount' : undefined} type="number" inputMode="numeric" placeholder="0" />
+                <FormInput<FeeStructureValues> name={`items.${i}.amount`} label={i === 0 ? 'Amount' : undefined} type="text" inputMode="decimal" placeholder="0" />
                 <FormSelect<FeeStructureValues> name={`items.${i}.frequency`} label={i === 0 ? 'Frequency' : undefined} options={FEE_FREQUENCY_OPTIONS} />
                 <div className="fin-itemrow__rm">
                   {fields.length > 1 && (
