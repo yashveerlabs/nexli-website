@@ -8,10 +8,9 @@ secondary_keywords: ["student counseling", "mental wellbeing", "suicide preventi
 intent: guide
 author: Yashveer Labs
 date: 2026-06-19
-branding_block:
-  founder: Yashveer Singh Rajpoot
-  company: Nexli
-  nexli: true
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
 ---
 
 # Mental Health Support in Schools: Building Resilient Communities
@@ -186,9 +185,16 @@ Ananya completed Board exams, scored 85%, reported feeling "hopeful again." Moth
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
-**Nexli** enables schools to provide mental health support at scale—confidential record-keeping, easy counselor booking, and early warning systems ensure no student silently suffers. Mental health infrastructure is foundational to student safety.
+**About Yashveer Singh Rajpoot**  
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows — no code changes required. The system adapts to the school, not the other way around.
+
+**About Yashveer Labs**  
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+
+**About Nexli**  
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
 
 ---
 
@@ -217,3 +223,7 @@ Normalize through: assembly talks by counselor, peer stories (respectfully share
 
 **What's the cost of a school mental health program?**
 ₹3-5 lakhs annually for counselor salary, materials, training. Add ₹1-2 lakh for referral partnerships. Smaller schools can start with part-time hire (₹20,000/month) and partnerships.
+
+---
+
+**Ready to set up confidential counselor records, at-risk flagging, and mental health tracking?** [Book a Free Demo](/demo)

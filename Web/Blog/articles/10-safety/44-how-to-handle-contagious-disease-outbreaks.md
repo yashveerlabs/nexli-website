@@ -8,10 +8,9 @@ secondary_keywords: ["epidemic response", "infection control", "quarantine proto
 intent: guide
 author: Yashveer Labs
 date: 2026-06-19
-branding_block:
-  founder: Yashveer Singh Rajpoot
-  company: Nexli
-  nexli: true
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
 ---
 
 # Handling Contagious Disease Outbreaks: Preparation and Response
@@ -264,9 +263,16 @@ No additional cases emerged. Exposed students remained well. School never needed
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
-**Nexli** transforms schools from outbreak vectors into outbreak responders. Real-time symptom tracking, automated exposure mapping, and coordinated parent communication turn disease surveillance from manual chaos into systematic control.
+**About Yashveer Singh Rajpoot**  
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows — no code changes required. The system adapts to the school, not the other way around.
+
+**About Yashveer Labs**  
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+
+**About Nexli**  
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
 
 ---
 
@@ -295,3 +301,7 @@ Yes. RTE includes health requirements. Mandatory for entry: DPT, polio, MMR, hep
 
 **What if a student refuses to isolate and returns to school?**
 Parents decide. Document parental decision. If severe risk (e.g., student with tuberculosis), involve education department and health authorities. School can enforce quarantine only with official health authority order.
+
+---
+
+**Ready to track illness patterns, coordinate parent communication, and manage outbreak protocols digitally?** [Book a Free Demo](/demo)
