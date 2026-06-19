@@ -6,8 +6,10 @@ import { EmptyState } from '@/components/feedback';
 import { useSession } from '@/app/providers/SessionProvider';
 import { PurposesTab } from './PurposesTab';
 import { RecordsTab } from './RecordsTab';
+import { ErasureTab } from './ErasureTab';
+import { BreachTab } from './BreachTab';
 
-type TabId = 'purposes' | 'records';
+type TabId = 'purposes' | 'records' | 'erasure' | 'breach';
 
 /** Privacy & Consent (DPDP) hub — purpose catalogue + per-student consent records. */
 export function ConsentHub() {
@@ -45,12 +47,16 @@ export function ConsentHub() {
           tabs={[
             { id: 'purposes', label: 'Purposes', icon: 'shield-check' },
             { id: 'records', label: 'Consent records', icon: 'users' },
+            { id: 'erasure', label: 'Erasure requests', icon: 'minus-circle' },
+            { id: 'breach', label: 'Breach register', icon: 'alert-triangle' },
           ]}
         >
           {(active) => (
             <>
               {active === 'purposes' && <PurposesTab />}
               {active === 'records' && <RecordsTab />}
+              {active === 'erasure' && <ErasureTab />}
+              {active === 'breach' && <BreachTab />}
             </>
           )}
         </Tabs>

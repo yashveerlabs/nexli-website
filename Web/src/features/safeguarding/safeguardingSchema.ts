@@ -1,4 +1,5 @@
 import { z } from 'zod';
+import dayjs from 'dayjs';
 import type { PocsoCase, Grievance } from '@/types/compliance';
 
 /* ============================================================================
@@ -95,4 +96,57 @@ export function isGrievanceOverdue(g: Grievance): boolean {
   if (!g.dueAt) return false;
   if (g.status === 'resolved' || g.status === 'closed') return false;
   return g.dueAt < Date.now();
+}
+
+/* ---------------------- POCSO s.19 mandatory reporting -------------------- */
+
+/**
+ * POCSO Act s.19 requires a person who apprehends an offence to report it without
+ * delay; we operationalise this as a 24-hour clock from when the concern was
+ * logged. A case is "reporting overdue" once that window passes and the matter has
+ * not yet been recorded as reported to the authorities.
+ */
+export const POCSO_REPORTING_WINDOW_MS = DAY; // 24h
+
+/** Derive the reporting deadline for a case (falls back to reportedAt + 24h for legacy rows). */
+export function pocsoReportingDeadline(c: Pick<PocsoCase, 'reportingDeadline' | 'reportedAt'>): number {
+  return c.reportingDeadline ?? c.reportedAt + POCSO_REPORTING_WINDOW_MS;
+}
+
+/** True once the case has been recorded as reported to the authorities. */
+export function isPocsoReported(c: Pick<PocsoCase, 'reportedToAuthoritiesAt'>): boolean {
+  return typeof c.reportedToAuthoritiesAt === 'number';
+}
+
+/** True when the 24-hour reporting window has elapsed and the case is not yet reported. */
+export function isPocsoReportingOverdue(
+  c: Pick<PocsoCase, 'reportingDeadline' | 'reportedAt' | 'reportedToAuthoritiesAt'>,
+  now: number = Date.now(),
+): boolean {
+  if (isPocsoReported(c)) return false;
+  return pocsoReportingDeadline(c) < now;
+}
+
+/**
+ * Human countdown to (or overdue-by from) the reporting deadline, e.g.
+ * "18h 42m left" / "Overdue by 3h 5m". Returns `null` once reported.
+ */
+export function pocsoReportingCountdown(
+  c: Pick<PocsoCase, 'reportingDeadline' | 'reportedAt' | 'reportedToAuthoritiesAt'>,
+  now: number = Date.now(),
+): { text: string; overdue: boolean } | null {
+  if (isPocsoReported(c)) return null;
+  const deadline = pocsoReportingDeadline(c);
+  const overdue = deadline < now;
+  const diffMs = Math.abs(deadline - now);
+  const totalMin = Math.floor(diffMs / 60000);
+  const h = Math.floor(totalMin / 60);
+  const m = totalMin % 60;
+  const parts = h > 0 ? `${h}h ${m}m` : `${m}m`;
+  return { text: overdue ? `Overdue by ${parts}` : `${parts} left`, overdue };
+}
+
+/** Absolute deadline label, e.g. "19 Jun 2026, 4:30 PM". */
+export function pocsoDeadlineLabel(c: Pick<PocsoCase, 'reportingDeadline' | 'reportedAt'>): string {
+  return dayjs(pocsoReportingDeadline(c)).format('D MMM YYYY, h:mm A');
 }

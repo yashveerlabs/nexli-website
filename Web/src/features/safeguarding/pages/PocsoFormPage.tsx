@@ -8,24 +8,21 @@ import { Form, FormSelect, FormTextarea, FormPage, FormSection } from '@/compone
 import { useToast } from '@/components/Toast';
 import { useSession } from '@/app/providers/SessionProvider';
 import { useStudents } from '@/features/school/data';
-import { usePocsoCases, createPocsoCase } from '@/features/compliance/data';
 import { ConfidentialBanner } from '../components/Confidential';
+import { createPocsoCaseAtomic } from '../safeguardingData';
 import { POCSO_SEVERITY_OPTIONS, POCSO_REPORTER_ROLE_OPTIONS } from '../meta';
 import {
   pocsoCaseSchema,
   emptyPocsoCase,
   formToPocsoCase,
-  safeguardingNumber,
   type PocsoCaseValues,
 } from '../safeguardingSchema';
-import type { PocsoCase } from '@/types/compliance';
 
 /** Dedicated page to report a new POCSO concern (CPO + principal only). */
 export function PocsoFormPage() {
   const navigate = useNavigate();
   const toast = useToast();
   const { schoolId, uid, member, role, can } = useSession();
-  const { data: cases } = usePocsoCases(schoolId);
   const { data: students } = useStudents(schoolId);
 
   const back = () => navigate('/safeguarding');
@@ -78,17 +75,13 @@ export function PocsoFormPage() {
         onSubmit={async (values) => {
           try {
             const base = formToPocsoCase(values);
-            const caseNo = safeguardingNumber('PC', cases.length);
-            const payload: Omit<PocsoCase, 'id'> = {
-              ...base,
+            // Atomic per-year counter => the human-readable caseNo is unique even
+            // if two CPOs open a case simultaneously (was a client-count collision).
+            const { id, caseNo } = await createPocsoCaseAtomic(
               schoolId,
-              caseNo,
-              reportedAt: Date.now(),
-              status: 'reported',
-              confidential: true,
-              reportedByRole: base.reportedByRole || role || undefined,
-            };
-            const id = await createPocsoCase(schoolId, payload, actor);
+              { ...base, reportedByRole: base.reportedByRole || role || undefined },
+              actor,
+            );
             toast.success('Case opened', caseNo);
             navigate(`/safeguarding/pocso/${id}`);
           } catch {

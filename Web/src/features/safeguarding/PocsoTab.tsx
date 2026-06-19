@@ -16,6 +16,12 @@ import {
   POCSO_STATUS_OPTIONS,
   POCSO_SEVERITY_OPTIONS,
 } from './meta';
+import {
+  isPocsoReportingOverdue,
+  isPocsoReported,
+  pocsoReportingCountdown,
+} from './safeguardingSchema';
+import { useNow } from './useNow';
 import type { PocsoCase } from '@/types/compliance';
 
 const OPEN_STATUSES = new Set(['reported', 'under_inquiry', 'committee_review', 'referred']);
@@ -26,20 +32,22 @@ export function PocsoTab() {
   const { schoolId, can } = useSession();
   const canWrite = can('pocso.write');
   const { data: cases, loading, error } = usePocsoCases(schoolId);
+  const now = useNow();
 
   const [status, setStatus] = useState('');
   const [severity, setSeverity] = useState('');
   const [view, setView] = useState('open'); // open | all | closed
 
   const kpis = useMemo(() => {
-    let open = 0, critical = 0, closed = 0;
+    let open = 0, critical = 0, closed = 0, reportingOverdue = 0;
     for (const c of cases) {
       if (c.status === 'closed') closed++;
       else open++;
       if ((c.severity === 'critical' || c.severity === 'high') && c.status !== 'closed') critical++;
+      if (c.status !== 'closed' && isPocsoReportingOverdue(c, now)) reportingOverdue++;
     }
-    return { open, critical, closed };
-  }, [cases]);
+    return { open, critical, closed, reportingOverdue };
+  }, [cases, now]);
 
   const rows = useMemo(() => {
     return cases
@@ -69,8 +77,27 @@ export function PocsoTab() {
           format="us"
           subColor={kpis.critical ? 'var(--danger)' : undefined}
         />
+        <KPICard
+          icon="clock"
+          label="Reporting overdue"
+          count={kpis.reportingOverdue}
+          format="us"
+          subColor={kpis.reportingOverdue ? 'var(--danger)' : 'var(--success)'}
+          sub={kpis.reportingOverdue ? 'past POCSO s.19 24h' : 'within SLA'}
+        />
         <KPICard icon="check-circle" label="Closed" count={kpis.closed} format="us" />
       </div>
+
+      {kpis.reportingOverdue > 0 && (
+        <div className="sg-alert" role="alert">
+          <Icon name="alert-triangle" size={16} aria-hidden="true" />
+          <span>
+            <strong>{kpis.reportingOverdue}</strong> open case
+            {kpis.reportingOverdue === 1 ? ' is' : 's are'} past the <strong>POCSO s.19</strong> 24-hour
+            mandatory-reporting window and not yet recorded as reported to the authorities.
+          </span>
+        </div>
+      )}
 
       <div className="nx-toolbar">
         <Select
@@ -131,7 +158,7 @@ export function PocsoTab() {
       ) : (
         <div className="fin-kv-list" style={{ gap: 10 }}>
           {rows.map((c) => (
-            <PocsoRow key={c.id} c={c} onOpen={() => navigate(`/safeguarding/pocso/${c.id}`)} />
+            <PocsoRow key={c.id} c={c} now={now} onOpen={() => navigate(`/safeguarding/pocso/${c.id}`)} />
           ))}
         </div>
       )}
@@ -139,10 +166,13 @@ export function PocsoTab() {
   );
 }
 
-function PocsoRow({ c, onOpen }: { c: PocsoCase; onOpen: () => void }) {
+function PocsoRow({ c, now, onOpen }: { c: PocsoCase; now: number; onOpen: () => void }) {
   const sev = POCSO_SEVERITY_META[c.severity];
   const st = POCSO_STATUS_META[c.status];
   const isOpen = OPEN_STATUSES.has(c.status);
+  const reported = isPocsoReported(c);
+  // Only run the reporting clock for cases that are still open.
+  const countdown = isOpen ? pocsoReportingCountdown(c, now) : null;
   return (
     <button type="button" className="sg-row" onClick={onOpen} aria-label={`Open case ${c.caseNo}`}>
       <div className="sg-row__main">
@@ -159,9 +189,20 @@ function PocsoRow({ c, onOpen }: { c: PocsoCase; onOpen: () => void }) {
               <span>Referred: {c.referredTo}</span>
             </>
           ) : null}
+          {reported ? (
+            <span className="sg-reported">
+              <Icon name="check-circle" size={11} aria-hidden="true" /> Reported to authorities
+            </span>
+          ) : countdown ? (
+            <span className={countdown.overdue ? 'sg-overdue' : 'sg-sla'}>
+              <Icon name="clock" size={11} aria-hidden="true" />{' '}
+              {countdown.overdue ? `s.19 ${countdown.text}` : `Report: ${countdown.text}`}
+            </span>
+          ) : null}
         </div>
       </div>
       <div className="sg-row__badges">
+        {countdown?.overdue && <Badge variant="danger">Overdue</Badge>}
         <Badge variant={sev.variant}>{sev.label}</Badge>
         <Badge variant={st.variant}>{st.label}</Badge>
       </div>

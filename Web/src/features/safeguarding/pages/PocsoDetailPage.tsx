@@ -6,12 +6,19 @@ import { Badge } from '@/components/Badge';
 import { Icon } from '@/components/Icon';
 import { Skeleton, EmptyState } from '@/components/feedback';
 import { Field, Select, Textarea } from '@/components/form';
-import { ConfirmModal } from '@/components/Modal';
+import { Modal, ConfirmModal } from '@/components/Modal';
 import { useToast } from '@/components/Toast';
 import { formatDate, formatRelative } from '@/lib/format';
 import { useSession } from '@/app/providers/SessionProvider';
 import { usePocsoCase, updatePocsoCase } from '@/features/compliance/data';
 import { ConfidentialBanner } from '../components/Confidential';
+import { markPocsoReported } from '../safeguardingData';
+import { useNow } from '../useNow';
+import {
+  pocsoReportingCountdown,
+  pocsoDeadlineLabel,
+  isPocsoReported,
+} from '../safeguardingSchema';
 import {
   POCSO_SEVERITY_META,
   POCSO_STATUS_META,
@@ -29,6 +36,7 @@ export function PocsoDetailPage() {
   const canRead = can('pocso.read');
   const canWrite = can('pocso.write');
   const { data: c, loading } = usePocsoCase(schoolId, canRead ? id : undefined);
+  const now = useNow();
 
   const back = () => navigate('/safeguarding');
   const actor = { uid: uid ?? 'unknown', name: member?.name };
@@ -40,6 +48,9 @@ export function PocsoDetailPage() {
   const [nextStatus, setNextStatus] = useState<PocsoStatus | ''>('');
   const [saving, setSaving] = useState(false);
   const [confirmClose, setConfirmClose] = useState(false);
+  // POCSO s.19 mandatory-reporting capture.
+  const [reportOpen, setReportOpen] = useState(false);
+  const [reportAuthority, setReportAuthority] = useState('');
 
   useEffect(() => {
     if (c) {
@@ -102,6 +113,9 @@ export function PocsoDetailPage() {
   const st = POCSO_STATUS_META[c.status];
   const transitions = POCSO_NEXT[c.status];
   const isClosed = c.status === 'closed';
+  const reported = isPocsoReported(c);
+  const countdown = pocsoReportingCountdown(c, now); // null once reported
+  const deadlineTone = reported ? 'done' : countdown?.overdue ? 'overdue' : 'ok';
 
   const persist = async (patch: Partial<PocsoCase>, successMsg: string) => {
     setSaving(true);
@@ -152,6 +166,20 @@ export function PocsoDetailPage() {
     setNextStatus('');
   };
 
+  const recordReported = async () => {
+    setSaving(true);
+    try {
+      await markPocsoReported(schoolId, c.id, reportAuthority.trim(), actor);
+      toast.success('Reporting recorded', c.caseNo);
+      setReportOpen(false);
+      setReportAuthority('');
+    } catch {
+      toast.error('Could not save', 'Please try again.');
+    } finally {
+      setSaving(false);
+    }
+  };
+
   return (
     <div className="nx-page">
       <div className="nx-page__head" style={{ alignItems: 'flex-start' }}>
@@ -173,6 +201,40 @@ export function PocsoDetailPage() {
       </div>
 
       <ConfidentialBanner />
+
+      {/* POCSO s.19 — mandatory reporting clock + record control */}
+      <div className={`sg-deadline sg-deadline--${deadlineTone}`} role={countdown?.overdue ? 'alert' : 'note'}>
+        <span className="sg-deadline__icon">
+          <Icon name={reported ? 'check-circle' : 'clock'} size={18} aria-hidden="true" />
+        </span>
+        <div className="sg-deadline__body">
+          {reported ? (
+            <>
+              <div className="sg-deadline__title">
+                Reported to authorities{c.reportedToAuthority ? ` — ${c.reportedToAuthority}` : ''}
+              </div>
+              <div className="sg-deadline__sub">
+                {c.reportedToAuthoritiesAt ? `Recorded ${formatDate(c.reportedToAuthoritiesAt)}` : ''}
+              </div>
+            </>
+          ) : (
+            <>
+              <div className="sg-deadline__title">
+                POCSO s.19 reporting {countdown?.overdue ? 'OVERDUE' : 'due'}
+                {countdown ? ` — ${countdown.text}` : ''}
+              </div>
+              <div className="sg-deadline__sub">
+                Mandatory report due by {pocsoDeadlineLabel(c)} (24h from when the concern was logged).
+              </div>
+            </>
+          )}
+        </div>
+        {canWrite && !reported && (
+          <Button variant={countdown?.overdue ? 'gold' : 'subtle'} size="sm" leftIcon="check" onClick={() => setReportOpen(true)}>
+            Record reporting
+          </Button>
+        )}
+      </div>
 
       <div className="sg-detail-grid">
         <Panel title="Case file">
@@ -284,6 +346,40 @@ export function PocsoDetailPage() {
         message={`Case ${c.caseNo} will be marked closed. This records a closure date and cannot be advanced further.`}
         confirmLabel="Close case"
       />
+
+      <Modal
+        open={reportOpen}
+        onClose={() => setReportOpen(false)}
+        icon="shield"
+        tone="gold"
+        title="Record mandatory reporting"
+        description="POCSO s.19 requires reporting an apprehended offence to the authorities without delay."
+        size="md"
+        dismissible={!saving}
+        footer={
+          <>
+            <Button variant="ghost" onClick={() => setReportOpen(false)} disabled={saving}>
+              Cancel
+            </Button>
+            <Button variant="gold" leftIcon="check" loading={saving} onClick={recordReported}>
+              Record
+            </Button>
+          </>
+        }
+      >
+        <Field label="Reported to" hint="Who the matter was reported to (e.g. SJPU / police / CWC).">
+          <Select
+            value={reportAuthority}
+            onChange={(e) => setReportAuthority(e.target.value)}
+            placeholder="Select an authority"
+            options={POCSO_REFERRAL_OPTIONS}
+          />
+        </Field>
+        <p style={{ fontSize: 12.5, color: 'var(--text-muted)', marginTop: 8 }}>
+          This stamps the case with the current date and time as the reporting record. It does not transmit
+          anything externally.
+        </p>
+      </Modal>
     </div>
   );
 }
