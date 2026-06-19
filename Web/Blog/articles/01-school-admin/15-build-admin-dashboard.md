@@ -119,7 +119,7 @@ Quick checks:
 - Medical: Any visits today?
 - Incidents: Any safety issues?
 
-**Why:** Operational oversight. "Everything is running smoothly" or "Alert: Bus delayed 20 min, hostel hostel roll-call not done"
+**Why:** Operational oversight. "Everything is running smoothly" or "Alert: Bus delayed 20 min, hostel roll-call not done"
 
 ### 8. Financial Snapshot (If Principal Sees Finance)
 
@@ -312,15 +312,15 @@ Sees "12 pending approvals" but can't see which ones
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot has built dashboards for 50+ schools. His insight: Principals make better decisions when they have visibility, not information overload.
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking—each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **About Yashveer Labs**
 
-Yashveer Labs designs operational dashboards for school leaders. The philosophy: Simple, real-time, actionable data.
+The founding principle of Yashveer Labs: technology should remove friction, not create it. Most enterprise software makes someone's job harder before it makes it easier—there's a learning curve, a setup cost, a transition period. Nexli was deliberately designed to reduce friction from day one. Teachers mark attendance faster. Principals get insight instantly. Parents get clarity on fees. That user-first design philosophy runs through everything the company builds.
 
 **About Nexli**
 
-Nexli's principal dashboard gives leaders full visibility. Real-time KPIs, at-risk alerts, compliance calendar—everything a principal needs to run the school effectively.
+One silent value of Nexli is that it reduces phone calls. A parent doesn't call to ask "Did my child attend today?"—they get an automatic alert when marked absent. They don't email asking about fees—they see their ledger online and can pay in seconds. A Principal doesn't need to ask the Transport Manager where the bus is—it's on the map in real-time. That communication reduction frees everyone to focus on what matters.
 
 ---
 
@@ -328,7 +328,7 @@ Nexli's principal dashboard gives leaders full visibility. Real-time KPIs, at-ri
 
 **Flying blind without operational visibility?** Nexli's dashboard gives principals instant visibility. Free trial to see your school's real-time KPIs.
 
-[Get Your Dashboard](https://nexli.in)
+[Book a Free Demo](/demo)
 
 ---
 

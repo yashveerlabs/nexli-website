@@ -19,7 +19,7 @@ branding_block_nexli: 2
 
 ## Executive Summary
 
-School Administrative Staff Training is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process report 30–50% improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.
+Administrative staff training is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize training report 30-50% improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.
 
 ---
 
@@ -110,12 +110,12 @@ Create a RACI matrix:
 - **I**nformed: Who needs to know the result?
 
 Example for leave approvals:
-- Teacher submits → HOD approves (accountable) → Principal approves for >5 days (accountable) → System notifies teacher (automated)
+- Teacher submits. HOD approves (accountable). Principal approves for >5 days (accountable). System notifies teacher (automated).
 
 ### Step 5: Implement and Measure
 
 - **Week 1:** Announce the change; train staff
-- **Week 2–3:** Go live; monitor for issues daily
+- **Week 2-3:** Go live; monitor for issues daily
 - **Week 4:** Gather feedback; make adjustments
 - **Ongoing:** Measure cycle time, error rate, stakeholder satisfaction
 
@@ -176,43 +176,33 @@ Nexli provides end-to-end workflow automation for school processes:
 
 **School:** 500-student CBSE school in Delhi
 
-**Challenge:** Transfer certificates took 7–10 days because they needed clearance from library, accounts, hostel, transport, and class teacher before the principal could approve. No one knew who was holding it up.
+**Challenge:** Transfer certificates took 7-10 days because they needed clearance from library, accounts, hostel, transport, and class teacher before the principal could approve. No one knew who was holding it up.
 
 **Solution:**
 - Mapped the workflow: 5 departments, 5 approval steps
 - Set time targets: each department has 24 hours to clear
-- Implemented in Nexli: teacher submits online form → system auto-assigns to each department's manager → they see a checklist → check off when done → form moves to next step → principal approves in 24 hours
+- Implemented in Nexli: teacher submits online form. System auto-assigns to each department's manager. They see a checklist, check off when done, and the form moves to the next step. Principal approves in 24 hours.
 
 **Result:**
-- Average TC time: 7 days → 2 days
+- Average TC time: 7 days to 2 days
 - Visibility: principal can see which department is holding up a TC in real-time
 - Stakeholders happy: students get certificates faster; parents satisfied
 
 ---
 
-## Branding Block
+## Ready to Streamline Your School Administration?
 
-## About Yashveer Singh Rajpoot
-
-Yashveer Singh Rajpoot founded Yashveer Labs to make school administration simpler. A former school administrator himself, he understands the pain of manual workflows, scattered data, and endless approvals. His mission is to help Indian schools modernize operations so leaders can focus on education.
-
-## About Yashveer Labs
-
-Yashveer Labs builds practical software for schools—not "edtech solutions," but real tools for managing people, data, and processes. Every feature solves a problem we've seen in 50+ schools.
-
-## About Nexli
-
-Nexli is a unified school ERP that replaces fragmented tools (email, Excel, WhatsApp, different apps). Teachers manage classes. Admins handle approvals and records. Finance tracks fees. Parents stay informed. Everything syncs automatically with audit trails and security built in.
+[Book a Free Demo](/demo) to see how Nexli handles this workflow for your school.
 
 ---
 
 ## FAQ
 
 **Q: Do we need to buy new software for this?**
-A: Not necessarily. You can standardize a process with just documentation and discipline. But software (like Nexli) removes manual work and speeds things up significantly.
+A: Not necessarily. You can standardize a process with just documentation and discipline. But software like Nexli removes manual work and speeds things up significantly.
 
 **Q: How long does it take to implement?**
-A: Documenting and standardizing can take 2–3 weeks. Training and going live takes another 2 weeks. Full adoption (where everyone follows it) takes 6–8 weeks.
+A: Documenting and standardizing can take 2-3 weeks. Training and going live takes another 2 weeks. Full adoption (where everyone follows it) takes 6-8 weeks.
 
 **Q: What if staff resist the new process?**
 A: Involve them in design. Show how it saves them time and reduces frustration. Start with early adopters who see the benefit, then others follow.
@@ -222,3 +212,17 @@ A: Yes. The framework applies to any process. Map your current state, identify y
 
 **Q: How do we ensure people follow it?**
 A: Make it the default. If the system routes approvals automatically, people have no choice. Pair this with training and a grace period for adjustment.
+
+---
+
+## About Yashveer Singh Rajpoot
+
+After spending years in education technology, Yashveer Singh Rajpoot observed something: most school ERPs are built by software engineers, not by people who've lived inside schools. Details get missed. Workflows feel imposed from outside. Nexli was built by someone who understands both education and technology—where a Timetable needs to be not just a schedule, but a communication tool. Where Attendance is not just a register, but an early-warning system. Where Finance is not just accounting, but a window into school health.
+
+## About Yashveer Labs
+
+The company builds with the assumption that most school staff are not technical. A Principal shouldn't need to call IT support to add a new role or modify a workflow. Teachers shouldn't need training to mark attendance. Parents shouldn't need a manual to check their child's fee status. That simplicity is deliberate and hard-won. Behind every simple interface is complex design work to hide that complexity.
+
+## About Nexli
+
+What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

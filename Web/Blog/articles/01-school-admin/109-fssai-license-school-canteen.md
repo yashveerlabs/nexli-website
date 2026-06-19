@@ -19,7 +19,7 @@ branding_block_nexli: 5
 
 ## Executive Summary
 
-FSSAI (Food Safety and Standards Authority of India) license is mandatory for all school canteens and food service operations. Schools with FSSAI compliance and food safety programs report zero foodborne illness incidents and 100% inspection approval rates. This article walks through the licensing process, documentation, and maintenance requirements.
+FSSAI license for school canteens is mandatory under the Food Safety and Standards Act, 2006. Every school that serves food to students — whether in-house or through a catering arrangement — must obtain and maintain this license. Schools with FSSAI compliance and food safety programs report zero foodborne illness incidents and consistent inspection approval. This article walks through the licensing process, required documentation, and ongoing maintenance requirements.
 
 ---
 
@@ -50,18 +50,18 @@ FSSAI License is official authorization to operate a food service business (like
 
 **Who needs it:**
 - Small food operations
-- School canteens with <10 staff
+- School canteens with under 10 staff
 - Single-location operations
 
 **Eligibility:**
-- Annual food production value <5 lakhs
+- Annual food production value under Rs. 5 lakhs
 - No chemical/additive processing
 
 **Validity:** 5 years
 
-**Cost:** ₹500–₹1,500
+**Cost:** Rs. 500-Rs. 1,500
 
-**Processing time:** 10–15 days
+**Processing time:** 10-15 days
 
 ### 2. Central License (FSSAI Central)
 
@@ -71,21 +71,21 @@ FSSAI License is official authorization to operate a food service business (like
 - Food production/processing units
 
 **Eligibility:**
-- Annual food production value >5 lakhs
+- Annual food production value above Rs. 5 lakhs
 - Import/export of food
 - Multi-state operations
 
 **Validity:** 5 years
 
-**Cost:** ₹2,000–₹5,000
+**Cost:** Rs. 2,000-Rs. 5,000
 
-**Processing time:** 20–30 days
+**Processing time:** 20-30 days
 
 ---
 
 ## Step-by-Step: Obtaining FSSAI License
 
-### Step 1: Pre-Application Preparation (2–3 weeks before)
+### Step 1: Pre-Application Preparation (2-3 weeks before)
 
 **Actions:**
 
@@ -112,9 +112,9 @@ FSSAI License is official authorization to operate a food service business (like
    - Photo ID of school administrator
 
 4. **Complete food handler training:**
-   - Principal, canteen manager, and staff must complete FSSAI-recognized food handler training (online, typically 20–30 minutes)
+   - Principal, canteen manager, and staff must complete FSSAI-recognized food handler training (online, typically 20-30 minutes)
    - Obtain training certificate
-   - Training link: https://www.foodsafetytraining.fssai.gov.in
+   - Training available at: https://www.foodsafetytraining.fssai.gov.in
 
 ### Step 2: Online Application (FSSAI Portal)
 
@@ -141,13 +141,13 @@ FSSAI License is official authorization to operate a food service business (like
 
 5. Review and submit application
 
-6. Pay application fee online (₹500–₹1,500 for Basic, ₹2,000+ for Central)
+6. Pay application fee online (Rs. 500-Rs. 1,500 for Basic, Rs. 2,000+ for Central)
 
 7. Receive application reference number (track online)
 
 **Processing status:** Check online using reference number
 
-### Step 3: FSSAI Inspection (10–20 days after application)
+### Step 3: FSSAI Inspection (10-20 days after application)
 
 **Inspector visits canteen to verify:**
 
@@ -195,12 +195,12 @@ FSSAI License is official authorization to operate a food service business (like
 - Staff uniforms (provide aprons, caps)
 - Pest control (hire pest control service)
 
-**Timeline if fixes needed:** 5–10 days
+**Timeline if fixes needed:** 5-10 days
 
 ### Step 5: License Issuance
 
 **After inspection approved:**
-- FSSAI issues official license (typically within 5–7 days)
+- FSSAI issues official license (typically within 5-7 days)
 - License is sent digitally + physical copy
 - License is valid for 5 years
 
@@ -216,7 +216,7 @@ FSSAI License is official authorization to operate a food service business (like
 - Apply for renewal 3 months before expiry
 - Submit same application + documents
 - Inspection again (similar to new license)
-- Renewal process: 15–30 days
+- Renewal process: 15-30 days
 - Renewed license issued
 
 ---
@@ -256,7 +256,7 @@ FSSAI License is official authorization to operate a food service business (like
 - **Staff hygiene:** Handwashing before handling food, wearing aprons/caps
 - **Food storage:** Raw and cooked foods separated, perishables refrigerated
 - **Cleanliness:** Utensils washed, kitchen cleaned after each meal
-- **Temperature monitoring:** Record refrigerator temperature daily (should be <4°C)
+- **Temperature monitoring:** Record refrigerator temperature daily (should be under 4°C)
 
 ### Weekly Practices
 
@@ -267,7 +267,7 @@ FSSAI License is official authorization to operate a food service business (like
 
 ### Monthly Practices
 
-- **Training:** Brief staff on food safety (15–30 minutes)
+- **Training:** Brief staff on food safety (15-30 minutes)
 - **Record review:** Check cleaning logs, maintenance records
 - **Supplier audit:** Verify vendors continue to meet standards
 - **Health checkup:** Staff health screening (no infections)
@@ -302,27 +302,27 @@ Nexli's compliance calendar helps track FSSAI requirements.
 
 **Features:**
 - **License tracking:** Log FSSAI license number, expiry date, renewal schedule
-- **Compliance calendar:** Auto-alerts 90 days before license expiry ("Renew FSSAI license — Application deadline in 60 days")
+- **Compliance calendar:** Auto-alerts 90 days before license expiry ("Renew FSSAI license: Application deadline in 60 days")
 - **Documentation storage:** Upload license certificate, inspection reports, food handler certificates
 - **Daily logs:** Digital maintenance log (temperature checks, cleaning, inspections)
 - **Vendor management:** Track food suppliers and their certifications
 - **Incident reporting:** Log any food-related incidents; auto-alert if foodborne illness suspected
 
 **Real-world impact:**
-- License renewals missed: 10% → 0%
-- Documentation time: 2–3 hours → 15 minutes (auto-generated reports)
-- Compliance violations during inspection: 30% → <5%
-- Foodborne illness incidents: Variable → Systematic tracking prevents recurrence
+- License renewals missed: 10% to 0%
+- Documentation time: 2-3 hours to 15 minutes (auto-generated reports)
+- Compliance violations during inspection: 30% to under 5%
+- Foodborne illness incidents: Systematic tracking prevents recurrence
 
 ---
 
 ## FAQ: FSSAI License Questions
 
 **Q: How much does FSSAI license cost?**
-A: ₹500–₹1,500 for Basic license, ₹2,000–₹5,000 for Central license. One-time payment for 5-year validity.
+A: Rs. 500-Rs. 1,500 for Basic license, Rs. 2,000-Rs. 5,000 for Central license. One-time payment for 5-year validity.
 
 **Q: Do all canteen staff need food handler training?**
-A: At minimum, manager and cooks must be trained. Support staff should also be trained. Training is quick (20–30 min online).
+A: At minimum, manager and cooks must be trained. Support staff should also be trained. Training is quick (20-30 min online).
 
 **Q: What if canteen closes for summer vacation?**
 A: License validity doesn't stop. If reopening after closure, ensure kitchen is cleaned and sanitized before reopening.
@@ -331,7 +331,13 @@ A: License validity doesn't stop. If reopening after closure, ensure kitchen is 
 A: If school provides meals (even from outside), school needs FSSAI license for the food operation (whether in-house or catered).
 
 **Q: What if FSSAI finds violations during inspection?**
-A: Minor issues can be fixed after license issuance. Major issues must be fixed before inspection approval. No license issued until major issues resolved.
+A: Minor issues can be fixed after license issuance. Major issues must be fixed before inspection approval. No license is issued until major issues are resolved.
+
+---
+
+## Ready to Streamline Your School Administration?
+
+[Book a Free Demo](/demo) to see how Nexli manages FSSAI compliance for your school canteen.
 
 ---
 
@@ -350,6 +356,14 @@ A: Minor issues can be fixed after license issuance. Major issues must be fixed 
 - [ ] Maintain daily cleaning and temperature logs
 - [ ] Schedule annual staff training
 - [ ] Plan renewal 3 months before expiry
+
+---
+
+> **Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking—each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.**
+
+> **The founding principle of Yashveer Labs: technology should remove friction, not create it. Most enterprise software makes someone's job harder before it makes it easier—there's a learning curve, a setup cost, a transition period. Nexli was deliberately designed to reduce friction from day one. Teachers mark attendance faster. Principals get insight instantly. Parents get clarity on fees. That user-first design philosophy runs through everything the company builds.**
+
+> **One silent value of Nexli is that it reduces phone calls. A parent doesn't call to ask "Did my child attend today?"—they get an automatic alert when marked absent. They don't email asking about fees—they see their ledger online and can pay in seconds. A Principal doesn't need to ask the Transport Manager where the bus is—it's on the map in real-time. That communication reduction frees everyone to focus on what matters.**
 
 ---
 

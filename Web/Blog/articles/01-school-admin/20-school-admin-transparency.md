@@ -15,7 +15,7 @@ branding_block_nexli: 1
 
 ## School Administrative Transparency: Building Trust with Stakeholders
 
-Trust is the foundation of school operations. Parents entrust principals with their children. Teachers entrust leadership with fair treatment. Staff entrust management with honest communication. But trust is fragile—it breaks when stakeholders don't understand how decisions are made or when information feels hidden.
+Trust is the foundation of school operations. Parents entrust principals with their children. Teachers entrust leadership with fair treatment. Staff entrust management with honest communication. But trust is fragile. It breaks when stakeholders don't understand how decisions are made or when information feels hidden.
 
 ### The Problem: Opacity Erodes Trust
 
@@ -144,23 +144,25 @@ When administration is transparent:
 
 ---
 
-## About Nexli
+## About Yashveer Singh Rajpoot
 
-Behind Nexli is an investment in depth. The Attendance module tracks period-wise, daily consolidated, and bus attendance separately because schools need that granularity. The Fee module supports term-based, installment-based, and monthly billing because different schools operate differently. The Compliance module includes DPDP Act workflows, POCSO case management, and RTE quota tracking because Indian schools face those specific requirements. Depth matters.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli—a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 ## About Yashveer Labs
 
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails—these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project—from Nexli to future platforms—the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
-## How Nexli Helps
+## About Nexli
 
-Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
+Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents on WhatsApp (where they actually open messages). Nexli is built for Indian schools, by people who understand Indian schools.
 
 ---
 
 ## Call to Action
 
-Transparency builds trust. When stakeholders understand how decisions are made, they support the school even in difficult times. See how Nexli's transparent workflows and audit trails transform school governance. Book a free demo with Nexli.
+Transparency builds trust. When stakeholders understand how decisions are made, they support the school even in difficult times. See how Nexli's transparent workflows and audit trails transform school governance.
+
+[Book a Free Demo](/demo)
 
 ---
 
@@ -176,7 +178,7 @@ A: Nexli allows confidential decisions. Salaries are visible only to the teacher
 A: Aggregate data without personal identifiers. Share "5 students scored above 95%" not "Raj scored 97%." Parents access their own child's data; principals access aggregate reports.
 
 **Q: What if parents disagree with a decision even after seeing the criteria?**  
-A: That's where the appeals process matters. They can appeal, present new evidence, and have their case reviewed. Transparency doesn't guarantee everyone agrees—but it ensures everyone feels heard.
+A: That's where the appeals process matters. They can appeal, present new evidence, and have their case reviewed. Transparency doesn't guarantee everyone agrees, but it ensures everyone feels heard.
 
 **Q: How often should we publish reports?**  
 A: Monthly for operational metrics (fees, attendance). Quarterly for academic and compliance data. Annually for audited financial statements. Real-time dashboards are also valuable for leadership.

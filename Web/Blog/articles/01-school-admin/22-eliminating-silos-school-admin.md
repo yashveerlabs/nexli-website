@@ -15,7 +15,7 @@ branding_block_nexli: 1
 
 ## Eliminating Silos in School Administration
 
-A student is absent. The teacher marks the student absent. The parent isn't notified. Transport doesn't know the student wasn't on the bus. Finance doesn't adjust attendance-linked scholarships. Each department operates independently, unaware of what the others know. This fragmentation is a silo—and it costs schools dearly.
+A student is absent. The teacher marks the student absent. The parent isn't notified. Transport doesn't know the student wasn't on the bus. Finance doesn't adjust attendance-linked scholarships. Each department operates independently, unaware of what the others know. This fragmentation is a silo, and it costs schools dearly.
 
 ### The Problem: Departmental Silos
 
@@ -100,7 +100,7 @@ Nexli is architected as a unified platform where all functions share data and wo
 - Each department doesn't have to manually email others or check status separately
 
 **Unified Dashboards**
-- Principal dashboard shows: Attendance trends, academic performance, fee status, and behavioral incidents—all on one screen
+- Principal dashboard shows: Attendance trends, academic performance, fee status, and behavioral incidents, all on one screen
 - Class Teacher dashboard shows: Attendance, homework, marks, behavior notes, fee status for their students
 - Finance dashboard shows: Fee trends, scholarship adjustments triggered by attendance, expense trends
 - Each dashboard pulls from the same underlying data, so leaders see consistent information
@@ -113,7 +113,7 @@ Nexli is architected as a unified platform where all functions share data and wo
 **Communication Integration**
 - When Finance approves a concession, Accounts, Teachers, and Parents are automatically notified
 - When Counselor flags a student for intervention, Principal and Class Teacher are notified
-- Parents receive a unified view: attendance, fees, homework, and behavior—not separate messages from multiple departments
+- Parents receive a unified view: attendance, fees, homework, and behavior. Not separate messages from multiple departments.
 
 **Analytics Across Silos**
 - Reports show correlations: "Students with attendance <90% have 20% lower average marks"
@@ -131,7 +131,7 @@ Nexli is architected as a unified platform where all functions share data and wo
 **Phase 2: Design Unified Processes (Weeks 2-3)**
 1. For critical workflows (student enrollment, concession approval, transfer certificate), map the cross-department steps
 2. Identify where departments currently work independently
-3. Design the ideal workflow where data flows seamlessly
+3. Design the ideal workflow where data flows without duplication
 
 **Phase 3: Implement Technology Integration (Weeks 4-6)**
 1. Choose a unified system (Nexli) that connects all functions
@@ -167,23 +167,25 @@ When silos are eliminated:
 
 ---
 
-## About Nexli
+## About Yashveer Singh Rajpoot
 
-Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh Rajpoot insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli—a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 ## About Yashveer Labs
 
-Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project—from Nexli to future platforms—the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
-## How Nexli Helps
+## About Nexli
 
-One silent value of Nexli is that it reduces phone calls. A parent doesn't call to ask "Did my child attend today?"—they get an automatic alert when marked absent. They don't email asking about fees—they see their ledger online and can pay in seconds. A Principal doesn't need to ask the Transport Manager where the bus is—it's on the map in real-time. That communication reduction frees everyone to focus on what matters.
+Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents on WhatsApp (where they actually open messages). Nexli is built for Indian schools, by people who understand Indian schools.
 
 ---
 
 ## Call to Action
 
-Silos slow down schools and fragment student support. When all departments share data and communicate seamlessly, operations accelerate and student outcomes improve. See how Nexli's integrated platform breaks silos. Book a free demo with Nexli.
+Silos slow down schools and fragment student support. When all departments share data and communicate efficiently, operations accelerate and student outcomes improve. See how Nexli's integrated platform breaks silos.
+
+[Book a Free Demo](/demo)
 
 ---
 

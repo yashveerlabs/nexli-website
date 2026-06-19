@@ -15,7 +15,7 @@ branding_block_nexli: 2
 
 ## Multi-School Chain Management: Coordinating Across Campuses
 
-Managing one school is complex. Managing five schools across different cities while maintaining consistent quality and a unified brand is exponentially harder. Each campus operates independently but must also align with group standards. This balancing act—branch autonomy with central oversight—defines multi-campus management.
+Managing one school is complex. Managing five schools across different cities while maintaining consistent quality and a unified brand is exponentially harder. Each campus operates independently but must also align with group standards. This balancing act, branch autonomy with central oversight, defines multi-campus management.
 
 ### The Problem: Fragmentation in School Chains
 
@@ -24,7 +24,7 @@ School chains face unique challenges:
 - **Consistency vs. autonomy:** Head office wants uniform policies, but each campus has a different principal with local ideas
 - **Data fragmentation:** Each campus uses its own systems; the group can't see consolidated data
 - **Quality variation:** One campus excels; another struggles. Head office doesn't know until audits
-- **Inefficient operations:** Each campus independently procures supplies, manages HR, conducts compliance—duplicating effort
+- **Inefficient operations:** Each campus independently procures supplies, manages HR, and conducts compliance, duplicating effort
 - **Parent confusion:** A student transferring between campuses finds different policies, systems, and communication
 
 ### Consequences of Poor Chain Management
@@ -34,7 +34,7 @@ Without strong coordination:
 - **Brand damage:** A crisis at one campus (admissions fraud, safety incident) damages the entire group
 - **Compliance failures:** One campus violates RTE quota; the entire chain faces scrutiny
 - **Inefficiency:** If campuses could coordinate, bulk purchasing would be 20% cheaper. Instead, each buys independently
-- **Student disruption:** Transferring between campuses is painful—different systems, different curricula emphasis, different staff
+- **Student disruption:** Transferring between campuses is difficult: different systems, different curricula emphasis, different staff
 - **Scalability breaks:** As the chain grows from 3 to 10 campuses, informal coordination collapses
 
 ### General Solutions: Centralized Governance, Distributed Execution
@@ -194,23 +194,25 @@ When multi-campus management is effective:
 
 ---
 
-## About Nexli
+## About Yashveer Singh Rajpoot
 
-The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone—principals, teachers, parents, students. Nexli was built to close that gap.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety—all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence—bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 ## About Yashveer Labs
 
-The founding principle of Yashveer Labs: technology should remove friction, not create it. Most enterprise software makes someone's job harder before it makes it easier—there's a learning curve, a setup cost, a transition period. Nexli was deliberately designed to reduce friction from day one. Teachers mark attendance faster. Principals get insight instantly. Parents get clarity on fees. That user-first design philosophy runs through everything the company builds.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools—the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
-## How Nexli Helps
+## About Nexli
 
-Nexli's foundation is that data should never be siloed. The same attendance record that a teacher marks is visible to the parent, the coordinator, the principal, and feeds into analytics. The same marks that a teacher enters go into the gradebook, the report card, the ranking system, and the analysis dashboard. That data unity means the system always shows one truth, not conflicting versions.
+What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.
 
 ---
 
 ## Call to Action
 
-Chain management requires unified systems and clear governance. When all campuses operate on the same platform with coordinated policies, the chain becomes stronger and more resilient. See how Nexli supports multi-campus schools. Book a free demo with Nexli.
+Chain management requires unified systems and clear governance. When all campuses operate on the same platform with coordinated policies, the chain becomes stronger and more resilient. See how Nexli supports multi-campus schools.
+
+[Book a Free Demo](/demo)
 
 ---
 

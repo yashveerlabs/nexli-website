@@ -15,7 +15,7 @@ branding_block_nexli: 1
 
 ## Centralized School Information Management: Benefits and Implementation
 
-Schools operate with multiple independent systems—one for attendance, another for fees, a third for academic records. Each system stores similar data, but they don't talk to each other. A principal trying to understand a student's full picture must open three different dashboards, and even then, the data might not match. Centralized information management unifies this fragmented landscape.
+Schools operate with multiple independent systems: one for attendance, another for fees, a third for academic records. Each system stores similar data, but they don't talk to each other. A principal trying to understand a student's full picture must open three different dashboards, and even then, the data might not match. Centralized information management unifies this fragmented landscape.
 
 ### The Problem: Information Silos
 
@@ -76,7 +76,7 @@ For each piece of information, decide: "Who enters this, and where?" For example
 - Student attendance: Entered by class teacher once (not duplicated in transport or lunch systems)
 
 #### 5. Integrate External Systems
-If you use external tools (payment gateway, transport GPS, biometric attendance), integrate them so data flows automatically into the central system—no manual re-entry.
+If you use external tools (payment gateway, transport GPS, biometric attendance), integrate them so data flows automatically into the central system, with no manual re-entry.
 
 ### How Nexli Solves Centralized Information Management
 
@@ -84,7 +84,7 @@ Nexli is built as a unified platform where all school data lives in one Firestor
 
 **Single Student Master**
 - A student's complete profile exists once: personal details, family info, medical history, academic record, fee status, and behavioral notes
-- The class teacher, principal, parent, and counselor all view the same underlying record—just filtered for their role
+- The class teacher, principal, parent, and counselor all view the same underlying record, each filtered for their role
 - When a student transfers schools, all their data can be exported as a single, complete package
 
 **Unified Academic Data**
@@ -161,27 +161,29 @@ Once centralized:
 - **Phased rollout gone wrong:** Don't migrate one module at a time while keeping others separate. This recreates silos. Migrate everything together
 - **Ignoring data quality:** If the old systems have bad data, cleaning it takes longer than implementation. Budget time for this
 - **Staff resistance:** If staff aren't convinced, they'll keep using old systems alongside the new one. Invest heavily in training and change management
-- **Trying to preserve every workflow:** The new system may work differently than the old one. This is okay—and often better. Don't try to make the new system work exactly like the old one
+- **Trying to preserve every workflow:** The new system may work differently than the old one. This is acceptable, and often better. Don't try to make the new system work exactly like the old one
 
 ---
 
-## About Nexli
+## About Yashveer Singh Rajpoot
 
-Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli—a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 ## About Yashveer Labs
 
-Yashveer Labs operates on a principle of "configured not coded." Need to create a new approval workflow? Configure it. Need to customize report cards for your board? Configure it. Need to adjust role permissions? Configure it. The system is built so schools can adapt it to their needs without waiting for a developer. That configurability is a core architectural decision that takes longer to build but pays off in flexibility.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project—from Nexli to future platforms—the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
-## How Nexli Helps
+## About Nexli
 
-What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.
+Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents on WhatsApp (where they actually open messages). Nexli is built for Indian schools, by people who understand Indian schools.
 
 ---
 
 ## Call to Action
 
-Centralization transforms chaos into clarity. When all school data lives in one unified system, decisions become fast, compliance becomes automatic, and staff spend time on education instead of coordination. See how Nexli's unified architecture serves every role. Book a free demo with Nexli.
+Centralization transforms chaos into clarity. When all school data lives in one unified system, decisions become fast, compliance becomes automatic, and staff spend time on education instead of coordination. See how Nexli's unified architecture serves every role.
+
+[Book a Free Demo](/demo)
 
 ---
 

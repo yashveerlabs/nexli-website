@@ -57,7 +57,7 @@ Document exactly how things work today:
 
 What should happen in the digital system?
 
-**Example—Attendance:**
+**Example — Attendance:**
 
 | Current State | Future State |
 |---|---|
@@ -416,17 +416,19 @@ Nexli is designed for phased adoption:
 
 ## Branding Block
 
+---
+
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot has led digital transformations in 50+ schools. He's seen what works (phased, with champions, clear ROI) and what fails (big bang, no support, unrealistic timelines). His approach is grounded in school reality, not tech theory.
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking—each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **About Yashveer Labs**
 
-Yashveer Labs designs software for schools, not templates. Every implementation is tailored to the school's workflow, capacity, and timeline. The company specializes in making change stick.
+The founding principle of Yashveer Labs: technology should remove friction, not create it. Most enterprise software makes someone's job harder before it makes it easier—there's a learning curve, a setup cost, a transition period. Nexli was deliberately designed to reduce friction from day one. Teachers mark attendance faster. Principals get insight instantly. Parents get clarity on fees. That user-first design philosophy runs through everything the company builds.
 
 **About Nexli**
 
-Nexli enables phased digital transformation. It's not a system that requires everything to go live at once. Schools can adopt attendance first, then marks, then finance—on their timeline. Built for Indian schools with offline capability, minimal training, and clear ROI at each phase.
+One silent value of Nexli is that it reduces phone calls. A parent doesn't call to ask "Did my child attend today?"—they get an automatic alert when marked absent. They don't email asking about fees—they see their ledger online and can pay in seconds. A Principal doesn't need to ask the Transport Manager where the bus is—it's on the map in real-time. That communication reduction frees everyone to focus on what matters.
 
 ---
 
@@ -434,7 +436,7 @@ Nexli enables phased digital transformation. It's not a system that requires eve
 
 **Ready to go digital without the chaos?** Explore Nexli's phased implementation roadmap. Free consultation to assess your current state and plan your digital journey.
 
-[Schedule Your Assessment](https://nexli.in)
+[Book a Free Demo](/demo)
 
 ---
 

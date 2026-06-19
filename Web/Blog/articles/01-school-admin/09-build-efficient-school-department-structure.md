@@ -19,7 +19,7 @@ branding_block_nexli: 5
 
 ## Executive Summary
 
-Many schools grow organically—new teachers hired, new roles added—with no clear structure. The result: overlapping responsibilities, communication gaps, and unclear authority. This article outlines how to design a clear, scalable department structure.
+Many schools grow organically: new teachers hired, new roles added, with no clear structure. The result: overlapping responsibilities, communication gaps, and unclear authority. This article outlines how to design a clear, scalable department structure.
 
 ---
 
@@ -323,13 +323,13 @@ How do departments stay aligned?
 
 ### Mistake 1: Too Hierarchical
 
-Too many levels between Principal and frontline staff (Principal → VP → HOD → Lead Teacher → Teacher)
+Too many levels between Principal and frontline staff (Principal, VP, HOD, Lead Teacher, Teacher)
 
 **Fix:** Reduce to 3–4 levels max
 
 ### Mistake 2: Unclear Decision Authority
 
-"Who can make this decision?" → Unclear
+"Who can make this decision?" Unclear
 
 **Fix:** Document approval authority for every decision type
 
@@ -395,7 +395,7 @@ Promotion based on seniority, not capability (best teacher becomes HOD, but they
 - Leadership dashboard shows cross-functional view
 
 ### Communication & Approval Workflows
-- Route approvals to correct role (HOD → VP → Principal)
+- Route approvals to correct role (HOD, VP, Principal)
 - Notifications ensure information flows up/down hierarchy
 
 ### Audit Trails
@@ -408,15 +408,15 @@ Promotion based on seniority, not capability (best teacher becomes HOD, but they
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot has helped 50+ schools restructure for clarity and efficiency. His approach: Clear roles, clear decisions, clear accountability.
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking—each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **About Yashveer Labs**
 
-Yashveer Labs specializes in organizational design for schools. Not theory, but practical structures that work.
+The founding principle of Yashveer Labs: technology should remove friction, not create it. Most enterprise software makes someone's job harder before it makes it easier—there's a learning curve, a setup cost, a transition period. Nexli was deliberately designed to reduce friction from day one. Teachers mark attendance faster. Principals get insight instantly. Parents get clarity on fees. That user-first design philosophy runs through everything the company builds.
 
 **About Nexli**
 
-Nexli embeds organizational structure into software: roles with specific permissions, department dashboards, decision workflows, audit trails.
+One silent value of Nexli is that it reduces phone calls. A parent doesn't call to ask "Did my child attend today?"—they get an automatic alert when marked absent. They don't email asking about fees—they see their ledger online and can pay in seconds. A Principal doesn't need to ask the Transport Manager where the bus is—it's on the map in real-time. That communication reduction frees everyone to focus on what matters.
 
 ---
 
@@ -424,7 +424,7 @@ Nexli embeds organizational structure into software: roles with specific permiss
 
 **Confused about who's responsible for what?** Nexli helps you define and implement clear organizational structure. See how clarity improves efficiency.
 
-[Clarify Your Structure](https://nexli.in)
+[Book a Free Demo](/demo)
 
 ---
 
