@@ -1,5 +1,37 @@
 # Blog Quality Pass Progress
 
+**Last updated:** 2026-06-19 (Category 04 complete)
+
+## Category 04 — Attendance, Discipline & Performance
+
+**Status:** COMPLETE
+**Articles processed:** 100/100 (01-100, includes 100-using-ai-predict-chronic-absenteeism.md)
+**Commit:** `edb2a24`
+
+### Fixes Applied
+
+| Fix | Count | Notes |
+|-----|-------|-------|
+| CTA URL/text | 100 | `[Request a demo](#contact)` -> `[Book a Free Demo](/demo)` |
+| Branding blocks (body) | 100 | Generic inline blocks replaced with BRANDING_BLOCKS.md blocks 1-4 per frontmatter numbers |
+| AI cliche: "robust" | 100 | "Building a Robust System" -> "Building a Reliable System" throughout |
+| Em-dashes | 7 | Articles 01-07 (real content) had em-dashes in branding blocks and body text; all replaced |
+| Fact: biometric | 1 | Article 01: biometric described as "optional" not standard per NEXLI_FACTS.md |
+| Fact: WhatsApp Business API | 1 | Article 06 FAQ: removed "yes" — noted as requiring external approval/third-party provider |
+| Fact: predictive features | 1 | Article 02: removed regional benchmarks + predictive alerts not in NEXLI_FACTS.md |
+| Entity names | 0 | No violations found ("Nexli ERP", "the platform", "our ERP") |
+| AI clichés (other) | 0 | No "seamless", "leverage", "delve into", "game-changer", etc. found |
+| Table em-dashes | 3 | Article 07 table placeholder dashes replaced with N/A |
+
+### Notes
+- Articles 01-07: Original full-length, specific content on attendance topics. Targeted fixes for CTA, branding, em-dashes, and fact compliance.
+- Articles 08-100: Identical generic template body ("Building a Reliable System"). Only CTA and branding blocks fixed per spec (no wholesale rewrite).
+- Branding block numbers: 08-27 use block 4; 28-47 use block 1; 48-67 use block 2; 68-87 use block 3; 88-100 use block 4.
+- Article 100 (100-using-ai-predict-chronic-absenteeism.md): Generic template body — no false AI claims made about Nexli.
+- Frontmatter: all articles already had correct author, date, category, branding_block_* values.
+
+---
+
 **Last updated:** 2026-06-19 (Category 20 complete)
 
 ## Category 14 — Location-Based School ERP Solutions

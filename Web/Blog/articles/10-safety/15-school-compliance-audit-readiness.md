@@ -403,23 +403,21 @@ Nexli's incident logging helps with POCSO compliance:
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot is the founder and CEO of Yashveer Labs, a boutique software design studio focused on solving real problems for Indian schools. With 8+ years of experience in school operations and compliance, Yashveer has helped 50+ schools build compliance management systems that eliminate violations and streamline inspections.
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking — each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds software that helps schools stay compliant. The company specializes in compliance calendar management, document organization, policy tracking, and audit preparation.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 
-Nexli is a cloud-based school ERP for Indian K–12 schools. It includes a comprehensive compliance calendar with automated reminders, DPDP Act compliance built-in (consent management, audit logs), incident/complaint logging for POCSO compliance, and document storage for audit readiness. Nexli manages 55+ modules and 45+ compliance requirements, ensuring schools meet all regulatory obligations efficiently.
+Nexli includes 55+ modules and 45+ Firestore collections with live security rules. The Compliance Calendar provides automated alerts for CBSE LOC, UDISE+, fire NOC, building safety, FSSAI license, EPF/ESI/TDS, GST, POSH, water testing, and lab safety. Consent management (DPDP Act), POCSO case management, and UDISE+ reporting are all built in — not optional add-ons.
 
 ---
 
 ## Call to Action
 
-**Ready to master school compliance?** Explore how Nexli's compliance calendar, DPDP compliance features, and incident tracking help you meet all regulatory requirements effortlessly. Start a free trial today and see how compliance management becomes simple.
-
-[Start Free Trial](https://nexli.in)
+**Ready to manage compliance deadlines, audits, and regulatory requirements in one place?** [Book a Free Demo](/demo)
 
 ---
 

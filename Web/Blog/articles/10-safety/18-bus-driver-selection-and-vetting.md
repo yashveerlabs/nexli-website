@@ -1,8 +1,19 @@
 ---
-title: "Bus Driver Selection and Vetting"
+title: "Bus Driver Selection and Vetting: A School's Guide"
 slug: bus-driver-selection-and-vetting
-category: 10
-order: 18
+meta_description: "Learn how to select and vet school bus drivers with background checks, medical fitness, driving tests, and ongoing monitoring to protect student safety."
+category: "School Safety & Operations"
+primary_keyword: "school bus driver selection"
+secondary_keywords:
+  - "bus driver background check"
+  - "driver vetting schools"
+  - "student transport safety"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
 ---
 
 # Bus Driver Selection and Vetting
@@ -34,3 +45,26 @@ Bus drivers are student caretakers. Thorough vetting ensures trustworthiness.
 **Compensation** - Competitive wages, benefits, retention focus, recognition, professionalism supported, appropriate pay.
 
 Thorough driver selection and vetting protects student safety and ensures quality transportation.
+
+---
+
+## How Nexli Supports Driver Management
+
+Nexli's Transport module stores driver profiles — including license details, background verification records, medical fitness certificates, and training history. GPS live-tracking monitors routes in real time. Incident logging records any complaints or safety events against a driver, with a full audit trail for HR review.
+
+---
+
+## Branding Block: Nexli, Built by Yashveer Labs
+
+**About Yashveer Singh Rajpoot**  
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows — no code changes required. The system adapts to the school, not the other way around.
+
+**About Yashveer Labs**  
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+
+**About Nexli**  
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
+
+---
+
+**Ready to centralize driver records, certifications, and safety monitoring?** [Book a Free Demo](/demo)

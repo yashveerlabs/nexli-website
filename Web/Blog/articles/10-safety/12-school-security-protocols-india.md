@@ -400,27 +400,25 @@ Nexli can track which staff members have completed security training, when, and 
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot is the founder and CEO of Yashveer Labs, a boutique software design studio focused on solving real problems for Indian schools. With 8+ years of experience in school operations and safety, Yashveer has helped 50+ schools build comprehensive security systems that protect students and staff.
+Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP — they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds software that protects school safety. The company specializes in digital visitor management, access control, incident tracking, and security coordination systems.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 
-Nexli is a cloud-based school ERP for Indian K–12 schools. It includes digital visitor management, gate pass systems, incident logging, and staff training records—integrated into one platform. Nexli helps principals implement layered security efficiently and maintain detailed records for compliance and incident prevention.
+Nexli includes 55+ modules covering student info, academics, compliance, safety, and communication. Visitor Management (OTP gate pass, expected-visitor pre-registration, audit trail), Incident Logging, and the Compliance Calendar are built in. Schools using Nexli have audit-ready records of every visitor, every incident, and every compliance deadline — all in one place.
 
 ---
 
 ## Call to Action
 
-**Ready to upgrade your school's security?** Explore how Nexli's integrated security features—visitor management, gate passes, incident tracking—help you protect students and staff. Start a free trial today.
-
-[Start Free Trial](https://nexli.in)
+**Ready to upgrade your school's security systems?** [Book a Free Demo](/demo)
 
 ---
 

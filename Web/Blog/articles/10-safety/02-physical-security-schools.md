@@ -257,13 +257,17 @@ This creates risk: thefts, fights, unauthorized entry, and in worst cases, child
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Yashveer is the founder of Nexli and believes school security starts with smart systems. Visitor management, incident logging, and audit trails—all built-in.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows—no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**  
-Yashveer Labs builds school ERPs that prioritize safety by design. Every system is auditable, traceable, and accountable.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails—these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**  
-Nexli includes Visitor Management (OTP gate pass, expected-visitor pre-registration, audit trail), Incident Logging (timestamp, details, escalation), and Communications (emergency alerts).
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
+
+---
+
+**Ready to strengthen your school's physical security and visitor management?** [Book a Free Demo](/demo)
 
 ---
 
