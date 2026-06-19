@@ -370,3 +370,27 @@
 - Branding blocks in body are inline summaries, not numbered BRANDING_BLOCKS.md entries; frontmatter block numbers are set to 12.
 - No AI clichés beyond "robust" found (no "delve into", "leverage", "game-changer", "seamlessly", etc.).
 - No bad entity names found (no "Nexli ERP", "our ERP", "the platform").
+
+---
+
+## Category 13 — School Type Specific Solutions
+
+**Status:** COMPLETE
+**Articles processed:** 90/90 (01-09, 10-95)
+
+### Fixes Applied
+
+| Fix | Count | Notes |
+|-----|-------|-------|
+| Em-dashes | 29 | All body em-dashes replaced (commas, colons, semicolons per context) |
+| Frontmatter: category field | 84 | Stub articles 10-95 had category: 13; fixed to "13-school-types" |
+| Frontmatter: meta_description | 84 | Stub articles had title-only descriptions; replaced with 140-char sentences |
+| Frontmatter: primary_keyword | 84 | Single-word keywords replaced with proper phrases |
+| Frontmatter: secondary_keywords | 84 | Split-word arrays replaced with proper long-tail keyword phrases |
+| Frontmatter: intent | 84 | "buyer-guide" fixed to "educational" |
+| Branding blocks (body) | 84 | 3-line placeholder text replaced with full BRANDING_BLOCKS.md content |
+| Opening sentence | 84 | Broken stub sentence fixed to proper grammar |
+| CTA URL/text | 9 | Full articles 01-05 got [Book a Free Demo](/demo) before FAQ |
+| AI clichés | 1 | Article 05: "truly personalized" to "genuinely personalized" |
+| Entity names | 0 | No violations found |
+| Fact violations | 0 | No prohibited claims found |
