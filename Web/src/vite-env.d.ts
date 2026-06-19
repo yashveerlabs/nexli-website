@@ -13,6 +13,8 @@ interface ImportMetaEnv {
   readonly VITE_IMAGEKIT_PUBLIC_KEY: string;
   readonly VITE_IMAGEKIT_AUTH_ENDPOINT: string;
   readonly VITE_AI_ENABLED: string;
+  readonly VITE_RECAPTCHA_SITE_KEY: string;
+  readonly VITE_SENTRY_DSN: string;
 }
 
 interface ImportMeta {
