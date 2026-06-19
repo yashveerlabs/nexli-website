@@ -1,3 +1,22 @@
+---
+title: "School Awards: Submitting for Recognition"
+slug: "awards-submission-schools"
+meta_description: "Win school awards that build reputation and trust. Learn which awards matter, how to identify submission criteria, write compelling applications, and use wins in marketing."
+category: "School Marketing & Growth"
+primary_keyword: "school awards submission"
+secondary_keywords:
+  - "school recognition awards"
+  - "school accreditation marketing"
+  - "best school awards India"
+  - "school award marketing"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # School Awards: Submitting for Recognition
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -68,5 +87,5 @@ Awards are credible third-party validation. Submit to 2-3 awards yearly. Publici
 
 ---
 
-**Next step:** Research 3 awards this month. Submit to one by month-end.
+**Next step:** Research 3 awards this month. Submit to one by month-end. [Book a Free Demo](/demo) to see how Nexli's exam result tracking, attendance data, and compliance records give you the documented evidence award submissions require.
 

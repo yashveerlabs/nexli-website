@@ -1,3 +1,22 @@
+---
+title: "Instagram Ads: Targeting Parents on Visual Platform"
+slug: "instagram-ads-targeting-schools"
+meta_description: "Run Instagram Ads that target parents in your area and drive school admissions. Learn campaign setup, audience targeting, creative strategy, and budget management."
+category: "School Marketing & Growth"
+primary_keyword: "school Instagram ads"
+secondary_keywords:
+  - "Instagram ads school admissions"
+  - "school social media advertising"
+  - "parent targeting Instagram"
+  - "school Instagram marketing"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Instagram Ads: Targeting Parents on Visual Platform
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -66,5 +85,5 @@ Instagram is visual, fun, parent-friendly. Ads there reach intended audience cos
 
 ---
 
-**Next step:** Create your first Instagram Ad campaign this week.
+**Next step:** Create your first Instagram Ad campaign this week. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline captures and converts the leads your Instagram Ads generate.
 

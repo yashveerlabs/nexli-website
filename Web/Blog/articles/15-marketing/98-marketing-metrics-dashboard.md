@@ -1,3 +1,22 @@
+---
+title: "Marketing Metrics Dashboard: Tracking Performance and ROI"
+slug: "marketing-metrics-dashboard-schools"
+meta_description: "Build a school marketing metrics dashboard to track performance and ROI. Learn which metrics matter, how to set up tracking, and what to review in monthly marketing reviews."
+category: "School Marketing & Growth"
+primary_keyword: "school marketing metrics dashboard"
+secondary_keywords:
+  - "school marketing ROI tracking"
+  - "school admissions metrics"
+  - "school marketing KPIs"
+  - "school marketing analytics"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Marketing Metrics Dashboard: Tracking Performance and ROI
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -85,5 +104,5 @@ Dashboard gives visibility. Visibility enables optimization. Optimization drives
 
 ---
 
-**Next step:** Build your marketing dashboard this month.
+**Next step:** Build your marketing dashboard this month. [Book a Free Demo](/demo) to see how Nexli's Principal Dashboard gives you real-time enrollment, fee collection, and academic metrics that feed directly into your marketing performance review.
 

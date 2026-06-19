@@ -1,3 +1,22 @@
+---
+title: "Local Citations: Google, Justdial, Local Directory Listings"
+slug: "local-citations-schools"
+meta_description: "Build local citations for your school on Google, Justdial, and local directories. Learn how consistent NAP data boosts local SEO and drives admissions inquiries."
+category: "School Marketing & Growth"
+primary_keyword: "school local citations"
+secondary_keywords:
+  - "school Justdial listing"
+  - "school Google Business Profile"
+  - "school local directories"
+  - "school NAP consistency"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Local Citations: Google, Justdial, Local Directory Listings
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -77,5 +96,5 @@ Citations boost local SEO. Essential for local rankings. Claim and complete all 
 
 ---
 
-**Next step:** Claim Justdial and Google Business Profile today.
+**Next step:** Claim Justdial and Google Business Profile today. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline captures the directory-driven inquiries that local citations generate.
 

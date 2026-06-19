@@ -1,3 +1,22 @@
+---
+title: "Social Media Crisis Management: Handling Negative Comments"
+slug: "social-media-crisis-management-schools"
+meta_description: "Handle social media crises and negative comments for your school. Learn response protocols, tone guidelines, and how to protect your school reputation online."
+category: "School Marketing & Growth"
+primary_keyword: "school social media crisis"
+secondary_keywords:
+  - "school negative comments"
+  - "school reputation social media"
+  - "handling complaints school"
+  - "school crisis response"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Social Media Crisis Management: Handling Negative Comments
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -73,5 +92,5 @@ Social media crises are normal. Have a protocol. Respond professionally. Resolve
 
 ---
 
-**Next step:** Create one-page crisis protocol this week. Share with team.
+**Next step:** Create one-page crisis protocol this week. Share with team. [Book a Free Demo](/demo) to see how Nexli's Parent Portal gives parents a direct communication channel, reducing public complaints that escalate to social media.
 

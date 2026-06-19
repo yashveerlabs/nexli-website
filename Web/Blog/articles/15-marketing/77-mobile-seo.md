@@ -1,3 +1,22 @@
+---
+title: "Mobile SEO: Mobile Search Ranking Optimization"
+slug: "mobile-seo-schools"
+meta_description: "Optimize your school website for mobile search rankings. Learn Core Web Vitals, mobile-first indexing, page speed, and how to capture parents searching on phones."
+category: "School Marketing & Growth"
+primary_keyword: "school mobile SEO"
+secondary_keywords:
+  - "school mobile search ranking"
+  - "school website mobile optimization"
+  - "Core Web Vitals school"
+  - "school page speed"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Mobile SEO: Mobile Search Ranking Optimization
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -72,5 +91,5 @@ Mobile is primary now. Optimize for mobile or lose ranking and traffic.
 
 ---
 
-**Next step:** Test your website on mobile today. Fix top 3 issues.
+**Next step:** Test your website on mobile today. Fix top 3 issues. [Book a Free Demo](/demo) to see Nexli — a school ERP built mobile-first, tested on 412px screens, with all 118+ roles verified on mobile devices.
 

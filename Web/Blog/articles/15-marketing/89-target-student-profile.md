@@ -1,3 +1,22 @@
+---
+title: "Target Student Profile: Recruitment Strategy and Messaging"
+slug: "target-student-profile-schools"
+meta_description: "Define your school's target student profile to sharpen recruitment messaging. Learn how to segment prospects, tailor messaging, and attract families who are the best fit."
+category: "School Marketing & Growth"
+primary_keyword: "school target student profile"
+secondary_keywords:
+  - "school student recruitment"
+  - "school ideal student persona"
+  - "school enrolment targeting"
+  - "school messaging strategy"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Target Student Profile: Recruitment Strategy and Messaging
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -72,5 +91,5 @@ Know who you want to enroll. Market to them specifically. Higher conversion, bet
 
 ---
 
-**Next step:** Define your top 3 student profiles this month.
+**Next step:** Define your top 3 student profiles this month. [Book a Free Demo](/demo) to see how Nexli's admissions data helps you identify which student profiles have the highest retention and performance — so you recruit more of the right families.
 

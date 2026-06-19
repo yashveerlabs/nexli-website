@@ -1,3 +1,22 @@
+---
+title: "School Tours: Converting Prospects to Applications"
+slug: "school-tours-converting-prospects"
+meta_description: "Convert school tour visitors into applicants. Learn tour flow design, who should give tours, what to show, common objections, and follow-up after the campus visit."
+category: "School Marketing & Growth"
+primary_keyword: "school campus tours"
+secondary_keywords:
+  - "school tour conversion"
+  - "school open house tours"
+  - "school visit admissions"
+  - "school campus visit strategy"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # School Tours: Converting Prospects to Applications
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -70,5 +89,5 @@ Tours convert. Make them excellent. Follow up quickly. Convert to applications.
 
 ---
 
-**Next step:** Design your tour experience this week.
+**Next step:** Design your tour experience this week. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline captures tour visitor details and moves each family through inquiry, application, and enrollment stages.
 

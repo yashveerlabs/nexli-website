@@ -1,3 +1,22 @@
+---
+title: "Email A/B Testing: Optimizing Newsletter Performance"
+slug: "email-ab-testing-schools"
+meta_description: "Optimize school newsletter performance through A/B testing. Learn how to test subject lines, send times, content formats, and analyze results to improve open rates."
+category: "School Marketing & Growth"
+primary_keyword: "school email A/B testing"
+secondary_keywords:
+  - "school newsletter optimization"
+  - "email subject line testing"
+  - "school email open rates"
+  - "email performance school"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Email A/B Testing: Optimizing Newsletter Performance
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -76,5 +95,5 @@ A/B testing finds incremental wins. 20% improvement in open rate = 20% more inqu
 
 ---
 
-**Next step:** Test subject lines with your next email newsletter.
+**Next step:** Test subject lines with your next email newsletter. [Book a Free Demo](/demo) to see how Nexli's Parent Portal engagement data shows you which communication formats families actually open and read.
 

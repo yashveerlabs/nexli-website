@@ -1,3 +1,22 @@
+---
+title: "School Pricing Psychology: Strategic Fee Positioning"
+slug: "school-pricing-psychology"
+meta_description: "Position your school fees to attract more enrollments. Learn pricing psychology, value communication, fee anchoring, scholarship messaging, and how to compete on value not price."
+category: "School Marketing & Growth"
+primary_keyword: "school pricing strategy"
+secondary_keywords:
+  - "school fee positioning"
+  - "school tuition pricing"
+  - "school value communication"
+  - "school fee marketing"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # School Pricing Psychology: Strategic Fee Positioning
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -80,5 +99,5 @@ Price is perception. Right positioning + transparent pricing + value messaging =
 
 ---
 
-**Next step:** Audit your pricing message this month.
+**Next step:** Audit your pricing message this month. [Book a Free Demo](/demo) to see how Nexli's Fee Concession and RTE reservation management helps you communicate structured scholarship pathways that justify premium positioning.
 

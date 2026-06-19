@@ -1,3 +1,22 @@
+---
+title: "Alumni Newsletter: Staying Connected After Graduation"
+slug: "alumni-newsletter-schools"
+meta_description: "Build an alumni newsletter that keeps graduates connected and drives referrals. Learn alumni engagement strategy, content ideas, and how to reactivate lapsed alumni."
+category: "School Marketing & Growth"
+primary_keyword: "school alumni newsletter"
+secondary_keywords:
+  - "alumni engagement school"
+  - "school alumni communication"
+  - "alumni referral programme"
+  - "school alumni network"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Alumni Newsletter: Staying Connected After Graduation
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -68,5 +87,5 @@ Alumni are lifelong brand ambassadors. Nurture that relationship. They'll refer 
 
 ---
 
-**Next step:** Build alumni email list this week. Send first newsletter next month.
+**Next step:** Build alumni email list this week. Send first newsletter next month. [Book a Free Demo](/demo) to see how Nexli's Alumni Module keeps your school connected to graduates for referrals, mentorship, and community.
 

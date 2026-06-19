@@ -1,3 +1,22 @@
+---
+title: "Keyword Research for School Marketing: Finding Parent Queries"
+slug: "keyword-research-schools"
+meta_description: "Find the keywords parents search when looking for schools. Learn keyword research tools, query intent, long-tail opportunities, and how to prioritize for admissions impact."
+category: "School Marketing & Growth"
+primary_keyword: "keyword research school marketing"
+secondary_keywords:
+  - "parent search keywords"
+  - "school SEO keywords"
+  - "admissions keywords"
+  - "school search queries"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Keyword Research for School Marketing: Finding Parent Queries
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -76,5 +95,5 @@ Keyword research reveals what parents search. Target those keywords. Rank. Get t
 
 ---
 
-**Next step:** Research 20 parent-relevant keywords this week.
+**Next step:** Research 20 parent-relevant keywords this week. [Book a Free Demo](/demo) to see how Nexli's admissions data shows which inquiry sources actually convert, helping you prioritize which keywords to rank for.
 

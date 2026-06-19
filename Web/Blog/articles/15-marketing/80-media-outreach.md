@@ -1,3 +1,22 @@
+---
+title: "Media Outreach: Building Journalist Relationships"
+slug: "media-outreach-schools"
+meta_description: "Build journalist relationships to get your school media coverage. Learn how to find education reporters, craft compelling pitches, and turn press coverage into admissions."
+category: "School Marketing & Growth"
+primary_keyword: "school media outreach"
+secondary_keywords:
+  - "school journalist relationships"
+  - "school PR outreach"
+  - "education media coverage"
+  - "school news pitch"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Media Outreach: Building Journalist Relationships
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -77,5 +96,5 @@ Good media relationships = regular press coverage = credibility = more inquiries
 
 ---
 
-**Next step:** Find 5 local education journalists. Email personalized pitch this week.
+**Next step:** Find 5 local education journalists. Email personalized pitch this week. [Book a Free Demo](/demo) to see how Nexli's exam results, board performance data, and Skills Passport tracking give you compelling data for media pitches.
 

@@ -1,3 +1,22 @@
+---
+title: "Press Release: Writing and Distributing Press Releases"
+slug: "press-release-strategy-schools"
+meta_description: "Write and distribute press releases that get your school media coverage. Learn press release format, newsworthiness criteria, distribution channels, and media follow-up."
+category: "School Marketing & Growth"
+primary_keyword: "school press release"
+secondary_keywords:
+  - "school media coverage"
+  - "school PR strategy"
+  - "school news distribution"
+  - "school publicity"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Press Release: Writing and Distributing Press Releases
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -78,5 +97,5 @@ Press releases get free media coverage. More credible than ads. More inquiries p
 
 ---
 
-**Next step:** Identify one newsworthy story. Write press release this week.
+**Next step:** Identify one newsworthy story. Write press release this week. [Book a Free Demo](/demo) to see how Nexli's exam result data, board performance tracking, and Skills Passport give you press-worthy stories throughout the year.
 

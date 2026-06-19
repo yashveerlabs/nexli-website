@@ -1,3 +1,22 @@
+---
+title: "Partner Brands: Co-Marketing Collaborations"
+slug: "partner-brands-comarketing-schools"
+meta_description: "Build co-marketing partnerships that grow your school's reach and admissions. Learn partner selection, collaboration formats, joint events, and measuring partnership ROI."
+category: "School Marketing & Growth"
+primary_keyword: "school co-marketing partnerships"
+secondary_keywords:
+  - "school brand partnerships"
+  - "school collaboration marketing"
+  - "school joint marketing"
+  - "school community partnerships"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Partner Brands: Co-Marketing Collaborations
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -80,5 +99,5 @@ Partnerships expand reach without proportional cost. Win-win collaboration drive
 
 ---
 
-**Next step:** Identify one potential partner this week.
+**Next step:** Identify one potential partner this week. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline tracks which partner-generated leads convert to enrolled students, so you can measure co-marketing ROI.
 

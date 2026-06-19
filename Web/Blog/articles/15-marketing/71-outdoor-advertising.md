@@ -1,3 +1,22 @@
+---
+title: "Outdoor Advertising: Billboards, Transit Ads, Community Visibility"
+slug: "outdoor-advertising-schools"
+meta_description: "Build school brand visibility with outdoor advertising. Learn billboard selection, transit ad strategy, auto-rickshaw branding, and measuring outdoor advertising ROI."
+category: "School Marketing & Growth"
+primary_keyword: "school outdoor advertising"
+secondary_keywords:
+  - "school billboard"
+  - "school transit advertising"
+  - "school local visibility"
+  - "school outdoor marketing"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Outdoor Advertising: Billboards, Transit Ads, Community Visibility
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -64,5 +83,5 @@ Outdoor ads build long-term brand awareness. Complements digital strategy. Essen
 
 ---
 
-**Next step:** Research outdoor advertising locations this month.
+**Next step:** Research outdoor advertising locations this month. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline converts the inquiries your outdoor ads generate into enrolled students.
 
