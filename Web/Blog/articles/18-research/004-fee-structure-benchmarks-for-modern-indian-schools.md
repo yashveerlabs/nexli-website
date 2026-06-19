@@ -25,7 +25,7 @@ This article provides comprehensive guidance on fee structure benchmarks for Ind
 
 ## The Problem
 
-Schools managing fee structure benchmarks often struggle with fragmented processes, manual workflows, and inconsistent implementation. This challenge intensifies as schools scale, requiring more robust systems and clearer procedures.
+Schools managing fee structure benchmarks often struggle with fragmented processes, manual workflows, and inconsistent implementation. This challenge intensifies as schools scale, requiring more reliable systems and clearer procedures.
 
 **Key Challenges:**
 - Fragmented processes across departments
@@ -199,7 +199,7 @@ Schools implementing these approaches systematically report significant improvem
 
 Ready to systematize your school's operations? Explore how Nexli brings clarity, consistency, and efficiency to every workflow.
 
-**[Start Your Free Demo](https://nexli.in/demo)** — See live how your school can eliminate chaos and operate with confidence. No credit card required.
+**[Book a Free Demo](/demo)** — See live how your school can eliminate chaos and operate with confidence. No credit card required.
 
 ---
 
@@ -224,14 +224,14 @@ A: Nexli uses per-student, per-month pricing with no per-staff fees. Most school
 
 ## About Yashveer Singh Rajpoot
 
-Yashveer Singh Rajpoot is the founder of Yashveer Labs, a technology studio focused on solving real problems for Indian schools. With deep experience in school operations and software design, Yashveer has helped schools across India eliminate administrative chaos and scale operations through thoughtful system design.
+Trust in technology starts with control. Yashveer Singh Rajpoot designed Nexli so that schools—not the vendor—own their school's data and decisions. Want to export all student records tomorrow? You can. Want to use Nexli with a third-party app? The system supports open APIs. Want to understand how your data is processed? Full audit trails are available. That trust-first design means schools can commit to Nexli knowing they're never locked in or dependent.
 
 ## About Yashveer Labs
 
-Yashveer Labs builds software designed specifically for the Indian school context. The company specializes in operational excellence, workflow automation, and data-driven decision making for K–12 institutions. Every tool is built based on real school feedback, not assumptions.
+The company made a deliberate choice: Nexli is not subsidized, not freemium, not artificially cheap. Schools pay what the system is worth because quality work costs real money. But the company equally decided that every feature—even in the smallest plan—is complete. Admissions, academics, fees, HR, compliance, safety, communication—all schools get all of it. Affordability should mean good price, not stripped-down features.
 
 ## How Nexli Helps
 
-Nexli is a complete school ERP that manages 55+ modules across student academics, finance, HR, compliance, and operations. 118+ roles ensure every stakeholder—from class teachers to parents to bus conductors—has exactly the information they need. Schools use Nexli to operate with confidence, transparency, and efficiency.
+Nexli's strength is that it treats child safety as foundational, not an afterthought. Direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only. POCSO complaints escalate automatically. Background verification records are tracked. That security runs through every permission, every workflow, every data field. Schools using Nexli have a system built with children in mind.
 
 ---
