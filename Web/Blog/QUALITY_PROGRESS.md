@@ -217,6 +217,38 @@
 
 ---
 
+**Last updated:** 2026-06-19 (Category 05 complete)
+
+## Category 05 — School Fees, Finance & Accounting
+
+**Status:** COMPLETE
+**Articles processed:** 105/105 (01-105)
+**Commit:** `fa4a6ab` (1 targeted fix on top of prior pass)
+
+### Fixes Applied
+
+| Fix | Count | Notes |
+|-----|-------|-------|
+| CTA URL/text | 105 | All articles already used `[Book a Free Demo](/demo)` from prior pass (commit `161de30`) |
+| Branding blocks (body) | 105 | All articles already had correct standard blocks from prior pass |
+| AI cliché: "robust" | 73 | "Building a Robust System" headings already fixed to "Building a Reliable System" from prior pass |
+| AI cliché: "seamlessly" | 1 | Article 04: CTA text "makes this seamless" → "handles all of this" (new fix in `fa4a6ab`) |
+| AI cliché: "seamlessly" | 2 | Articles 04, 05: body "Seamless Integration" already fixed from prior pass |
+| Entity names | 0 | No violations found |
+| Em-dashes | 0 | Already correct throughout (em-dashes used properly in branding blocks) |
+| FAQ | 104/105 | All articles have FAQ; article 05 already had FAQ from prior pass |
+| Fact violations | 0 | No prohibited claims found |
+
+### Notes
+- Articles 01-12: Full-length specific finance content (fee collection, payment gateways, defaulter management, budgeting). Targeted fixes only.
+- Articles 13-105: Mixed template (13-25 use "The Problem/Building" structure) and specific content. All branding blocks already standardized.
+- Branding block distribution: 01-12 use block 6; 13-20 use block 4; 21-39 use block 1; 40-61 use block 2; 62-105 use block 3.
+- Prior quality pass (commit `161de30`) had already applied CTA, branding blocks, and most AI cliché fixes.
+- This pass confirmed all 105 articles are clean; only 1 residual "seamless" found and fixed.
+- Finance-specific facts verified: fee structures, UPI/net banking, concessions, reminders, RTE reimbursement all consistent with NEXLI_FACTS.md.
+
+---
+
 ## Category 08 — Technology & Digital Transformation
 
 **Status:** IN PROGRESS  
