@@ -4,7 +4,7 @@ import { Panel } from '@/components/Panel';
 import { Button } from '@/components/Button';
 import { Badge } from '@/components/Badge';
 import { Icon } from '@/components/Icon';
-import { Modal, ConfirmModal } from '@/components/Modal';
+import { Modal } from '@/components/Modal';
 import { DataTable, type Column } from '@/components/DataTable';
 import { Field, Input, Select, Textarea } from '@/components/form';
 import { EmptyState, InfoCard } from '@/components/feedback';
@@ -12,7 +12,7 @@ import { useToast } from '@/components/Toast';
 import { formatDate, formatRelative } from '@/lib/format';
 import { useSession } from '@/app/providers/SessionProvider';
 import {
-  useItBackups, recordItBackup, deleteItBackup,
+  useItBackups, recordItBackup,
   useItIntegrations, saveItIntegration, updateItIntegration,
 } from './data';
 import {
@@ -67,7 +67,6 @@ function BackupLog({ canManage }: { canManage: boolean }) {
   const { data: backups, loading, error } = useItBackups(schoolId);
   const [recording, setRecording] = useState(false);
   const [form, setForm] = useState<BackupForm>(emptyBackup);
-  const [removing, setRemoving] = useState<ItBackup | null>(null);
   const [busy, setBusy] = useState(false);
 
   const actor = { uid: uid ?? 'unknown', name: member?.name };
@@ -92,16 +91,6 @@ function BackupLog({ canManage }: { canManage: boolean }) {
       setRecording(false);
       setForm(emptyBackup);
     } catch { toast.error('Could not record', 'Please try again.'); } finally { setBusy(false); }
-  };
-
-  const doDelete = async () => {
-    if (!schoolId || !removing) return;
-    setBusy(true);
-    try {
-      await deleteItBackup(schoolId, removing.id, actor);
-      toast.success('Entry removed');
-      setRemoving(null);
-    } catch { toast.error('Could not remove'); } finally { setBusy(false); }
   };
 
   const columns: Column<ItBackup>[] = [
@@ -130,18 +119,16 @@ function BackupLog({ canManage }: { canManage: boolean }) {
       sub={last ? `Last: ${formatRelative(last.takenAt)}` : 'No backups logged'}
       headerRight={canManage ? <Button variant="subtle" size="sm" leftIcon="plus" onClick={() => { setForm(emptyBackup); setRecording(true); }}>Record backup</Button> : undefined}
     >
-      <InfoCard icon="info" title="This is a log, not a backup job">
+      <InfoCard icon="info" title="This is an append-only log, not a backup job">
         These entries are a manual record that a backup was taken (date, scope, result). NEXLI does not
         run the backup here — on a future Blaze upgrade a scheduled Cloud Function would append these
-        entries automatically.
+        entries automatically. Entries are append-only and cannot be edited or deleted, so the log stays
+        a trustworthy history.
       </InfoCard>
 
       <DataTable
         columns={columns} rows={rows} rowKey={(b) => b.id} loading={loading}
         error={error ? 'Could not load the backup log.' : null}
-        actions={canManage ? (b) => (
-          <Button variant="ghost" size="sm" leftIcon="minus-circle" aria-label="Remove entry" onClick={() => setRemoving(b)} />
-        ) : undefined}
         emptyIcon="database" emptyTitle="No backups logged yet"
         emptyMessage={canManage ? 'Record your first backup to start the log.' : 'Backup records will appear here.'}
       />
@@ -174,9 +161,6 @@ function BackupLog({ canManage }: { canManage: boolean }) {
           </Field>
         </div>
       </Modal>
-
-      <ConfirmModal open={!!removing} onClose={() => setRemoving(null)} onConfirm={doDelete} tone="danger" loading={busy}
-        title="Remove log entry?" message="This backup log entry will be deleted. This can't be undone." confirmLabel="Remove" />
     </Panel>
   );
 }

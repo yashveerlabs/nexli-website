@@ -1,81 +1,55 @@
+import type { IconName } from '@/components/Icon';
 import { Panel } from '@/components/Panel';
-import { Badge } from '@/components/Badge';
-import { Icon, type IconName } from '@/components/Icon';
+import { Icon } from '@/components/Icon';
 import { AILockedOverlay } from '@/components/AILockedOverlay';
 import type { RoleId } from '@/types/roles';
 
-/** A single headline point in the morning summary. */
-interface SummaryPoint {
-  tone: 'gold' | 'danger' | 'info';
+/** A short description of what a briefing section will surface once AI is live. */
+interface PreviewItem {
   icon: IconName;
-  label: string;
-  value: string;
-  note: string;
-}
-
-/** A "needs attention today" row. */
-interface AttentionItem {
-  color: string;
   title: string;
-  sub: string;
-  badge: { variant: 'danger' | 'warning' | 'info'; text: string };
+  desc: string;
 }
 
-const SUMMARY: SummaryPoint[] = [
+const SUMMARY_PREVIEW: PreviewItem[] = [
   {
-    tone: 'danger',
     icon: 'alert-triangle',
-    label: 'Attendance anomaly',
-    value: '3 sections',
-    note: 'Grade 8-B, 9-A and 10-C are trending below the 75% threshold this week.',
+    title: 'Attendance anomalies',
+    desc: 'Sections trending below your attendance threshold this week.',
   },
   {
-    tone: 'gold',
     icon: 'wallet',
-    label: 'Fee alerts',
-    value: '12 families',
-    note: 'Likely to miss the upcoming due date based on past payment behaviour.',
+    title: 'Fee alerts',
+    desc: 'Families likely to miss an upcoming due date, drawn from your records.',
   },
   {
-    tone: 'info',
     icon: 'shield-check',
-    label: 'Compliance',
-    value: '2 deadlines',
-    note: 'RTE quarterly return and fire-safety certificate renewal fall due this month.',
+    title: 'Compliance',
+    desc: 'Statutory returns and certificate renewals falling due soon.',
   },
 ];
 
-const ATTENTION: AttentionItem[] = [
+const ACTIONS_PREVIEW: PreviewItem[] = [
   {
-    color: 'var(--danger)',
-    title: 'Follow up on 4 students with 3+ consecutive absences',
-    sub: 'Counsellor outreach recommended · Grades 6–10',
-    badge: { variant: 'danger', text: 'High' },
+    icon: 'users',
+    title: 'Follow-ups worth prioritising',
+    desc: 'Students or staff matters that need attention today, ranked by urgency.',
   },
   {
-    color: 'var(--warning)',
-    title: 'Approve 7 pending leave requests before today’s cut-off',
-    sub: 'Staff leave · 2 affect exam invigilation duty',
-    badge: { variant: 'warning', text: 'Today' },
-  },
-  {
-    color: 'var(--gold)',
-    title: 'Draft the term-end fee reminder for 12 flagged families',
-    sub: 'Suggested gentle tone · avg. outstanding ₹18,400',
-    badge: { variant: 'info', text: 'Suggested' },
-  },
-  {
-    color: 'var(--info, #5b9dd9)',
-    title: 'Review the auto-generated weekly board summary',
-    sub: 'Ready for the Principal’s sign-off',
-    badge: { variant: 'info', text: 'Review' },
+    icon: 'file-text',
+    title: 'A ready-to-review summary',
+    desc: 'An auto-drafted board/principal summary you can refine and sign off.',
   },
 ];
 
 /**
- * Smart briefing — a daily AI briefing surface. Fully built; the primary content
- * sits beneath <AILockedOverlay> (provider-less per the NEXLI AI strategy). The
- * inputs/buttons are visually present but inert (the veil is aria-hidden over them).
+ * Smart briefing — a daily AI briefing surface.
+ *
+ * No AI provider is wired yet (see NEXLI_BUILD_PLAN.md §13A), so instead of a
+ * fabricated "good morning" summary with invented section names, family counts
+ * and to-dos, this shows an honest preview of what the briefing WILL distil from
+ * your school&rsquo;s own data. Nothing here is a real or sample result, and the
+ * &ldquo;ask NEXLI&rdquo; box is intentionally absent until the model is live.
  */
 export function SmartBriefingTab({ role }: { role?: RoleId }) {
   const audience = role === 'parent' || role === 'student' ? 'you' : 'your school';
@@ -84,72 +58,61 @@ export function SmartBriefingTab({ role }: { role?: RoleId }) {
     <div className="in-stack">
       <Panel
         title="Daily briefing"
-        sub="Generated each morning"
+        sub="Preview"
         headerRight={<span className="nx-navtag">AI</span>}
       >
         <AILockedOverlay title="Smart briefing">
-          <div className="in-hero">
-            <div className="in-hero__top">
-              <span className="in-hero__badge">
-                <Icon name="sparkles" size={20} />
+          <div className="in-preview">
+            <div className="in-preview__head">
+              <span className="in-preview__icon">
+                <Icon name="sparkles" size={18} />
               </span>
               <div style={{ minWidth: 0 }}>
-                <div className="in-hero__greeting">Good morning — here’s what matters for {audience} today</div>
-                <div className="in-hero__meta">
-                  <Icon name="calendar" size={12} style={{ verticalAlign: '-2px', marginRight: 4 }} />
-                  A 3-point summary distilled from attendance, fees and compliance
+                <div className="in-preview__title">A short summary, every morning</div>
+                <div className="in-preview__desc">
+                  Once a NEXLI AI model is connected, this will open with a brief, plain-language
+                  summary of what matters for {audience} today — distilled from attendance, fees and
+                  compliance. It is not active yet, so no summary is generated.
                 </div>
               </div>
             </div>
-
-            <div className="in-summary">
-              {SUMMARY.map((p) => (
-                <div className="in-sumcard" key={p.label}>
-                  <div className="in-sumcard__head">
-                    <span className={`in-sumcard__icon is-${p.tone}`}>
-                      <Icon name={p.icon} size={15} />
-                    </span>
-                    <span className="in-sumcard__label">{p.label}</span>
+            <div className="in-preview__grid">
+              {SUMMARY_PREVIEW.map((p) => (
+                <div className="in-preview__card" key={p.title}>
+                  <span className="in-preview__icon">
+                    <Icon name={p.icon} size={16} />
+                  </span>
+                  <div style={{ minWidth: 0 }}>
+                    <div className="in-preview__title">{p.title}</div>
+                    <div className="in-preview__desc">{p.desc}</div>
                   </div>
-                  <div className="in-sumcard__value">{p.value}</div>
-                  <div className="in-sumcard__note">{p.note}</div>
                 </div>
               ))}
-            </div>
-
-            <div className="in-ask">
-              <span className="in-ask__icon">
-                <Icon name="sparkles" size={16} />
-              </span>
-              <input
-                className="in-ask__input"
-                type="text"
-                placeholder="Ask NEXLI… e.g. “Which classes need attention this week?”"
-                disabled
-                tabIndex={-1}
-                aria-hidden="true"
-              />
-              <span className="in-ask__send" aria-hidden="true">
-                <Icon name="send" size={15} />
-              </span>
             </div>
           </div>
         </AILockedOverlay>
       </Panel>
 
-      <Panel title="What needs attention today" sub={String(ATTENTION.length)} headerRight={<span className="nx-navtag">AI</span>}>
+      <Panel title="What needs attention today" sub="Preview" headerRight={<span className="nx-navtag">AI</span>}>
         <AILockedOverlay title="Prioritised actions">
-          <div className="in-attention">
-            {ATTENTION.map((a) => (
-              <div className="in-attn" key={a.title}>
-                <span className="in-attn__dot" style={{ background: a.color }} />
-                <div className="in-attn__body">
-                  <div className="in-attn__title">{a.title}</div>
-                  <div className="in-attn__sub">{a.sub}</div>
+          <div className="in-preview">
+            <p className="in-preview__lead">
+              When AI is live, this will list the day&rsquo;s most important follow-ups, ordered by
+              urgency and drawn from your school&rsquo;s own data. No tasks are shown yet.
+            </p>
+            <div className="in-preview__grid">
+              {ACTIONS_PREVIEW.map((p) => (
+                <div className="in-preview__card" key={p.title}>
+                  <span className="in-preview__icon">
+                    <Icon name={p.icon} size={16} />
+                  </span>
+                  <div style={{ minWidth: 0 }}>
+                    <div className="in-preview__title">{p.title}</div>
+                    <div className="in-preview__desc">{p.desc}</div>
+                  </div>
                 </div>
-                <Badge variant={a.badge.variant}>{a.badge.text}</Badge>
-              </div>
-            ))}
+              ))}
+            </div>
           </div>
         </AILockedOverlay>
       </Panel>

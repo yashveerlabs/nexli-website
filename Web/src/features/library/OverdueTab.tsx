@@ -5,9 +5,9 @@ import { DataTable, type Column } from '@/components/DataTable';
 import { formatDate, formatINR } from '@/lib/format';
 import { useCirculation } from '@/features/daily/data';
 import type { BookCirculation } from '@/types/daily';
-import { isOverdue, daysOverdue } from './shared';
+import { isOverdue, daysOverdue, computeFine, DEFAULT_FINE_PER_DAY } from './shared';
 
-/** Overdue tab: every overdue loan with days-overdue + optional fine. */
+/** Overdue tab: every overdue loan with days-overdue + a computed fine. */
 export function OverdueTab() {
   const { schoolId } = useSession();
   const { data: records, loading, error } = useCirculation(schoolId);
@@ -30,16 +30,23 @@ export function OverdueTab() {
     },
     { key: 'due', header: 'Due', hideOnMobile: true, render: (c) => formatDate(c.dueDate) },
     { key: 'days', header: 'Overdue', align: 'right', render: (c) => <Badge variant="danger">{daysOverdue(c)} day(s)</Badge> },
-    { key: 'fine', header: 'Fine', align: 'right', render: (c) => (c.fine != null ? formatINR(c.fine) : '—') },
+    { key: 'fine', header: 'Fine', align: 'right', render: (c) => <span style={{ fontWeight: 600 }}>{formatINR(computeFine(c))}</span> },
   ];
 
   return (
-    <DataTable
-      columns={columns} rows={rows} rowKey={(c) => c.id} loading={loading}
-      error={error ? 'Could not load overdue records.' : null}
-      emptyIcon="check-circle"
-      emptyTitle="Nothing overdue"
-      emptyMessage="Every issued book is within its due date. Nicely kept."
-    />
+    <>
+      <DataTable
+        columns={columns} rows={rows} rowKey={(c) => c.id} loading={loading}
+        error={error ? 'Could not load overdue records.' : null}
+        emptyIcon="check-circle"
+        emptyTitle="Nothing overdue"
+        emptyMessage="Every issued book is within its due date. Nicely kept."
+      />
+      {rows.length > 0 && (
+        <p className="lib-note" style={{ marginTop: 10 }}>
+          Fine = days overdue × {formatINR(DEFAULT_FINE_PER_DAY)}/day. A stored fine, where recorded on the loan, takes precedence.
+        </p>
+      )}
+    </>
   );
 }

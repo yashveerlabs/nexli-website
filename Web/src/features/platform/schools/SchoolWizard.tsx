@@ -503,6 +503,7 @@ function SuccessScreen({
   onList: () => void;
 }) {
   const toast = useToast();
+  const [revealed, setRevealed] = useState(false);
   const copy = () => {
     void navigator.clipboard?.writeText(`School: ${schoolName}\nEmail: ${email}\nTemp password: ${password}`);
     toast.success('Copied', 'Credentials copied to clipboard.');
@@ -515,8 +516,26 @@ function SuccessScreen({
         <p className="nx-status__msg">The school and its admin account are ready. Share these credentials securely with the School Admin.</p>
         <div className="nx-creds">
           <div className="nx-kv"><span className="nx-kv__k">Sign-in email</span><span className="nx-kv__v">{email}</span></div>
-          <div className="nx-kv"><span className="nx-kv__k">Temp password</span><span className="nx-kv__v" style={{ fontFamily: 'monospace' }}>{password}</span></div>
+          <div className="nx-kv">
+            <span className="nx-kv__k">Temp password</span>
+            <span className="nx-kv__v" style={{ display: 'inline-flex', alignItems: 'center', gap: 8 }}>
+              <span style={{ fontFamily: 'monospace' }}>{revealed ? password : '•'.repeat(Math.max(8, password.length))}</span>
+              <button
+                type="button"
+                className="nx-input__reveal"
+                onClick={() => setRevealed((v) => !v)}
+                aria-label={revealed ? 'Hide password' : 'Show password'}
+                aria-pressed={revealed}
+              >
+                <Icon name={revealed ? 'eye-off' : 'eye'} size={16} />
+              </button>
+            </span>
+          </div>
         </div>
+        <p className="nx-status__msg" style={{ display: 'flex', alignItems: 'flex-start', gap: 6, color: 'var(--warning)', fontSize: 12.5, marginTop: 10 }}>
+          <Icon name="alert-triangle" size={14} style={{ flexShrink: 0, marginTop: 2 }} />
+          One-time password — store it securely now. For safety the admin should change it on first sign-in; it won&rsquo;t be shown again.
+        </p>
         <div className="nx-status__actions">
           <Button variant="gold" leftIcon="check-circle" onClick={onView}>Open school</Button>
           <Button variant="ghost" leftIcon="copy" onClick={copy}>Copy credentials</Button>

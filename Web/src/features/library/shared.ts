@@ -110,6 +110,26 @@ export function daysOverdue(c: BookCirculation, now = Date.now()): number {
   return Math.max(0, Math.floor((now - c.dueDate) / DAY_MS));
 }
 
+/**
+ * Default overdue fine in rupees per day. Configurable: there is no per-school
+ * library fine-rate setting yet, so this named constant is the single source of
+ * truth. When a Library Settings UI is added, read the school's rate and fall
+ * back to this value. (See NOTES — a rate-config UI should follow.)
+ */
+export const DEFAULT_FINE_PER_DAY = 2;
+
+/**
+ * Fine owed on a circulation, in rupees.
+ *
+ * If a fine was explicitly recorded on the loan (e.g. settled on return) that
+ * stored value wins. Otherwise the fine is computed for real from how many whole
+ * days the loan is overdue × the per-day rate. Returns 0 when nothing is overdue.
+ */
+export function computeFine(c: BookCirculation, ratePerDay = DEFAULT_FINE_PER_DAY, now = Date.now()): number {
+  if (typeof c.fine === 'number') return c.fine;
+  return daysOverdue(c, now) * ratePerDay;
+}
+
 /** Active (not returned) circulation records, newest issue first. */
 export function activeIssues(records: BookCirculation[]): BookCirculation[] {
   return records

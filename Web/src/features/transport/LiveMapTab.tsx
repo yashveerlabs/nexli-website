@@ -50,11 +50,11 @@ export function LiveMapTab() {
             <div className="ops-map-overlay" role="status">
               <EmptyState
                 icon="map-pin"
-                title="No live vehicles"
+                title="Live tracking not active"
                 message={
                   stops > 0
-                    ? 'Route stops are shown on the map. Live positions appear when drivers share their location.'
-                    : 'Live positions appear when drivers share their location from the bus.'
+                    ? 'This map shows your route stops. Live vehicle tracking requires the driver GPS app, which is not yet active — once drivers share their location, their buses will appear here.'
+                    : 'Live vehicle tracking requires the driver GPS app, which is not yet active. Add stops with coordinates to your routes to see them mapped here.'
                 }
               />
             </div>
@@ -63,7 +63,7 @@ export function LiveMapTab() {
       )}
 
       <p className="fin-noprint" style={{ marginTop: 12, fontSize: 11.5, color: 'var(--text-muted)', display: 'flex', gap: 6, alignItems: 'center' }}>
-        <Icon name="info" size={13} /> Positions are reported by the driver app — there is no routing or ETA on this map.
+        <Icon name="info" size={13} /> This is a route &amp; stop map. Live positions would be reported by the driver GPS app (not yet active); there is no routing or ETA here.
       </p>
 
       {latest.length > 0 && (

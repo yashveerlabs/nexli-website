@@ -132,5 +132,25 @@
 .in-section-head__title { font-size: 15px; font-weight: 700; letter-spacing: -0.005em; }
 .in-stack { display: flex; flex-direction: column; gap: 16px; }
 
+/* ---- Honest "coming soon" preview blocks (no fabricated data) ----
+   Used by the Smart-briefing / Predictions / Assistants tabs to describe what
+   each AI surface WILL do once a provider is connected, without rendering any
+   placeholder names, numbers or sample outputs. */
+.in-preview { display: flex; flex-direction: column; gap: 14px; }
+.in-preview__lead { font-size: 13px; color: var(--text-muted); line-height: 1.55; margin: 0; }
+.in-preview__head { display: flex; align-items: flex-start; gap: 11px; }
+.in-preview__grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+.in-preview__card {
+  display: flex; align-items: flex-start; gap: 11px; min-width: 0;
+  border: 1px solid var(--hairline); border-radius: var(--radius-md); background: var(--card); padding: 13px 14px;
+}
+.in-preview__card--tool { background: var(--card); }
+.in-preview__icon {
+  width: 34px; height: 34px; border-radius: 11px; display: grid; place-items: center; flex-shrink: 0;
+  color: var(--gold); border: 1px solid rgba(198, 165, 92, 0.26); background: rgba(198, 165, 92, 0.07);
+}
+.in-preview__title { font-size: 13.5px; font-weight: 700; letter-spacing: -0.005em; }
+.in-preview__desc { font-size: 12.5px; color: var(--text-muted); margin-top: 2px; line-height: 1.5; }
+
 /* Reduced motion: nothing animates here beyond inherited chart transitions,
    which already respect prefers-reduced-motion via the chart components. */
