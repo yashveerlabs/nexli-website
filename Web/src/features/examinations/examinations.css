@@ -122,6 +122,27 @@
 .nx-ticket__id { font-size: 12px; color: var(--text-muted); }
 .nx-ticket__id strong { color: var(--text); }
 
+/* ---- Board-result viewer (per-student statement) ---- */
+.nx-brs-filters {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin-bottom: 16px;
+}
+@media (max-width: 720px) { .nx-brs-filters { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 420px) { .nx-brs-filters { grid-template-columns: 1fr; } }
+
+.nx-brs-results { display: flex; flex-direction: column; gap: 16px; }
+.nx-brs-result__head { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+
+.nx-brs-totals {
+  display: flex; flex-wrap: wrap; gap: 12px 28px; justify-content: flex-end;
+  align-items: center; margin-top: 14px; padding-top: 14px; border-top: 1px dashed var(--border);
+}
+.nx-brs-totals__item { display: flex; align-items: center; gap: 8px; }
+.nx-brs-totals__lbl { font-size: 11.5px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.04em; }
+.nx-brs-totals__val { font-size: 15px; font-weight: 700; color: var(--text); font-variant-numeric: tabular-nums; }
+
 /* ---- Report card (student/parent published view) ---- */
 .nx-report__grid { width: 100%; }
 .nx-report-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--border); }

@@ -3,6 +3,7 @@ import { Button } from '@/components/Button';
 import { Icon } from '@/components/Icon';
 import { Panel } from '@/components/Panel';
 import { Badge } from '@/components/Badge';
+import { Tabs } from '@/components/Tabs';
 import { cn } from '@/lib/cn';
 import { Field, Select, Input } from '@/components/form';
 import { EmptyState, InfoCard } from '@/components/feedback';
@@ -20,7 +21,10 @@ import {
   useBoardResults, saveBoardResults, toStoredSubject,
   type NewBoardResult, type BoardResult,
 } from './data';
+import { BoardResultViewer } from './BoardResultViewer';
 import '@/features/students/import/import.css';
+
+type BoardSubTab = 'view' | 'import';
 
 type Step = 'upload' | 'map' | 'preview' | 'done';
 
@@ -45,6 +49,7 @@ export function BoardResultsTab() {
 
   const actor = useMemo(() => ({ uid: uid ?? 'unknown', name: member?.name }), [uid, member?.name]);
 
+  const [subTab, setSubTab] = useState<BoardSubTab>('view');
   const [step, setStep] = useState<Step>('upload');
   const [fileName, setFileName] = useState('');
   const [parsed, setParsed] = useState<ParsedCsv | null>(null);
@@ -183,12 +188,26 @@ export function BoardResultsTab() {
   };
 
   return (
-    <div>
-      {!canWrite ? (
-        <InfoCard icon="info" title="View only">
-          You can review imported board results below. Importing requires exam write access.
-        </InfoCard>
-      ) : (
+    <Tabs
+      variant="pill"
+      aria-label="Board results sections"
+      value={subTab}
+      onChange={(id) => setSubTab(id as BoardSubTab)}
+      tabs={[
+        { id: 'view', label: 'View results', icon: 'eye' },
+        { id: 'import', label: 'Import', icon: 'upload' },
+      ]}
+    >
+      {(active) =>
+        active === 'view' ? (
+          <BoardResultViewer />
+        ) : (
+          <div>
+            {!canWrite ? (
+              <InfoCard icon="info" title="View only">
+                You can review imported board results below. Importing requires exam write access.
+              </InfoCard>
+            ) : (
         <Panel
           title="Import board results"
           sub="CBSE / ICSE / State — bulk-import external results from a CSV"
@@ -331,26 +350,29 @@ export function BoardResultsTab() {
             </div>
           )}
 
-          {step !== 'done' && <Badge variant="muted" className="nx-import__safe">Nothing is saved until you confirm the import</Badge>}
-        </Panel>
-      )}
+            {step !== 'done' && <Badge variant="muted" className="nx-import__safe">Nothing is saved until you confirm the import</Badge>}
+          </Panel>
+            )}
 
-      <div className="ac-bar" style={{ marginTop: 18 }}>
-        <span className="ac-bar__title">Imported board results</span>
-        {existing.length > 0 && (
-          <Button variant="ghost" size="sm" leftIcon="download" onClick={exportExisting}>Export CSV</Button>
-        )}
-      </div>
-      <DataTable
-        columns={listColumns}
-        rows={existing.slice().sort((a, b) => (b.importedAt ?? 0) - (a.importedAt ?? 0))}
-        rowKey={(r) => r.id}
-        loading={listLoading}
-        error={listError ? 'Could not load board results.' : null}
-        emptyIcon="award"
-        emptyTitle="No board results yet"
-        emptyMessage="Import an external CBSE / ICSE / State result sheet above to see results here."
-      />
-    </div>
+            <div className="ac-bar" style={{ marginTop: 18 }}>
+              <span className="ac-bar__title">Imported board results</span>
+              {existing.length > 0 && (
+                <Button variant="ghost" size="sm" leftIcon="download" onClick={exportExisting}>Export CSV</Button>
+              )}
+            </div>
+            <DataTable
+              columns={listColumns}
+              rows={existing.slice().sort((a, b) => (b.importedAt ?? 0) - (a.importedAt ?? 0))}
+              rowKey={(r) => r.id}
+              loading={listLoading}
+              error={listError ? 'Could not load board results.' : null}
+              emptyIcon="award"
+              emptyTitle="No board results yet"
+              emptyMessage="Import an external CBSE / ICSE / State result sheet above to see results here."
+            />
+          </div>
+        )
+      }
+    </Tabs>
   );
 }
