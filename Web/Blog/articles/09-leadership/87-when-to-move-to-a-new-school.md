@@ -3,6 +3,19 @@ title: "When to Move to a New School"
 slug: when-to-move-to-a-new-school
 category: 9
 order: 87
+primary_keyword: "when to move to a new school as a principal"
+meta_description: "Career progression sometimes means leaving your school. Learn how to recognize the right signals — burnout, conflict, new opportunity — and how to make the move professionally."
+secondary_keywords:
+  - "principal career progression"
+  - "when to leave a headship"
+  - "school leadership career change"
+  - "career decision making for principals"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 7
+branding_block_company: 7
+branding_block_nexli: 7
 ---
 
 # When to Move to a New School
@@ -30,3 +43,18 @@ Career progression may mean leaving your school. Know when to move on.
 **Transition** - Give proper notice, complete well, leave legacy positive, help successor, maintain relationships, professional departure.
 
 Move when right opportunity appears and/or current situation unsustainable. Trust your instincts.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen—a chronically absent student, a teacher not submitting lesson plans, fees slipping—suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
+
+**About Yashveer Labs**  
+The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable—it's where better solutions emerge.
+
+**About Nexli**  
+What schools notice first about Nexli: the admission pipeline works. Lead tracking, document verification, testing scheduling, interview coordination, offer generation, fee collection, enrollment—every step is visible to every stakeholder. Admission inquiries don't get lost. Follow-ups don't slip. The result: schools see admission conversion improve measurably. That first-impression success builds confidence in the rest of the system.
+
+---
+
+[Book a Free Demo](/demo)
