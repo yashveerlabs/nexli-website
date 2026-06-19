@@ -206,3 +206,31 @@ Re-deploy command (Admin SDK, no CLI login):
 ### Files changed
 **New:** `ExecutiveDashboard.tsx`, `CertificatePreview.tsx`, `FleetTab.tsx`, `GradingSystemModal.tsx`, `ReportCardTrend.tsx`
 **Modified (26 files):** attendance/MarkAttendancePage + css; certificates/CertificatesHub + data + print; dashboards/StaffDashboard; hpc/HpcCardView + HpcFormPage + HpcHub; payroll/SalaryStructureFormPage; qpaper ×4; reportcard ×6 + css; transport/TransportHub + css; lib/ownership + roles/catalog; types/daily + reportcard
+
+---
+
+## 2026-06-19 — Pre-launch audit remediation (Phase 3 reports 1.md + 2.md)
+
+Systematic fix pass against the deduplicated **P0–P3 / Tier-0/1 launch-blocker** lists from the two Phase 3 audits (prior composite score **2.7/10**). Work split across **8 area-owned Opus subagents in 4 priority-ordered waves**; every item verified against current code first (some were already resolved by earlier passes). Orchestrator runs `tsc --noEmit` + `vite build` + Firestore rules emulator (JDK 21 via Android Studio JBR) and commits a checkpoint per area. **Build green; rules tests 190/0.** External/paid/decision items are collected in a "NEEDS YASHVEER" list (not faked).
+
+### Wave 1 — Security · Legal · Product honesty
+
+**Security & Firestore rules** (commit `780d3ac`)
+- grantedPermissions self-write **blocked** — equality guards on grantedPermissions/permissions/secondaryRoleId/secondaryRole/delegatedModules/scope/isSuperAdmin in the member self-update branch (was: full privilege escalation).
+- `conversations`/`messages`: **participant-only** read/write rules + added to `isRestrictedCollection()` (was: any member could read every thread incl. POCSO escalations).
+- `userIndex` cross-tenant write **closed**: tenant immutable on update, writer must be admin of the *existing* doc's school, no super-admin escalation.
+- **19 wildcard collections locked** with role allowlists (vendors/PO/GRN/requisitions/expenses/*_settings, fee_heads/fee_structures, smc_*, compliance_*, udise_profile, rte_*, visitors/visitor_blacklist, delegations, pocso_counters, erasure_requests, breach_notifications) + new helpers isProcurementStaff/isGovernanceStaff/isAdmissionsStaff/isSecurityStaff/isBreachStaff.
+- `firebase.json`: CSP, HSTS, X-Frame-Options DENY, X-Content-Type-Options, Referrer-Policy, Permissions-Policy.
+- `vite.config` sourcemap:false; env-gated **App Check** seam in lib/firebase; `signOutAndClearLocalData()` (terminate + clearIndexedDbPersistence + reload) wired into SessionProvider logout.
+- Visitor blacklist now **hard-blocks** check-in; OTP/passNo use `crypto.getRandomValues`; certificate accentColor sanitized against `#RRGGBB` before injection (XSS); print window opened synchronously (popup-blocker fix).
+- +45 rules tests (**190/0**). `serviceAccount.json` already gitignored/untracked (key rotation = owner action).
+
+**Legal & compliance** (commit `44786d1`)
+- `legal/` DRAFT docs (lawyer-review banner): PrivacyPolicy, TermsOfService, DataProcessingAgreement, ParentConsent — India-specific (DPDP 2023 incl. s.9 children's data, POCSO, RTE, CBSE, IT Act/SPDI).
+- POCSO: **atomic** case numbering via `pocso_counters` transaction; **24h s.19** reporting deadline + live countdown + OVERDUE alerts + `reportedToAuthoritiesAt`.
+- DPDP: `useConsentStatus`/`ConsentGate`/`assertConsent` primitive (fail-closed); `erasure_requests` register (workflow; cascading hard-delete stubbed); `breach_notifications` register (72h clock).
+
+**Product honesty** (commit `4cbb252`)
+- AI insights: removed **all** fabricated student names/risk scores/briefings/fake inputs → honest "Coming Soon — Preview" (no fake PII remains under the AI overlay).
+- Transport LiveMap: honest empty state (live tracking needs driver GPS app); library OverdueTab: **real** per-day fine computation (`computeFine`, `DEFAULT_FINE_PER_DAY`).
+- itadmin backup log: removed delete affordance (append-only); SchoolWizard temp password masked + reveal toggle + one-time/expiry warning.
