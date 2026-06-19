@@ -130,7 +130,7 @@ Some vendors offer "free" core features + paid premium add-ons.
 - Paid (₹2,00,000–₹5,00,000/year): Advanced analytics, CBSE compliance reports, counselling, POCSO management
 
 **Reality Check:**  
-The "free" features are usually incomplete. You need the paid tier to run actual operations. The freemium model is really "feature-limited free tier + necessary premium tier." Calculate your true cost assuming you'll need most premium features.
+The "free" features are usually incomplete. You need the paid tier to run actual operations. The freemium model is "feature-limited free tier + necessary premium tier." Calculate your true cost assuming you'll need most premium features.
 
 ## The Hidden Variable: Implementation Cost
 
