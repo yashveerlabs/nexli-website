@@ -1,6 +1,6 @@
 import { defineCollection, z } from "astro:content";
-import { glob } from "astro/loaders";
 import { kbLoader } from "./lib/kb-loader.mjs";
+import { legalLoader } from "./lib/legal-loader.mjs";
 
 // --- Knowledge Base -----------------------------------------------------------
 // ~2,000 articles from Web/Blog/articles, structured as NN-category/NN-slug.md.
@@ -15,10 +15,11 @@ const kb = defineCollection({
 });
 
 // --- Legal --------------------------------------------------------------------
-// Draft legal documents (no frontmatter) rendered as styled pages.
+// Draft legal documents rendered as styled pages, with internal drafting notes
+// stripped at load time (see legal-loader.mjs).
 const legal = defineCollection({
-  loader: glob({ pattern: "*.md", base: "../legal" }),
-  schema: z.object({}).passthrough(),
+  loader: legalLoader(),
+  schema: z.object({ title: z.string() }),
 });
 
 export const collections = { kb, legal };

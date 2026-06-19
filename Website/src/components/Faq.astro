@@ -25,12 +25,12 @@ const faqSchema = {
 };
 ---
 {items.length > 0 && (
-  <section class="section" aria-labelledby="faq-heading">
+  <section class="section">
     <div class="container-nx">
       <div class="mx-auto max-w-3xl">
         {eyebrow && <p class="eyebrow">{eyebrow}</p>}
-        <h2 id="faq-heading" class="reveal mt-3 text-3xl md:text-4xl">{title}</h2>
-        <div class="mt-8 divide-y divide-line border-y border-line">
+        {title && <h2 class="reveal mt-3 text-3xl md:text-4xl">{title}</h2>}
+        <div class={`${title || eyebrow ? "mt-8" : ""} divide-y divide-line border-y border-line`}>
           {items.map((it) => (
             <details class="faq-item group">
               <summary class="flex cursor-pointer list-none items-center justify-between gap-4 py-5 text-left">
