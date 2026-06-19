@@ -158,4 +158,56 @@ export interface TransferCertificate extends TenantRecord {
   tcNumber?: string;
   clearances?: TCClearanceItem[];
   remarks?: string;
+
+  /* -------------------- CBSE Appendix-V particulars --------------------------
+   * Standard fields for the CBSE Affiliation Bye-Laws "Appendix-V" Transfer
+   * Certificate. All optional so the lightweight request flow is unaffected; the
+   * detail page lets staff fill them before issue, and the printable layout reads
+   * them. Several fall back to the linked Student record when blank.
+   *
+   * IMPORTANT (LEGAL REVIEW): the exact field labels, order and wording MUST be
+   * verified against the LATEST CBSE Affiliation Bye-Laws before relying on this
+   * for an official document — CBSE periodically revises Appendix-V. Treat the
+   * labels below as a working draft, not a certified template.
+   * ------------------------------------------------------------------------- */
+  /** Father's / guardian's name. */
+  fatherName?: string;
+  /** Mother's name. */
+  motherName?: string;
+  nationality?: string;
+  /** Social category as printed (e.g. General / SC / ST / OBC). */
+  category?: string;
+  /** Whether the candidate belongs to SC / ST / OBC (CBSE asks this explicitly). */
+  isScStObc?: boolean;
+  /** Date of birth in figures (epoch-ms); the words form is derived for print. */
+  dob?: number;
+  /** Date of birth in words, as entered/verified (overrides the derived words). */
+  dobInWords?: string;
+  /** Class in which the student was last studying (in figures + words). */
+  classLastStudied?: string;
+  /** Class to which the student was promoted/eligible (e.g. "IX"). */
+  classPromotedTo?: string;
+  /** Whether the student has paid all school dues. */
+  duesPaid?: boolean;
+  /** Whether any fee concession was availed; describe in `feeConcessionDetail`. */
+  feeConcession?: boolean;
+  feeConcessionDetail?: string;
+  /** Total number of working days in the session. */
+  workingDaysTotal?: number;
+  /** Number of working days the student was present. */
+  workingDaysPresent?: number;
+  /** Whether the student is an NCC cadet / Boy Scout / Girl Guide etc. */
+  nccScoutGuide?: boolean;
+  /** Games played / extra-curricular activities in which the student took part. */
+  gamesActivities?: string;
+  /** General conduct (e.g. Good / Satisfactory). */
+  generalConduct?: string;
+  /** Date the application for the TC was made (epoch-ms). */
+  applicationDate?: number;
+  /** Date the TC was issued (epoch-ms) — mirrors `issuedDate`; kept for the form. */
+  certificateIssueDate?: number;
+  /** Date on which the student last attended / left the school (epoch-ms). */
+  dateOfLeaving?: number;
+  /** Any other remarks for the certificate body. */
+  otherRemarks?: string;
 }

@@ -5,7 +5,7 @@ import { DataTable, type Column } from '@/components/DataTable';
 import { formatDate, formatINR } from '@/lib/format';
 import { useCirculation } from '@/features/daily/data';
 import type { BookCirculation } from '@/types/daily';
-import { isOverdue, daysOverdue, computeFine, DEFAULT_FINE_PER_DAY } from './shared';
+import { isOverdue, daysOverdue, computeFine, DEFAULT_FINE_PER_DAY } from './fines';
 
 /** Overdue tab: every overdue loan with days-overdue + a computed fine. */
 export function OverdueTab() {

@@ -2,14 +2,16 @@ import { useMemo } from 'react';
 import { KPICard } from '@/components/KPICard';
 import { Panel } from '@/components/Panel';
 import { Button } from '@/components/Button';
+import { Icon } from '@/components/Icon';
 import { EmptyState, Skeleton } from '@/components/feedback';
 import { useToast } from '@/components/Toast';
 import { formatNumber } from '@/lib/format';
 import { useSession } from '@/app/providers/SessionProvider';
-import { useStudents, useStaff, useGrades } from './data';
+import { useStudents, useStaff, useGrades, useUdiseProfile } from './data';
 import {
   buildEnrolmentReport, reportToCsv, reportFileName,
   GENDERS, GENDER_LABEL, GENDER_SHORT, CATEGORY_BUCKETS, CATEGORY_LABEL,
+  INFRA_COUNT_META, FACILITY_META,
 } from './meta';
 
 /** Live UDISE enrolment report, aggregated from the school's own SIS rosters. */
@@ -19,6 +21,9 @@ export function ReportTab() {
   const { data: students, loading: ls, error: es } = useStudents(schoolId);
   const { data: staff, loading: lt, error: et } = useStaff(schoolId);
   const { data: grades, loading: lg, error: eg } = useGrades(schoolId);
+  // Infrastructure figures come from the manually-maintained UDISE+ profile doc
+  // (not aggregated from SIS); shown read-only alongside the live enrolment.
+  const { data: profile } = useUdiseProfile(schoolId);
 
   const loading = ls || lt || lg;
   const error = es || et || eg;
@@ -31,7 +36,7 @@ export function ReportTab() {
   const exportCsv = () => {
     try {
       const asOf = Date.now();
-      const csv = reportToCsv(report, { schoolName: school?.name, asOf });
+      const csv = reportToCsv(report, { schoolName: school?.name, asOf, profile: profile ?? undefined });
       // Prepend a BOM so Excel reads UTF-8 correctly.
       const blob = new Blob([`﻿${csv}`], { type: 'text/csv;charset=utf-8;' });
       const url = URL.createObjectURL(blob);
@@ -171,6 +176,37 @@ export function ReportTab() {
               <div className="cmp-stat__label">Pupil-teacher ratio</div>
               <div className="cmp-stat__value">{report.ptr != null ? `${report.ptr.toFixed(1)}:1` : '—'}</div>
             </div>
+          </div>
+        </Panel>
+
+        {/* Infrastructure — from the UDISE+ profile (counts + facility flags). */}
+        <Panel title="Infrastructure" sub="From UDISE+ profile" bodyClassName="udise-panel__body">
+          <div className="cmp-udise-grid">
+            <div className="cmp-stat">
+              <div className="cmp-stat__label">Classrooms</div>
+              <div className="cmp-stat__value">{profile?.classrooms != null ? formatNumber(profile.classrooms) : '—'}</div>
+            </div>
+            <div className="cmp-stat">
+              <div className="cmp-stat__label">Functional toilets</div>
+              <div className="cmp-stat__value">{profile?.functionalToilets != null ? formatNumber(profile.functionalToilets) : '—'}</div>
+            </div>
+            {INFRA_COUNT_META.map((c) => (
+              <div key={c.key} className="cmp-stat">
+                <div className="cmp-stat__label">{c.label}</div>
+                <div className="cmp-stat__value">{profile?.[c.key] != null ? formatNumber(profile[c.key] as number) : '—'}</div>
+              </div>
+            ))}
+          </div>
+          <div className="udise-fac-grid" style={{ marginTop: 14 }} role="group" aria-label="Facilities available">
+            {FACILITY_META.map((f) => {
+              const on = profile?.[f.key] === true;
+              return (
+                <div key={f.key} className="udise-fac">
+                  <span className="udise-fac__icon"><Icon name={on ? 'check-circle' : 'x'} size={16} /></span>
+                  <span style={{ color: on ? 'var(--text)' : 'var(--text-muted)' }}>{f.label}</span>
+                </div>
+              );
+            })}
           </div>
         </Panel>
       </div>

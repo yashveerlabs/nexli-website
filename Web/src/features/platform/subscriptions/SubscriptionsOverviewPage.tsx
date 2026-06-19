@@ -2,15 +2,19 @@ import { useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Avatar } from '@/components/Avatar';
 import { Badge } from '@/components/Badge';
+import { Button } from '@/components/Button';
 import { Icon } from '@/components/Icon';
 import { KPICard } from '@/components/KPICard';
 import { Panel } from '@/components/Panel';
 import { DataTable, type Column } from '@/components/DataTable';
 import { EmptyState, Skeleton } from '@/components/feedback';
 import { Input, Select } from '@/components/form';
+import { useToast } from '@/components/Toast';
 import { formatDate, formatINRCompact, formatRelative } from '@/lib/format';
 import { usePlans, useSchools, effectiveSubscriptionStatus, effectiveMonthlyPrice } from '@/features/platform/data';
 import { SUBSCRIPTION_STATUS_META } from '@/features/platform/meta';
+import { buildSubscriptionInvoiceHtml } from './invoice';
+import { openPrintWindow, writePrintWindow } from './gst';
 import type { Plan, School, SubscriptionStatus } from '@/types/models';
 
 const PAGE_SIZE = 25;
@@ -35,6 +39,7 @@ function monthlyFor(school: School, plans: Plan[]): number | null {
 /** Subscriptions overview (spec §12.3) — platform-wide billing snapshot. */
 export function SubscriptionsOverviewPage() {
   const navigate = useNavigate();
+  const toast = useToast();
   const { data: schools, loading, error } = useSchools();
   const { data: plans } = usePlans();
 
@@ -90,6 +95,24 @@ export function SubscriptionsOverviewPage() {
 
   const pageRows = filtered.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
 
+  // Generate + print a GST tax invoice for a school's current subscription. The
+  // print window is opened synchronously (within the click) so the pop-up blocker
+  // treats it as user-initiated; the HTML is written immediately after.
+  const generateInvoice = (school: School) => {
+    const win = openPrintWindow();
+    if (!win) {
+      toast.error('Pop-up blocked', 'Allow pop-ups to generate the invoice.');
+      return;
+    }
+    const html = buildSubscriptionInvoiceHtml(school, plans);
+    if (!html) {
+      win.close();
+      toast.error('No price on file', 'Assign a plan or custom price before invoicing.');
+      return;
+    }
+    writePrintWindow(win, html);
+  };
+
   const columns: Column<School>[] = [
     {
       key: 'name',
@@ -132,6 +155,24 @@ export function SubscriptionsOverviewPage() {
       },
     },
     { key: 'renewal', header: 'Renewal', render: (s) => (s.renewalDate ? formatDate(s.renewalDate) : '—') },
+    {
+      key: 'invoice',
+      header: 'Invoice',
+      align: 'right',
+      render: (s) => (
+        <Button
+          variant="subtle"
+          size="sm"
+          leftIcon="download"
+          onClick={(e) => {
+            e.stopPropagation();
+            generateInvoice(s);
+          }}
+        >
+          GST invoice
+        </Button>
+      ),
+    },
   ];
 
   return (

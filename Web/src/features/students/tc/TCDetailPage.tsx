@@ -12,7 +12,9 @@ import { useCan, useSession } from '@/app/providers/SessionProvider';
 import { useTransferCertificate, updateTC, updateStudent, nextTcNumber } from '@/features/school/data';
 import { TC_STATUS_META } from '@/features/school/meta';
 import { formatDate } from '@/lib/format';
-import type { TCClearanceItem, TCStatus } from '@/types/sis';
+import type { TCClearanceItem, TCStatus, TransferCertificate } from '@/types/sis';
+import { AppendixVForm } from './AppendixVForm';
+import { buildAppendixVHtml, openPrintWindow, writePrintWindow } from './appendixV';
 import '@/features/school/school.css';
 
 export function TCDetailPage() {
@@ -71,6 +73,35 @@ export function TCDetailPage() {
     }
   };
 
+  // Save just the Appendix-V particulars (independent of the status workflow).
+  const saveParticulars = async (patch: Partial<TransferCertificate>) => {
+    if (!schoolId) return;
+    try {
+      await updateTC(schoolId, tcId, patch, actor);
+      toast.success('Particulars saved', tc.studentName);
+    } catch {
+      toast.error('Could not save particulars');
+    }
+  };
+
+  // Print the CBSE Appendix-V certificate. Open the window synchronously (no await
+  // before it) so the popup blocker treats it as user-initiated, then write the HTML.
+  const printTC = () => {
+    const win = openPrintWindow();
+    if (!win) {
+      toast.error('Pop-up blocked', 'Allow pop-ups to print the certificate.');
+      return;
+    }
+    const html = buildAppendixVHtml({
+      schoolName: school?.name ?? 'School',
+      schoolLocation: [school?.city, school?.state].filter(Boolean).join(', ') || undefined,
+      logoUrl: school?.logoUrl,
+      tc,
+      issuedDateText: formatDate(tc.issuedDate ?? Date.now()),
+    });
+    writePrintWindow(win, html);
+  };
+
   return (
     <div className="nx-page">
       <div className="nx-detail__head">
@@ -83,6 +114,7 @@ export function TCDetailPage() {
             {tc.gradeName && <><span className="dot" /><span>{tc.gradeName}</span></>}
           </div>
         </div>
+        <Button variant="subtle" leftIcon="download" onClick={printTC}>Print TC</Button>
       </div>
 
       {tc.status === 'issued' && (
@@ -109,6 +141,8 @@ export function TCDetailPage() {
           </div>
         </Panel>
       </div>
+
+      <AppendixVForm tc={tc} editable={editable} onSave={saveParticulars} />
 
       {canWrite && tc.status !== 'issued' && tc.status !== 'rejected' && (
         <div className="nx-savebar">

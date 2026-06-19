@@ -2,6 +2,38 @@ import type { IconName } from '@/components/Icon';
 import type { Grade } from '@/types/models';
 import type { Gender, SocialCategory, Student } from '@/types/sis';
 
+/**
+ * Extend the shared `UdiseProfile` (owned by the Compliance data layer) with the
+ * additional UDISE+ infrastructure fields this module captures, WITHOUT editing the
+ * compliance types file. TypeScript declaration merging adds these optional fields
+ * to the same interface, so `saveUdiseProfile(UdiseProfile)` accepts them and the
+ * profile/report read them type-safely.
+ *
+ * NOTE: UDISE+ DCF field names/groupings change between academic-year cycles —
+ * verify the exact official labels against the live UDISE+ portal before filing.
+ */
+declare module '@/types/compliance' {
+  interface UdiseProfile {
+    // Toilets, split as the UDISE+ DCF expects.
+    boysToilets?: number;
+    girlsToilets?: number;
+    /** Children With Special Needs (CWSN) accessible toilets. */
+    cwsnToilets?: number;
+    // Teaching-learning material / ICT.
+    libraryBooks?: number;
+    computers?: number;
+    tablets?: number;
+    // Additional facility yes/no flags (merged with the existing ones).
+    internet?: boolean;
+    /** Handrails alongside the CWSN ramp. */
+    handrails?: boolean;
+    /** Kitchen / Mid-Day-Meal shed present. */
+    kitchenShed?: boolean;
+    /** Whether a health/medical check-up was conducted this year. */
+    medicalCheckup?: boolean;
+  }
+}
+
 /* ============================================================================
  * UDISE+ reporting — pure aggregation helpers over live SIS data. No fabricated
  * numbers: every figure is derived from the school's own students/staff records.
@@ -51,17 +83,45 @@ export function toCategoryBucket(c?: SocialCategory): CategoryBucket {
 
 export type FacilityKey =
   | 'drinkingWater' | 'electricity' | 'library' | 'computerLab'
-  | 'playground' | 'ramp' | 'boundaryWall' | 'midDayMeal';
+  | 'playground' | 'ramp' | 'boundaryWall' | 'midDayMeal'
+  // UDISE+ DCF facility flags (yes/no in the official format):
+  | 'internet' | 'handrails' | 'kitchenShed' | 'medicalCheckup';
 
 export const FACILITY_META: { key: FacilityKey; label: string; icon: IconName }[] = [
-  { key: 'drinkingWater', label: 'Drinking water', icon: 'check-circle' },
-  { key: 'electricity', label: 'Electricity', icon: 'check-circle' },
-  { key: 'library', label: 'Library', icon: 'book' },
+  { key: 'drinkingWater', label: 'Drinking water (functional)', icon: 'check-circle' },
+  { key: 'electricity', label: 'Electricity available', icon: 'check-circle' },
+  { key: 'library', label: 'Library / reading corner', icon: 'book' },
   { key: 'computerLab', label: 'Computer lab', icon: 'database' },
   { key: 'playground', label: 'Playground', icon: 'check-circle' },
-  { key: 'ramp', label: 'Ramp for disabled', icon: 'check-circle' },
-  { key: 'boundaryWall', label: 'Boundary wall', icon: 'building' },
-  { key: 'midDayMeal', label: 'Mid-day meal', icon: 'check-circle' },
+  // UDISE+ separates the ramp from the handrails it asks about for CWSN access.
+  { key: 'ramp', label: 'Ramp for CWSN access', icon: 'check-circle' },
+  { key: 'handrails', label: 'Handrails with ramp (CWSN)', icon: 'check-circle' },
+  { key: 'boundaryWall', label: 'Boundary wall / fencing', icon: 'building' },
+  { key: 'midDayMeal', label: 'Mid-day meal (MDM) provided', icon: 'check-circle' },
+  { key: 'kitchenShed', label: 'Kitchen / MDM shed', icon: 'building' },
+  { key: 'internet', label: 'Internet connection', icon: 'database' },
+  { key: 'medicalCheckup', label: 'Medical check-up conducted', icon: 'check-circle' },
+];
+
+/* -------------------------- Infrastructure counts ------------------------- */
+
+/**
+ * Numeric UDISE+ infrastructure fields (counts), beyond classrooms/functional
+ * toilets which the form already captured. Labels use UDISE+ DCF terminology;
+ * NOTE: exact DCF field wording should be verified against the live UDISE+
+ * portal each academic year (heads are renamed/regrouped between cycles).
+ */
+export type InfraCountKey =
+  | 'boysToilets' | 'girlsToilets' | 'cwsnToilets'
+  | 'libraryBooks' | 'computers' | 'tablets';
+
+export const INFRA_COUNT_META: { key: InfraCountKey; label: string; hint?: string; placeholder?: string }[] = [
+  { key: 'boysToilets', label: 'Boys toilets', hint: 'Functional, for boys', placeholder: 'e.g. 6' },
+  { key: 'girlsToilets', label: 'Girls toilets', hint: 'Functional, for girls', placeholder: 'e.g. 6' },
+  { key: 'cwsnToilets', label: 'CWSN toilets', hint: 'Accessible toilets for CWSN', placeholder: 'e.g. 2' },
+  { key: 'libraryBooks', label: 'Library books', hint: 'Total titles/volumes', placeholder: 'e.g. 1200' },
+  { key: 'computers', label: 'Computers / desktops', hint: 'For teaching-learning', placeholder: 'e.g. 20' },
+  { key: 'tablets', label: 'Tablets', hint: 'For teaching-learning', placeholder: 'e.g. 5' },
 ];
 
 /* ------------------------- Profile select options ------------------------- */
@@ -213,12 +273,19 @@ function csvCell(v: string | number): string {
 
 const csvRow = (cells: (string | number)[]) => cells.map(csvCell).join(',');
 
+/** UDISE+ profile shape needed for the CSV infrastructure section (numeric + flag heads). */
+type InfraProfile = Partial<Record<InfraCountKey | FacilityKey | 'classrooms' | 'functionalToilets', number | boolean>>;
+
 /**
  * Serialise the report to a UDISE-style CSV. Sectioned, RFC-4180 quoted, with a
  * header line carrying the school name + as-of timestamp. Returned as a plain
- * string for the caller to Blob + download.
+ * string for the caller to Blob + download. When a UDISE+ profile is supplied, an
+ * Infrastructure section (counts + facility yes/no flags) is appended.
  */
-export function reportToCsv(report: EnrolmentReport, opts: { schoolName?: string; asOf: number }): string {
+export function reportToCsv(
+  report: EnrolmentReport,
+  opts: { schoolName?: string; asOf: number; profile?: InfraProfile },
+): string {
   const lines: string[] = [];
   const date = new Date(opts.asOf).toISOString().slice(0, 10);
   lines.push(csvRow(['UDISE+ Enrolment Report']));
@@ -255,6 +322,20 @@ export function reportToCsv(report: EnrolmentReport, opts: { schoolName?: string
   lines.push(csvRow(['Non-teaching staff', report.nonTeacherCount]));
   lines.push(csvRow(['Total staff', report.staffTotal]));
   lines.push(csvRow(['Pupil-teacher ratio', report.ptr != null ? `${report.ptr.toFixed(1)}:1` : 'N/A']));
+
+  // Infrastructure (from the UDISE+ profile doc), when available.
+  const p = opts.profile;
+  if (p) {
+    const numOrBlank = (v: number | boolean | undefined) => (typeof v === 'number' ? v : '');
+    const yesNo = (v: number | boolean | undefined) => (v === true ? 'Yes' : 'No');
+    lines.push('');
+    lines.push(csvRow(['Infrastructure']));
+    lines.push(csvRow(['Item', 'Value']));
+    lines.push(csvRow(['Classrooms', numOrBlank(p.classrooms)]));
+    lines.push(csvRow(['Functional toilets', numOrBlank(p.functionalToilets)]));
+    for (const c of INFRA_COUNT_META) lines.push(csvRow([c.label, numOrBlank(p[c.key])]));
+    for (const f of FACILITY_META) lines.push(csvRow([f.label, yesNo(p[f.key])]));
+  }
 
   return lines.join('\r\n');
 }

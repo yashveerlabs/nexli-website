@@ -10,6 +10,7 @@ import { useSession } from '@/app/providers/SessionProvider';
 import { useUdiseProfile, saveUdiseProfile, type Actor } from './data';
 import {
   FACILITY_META, type FacilityKey,
+  INFRA_COUNT_META, type InfraCountKey,
   SCHOOL_CATEGORY_OPTIONS, MANAGEMENT_OPTIONS, BOARD_OPTIONS,
 } from './meta';
 import type { UdiseProfile } from '@/types/compliance';
@@ -23,11 +24,16 @@ interface FormState {
   yearEstablished: string;
   classrooms: string;
   functionalToilets: string;
+  /** UDISE+ numeric infrastructure counts (boys/girls/CWSN toilets, books, ICT). */
+  counts: Record<InfraCountKey, string>;
   facilities: Record<FacilityKey, boolean>;
 }
 
 const emptyFacilities = (): Record<FacilityKey, boolean> =>
   FACILITY_META.reduce((acc, f) => ({ ...acc, [f.key]: false }), {} as Record<FacilityKey, boolean>);
+
+const emptyCounts = (): Record<InfraCountKey, string> =>
+  INFRA_COUNT_META.reduce((acc, c) => ({ ...acc, [c.key]: '' }), {} as Record<InfraCountKey, string>);
 
 function fromProfile(p?: UdiseProfile): FormState {
   return {
@@ -38,6 +44,10 @@ function fromProfile(p?: UdiseProfile): FormState {
     yearEstablished: p?.yearEstablished ?? '',
     classrooms: p?.classrooms != null ? String(p.classrooms) : '',
     functionalToilets: p?.functionalToilets != null ? String(p.functionalToilets) : '',
+    counts: INFRA_COUNT_META.reduce(
+      (acc, c) => ({ ...acc, [c.key]: p?.[c.key] != null ? String(p[c.key]) : '' }),
+      emptyCounts(),
+    ),
     facilities: FACILITY_META.reduce(
       (acc, f) => ({ ...acc, [f.key]: p?.[f.key] ?? false }),
       emptyFacilities(),
@@ -73,10 +83,16 @@ export function ProfileTab() {
     setForm((f) => ({ ...f, [key]: value }));
   const setFacility = (key: FacilityKey, value: boolean) =>
     setForm((f) => ({ ...f, facilities: { ...f.facilities, [key]: value } }));
+  const setCount = (key: InfraCountKey, value: string) =>
+    setForm((f) => ({ ...f, counts: { ...f.counts, [key]: value } }));
 
   const save = async () => {
     if (!schoolId || !canWrite) return;
     setSaving(true);
+    const countValues = INFRA_COUNT_META.reduce(
+      (acc, c) => ({ ...acc, [c.key]: num(form.counts[c.key]) }),
+      {} as Record<InfraCountKey, number | undefined>,
+    );
     const payload: UdiseProfile = {
       udiseCode: form.udiseCode.trim() || undefined,
       schoolCategory: form.schoolCategory || undefined,
@@ -85,6 +101,7 @@ export function ProfileTab() {
       yearEstablished: form.yearEstablished.trim() || undefined,
       classrooms: num(form.classrooms),
       functionalToilets: num(form.functionalToilets),
+      ...countValues,
       ...form.facilities,
       lastSyncedAt: Date.now(),
     };
@@ -139,9 +156,24 @@ export function ProfileTab() {
           <Field label="Classrooms" hint="Total instructional rooms">
             <Input value={form.classrooms} onChange={(e) => set('classrooms', e.target.value)} placeholder="e.g. 24" inputMode="numeric" disabled={!canWrite} />
           </Field>
-          <Field label="Functional toilets" hint="In working condition">
+          <Field label="Functional toilets" hint="Total, in working condition">
             <Input value={form.functionalToilets} onChange={(e) => set('functionalToilets', e.target.value)} placeholder="e.g. 12" inputMode="numeric" disabled={!canWrite} />
           </Field>
+        </div>
+
+        {/* UDISE+ infrastructure counts (toilets split, library books, ICT). */}
+        <div className="grid g-2">
+          {INFRA_COUNT_META.map((c) => (
+            <Field key={c.key} label={c.label} hint={c.hint}>
+              <Input
+                value={form.counts[c.key]}
+                onChange={(e) => setCount(c.key, e.target.value)}
+                placeholder={c.placeholder}
+                inputMode="numeric"
+                disabled={!canWrite}
+              />
+            </Field>
+          ))}
         </div>
 
         <div className="udise-fac-grid" role="group" aria-label="Facilities available">
