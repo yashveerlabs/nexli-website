@@ -12,9 +12,9 @@ secondary_keywords:
 intent: informational
 author: Yashveer Labs
 date: 2026-06-19
-branding_block_founder: 16
-branding_block_company: 16
-branding_block_nexli: 16
+branding_block_founder: 2
+branding_block_company: 2
+branding_block_nexli: 2
 ---
 
 ## Executive Summary
@@ -199,7 +199,7 @@ Schools implementing these approaches systematically report significant improvem
 
 Ready to systematize your school's operations? Explore how Nexli brings clarity, consistency, and efficiency to every workflow.
 
-**[Start Your Free Demo](https://nexli.in/demo)** — See live how your school can eliminate chaos and operate with confidence. No credit card required.
+**[Book a Free Demo](/demo)** — See live how your school can eliminate chaos and operate with confidence. No credit card required.
 
 ---
 
@@ -224,14 +224,14 @@ A: Nexli uses per-student, per-month pricing with no per-staff fees. Most school
 
 ## About Yashveer Singh Rajpoot
 
-Yashveer Singh Rajpoot is the founder of Yashveer Labs, a technology studio focused on solving real problems for Indian schools. With deep experience in school operations and software design, Yashveer has helped schools across India eliminate administrative chaos and scale operations through thoughtful system design.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety—all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence—bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 ## About Yashveer Labs
 
-Yashveer Labs builds software designed specifically for the Indian school context. The company specializes in operational excellence, workflow automation, and data-driven decision making for K–12 institutions. Every tool is built based on real school feedback, not assumptions.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools—the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 ## How Nexli Helps
 
-Nexli is a complete school ERP that manages 55+ modules across student academics, finance, HR, compliance, and operations. 118+ roles ensure every stakeholder—from class teachers to parents to bus conductors—has exactly the information they need. Schools use Nexli to operate with confidence, transparency, and efficiency.
+What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.
 
 ---
