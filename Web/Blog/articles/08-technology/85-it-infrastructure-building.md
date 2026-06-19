@@ -1,144 +1,106 @@
 ---
-title: "IT Infrastructure Building"
+title: "Building School IT Infrastructure: Network, Devices, Connectivity, and Cloud"
 slug: "it-infrastructure-building"
-category: "8-Technology"
-article_number: 85
-published_date: "2026-06-19"
-updated_date: "2026-06-19"
-author: "Nexli Editorial Team"
-description: "Strong IT infrastructure forms the foundation for technology systems. Plan server infrastructure, networking, storage, and redundancy."
-keywords: ["technology", "school management", "it-infrastructure-building"]
-featured_image: "/blog/images/category-8-tech.jpg"
-reading_time: 7
-seo_title: "IT Infrastructure Building for Indian Schools | Nexli Blog"
-seo_description: "Strong IT infrastructure forms the foundation for technology systems. Plan server infrastructure, networking, storage, and redundancy."
-branding_block: 5
+meta_description: "How to build school IT infrastructure: network design, cloud-first vs. on-premise, device procurement, internet connectivity with redundancy, and AV equipment planning."
+category: "School Technology"
+primary_keyword: "school IT infrastructure"
+secondary_keywords: ["school network setup India", "cloud-first school ERP", "school device procurement", "internet connectivity school"]
+intent: "informational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 5
+branding_block_company: 5
+branding_block_nexli: 5
 ---
 
-## Introduction
+## Building School IT Infrastructure: A Practical Guide
 
-Strong IT infrastructure forms the foundation for technology systems. Plan server infrastructure, networking, storage, and redundancy. Understanding this topic is crucial for schools looking to leverage technology effectively in their operations.
+School IT infrastructure is the physical and logical foundation on which all digital systems run. It includes the network that connects devices, the devices themselves, the internet connection, and the server or cloud environment where software and data live. Getting this right before deploying software systems avoids the frustrating situation where a school has invested in good software that runs poorly because the infrastructure under it is inadequate.
 
-## Understanding IT Infrastructure Building
+### Cloud-First vs. On-Premise: The Decision That Shapes Everything
 
-This comprehensive guide explores it infrastructure building from multiple angles relevant to educational institutions. Whether you're just beginning to consider this technology or refining your current approach, understanding the landscape helps in making informed decisions.
+The most consequential infrastructure decision for most schools is whether to run their core systems (school ERP, email, file storage) on local servers or in the cloud.
 
-### Key Considerations
+**On-premise:** The school owns servers, maintains them in a server room, employs or contracts IT staff to manage them, and is responsible for backup, security patching, power supply, and cooling. The initial capital cost is high. The ongoing maintenance requirement is significant and often underestimated.
 
-- **Implementation complexity**: Various factors influence adoption timelines and success
-- **Cost implications**: Budget allocation requires careful planning
-- **User adoption**: Staff and student engagement is critical
-- **Compliance requirements**: Regulatory considerations must be addressed
-- **Long-term sustainability**: Systems must remain relevant and maintainable
+**Cloud-first:** Core applications run on servers maintained by the software vendor or a cloud provider. The school does not own the servers. The vendor handles infrastructure maintenance, security, and uptime. The school pays a subscription fee. The dependency is on reliable internet connectivity rather than server maintenance.
 
-The implementation of it infrastructure building varies based on school size, budget, technical capability, and specific institutional needs. Larger institutions may have dedicated IT teams, while smaller schools might rely on consulting partners.
+For most Indian schools, particularly those without a full-time IT team, cloud-first is the more practical choice. The reasons: cloud vendors invest in security and reliability at a scale that no individual school can match, the school does not need to budget for server refresh cycles, and the primary risk (internet connectivity) is more manageable than the risk of on-premise server failure.
 
-## Best Practices
+The exception is schools with specific regulatory requirements for on-premise data storage, or schools in locations where internet connectivity is genuinely insufficient for cloud application use.
 
-When implementing it infrastructure building in your institution, consider these proven practices:
+### Internet Connectivity: Primary and Backup
 
-1. **Thorough Planning**: Conduct detailed assessments before implementation
-2. **Stakeholder Engagement**: Involve all affected parties in decision-making
-3. **Adequate Training**: Ensure comprehensive training for all users
-4. **Phased Rollout**: Implement gradually to manage risk and troubleshoot issues
-5. **Continuous Monitoring**: Track metrics and adjust approaches as needed
-6. **Regular Reviews**: Periodically assess effectiveness and alignment with goals
-7. **Vendor Support**: Maintain strong relationships with technology partners
+Cloud-based systems depend on internet connectivity. A school where the internet goes down loses access to its ERP, email, and digital teaching tools until it comes back. For this reason, internet redundancy is worth planning from the start.
 
-Educational institutions benefit significantly from proper it infrastructure building implementation when approached strategically. The technology enables better operations, improved decision-making, enhanced compliance, and ultimately better service delivery to students and parents.
+**Primary connection:** For a school with 500 students and 50 staff using cloud applications, a dedicated leased line of 50-100 Mbps is a reasonable baseline. Actual requirement depends on concurrent user count and the bandwidth intensity of applications (video streaming requires more bandwidth than ERP use).
 
-## Common Challenges
+**Backup connection:** A 4G/LTE router connected to a mobile data plan provides connectivity when the primary circuit fails. Many routers support dual-WAN with automatic failover, so the transition happens without manual intervention. The backup circuit does not need to match the primary in speed; it just needs to keep critical operations (attendance, timetable access, parent communication) running until the primary recovers.
 
-Implementation often faces predictable obstacles:
+Schools that operate in areas with poor fixed broadband availability may need to prioritize mobile broadband (4G/5G) as the primary connection and accept the cost and capacity limitations this involves.
 
-- **Change resistance**: Users may resist new systems and workflows
-- **Technical issues**: Integration and compatibility problems may arise
-- **Training gaps**: Inadequate preparation leads to underutilization
-- **Budget constraints**: Projects may exceed initial estimates
-- **Timeline pressures**: Rushing implementation compromises quality
-- **Data challenges**: Legacy data migration creates complications
-- **Support requirements**: Ongoing assistance is often underestimated
+### Physical Network: Core Switch, Distribution, and Access Layer
 
-## Implementation Steps
+Inside the school building, a structured network design prevents performance problems and simplifies troubleshooting.
 
-Follow this structured approach for success:
+**Core switch:** A managed switch at the center of the network that connects all building segments. Even a small school should have a managed switch (one that can be configured and monitored) rather than an unmanaged consumer switch.
 
-### Phase 1: Assessment
-- Evaluate current state and identify needs
-- Research available solutions
-- Assess organizational readiness
-- Build business case and secure funding
+**Distribution layer:** In a multi-building campus, distribution switches in each building or floor connect to the core switch, typically over fiber optic cable for reliability and speed.
 
-### Phase 2: Planning
-- Develop detailed implementation plan
-- Establish governance structures
-- Plan change management activities
-- Secure stakeholder commitment
+**Access layer:** Switches in each classroom or office area to which end devices (computers, printers, IP phones) connect. In modern schools, this layer increasingly means wireless access points rather than wired ports at each desk, though wired connections remain important for desktop computers, projectors, and devices that need consistent high-bandwidth connections.
 
-### Phase 3: Deployment
-- Configure systems according to requirements
-- Conduct thorough testing
-- Perform staff training
-- Execute cutover to new system
+**VLANs (Virtual Local Area Networks):** Segmenting the network into separate VLANs for staff systems, student devices, management systems, and visitors is good security practice. It prevents a compromised student device from directly accessing the school's administrative systems. A properly configured firewall between VLANs enforces this separation.
 
-### Phase 4: Stabilization
-- Monitor system performance
-- Address issues promptly
-- Refine processes based on experience
-- Plan for enhancements
+### Device Procurement: What to Buy and When
 
-## Nexli Integration & Technology Benefits
+A school device plan should answer:
 
-Nexli is a comprehensive school management solution built for Indian educational institutions. Here's how it infrastructure building relates to Nexli's capabilities:
+**What devices do staff need?** Administrative staff typically need desktop or laptop computers. Teachers need access to computers for mark entry, attendance, and lesson preparation. A school with a 1:1 laptop program for teachers should budget for device refresh every four to five years.
 
-### Key Nexli Features:
-- Infrastructure assessment
-- Capacity planning
-- Redundancy design
-- Security architecture
-- Disaster recovery
+**What devices do students use?** This depends on the school's pedagogy and budget. Computer labs with shared desktops remain practical for structured ICT lessons. 1:1 student devices are expensive but create different pedagogical possibilities. Shared tablet carts that classrooms book for specific lessons are a middle option.
 
-Nexli's cloud infrastructure ensures scalability, security, and reliability for all technology implementations. With support for APIs, single sign-on, and open standards, Nexli integrates seamlessly with complementary systems you may already use.
+**What AV equipment is needed?** Projectors and interactive flat-panel displays in classrooms are now standard expectations in many schools. Interactive displays are significantly more useful than projectors for collaborative teaching but cost more. Budget for replacement bulbs or regular maintenance.
 
-## Measuring Success
+**Printer and scanner requirements:** Administrative offices need reliable printers. Consider total cost of ownership (cartridge costs, maintenance contracts) not just purchase price. Laser printers typically have lower cost-per-page than inkjet for high-volume use.
 
-Track these key metrics to assess effectiveness:
+**Procurement timing:** Devices purchased at the same time tend to reach end-of-life at the same time. Staggered procurement (buying one-third of devices per year on a three-year cycle) smooths budget and avoids the situation where the whole fleet needs replacement simultaneously.
 
-- **Adoption rates**: Percentage of intended users actively using the system
-- **Process efficiency**: Time savings and reduced manual effort
-- **Data quality**: Accuracy and completeness of information
-- **User satisfaction**: Feedback and support request volumes
-- **Cost metrics**: ROI against implementation and operational costs
-- **Compliance**: Meeting regulatory and institutional requirements
-- **Student/parent impact**: Satisfaction and outcomes improvements
+### Server Room (If You Have One)
 
-## Future Considerations
+Schools that maintain any on-premise infrastructure need a proper server room or server closet:
 
-it infrastructure building continues evolving with emerging technologies. Consider:
+Adequate cooling (a single split AC unit rated appropriately for the heat load of the equipment)
+UPS (uninterruptible power supply) with sufficient runtime for graceful shutdown if power fails
+Physical security (locked room with access log)
+Fire suppression (at minimum, a CO2 extinguisher; ideally an automated suppression system)
+Power strips with surge protection
+Proper cable management for network and power
 
-- **AI and machine learning**: Increasingly prevalent in modern solutions
-- **Mobile-first design**: Essential for on-the-go access
-- **Cloud migration**: Benefits of cloud infrastructure becoming standard
-- **API-first architecture**: Better integration and flexibility
-- **Enhanced security**: Meeting evolving threat landscapes
-- **Green technology**: Sustainability considerations
-- **Accessibility standards**: Inclusive design for all users
+Even schools going cloud-first will have network equipment (core switch, firewall, access point controllers) that needs proper housing.
 
-## Conclusion
+## How Nexli Helps
 
-IT Infrastructure Building is essential for modern schools seeking to operate efficiently and effectively. By following best practices, engaging stakeholders, and maintaining focus on educational goals, institutions can successfully implement these technologies. The investment in proper planning, training, and support pays dividends through improved operations, better decision-making, and enhanced educational delivery.
+Nexli is a cloud-based school ERP, which means it runs on Google Cloud infrastructure managed by Yashveer Labs. Schools using Nexli do not need to maintain application servers. The infrastructure requirement on the school's side is: reliable internet connectivity, end-user devices (any device with a modern browser or the mobile app), and a basic office network.
 
-Remember that technology is an enabler of institutional goals, not an end in itself. Keep educational excellence at the center of all technology decisions, and success will follow.
+This cloud-first architecture reduces the infrastructure investment schools need to make to run a full-featured 55-module ERP. Schools that previously could not afford the server and IT staff costs of on-premise ERP can run Nexli on their existing device fleet with a good internet connection.
 
-## Next Steps
-
-- **For decision-makers**: Evaluate current state and identify priority areas
-- **For implementers**: Develop detailed plans with realistic timelines
-- **For users**: Prepare for adoption by understanding benefits and requirements
-- **For IT teams**: Build infrastructure and support capabilities
-
-Consider reaching out to technology partners and consultants who understand educational institutions for guidance tailored to your specific context.
+[Book a Free Demo](/demo)
 
 ---
 
-*Have questions about implementing it infrastructure building in your school? Contact the Nexli team or reach out to educational technology consultants who can provide specialized guidance for your institution's unique needs.*
+## Frequently Asked Questions
+
+**Q: How much bandwidth does a school need for cloud-based ERP use?**
+A: For ERP use (attendance, mark entry, reporting, parent communication, fee processing) without video streaming, a rough estimate is 1-2 Mbps per 10 concurrent users as a baseline. For a school where 100 staff and students access the system simultaneously, 10-20 Mbps is a practical minimum. Add bandwidth for any video streaming (digital content, remote classes).
+
+**Q: Should schools buy their own servers or go entirely cloud?**
+A: For most schools, cloud-first is the right choice today. On-premise servers require capital investment, ongoing maintenance, power and cooling costs, and expertise that most schools do not have or want to maintain. The specific case for on-premise is a school with regulatory requirements for local data storage or genuinely insufficient internet connectivity for cloud use.
+
+**Q: How should a school handle power cuts that affect IT infrastructure?**
+A: UPS units on critical network equipment (core switch, firewall, access point controller, server) provide runtime through short outages. Generator backup extends this for longer outages. Cloud-based systems are unaffected by the school's power situation because the servers are elsewhere, but local network equipment and client devices still need power to access them.
+
+**Q: What is the right approach to school device refresh cycles?**
+A: A four-to-five year refresh cycle for computers and tablets is typical. Devices older than six years usually run current software too slowly to be useful. Budget for refresh in the long-term capital plan rather than treating device replacement as an unexpected expense.
+
+**Q: Do schools need separate networks for students and staff?**
+A: Yes. At minimum, student devices should be on a separate WiFi SSID with appropriate content filtering and bandwidth controls. Staff devices and administrative systems should be on a network segment inaccessible to student devices. VLANs and proper firewall rules enforce this separation without needing separate physical infrastructure.
