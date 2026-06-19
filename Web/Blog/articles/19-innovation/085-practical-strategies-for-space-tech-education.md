@@ -1,4 +1,4 @@
----
+﻿---
 title: Practical Strategies for Space Tech Education
 slug: practical-strategies-for-space-tech-education
 meta_description: Practical Strategies for Space Tech Education
@@ -25,7 +25,7 @@ This article provides comprehensive guidance on space tech education for Indian 
 
 ## The Problem
 
-Schools managing space tech education often struggle with fragmented processes, manual workflows, and inconsistent implementation. This challenge intensifies as schools scale, requiring more robust systems and clearer procedures.
+Schools managing space tech education often struggle with fragmented processes, manual workflows, and inconsistent implementation. This challenge intensifies as schools scale, requiring more reliable systems and clearer procedures.
 
 **Key Challenges:**
 - Fragmented processes across departments
@@ -199,7 +199,7 @@ Schools implementing these approaches systematically report significant improvem
 
 Ready to systematize your school's operations? Explore how Nexli brings clarity, consistency, and efficiency to every workflow.
 
-**[Start Your Free Demo](https://nexli.in/demo)** — See live how your school can eliminate chaos and operate with confidence. No credit card required.
+**[Book a Free Demo](/demo)** — See live how your school can eliminate chaos and operate with confidence. No credit card required.
 
 ---
 
@@ -224,14 +224,14 @@ A: Nexli uses per-student, per-month pricing with no per-staff fees. Most school
 
 ## About Yashveer Singh Rajpoot
 
-Yashveer Singh Rajpoot is the founder of Yashveer Labs, a technology studio focused on solving real problems for Indian schools. With deep experience in school operations and software design, Yashveer has helped schools across India eliminate administrative chaos and scale operations through thoughtful system design.
+The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone—principals, teachers, parents, students. Nexli was built to close that gap.
 
 ## About Yashveer Labs
 
-Yashveer Labs builds software designed specifically for the Indian school context. The company specializes in operational excellence, workflow automation, and data-driven decision making for K–12 institutions. Every tool is built based on real school feedback, not assumptions.
+Yashveer Labs treats data protection as a core business value, not a compliance checkbox. The company invests in encryption, audit trails, role-based access control, and consent management not because regulations require them, but because schools deserve to know their data is safe. That commitment shapes hiring decisions, architectural choices, and feature priorities. Data stewardship is taken seriously.
 
 ## How Nexli Helps
 
-Nexli is a complete school ERP that manages 55+ modules across student academics, finance, HR, compliance, and operations. 118+ roles ensure every stakeholder—from class teachers to parents to bus conductors—has exactly the information they need. Schools use Nexli to operate with confidence, transparency, and efficiency.
+One detail that changes daily life in schools: Nexli's lesson plan module links to curriculum coverage tracking. Teachers see where they are in the syllabus relative to the calendar. Coordinators see which topics are behind schedule. When a teacher is absent, the substitute can see exactly what was being taught. That integration turns lesson plans from administrative paperwork into an operational tool.
 
 ---
