@@ -1,4 +1,5 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import { Button } from '@/components/Button';
 import { Panel } from '@/components/Panel';
 import { Badge } from '@/components/Badge';
@@ -75,14 +76,33 @@ export function RecordsTab() {
   const [channel, setChannel] = useState<'app' | 'paper' | 'verbal'>('app');
   const [notes, setNotes] = useState('');
 
-  const open = (r: ConsentRecord | null) => {
+  const open = (r: ConsentRecord | null, presetStudentId?: string) => {
     setEditing(r);
-    setStudentId(r?.studentId ?? '');
+    setStudentId(r?.studentId ?? presetStudentId ?? '');
     setGuardianName(r?.guardianName ?? '');
     setState((r && r.state !== 'pending' ? r.state : 'granted') as WriteState);
     setChannel(r?.channel ?? 'app');
     setNotes(r?.notes ?? '');
   };
+
+  // Deep-link handoff from a consent gate CTA (`/consent?tab=records&student=…`):
+  // pre-open the "Record consent" modal for that student once the roster has loaded.
+  // Guarded so it fires a single time and only for a writer who can actually record.
+  const [params, setParams] = useSearchParams();
+  const deepLinkStudent = params.get('student');
+  const deepLinkDone = useRef(false);
+  useEffect(() => {
+    if (deepLinkDone.current || !deepLinkStudent) return;
+    if (!canWrite || !students.length) return; // wait for roster / ignore for read-only viewers
+    deepLinkDone.current = true;
+    const exists = students.some((s) => s.id === deepLinkStudent);
+    if (exists) open(null, deepLinkStudent);
+    // Consume the hint so a refresh / back doesn't re-trigger the modal.
+    const next = new URLSearchParams(params);
+    next.delete('student');
+    setParams(next, { replace: true });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [deepLinkStudent, canWrite, students]);
 
   const save = async () => {
     if (!schoolId || !activePurpose || !studentId) return;

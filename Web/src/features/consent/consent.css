@@ -28,6 +28,26 @@
 .cns-gate svg { color: var(--warning); flex-shrink: 0; margin-top: 1px; }
 .cns-gate strong { font-weight: 600; }
 
+/* Hard-gate (block) variant — a real wall, not a passive flag. */
+.cns-gate--block {
+  border-color: color-mix(in srgb, var(--danger) 42%, transparent);
+  background: color-mix(in srgb, var(--danger) 10%, var(--card));
+}
+.cns-gate--block svg { color: var(--danger); }
+.cns-gate--block[role='status'] { /* unverified: neutral, not alarming */
+  border-color: color-mix(in srgb, var(--gold) 38%, transparent);
+  background: color-mix(in srgb, var(--gold) 9%, var(--card));
+}
+.cns-gate--block[role='status'] svg { color: var(--gold); }
+.cns-gate__body { min-width: 0; flex: 1; }
+.cns-gate__cta {
+  display: inline-flex; align-items: center; gap: 5px;
+  margin-left: 2px; font-weight: 600; color: var(--gold);
+  text-decoration: underline; text-underline-offset: 2px;
+}
+.cns-gate__cta:hover { color: color-mix(in srgb, var(--gold) 80%, white); }
+.cns-gate__hint { color: var(--text-muted); }
+
 /* ---- Register row badges + SLA pills (erasure / breach) ---- */
 .cns-rec__badges { display: flex; gap: 6px; align-items: center; flex-shrink: 0; }
 .cns-overdue { font-size: 11px; font-weight: 600; color: var(--danger); }

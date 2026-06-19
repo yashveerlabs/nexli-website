@@ -6,10 +6,12 @@
  * importing internals. Wiring of these into creation flows is the data agent's
  * job — see NOTES in the handoff for exact call sites.
  */
-export { ConsentGate, ConsentWarning } from './ConsentGate';
+export { ConsentGate, ConsentWarning, ConsentRequiredBanner } from './ConsentGate';
 export type { ConsentGateProps } from './ConsentGate';
 export { useConsentStatus, assertConsent } from './useConsentStatus';
 export type { ConsentStatus } from './useConsentStatus';
+export { decideConsentGate, consentRecordHref } from './gateDecision';
+export type { ConsentGateDecision, ConsentGateKind } from './gateDecision';
 
 // Operational DPDP registers (also surfaced as tabs in the consent hub).
 export type {

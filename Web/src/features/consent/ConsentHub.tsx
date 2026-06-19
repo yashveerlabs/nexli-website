@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import { Tabs } from '@/components/Tabs';
 import { Panel } from '@/components/Panel';
 import { Icon } from '@/components/Icon';
@@ -10,12 +10,24 @@ import { ErasureTab } from './ErasureTab';
 import { BreachTab } from './BreachTab';
 
 type TabId = 'purposes' | 'records' | 'erasure' | 'breach';
+const TAB_IDS: TabId[] = ['purposes', 'records', 'erasure', 'breach'];
 
 /** Privacy & Consent (DPDP) hub — purpose catalogue + per-student consent records. */
 export function ConsentHub() {
   const { can } = useSession();
   const canRead = can('consent.read');
-  const [tab, setTab] = useState<TabId>('purposes');
+  // Tab is URL-driven so consent-gate CTAs (e.g. `/consent?tab=records&student=…`)
+  // can deep-link straight to the per-student record flow.
+  const [params, setParams] = useSearchParams();
+  const rawTab = params.get('tab') as TabId | null;
+  const tab: TabId = rawTab && TAB_IDS.includes(rawTab) ? rawTab : 'purposes';
+  const setTab = (id: TabId) => {
+    const next = new URLSearchParams(params);
+    if (id === 'purposes') next.delete('tab');
+    else next.set('tab', id);
+    if (id !== 'records') next.delete('student'); // the student hint only applies to records
+    setParams(next, { replace: true });
+  };
 
   return (
     <div className="nx-page">

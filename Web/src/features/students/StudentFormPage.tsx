@@ -34,6 +34,7 @@ import {
   GUARDIAN_RELATIONS,
   STUDENT_STATUS_META,
 } from '@/features/school/meta';
+import { ConsentRequiredBanner, useConsentStatus, decideConsentGate } from '@/features/consent';
 import {
   studentSchema,
   emptyStudentForm,
@@ -42,6 +43,7 @@ import {
   type StudentFormValues,
 } from './studentSchema';
 import '@/features/school/school.css';
+import '@/features/consent/consent.css';
 
 const STATUS_OPTIONS = Object.entries(STUDENT_STATUS_META).map(([value, m]) => ({ value, label: m.label }));
 
@@ -141,6 +143,7 @@ export function StudentFormPage({ mode }: { mode: 'new' | 'edit' }) {
       >
         <StudentFormBody
           mode={mode}
+          studentId={mode === 'edit' ? id : undefined}
           draftKey={draftKey}
           emptyDraft={defaults}
           onCancel={() => navigate(mode === 'edit' ? `/students/${id}` : '/students')}
@@ -152,11 +155,13 @@ export function StudentFormPage({ mode }: { mode: 'new' | 'edit' }) {
 
 function StudentFormBody({
   mode,
+  studentId,
   draftKey,
   emptyDraft,
   onCancel,
 }: {
   mode: 'new' | 'edit';
+  studentId?: string;
   draftKey: string | null;
   emptyDraft: StudentFormValues;
   onCancel: () => void;
@@ -228,6 +233,20 @@ function StudentFormBody({
   const sectionOptions = sections.filter((s) => !gradeId || s.gradeId === gradeId).map((s) => ({ value: s.id, label: s.name }));
   const houseOptions = [{ value: '', label: 'None' }, ...houses.map((h) => ({ value: h.id, label: h.name }))];
 
+  // ---- DPDP consent hard-gate (edit mode) -----------------------------------
+  // A student record may exist before consent is attached (records are keyed by
+  // studentId), so creation is never blocked here. But *processing* an ACTIVE
+  // student without recorded verifiable parental consent is not permitted, so we
+  // block the save while the student is/would be `active` and required consent is
+  // verifiably missing. The record can still be saved in a non-active status to
+  // correct data or park it until consent arrives — this is what prevents a
+  // deadlock. When consent simply can't be VERIFIED (no consent.read), we advise
+  // rather than block, so non-consent staff aren't locked out.
+  const status = watch('status');
+  const consent = useConsentStatus(studentId);
+  const gate = decideConsentGate(consent);
+  const blockSave = mode === 'edit' && status === 'active' && gate.hardBlock;
+
   return (
     <FormPage
       title={mode === 'new' ? 'New admission' : 'Edit student'}
@@ -238,7 +257,25 @@ function StudentFormBody({
       submitLabel={mode === 'new' ? 'Admit student' : 'Save changes'}
       submitIcon="check"
       submitting={formState.isSubmitting}
+      submitDisabled={blockSave}
     >
+      {mode === 'edit' && studentId && (
+        <div style={{ marginBottom: 16 }}>
+          {/* DPDP block-mode gate: prominent required-consent banner + a direct CTA
+              (deep-link) for consent staff, or who-to-contact for others. Pairs with
+              `submitDisabled` above to actually stop enabling an active student
+              record without recorded consent. */}
+          <ConsentRequiredBanner studentId={studentId} />
+          {blockSave && (
+            <p role="note" style={{ marginTop: 6, fontSize: 12, color: 'var(--text-muted)', lineHeight: 1.5 }}>
+              Saving is disabled while this student is <strong>Active</strong> without recorded consent. Record
+              the consent above, or set <strong>Status</strong> to a non-active value to save and park the record
+              until consent is captured.
+            </p>
+          )}
+        </div>
+      )}
+
       {showDraftBanner && (
         <div className="nx-info-card" role="status" style={{ marginBottom: 16 }}>
           <div className="nx-info-card__icon">

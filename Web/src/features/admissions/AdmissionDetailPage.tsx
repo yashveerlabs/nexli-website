@@ -17,7 +17,7 @@ import {
   nextAdmissionNo,
   useGrades,
 } from '@/features/school/data';
-import { ConsentGate } from '@/features/consent';
+import { ConsentRequiredBanner } from '@/features/consent';
 import '@/features/consent/consent.css';
 import { ADMISSION_STAGE_META, CATEGORY_OPTIONS, GENDER_OPTIONS } from '@/features/school/meta';
 import { ADMISSION_STAGES } from '@/types/sis';
@@ -188,9 +188,13 @@ export function AdmissionDetailPage() {
         )}
         {a.convertedStudentId && (
           <div style={{ marginTop: 12 }}>
-            {/* DPDP consent surfacing (WARN-only): flags missing guardian consent for
-                the converted student without blocking the admission workflow. */}
-            <ConsentGate studentId={a.convertedStudentId} />
+            {/* DPDP HARD-GATE: the applicant is now an active student record, so
+                processing their personal data requires recorded verifiable parental
+                consent. This banner blocks/flags that prominently and, for consent
+                staff, deep-links straight into recording it; others are told to
+                contact the DPO. The student-edit screen enforces the same gate on
+                save. */}
+            <ConsentRequiredBanner studentId={a.convertedStudentId} />
             <Button variant="subtle" size="sm" leftIcon="arrow-right" onClick={() => navigate(`/students/${a.convertedStudentId}`)}>
               View student record
             </Button>
