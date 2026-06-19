@@ -1,4 +1,4 @@
----
+﻿---
 title: "How Schools Can Accept UPI, Net Banking, and Cards"
 slug: "schools-accept-upi-net-banking-cards"
 meta_description: "Enable UPI, net banking, and card payments at your school. Setup guide for digital payment acceptance."
@@ -93,17 +93,11 @@ branding_block_nexli: 6
 
 ---
 
-## Branding Block: Why Nexli
+**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP—they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
-Multiple payment methods mean no parent should ever struggle to pay. Nexli supports them all.
+**About Yashveer Labs:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "Parents pay when payment is easy. Nexli supports 5+ payment methods, so every parent finds their preferred way to pay."
-
-**Yashveer Labs' Commitment:**
-Your payment system should work for every parent, every method, every time.
-
----
+**How Nexli Helps:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately—it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 ## Call to Action
 
@@ -115,4 +109,23 @@ Enable all digital payment methods:
 4. **Integrate with Nexli** (central hub)
 5. **Communicate options to parents** (at admission, on invoices)
 
-Your payment system should be as modern as your school. **[Request a demo](#contact)** and see how Nexli enables all payment methods seamlessly.
+Your payment system should be as modern as your school. **[Book a Free Demo](/demo)** and see how Nexli enables all payment methods without friction.
+
+---
+
+## FAQ
+
+**Q1: Which payment method is best for schools to accept?**
+A: UPI is the best primary option—instant, zero-friction, and free or very low cost. Net banking and cards should be offered as fallback options so no parent is excluded.
+
+**Q2: How long does it take for a school to start accepting UPI?**
+A: 1–2 days. Partner with Razorpay or Cashfree, provide bank details, get a UPI ID or QR code, and you're live.
+
+**Q3: Do schools need to handle PCI compliance for card payments?**
+A: No. The payment gateway handles PCI compliance. Schools only need to ensure they collect proper DPDP Act consent from parents for payment processing.
+
+**Q4: What happens if a parent's UPI payment fails?**
+A: The parent is not charged. Nexli marks the payment as failed and the parent can retry through any other available method.
+
+**Q5: Can parents choose their preferred payment method?**
+A: Yes. When Nexli generates a payment link, parents see all available methods—UPI, net banking, and cards—and choose what works best for them.

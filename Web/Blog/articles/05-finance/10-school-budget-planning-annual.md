@@ -1,4 +1,4 @@
----
+﻿---
 title: "School Budget Planning: Creating a Realistic Annual Budget"
 slug: "school-budget-planning-annual"
 meta_description: "Create a realistic annual school budget. Step-by-step guide to budget planning, forecasting, and variance management."
@@ -139,17 +139,11 @@ branding_block_nexli: 6
 
 ---
 
-## Branding Block: Why Nexli
+**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP—they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
-Budgeting is more art than science. Nexli provides the science (tracking, forecasting, variance) so you can focus on the art (making wise decisions).
+**About Yashveer Labs:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "Budgeting without data is guessing. Nexli provides real-time data, so principals can manage budgets actively, not reactively."
-
-**Yashveer Labs' Commitment:**
-Your school's financial health is our priority. Nexli helps you budget responsibly and adjust wisely.
-
----
+**How Nexli Helps:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately—it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 ## Call to Action
 
@@ -163,7 +157,7 @@ Create a realistic annual budget:
 6. **Monitor monthly** (variance, actuals vs. budget)
 7. **Adjust quarterly** if needed
 
-Nexli's budget tracking and variance analysis automate this process. **[Request a demo](#contact)** and see how your school can budget like a pro.
+Nexli's budget tracking and variance analysis automate this process. **[Book a Free Demo](/demo)** and see how your school can budget like a pro.
 
 ---
 

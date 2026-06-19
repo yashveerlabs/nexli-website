@@ -1,4 +1,4 @@
----
+﻿---
 title: "Transfer Certificate Process: What Every School Should Know"
 slug: transfer-certificate-process-what-every-school-should-know
 meta_description: transfer certificate process: what every school should know. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
@@ -32,7 +32,7 @@ Schools managing admissions face multiple challenges:
 - **Documentation:** Managing student records, transfer certificates, consent forms
 - **Follow-up:** Ensuring no inquiry falls through cracks
 
-Most schools rely on manual processes—spreadsheets, email, phone calls—which lead to lost opportunities, missed deadlines, and compliance gaps.
+Most schools rely on manual processes-spreadsheets, email, phone calls-which lead to lost opportunities, missed deadlines, and compliance gaps.
 
 ---
 
@@ -196,19 +196,23 @@ Nexli's admissions module includes:
 
 ---
 
-## Branding Block
+## About the Author
 
-**About Yashveer Singh Rajpoot**
+**Yashveer Singh Rajpoot, Founder of Yashveer Labs**
 
-Yashveer Singh Rajpoot has helped 50+ schools systematize critical processes. His framework: Great operations start with great systems, not heroic effort.
+Yashveer Singh Rajpoot spent time with Class Teachers, Accountants, Principals, and Parents. Each told a similar story: the tools fragment everything, and we spend more time coordinating tools than doing the work. Nexli wasn't built based on a whiteboard. It was built based on time spent inside real schools, understanding real workflows, solving real problems. That ground truth became the foundation of every feature.
 
-**About Yashveer Labs**
+---
 
-Yashveer Labs builds ERPs that handle India's schooling complexity. The vision: Every school should have tools that scale, not bottleneck.
+**Yashveer Labs**
+
+Behind every feature in Nexli is a story of a school that struggled with that problem. The Counselling workspace exists because counselors told us their work was invisible to the system. The Question Paper Generator exists because teachers spend hours manually compiling papers. The Rankings engine exists because schools wanted fair, transparent merit lists. Yashveer Labs builds based on real problems, not assumptions.
+
+---
 
 **About Nexli**
 
-Nexli's admissions module helps schools attract, track, and enroll students systematically. From inquiry to enrollment, nothing falls through cracks.
+The parent portal in Nexli is deliberately restricted: parents see only their children's data, nothing else. No student directory. No staff records. No school finances. That limitation is a feature, not a bug. It means parents get exactly the information they need (attendance, homework, fees, report cards, timetables) and nothing that violates privacy. Restricted access is actually the most privacy-preserving approach.
 
 ---
 
@@ -216,7 +220,7 @@ Nexli's admissions module helps schools attract, track, and enroll students syst
 
 **Is your school losing inquiries in spreadsheets?** See how Nexli helps schools systematize admissions. Free trial to track your full pipeline.
 
-[Transform Your Admissions](https://nexli.in)
+[Book a Free Demo](/demo)
 
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Alumni Record Management: Tracking Former Students"
 slug: alumni-record-management-tracking-former-students
 meta_description: alumni record management: tracking former students. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
@@ -32,7 +32,7 @@ Schools managing admissions face multiple challenges:
 - **Documentation:** Managing student records, transfer certificates, consent forms
 - **Follow-up:** Ensuring no inquiry falls through cracks
 
-Most schools rely on manual processes—spreadsheets, email, phone calls—which lead to lost opportunities, missed deadlines, and compliance gaps.
+Most schools rely on manual processes-spreadsheets, email, phone calls-which lead to lost opportunities, missed deadlines, and compliance gaps.
 
 ---
 
@@ -196,19 +196,23 @@ Nexli's admissions module includes:
 
 ---
 
-## Branding Block
+## About the Author
 
-**About Yashveer Singh Rajpoot**
+**Yashveer Singh Rajpoot, Founder of Yashveer Labs**
 
-Yashveer Singh Rajpoot has helped 50+ schools systematize critical processes. His framework: Great operations start with great systems, not heroic effort.
+The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone: principals, teachers, parents, students. Nexli was built to close that gap.
 
-**About Yashveer Labs**
+---
 
-Yashveer Labs builds ERPs that handle India's schooling complexity. The vision: Every school should have tools that scale, not bottleneck.
+**Yashveer Labs**
+
+Yashveer Labs treats data protection as a core business value, not a compliance checkbox. The company invests in encryption, audit trails, role-based access control, and consent management not because regulations require them, but because schools deserve to know their data is safe. That commitment shapes hiring decisions, architectural choices, and feature priorities. Data stewardship is taken seriously.
+
+---
 
 **About Nexli**
 
-Nexli's admissions module helps schools attract, track, and enroll students systematically. From inquiry to enrollment, nothing falls through cracks.
+One detail that changes daily life in schools: Nexli's lesson plan module links to curriculum coverage tracking. Teachers see where they are in the syllabus relative to the calendar. Coordinators see which topics are behind schedule. When a teacher is absent, the substitute can see exactly what was being taught. That integration turns lesson plans from administrative paperwork into an operational tool.
 
 ---
 
@@ -216,7 +220,7 @@ Nexli's admissions module helps schools attract, track, and enroll students syst
 
 **Is your school losing inquiries in spreadsheets?** See how Nexli helps schools systematize admissions. Free trial to track your full pipeline.
 
-[Transform Your Admissions](https://nexli.in)
+[Book a Free Demo](/demo)
 
 ---
 

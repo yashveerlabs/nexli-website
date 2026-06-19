@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fee Defaulter List: Creating and Acting On It"
 slug: "fee-defaulter-list-creating-acting"
 meta_description: "Create and manage a fee defaulter list. Process for identifying, tracking, and collecting from defaulting parents."
@@ -136,17 +136,11 @@ branding_block_nexli: 6
 
 ---
 
-## Branding Block: Why Nexli
+**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP—they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
-Managing defaulters manually is tedious and error-prone. Nexli automates the list, tracking, and escalation.
+**About Yashveer Labs:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "Schools that manage defaulter lists systematically recover 80–90% of outstanding fees. Nexli automates the system, so schools don't forget or delay action."
-
-**Yashveer Labs' Commitment:**
-Your revenue depends on consistent follow-up. Nexli makes follow-up automatic and disciplined.
-
----
+**How Nexli Helps:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately—it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 ## Call to Action
 
@@ -158,7 +152,7 @@ Create and manage a defaulter list:
 4. **Follow through** (don't let defaulters drag indefinitely)
 5. **Track outcomes** (learn what works; optimize)
 
-Nexli automates the entire defaulter workflow. **[Request a demo](#contact)** and see how your school can recover 90%+ of outstanding fees.
+Nexli automates the entire defaulter workflow. **[Book a Free Demo](/demo)** and see how your school can recover 90%+ of outstanding fees.
 
 ---
 

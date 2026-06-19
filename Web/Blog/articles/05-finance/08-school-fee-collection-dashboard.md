@@ -1,4 +1,4 @@
----
+﻿---
 title: "How to Build a School Fee Collection Dashboard"
 slug: "build-school-fee-collection-dashboard"
 meta_description: "Create a comprehensive fee collection dashboard. Real-time metrics and visualizations for school finance management."
@@ -127,17 +127,11 @@ branding_block_nexli: 6
 
 ---
 
-## Branding Block: Why Nexli
+**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP—they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
-A good dashboard makes invisible problems visible. Nexli's fee dashboard surfaces issues before they become crises.
+**About Yashveer Labs:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "Schools without dashboards collect 70%. Schools with dashboards and disciplined follow-up hit 90%. The dashboard is the difference between reactive (hoping) and proactive (acting)."
-
-**Yashveer Labs' Commitment:**
-Your financial data should be visible, actionable, and always at your fingertips.
-
----
+**How Nexli Helps:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately—it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 ## Call to Action
 
@@ -149,7 +143,7 @@ Build your fee collection dashboard:
 4. **Review regularly** (weekly or daily)
 5. **Act on insights** (if collection drops, escalate)
 
-Nexli's built-in dashboard automatically tracks all metrics. **[Request a demo](#contact)** and see how your school's finance data comes alive.
+Nexli's built-in dashboard automatically tracks all metrics. **[Book a Free Demo](/demo)** and see how your school's finance data comes alive.
 
 ---
 

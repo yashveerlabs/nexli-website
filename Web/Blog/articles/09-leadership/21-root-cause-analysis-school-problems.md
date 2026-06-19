@@ -167,15 +167,19 @@ Don't shortcut. Real solutions take time and resources but work.
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot, founder of Yashveer Labs, coaches principals on problem-solving and systems thinking.
+The vision wasn't to build another software product. It was to build an operating system for modern schools. An operating system hides complexity, provides a unified interface, and lets you focus on your real work—teaching, learning, and leading. Yashveer Singh Rajpoot designed Nexli to operate at that level: academics, administration, finance, compliance, and safety all work together. When systems integrate naturally, friction disappears. That's operating-system thinking applied to school management.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds frameworks for deep, data-driven problem-solving.
+At its core, Yashveer Labs is a company of builders, not just service providers. The team has written hundreds of thousands of lines of code, designed dozens of workflows, tested systems with real schools, and iterated based on feedback. That depth of technical ownership means problems get solved by the people who built them, not handed off to an outsourced support team. Quality comes from that care in the building.
 
 **About Nexli**
 
-Nexli provides dashboards and reports that make patterns visible, enabling root cause analysis.
+Nexli provides dashboards and reports that make patterns visible, enabling root cause analysis. Attendance trends, marks distributions, fee collection curves—all available in one place so principals can diagnose the actual problem rather than chasing symptoms.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

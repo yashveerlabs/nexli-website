@@ -1,4 +1,4 @@
----
+﻿---
 title: "How to Control School Spending and Reduce Waste"
 slug: "control-school-spending-reduce-waste"
 meta_description: "Reduce school spending without compromising quality. Cost control strategies and waste reduction practices."
@@ -162,17 +162,11 @@ branding_block_nexli: 6
 
 ---
 
-## Branding Block: Why Nexli
+**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP—they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
-Controlling waste requires visibility. Nexli shows you where money goes so you can act.
+**About Yashveer Labs:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "Schools waste 10–15% of their budget because they don't see it. Nexli makes waste visible. Once visible, it's easy to eliminate."
-
-**Yashveer Labs' Commitment:**
-Every rupee of school budget is sacred. Nexli helps you spend it wisely.
-
----
+**How Nexli Helps:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately—it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 ## Call to Action
 
@@ -184,7 +178,7 @@ Reduce school spending:
 4. **Implement quick wins** (low effort, high impact)
 5. **Monitor results** (are savings real? holding?)
 
-Nexli's expense analytics make waste visible. **[Request a demo](#contact)** and see how your school can control spending without compromising quality.
+Nexli's expense analytics make waste visible. **[Book a Free Demo](/demo)** and see how your school can control spending without compromising quality.
 
 ---
 

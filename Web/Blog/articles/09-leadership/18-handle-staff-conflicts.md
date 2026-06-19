@@ -184,15 +184,19 @@ If you handle one conflict one way and another differently, it looks unfair.
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot is founder and CEO of Yashveer Labs, coaching 50+ principals on staff dynamics and conflict resolution.
+Trust in technology starts with control. Yashveer Singh Rajpoot designed Nexli so that schools—not the vendor—own their school's data and decisions. Want to export all student records tomorrow? You can. Want to use Nexli with a third-party app? The system supports open APIs. Want to understand how your data is processed? Full audit trails are available. That trust-first design means schools can commit to Nexli knowing they're never locked in or dependent.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds systems for transparent, professional workplace dynamics.
+Behind every feature in Nexli is a story of a school that struggled with that problem. The Counselling workspace exists because counselors told us their work was invisible to the system. The Question Paper Generator exists because teachers spend hours manually compiling papers. The Rankings engine exists because schools wanted fair, transparent merit lists. Yashveer Labs builds based on real problems, not assumptions.
 
 **About Nexli**
 
-Nexli provides clear role definitions, transparent workflows, and audit logs that prevent many staff conflicts from starting.
+Nexli provides clear role definitions, transparent workflows, and audit logs that prevent many staff conflicts from starting. With 118+ configurable roles, authority and responsibilities are visible to every stakeholder—reducing ambiguity before it becomes friction.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

@@ -184,15 +184,19 @@ Match the consequence to the severity. Minor offenses get warnings; serious ones
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot, founder of Yashveer Labs, coaches principals on fair, transparent discipline.
+The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone—principals, teachers, parents, students. Nexli was built to close that gap.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds systems for consistent, transparent policy enforcement.
+Yashveer Labs operates on a principle of "configured not coded." Need to create a new approval workflow? Configure it. Need to customize report cards for your board? Configure it. Need to adjust role permissions? Configure it. The system is built so schools can adapt it to their needs without waiting for a developer. That configurability is a core architectural decision that takes longer to build but pays off in flexibility.
 
 **About Nexli**
 
-Nexli provides policy documentation, incident tracking, and audit logs that ensure consistent discipline and full transparency.
+Nexli provides policy documentation, incident tracking, and audit logs that ensure consistent discipline and full transparency. When every case is logged with date, details, and outcome, principals can demonstrate due process and defend decisions with evidence.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

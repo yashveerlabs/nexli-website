@@ -1,4 +1,4 @@
----
+﻿---
 title: "How to Handle Salary Advance Requests"
 slug: "handle-salary-advance-requests"
 meta_description: "Learn about how to handle salary advance requests in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
@@ -42,7 +42,7 @@ Effective how to handle salary advance requests systems are foundational for:
 - **Data Integrity:** Single source of truth; consistent, auditable records
 - **Decision-Making:** Leadership has accurate data for budget planning and strategic decisions
 
-Schools with robust financial systems typically see:
+Schools with reliable financial systems typically see:
 - 30–40% reduction in administrative overhead
 - Better cash flow management
 - Fewer audit findings
@@ -250,21 +250,15 @@ Nexli's Finance Module streamlines all critical financial processes:
 
 ---
 
-## Branding Block: Why Nexli
+**About the Founder:** Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh Rajpoot insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
 
-Financial systems are the backbone of school sustainability. Nexli automates and standardizes critical financial workflows so you can focus on education.
+**About Yashveer Labs:** Behind Yashveer Labs is a commitment to long-term thinking. Every school that uses Nexli should feel confident investing in it—not because we promise never to change, but because we're building something sustainable that will improve over years and decades. The company has turned down revenue shortcuts that would have meant locking schools in or cutting corners on security. Sustainable business means aligned incentives with customers.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "We built Nexli because schools were drowning in financial spreadsheets. Nexli automates fee management, payroll, compliance reporting, and accounting. But more importantly, Nexli makes finances transparent and auditable. When parents see real-time fee status, when auditors see automated compliance records, when leaders have real-time financial dashboards—everything improves. Transparency builds trust."
-
-**Yashveer Labs' Commitment:**
-Your school's financial health is our mission. Nexli ensures every rupee is accounted for, every process is compliant, and every stakeholder is informed.
-
----
+**How Nexli Helps:** Behind Nexli is an investment in depth. The Attendance module tracks period-wise, daily consolidated, and bus attendance separately because schools need that granularity. The Fee module supports term-based, installment-based, and monthly billing because different schools operate differently. The Compliance module includes DPDP Act workflows, POCSO case management, and RTE quota tracking because Indian schools face those specific requirements. Depth matters.
 
 ## Call to Action
 
-Build a robust financial system today:
+Build a reliable financial system today:
 
 1. **Audit current practices** (identify gaps and inefficiencies)
 2. **Document policies** (write them down in clear language)
@@ -274,7 +268,7 @@ Build a robust financial system today:
 6. **Train staff** (ensure everyone understands and follows processes)
 7. **Monitor and improve** (quarterly reviews; continuous refinement)
 
-Nexli's Finance Module automates these entire processes. **[Request a demo](#contact)** and see how your school can streamline finances and build stakeholder trust.
+Nexli's Finance Module automates these entire processes. **[Book a Free Demo](/demo)** and see how your school can streamline finances and build stakeholder trust.
 
 ---
 
