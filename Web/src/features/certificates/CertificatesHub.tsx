@@ -9,7 +9,7 @@ import { useToast } from '@/components/Toast';
 import { formatDate } from '@/lib/format';
 import { useSession } from '@/app/providers/SessionProvider';
 import { useStudents, useIssuedCertificates, issueCertificate, type CertificateType, type IssuedCertificate, type Actor } from './data';
-import { CERT_META, CERT_DEFAULT_ACCENT, buildCertificateHtml, printCertificate, type CertOpts, type CertFontStyle } from './print';
+import { CERT_META, CERT_DEFAULT_ACCENT, buildCertificateHtml, printCertificate, openPrintWindow, type CertOpts, type CertFontStyle } from './print';
 import { CertificatePreview } from './CertificatePreview';
 import type { Student } from '@/types/sis';
 
@@ -162,17 +162,20 @@ function IssueTab({ schoolId, schoolName, schoolLoc, ay, actor, canIssue }: {
     const student = students.find((s) => s.id === studentId);
     if (!schoolId || !student || !certName.trim()) return;
     setBusy(true);
+    // Open the print window synchronously (pre-await) so pop-up blockers don't stop it.
+    const printWin = openPrintWindow();
     try {
       const cert = await issueCertificate(schoolId, {
         type, certName: certName.trim(), studentId: student.id, studentName: student.fullName,
         className: [student.gradeName, student.sectionName].filter(Boolean).join('-') || undefined,
         admissionNo: student.admissionNo, purpose: purpose.trim() || undefined,
       }, actor);
-      const ok = printCertificate(buildCertificateHtml(optsFor(type, cert.serialNo, student, schoolName, schoolLoc, ay, purpose, customize)));
+      const ok = printCertificate(buildCertificateHtml(optsFor(type, cert.serialNo, student, schoolName, schoolLoc, ay, purpose, customize)), printWin);
       toast.success(`${certName.trim()} issued — ${cert.serialNo}`);
       if (!ok) toast.error('Allow pop-ups to open the printable certificate.');
       setPurpose('');
     } catch {
+      printWin?.close();
       toast.error('Could not issue the certificate');
     } finally {
       setBusy(false);

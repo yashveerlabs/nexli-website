@@ -1,4 +1,5 @@
 import { initializeApp, type FirebaseApp } from 'firebase/app';
+import { initializeAppCheck, ReCaptchaV3Provider } from 'firebase/app-check';
 import { getAuth, type Auth } from 'firebase/auth';
 import {
   initializeFirestore,
@@ -35,6 +36,20 @@ if (!firebaseConfig.apiKey || !firebaseConfig.projectId) {
 }
 
 export const firebaseApp: FirebaseApp = initializeApp(firebaseConfig);
+
+// App Check (anti-abuse): attests requests come from our real app, not a stolen
+// API key hitting Firestore/Auth directly. Env-gated so local dev and any build
+// WITHOUT a key is unaffected — it only initializes when a reCAPTCHA v3 site key
+// is present. NEEDS YASHVEER: create a reCAPTCHA v3 site key, set
+// VITE_RECAPTCHA_SITE_KEY, and turn ON App Check enforcement in the Firebase
+// console (Firestore + Auth) — until enforcement is enabled this is a no-op.
+const recaptchaSiteKey = import.meta.env.VITE_RECAPTCHA_SITE_KEY as string | undefined;
+if (recaptchaSiteKey) {
+  initializeAppCheck(firebaseApp, {
+    provider: new ReCaptchaV3Provider(recaptchaSiteKey),
+    isTokenAutoRefreshEnabled: true,
+  });
+}
 
 export const auth: Auth = getAuth(firebaseApp);
 

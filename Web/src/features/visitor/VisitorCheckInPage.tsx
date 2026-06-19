@@ -10,14 +10,35 @@ import { useToast } from '@/components/Toast';
 import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { useBlacklist, createVisitor } from '@/features/ops/data';
 import { VISITOR_PURPOSE_OPTIONS, ID_TYPE_OPTIONS } from '@/features/ops/meta';
-import type { VisitorLog } from '@/types/ops';
+import type { VisitorLog, BlacklistEntry } from '@/types/ops';
 import { visitorSchema, emptyVisitor, generatePassNo, generateOtp, type VisitorValues } from './visitorSchema';
+
+/**
+ * Find an ACTIVE blacklist entry matching this visitor by phone (exact) or name
+ * (case-insensitive, ≥2 chars). Shared by the live banner (disable submit) and the
+ * submit-time guard (hard block) so the two can never disagree.
+ */
+function findBlacklistMatch(
+  blacklist: BlacklistEntry[],
+  name: string | undefined,
+  phone: string | undefined,
+): BlacklistEntry | null {
+  const n = (name ?? '').trim().toLowerCase();
+  const p = (phone ?? '').trim();
+  if (n.length < 2 && !p) return null;
+  return (
+    blacklist.find(
+      (b) => b.active !== false && ((p && b.phone === p) || (n.length >= 2 && b.name.toLowerCase() === n)),
+    ) ?? null
+  );
+}
 
 export function VisitorCheckInPage() {
   const navigate = useNavigate();
   const toast = useToast();
   const { schoolId, uid, member } = useSession();
   const { canOperate, ownerLabel } = useOwnership('visitor');
+  const { data: blacklist } = useBlacklist(schoolId);
   const actor = { uid: uid ?? 'unknown', name: member?.name };
 
   if (!canOperate) {
@@ -42,6 +63,13 @@ export function VisitorCheckInPage() {
         defaultValues={emptyVisitor}
         onSubmit={async (values) => {
           if (!schoolId) return;
+          // HARD BLOCK: a blacklisted visitor must never be checked in. The live
+          // banner already disables the button; this is the defense-in-depth guard
+          // so no edge path (programmatic submit, stale state) can bypass it.
+          if (findBlacklistMatch(blacklist, values.name, values.phone)) {
+            toast.error('Check-in blocked', 'This visitor is on the security blacklist. Contact security before allowing entry.');
+            return;
+          }
           try {
             const payload: Omit<VisitorLog, 'id'> = {
               schoolId,
@@ -82,12 +110,7 @@ function CheckInBody({ onCancel }: { onCancel: () => void }) {
 
   const name = watch('name');
   const phone = watch('phone');
-  const match = useMemo(() => {
-    const n = (name ?? '').trim().toLowerCase();
-    const p = (phone ?? '').trim();
-    if (n.length < 2 && !p) return null;
-    return blacklist.find((b) => b.active !== false && ((p && b.phone === p) || (n.length >= 2 && b.name.toLowerCase() === n))) ?? null;
-  }, [blacklist, name, phone]);
+  const match = useMemo(() => findBlacklistMatch(blacklist, name, phone), [blacklist, name, phone]);
 
   return (
     <FormPage
@@ -99,13 +122,15 @@ function CheckInBody({ onCancel }: { onCancel: () => void }) {
       submitLabel="Check in & issue pass"
       submitIcon="check"
       submitting={formState.isSubmitting}
+      // HARD BLOCK: cannot check in a blacklisted visitor (also guarded at submit).
+      submitDisabled={!!match}
     >
       {match && (
         <div className="ops-sos" role="alert" style={{ marginBottom: 4 }}>
           <span className="ops-sos__icon"><Icon name="alert-triangle" size={20} /></span>
           <div>
-            <div className="ops-sos__title">On the blacklist</div>
-            <div className="ops-sos__meta">A visitor matching {match.phone ? 'this phone' : 'this name'} is blacklisted — {match.reason}. Verify with security before entry.</div>
+            <div className="ops-sos__title">Check-in blocked — visitor is blacklisted</div>
+            <div className="ops-sos__meta">A visitor matching {match.phone ? 'this phone' : 'this name'} is on the security blacklist{match.reason ? ` — ${match.reason}` : ''}. Entry is not permitted; contact security to proceed.</div>
           </div>
         </div>
       )}

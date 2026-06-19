@@ -117,6 +117,43 @@ await testEnv.withSecurityRulesDisabled(async (ctx) => {
   await set('portfolio', 'pf1', { studentId: 'stu1', title: 'Science fair', status: 'submitted' });
   await set('careerAssessments', 'ca1', { studentId: 'stu1', status: 'completed' });
   await set('consent_purposes', 'cp1', { name: 'Photography consent', required: false });
+
+  // --- Pre-launch security pass fixtures ---
+  // extra members used only by the new tests
+  await member(S1, 'security_guard', 'security_guard');
+  await index('security_guard', { roleId: 'security_guard', schoolId: S1, status: 'active' });
+  await member(S1, 'it_admin', 'it_admin');
+  await index('it_admin', { roleId: 'it_admin', schoolId: S1, status: 'active' });
+  await member(S1, 'front_desk', 'front_desk');
+  await index('front_desk', { roleId: 'front_desk', schoolId: S1, status: 'active' });
+
+  // direct messaging: a thread between the principal and the class_teacher; the
+  // counselor is NOT a participant (used for the POCSO-escalation leak test).
+  await set('conversations', 'principal__class_teacher', {
+    participantUids: ['class_teacher', 'principal'],
+    kind: 'escalation', lastMessage: 'safeguarding case', lastAt: 1,
+  });
+  await set('messages', 'm1', {
+    conversationId: 'principal__class_teacher', senderUid: 'principal', text: 'POCSO escalation note',
+  });
+
+  // finance / procurement / governance / rte / visitor fixtures
+  await set('vendors', 'v1', { name: 'Acme Books', bankAccount: 'XXXX' });
+  await set('purchase_orders', 'po1', { vendorId: 'v1', total: 5000 });
+  await set('fee_structures', 'fs1', { grade: 'I', amount: 1000 });
+  // (finance_settings/main is already seeded above; parents may read it.)
+  await set('expense_settings', 'main', { approverUid: 'principal' });
+  await set('smc_members', 'sm1', { name: 'Parent Rep' });
+  await set('compliance_items', 'ci1', { title: 'Fire NOC' });
+  await set('udise_profile', 'main', { udiseCode: '0000' });
+  await set('rte_applications', 'rte1', { applicantName: 'Child A' });
+  await set('visitors', 'vis1', { name: 'Courier', phone: '9000000000' });
+  await set('visitor_blacklist', 'bl1', { name: 'Banned Person' });
+  await set('delegations', 'dl1', { delegateUid: 'class_teacher', moduleKey: 'library', active: true });
+  // Legal-pass collections
+  await set('pocso_counters', 'main', { value: 1 });
+  await set('erasure_requests', 'er1', { studentId: 'stu1', status: 'pending' });
+  await set('breach_notifications', 'bn1', { summary: 'Test breach' });
 });
 
 // contexts
@@ -389,6 +426,124 @@ await no('anon read circular', readDoc(unauth, 'circulars', 'c1'));
   await ok('dpo write consent purpose (consent staff)', writeDoc(as('dpo'), ['consent_purposes', 'cp2'], { name: 'Field trip consent' }));
   await no('bus_driver write consent purpose (not consent staff)', writeDoc(as('bus_driver'), ['consent_purposes', 'cpX'], { name: 'x' }));
   await no('class_teacher write consent purpose (not consent staff)', writeDoc(as('class_teacher'), ['consent_purposes', 'cpY'], { name: 'y' }));
+}
+
+// ============================================================
+// PRE-LAUNCH SECURITY PASS — new assertions
+// ============================================================
+
+// --- P0.1 member self-update must NOT allow privilege escalation ---
+{
+  const db = as('class_teacher');
+  const meRef = doc(db, 'schools', S1, 'members', 'class_teacher');
+  // allowed: editing a benign profile field (name/phone) keeping role/status/school
+  // and all privilege fields unchanged (absent → stays absent).
+  await ok('member self-edit own name (benign)',
+    setDoc(meRef, { uid: 'class_teacher', schoolId: S1, roleId: 'class_teacher', status: 'active', name: 'New Name' }));
+  // BLOCKED: self-granting grantedPermissions → full escalation.
+  await no('member CANNOT self-grant grantedPermissions',
+    setDoc(meRef, { uid: 'class_teacher', schoolId: S1, roleId: 'class_teacher', status: 'active', grantedPermissions: ['*'] }));
+  // BLOCKED: self-assigning a second (privileged) role.
+  await no('member CANNOT self-add secondaryRoleId',
+    setDoc(meRef, { uid: 'class_teacher', schoolId: S1, roleId: 'class_teacher', status: 'active', secondaryRoleId: 'principal' }));
+  // BLOCKED: self-promotion to super admin via a member field.
+  await no('member CANNOT self-set isSuperAdmin',
+    setDoc(meRef, { uid: 'class_teacher', schoolId: S1, roleId: 'class_teacher', status: 'active', isSuperAdmin: true }));
+  // BLOCKED: changing own role (existing guard, re-asserted).
+  await no('member CANNOT change own roleId',
+    setDoc(meRef, { uid: 'class_teacher', schoolId: S1, roleId: 'principal', status: 'active' }));
+  // Admin CAN grant grantedPermissions to a member (legitimate path still works).
+  await ok('principal CAN grant grantedPermissions to a member',
+    setDoc(doc(as('principal'), 'schools', S1, 'members', 'class_teacher'),
+      { uid: 'class_teacher', schoolId: S1, roleId: 'class_teacher', status: 'active', grantedPermissions: ['fees.read'] }));
+}
+
+// --- P0.3 cross-tenant userIndex hijack must be blocked ---
+{
+  // seed an existing index owned by S1 (done in seed for the named roles). The S2
+  // principal must NOT be able to move/hijack an S1 user into S2.
+  const s2admin = as('outsider'); // principal of S2
+  await no('outsider CANNOT rewrite S1 user index into S2',
+    setDoc(doc(s2admin, 'userIndex', 'class_teacher'), { uid: 'class_teacher', schoolId: S2, roleId: 'principal' }));
+  // S1 admin cannot change a user's tenant either (schoolId immutable on update).
+  await no('S1 admin CANNOT change a userIndex tenant',
+    setDoc(doc(as('principal'), 'userIndex', 'class_teacher'), { uid: 'class_teacher', schoolId: S2, roleId: 'class_teacher' }));
+  // S1 admin cannot mint a super admin via userIndex.
+  await no('S1 admin CANNOT mint super admin via userIndex (create)',
+    setDoc(doc(as('principal'), 'userIndex', 'brandnew'), { uid: 'brandnew', schoolId: S1, roleId: 'class_teacher', isSuperAdmin: true }));
+  // S1 admin CAN still provision a new in-tenant user (must not break onboarding).
+  await ok('S1 admin CAN create a new in-tenant userIndex',
+    setDoc(doc(as('principal'), 'userIndex', 'fresh1'), { uid: 'fresh1', schoolId: S1, roleId: 'subject_teacher' }));
+}
+
+// --- P0.2 conversations/messages: participants only ---
+{
+  // participant (principal) reads the thread + message; non-participant (counselor) cannot.
+  await ok('participant reads own conversation', readDoc(as('principal'), 'conversations', 'principal__class_teacher'));
+  await ok('participant reads message in own thread',
+    getDocs(query(collection(as('class_teacher'), 'schools', S1, 'messages'), where('conversationId', '==', 'principal__class_teacher'))));
+  await no('non-participant CANNOT read conversation (POCSO leak)', readDoc(as('counselor'), 'conversations', 'principal__class_teacher'));
+  await no('non-participant CANNOT read message in foreign thread',
+    getDocs(query(collection(as('counselor'), 'schools', S1, 'messages'), where('conversationId', '==', 'principal__class_teacher'))));
+  // a message create must carry senderUid == requester AND requester must be a participant.
+  await ok('participant sends message (senderUid == self)',
+    setDoc(doc(as('principal'), 'schools', S1, 'messages', 'm_ok'),
+      { conversationId: 'principal__class_teacher', senderUid: 'principal', text: 'hi' }));
+  await no('cannot spoof senderUid on message create',
+    setDoc(doc(as('principal'), 'schools', S1, 'messages', 'm_spoof'),
+      { conversationId: 'principal__class_teacher', senderUid: 'class_teacher', text: 'spoofed' }));
+  await no('non-participant CANNOT post into a thread',
+    setDoc(doc(as('counselor'), 'schools', S1, 'messages', 'm_intrude'),
+      { conversationId: 'principal__class_teacher', senderUid: 'counselor', text: 'intrude' }));
+  // starting a brand-new conversation: author must be a participant.
+  await ok('member creates own new conversation',
+    setDoc(doc(as('counselor'), 'schools', S1, 'conversations', 'counselor__principal'),
+      { participantUids: ['counselor', 'principal'], kind: 'direct', lastMessage: '', lastAt: 2 }));
+  await no('cannot create a conversation you are not in',
+    setDoc(doc(as('counselor'), 'schools', S1, 'conversations', 'principal__hr_manager'),
+      { participantUids: ['hr_manager', 'principal'], kind: 'direct', lastMessage: '', lastAt: 2 }));
+}
+
+// --- P1.4 finance / procurement / governance / rte / visitor / legal collections ---
+{
+  // finance/procurement
+  await ok('chief_accountant reads vendor', readDoc(as('chief_accountant'), 'vendors', 'v1'));
+  await ok('accounts_clerk reads fee_structures', readDoc(as('accounts_clerk'), 'fee_structures', 'fs1'));
+  await no('bus_driver CANNOT read vendor (cost data)', readDoc(as('bus_driver'), 'vendors', 'v1'));
+  await no('class_teacher CANNOT read purchase order', readDoc(as('class_teacher'), 'purchase_orders', 'po1'));
+  await no('parentP1 CANNOT read expense_settings', readDoc(as('parentP1'), 'expense_settings', 'main'));
+  // finance_settings stays parent-readable (how-to-pay) — re-assert it didn't regress.
+  await ok('parentP1 reads finance_settings (how-to-pay)', readDoc(as('parentP1'), 'finance_settings', 'main'));
+  await no('parentP1 CANNOT write finance_settings', writeDoc(as('parentP1'), ['finance_settings', 'main'], { bankName: 'Hacked' }));
+
+  // governance / statutory
+  await ok('principal reads smc_members', readDoc(as('principal'), 'smc_members', 'sm1'));
+  await ok('it_admin reads compliance_items (governance)', readDoc(as('it_admin'), 'compliance_items', 'ci1'));
+  await no('class_teacher CANNOT read compliance_items', readDoc(as('class_teacher'), 'compliance_items', 'ci1'));
+  await no('bus_driver CANNOT write udise_profile', writeDoc(as('bus_driver'), ['udise_profile', 'main'], { udiseCode: 'x' }));
+
+  // rte (admissions)
+  await ok('registrar reads rte_applications', readDoc(as('registrar'), 'rte_applications', 'rte1'));
+  await no('nurse CANNOT read rte_applications', readDoc(as('nurse'), 'rte_applications', 'rte1'));
+
+  // visitor / gate
+  await ok('security_guard reads visitors', readDoc(as('security_guard'), 'visitors', 'vis1'));
+  await ok('front_desk reads visitor_blacklist', readDoc(as('front_desk'), 'visitor_blacklist', 'bl1'));
+  await no('class_teacher CANNOT read visitor blacklist', readDoc(as('class_teacher'), 'visitor_blacklist', 'bl1'));
+  await no('bus_driver CANNOT read visitors PII', readDoc(as('bus_driver'), 'visitors', 'vis1'));
+
+  // delegations — staff read, only admin writes
+  await ok('class_teacher reads delegations (own grants)', readDoc(as('class_teacher'), 'delegations', 'dl1'));
+  await ok('principal writes a delegation', writeDoc(as('principal'), ['delegations', 'dl2'], { delegateUid: 'nurse', moduleKey: 'medical', active: true }));
+  await no('class_teacher CANNOT write a delegation', writeDoc(as('class_teacher'), ['delegations', 'dl3'], { delegateUid: 'class_teacher', moduleKey: 'fees', active: true }));
+
+  // legal-pass collections
+  await ok('cpo reads pocso_counters', readDoc(as('cpo'), 'pocso_counters', 'main'));
+  await no('counselor CANNOT read pocso_counters', readDoc(as('counselor'), 'pocso_counters', 'main'));
+  await ok('dpo reads erasure_requests', readDoc(as('dpo'), 'erasure_requests', 'er1'));
+  await no('bus_driver CANNOT read erasure_requests', readDoc(as('bus_driver'), 'erasure_requests', 'er1'));
+  await ok('it_admin reads breach_notifications', readDoc(as('it_admin'), 'breach_notifications', 'bn1'));
+  await no('class_teacher CANNOT read breach_notifications', readDoc(as('class_teacher'), 'breach_notifications', 'bn1'));
 }
 
 // ----------------------------- report -----------------------------

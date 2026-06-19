@@ -23,14 +23,50 @@ export const emptyVisitor: VisitorValues = {
 
 const pad = (n: number, w: number) => String(n).padStart(w, '0');
 
-/** Human-readable gate pass number, e.g. V-260613-0421 (date + time tail). */
+/**
+ * Cryptographically-strong integer in [0, max) using the Web Crypto API, with a
+ * graceful fallback to Math.random only where crypto is unavailable (it isn't, in
+ * any modern browser or worker). Used for the gate OTP and the pass-number tail so
+ * neither is a predictable function of the wall clock (a `Math.random()` OTP and a
+ * `seconds`-derived pass are both guessable).
+ */
+function secureInt(max: number): number {
+  const g: Crypto | undefined =
+    typeof globalThis !== 'undefined' ? (globalThis.crypto as Crypto | undefined) : undefined;
+  if (g?.getRandomValues) {
+    // Rejection-sample to avoid modulo bias.
+    const limit = Math.floor(0xffffffff / max) * max;
+    const buf = new Uint32Array(1);
+    let v = 0;
+    do {
+      g.getRandomValues(buf);
+      v = buf[0];
+    } while (v >= limit);
+    return v % max;
+  }
+  return Math.floor(Math.random() * max);
+}
+
+/**
+ * Human-readable gate pass number, e.g. V-260613-A4F1 (date + crypto-random tail).
+ *
+ * The tail is a crypto-random base-36 token, NOT a function of the clock — the old
+ * `seconds % 10000` tail collided for any two check-ins in the same second and was
+ * trivially predictable. NOTE: this is collision-RESISTANT, not guaranteed unique;
+ * true uniqueness needs an atomic per-school counter (see `finance_counters` /
+ * `certificate_counters`). The doc id from `addDoc` remains the real unique key.
+ */
 export function generatePassNo(now = new Date()): string {
   const ymd = `${pad(now.getFullYear() % 100, 2)}${pad(now.getMonth() + 1, 2)}${pad(now.getDate(), 2)}`;
-  const tail = pad((now.getHours() * 3600 + now.getMinutes() * 60 + now.getSeconds()) % 10000, 4);
+  // 4 base-36 chars = ~1.6M space; crypto-random so two same-second passes differ.
+  const tail = secureInt(36 ** 4)
+    .toString(36)
+    .toUpperCase()
+    .padStart(4, '0');
   return `V-${ymd}-${tail}`;
 }
 
-/** 4-digit gate OTP for the host to verify the visitor. */
+/** 4-digit gate OTP for the host to verify the visitor (crypto-random). */
 export function generateOtp(): string {
-  return String(Math.floor(1000 + Math.random() * 9000));
+  return pad(secureInt(10000), 4);
 }

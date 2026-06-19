@@ -1,5 +1,5 @@
 import { useLayoutEffect, useRef, useState, type CSSProperties } from 'react';
-import { certBodyHtml, certStyle, type CertOpts } from './print';
+import { certBodyHtml, certStyle, safeAccent, type CertOpts } from './print';
 
 /**
  * Live, display-only certificate preview rendered inline (no popup). Mirrors the
@@ -11,7 +11,11 @@ import { certBodyHtml, certStyle, type CertOpts } from './print';
  * CSS transform so it fits whatever width the preview panel happens to be.
  */
 export function CertificatePreview({ opts }: { opts: CertOpts }) {
-  const { accent, fontFamily, title, landscape, pageWidth } = certStyle(opts);
+  // `certStyle` already returns a validated accent; re-assert here (defense in
+  // depth) since it is interpolated into inline `style` strings below — only a
+  // strict #RRGGBB value is ever allowed (XSS-safe), else the safe gold default.
+  const { fontFamily, title, landscape, pageWidth } = certStyle(opts);
+  const accent = safeAccent(opts.accentColor);
   const wrapRef = useRef<HTMLDivElement>(null);
   const sheetRef = useRef<HTMLDivElement>(null);
   const [scale, setScale] = useState(1);

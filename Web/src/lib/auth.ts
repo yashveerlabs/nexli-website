@@ -3,10 +3,12 @@ import {
   sendPasswordResetEmail,
   signInWithEmailAndPassword,
   signInWithPhoneNumber,
+  signOut,
   type ConfirmationResult,
   type UserCredential,
 } from 'firebase/auth';
-import { auth } from './firebase';
+import { clearIndexedDbPersistence, terminate } from 'firebase/firestore';
+import { auth, db } from './firebase';
 
 /**
  * NEXLI authentication service.
@@ -114,6 +116,48 @@ export async function confirmParentOtp(
   code: string,
 ): Promise<UserCredential> {
   return confirmation.confirm(code);
+}
+
+/* ---------------- Sign out (with local data wipe) ---------------- */
+
+/**
+ * Sign out and PURGE all locally-cached Firestore data, then hard-reload.
+ *
+ * The offline persistent cache (IndexedDB) holds tenant data — student PII, fees,
+ * medical/POCSO docs — for whoever was last signed in. On a shared device (gate
+ * kiosk, staff-room PC, a parent borrowing a phone) the next user could read the
+ * previous user's cached data straight from IndexedDB even though the rules would
+ * block a fresh fetch. So on logout we:
+ *   1. `signOut` (revoke the Firebase session),
+ *   2. `terminate(db)` (release the Firestore client so the cache can be deleted —
+ *      `clearIndexedDbPersistence` throws if the client is still running),
+ *   3. `clearIndexedDbPersistence(db)` (delete the cached DB),
+ *   4. full `location` reload so a clean, terminated SDK is re-initialized.
+ *
+ * Every step is best-effort and individually guarded: the session MUST end even
+ * if the cache wipe or terminate fails (e.g. another open tab holds the DB). The
+ * hard reload is the backstop — after it, no in-memory state from the previous
+ * user survives. All logouts are treated identically (staff, parent, super admin).
+ */
+export async function signOutAndClearLocalData(): Promise<void> {
+  try {
+    await signOut(auth);
+  } catch {
+    /* ignore — proceed to wipe + reload regardless */
+  }
+  try {
+    // Releases the Firestore client; required before clearing the IndexedDB cache.
+    await terminate(db);
+    await clearIndexedDbPersistence(db);
+  } catch {
+    // Can fail if another tab still holds the persistence lease, or the browser
+    // blocks IDB. Not fatal: the session is already revoked and the reload below
+    // discards all in-memory data.
+  }
+  // Hard reload to a clean app with a fresh (terminated) SDK and no stale state.
+  if (typeof window !== 'undefined') {
+    window.location.assign('/');
+  }
 }
 
 export { errorCode };

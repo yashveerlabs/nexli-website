@@ -8,9 +8,10 @@ import {
   useState,
   type ReactNode,
 } from 'react';
-import { onAuthStateChanged, signOut, type User } from 'firebase/auth';
+import { onAuthStateChanged, type User } from 'firebase/auth';
 import { getDoc } from 'firebase/firestore';
 import { auth } from '@/lib/firebase';
+import { signOutAndClearLocalData } from '@/lib/auth';
 import { globalFlagsRef, memberRef, schoolFlagsRef, schoolRef, userIndexRef } from '@/lib/db';
 import { DEFAULT_FLAGS, resolveFlags, type FeatureFlagKey, type FlagMap } from '@/lib/featureFlags';
 import { hasPermission, permissionListGrants, type Permission } from '@/lib/rbac';
@@ -183,13 +184,15 @@ export function SessionProvider({ children }: { children: ReactNode }) {
 
   const logout = useCallback(async () => {
     if (state.uid) {
-      void writeAuditEvent({
+      // Await so the logout audit event is persisted before the hard reload below.
+      await writeAuditEvent({
         action: 'logout',
         schoolId: state.schoolId,
         actor: { uid: state.uid, name: state.member?.name, role: state.role },
-      });
+      }).catch(() => {});
     }
-    await signOut(auth);
+    // Clears the Firestore IndexedDB cache (student PII / fees / medical) then reloads.
+    await signOutAndClearLocalData();
   }, [state.uid, state.schoolId, state.member, state.role]);
 
   const value = useMemo<SessionContextValue>(

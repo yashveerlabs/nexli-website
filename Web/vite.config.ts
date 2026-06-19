@@ -46,7 +46,9 @@ export default defineConfig({
   server: { port: 5173, host: true },
   build: {
     target: 'es2022',
-    sourcemap: true,
+    // SECURITY: do not ship source maps to production — they expose readable
+    // source (incl. internal logic / comments) to anyone who opens devtools.
+    sourcemap: false,
     chunkSizeWarningLimit: 900,
     rollupOptions: {
       output: {

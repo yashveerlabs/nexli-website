@@ -11,8 +11,20 @@ export const CERT_META: Record<CertificateType, { label: string; title: string }
 
 export type CertFontStyle = 'serif' | 'sans-serif' | 'monospace';
 
-/** Default certificate accent (gold) used when no override is supplied. */
+/** Default certificate accent (gold) used when no override (or an unsafe one). */
 export const CERT_DEFAULT_ACCENT = '#C6A55C';
+
+/**
+ * SECURITY: the accent colour is interpolated raw into a <style> block and into
+ * inline `style` attributes (in both the printed HTML and the React preview). An
+ * unvalidated value (e.g. `red; } </style><script>…`) would be a CSS/HTML
+ * injection vector. Accept ONLY a strict 6-digit hex colour; anything else falls
+ * back to the safe gold default. Returned uppercased for stable output.
+ */
+export function safeAccent(raw: string | undefined): string {
+  const v = (raw ?? '').trim();
+  return /^#[0-9A-Fa-f]{6}$/.test(v) ? v.toUpperCase() : CERT_DEFAULT_ACCENT;
+}
 
 const FONT_STACKS: Record<CertFontStyle, string> = {
   serif: `Georgia, 'Times New Roman', serif`,
@@ -26,7 +38,8 @@ const FONT_STACKS: Record<CertFontStyle, string> = {
  * effective title, and the A4 page dimensions (swapped when landscape).
  */
 export function certStyle(o: CertOpts) {
-  const accent = (o.accentColor || CERT_DEFAULT_ACCENT).trim() || CERT_DEFAULT_ACCENT;
+  // Validated (XSS-safe) accent — feeds BOTH the print HTML and the React preview.
+  const accent = safeAccent(o.accentColor);
   const fontFamily = FONT_STACKS[o.fontStyle ?? 'serif'];
   const meta = CERT_META[o.type];
   const title = (o.certName?.trim() || meta.title).toUpperCase();
@@ -163,13 +176,38 @@ export function buildCertificateHtml(o: CertOpts): string {
 </body></html>`;
 }
 
-/** Open the certificate in a clean window for printing / Save-as-PDF. Returns false if a popup blocker stopped it. */
-export function printCertificate(html: string): boolean {
-  const w = window.open('', '_blank', 'width=900,height=1180');
-  if (!w) return false;
+/**
+ * Open a blank print window. Returns null if a popup blocker stopped it.
+ *
+ * POPUP-BLOCKER NOTE: browsers only allow `window.open` during the synchronous
+ * portion of a user-gesture handler. If the certificate is issued first
+ * (`await issueCertificate(...)`) and the window is opened AFTER the await, the
+ * popup is treated as non-user-initiated and blocked. Callers that issue before
+ * printing should therefore call `openPrintWindow()` SYNCHRONOUSLY at the start of
+ * the click handler (before any await), then `writePrintWindow(win, html)` once
+ * the HTML is ready. See `printCertificate` for the combined (no-await) path.
+ */
+export function openPrintWindow(): Window | null {
+  return window.open('', '_blank', 'width=900,height=1180');
+}
+
+/** Write certificate HTML into an already-opened print window and focus it. */
+export function writePrintWindow(w: Window, html: string): void {
   w.document.open();
   w.document.write(html);
   w.document.close();
   w.focus();
+}
+
+/**
+ * Open + write in one step (safe ONLY when called synchronously from the click,
+ * i.e. with no preceding await). Returns false if a popup blocker stopped it.
+ * For the issue-then-print flow, prefer `openPrintWindow()` before the await +
+ * `writePrintWindow()` after, OR pass the pre-opened window as `preOpened`.
+ */
+export function printCertificate(html: string, preOpened?: Window | null): boolean {
+  const w = preOpened ?? openPrintWindow();
+  if (!w) return false;
+  writePrintWindow(w, html);
   return true;
 }
