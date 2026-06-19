@@ -1,15 +1,35 @@
 import { useMemo } from 'react';
+import { query, where } from 'firebase/firestore';
 import { Panel } from '@/components/Panel';
 import { Badge } from '@/components/Badge';
 import { EmptyState, Skeleton } from '@/components/feedback';
 import { formatINR, formatDate } from '@/lib/format';
 import { tenantCol, useCollection } from '@/lib/db';
-import { useAllAttendance } from '@/features/daily/data';
+import { useStudent } from '@/features/school/data';
 import { useInvoices } from '@/features/finance/data';
+import type { AttendanceDay } from '@/types/daily';
 
-/** Per-student attendance % + a recent-days strip (data via the daily attendance hook). */
+/** Per-student attendance % + a recent-days strip.
+ * Scoped to the student's OWN section: attendance is stored per-section-per-day,
+ * so we query only `attendance_days where sectionId == <student's section>`
+ * (single-field index, automatic) instead of reading every section's days for the
+ * whole school. The student's row is read from each day's `entries` map by id. */
 export function StudentAttendancePanel({ schoolId, studentId }: { schoolId: string; studentId: string }) {
-  const { data: days, loading } = useAllAttendance(schoolId);
+  // One extra single-doc read to learn the student's section; the alternative
+  // (whole-collection scan) cost O(sections × days) reads on every open.
+  const { data: student, loading: studentLoading } = useStudent(schoolId, studentId);
+  const sectionId = student?.sectionId;
+  const { data: days, loading: daysLoading } = useCollection<AttendanceDay>(
+    schoolId && sectionId
+      ? query(tenantCol(schoolId, 'attendance_days'), where('sectionId', '==', sectionId))
+      : null,
+    [schoolId, sectionId],
+  );
+  // Stay in the loading state until the student doc resolves (so we know the
+  // section) AND, when there is one, its attendance query settles — otherwise the
+  // empty state would flash before the section is known. A student with no section
+  // assigned falls straight through to the (correct) "no attendance" empty state.
+  const loading = studentLoading || (!!sectionId && daysLoading);
   const stats = useMemo(() => {
     let present = 0;
     let total = 0;
@@ -59,8 +79,10 @@ export function StudentAttendancePanel({ schoolId, studentId }: { schoolId: stri
 
 /** Per-student fees summary + invoice list (from the finance invoices hook). */
 export function StudentFeesPanel({ schoolId, studentId }: { schoolId: string; studentId: string }) {
-  const { data: invoices, loading } = useInvoices(schoolId);
-  const mine = useMemo(() => invoices.filter((i) => i.studentId === studentId), [invoices, studentId]);
+  // Scope the read to this student server-side (where studentId == …) instead of
+  // pulling every invoice in the school and filtering on the client. Single-field
+  // equality is auto-indexed by Firestore, so no composite index is required here.
+  const { data: mine, loading } = useInvoices(schoolId, studentId);
   const totals = useMemo(() => {
     let billed = 0;
     let paid = 0;

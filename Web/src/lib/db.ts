@@ -101,12 +101,31 @@ export interface ListState<T> {
 /**
  * Subscribe to a collection/query (null → idle). Pass `deps` so the listener
  * re-subscribes when inputs (e.g. schoolId, filters) change.
+ *
+ * `deps` is the listener's subscription key: the live `onSnapshot` is torn down
+ * and rebuilt only when `deps` changes. A common pitfall is passing a value that
+ * is fresh every render (e.g. an inline-built array, or `[...ids]`) — that
+ * thrashes the subscription each render; or, conversely, OMITTING an input that
+ * the query actually depends on, which leaves a STALE listener bound to old
+ * filters. The fix is to pass primitives (ids/flags) and a stable key for arrays
+ * (e.g. `ids.join(',')`), exactly as the call sites here already do.
+ *
+ * `queryKey` (optional, fully backwards-compatible — omit for unchanged
+ * behaviour): pass a single string/number and the listener keys off THAT stable
+ * value instead of `deps`. Useful when the query is rebuilt inline (so `deps`
+ * would otherwise have to enumerate every input): derive one stable key
+ * (e.g. ```${schoolId}|${sectionId}|${ids.join(',')}```) and the subscription
+ * tracks it precisely, avoiding both per-render thrash and stale listeners.
  */
 export function useCollection<T>(
   q: Query<DocumentData> | CollectionReference<DocumentData> | null,
   deps: DependencyList = [],
+  queryKey?: string | number,
 ): ListState<T> {
   const [state, setState] = useState<ListState<T>>({ data: [], loading: !!q });
+  // When an explicit queryKey is supplied it is the sole subscription key;
+  // otherwise fall back to the caller-supplied `deps` (default, unchanged).
+  const effectDeps: DependencyList = queryKey !== undefined ? [queryKey] : deps;
   useEffect(() => {
     if (!q) {
       setState({ data: [], loading: false });
@@ -120,7 +139,7 @@ export function useCollection<T>(
     );
     return unsub;
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, deps);
+  }, effectDeps);
   return state;
 }
 
