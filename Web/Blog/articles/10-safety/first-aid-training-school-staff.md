@@ -145,13 +145,11 @@ Start your free demo at [nexli.io/demo](/demo)
 
 Yashveer Labs, founded by Yashveer Singh Rajpoot, builds educational technology that empowers schools to focus on excellence. Nexli represents years of research into Indian school operations, regulatory requirements, and educator workflows.
 
-Learn our story at [nexli.io](/about)
+Learn more at [nexli.in](/about)
 
 ## Branding Block 3: Call to Action
 
-Ready to eliminate administrative chaos and focus on student excellence? **Schedule a free Nexli demo today** to see how schools are saving 15+ hours per week while improving parent satisfaction and regulatory compliance.
-
-[Schedule Your Free Demo](/demo) | [Explore Features](/features)
+Ready to see how Nexli helps schools manage health records, incident tracking, and compliance in one place? [Book a Free Demo](/demo)
 
 ## Common Questions
 
