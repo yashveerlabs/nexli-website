@@ -249,3 +249,17 @@ Systematic fix pass against the deduplicated **P0–P3 / Tier-0/1 launch-blocker
 - `roster.length` `useEffect` dep bug fixed in attendance/transport/hostel rollcall (3 modules); exam ResultsTab max-inflation + stale-doc delete + `allSettled`; rankings recompute from raw marks; homework cascade-delete of submissions; student import preserves guardian relation + duplicate detection; attendance status legend.
 - DPDP `ConsentGate` (warn mode) wired into admissions; `sweepExpiredSubscriptions` re-read transaction (no double-write/double-log across tabs).
 - Verified **already resolved**: `reportcard/compute.ts autoFillSubjects` (keys marks by paperId).
+
+### Wave 3 — Performance · UX/Accessibility · App shell
+
+**Performance & DB reads** (commit `8d30999`)
+- StudentAttendancePanel: whole-school `useAllAttendance` → **section-scoped** `attendance_days` query (~30× fewer reads on a 30-section school — the largest Spark-quota sink). StudentFeesPanel scoped to `studentId` (existing `useInvoices` overload).
+- `firestore.indexes.json`: +7 composite indexes — incl. the **required-today** `report_cards`(studentId+published) (else FAILED_PRECONDITION), plus forward-looking attendance/fee_invoices/fee_payments/messages/exam_results.
+- `useCollection` gained optional `queryKey` (backward-compatible) for stable subscriptions. `permissionListGrants` Set micro-opt verified **no benefit** → deferred (would need a SessionProvider-level cache). Route code-splitting confirmed already in place.
+- Follow-up noted: `useAllAttendance` still consumed by dashboards/analytics/rankings/report-cards — scope those next.
+
+**UX / accessibility / resilience** (commit `773d07c`)
+- Route-level **ErrorBoundary** (root + per-route, resets on nav) → one module crash no longer white-screens the app; `lib/monitoring.ts` capture seam (Sentry — NEEDS YASHVEER DSN).
+- **WCAG contrast verified**: gold #C6A55C measured **7.56:1** on card (audit's 3.4:1 claim was wrong) → untouched; fixed the genuine sub-AA `--text-dim` placeholder token (3.12→4.80:1). Skip-to-content link; aria-hidden on the one raw SVG (Icon.tsx already hides all `<Icon>`).
+- Removed `v0.1.0` badge (sidebar + foundation); PTM dead nav → disabled "Coming Soon"; RoleRoutes route tree memoized; portfolio print popup-blocker fix; StudentFormPage localStorage draft autosave + restore.
+- **Light/outdoor mode** (additive, safe): `[data-theme='light']` token overrides + persisted toggle; **dark unchanged/default**. Caveat: sidebar/appbar use hardcoded dark hex → full light-mode visual QA still required.
