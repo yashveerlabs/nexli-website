@@ -3,6 +3,15 @@ title: "How to Build Psychological Safety on Staff"
 slug: how-to-build-psychological-safety-on-staff
 category: 9
 order: 31
+primary_keyword: "how to build psychological safety on staff"
+meta_description: "Learn how school principals can build psychological safety among staff—enabling honest feedback, innovation, and high performance without fear of humiliation or blame."
+secondary_keywords: ["psychological safety in schools", "staff trust building", "school culture improvement", "principal leadership culture"]
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 11
+branding_block_company: 11
+branding_block_nexli: 11
 ---
 
 # How to Build Psychological Safety on Staff
@@ -101,7 +110,7 @@ Psychological safety—the belief that you can take interpersonal risks without 
 - You don't know everything
 - Ask for expertise and help
 - Collaborate on problems
-- Utilize staff knowledge
+- Use staff knowledge
 - Defer to their expertise
 - Learn from them
 - Show humility
@@ -324,3 +333,18 @@ Psychological safety—the belief that you can take interpersonal risks without 
 - Your genuine care
 
 Psychological safety is foundational to school excellence. When people feel safe, they do their best work, contribute their best thinking, and commit most deeply. Build it intentionally and protect it fiercely.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+After spending years in education technology, Yashveer Singh Rajpoot observed something: most school ERPs are built by software engineers, not by people who've lived inside schools. Details get missed. Workflows feel imposed from outside. Nexli was built by someone who understands both education and technology—where a Timetable needs to be not just a schedule, but a communication tool. Where Attendance is not just a register, but an early-warning system. Where Finance is not just accounting, but a window into school health.
+
+**About Yashveer Labs**  
+The company builds with the assumption that most school staff are not technical. A Principal shouldn't need to call IT support to add a new role or modify a workflow. Teachers shouldn't need training to mark attendance. Parents shouldn't need a manual to check their child's fee status. That simplicity is deliberate and hard-won. Behind every simple interface is complex design work to hide that complexity.
+
+**About Nexli**  
+What makes Nexli's transport module different: it integrates GPS tracking, RFID boarding, live alerts, and parent notifications. A parent is notified when their child boards the bus and again when they alight. The Transport Manager sees live GPS and can respond to delays. A bus conductor marks students present/absent on the vehicle. That integration means transport becomes a point of communication and safety, not just a service.
+
+---
+
+[Book a Free Demo](/demo)

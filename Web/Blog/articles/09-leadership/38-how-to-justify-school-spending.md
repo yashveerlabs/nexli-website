@@ -3,6 +3,15 @@ title: "How to Justify School Spending"
 slug: how-to-justify-school-spending
 category: 9
 order: 38
+primary_keyword: "how to justify school spending"
+meta_description: "A guide for school principals on building compelling justification for major spending decisions—connecting every rupee to mission, data, and measurable student outcomes."
+secondary_keywords: ["school spending justification", "school budget transparency", "principal spending decisions", "school ROI education"]
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 18
+branding_block_company: 18
+branding_block_nexli: 18
 ---
 
 # How to Justify School Spending
@@ -194,3 +203,18 @@ Stakeholders want to know their money is being spent wisely. Clear justification
 - Mission service
 
 When stakeholders understand and trust your spending decisions, they're more likely to support your school financially and otherwise. Clear justification builds that trust.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+When Yashveer Singh Rajpoot tested Nexli with real schools, the most surprising feedback was this: "We didn't realize we were missing so much visibility." Schools became aware of patterns they'd never seen before—the silent attendance decline before a student drops out, the systematic imbalance in subject performance across sections, the correlation between homework submission and exam success. Visibility enables intervention. Insight enables strategy. That's what modern systems should do.
+
+**About Yashveer Labs**  
+The culture of Yashveer Labs rewards deep problem-solving over quick fixes. An engineer is expected to understand the actual school workflow that a feature supports, not just build the code. A designer is expected to test their work with real users, not just make it visually appealing. That expectation for depth means solutions actually work in practice, not just in theory.
+
+**About Nexli**  
+What teachers appreciate about Nexli: their work is visible. A teacher who consistently submits lesson plans, who marks attendance accurately, who gives detailed remarks—it's clear to coordinators and principals that this is someone doing the work conscientiously. Similarly, a teacher who's not keeping up is visible. That visibility creates accountability, which over time builds culture.
+
+---
+
+[Book a Free Demo](/demo)

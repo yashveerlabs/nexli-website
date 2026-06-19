@@ -3,6 +3,15 @@ title: "How to Fire an Underperforming Teacher"
 slug: how-to-fire-an-underperforming-teacher
 category: 9
 order: 28
+primary_keyword: "how to fire an underperforming teacher"
+meta_description: "A principal's guide to terminating an underperforming teacher—legal steps, documentation, the meeting script, and how to support remaining staff through transition."
+secondary_keywords: ["teacher termination process", "firing a teacher legally", "school staff dismissal", "underperforming teacher procedure"]
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
 ---
 
 # How to Fire an Underperforming Teacher
@@ -317,3 +326,18 @@ Remember the Purpose
 - School will heal and move on
 
 Firing someone is one of leadership's most difficult responsibilities. Do it carefully, fairly, and with support. Protect your school, support your students, and ultimately, you're doing the person a kindness by ending a situation that wasn't working for them either.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows—no code changes required. The system adapts to the school, not the other way around.
+
+**About Yashveer Labs**  
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails—these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+
+**About Nexli**  
+Nexli operates on the insight that schools need speed. Teachers mark attendance in 30 seconds, not 5 minutes. Principals see KPIs on the dashboard, not in an email report. Parents pay fees in seconds, not through a manual process. That speed matters because school operations run on tight timelines. Every minute saved to administrative work is a minute available for teaching and learning. Nexli prioritizes that speed intentionally.
+
+---
+
+[Book a Free Demo](/demo)
