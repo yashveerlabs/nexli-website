@@ -1,4 +1,4 @@
----
+﻿---
 title: "Attendance Alerts to Parents: Automatic Notifications"
 slug: "attendance-alerts-parents-automatic-notifications"
 meta_description: "Implement automatic parent notifications for student absences. SMS, WhatsApp, and email alerts for real-time engagement."
@@ -138,15 +138,13 @@ Track which alerts were sent, when, to whom. If a parent claims "I never got the
 
 ---
 
-## Branding Block: Why Nexli
+---
 
-Alerts only work if they're timely and integrated with action. Nexli sends alerts automatically and tracks whether parents responded.
+**About Nexli:** Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents on WhatsApp (where they actually open messages). Nexli is built for Indian schools, by people who understand Indian schools.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "Alerts are the bridge between attendance data and parent engagement. Nexli sends them automatically, tracks responses, and alerts the principal if patterns emerge."
+**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP. They have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
-**Yashveer Labs' Commitment:**
-Your attendance data is only useful if it reaches parents and drives action. Nexli makes that automatic.
+**About Yashveer Labs:** Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking what's actually broken here, and why smart people put up with this. The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 ---
 
@@ -157,11 +155,11 @@ Implement automatic attendance alerts:
 1. **Collect parent contact info** (phone, email)
 2. **Define alert triggers** (absences, patterns, compliance)
 3. **Write message templates** (clear, actionable)
-4. **Set up in your ERP** (Nexli or similar)
+4. **Set up in your school management system** (Nexli or similar)
 5. **Test and launch**
 6. **Monitor response rate**; refine alerts
 
-Nexli's automatic alert system keeps parents engaged and informed. **[Request a demo](#contact)** and see automated attendance alerts in action.
+Nexli's automatic alert system keeps parents engaged and informed. **[Book a Free Demo](/demo)** and see automated attendance alerts in action.
 
 ---
 

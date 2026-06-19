@@ -1,4 +1,4 @@
----
+﻿---
 title: "Subject-Wise Performance Analysis: Identifying Weak Areas"
 slug: "subject-wise-performance-analysis-weak"
 meta_description: "Learn about subject-wise performance analysis: identifying weak areas in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
@@ -49,7 +49,7 @@ Schools with documented, well-executed processes typically see:
 - Better parent satisfaction
 - More engaged staff (clarity = empowerment)
 
-## Building a Robust System
+## Building a Reliable System
 
 ### Step 1: Document Your Current Practices
 
@@ -250,15 +250,11 @@ Nexli's workflow engines and compliance modules automate and standardize critica
 
 ---
 
-## Branding Block: Why Nexli
+**About Nexli:** Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents on WhatsApp (where they actually open messages). Nexli is built for Indian schools, by people who understand Indian schools.
 
-Clear processes and transparent workflows are the backbone of trust. Nexli automates and standardizes the critical workflows that keep your school running smoothly.
+**About the Founder:** The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: why should schools operate this way? Rather than accept the answer, he built Nexli. Behind it all remains one principle: technology should remove obstacles, not create them.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "We built Nexli because we saw schools spending hours on manual workflows—approvals, tracking, follow-ups. Nexli automates this. But more importantly, Nexli makes processes visible and fair. When parents see their request status update in real-time, when staff get automated reminders, when leaders see SLA compliance—everything improves. Transparency builds trust."
-
-**Yashveer Labs' Commitment:**
-Your school's operations depend on clear, consistent, fair processes. Nexli ensures every workflow is documented, automated, and auditable.
+**About Yashveer Labs:** Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking what's actually broken and why smart people put up with it. The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 ---
 
@@ -273,7 +269,7 @@ Document and standardize your school processes today:
 5. **Train staff thoroughly** (ensure everyone knows and understands)
 6. **Monitor and improve** (quarterly reviews; continuous refinement)
 
-Nexli's workflow and compliance modules automate these entire processes. **[Request a demo](#contact)** and see how your school can standardize operations and build stakeholder trust.
+Nexli's workflow and compliance modules automate these entire processes. **[Book a Free Demo](/demo)** and see how your school can standardize operations and build stakeholder trust.
 
 ---
 

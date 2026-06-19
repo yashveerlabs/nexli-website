@@ -1,4 +1,4 @@
----
+﻿---
 title: "How to Reduce Chronic Absenteeism in Your School"
 slug: "reduce-chronic-absenteeism-strategy"
 meta_description: "Reduce chronic absenteeism through targeted strategies. Identify root causes and implement interventions to improve student attendance."
@@ -158,15 +158,13 @@ All intervention details (root cause, plan, progress) shared with parent through
 
 ---
 
-## Branding Block: Why Nexli
+---
 
-Chronic absenteeism is a crisis that can be addressed—with the right data and interventions. Nexli flags these students early and tracks interventions.
+**About Nexli:** Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents on WhatsApp (where they actually open messages). Nexli is built for Indian schools, by people who understand Indian schools.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "Chronic absenteeism usually signals a real problem (health, economics, bullying). Nexli surfaces these students early so schools can problem-solve, not just punish."
+**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP. They have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
-**Yashveer Labs' Commitment:**
-Every student deserves a chance to succeed. Nexli helps your school identify barriers and remove them.
+**About Yashveer Labs:** Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking what's actually broken here, and why smart people put up with this. The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 ---
 
@@ -180,7 +178,7 @@ Combat chronic absenteeism:
 4. **Design interventions** tailored to causes
 5. **Monitor progress** weekly; escalate if needed
 
-Nexli's absenteeism dashboard and intervention tracking make this systemic. **[Request a demo](#contact)** and see how your school can turn chronic absenteeism around.
+Nexli's absenteeism dashboard and intervention tracking make this systemic. **[Book a Free Demo](/demo)** and see how your school can turn chronic absenteeism around.
 
 ---
 
