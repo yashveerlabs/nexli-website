@@ -20,7 +20,7 @@ This is the exact backend configuration NEXLI needs. The spec (§14) makes Fireb
 - **Notifications (your requirement): in-app only.** Real-time in-app notification center + Announcements + Notice Board + Parent Communication. **No WhatsApp/SMS/paid providers.** A professional info card marks where future channels will appear. (FCM web push = later, free but needs server send.)
 - **Images:** ImageKit for profile photos **and payment QR codes**, stored as URLs. **Still needed (non-blocking):** ImageKit **URL endpoint + public key**, plus a **free** upload-signing endpoint (Cloudflare Workers / Vercel free tier — avoids Blaze). Until configured: reference-accurate **initials-on-gradient avatars** + the full upload UI built behind a config flag, activating instantly once keys are set.
 - **Maps/GPS (free stack):** **Leaflet + OpenStreetMap** tiles (no API key) for display; bus live location via the driver/conductor **PWA geolocation** → Firestore real-time → parent sees marker live. Free. *Limitations:* OSM tile fair-use policy, no free turn-by-turn routing/precise ETA (use straight-line estimate now, OpenRouteService free tier later), GPS accuracy/battery depend on device. Seam preserved for Google Maps Platform / dedicated GPS hardware later.
-- **Continuity/recovery system:** auto-maintained `Web/context/` + `Web/resume/` checkpoints (see `NEXLI_BUILD_PLAN.md` §22).
+- **Continuity/recovery system:** auto-maintained context/resume checkpoints (build-phase history now archived under `docs/archive/continuity/`; see `NEXLI_BUILD_PLAN.md` §22 in `docs/archive/planning/`).
 
 **Still needed from you (non-blocking — provide when ready):** ImageKit URL endpoint + public key; later: reCAPTCHA site key (App Check), and Blaze + provider creds when we scale.
 
