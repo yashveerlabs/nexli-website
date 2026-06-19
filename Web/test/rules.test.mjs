@@ -71,6 +71,10 @@ await testEnv.withSecurityRulesDisabled(async (ctx) => {
     await member(S1, r, r);
     await index(r, { roleId: r, schoolId: S1, status: 'active' });
   }
+  // a SECOND counsellor (per-counsellor confidentiality scoping tests)
+  await member(S1, 'counselor2', 'counselor');
+  await index('counselor2', { roleId: 'counselor', schoolId: S1, status: 'active' });
+
   // family
   await member(S1, 'parentP1', 'parent', { childStudentIds: ['stu1'] });
   await index('parentP1', { roleId: 'parent', schoolId: S1, status: 'active' });
@@ -154,6 +158,29 @@ await testEnv.withSecurityRulesDisabled(async (ctx) => {
   await set('pocso_counters', 'main', { value: 1 });
   await set('erasure_requests', 'er1', { studentId: 'stu1', status: 'pending' });
   await set('breach_notifications', 'bn1', { summary: 'Test breach' });
+
+  // --- This-session fixtures (board results / leave / PTM / counseling stamp / paid invoice / substitutions) ---
+  // board result for stu1 (parentP1's child); exam staff manage, family reads own.
+  await set('board_results', 'br1', { studentId: 'stu1', board: 'CBSE', percentage: 88 });
+  // a student leave request for stu1 filed by parentP1.
+  await set('student_leave_requests', 'slr1', {
+    studentId: 'stu1', requestedByUid: 'parentP1', status: 'pending', reason: 'Fever',
+  });
+  // PTM meeting + its booking bookkeeping subdocs + a booking owned by parentP1.
+  await set('ptm_meetings', 'ptm1', {
+    title: 'Term 1 PTM', date: 1, slots: [{ id: 'slotA', time: '10:00', capacity: 2 }], createdByUid: 'class_teacher',
+  });
+  await setDoc(doc(db, 'schools', S1, 'ptm_meetings', 'ptm1', 'slot_counters', 'slotA'), { count: 1, slotId: 'slotA', schoolId: S1 });
+  await setDoc(doc(db, 'schools', S1, 'ptm_meetings', 'ptm1', 'booked_students', 'stu1'), { status: 'booked', slotId: 'slotA', schoolId: S1 });
+  await set('ptm_bookings', 'pb1', {
+    meetingId: 'ptm1', slotId: 'slotA', studentId: 'stu1', parentUid: 'parentP1', status: 'booked',
+  });
+  // a counseling note STAMPED with counselorUid:'counselor' (legacy co1 above has none).
+  await set('counseling', 'co_stamped', { studentId: 'stu1', counselorUid: 'counselor', summary: 'private' });
+  // a PAID invoice (paidAmount > 0) — used by the cancel/overpay invariant tests.
+  await set('fee_invoices', 'inv_paid', { studentId: 'stu1', netAmount: 1000, paidAmount: 1000, status: 'paid' });
+  // a timetable substitution (member read; academic-staff write).
+  await set('substitutions', 'sub1', { date: 1, periodNo: 2, sectionId: 'sec1', substituteTeacherUid: 'subject_teacher' });
 });
 
 // contexts
@@ -544,6 +571,134 @@ await no('anon read circular', readDoc(unauth, 'circulars', 'c1'));
   await no('bus_driver CANNOT read erasure_requests', readDoc(as('bus_driver'), 'erasure_requests', 'er1'));
   await ok('it_admin reads breach_notifications', readDoc(as('it_admin'), 'breach_notifications', 'bn1'));
   await no('class_teacher CANNOT read breach_notifications', readDoc(as('class_teacher'), 'breach_notifications', 'bn1'));
+}
+
+// ============================================================
+// THIS SESSION — new collections + tightenings
+// ============================================================
+
+// --- board_results: exam staff manage; family reads own; others denied ---
+{
+  await ok('subject_teacher reads board_result (exam staff)', readDoc(as('subject_teacher'), 'board_results', 'br1'));
+  await ok('hod writes board_result (exam staff)', writeDoc(as('hod'), ['board_results', 'br2'], { studentId: 'stu2', board: 'CBSE', percentage: 70 }));
+  await ok('parentP1 reads OWN child board_result (scoped)', listWhere(as('parentP1'), 'board_results', 'studentId', 'stu1'));
+  await ok('parentP1 reads OWN child board_result br1 (direct)', readDoc(as('parentP1'), 'board_results', 'br1'));
+  await no('parentP2 reads OTHER child board_result (stu1)', readDoc(as('parentP2'), 'board_results', 'br1'));
+  await no('parentP1 CANNOT write board_result', writeDoc(as('parentP1'), ['board_results', 'brX'], { studentId: 'stu1', percentage: 100 }));
+  await no('sports_teacher CANNOT read board_result (not exam staff)', readDoc(as('sports_teacher'), 'board_results', 'br1'));
+  await no('bus_driver CANNOT read board_result', readDoc(as('bus_driver'), 'board_results', 'br1'));
+}
+
+// --- student_leave_requests: parent files own child; staff decide ---
+{
+  // parent CAN create a pending request for their OWN child.
+  await ok('parentP1 creates leave for own child (pending)',
+    writeDoc(as('parentP1'), ['student_leave_requests', 'slr_p1'], { studentId: 'stu1', requestedByUid: 'parentP1', status: 'pending', reason: 'Trip' }));
+  // a non-pending create by a parent is rejected (parents can only file pending).
+  await no('parentP1 CANNOT create pre-approved leave for own child',
+    writeDoc(as('parentP1'), ['student_leave_requests', 'slr_cheat'], { studentId: 'stu1', requestedByUid: 'parentP1', status: 'approved', reason: 'x' }));
+  // a DIFFERENT parent cannot file for someone else's child.
+  await no('parentP2 CANNOT create leave for another child (stu1)',
+    writeDoc(as('parentP2'), ['student_leave_requests', 'slr_p2'], { studentId: 'stu1', requestedByUid: 'parentP2', status: 'pending', reason: 'x' }));
+  // parent reads own child's requests (scoped); cannot list all.
+  await ok('parentP1 reads own child leave (scoped)', listWhere(as('parentP1'), 'student_leave_requests', 'studentId', 'stu1'));
+  await no('parentP2 reads OTHER child leave (stu1)', readDoc(as('parentP2'), 'student_leave_requests', 'slr1'));
+  // parent CANNOT approve/decide (update) or delete — staff-only.
+  await no('parentP1 CANNOT approve own child leave',
+    writeDoc(as('parentP1'), ['student_leave_requests', 'slr1'], { studentId: 'stu1', requestedByUid: 'parentP1', status: 'approved', reason: 'Fever' }));
+  // staff read all + decide.
+  await ok('class_teacher reads any leave request', readDoc(as('class_teacher'), 'student_leave_requests', 'slr1'));
+  await ok('class_teacher approves a leave request',
+    writeDoc(as('class_teacher'), ['student_leave_requests', 'slr1'], { studentId: 'stu1', requestedByUid: 'parentP1', status: 'approved', reason: 'Fever' }));
+}
+
+// --- ptm_meetings (+ booking subdocs): meetings member-visible; staff create; parent books ---
+{
+  await ok('parentP1 reads ptm meeting (active member)', readDoc(as('parentP1'), 'ptm_meetings', 'ptm1'));
+  await ok('class_teacher creates ptm meeting (staff)',
+    writeDoc(as('class_teacher'), ['ptm_meetings', 'ptm_new'], { title: 'PTM 2', date: 2, slots: [], createdByUid: 'class_teacher' }));
+  await no('parentP1 CANNOT create a ptm meeting (staff-only)',
+    writeDoc(as('parentP1'), ['ptm_meetings', 'ptm_cheat'], { title: 'fake', date: 2, slots: [], createdByUid: 'parentP1' }));
+  // booking bookkeeping subdocs: any active member (parent) may write the counter + guard.
+  await ok('parentP1 reads slot_counter (live availability)',
+    getDoc(doc(as('parentP1'), 'schools', S1, 'ptm_meetings', 'ptm1', 'slot_counters', 'slotA')));
+  await ok('parentP1 writes slot_counter (booking txn)',
+    setDoc(doc(as('parentP1'), 'schools', S1, 'ptm_meetings', 'ptm1', 'slot_counters', 'slotA'), { count: 2, slotId: 'slotA', schoolId: S1 }));
+  await ok('parentP1 writes booked_students guard (booking txn)',
+    setDoc(doc(as('parentP1'), 'schools', S1, 'ptm_meetings', 'ptm1', 'booked_students', 'stu1'), { status: 'booked', slotId: 'slotA', schoolId: S1 }));
+  // an outsider (other tenant) cannot touch the booking subdocs.
+  await no('outsider CANNOT write slot_counter',
+    setDoc(doc(as('outsider'), 'schools', S1, 'ptm_meetings', 'ptm1', 'slot_counters', 'slotA'), { count: 9, slotId: 'slotA', schoolId: S1 }));
+}
+
+// --- ptm_bookings: parent owns own; different parent denied; staff roster ---
+{
+  // parent CAN create a booking for their OWN child stamped with their own uid.
+  await ok('parentP1 creates own booking',
+    writeDoc(as('parentP1'), ['ptm_bookings', 'pb_p1'], { meetingId: 'ptm1', slotId: 'slotA', studentId: 'stu1', parentUid: 'parentP1', status: 'booked' }));
+  // cannot spoof parentUid (book under someone else's uid).
+  await no('parentP1 CANNOT create booking spoofing parentUid',
+    writeDoc(as('parentP1'), ['ptm_bookings', 'pb_spoof'], { meetingId: 'ptm1', slotId: 'slotA', studentId: 'stu1', parentUid: 'parentP2', status: 'booked' }));
+  // a DIFFERENT parent cannot book for a child that isn't theirs.
+  await no('parentP2 CANNOT book for another child (stu1)',
+    writeDoc(as('parentP2'), ['ptm_bookings', 'pb_p2'], { meetingId: 'ptm1', slotId: 'slotA', studentId: 'stu1', parentUid: 'parentP2', status: 'booked' }));
+  // parent reads OWN booking; a different parent cannot read it.
+  await ok('parentP1 reads own booking', readDoc(as('parentP1'), 'ptm_bookings', 'pb1'));
+  await no('parentP2 CANNOT read another parent booking', readDoc(as('parentP2'), 'ptm_bookings', 'pb1'));
+  // parent cancels (updates) own booking; cannot delete.
+  await ok('parentP1 cancels own booking (update)',
+    writeDoc(as('parentP1'), ['ptm_bookings', 'pb1'], { meetingId: 'ptm1', slotId: 'slotA', studentId: 'stu1', parentUid: 'parentP1', status: 'cancelled' }));
+  // staff read the roster.
+  await ok('class_teacher reads booking roster', readDoc(as('class_teacher'), 'ptm_bookings', 'pb1'));
+}
+
+// --- counseling per-counsellor confidentiality scoping ---
+{
+  // legacy co1 (no counselorUid) stays readable by ANY counsellor (must not break).
+  await ok('counselor reads counseling co1', readDoc(as('counselor'), 'counseling', 'co1'));
+  await ok('counselor2 reads LEGACY counseling co1 (no counselorUid)', readDoc(as('counselor2'), 'counseling', 'co1'));
+  // a STAMPED doc is visible to its owning counsellor + oversight, but NOT to a peer.
+  await ok('owning counselor reads own stamped doc', readDoc(as('counselor'), 'counseling', 'co_stamped'));
+  await no('counselor2 CANNOT read peer-owned stamped doc', readDoc(as('counselor2'), 'counseling', 'co_stamped'));
+  await ok('principal (oversight) reads any stamped counseling doc', readDoc(as('principal'), 'counseling', 'co_stamped'));
+  await ok('vp_admin (oversight) reads any stamped counseling doc', readDoc(as('vp_admin'), 'counseling', 'co_stamped'));
+  // a counsellor may create a doc stamped with their OWN uid, but not one stamped to a peer.
+  await ok('counselor2 creates own stamped counseling doc',
+    writeDoc(as('counselor2'), ['counseling', 'co_c2'], { studentId: 'stu1', counselorUid: 'counselor2', summary: 'x' }));
+  await no('counselor2 CANNOT create doc stamped to another counsellor',
+    writeDoc(as('counselor2'), ['counseling', 'co_forge'], { studentId: 'stu1', counselorUid: 'counselor', summary: 'x' }));
+  // a non-counsellor (nurse) still cannot read counseling at all.
+  await no('nurse CANNOT read counseling', readDoc(as('nurse'), 'counseling', 'co1'));
+}
+
+// --- fee_invoices write-invariants (defense-in-depth) ---
+{
+  // cancelling a PAID invoice (paidAmount > 0) is denied.
+  await no('cancel a PAID invoice is denied',
+    writeDoc(as('accounts_clerk'), ['fee_invoices', 'inv_paid'], { studentId: 'stu1', netAmount: 1000, paidAmount: 1000, status: 'cancelled' }));
+  // cancelling an UNPAID invoice is fine (inv1 has no paidAmount → 0).
+  await ok('cancel an UNPAID invoice is allowed',
+    writeDoc(as('accounts_clerk'), ['fee_invoices', 'inv1'], { studentId: 'stu1', netAmount: 1000, status: 'cancelled' }));
+  // overpay (paidAmount > netAmount) is denied.
+  await no('overpay (paidAmount > netAmount) is denied',
+    writeDoc(as('accounts_clerk'), ['fee_invoices', 'inv2'], { studentId: 'stu2', netAmount: 1000, paidAmount: 1500 }));
+  // a normal payment posting (paidAmount <= netAmount, not cancelling) still works.
+  await ok('normal payment update (paidAmount <= netAmount) allowed',
+    writeDoc(as('accounts_clerk'), ['fee_invoices', 'inv_paid'], { studentId: 'stu1', netAmount: 1000, paidAmount: 800, status: 'partial' }));
+  // create is unconstrained beyond the role gate (re-assert it didn't regress).
+  await ok('accounts_clerk creates invoice (role gate only)',
+    writeDoc(as('accounts_clerk'), ['fee_invoices', 'inv_new'], { studentId: 'stu1', netAmount: 500 }));
+}
+
+// --- substitutions: member read; academic staff write (tightened from wildcard) ---
+{
+  await ok('class_teacher reads substitution (member)', readDoc(as('class_teacher'), 'substitutions', 'sub1'));
+  await ok('studentS1 reads substitution (member)', readDoc(as('studentS1'), 'substitutions', 'sub1'));
+  await ok('academic_coordinator… class_teacher writes substitution (academic staff)',
+    writeDoc(as('class_teacher'), ['substitutions', 'sub2'], { date: 1, periodNo: 3, sectionId: 'sec1', substituteTeacherUid: 'subject_teacher' }));
+  // a non-academic staff (bus_driver) can no longer write cover.
+  await no('bus_driver CANNOT write substitution (not academic staff)',
+    writeDoc(as('bus_driver'), ['substitutions', 'subX'], { date: 1, periodNo: 4, sectionId: 'sec1', substituteTeacherUid: 'x' }));
 }
 
 // ----------------------------- report -----------------------------
