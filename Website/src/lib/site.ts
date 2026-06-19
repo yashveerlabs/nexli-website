@@ -1,40 +1,132 @@
 // Central site configuration for the Nexli marketing website.
 // Copy and contact values that change often live here so pages stay declarative.
+import { MODULE_PAGES } from "./modules";
+import { SOLUTION_PAGES } from "./solutions";
 
 export const SITE = {
   name: "Nexli",
   tagline: "Bringing clarity to complexity",
   description:
     "Nexli is the School Operating System for modern education — manage admissions, academics, attendance, fees, compliance, communication, safety, HR, transport, hostel, and operations from a single platform.",
-  // TODO: set to the real production domain.
-  url: "https://www.nexli.app",
+  // TODO(owner): replace with the real production domain once registered.
+  // Intentionally a placeholder — never a real or Nexli-branded domain.
+  url: "https://domain.com",
   locale: "en_IN",
+  company: "Yashveer Labs",
+  founder: "Yashveer Singh Rajpoot",
 };
 
 // --- WhatsApp click-to-chat (primary "Contact Now" CTA) -----------------------
-// TODO: replace with the real WhatsApp Business number — country code first, digits only,
-// no "+", spaces, or dashes (e.g. "919812345678").
+// TODO(owner): replace with the real WhatsApp Business number — country code first,
+// digits only, no "+", spaces, or dashes (e.g. "919812345678").
 export const WHATSAPP_NUMBER = "91XXXXXXXXXX";
 export const WHATSAPP_MESSAGE =
   "Hi Nexli team, I'd like to learn more about Nexli — the School Operating System — for my school.";
+export const WHATSAPP_DEMO_MESSAGE =
+  "Hi Nexli team, I'd like to book a live demo of Nexli for my school.";
 
 export function whatsappHref(message: string = WHATSAPP_MESSAGE): string {
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
 }
 
-// --- "Free Live Demo" CTA -----------------------------------------------------
-// Placeholder for now; the interactive live demo is a later phase.
+// --- Social -------------------------------------------------------------------
+export const INSTAGRAM_URL = "https://instagram.com/yashveerlabs";
+
+// --- Interactive demo ---------------------------------------------------------
 export const DEMO_HREF = "/demo";
 
-// --- Primary navigation -------------------------------------------------------
-export const NAV: { label: string; href: string }[] = [
-  { label: "Platform", href: "/platform" },
-  { label: "Knowledge Base", href: "/knowledge-base" },
-  { label: "Pricing", href: "/pricing" },
-  { label: "About", href: "/about" },
+// --- Navigation ---------------------------------------------------------------
+export interface NavLink {
+  label: string;
+  href: string;
+  desc?: string;
+  icon?: string;
+}
+export interface NavItem {
+  label: string;
+  href: string;
+  items?: NavLink[];
+  /** render the dropdown as a wide 2-column panel (used by Platform) */
+  wide?: boolean;
+}
+
+const platformItems: NavLink[] = [
+  { label: "Platform overview", href: "/platform", desc: "The whole ERP at a glance", icon: "operations" },
+  ...MODULE_PAGES.map((m) => ({ label: m.nav, href: `/platform/${m.slug}`, desc: m.summary, icon: m.icon })),
+  { label: "Security", href: "/security", desc: "How your data is protected", icon: "shield" },
+  { label: "Compliance", href: "/compliance", desc: "CBSE, DPDP, POCSO, RTE, UDISE+", icon: "compliance" },
 ];
 
-// --- Module pillars (homepage) ------------------------------------------------
+const solutionItems: NavLink[] = SOLUTION_PAGES.map((s) => ({
+  label: s.nav,
+  href: `/solutions/${s.slug}`,
+  desc: s.summary,
+  icon: s.icon,
+}));
+
+export const NAV: NavItem[] = [
+  { label: "Platform", href: "/platform", items: platformItems, wide: true },
+  { label: "Solutions", href: "/solutions", items: solutionItems },
+  { label: "Pricing", href: "/pricing" },
+  { label: "Demo", href: "/demo" },
+  { label: "Knowledge Base", href: "/knowledge-base" },
+  {
+    label: "Company",
+    href: "/about",
+    items: [
+      { label: "About Nexli", href: "/about", desc: "The story and the philosophy", icon: "sparkle" },
+      { label: "Founder", href: "/founder", desc: "Yashveer Singh Rajpoot", icon: "hr" },
+      { label: "Careers", href: "/careers", desc: "Help build Nexli", icon: "admissions" },
+      { label: "Contact", href: "/contact", desc: "Talk to us", icon: "communication" },
+    ],
+  },
+];
+
+// --- Footer -------------------------------------------------------------------
+export interface FooterGroup {
+  heading: string;
+  links: NavLink[];
+}
+export const FOOTER_GROUPS: FooterGroup[] = [
+  {
+    heading: "Product",
+    links: [
+      { label: "Platform", href: "/platform" },
+      { label: "Modules", href: "/platform#modules" },
+      { label: "Pricing", href: "/pricing" },
+      { label: "Live Demo", href: "/demo" },
+    ],
+  },
+  {
+    heading: "Resources",
+    links: [
+      { label: "Knowledge Base", href: "/knowledge-base" },
+      { label: "FAQ", href: "/faq" },
+      { label: "Security", href: "/security" },
+      { label: "Compliance", href: "/compliance" },
+    ],
+  },
+  {
+    heading: "Company",
+    links: [
+      { label: "About", href: "/about" },
+      { label: "Founder", href: "/founder" },
+      { label: "Careers", href: "/careers" },
+      { label: "Contact", href: "/contact" },
+    ],
+  },
+  {
+    heading: "Legal",
+    links: [
+      { label: "Privacy Policy", href: "/legal/privacy" },
+      { label: "Terms & Conditions", href: "/legal/terms" },
+      { label: "Data Processing", href: "/legal/data-processing" },
+      { label: "Refund Policy", href: "/legal/refund" },
+    ],
+  },
+];
+
+// --- Module pillars (homepage grid) -------------------------------------------
 export const MODULES: { icon: string; title: string; desc: string }[] = [
   { icon: "admissions", title: "Admissions", desc: "Enquiry to enrolment — online forms, merit lists, and document checks." },
   { icon: "academics", title: "Academics", desc: "Timetables, lesson plans, exams, gradebooks, and report cards." },
@@ -53,32 +145,33 @@ export const MODULES: { icon: string; title: string; desc: string }[] = [
 // --- Compliance highlights ----------------------------------------------------
 export const COMPLIANCE: { icon: string; title: string; desc: string }[] = [
   { icon: "shield", title: "DPDP Act 2023", desc: "Consent-first data handling, data-residency in India, and erasure registers." },
-  { icon: "safety", title: "POCSO", desc: "Child-safety incident workflows with a 24-hour reporting SLA and audit trail." },
-  { icon: "academics", title: "RTE", desc: "25% EWS quota management with a transparent, CSPRNG-backed lottery." },
-  { icon: "compliance", title: "CBSE & UDISE+", desc: "TC Appendix-V generation and UDISE+ infrastructure reporting fields." },
+  { icon: "safety", title: "POCSO", desc: "Child-safety incident workflows with restricted access and an audit trail." },
+  { icon: "academics", title: "RTE", desc: "25% EWS quota management with a separate, transparent pipeline." },
+  { icon: "compliance", title: "CBSE & UDISE+", desc: "CBSE LOC export and UDISE+ annual reporting fields." },
 ];
 
 // --- Knowledge-base categories (the 20-section structure) ---------------------
-// Display metadata; article pages are wired from Web/Blog/ in the content phase.
-export const KB_CATEGORIES: { slug: string; title: string; icon: string }[] = [
-  { slug: "01-school-admin", title: "School Administration", icon: "operations" },
-  { slug: "02-student-admissions", title: "Student Admissions", icon: "admissions" },
-  { slug: "03-academics", title: "Academics", icon: "academics" },
-  { slug: "04-attendance", title: "Attendance", icon: "attendance" },
-  { slug: "05-finance", title: "Finance & Fees", icon: "fees" },
-  { slug: "06-communication", title: "Communication", icon: "communication" },
-  { slug: "07-compliance", title: "Compliance", icon: "shield" },
-  { slug: "08-technology", title: "Technology", icon: "operations" },
-  { slug: "09-leadership", title: "Leadership", icon: "analytics" },
-  { slug: "10-safety", title: "Safety & Wellbeing", icon: "safety" },
-  { slug: "11-erp-comparison", title: "ERP Comparison", icon: "compliance" },
-  { slug: "12-erp-pricing", title: "ERP Pricing", icon: "fees" },
-  { slug: "13-school-types", title: "School Types", icon: "academics" },
-  { slug: "14-location", title: "Locations", icon: "globe" },
-  { slug: "15-marketing", title: "School Marketing", icon: "communication" },
-  { slug: "16-hr", title: "HR & Payroll", icon: "hr" },
-  { slug: "17-templates", title: "Templates", icon: "book" },
-  { slug: "18-research", title: "Research", icon: "analytics" },
-  { slug: "19-innovation", title: "Innovation", icon: "sparkle" },
-  { slug: "20-success", title: "Success Stories", icon: "check" },
+export const KB_CATEGORIES: { slug: string; title: string; icon: string; blurb: string }[] = [
+  { slug: "01-school-admin", title: "School Administration", icon: "operations", blurb: "Run the school office: workflows, records, and operations." },
+  { slug: "02-student-admissions", title: "Student Admissions", icon: "admissions", blurb: "Win and enrol students, from enquiry to first day." },
+  { slug: "03-academics", title: "Academics", icon: "academics", blurb: "Timetables, lesson plans, exams, and report cards." },
+  { slug: "04-attendance", title: "Attendance", icon: "attendance", blurb: "Track presence and act early on the warning signs." },
+  { slug: "05-finance", title: "Finance & Fees", icon: "fees", blurb: "Collect fees, manage concessions, and keep clean books." },
+  { slug: "06-communication", title: "Communication", icon: "communication", blurb: "Reach parents and staff without the noise." },
+  { slug: "07-compliance", title: "Compliance", icon: "shield", blurb: "DPDP, POCSO, RTE, UDISE+, and the calendar that ties them together." },
+  { slug: "08-technology", title: "Technology", icon: "operations", blurb: "ERP, cloud, security, and the school tech stack." },
+  { slug: "09-leadership", title: "Leadership", icon: "analytics", blurb: "Lead a school: strategy, people, and decisions." },
+  { slug: "10-safety", title: "Safety & Wellbeing", icon: "safety", blurb: "Transport, hostel, medical, and a safe campus." },
+  { slug: "11-erp-comparison", title: "ERP Comparison", icon: "compliance", blurb: "How to evaluate and compare school ERPs honestly." },
+  { slug: "12-erp-pricing", title: "ERP Pricing", icon: "fees", blurb: "Understand the real cost and ROI of school software." },
+  { slug: "13-school-types", title: "School Types", icon: "academics", blurb: "CBSE, ICSE, State Board, boarding, and international." },
+  { slug: "14-location", title: "Locations", icon: "globe", blurb: "Guidance for schools across India's cities and states." },
+  { slug: "15-marketing", title: "School Marketing", icon: "communication", blurb: "Grow admissions with honest, effective marketing." },
+  { slug: "16-hr", title: "HR & Payroll", icon: "hr", blurb: "Hire, manage, and pay staff with less friction." },
+  { slug: "17-templates", title: "Templates", icon: "book", blurb: "Ready-to-use policies, letters, and checklists." },
+  { slug: "18-research", title: "Research", icon: "analytics", blurb: "Evidence and data behind better school decisions." },
+  { slug: "19-innovation", title: "Innovation", icon: "sparkle", blurb: "Where school technology and practice are heading." },
+  { slug: "20-success", title: "Success Stories", icon: "check", blurb: "Playbooks and lessons for getting results." },
 ];
+
+export const KB_BY_SLUG = Object.fromEntries(KB_CATEGORIES.map((c) => [c.slug, c]));

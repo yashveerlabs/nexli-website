@@ -1,0 +1,27 @@
+---
+import Icon from "./Icon.astro";
+import { whatsappHref, DEMO_HREF, WHATSAPP_DEMO_MESSAGE } from "../lib/site";
+// The standard CTA pair: WhatsApp contact (primary) + live demo (secondary).
+interface Props {
+  contactLabel?: string;
+  demoLabel?: string;
+  message?: string;
+  class?: string;
+  align?: "start" | "center";
+}
+const {
+  contactLabel = "Contact on WhatsApp",
+  demoLabel = "Try the live demo",
+  message = WHATSAPP_DEMO_MESSAGE,
+  class: className = "",
+  align = "start",
+} = Astro.props;
+const wa = whatsappHref(message);
+---
+<div class={`flex flex-col gap-3 sm:flex-row sm:flex-wrap ${align === "center" ? "sm:justify-center" : ""} ${className}`}>
+  <a href={wa} target="_blank" rel="noopener" class="btn btn-gold">
+    <Icon name="whatsapp" size={18} />
+    {contactLabel}
+  </a>
+  <a href={DEMO_HREF} class="btn btn-ghost">{demoLabel}</a>
+</div>

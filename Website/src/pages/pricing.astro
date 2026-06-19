@@ -1,14 +1,140 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import ComingSoon from "../components/ComingSoon.astro";
+import PageHero from "../components/PageHero.astro";
+import Faq from "../components/Faq.astro";
+import CtaButtons from "../components/CtaButtons.astro";
+import CtaBand from "../components/CtaBand.astro";
+import Icon from "../components/Icon.astro";
+import { webPage } from "../lib/seo";
+import { WHATSAPP_MESSAGE } from "../lib/site";
+
+const title = "Pricing";
+const description =
+  "Nexli is priced by school size, with every feature included on every plan. AI and messaging are optional add-ons. Founding-school offer available. Contact us for a quote.";
+
+const principles = [
+  { icon: "fees", title: "Priced by school size", desc: "One simple variable: how many students you have. The larger your school, the lower the per-student rate — so you're never penalised for growing." },
+  { icon: "check", title: "Every feature, every plan", desc: "We don't lock features behind tiers. Admissions, academics, fees, HR, compliance, safety and communication are included for every school, large or small." },
+  { icon: "operations", title: "Billing that fits your year", desc: "Pay monthly, or commit for a term or the full academic year for a better rate. Annual billing matches the school financial year and keeps things simple." },
+];
+
+const included = [
+  "Admissions", "Academics & exams", "Attendance", "Report cards & HPC",
+  "Fees & finance", "HR & payroll", "Communication", "Transport",
+  "Hostel", "Library", "Medical & safety", "Compliance",
+];
+
+const addons = [
+  { icon: "sparkle", title: "Nexli Intelligence (AI)", desc: "Optional AI features, billed separately. Because AI compute has a real per-use cost, it's a clearly-marked add-on rather than something hidden in the base price." },
+  { icon: "communication", title: "WhatsApp & SMS", desc: "Messaging to parents is charged at cost as prepaid credits, because Meta and mobile operators bill per message. You only pay for what you send." },
+];
+
+const faqs = [
+  { q: "How much does Nexli cost?", a: "Pricing depends on your school's size, and every feature is included on every plan. We share a clear quote once we know your student count — message us on WhatsApp or book a demo and we'll walk you through it." },
+  { q: "Are features locked to higher plans?", a: "No. Differentiation is by school size, not by features. Every school gets the full platform — admissions, academics, fees, HR, compliance, safety and communication." },
+  { q: "What costs extra?", a: "Only two things: Nexli Intelligence (AI), and WhatsApp/SMS messaging. AI is an optional add-on; messaging is billed at cost as prepaid credits because the carriers charge per message." },
+  { q: "Do you offer anything for early schools?", a: "Yes — a Founding Partner offer for a small first cohort of schools, with a discounted rate, hands-on setup and data migration, a month-to-month exit and a money-back commitment. Ask us if you'd like to be considered." },
+  { q: "Is there a long-term lock-in?", a: "No. You can export your data at any time, and shorter billing terms are available. Longer commitments simply come at a better rate." },
+];
 ---
-<BaseLayout
-  title="Pricing"
-  description="Simple, transparent pricing for schools of every size. Get in touch for a quote tailored to your school."
->
-  <ComingSoon
-    kicker="Pricing"
-    title="Simple, transparent pricing"
-    body="Plans tailored to your school's size and needs — published here soon. Message us on WhatsApp for a quote today."
+<BaseLayout title={title} description={description} jsonLd={webPage({ title, description, path: "/pricing" })}>
+  <PageHero
+    eyebrow="Pricing"
+    title="Simple pricing, by school size"
+    lead="No feature tiers, no surprises. You pay based on how many students you have, and every plan includes the entire platform. Tell us your size and we'll give you a clear quote."
+    breadcrumbs={[{ label: "Pricing" }]}
+  >
+    <CtaButtons contactLabel="Contact for a quote" demoLabel="Book a demo" message={WHATSAPP_MESSAGE} />
+  </PageHero>
+
+  <!-- Principles -->
+  <section class="section">
+    <div class="container-nx">
+      <div class="grid gap-5 md:grid-cols-3">
+        {principles.map((p, i) => (
+          <div class={`card reveal reveal-${i + 1}`}>
+            <span class="inline-grid h-11 w-11 place-items-center rounded-xl border border-line text-gold" style="background:rgba(255,255,255,0.02)">
+              <Icon name={p.icon} size={20} />
+            </span>
+            <h3 class="mt-4 text-xl text-ivory">{p.title}</h3>
+            <p class="mt-2 text-sm leading-relaxed text-ivory-muted">{p.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- What's included -->
+  <section class="section pt-0">
+    <div class="container-nx">
+      <div class="rounded-[1.75rem] border border-line p-8 md:p-12">
+        <div class="max-w-2xl">
+          <p class="eyebrow">Included on every plan</p>
+          <h2 class="mt-3 text-3xl md:text-4xl">The whole platform, for every school</h2>
+          <p class="mt-4 text-ivory-muted">There is no "basic" Nexli missing the things that matter. Every school gets all twelve modules from day one.</p>
+        </div>
+        <div class="mt-8 grid gap-x-6 gap-y-3 sm:grid-cols-2 lg:grid-cols-3">
+          {included.map((f) => (
+            <div class="flex items-center gap-2.5 text-ivory-muted">
+              <Icon name="check" size={17} class="shrink-0 text-gold" />
+              <span class="text-sm">{f}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Add-ons -->
+  <section class="section pt-0">
+    <div class="container-nx">
+      <div class="max-w-2xl">
+        <p class="eyebrow">Optional add-ons</p>
+        <h2 class="mt-3 text-3xl md:text-4xl">The only things that cost extra</h2>
+        <p class="mt-4 text-ivory-muted">Two capabilities have a genuine per-use cost, so we price them honestly and separately — never buried in the base price.</p>
+      </div>
+      <div class="mt-8 grid gap-5 md:grid-cols-2">
+        {addons.map((a) => (
+          <div class="card">
+            <span class="inline-grid h-11 w-11 place-items-center rounded-xl border border-line text-gold" style="background:rgba(255,255,255,0.02)">
+              <Icon name={a.icon} size={20} />
+            </span>
+            <h3 class="mt-4 text-xl text-ivory">{a.title}</h3>
+            <p class="mt-2 text-sm leading-relaxed text-ivory-muted">{a.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Founding partner -->
+  <section class="section pt-0">
+    <div class="container-nx">
+      <a href="/founding-partner" class="group block overflow-hidden rounded-[1.75rem] border border-line">
+        <div class="relative p-8 md:p-12">
+          <div class="glow-radial"></div>
+          <div class="relative grid items-center gap-8 md:grid-cols-[1.5fr_1fr]">
+            <div>
+              <p class="kicker-chip"><Icon name="sparkle" size={14} /> Founding Partner Program</p>
+              <h2 class="mt-5 text-3xl md:text-4xl">Be one of the first schools on Nexli</h2>
+              <p class="mt-4 max-w-xl text-ivory-muted">A small founding cohort gets a discounted rate, hands-on setup and data migration, a month-to-month exit and a money-back commitment — in exchange for honest feedback and a reference. It's a real partnership, not a discount code.</p>
+            </div>
+            <div class="md:justify-self-end">
+              <span class="inline-flex items-center gap-2 text-gold transition-transform group-hover:translate-x-1">
+                Learn about the program <Icon name="arrow-right" size={18} />
+              </span>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <Faq items={faqs} title="Pricing questions" />
+
+  <CtaBand
+    eyebrow="Get a quote"
+    title="Tell us your size, get a clear price"
+    text="Share your student count on WhatsApp and we'll come back with a straightforward quote — and show you the platform in a live demo."
   />
 </BaseLayout>

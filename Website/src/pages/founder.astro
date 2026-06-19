@@ -1,0 +1,112 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import CtaBand from "../components/CtaBand.astro";
+import Icon from "../components/Icon.astro";
+import { SITE, INSTAGRAM_URL, whatsappHref } from "../lib/site";
+import { abs } from "../lib/seo";
+
+const title = "Founder — Yashveer Singh Rajpoot";
+const description =
+  "Yashveer Singh Rajpoot is the founder of Yashveer Labs and the creator of Nexli, the School Operating System built from the ground up for Indian schools.";
+const wa = whatsappHref();
+
+// Person JSON-LD for entity recognition (AEO/GEO).
+const personJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  name: "Yashveer Singh Rajpoot",
+  jobTitle: "Founder, Yashveer Labs",
+  worksFor: { "@type": "Organization", name: "Yashveer Labs" },
+  description:
+    "Founder of Yashveer Labs and creator of Nexli, the School Operating System for Indian schools.",
+  url: abs("/founder"),
+  sameAs: [INSTAGRAM_URL],
+};
+
+// TODO(owner): add a real founder photograph at /public/founder.jpg and swap the monogram below.
+const built = [
+  { icon: "shield", title: "He insisted Nexli be India-first", desc: "Not adapted from a global template — built from the ground up for DPDP, POCSO and RTE, for schools where paper still matters and connectivity isn't guaranteed." },
+  { icon: "analytics", title: "He designed around the principal's view", desc: "The question that shaped the system was \"what does a principal need to know in two minutes?\" Every other role's dashboard followed from that." },
+  { icon: "safety", title: "He made child safety the default", desc: "Student-to-student messaging off by default, medical data encrypted, counselling notes in a restricted locker, POCSO complaints escalating automatically — decisions made at the architecture level." },
+  { icon: "operations", title: "He built it to be configured, not coded", desc: "Even the role system is data-driven. A school can add roles, change permissions and adjust workflows without waiting for a developer." },
+];
+---
+<BaseLayout title={title} description={description} jsonLd={personJsonLd}>
+  <section class="relative overflow-hidden border-b border-line">
+    <div class="glow-radial"></div>
+    <div class="grid-texture"></div>
+    <div class="container-nx relative pb-16 pt-32 md:pt-40">
+      <Breadcrumbs items={[{ label: "Company", href: "/about" }, { label: "Founder" }]} class="mb-8" />
+      <div class="grid items-center gap-12 lg:grid-cols-[1fr_1.4fr]">
+        <!-- Portrait / monogram -->
+        <div class="order-1 lg:order-none">
+          <div class="relative mx-auto aspect-square w-full max-w-sm overflow-hidden rounded-[1.75rem] border border-line" style="background:linear-gradient(160deg,var(--color-obsidian-700),var(--color-obsidian-800))">
+            <div class="grid-texture"></div>
+            <div class="relative flex h-full flex-col items-center justify-center">
+              <span class="font-display text-7xl text-gradient-gold tracking-tight">YSR</span>
+              <span class="mt-3 text-xs uppercase tracking-[0.3em] text-ivory-faint">Yashveer Labs</span>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <p class="eyebrow">Founder</p>
+          <h1 class="mt-4 text-4xl leading-tight md:text-6xl">Yashveer Singh Rajpoot</h1>
+          <p class="mt-3 text-lg text-gold-200">Founder, Yashveer Labs · Creator of Nexli</p>
+          <p class="mt-6 max-w-xl text-lg text-ivory-muted">
+            Yashveer Singh Rajpoot founded Yashveer Labs to solve a problem he kept seeing: Indian schools
+            asked to operate like world-class institutions while still running on registers, WhatsApp groups
+            and manual processes. Nexli is his answer to that gap.
+          </p>
+          <div class="mt-8 flex flex-col gap-3 sm:flex-row">
+            <a href={wa} target="_blank" rel="noopener" class="btn btn-gold">
+              <Icon name="whatsapp" size={18} /> Get in touch
+            </a>
+            <a href={INSTAGRAM_URL} target="_blank" rel="noopener" class="btn btn-ghost">Follow @yashveerlabs</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Narrative -->
+  <section class="section">
+    <div class="container-nx">
+      <div class="mx-auto max-w-3xl">
+        <div class="prose-nx">
+          <p>The idea behind Nexli wasn't to build a company. It was to solve a problem. After spending time inside the complexity of how schools run — with class teachers, accountants, principals and parents — Yashveer Singh Rajpoot noticed the same pattern everywhere: people knew what they needed to do, but their tools fragmented everything, and they spent more time coordinating tools than doing the work.</p>
+          <p>Most school software is built by engineers who have never lived inside a school, so details get missed and workflows feel imposed from outside. Yashveer Singh Rajpoot built Nexli differently — by treating a timetable as a communication tool, attendance as an early-warning system, and finance as a window into a school's health. The work shows in the specifics, not the slogans.</p>
+          <p>Yashveer Labs, the studio behind Nexli, is built on one principle that runs through everything its founder ships: technology should remove obstacles, not create them. Nexli is its first product — and it was built deeply, for the real constraints Indian schools face, rather than broadly for a market that doesn't exist.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What he built -->
+  <section class="section pt-0">
+    <div class="container-nx">
+      <div class="max-w-2xl">
+        <p class="eyebrow">What he built, and why</p>
+        <h2 class="reveal mt-3 text-3xl md:text-4xl">Decisions you can see in the product</h2>
+      </div>
+      <div class="mt-10 grid gap-5 sm:grid-cols-2">
+        {built.map((b, i) => (
+          <div class={`card reveal reveal-${(i % 4) + 1}`}>
+            <span class="inline-grid h-11 w-11 place-items-center rounded-xl border border-line text-gold" style="background:rgba(255,255,255,0.02)">
+              <Icon name={b.icon} size={20} />
+            </span>
+            <h3 class="mt-4 text-lg text-ivory">{b.title}</h3>
+            <p class="mt-2 text-sm leading-relaxed text-ivory-muted">{b.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <CtaBand
+    eyebrow="From the founder"
+    title="Want to talk directly?"
+    text="If you're a school leader who cares about doing things right, Yashveer would like to hear from you. The fastest way to reach Yashveer Labs is WhatsApp."
+  />
+</BaseLayout>

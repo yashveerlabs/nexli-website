@@ -155,6 +155,72 @@ a { color: inherit; text-decoration: none; }
 .reveal-3 { transition-delay: 0.18s; }
 .reveal-4 { transition-delay: 0.24s; }
 
+/* ---- Eyebrow chip on dark ---- */
+.kicker-chip {
+  display: inline-flex; align-items: center; gap: 0.5rem;
+  border: 1px solid var(--color-line); border-radius: 9999px;
+  padding: 0.4rem 0.9rem; font-size: 0.72rem; font-weight: 600;
+  letter-spacing: 0.18em; text-transform: uppercase; color: var(--color-gold);
+  background: rgba(198, 165, 92, 0.04);
+}
+
+/* ---- Callout (branding blocks, notes) ---- */
+.callout {
+  border: 1px solid var(--color-line); border-left: 2px solid var(--color-gold);
+  border-radius: var(--radius-xl);
+  background: linear-gradient(180deg, rgba(198, 165, 92, 0.05), rgba(255, 255, 255, 0));
+  padding: 1.4rem 1.5rem;
+}
+
+/* ---- Long-form prose (KB articles, legal, founder) ---- */
+.prose-nx { color: var(--color-ivory-muted); font-size: 1.02rem; line-height: 1.75; }
+.prose-nx > :first-child { margin-top: 0; }
+.prose-nx h2 {
+  font-size: 1.6rem; margin-top: 2.6rem; margin-bottom: 0.9rem; color: var(--color-ivory);
+  scroll-margin-top: 6rem;
+}
+.prose-nx h3 {
+  font-size: 1.22rem; margin-top: 1.9rem; margin-bottom: 0.7rem; color: var(--color-ivory);
+  scroll-margin-top: 6rem;
+}
+.prose-nx h4 { font-size: 1.05rem; margin-top: 1.5rem; margin-bottom: 0.5rem; color: var(--color-ivory); }
+.prose-nx p { margin-block: 1rem; }
+.prose-nx ul, .prose-nx ol { margin-block: 1rem; padding-left: 1.35rem; }
+.prose-nx ul { list-style: none; }
+.prose-nx ul > li { position: relative; padding-left: 1.1rem; margin-block: 0.5rem; }
+.prose-nx ul > li::before {
+  content: ""; position: absolute; left: 0; top: 0.66em;
+  width: 6px; height: 6px; border-radius: 9999px; background: var(--color-gold); opacity: 0.8;
+}
+.prose-nx ol { list-style: decimal; }
+.prose-nx ol > li { margin-block: 0.5rem; padding-left: 0.25rem; }
+.prose-nx ol > li::marker { color: var(--color-gold); font-variant-numeric: tabular-nums; }
+.prose-nx li > ul, .prose-nx li > ol { margin-block: 0.4rem; }
+.prose-nx strong { color: var(--color-ivory); font-weight: 600; }
+.prose-nx a { color: var(--color-gold-200); text-decoration: underline; text-underline-offset: 3px; text-decoration-color: rgba(198,165,92,0.4); }
+.prose-nx a:hover { text-decoration-color: var(--color-gold); }
+.prose-nx blockquote {
+  margin: 1.4rem 0; padding: 0.4rem 0 0.4rem 1.2rem;
+  border-left: 2px solid var(--color-gold); color: var(--color-ivory);
+}
+.prose-nx hr { margin: 2.4rem 0; }
+.prose-nx code {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; font-size: 0.88em;
+  background: var(--color-obsidian-600); border: 1px solid var(--color-line);
+  border-radius: 0.4rem; padding: 0.12rem 0.4rem; color: var(--color-gold-200);
+}
+.prose-nx pre {
+  margin: 1.4rem 0; padding: 1.1rem 1.25rem; overflow-x: auto;
+  background: var(--color-obsidian-800); border: 1px solid var(--color-line); border-radius: var(--radius-xl);
+}
+.prose-nx pre code { background: none; border: 0; padding: 0; color: var(--color-ivory); }
+.prose-nx img { border-radius: var(--radius-xl); border: 1px solid var(--color-line); margin-block: 1.5rem; }
+.prose-nx table { width: 100%; border-collapse: collapse; margin: 1.6rem 0; font-size: 0.92rem; display: block; overflow-x: auto; }
+.prose-nx thead { background: rgba(255,255,255,0.02); }
+.prose-nx th, .prose-nx td { border: 1px solid var(--color-line); padding: 0.6rem 0.85rem; text-align: left; vertical-align: top; }
+.prose-nx th { color: var(--color-ivory); font-weight: 600; }
+.prose-nx h2 + p, .prose-nx h3 + p { margin-top: 0.5rem; }
+
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   .reveal { opacity: 1 !important; transform: none !important; transition: none; }

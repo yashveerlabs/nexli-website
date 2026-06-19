@@ -3,13 +3,15 @@ import "../styles/global.css";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import FloatingWhatsApp from "../components/FloatingWhatsApp.astro";
-import { SITE } from "../lib/site";
+import { SITE, INSTAGRAM_URL } from "../lib/site";
 
 interface Props {
   title?: string;
   description?: string;
   image?: string;
   noindex?: boolean;
+  /** Extra page-level JSON-LD (WebPage, Article, etc.). Object or array. */
+  jsonLd?: Record<string, any> | Record<string, any>[];
 }
 
 const {
@@ -17,7 +19,9 @@ const {
   description = SITE.description,
   image = "/logo-full.jpg",
   noindex = false,
+  jsonLd,
 } = Astro.props;
+const extraJsonLd = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 
 const pageTitle = title ? `${title} · ${SITE.name}` : `${SITE.name} — The School Operating System`;
 const canonical = new URL(Astro.url.pathname, SITE.url).href;
@@ -32,6 +36,9 @@ const orgJsonLd = {
   description: SITE.description,
   slogan: SITE.tagline,
   areaServed: "IN",
+  founder: { "@type": "Person", name: SITE.founder },
+  parentOrganization: { "@type": "Organization", name: SITE.company },
+  sameAs: [INSTAGRAM_URL],
 };
 ---
 <!doctype html>
@@ -74,6 +81,9 @@ const orgJsonLd = {
     />
 
     <script type="application/ld+json" set:html={JSON.stringify(orgJsonLd)} is:inline />
+    {extraJsonLd.map((block) => (
+      <script type="application/ld+json" set:html={JSON.stringify(block)} is:inline />
+    ))}
   </head>
   <body>
     <a
