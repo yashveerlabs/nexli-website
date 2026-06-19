@@ -1,174 +1,106 @@
-﻿---
-title: "UDISE+ Annual Report"
-slug: "udise-plus-annual-report"
-category: "Compliance"
-category_number: 7
-article_number: 59
-published: true
-seo:
-  description: "Complete compliance guide for UDISE+ Annual Report in Indian schools."
-  keywords: "school compliance, UDISE+ Annual Report, Indian education"
-  canonical: "https://nexli.io/blog/compliance/udise-plus-annual-report"
-branding_block: 5
+---
+title: "UDISE+ Annual Report: What Schools Must Submit and When"
+slug: "udise-plus-annual-report-schools"
+meta_description: "Complete guide to UDISE+ annual report submission for schools. Covers data categories, timelines, portal access, and how Nexli generates UDISE+ data exports."
+category: "School Compliance"
+primary_keyword: "UDISE+ annual report schools"
+secondary_keywords: ["UDISE+ data submission", "school annual return government", "UDISE portal schools India", "DISE reporting requirements"]
+intent: "informational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 11
+branding_block_company: 11
+branding_block_nexli: 11
 ---
 
-## Introduction to UDISE+ Annual Report
+UDISE+ (Unified District Information System for Education Plus) is India's national database for school education statistics, maintained by the Ministry of Education. Every recognized school — government and private — must submit an annual report through the UDISE+ portal. The data is used for government planning, funding decisions, and regulatory oversight.
 
-UDISE+ Annual Report is a critical compliance requirement for educational institutions in India. This comprehensive guide covers all aspects of implementation, requirements, and best practices.
+Missing the UDISE+ annual submission affects the school's regulatory standing and, for government schools, funding. Private schools that skip submission risk recognition complications.
 
-## Legal Framework
+## What Data UDISE+ Requires
 
-The requirement for UDISE+ Annual Report stems from:
-- Central and State education policies
-- Statutory regulations
-- Board directives
-- Ministry guidelines
-- Supreme Court judgments
+The annual report covers data across multiple domains:
 
-## Key Requirements
+**School profile:**
+- School name, registration number, type (government/private/aided)
+- Year of establishment
+- Management type
+- Affiliation board (CBSE, state board, etc.)
+- School location, pin code
 
-Schools must:
-1. Understand compliance requirements
-2. Develop implementation procedures
-3. Train staff members
-4. Maintain proper documentation
-5. Conduct periodic audits
-6. Report to authorities as required
-7. Address deficiencies promptly
+**Infrastructure:**
+- Number of classrooms (and their condition)
+- Availability of library, laboratory, playground
+- Toilet facilities (boys/girls separately)
+- Drinking water availability
+- Electricity connection
+- Ramp and accessibility for differently-abled students
+- Computer lab and internet connectivity
 
-## Nexli FACTS for Compliance Management
+**Enrollment:**
+- Total students enrolled by class and gender
+- SC/ST/OBC and general category enrollment
+- Students with disabilities enrollment
+- Girls enrolled in each class
 
-Nexli's Compliance module supports UDISE+ Annual Report through:
+**Teaching staff:**
+- Total teachers by gender and qualification
+- Contract/regular/part-time breakdown
+- Teacher vacancies
 
-- **Compliance Calendar**: Automated reminders for deadlines and key dates
-- **Document Storage**: Secure cloud storage for all compliance documents
-- **Audit Trails**: Complete record of all actions taken for compliance
-- **Policy Tracking**: Monitor policy implementation across school
-- **Report Generation**: Create compliance reports for audits and inspections
-- **Task Assignment**: Assign compliance tasks to responsible staff
-- **Checklist Management**: Track completion of compliance requirements
-- **Digital Archiving**: Maintain accessible records for inspections
+**Academic results:**
+- Board exam pass rates (where applicable)
+- Attendance data
 
-## Implementation Strategy
+**Schemes and programs:**
+- RTE admission details
+- PM POSHAN (mid-day meal) participation
+- Other government scheme participation
 
-Develop a structured approach:
+## Submission Timeline
 
-**Phase 1: Planning**
-- Understand requirements
-- Identify gaps
-- Create action plan
-- Allocate resources
-- Set timelines
+The UDISE+ portal typically opens for data entry in September-October and closes in December-January. Schools must confirm exact dates from the Ministry of Education or their state education department each year, as timelines can shift.
 
-**Phase 2: Implementation**
-- Train staff
-- Develop procedures
-- Update systems
-- Create documentation
-- Communicate to stakeholders
+## Portal Access
 
-**Phase 3: Monitoring**
-- Track progress
-- Conduct audits
-- Address issues
-- Update procedures
-- Maintain records
+The school's UDISE code (a unique identifier assigned to each school) is required for portal login. Schools without a UDISE code must contact the District Education Officer for registration.
 
-**Phase 4: Reporting**
-- Prepare compliance reports
-- Submit to authorities
-- Document improvements
-- Plan next steps
-- Share with board
+The School Management Committee (SMC) or school principal is responsible for data entry and submission.
 
-## Common Challenges
+## Data Accuracy
 
-- Understanding complex requirements
-- Limited staff resources
-- Data management issues
-- Coordination across departments
-- Maintaining documentation
-- Staying updated on changes
+Data entered in UDISE+ is used for government planning and is subject to physical verification by education inspectors. Inaccurate data — inflated enrollment, unreported infrastructure gaps — creates risk during inspections. Enter accurate data even if it reflects gaps; inspectors compare submission against physical reality.
 
-## Best Practices
+## How Nexli Helps
 
-1. **Create detailed procedures** for all compliance activities
-2. **Train staff regularly** on compliance requirements
-3. **Use digital tools** like Nexli for efficient management
-4. **Conduct regular audits** to ensure compliance
-5. **Maintain organized documentation** for easy retrieval
-6. **Communicate transparently** with stakeholders
-7. **Stay updated** on policy changes
-8. **Plan ahead** for compliance deadlines
+Nexli maintains real-time school data that maps directly to UDISE+ reporting categories: student enrollment by class and category, staff records, infrastructure status, attendance data. Nexli generates a UDISE+ data export that reduces manual data entry and error. Schools using Nexli have submitted UDISE+ with real data covering over 300 students.
 
-## Documentation Checklist
+[Book a Free Demo](/demo) to see Nexli's UDISE+ data export capability.
 
-Essential documents for UDISE+ Annual Report:
-- [ ] Policy documents
-- [ ] Procedure manuals
-- [ ] Staff training records
-- [ ] Audit reports
-- [ ] Inspection certificates
-- [ ] Government correspondence
-- [ ] Implementation records
-- [ ] Compliance reports
+---
 
-## Risk Management
+**About Nexli:** Nexli's UDISE+ export pulls enrollment, staff, infrastructure, and academic data from the live database and formats it for portal submission. Schools using Nexli don't compile UDISE+ data manually — they export it.
 
-Identify and mitigate risks:
-- Incomplete documentation
-- Missed deadlines
-- Staff non-compliance
-- System failures
-- Data loss
-- Regulatory changes
+**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's government reporting tools around the actual data formats required by UDISE+ and CBSE. Integration with regulatory requirements was a design priority, not an afterthought.
 
-## Technology Solutions
+**How Nexli Helps:** Yashveer Labs invests in making government reporting accurate and efficient. UDISE+ data quality matters for the school's standing, for government planning, and for the students whose enrollment is reflected in the data.
 
-Implement digital solutions to:
-- Automate compliance tracking
-- Centralize documentation
-- Streamline reporting
-- Reduce manual errors
-- Improve accessibility
-- Ensure data security
+---
 
-## Training and Awareness
+## FAQ
 
-Ensure all staff understand:
-- Regulatory requirements
-- School procedures
-- Their responsibilities
-- Consequences of non-compliance
-- Available support systems
+**Q: What is the UDISE code and how does a school get one?**
 
-## Audit and Verification
+A: The UDISE code is a unique 11-digit identifier assigned to each school in India. New schools apply through the District Education Officer. Existing schools should have their code from their initial recognition. If a school does not know its code, the DEO can confirm it.
 
-Prepare for audits by:
-- Maintaining complete documentation
-- Organizing records systematically
-- Creating summary reports
-- Addressing previous findings
-- Updating procedures as needed
+**Q: What happens if a school submits inaccurate UDISE+ data?**
 
-## Reporting to Authorities
+A: Inspectors physically verify UDISE+ data. Discrepancies between submitted data and physical reality can result in regulatory action, including show-cause notices and recognition complications.
 
-When required, submit:
-- Compliance certificates
-- Audit reports
-- Implementation status
-- Corrections made
-- Future plans
+**Q: Can schools amend submitted UDISE+ data after the portal closes?**
 
-## Continuous Improvement
+A: Amendments may be possible through the portal administrator during a correction window. Schools should contact the District Education Officer if they need to correct submitted data.
 
-Establish process to:
-- Review compliance effectiveness
-- Identify improvement areas
-- Update procedures
-- Train on changes
-- Document improvements
+**Q: Who is responsible for UDISE+ submission in a private school?**
 
-## Conclusion
-
-UDISE+ Annual Report requires systematic implementation, proper documentation, and continuous monitoring. By using comprehensive compliance management systems like Nexli, schools can efficiently meet all requirements while maintaining proper audit trails and documentation for inspections.
+A: The Principal or school management. Many schools designate an administrative officer to handle the data entry, but the Principal is responsible for accuracy and timely submission.
