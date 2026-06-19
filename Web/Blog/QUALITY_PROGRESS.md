@@ -373,6 +373,40 @@
 
 ---
 
+---
+
+**Last updated:** 2026-06-20 (Category 06 complete)
+
+## Category 06 — Parent Communication & Engagement
+
+**Status:** COMPLETE
+**Articles processed:** 97/97 (01-95 numbered + avoid-communication-overload + school-communication-strategy-multi-channel)
+**Commit:** `266a5bf`
+
+### Fixes Applied
+
+| Fix | Count | Notes |
+|-----|-------|-------|
+| Em-dashes | ~650 | All em-dashes replaced contextually (comma, colon, or period per context) across all 97 articles |
+| AI cliché: "truly" | ~30 | "truly urgent" → "urgent" (FAQ boilerplate repeated across articles 14-95) |
+| AI cliché: "seamlessly" | 2 | "seamless school management" → "straightforward school management" (overload + strategy articles) |
+| AI cliché: "Leveraging" | 2 | Article 20: "Leveraging Family Expertise" heading → "Using Family Expertise" |
+| CTA: /demo added | 95 | All articles except 2 (already had /demo) received `[Book a Free Demo](/demo)` |
+| CTA: #contact → /demo | 1 | Article 13: `[Sign up for a demo](#contact)` → `[Book a Free Demo](/demo)` |
+| Fact: WhatsApp Business API | 1 | Article 72: Clarified WhatsApp Business API is planned, not yet built-in; Nexli delivers via communication module |
+| Fact: Alumni module | 1 | Article 84: Added note that alumni directory is accessible but not yet populated with demo data |
+| Entity names | 0 | No violations found ("Nexli ERP", "the platform", "our ERP", etc.) |
+| Frontmatter | 0 | All articles already had correct author, date, category, branding_block_* fields |
+
+### Notes
+- Articles 01-13: Full-length custom content per topic with inline branding. Targeted fixes only.
+- Articles 14-95 + 2 extras: Mostly unique content with shared FAQ boilerplate. "truly urgent" cliché fixed in repeated FAQ sections.
+- Branding blocks: All 97 articles confirmed present with three-block format (founder/company/nexli).
+- Category 06 is the largest custom-content category processed — every article has substantive unique body content (not template stubs).
+- No false claims about alumni, WhatsApp Business API, chatbots, or AI features introduced.
+
+---
+
 ## Category 13 — School Type Specific Solutions
 
 **Status:** COMPLETE
