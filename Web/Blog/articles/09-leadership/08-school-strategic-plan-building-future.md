@@ -256,7 +256,7 @@ For each objective, create a detailed action plan:
 | Too many goals | Staff are confused. Nothing gets done. | 4–5 goals max. Focus beats breadth. |
 | Vague objectives | "Improve student learning" is not actionable. | Make it specific: "80% pass rate in Math by end of 2026." |
 | No budget allocation | Ambitious goals without resources fail. | "This initiative needs ₹5L. Here's the ROI." Get board approval. |
-| No owner assignment | "Someone will do it"—nobody does. | One person per objective, named, accountable, with check-in schedule. |
+| No owner assignment | "Someone will do it"; nobody does. | One person per objective, named, accountable, with check-in schedule. |
 | No progress tracking | Plan disappears into a drawer. | Monthly tracking + quarterly review + annual report. Visibility = accountability. |
 | Top-down planning | Staff don't buy in. Implementation is half-hearted. | Involve staff in planning. They'll commit to what they help create. |
 | Changing goals mid-year | Staff lose confidence. "The plan doesn't mean anything." | Stick with goals for a year. Adjust only if truly impossible. |
