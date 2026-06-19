@@ -1,6 +1,6 @@
 # Blog Quality Pass Progress
 
-**Last updated:** 2026-06-19 (Category 14 complete)
+**Last updated:** 2026-06-19 (Category 20 complete)
 
 ## Category 14 — Location-Based School ERP Solutions
 
@@ -118,6 +118,39 @@
 - External research citations: none present (all articles are operational guidance, not citing UDISE/ASER).
 - Pricing claim in FAQ ("per-student, per-month pricing") retained — it states the model without exact figures, consistent with NEXLI_FACTS.md guidance.
 - Block 14 content applied: founder (trust/data ownership), company (pricing/completeness), nexli (child safety).
+
+---
+
+---
+
+**Last updated:** 2026-06-19 (Category 20 complete)
+
+## Category 20 — Success Stories, Case Studies & Cases
+
+**Status:** COMPLETE
+**Articles processed:** 100/100 (001-100)
+**Commits:** `e97196f` (001-025), included in Cat17 commits (026-075 from earlier bulk pass), final articles (076-100) committed as part of same session
+
+### Fixes Applied
+
+| Fix | Count | Notes |
+|-----|-------|-------|
+| CTA URL/text | 100 | `[Start Your Free Demo](https://nexli.in/demo)` -> `[Book a Free Demo](/demo)` |
+| Branding blocks frontmatter | 100 | All had `branding_block_*: 16`; corrected to rotate: 001-020=1, 021-040=2, 041-060=3, 061-080=4, 081-100=5 |
+| Branding blocks (body) | 100 | Replaced generic custom About sections with actual BRANDING_BLOCKS.md block content (founder/company/nexli) |
+| AI cliche: "robust" | 0 | Not present in this category |
+| Em-dashes | 0 | Already correct throughout |
+| Entity names | 0 | No violations found |
+| AI clichés (other) | 0 | No "delve into", "leverage", "game-changer", "seamlessly", etc. found |
+| Case study guardrails | 0 | No named fictional schools, no customer count claims, no unverified metrics |
+| Fact violations | 0 | No prohibited feature claims found |
+
+### Notes
+- All 100 articles share an identical template body — only topic keyword varies per article.
+- Branding blocks now rotate correctly: blocks 1-5 in sequential batches of 20.
+- No named fictional schools — all scenarios use generic "schools" language.
+- No customer count claims ("50+ schools", "100 schools", etc.) — none were present.
+- All Nexli feature mentions (118+ roles, 55+ modules, attendance, fees, dashboards) match NEXLI_FACTS.md.
 
 ---
 
