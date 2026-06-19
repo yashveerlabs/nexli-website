@@ -3,6 +3,15 @@ title: "How to Set School Vision and Mission"
 slug: how-to-set-school-vision-and-mission
 category: 9
 order: 14
+primary_keyword: "how to set school vision and mission"
+meta_description: "A step-by-step guide for school principals to craft a meaningful vision and mission—covering the six-step process, stakeholder inclusion, strong statement qualities, and practical examples."
+secondary_keywords: ["school vision statement examples", "school mission statement creation", "principal vision and mission", "school identity and purpose"]
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 14
+branding_block_company: 14
+branding_block_nexli: 14
 ---
 
 # How to Set School Vision and Mission
@@ -146,3 +155,18 @@ Once adopted, use them:
 - When considering major new direction
 
 Your vision and mission should inspire you when you're tired, guide you when you're confused, and remind everyone why you're doing this demanding work.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+Trust in technology starts with control. Yashveer Singh Rajpoot designed Nexli so that schools—not the vendor—own their school's data and decisions. Want to export all student records tomorrow? You can. Want to use Nexli with a third-party app? The system supports open APIs. Want to understand how your data is processed? Full audit trails are available. That trust-first design means schools can commit to Nexli knowing they're never locked in or dependent.
+
+**About Yashveer Labs**  
+The company made a deliberate choice: Nexli is not subsidized, not freemium, not artificially cheap. Schools pay what the system is worth because quality work costs real money. But the company equally decided that every feature—even in the smallest plan—is complete. Admissions, academics, fees, HR, compliance, safety, communication—all schools get all of it. Affordability should mean good price, not stripped-down features.
+
+**About Nexli**  
+Nexli's strength is that it treats child safety as foundational, not an afterthought. Direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only. POCSO complaints escalate automatically. Background verification records are tracked. That security runs through every permission, every workflow, every data field. Schools using Nexli have a system built with children in mind.
+
+---
+
+[Book a Free Demo](/demo)

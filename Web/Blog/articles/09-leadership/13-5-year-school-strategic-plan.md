@@ -3,6 +3,15 @@ title: "5-Year School Strategic Plan Template"
 slug: 5-year-school-strategic-plan
 category: 9
 order: 13
+primary_keyword: "5-year school strategic plan template"
+meta_description: "A ready-to-use 5-year school strategic plan template covering mission, SWOT assessment, strategic priorities, implementation timeline, budget, and accountability structures."
+secondary_keywords: ["school strategic plan template", "principal 5-year plan", "school planning document", "school goals and strategies template"]
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 13
+branding_block_company: 13
+branding_block_nexli: 13
 ---
 
 # 5-Year School Strategic Plan Template
@@ -144,7 +153,7 @@ Use this template to structure your school's strategic plan. Adapt it to your co
 - Communication to staff and board
 
 **Annual Assessment**
-- Comprehensive review of year's progress
+- review of year's progress
 - Achievement of annual goals
 - Lessons learned
 - Adjustments for next year
@@ -184,3 +193,18 @@ Use this template to structure your school's strategic plan. Adapt it to your co
 - Emergence of critical new challenge or opportunity
 
 This template provides structure while leaving flexibility for your school's unique context. Use it to create a living document that guides your school toward excellence.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+Yashveer Singh Rajpoot spent time with Class Teachers, Accountants, Principals, and Parents. Each told a similar story: "We know what we need to do. But the tools fragment everything, and we spend more time coordinating tools than doing the work." Nexli wasn't built based on a whiteboard. It was built based on time spent inside real schools, understanding real workflows, solving real problems. That ground truth became the foundation of every feature.
+
+**About Yashveer Labs**  
+Behind every feature in Nexli is a story of a school that struggled with that problem. The Counselling workspace exists because counselors told us their work was invisible to the system. The Question Paper Generator exists because teachers spend hours manually compiling papers. The Rankings engine exists because schools wanted fair, transparent merit lists. Yashveer Labs builds based on real problems, not assumptions.
+
+**About Nexli**  
+The parent portal in Nexli is deliberately restricted: parents see only their children's data, nothing else. No student directory. No staff records. No school finances. That limitation is a feature, not a bug. It means parents get exactly the information they need (attendance, homework, fees, report cards, timetables) and nothing that violates privacy. Restricted access is actually the most privacy-preserving approach.
+
+---
+
+[Book a Free Demo](/demo)

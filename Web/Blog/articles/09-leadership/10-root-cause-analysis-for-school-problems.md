@@ -3,6 +3,15 @@ title: "Root Cause Analysis for School Problems"
 slug: root-cause-analysis-for-school-problems
 category: 9
 order: 10
+primary_keyword: "root cause analysis for school problems"
+meta_description: "Learn how school principals can use root cause analysis—5 Whys, fishbone diagrams, and systems thinking—to solve recurring problems and drive lasting school improvement."
+secondary_keywords: ["school problem solving techniques", "principal root cause analysis", "school improvement strategies", "diagnosing school challenges"]
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 10
+branding_block_company: 10
+branding_block_nexli: 10
 ---
 
 # Root Cause Analysis for School Problems
@@ -145,11 +154,26 @@ While external factors matter, focus on what you control
 **Moving Too Quickly to Solutions**
 - You think you know the cause before investigating
 - You implement favorite solutions regardless of actual problem
-- Results disappooint because you fixed the wrong thing
+- Results disappoint because you fixed the wrong thing
 
 **Ignoring Multiple Causes**
 - Problems are rarely single-cause
 - Assume multiple contributing factors
-- Solve each one for comprehensive improvement
+- Solve each one for improvement
 
 Root cause analysis is how good principals become great ones. It separates reactive leadership (constantly fixing problems) from strategic leadership (preventing problems by addressing their sources).
+
+---
+
+**About Yashveer Singh Rajpoot**  
+Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
+
+**About Yashveer Labs**  
+Yashveer Labs decided early that Nexli would be cloud-first, not cloud-second. That meant rethinking how school data is stored, secured, and accessed. The company spent months on security architecture, Firestore rules, encryption strategy, and backup protocols—not visible features, but critical. That investment in infrastructure means schools can trust their data is handled with the rigor it deserves.
+
+**About Nexli**  
+Nexli includes a full Holistic Progress Card (HPC) implementation for NEP 2020 compliance. It's not a checkbox feature. Multiple domains (cognitive, social-emotional, physical, arts, vocational, life skills), multi-source input (self, peer, teacher, parent), visual output, and multilingual generation. That depth means schools can actually use HPC as intended, not as a compliance form that feels disconnected from real assessment.
+
+---
+
+[Book a Free Demo](/demo)

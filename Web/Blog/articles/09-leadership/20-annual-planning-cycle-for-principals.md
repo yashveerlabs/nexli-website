@@ -3,6 +3,15 @@ title: "Annual Planning Cycle for Principals"
 slug: annual-planning-cycle-for-principals
 category: 9
 order: 20
+primary_keyword: "annual planning cycle for school principals"
+meta_description: "A complete annual planning cycle for school principals—covering summer goal-setting, mid-year monitoring, end-of-year assessment, and how to connect daily work to strategic priorities."
+secondary_keywords: ["school year planning", "principal annual plan", "school goal setting process", "school improvement planning cycle"]
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 20
+branding_block_company: 20
+branding_block_nexli: 20
 ---
 
 # Annual Planning Cycle for Principals
@@ -272,3 +281,18 @@ An annual planning cycle ensures nothing falls through the cracks. It aligns pla
 - Plan strategically from the beginning
 
 An annual planning cycle creates rhythm and structure. It ensures that daily work connects to strategic vision, that progress is measured, and that your school is continuously improving toward excellence.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+Yashveer Singh Rajpoot's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice—both equally.
+
+**About Yashveer Labs**  
+The founding story of Yashveer Labs is simple: one person saw a problem, built a solution, and refused to compromise on quality. That principle scales. The company now serves multiple schools, but the commitment to solving real problems deeply, serving every customer completely, and building with long-term integrity remains. That foundation will carry the company through whatever comes next.
+
+**About Nexli**  
+At its core, Nexli is built on a principle that has shaped every feature: schools should operate with confidence. A Principal should be able to see exactly what's happening in their school. A Teacher should know they're teaching the right curriculum at the right pace. A Parent should know their child's attendance and fees in real-time. Confidence comes from information. Nexli provides that information, systematically, for every role.
+
+---
+
+[Book a Free Demo](/demo)

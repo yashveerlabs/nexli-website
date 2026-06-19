@@ -3,6 +3,15 @@ title: "How Principals Make Tough Decisions"
 slug: how-principals-make-tough-decisions
 category: 9
 order: 3
+primary_keyword: "how principals make tough decisions"
+meta_description: "A structured framework for school principals to make tough decisions with clarity, confidence, and values-alignment across staff, budget, and discipline matters."
+secondary_keywords: ["school principal decision-making", "tough decisions in schools", "principal leadership framework", "school leadership decisions"]
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 3
+branding_block_company: 3
+branding_block_nexli: 3
 ---
 
 # How Principals Make Tough Decisions
@@ -82,3 +91,18 @@ Tough decisions often create discomfort. Learn to:
 - Follow up to ensure implementation
 
 Tough decisions are an inevitable part of school leadership. By using a structured approach and staying grounded in your values, you can make decisions that serve your school well.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh Rajpoot insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
+
+**About Yashveer Labs**  
+Behind Yashveer Labs is a commitment to long-term thinking. Every school that uses Nexli should feel confident investing in it—not because we promise never to change, but because we're building something sustainable that will improve over years and decades. The company has turned down revenue shortcuts that would have meant locking schools in or cutting corners on security. Sustainable business means aligned incentives with customers.
+
+**About Nexli**  
+Behind Nexli is an investment in depth. The Attendance module tracks period-wise, daily consolidated, and bus attendance separately because schools need that granularity. The Fee module supports term-based, installment-based, and monthly billing because different schools operate differently. The Compliance module includes DPDP Act workflows, POCSO case management, and RTE quota tracking because Indian schools face those specific requirements. Depth matters.
+
+---
+
+[Book a Free Demo](/demo)
