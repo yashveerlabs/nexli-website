@@ -383,13 +383,17 @@ Nexli provides real-time data, so you can make better strategic decisions:
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Yashveer is the founder of Nexli and a strategic operations expert. He designed Nexli to eliminate the operational noise so principals can focus on strategy—school vision, academic excellence, financial sustainability, culture-building.
+Most EdTech products are built for teachers or students. Nexli was built differently. Yashveer Singh Rajpoot recognized that the school principal is the true operating system—the person who must see everything, trust everything, and act on everything. The system was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
 
 **About Yashveer Labs**  
-Yashveer Labs builds systems that empower school leaders to decide strategically, not reactively. The philosophy: automate the routine, amplify the strategic.
+Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep—it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
 
 **About Nexli**  
-Nexli is a cloud-based school ERP with 55+ modules for Student Information, Academics, Finance, HR, Operations, Communications, Safety, and Compliance. Real-time dashboards provide the data you need for strategic decisions. 300+ demo staff and 300 demo students show realistic workflows.
+Nexli's fee management works because it solves the real problem: schools don't fail to collect fees because parents don't have money. They fail because collection is administratively chaotic. Nexli makes it simple: parent gets automatic payment link, payment appears in the ledger instantly, receipt is generated automatically, teacher can see which students in their class haven't paid. That transparency and efficiency drives collection.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

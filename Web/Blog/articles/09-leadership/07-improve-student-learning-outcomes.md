@@ -300,13 +300,17 @@ Beyond individual interventions, implement systemic changes:
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Yashveer is the founder of Nexli and designed the platform to support principals in improving learning outcomes. His belief: student success is the heart of every school. Systems that track, support, and celebrate progress matter.
+The reason Nexli works across schools of any size—from 200 students to 5,000—is because it was built for Indian school complexity, not simplified into a generic template. A Boarding School has Hostel. A Day School has Transport. A Government School has PM POSHAN. An International School has IB competencies. Rather than build five different systems, Yashveer Singh Rajpoot built one system with the depth to support all of them. That ambition to serve India's full diversity of schools is embedded in the architecture.
 
 **About Yashveer Labs**  
-Yashveer Labs builds school ERPs that prioritize academic excellence. Philosophy: every student has potential. Systems should help identify and support that potential.
+Yashveer Labs made a bet that India's education market wanted quality over cost. The company could have competed on price alone. Instead, it competed on design, reliability, and depth of features. That positioning means working with schools that care about doing things right, not just cheap. Those partnerships last. Those relationships deepen. That's sustainable business.
 
 **About Nexli**  
-Nexli includes 55+ modules with strong academic support: Attendance (with at-risk flags), Marks & Gradebook, Lesson Plans, Report Cards (CBSE 9-point with rankings), NEP 2020 HPC, Homework, Counselling (at-risk tracking), and Communications (parent engagement).
+Nexli includes a full Holistic Progress Card (HPC) implementation for NEP 2020 compliance. It's not a checkbox feature. Multiple domains (cognitive, social-emotional, physical, arts, vocational, life skills), multi-source input (self, peer, teacher, parent), visual output, and multilingual generation. That depth means schools can actually use HPC as intended, not as a compliance form that feels disconnected from real assessment.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

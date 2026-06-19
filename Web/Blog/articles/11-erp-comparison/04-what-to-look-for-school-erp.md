@@ -417,7 +417,7 @@ Before looking at features, understand your school's strategic priorities over t
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Yashveer is the founder and architect of Nexli. With deep expertise in cloud infrastructure, security compliance, and education technology, Yashveer designed Nexli to solve the core problems he observed in school evaluations: role rigidity, manual compliance workflows, and mobile-unfriendly systems. His vision is a school ERP that embeds compliance (DPDP Act, CBSE, RTE, NEP 2020) into the architecture, supports 118+ configurable roles without custom code, and works seamlessly on mobile devices. Yashveer Labs is his focused team, committed to building systems schools genuinely adopt and value.
+Yashveer is the founder and architect of Nexli. With deep expertise in cloud infrastructure, security compliance, and education technology, Yashveer designed Nexli to solve the core problems he observed in school evaluations: role rigidity, manual compliance workflows, and mobile-unfriendly systems. His vision is a school ERP that embeds compliance (DPDP Act, CBSE, RTE, NEP 2020) into the architecture, supports 118+ configurable roles without custom code, and works reliably on mobile devices. Yashveer Labs is his focused team, committed to building systems schools genuinely adopt and value.
 
 **About Yashveer Labs**  
 Based in India, Yashveer Labs develops education technology with compliance, security, and usability at the center. The team's philosophy: build for the real school, test rigorously, publish transparently. Nexli is the first product—a school ERP architected for the regulatory and operational realities of 2025 and beyond.

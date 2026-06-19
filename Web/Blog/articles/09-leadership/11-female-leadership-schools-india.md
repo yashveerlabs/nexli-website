@@ -360,23 +360,23 @@ Female leaders using Nexli can present polished KPI dashboards to boards, parent
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot is the founder and CEO of Yashveer Labs, a boutique software design studio focused on solving real problems for Indian schools. With 8+ years of experience in school operations and leadership development, Yashveer is committed to building systems that support inclusive, equitable leadership advancement—particularly for women in education.
+After spending years in education technology, Yashveer Singh Rajpoot observed something: most school ERPs are built by software engineers, not by people who've lived inside schools. Details get missed. Workflows feel imposed from outside. Nexli was built by someone who understands both education and technology—where a Timetable needs to be not just a schedule, but a communication tool. Where Attendance is not just a register, but an early-warning system. Where Finance is not just accounting, but a window into school health.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds software that empowers all leaders, regardless of gender. The company is committed to transparency, objectivity, and data-driven decision-making that levels the playing field for women in school leadership.
+Yashveer Labs treats data protection as a core business value, not a compliance checkbox. The company invests in encryption, audit trails, role-based access control, and consent management not because regulations require them, but because schools deserve to know their data is safe. That commitment shapes hiring decisions, architectural choices, and feature priorities. Data stewardship is taken seriously.
 
 **About Nexli**
 
-Nexli is a cloud-based school ERP for Indian K–12 schools. It provides transparent role-based systems, objective data dashboards, and audit trails that make leadership visible and accountable—creating space for merit-based advancement. Nexli's 118+ configurable roles help boards design inclusive career pathways and measure female leadership progress explicitly.
+Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents on WhatsApp (where they actually open messages). Nexli is built for Indian schools, by people who understand Indian schools.
 
 ---
 
 ## Call to Action
 
-**Ready to build a more inclusive leadership pipeline?** Explore how Nexli's transparent dashboards and role-based systems help boards identify, develop, and advance female leaders based on merit. Start a free trial today and see how data-driven leadership benefits your school.
+**Ready to build a more inclusive leadership pipeline?** Explore how Nexli's transparent dashboards and role-based systems help boards identify, develop, and advance female leaders based on merit.
 
-[Start Free Trial](https://nexli.in)
+[Book a Free Demo](/demo)
 
 ---
 

@@ -311,13 +311,17 @@ Nexli provides clean, real-time data so you can focus on analysis and decisions:
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Yashveer is the founder of Nexli and designed the platform to make data-driven decision-making easy for principals. His belief: schools should operate on evidence, not hunches. Real-time data removes guesswork.
+When Yashveer Singh Rajpoot tested Nexli with real schools, the most surprising feedback was this: "We didn't realize we were missing so much visibility." Schools became aware of patterns they'd never seen before—the silent attendance decline before a student drops out, the systematic imbalance in subject performance across sections, the correlation between homework submission and exam success. Visibility enables intervention. Insight enables strategy. That's what modern systems should do.
 
 **About Yashveer Labs**  
-Yashveer Labs builds school ERPs that prioritize data integrity and accessibility. Philosophy: what gets measured gets managed. Data should be clean, accessible, and actionable.
+The culture of Yashveer Labs rewards deep problem-solving over quick fixes. An engineer is expected to understand the actual school workflow that a feature supports, not just build the code. A designer is expected to test their work with real users, not just make it visually appealing. That expectation for depth means solutions actually work in practice, not just in theory.
 
 **About Nexli**  
-Nexli is a cloud-based school ERP with 55+ modules. Real-time dashboards, automated calculations, and audit logs ensure data integrity. 300+ demo staff and 300 demo students show realistic data patterns.
+Nexli's foundation is that data should never be siloed. The same attendance record that a teacher marks is visible to the parent, the coordinator, the principal, and feeds into analytics. The same marks that a teacher enters go into the gradebook, the report card, the ranking system, and the analysis dashboard. That data unity means the system always shows one truth, not conflicting versions.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

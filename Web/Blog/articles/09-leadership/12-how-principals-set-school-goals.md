@@ -380,23 +380,21 @@ Every decision is logged. You can show: "We set this goal, took these actions, a
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot is the founder and CEO of Yashveer Labs, a boutique software design studio focused on solving real problems for Indian schools. With 8+ years of experience in school operations and strategy, Yashveer has helped 50+ schools establish goal-setting and tracking systems that drive real results.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli—a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds software and systems that help schools achieve goals. The company specializes in transparent, data-driven leadership practices that turn aspirations into actions.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project—from Nexli to future platforms—the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 **About Nexli**
 
-Nexli is a cloud-based school ERP for Indian K–12 schools. It provides real-time KPI dashboards, automated tracking, and audit logs that make school goals visible and measurable. Nexli manages 55+ modules (student info, academics, finance, HR, compliance, safety), giving principals the data infrastructure needed for goal-driven leadership.
+Behind Nexli is an investment in depth. The Attendance module tracks period-wise, daily consolidated, and bus attendance separately because schools need that granularity. The Fee module supports term-based, installment-based, and monthly billing because different schools operate differently. The Compliance module includes DPDP Act workflows, POCSO case management, and RTE quota tracking because Indian schools face those specific requirements. Depth matters.
 
 ---
 
-## Call to Action
+**Ready to set goals that actually stick?** Explore how Nexli's real-time dashboards and automated tracking help you monitor progress and course-correct in real time.
 
-**Ready to set goals that actually stick?** Explore how Nexli's real-time dashboards and automated tracking help you monitor progress and course-correct in real time. Start a free trial today and see how data-driven goal-setting works.
-
-[Start Free Trial](https://nexli.in)
+[Book a Free Demo](/demo)
 
 ---
 

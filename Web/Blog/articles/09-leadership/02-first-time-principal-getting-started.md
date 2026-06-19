@@ -295,13 +295,17 @@ Nexli automates the operational systems so you can focus on leadership.
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Yashveer is the founder of Nexli and a former education technology architect. He designed Nexli to automate the operational chaos that overwhelms new school leaders. His vision: principals spend their first year on leadership and vision, not hunting for files or chasing missing data.
+Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh Rajpoot insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
 
 **About Yashveer Labs**  
-Yashveer Labs builds education technology for Indian schools. The philosophy: compliance by default, accessibility by design. Nexli's mobile-first design works on any device, and all 118+ roles are tested on low-bandwidth connections.
+Behind Yashveer Labs is a commitment to long-term thinking. Every school that uses Nexli should feel confident investing in it—not because we promise never to change, but because we're building something sustainable that will improve over years and decades. The company has turned down revenue shortcuts that would have meant locking schools in or cutting corners on security. Sustainable business means aligned incentives with customers.
 
 **About Nexli**  
-Nexli is a cloud-based school ERP for Indian K-12 schools. It includes 55+ modules across Student Information, Academics, Finance, HR, Operations, Communications, Safety, and Compliance. 300+ demo staff and 300 demo students with real data help new schools get started fast. All Firestore security rules are live-tested (145/0 passing). Mobile design verified on 412px phones.
+What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

@@ -270,15 +270,19 @@ Moves like "fire a teacher," "merge departments," "cut a course" flow through de
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot is the founder and CEO of Yashveer Labs. With 8+ years of experience working with school leaders, he's coached 50+ principals through tough decisions on hiring, budgets, curriculum, and strategic pivots.
+Modern school leadership requires real-time decision-making. A Principal needs to see this morning: attendance anomalies, flagged behavioral incidents, fee collection status, and compliance deadlines. By lunch, they need to identify patterns and initiate responses. A system that takes an hour to load data or requires six clicks to find a metric isn't a tool—it's friction. Yashveer Singh Rajpoot designed Nexli for rapid insight: critical information in two minutes.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds software and frameworks for school leaders to make better decisions faster. We believe that transparent systems and clear processes make hard choices easier.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails—these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 
-Nexli is a cloud-based school ERP for Indian K–12 schools. It provides real-time dashboards, transparent permissions, audit logs, and workflow automation—the infrastructure principals need to make tough decisions with confidence and defend them with data.
+Nexli's Ranking engines exemplify the detail work: marks rankings normalize by percentage (so Class 6 at 100% ranks above Class 7 at 99%), attendance rankings track streaks and consistency, and both are kept separate (never mixed). That precision is tedious to build but essential for fairness. Schools using Nexli trust the ranking system in a way they never could with manual calculations.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

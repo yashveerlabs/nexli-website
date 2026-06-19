@@ -341,23 +341,21 @@ Nexli's dashboards show real-time data on adoption progress. "Are teachers actua
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot is the founder and CEO of Yashveer Labs, a boutique software design studio focused on solving real problems for Indian schools. With 8+ years of experience in school operations and educational innovation, Yashveer has helped 50+ principals navigate change and implement trends strategically.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety—all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence—bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds software and systems that help schools stay current and adapt to change. The company specializes in making complex trends implementable and measurable.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools—the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **About Nexli**
 
-Nexli is a cloud-based school ERP for Indian K–12 schools. It's built to support evolving pedagogies and trends: competency-based grading, digital assessment, mental health tracking, compliance management, and more. Nexli manages 55+ modules and adapts to new requirements as educational standards evolve—so your school can focus on learning, not system constraints.
+Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately—it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 ---
 
-## Call to Action
+**Ready to stay current without drowning?** Explore how Nexli's built-in compliance and flexible modules support new trends and best practices.
 
-**Ready to stay current without drowning?** Explore how Nexli's flexible, evolving system supports new trends and best practices. Start a free trial today and see how to implement trends strategically.
-
-[Start Free Trial](https://nexli.in)
+[Book a Free Demo](/demo)
 
 ---
 

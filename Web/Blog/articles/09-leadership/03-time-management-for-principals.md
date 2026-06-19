@@ -302,13 +302,17 @@ Nexli automates the operational systems that steal time:
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Yashveer is the founder of Nexli and understands principal burnout firsthand. He designed Nexli to automate the operational grunt work so principals can focus on leadership and strategy, not spreadsheets.
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking—each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **About Yashveer Labs**  
-Yashveer Labs builds school ERPs that respect principal time. The philosophy: automate the routine, protect the strategic.
+The founding principle of Yashveer Labs: technology should remove friction, not create it. Most enterprise software makes someone's job harder before it makes it easier—there's a learning curve, a setup cost, a transition period. Nexli was deliberately designed to reduce friction from day one. Teachers mark attendance faster. Principals get insight instantly. Parents get clarity on fees. That user-first design philosophy runs through everything the company builds.
 
 **About Nexli**  
-Nexli is a cloud-based school ERP with 55+ modules. Mobile-first design verified on 412px phones. 300+ demo staff and 300 demo students help schools get started fast. All Firestore security rules tested (145/0 passing).
+Nexli operates on the insight that schools need speed. Teachers mark attendance in 30 seconds, not 5 minutes. Principals see KPIs on the dashboard, not in an email report. Parents pay fees in seconds, not through a manual process. That speed matters because school operations run on tight timelines. Every minute saved on administrative work is a minute available for teaching and learning. Nexli prioritizes that speed intentionally.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

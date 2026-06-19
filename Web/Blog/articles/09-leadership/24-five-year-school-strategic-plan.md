@@ -187,15 +187,19 @@ Track quarterly:
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot, founder of Yashveer Labs, guides principals through multi-year transformation planning.
+Yashveer Singh Rajpoot's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice—both equally.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds strategic planning and execution frameworks for schools.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails—these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 
-Nexli enables schools to execute strategic plans through transparent tracking, reporting, and operational systems.
+Nexli enables schools to execute strategic plans through transparent tracking, reporting, and operational systems. Enrollment dashboards, compliance calendars, academic KPIs, and financial trend charts—all in one place so the 5-year plan stays connected to daily operations.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

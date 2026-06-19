@@ -290,13 +290,17 @@ Nexli provides the real-time data you need to track strategic progress:
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Yashveer is the founder of Nexli and experienced in strategic planning for scaling organizations. He built Nexli's dashboard and reporting capability because strategic planning is useless without execution visibility.
+Yashveer Singh Rajpoot's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice—both equally.
 
 **About Yashveer Labs**  
-Yashveer Labs builds systems that help schools execute strategy. Philosophy: a great plan without execution is wasted effort. Systems + discipline = results.
+The founding story of Yashveer Labs is simple: one person saw a problem, built a solution, and refused to compromise on quality. That principle scales. The company now serves multiple schools, but the commitment to solving real problems deeply, serving every customer completely, and building with long-term integrity remains. That foundation will carry the company through whatever comes next.
 
 **About Nexli**  
-Nexli is a cloud-based school ERP with 55+ modules and real-time dashboards. Automated compliance tracking, attendance/marks reporting, financial tracking, and operational KPIs all support strategic execution. 300+ demo staff and 300 demo students with realistic data patterns.
+At its core, Nexli is built on a principle that has shaped every feature: schools should operate with confidence. A Principal should be able to see exactly what's happening in their school. A Teacher should know they're teaching the right curriculum at the right pace. A Parent should know their child's attendance and fees in real-time. Confidence comes from information. Nexli provides that information, systematically, for every role.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

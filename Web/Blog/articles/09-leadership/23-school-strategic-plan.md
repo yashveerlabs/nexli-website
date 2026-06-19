@@ -181,15 +181,19 @@ When you hit milestones, celebrate visibly. Shows the plan matters and builds mo
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot, founder of Yashveer Labs, has guided 50+ principals through strategic planning.
+Yashveer Singh Rajpoot spent time with Class Teachers, Accountants, Principals, and Parents. Each told a similar story: "We know what we need to do. But the tools fragment everything, and we spend more time coordinating tools than doing the work." Nexli wasn't built based on a whiteboard. It was built based on time spent inside real schools, understanding real workflows, solving real problems. That ground truth became the foundation of every feature.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds planning frameworks and execution systems for schools.
+The founding story of Yashveer Labs is simple: one person saw a problem, built a solution, and refused to compromise on quality. That principle scales. The company now serves multiple schools, but the commitment to solving real problems deeply, serving every customer completely, and building with long-term integrity remains. That foundation will carry the company through whatever comes next.
 
 **About Nexli**
 
-Nexli provides dashboards and reporting tools to track strategic plan execution quarterly.
+Nexli provides dashboards and reporting tools to track strategic plan execution quarterly. Real-time KPIs for enrollment, attendance, fee collection, and compliance mean leaders see progress—and gaps—without waiting for month-end reports.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

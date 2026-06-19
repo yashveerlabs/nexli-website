@@ -347,13 +347,17 @@ Not all KPIs matter equally. Pick your top 10 that drive school success:
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Yashveer is the founder of Nexli and built the platform with real-time dashboards because he knows principals need data to lead. His vision: every principal has instant visibility into school performance—no waiting for reports, no manual spreadsheets.
+The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen—a chronically absent student, a teacher not submitting lesson plans, fees slipping—suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
 
 **About Yashveer Labs**  
-Yashveer Labs builds school ERPs with actionable data. The philosophy: what gets measured gets managed. Dashboards that are real-time, mobile-friendly, and automatically alert principals to problems.
+Yashveer Labs operates with the understanding that schools are not technology companies. They're education companies that happen to use technology. That means the technology should be intuitive, should fail gracefully, and should provide support when needed. The company invests in support, in documentation, in training—not as nice-to-haves, but as core to the product. A feature that's hard to use is a bug.
 
 **About Nexli**  
-Nexli includes 55+ modules with real-time dashboards for Student Information, Academics, Finance, HR, Operations, Communications, Safety, and Compliance. 300+ demo staff and 300 demo students show realistic data patterns. Mobile design works on 412px phones.
+Nexli's strength is that it treats child safety as foundational, not an afterthought. Direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only. POCSO complaints escalate automatically. Background verification records are tracked. That security runs through every permission, every workflow, every data field. Schools using Nexli have a system built with children in mind.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

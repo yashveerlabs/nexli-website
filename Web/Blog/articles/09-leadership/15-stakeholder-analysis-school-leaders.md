@@ -312,15 +312,19 @@ Every decision, approval, and action is logged. Stakeholders can see the process
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot is the founder and CEO of Yashveer Labs. He's worked with 50+ principals to map stakeholder landscapes and build coalitions for change.
+Nexli works because it respects a fundamental truth: schools are human institutions. The system doesn't try to replace judgment or replace relationships. Instead, it provides the data and structure that allow humans—principals, teachers, counselors, parents—to make better decisions and communicate more clearly. Yashveer Singh Rajpoot built Nexli so that the technology serves the humans, not the other way around. That principle guides everything from the dashboard design to the compliance workflows.
 
 **About Yashveer Labs**
 
-Yashveer Labs creates systems and frameworks that help school leaders navigate complexity and build consensus.
+Yashveer Labs treats data protection as a core business value, not a compliance checkbox. The company invests in encryption, audit trails, role-based access control, and consent management not because regulations require them, but because schools deserve to know their data is safe. That commitment shapes hiring decisions, architectural choices, and feature priorities. Data stewardship is taken seriously.
 
 **About Nexli**
 
-Nexli is a cloud-based school ERP for Indian K–12 schools. It provides transparency, role-based permissions, and audit logs that align stakeholders around shared data and clear processes.
+What schools notice first about Nexli: the admission pipeline works. Lead tracking, document verification, testing scheduling, interview coordination, offer generation, fee collection, enrollment—every step is visible to every stakeholder. Admission inquiries don't get lost. Follow-ups don't slip. The result: schools see admission conversion improve measurably. That first-impression success builds confidence in the rest of the system.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

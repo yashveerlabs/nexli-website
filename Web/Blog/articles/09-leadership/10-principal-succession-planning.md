@@ -324,23 +324,23 @@ Every decision (budget, hiring, discipline, approvals) is logged in Nexli. A new
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot is the founder and CEO of Yashveer Labs, a boutique software design studio focused on solving real problems for Indian schools. With 8+ years of experience in school operations and leadership development, Yashveer has helped 50+ school boards build succession plans and develop leadership pipelines that survive transitions smoothly.
+Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds software and systems that strengthen school leadership. The company specializes in creating transparent, documented workflows that make leadership transitions frictionless and knowledge loss preventable.
+Yashveer Labs operates on a principle of "configured not coded." Need to create a new approval workflow? Configure it. Need to customize report cards for your board? Configure it. Need to adjust role permissions? Configure it. The system is built so schools can adapt it to their needs without waiting for a developer. That configurability is a core architectural decision that takes longer to build but pays off in flexibility.
 
 **About Nexli**
 
-Nexli is a cloud-based school ERP for Indian K–12 schools. It provides a unified knowledge base, transparent decision logs, and role-based access that make succession planning visible and deliberate. Nexli's audit trails ensure that new leaders understand how decisions were made and can follow wisely. The system manages 55+ modules (student info, academics, finance, HR, compliance, safety), preserving institutional knowledge across leadership transitions.
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
 
 ---
 
 ## Call to Action
 
-**Ready to build a sustainable leadership pipeline?** Explore how Nexli's transparent dashboards and decision logs make succession planning deliberate and knowledge loss preventable. Start a free trial today and see how your school's institutional knowledge is preserved.
+**Ready to build a sustainable leadership pipeline?** Explore how Nexli's transparent dashboards and decision logs make succession planning deliberate and knowledge loss preventable.
 
-[Start Free Trial](https://nexli.in)
+[Book a Free Demo](/demo)
 
 ---
 
