@@ -220,15 +220,19 @@ Nexli provides a dedicated DPO dashboard:
 - **Compliance Calendar:** Reminders for annual audits, re-certifications, policy updates.
 - **Staff Training Tracker:** Record of who completed data protection training and when.
 
-## Branding Block: Why Schools Choose Nexli
+---
 
-Nexli empowers the DPO with tools to manage compliance systematically. Instead of manually tracking consents and auditing access logs, the DPO gets dashboards, alerts, and reports automatically. The role becomes manageable even for part-time DPOs.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately — it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+
+**About Yashveer Labs:** Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
+
+**How Nexli Helps:** Yashveer Labs treats data protection as a core business value, not a compliance checkbox. The company invests in encryption, audit trails, role-based access control, and consent management not because regulations require them, but because schools deserve to know their data is safe. That commitment shapes hiring decisions, architectural choices, and feature priorities. Data stewardship is taken seriously.
 
 ## Call to Action
 
 Designate a Data Protection Officer today. Assign them ownership of your school's data protection compliance. Then equip them with tools to succeed.
 
-**Ready to implement an effective DPO program?** Explore Nexli's DPO dashboard and compliance management features.
+**Ready to implement an effective DPO program?** [Book a Free Demo](/demo) and explore Nexli's DPO dashboard and compliance management features.
 
 ---
 

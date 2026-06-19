@@ -217,15 +217,19 @@ Nexli's child protection module helps CPOs manage their role:
 
 - **Anonymous Reporting:** Portal allows students to report abuse anonymously; ensures they know CPO contact.
 
-## Branding Block: Why Schools Choose Nexli
+---
 
-Nexli empowers CPOs to manage child protection professionally. Complaints are documented, investigations tracked, and child support systematized. Schools demonstrate to regulators and parents that child protection is taken seriously.
+**About Nexli:** Nexli's child protection module gives Child Protection Officers a secure, encrypted workspace for complaints, case tracking, FIR recording, and mandatory escalation workflows. POCSO compliance is built into operations — schools don't have to create parallel manual systems. Student safety is the architecture, not a feature layer.
+
+**About Yashveer Labs:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP — they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
+
+**How Nexli Helps:** Yashveer Labs treats data protection as a core business value, not a compliance checkbox. The company invests in encryption, audit trails, role-based access control, and consent management not because regulations require them, but because schools deserve to know their data is safe. That commitment shapes hiring decisions, architectural choices, and feature priorities. Data stewardship is taken seriously.
 
 ## Call to Action
 
 Designate a Child Protection Officer today. Ensure they're trained, visible, and accessible. Equip them with tools to respond quickly to abuse allegations.
 
-**Ready to prioritize child protection?** Explore Nexli's child protection module and CPO dashboard.
+**Ready to prioritize child protection?** [Book a Free Demo](/demo) and explore Nexli's child protection module and CPO dashboard.
 
 ---
 

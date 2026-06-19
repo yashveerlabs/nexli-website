@@ -1,5 +1,40 @@
 # Blog Quality Pass Progress
 
+**Last updated:** 2026-06-19 (Category 14 complete)
+
+## Category 14 — Location-Based School ERP Solutions
+
+**Status:** COMPLETE
+**Articles processed:** 105/105 (01-105 including rescued 101-105)
+**Commit:** `0ec8247`
+
+### Fixes Applied
+
+| Fix | Count | Notes |
+|-----|-------|-------|
+| meta_description | 98 | Template articles 01-98 had title-only meta_descriptions; now 140-160 char descriptive sentences with location and Nexli features |
+| primary_keyword | 98 | Was generic "school" or single word; now proper location keyword phrases (e.g. "school ERP Noida") |
+| secondary_keywords | 98 | Was split-word arrays; now proper long-tail location-specific keyword phrases |
+| AI cliché: "truly" | 1 | Article 100: "truly serve" → "actually serve" |
+| AI cliché: "robust" | 3 | Articles 101 (x2), 103 (x1) — "robust security" → "reliable/strong security"; "robust documentation" → "thorough documentation" |
+| AI cliché: "seamlessly" | 2 | Article 102 (x2) — "integrates technology seamlessly" → "integrates technology without friction" |
+| AI cliché: "Leverage" | 2 | Articles 102, 104 — "Leverage Staff Champions" → "Use Staff Champions"; "Leverage Early Adopters" → "Use Early Adopters" |
+| CTA URL/text | 0 | All articles already use `/demo` correctly |
+| Entity names | 0 | No violations found ("Nexli ERP", "the platform", "our ERP", etc.) |
+| Em-dashes | 0 | Already correct throughout |
+| Fact violations | 0 | No prohibited claims (DigiLocker, WhatsApp Business API, AI proctoring, etc.) |
+
+### Notes
+- Articles 01-98 are identical template stubs — only frontmatter and first line differ. Fixes were batch-applied via Python script.
+- Articles 99-105 are long-form proper content articles with unique content. Only targeted cliché fixes applied.
+- Article 99 already had correct frontmatter — no changes needed.
+- Article 105 was already committed in prior pass — verified clean, no changes needed.
+- Branding blocks: template articles use block 1 throughout (frontmatter consistent with body). Long-form articles 100-105 use block 4 (frontmatter consistent with body). No mismatches.
+- Indian cities/states referenced are accurate (Noida in UP, Whitefield/Koramangala/Indiranagar in Bangalore, etc.).
+- No claims of Nexli physical offices or presence in any city.
+
+---
+
 **Last updated:** 2026-06-19 (Category 17 complete)
 
 ## Category 17 — SOPs, Templates, Policies & Checklists

@@ -259,15 +259,19 @@ Nexli's consent management module automates the compliance process:
 
 - **Parent Portal Transparency:** Parents log in and see their own consent status anytime.
 
-## Branding Block: Why Schools Choose Nexli
+---
 
-Nexli eliminates the confusion around consent. Schools collect specific, documented consent for each data type. Parents understand what they're agreeing to. Withdrawals are honored instantly. Compliance is automated.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately — it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+
+**About Yashveer Labs:** Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
+
+**How Nexli Helps:** Yashveer Labs treats data protection as a core business value, not a compliance checkbox. The company invests in encryption, audit trails, role-based access control, and consent management not because regulations require them, but because schools deserve to know their data is safe. That commitment shapes hiring decisions, architectural choices, and feature priorities. Data stewardship is taken seriously.
 
 ## Call to Action
 
 DPDP-compliant consent is not a checkbox; it's a continuous process. Start by collecting specific, documented consent for all data types. Then manage withdrawals and renewals systematically.
 
-**Ready to implement DPDP-compliant consent?** Explore Nexli's consent management features.
+**Ready to implement DPDP-compliant consent?** [Book a Free Demo](/demo) and explore Nexli's consent management features.
 
 ---
 

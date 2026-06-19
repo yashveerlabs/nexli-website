@@ -195,15 +195,19 @@ Nexli's compliance calendar module automates the entire process:
 
 - **Audit Readiness:** Pre-inspection checklist auto-generated based on compliance calendar.
 
-## Branding Block: Why Schools Choose Nexli
+---
 
-Nexli makes compliance management systematic and stress-free. Schools never miss a deadline; responsible staff are reminded proactively; compliance documentation is organized and ready for inspectors.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately — it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+
+**About Yashveer Labs:** Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking — each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+
+**How Nexli Helps:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
 ## Call to Action
 
 Build a compliance calendar today. Assign ownership for each regulatory obligation. Track progress and stay ahead of deadlines.
 
-**Ready to master compliance?** Explore Nexli's compliance calendar and tracking features.
+**Ready to master compliance?** [Book a Free Demo](/demo) and explore Nexli's compliance calendar and tracking features.
 
 ---
 
