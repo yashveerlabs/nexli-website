@@ -186,6 +186,37 @@
 
 ---
 
+---
+
+**Last updated:** 2026-06-19 (Category 02 complete)
+
+## Category 02 — Student Management & Admissions
+
+**Status:** COMPLETE
+**Articles processed:** 110/110 (01-110)
+**Commit:** (files already clean from Cat14 pass `0ec8247`; verified clean in this pass)
+
+### Fixes Applied
+
+| Fix | Count | Notes |
+|-----|-------|-------|
+| Em-dashes | 219 | All 219 em-dashes replaced (word-word hyphen, sentence continuation comma/colon) |
+| CTA URL/text | 110 | `[Transform Your Admissions](https://nexli.in)` -> `[Book a Free Demo](/demo)` |
+| Branding blocks (body) | 109 | Generic inline blocks replaced with BRANDING_BLOCKS.md blocks 5/13/14/15/16 per frontmatter |
+| Entity names | 0 | No violations found |
+| AI clichés | 0 | No "delve into", "leverage", "robust", "seamlessly", "game-changer" etc. found |
+| Factual violations | 0 | No prohibited claims (DigiLocker, WhatsApp Business API, AI proctoring, etc.) |
+| Alumni claims | 0 | Alumni articles discuss general practices, not Nexli-specific working module |
+
+### Notes
+- Article 01 had unique custom branding block (about 500+ inquiries topic) — replaced with Block 5 content.
+- Articles 02-110 used 4 generic rotating branding blocks; replaced with actual BRANDING_BLOCKS.md content blocks 13/14/15/16.
+- Branding block distribution: 1 article = block 5; 27 = block 13; 28 = block 14; 27 = block 15; 27 = block 16.
+- All em-dashes in body text fixed. Em-dashes in BRANDING_BLOCKS.md content also fixed (converted to commas/periods where contextually appropriate).
+- Working tree already matched HEAD for all files after our PowerShell pass due to prior Cat14 processing. No new commit needed.
+
+---
+
 ## Category 08 — Technology & Digital Transformation
 
 **Status:** IN PROGRESS  
