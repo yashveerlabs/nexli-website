@@ -230,7 +230,7 @@ Go online-first for fee payments:
 4. **Generate payment links** (embed in invoices)
 5. **Communicate to parents** (easy to pay online)
 
-Nexli's payment gateway integration makes this seamless. **[Book a Free Demo](/demo)** and see how your school can go online-first.
+Nexli's payment gateway integration handles all of this. **[Book a Free Demo](/demo)** and see how your school can go online-first.
 
 ---
 
