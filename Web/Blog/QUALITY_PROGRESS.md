@@ -1,8 +1,45 @@
 # Blog Quality Pass Progress
 
+**Last updated:** 2026-06-19 (Category 03 complete)
+
+## Category 03 -- Academic Management & Teaching Excellence
+
+**Status:** COMPLETE
+**Articles processed:** 131/131 (01-121 + 10 unlabelled)
+**Commit:** `c222e94`
+
+### Fixes Applied
+
+| Fix | Count | Notes |
+|-----|-------|-------|
+| Em-dashes | 265 | All 265 em-dashes replaced with contextually correct punctuation (comma/colon/hyphen) |
+| AI cliche: seamlessly/seamless | 9 | -> "directly"/"direct" |
+| AI cliche: utilize | 12 | -> "use" throughout |
+| AI cliche: leverage | 1 | Article 11 branding block |
+| AI cliche: truly/really | 3 | Removed as standalone intensifiers |
+| CTA: #contact -> /demo | 24 | All 24 articles with old-style #contact links fixed |
+| CTA: added /demo | 97 | All articles now have Book a Free Demo CTA |
+| Entity: the platform | 3 | Articles 01, 02, 07 branding block sentences -> "Nexli" |
+| Factual: 30-50% stat | 77 | "30-50% improvements" removed; -> "measurable improvements" |
+| Factual: 500+ schools/50k students | 8 | Template articles: removed unverified numbers |
+| Factual: founder bio | 77 | "former school administrator" + "8+ yrs experience" + "boutique studio CEO" removed |
+| Factual: 24/7 chat support | 8 | Template articles: -> "dedicated implementation support" |
+| Factual: 15+ hrs/week savings | 8 | Template articles: claim removed |
+| Factual: "We handle migration" | 8 | -> "Yashveer Labs assists with data migration" |
+| Branding blocks frontmatter | 8 | Updated branding_block_* numbers to match actual body block text |
+
+### Notes
+- Articles 01-12 and 99-110: Full-length custom content with per-topic inline branding. Targeted fixes only.
+- Articles 13-20: Rotating BRANDING_BLOCKS.md content; frontmatter block numbers now corrected to match body.
+- Articles 21-98: Template body (generic school ops + irrelevant TC example). Unverified claims fixed. CTA appended.
+- 8 unlabelled template articles: Fixed factual stats, unverified support/migration claims, CTA text.
+- 130 files changed in single commit c222e94.
+
+---
+
 **Last updated:** 2026-06-19 (Category 04 complete)
 
-## Category 04 — Attendance, Discipline & Performance
+## Category 04 -- Attendance, Discipline & Performance
 
 **Status:** COMPLETE
 **Articles processed:** 100/100 (01-100, includes 100-using-ai-predict-chronic-absenteeism.md)
