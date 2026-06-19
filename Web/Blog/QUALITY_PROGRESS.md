@@ -1,5 +1,52 @@
 # Blog Quality Pass Progress
 
+**Last updated:** 2026-06-20 (Category 10 complete)
+
+## Category 10 — Safety, Transport, Hostel & Medical
+
+**Status:** COMPLETE
+**Articles processed:** 110/110 (01-18 skeleton, 19-37 skeleton, 38-50 new-style, 51-73 placeholder, 74-100 new-style duplicate, + 2 unnumbered legacy)
+**Commits:** `2941188` (articles 16-37), `192398d` (articles 38-50), prior session (articles 01-15, 51-73), `c0c6740` (articles 74-100 + unnumbered)
+
+### Fixes Applied
+
+| Fix | Count | Notes |
+|-----|-------|-------|
+| Frontmatter: nested→flat branding_block | 27 | Articles 74-100: `branding_block: {founder/company/nexli}` → flat `branding_block_founder/company/nexli: 8` |
+| Frontmatter: full YAML added | 22 | Articles 16-37: skeleton format with only `category: 10, order: N`; full YAML added |
+| Branding blocks: duplicate removal | 27 | Articles 74-100 had TWO branding blocks; removed short generic one, kept Block 8 content |
+| Branding blocks: Block 8 content | 40 | Articles 38-50 (single-para): replaced with Block 8 three-section format; articles 74-100 (duplicate): replaced with Block 8 |
+| Branding blocks: Block 3 content | 23 | Articles 51-73: Block 3 content applied (previous session) |
+| Nexli section: Transport/Medical/Hostel | 22 | Articles 16-37: added article-relevant Nexli module description section |
+| CTA: /demo added | 110 | All 110 articles now have `[Book a Free Demo](/demo)` |
+| Entity: "our" → "Nexli's" | 2 | Articles 38-39: "Our incident/health module" → "Nexli's incident/health module" |
+| URL: nexli.io → nexli.in | 2 | Unnumbered articles: `nexli.io` corrected to `nexli.in` |
+| Fact: "15+ hours/week" removed | 2 | Unnumbered articles: invented metric claim removed |
+| AI cliché: "robust" | 2 | Articles 45, 48: "robust" → "reliable"/"systematic" |
+| AI cliché: "truly" | 2 | Article 48: "truly" (filler) → contextual replacement |
+| Em-dashes | 22 | Articles 16-37 (skeleton articles): em-dashes in content fixed |
+
+### Article Format Types Handled
+
+| Format | Articles | Action |
+|--------|----------|--------|
+| Skeleton (order-only frontmatter) | 16-37 | Added full YAML, Nexli section, Block 8, CTA |
+| New-style (nested branding_block, single para) | 38-50 | Fixed frontmatter to flat, replaced with Block 8, added CTA |
+| Placeholder "Executive Summary" | 51-73 | Block 3 applied (previous session); no new changes |
+| New-style (nested branding_block, DUPLICATE blocks) | 74-100 | Removed duplicate, fixed frontmatter to flat, Block 8, CTA |
+| Legacy unnumbered | first-aid-training-school-staff, sick-bay-recovery-area-setup | Fixed invented metrics, nexli.io URL |
+
+### Notes
+- Articles 01-15: Already correct from prior session (Block 8 content, /demo CTA).
+- Articles 51-73: Block 3 content applied in prior session; verified no new changes needed.
+- All 110 articles confirmed to have `/demo` CTA (grep -rL returned zero matches).
+- Branding block numbering: Articles 16-50 and 74-100 use Block 8; articles 51-73 use Block 3; articles 01-15 and unnumbered use Block 20.
+- Transport GPS facts: OpenStreetMap cited, no live parent map claims.
+- Medical module facts: visit logs, health records, immunizations, allergen flags, medication inventory — all consistent with NEXLI_FACTS.md.
+- Hostel facts: block assignment, roll-call morning+night, exeat tracking — all consistent with NEXLI_FACTS.md.
+
+---
+
 **Last updated:** 2026-06-19 (Category 03 complete)
 
 ## Category 03 -- Academic Management & Teaching Excellence
