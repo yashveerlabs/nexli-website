@@ -4,6 +4,7 @@ import { EventFormPage } from './EventFormPage';
 import { EventRequestFormPage } from './EventRequestFormPage';
 import { EventDetailPage } from './EventDetailPage';
 import { StudentEventsPage } from './StudentEventsPage';
+import { PtmStaffPage, PtmRosterPage } from './PtmStaffPage';
 import '@/features/analytics/analytics.css';
 import './events.css';
 
@@ -14,6 +15,8 @@ export default function EventsRoutes() {
       <Route index element={<EventsHub />} />
       <Route path="new" element={<EventFormPage />} />
       <Route path="request" element={<EventRequestFormPage />} />
+      <Route path="ptm" element={<PtmStaffPage />} />
+      <Route path="ptm/:id" element={<PtmRosterPage />} />
       <Route path=":id" element={<EventDetailPage />} />
       <Route path=":id/edit" element={<EventFormPage />} />
       <Route path="*" element={<Navigate to="/events" replace />} />

@@ -110,15 +110,20 @@ export function EventsHub() {
           <h1 className="nx-page__title">Events &amp; Activities</h1>
           <p className="nx-page__sub">{headSub}</p>
         </div>
-        {canWrite ? (
-          <Button variant="gold" leftIcon="plus" onClick={() => navigate('/events/new')}>
-            New event
+        <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+          <Button variant="ghost" leftIcon="message" onClick={() => navigate('/events/ptm')}>
+            Parent meetings
           </Button>
-        ) : canRequest ? (
-          <Button variant="gold" leftIcon="send" onClick={() => navigate('/events/request')}>
-            Request an event
-          </Button>
-        ) : null}
+          {canWrite ? (
+            <Button variant="gold" leftIcon="plus" onClick={() => navigate('/events/new')}>
+              New event
+            </Button>
+          ) : canRequest ? (
+            <Button variant="gold" leftIcon="send" onClick={() => navigate('/events/request')}>
+              Request an event
+            </Button>
+          ) : null}
+        </div>
       </div>
 
       {isReviewer && !canWrite && <ReviewModeNote owner={ownerLabel} />}

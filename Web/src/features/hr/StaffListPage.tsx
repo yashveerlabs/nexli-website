@@ -62,8 +62,10 @@ export function StaffListPage() {
           <h1 className="nx-page__title">Human Resources</h1>
           <p className="nx-page__sub">{loading ? 'Loading…' : `${filtered.length} staff member${filtered.length === 1 ? '' : 's'}`}</p>
         </div>
-        <div style={{ display: 'flex', gap: 8 }}>
-          <Button variant="ghost" leftIcon="calendar" onClick={() => navigate('/hr/leave')}>Leave</Button>
+        <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+          <Button variant="ghost" leftIcon="calendar" onClick={() => navigate('/hr/leave')}>Staff leave</Button>
+          <Button variant="ghost" leftIcon="calendar" onClick={() => navigate('/hr/student-leave')}>Student leave</Button>
+          {canWrite && <Button variant="ghost" leftIcon="upload" onClick={() => navigate('/hr/import')}>Import</Button>}
           {canWrite && <Button variant="gold" leftIcon="user-plus" onClick={() => navigate('/hr/new')}>Add staff</Button>}
         </div>
       </div>
