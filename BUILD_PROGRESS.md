@@ -277,3 +277,20 @@ Systematic fix pass against the deduplicated **P0–P3 / Tier-0/1 launch-blocker
 - **13 per-area checkpoints** committed across 4 waves (security, legal, product, finance, data-integrity, performance, UX, infra) + 4 docs commits.
 - Every audit item was verified against current code first; confirmed-already-resolved items (e.g. `autoFillSubjects`, route code-splitting, serviceAccount gitignore, the overstated gold-contrast claim) were left untouched and noted.
 - Remaining gap is dominated by **owner-only external items** (Blaze upgrade, payment gateway, parent-notification provider, App Check key, Sentry DSN, service-account key rotation, legal review) — all captured in `docs/LAUNCH_RUNBOOK.md` and the session's "NEEDS YASHVEER" list. Self-assessed launch-readiness: **~5.3/10** (weighted across the audit's 10 dimensions), up from the audit's 2.7/10 — the remaining gap is concentrated in owner-only external items, not unwritten code.
+
+---
+
+## 2026-06-19 (cont.) — Code-ceiling push: deferred pure-code items
+
+Second remediation round — built every pure-code item consciously deferred in the first pass, to push each dimension toward its **code ceiling**. Owner decisions fixed: AI screens stay honest "Coming Soon" (not deleted); no analytics added (DPDP-friendly). Skipped (belong to the separate Nexli website): public API docs, public Privacy/ToS page, self-serve trial signup. Legal docs remain lawyer-review drafts. 6 area agents across 3 waves; **build green, tsc 0, Vitest 185/185 (was 74), rules emulator 238/0 (was 190)**. Per-area checkpoints `38a738a`…`da7f93f`.
+
+- **Performance** (`38a738a`): date-bounded `useAllAttendance` + windows in dashboards(45d)/analytics(90d)/rankings(90d)/report-card(session)/gamification(session) — removed the last all-time full-collection scans; UI captions updated for honesty. New pure `attendanceWindow` helper.
+- **Welfare** (`4436972`): per-counselor counseling scoping (`counselorUid`, leadership-sees-all) + composite index; IEP goals get append-only `progressLog[]` timeline (history no longer overwritten).
+- **Compliance/billing** (`4f02218`): UDISE+ infrastructure fields (profile/report/CSV); GST tax-invoice generation for own subscription billing (CGST/SGST/IGST split, tested; seller GSTIN = NEEDS YASHVEER); CBSE TC Appendix-V fields + printable layout (labels need legal review); extracted Firebase-free `library/fines.ts` (now unit-tested).
+- **Academics** (`7919ca4`): board-exam result CSV import (`board_results`) tab in examinations; substitute-teacher already existed → added the missing double-booking conflict-check.
+- **People** (`921b660`): staff bulk CSV import (calls existing provisioning; masked temp passwords; invite email = NEEDS YASHVEER); parent student-leave requests (`student_leave_requests`, family submit + HR approve); PTM scheduling with transactional slot-capacity booking (`ptm_meetings`/`ptm_bookings`).
+- **Rules** (`da7f93f`): explicit rules for every new collection incl. the **parent-write paths** that make leave-requests + PTM booking actually function; per-counselor counseling read rule (legacy-safe); `fee_invoices` cancel-when-paid + overpay deny. Rules emulator **238/0**.
+
+**+111 unit tests this round** (board CSV, substitute conflict, staff-import validation, leave-date, PTM capacity, GST split, fines, counseling scoping, IEP log, attendance window) → **185 total**.
+
+**Self-assessed launch-readiness: ~6.2/10** (weighted), up from 5.3. **Code ceiling ≈ 7.5/10** — the remaining ~2.5 to a perfect 10 is fundamentally external (Blaze, payment gateway, key rotation, Sentry DSN, lawyer sign-off, translators, CA validation, real customers), not unwritten code.
