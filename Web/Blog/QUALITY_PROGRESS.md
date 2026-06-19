@@ -279,6 +279,37 @@
 
 ---
 
+## Category 01 — School Admin & Operations
+
+**Status:** COMPLETE
+**Articles processed:** 119/119 (01-110 numbered + 8 unnumbered legacy)
+**Commit:** `ac97bec` — 119 files changed, 3732 insertions, 2804 deletions
+
+### Fixes Applied
+
+| Fix | Count | Notes |
+|-----|-------|-------|
+| Em-dashes | ~75+ | Body em-dashes replaced with colons, commas, periods, hyphens per context |
+| AI clichés | ~40+ | seamlessly, leverage, utilize, comprehensive, robust, Seamless Communication heading |
+| Entity names | ~75+ | Nexli ERP→Nexli, bare Yashveer→Yashveer Singh Rajpoot, informal bios replaced |
+| CTA URL/text | ~140+ | nexli.in/nexli.io→/demo; Book a Free Demo /demo section added to all articles |
+| Branding blocks | 118 | Virtually all articles had wrong/placeholder block body text; replaced with exact BRANDING_BLOCKS.md text matching frontmatter numbers |
+| Factual claims | 8 | Unverifiable "500+ schools / 50,000+ students" claims removed from 8 legacy articles |
+| Frontmatter | 25+ | Missing/split branding_block fields corrected; single branding_block:20 split into three fields |
+| SEO snippets | 35+ | Articles 76-89 and all 8 legacy articles got 2-3 sentence direct-answer opening snippets |
+| Article content | 15 | Articles 96-102 (empty stubs) written with full topic-specific content; 8 legacy clones given unique body content per topic |
+
+### Notes
+- Batch 1 (01-25): Articles already had FAQ sections; branding block headings mismatched in 18-23 (corrected).
+- Batch 2 (26-50): Articles 29-50 shared nearly identical boilerplate body; real-world examples for articles 44 and 50 made topic-specific.
+- Batch 3 (51-75): Highly templated content; opening direct-answer snippets differentiated each article.
+- Batch 4 (76-110): Articles 96-102 were empty template stubs — full content written. Blockquote branding block format converted to ## About headings.
+- Batch 5 (unnumbered legacy): All 8 articles were pure clones; topic-specific content added, 50-task checklist and role definitions written.
+- Branding block distribution: blocks 1-5 used across numbered articles per original frontmatter; Block 20 used for all 8 legacy articles.
+- No alumni module claim violations found; no exact pricing claims introduced.
+
+---
+
 ## Category 16 — School HR, Recruitment & Staff
 
 **Status:** COMPLETE  
