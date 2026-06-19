@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useState, type ReactNode } from 'react';
+import { useTranslation } from 'react-i18next';
 import { cn } from '@/lib/cn';
 import { useLockBodyScroll } from '@/lib/hooks';
 import type { NavItem } from '@/app/nav';
@@ -32,6 +33,7 @@ export function AppShell({
   appbarActions,
   children,
 }: AppShellProps) {
+  const { t } = useTranslation();
   const [drawerOpen, setDrawerOpen] = useState(false);
   const close = useCallback(() => setDrawerOpen(false), []);
   const open = useCallback(() => setDrawerOpen(true), []);
@@ -54,9 +56,9 @@ export function AppShell({
     <div className="nx-shell">
       {/* WCAG 2.4.1: first focusable element — lets keyboard/SR users jump past the
           nav straight to the page content. Visually hidden until focused. */}
-      <a href="#main" className="nx-skip-link">Skip to main content</a>
+      <a href="#main" className="nx-skip-link">{t('shell.skipToContent')}</a>
 
-      <aside className={cn('nx-aside', drawerOpen && 'open')} aria-label="Sidebar">
+      <aside className={cn('nx-aside', drawerOpen && 'open')} aria-label={t('shell.sidebar')}>
         <Sidebar
           nav={nav}
           contextChip={contextChip}

@@ -1,6 +1,8 @@
 import { useCallback, useEffect, useMemo, useState, type ReactNode } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
+import { useTranslation } from 'react-i18next';
 import { touchSchoolUsage, USAGE_HEARTBEAT_MS } from '@/lib/usage';
+import { SUPPORTED_LANGUAGES, setLanguage, type LanguageCode } from '@/lib/i18n';
 import { AppShell } from '@/app/shell';
 import { Icon } from '@/components/Icon';
 import { Avatar } from '@/components/Avatar';
@@ -37,10 +39,13 @@ export function AppLayout({ children }: { children: ReactNode }) {
   const navigate = useNavigate();
   const location = useLocation();
   const session = useSession();
+  const { t, i18n } = useTranslation();
   const { isSuperAdmin, role, member, school, schoolId, can, hasFlag, logout, delegatedModules } = session;
   const [accountOpen, setAccountOpen] = useState(false);
   const [notifOpen, setNotifOpen] = useState(false);
   const { theme, toggle: toggleTheme } = useTheme();
+  // Base language code (strip any region suffix, e.g. 'en-IN' → 'en').
+  const currentLang = (i18n.resolvedLanguage ?? i18n.language ?? 'en').split('-')[0];
 
   // Usage telemetry: refresh the tenant's last-active stamp (throttled) so the
   // Super Admin console reflects real activity. Best-effort; never blocks UX.
@@ -101,8 +106,8 @@ export function AppLayout({ children }: { children: ReactNode }) {
   const contextChip = isSuperAdmin ? (
     <div className="sb-school">
       <div className="sb-school__wrap">
-        <div className="sb-school__name">NEXLI Platform</div>
-        <div className="sb-school__meta">Super Admin Console</div>
+        <div className="sb-school__name">{t('shell.nexliPlatform')}</div>
+        <div className="sb-school__meta">{t('shell.superAdminConsole')}</div>
       </div>
     </div>
   ) : school ? (
@@ -110,7 +115,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
       <div className="sb-school__wrap">
         <div className="sb-school__name">{school.name}</div>
         <div className="sb-school__meta">
-          {school.currentAcademicYear ?? 'Academic year'}
+          {school.currentAcademicYear ?? t('shell.academicYear')}
           {school.city ? <><span className="dot" /> {school.city}</> : null}
         </div>
       </div>
@@ -119,13 +124,13 @@ export function AppLayout({ children }: { children: ReactNode }) {
 
   const appbarActions = (
     <>
-      <button type="button" className="nx-appbar__btn" aria-label="Notifications" onClick={() => setNotifOpen(true)}>
+      <button type="button" className="nx-appbar__btn" aria-label={t('shell.notifications')} onClick={() => setNotifOpen(true)}>
         <Icon name="bell" size={19} />
       </button>
       <button
         type="button"
         className="nx-appbar__btn"
-        aria-label="Account"
+        aria-label={t('shell.account')}
         onClick={() => setAccountOpen(true)}
         style={{ padding: 0 }}
       >
@@ -159,7 +164,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
       </AppShell>
 
       {/* Account sheet */}
-      <Sheet open={accountOpen} onClose={() => setAccountOpen(false)} side="right" size="sm" title="Account">
+      <Sheet open={accountOpen} onClose={() => setAccountOpen(false)} side="right" size="sm" title={t('account.title')}>
         <div className="nx-account">
           <div className="nx-account__head">
             <Avatar name={name} src={member?.photoUrl} size={52} />
@@ -172,14 +177,33 @@ export function AppLayout({ children }: { children: ReactNode }) {
           {member?.phone && <AccountRow icon="phone" label={member.phone} />}
           {school?.name && <AccountRow icon="school" label={school.name} />}
 
+          {/* Language: persisted UI language (English / हिंदी). Sits beside the theme
+              toggle as the two app-wide presentation preferences. */}
+          <div className="nx-account__row" style={{ justifyContent: 'space-between', gap: 12 }}>
+            <span>{t('account.language')}</span>
+            <div className="nx-langseg" role="group" aria-label={t('account.language')}>
+              {SUPPORTED_LANGUAGES.map((l) => (
+                <button
+                  key={l.code}
+                  type="button"
+                  className={`nx-langseg__btn${currentLang === l.code ? ' is-active' : ''}`}
+                  aria-pressed={currentLang === l.code}
+                  onClick={() => setLanguage(l.code as LanguageCode)}
+                >
+                  {l.native}
+                </button>
+              ))}
+            </div>
+          </div>
+
           {/* Appearance: dark is default; light ("outdoor") mode aids sunlight readability. */}
           <div className="nx-account__row" style={{ justifyContent: 'space-between', gap: 12 }}>
-            <span>Outdoor (light) mode</span>
+            <span>{t('account.outdoorMode')}</span>
             <Toggle
               checked={theme === 'light'}
               onChange={toggleTheme}
               size="sm"
-              aria-label="Toggle light mode"
+              aria-label={t('account.toggleLightMode')}
             />
           </div>
 
@@ -194,19 +218,23 @@ export function AppLayout({ children }: { children: ReactNode }) {
                   navigate('/settings');
                 }}
               >
-                Settings
+                {t('account.settings')}
               </Button>
             )}
             <Button variant="danger" block leftIcon="log-out" onClick={() => void logout()}>
-              Sign out
+              {t('action.signOut')}
             </Button>
           </div>
         </div>
       </Sheet>
 
       {/* Notifications sheet (in-app only until push/WhatsApp/SMS provisioned) */}
-      <Sheet open={notifOpen} onClose={() => setNotifOpen(false)} side="right" size="sm" title="Notifications">
-        <EmptyState icon="bell" title="You're all caught up" message="New alerts and circulars will show up here." />
+      <Sheet open={notifOpen} onClose={() => setNotifOpen(false)} side="right" size="sm" title={t('shell.notifications')}>
+        <EmptyState
+          icon="bell"
+          title={t('account.notificationsEmptyTitle')}
+          message={t('account.notificationsEmptyBody')}
+        />
       </Sheet>
     </>
   );

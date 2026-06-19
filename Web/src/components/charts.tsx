@@ -42,7 +42,7 @@ export function Donut({
   return (
     <div ref={ref} style={{ position: 'relative', width: size, height: size, flexShrink: 0 }}>
       <svg width={size} height={size} viewBox={`0 0 ${size} ${size}`} style={{ transform: 'rotate(-90deg)' }}>
-        <circle cx={c} cy={c} r={r} fill="none" stroke="rgba(255,255,255,0.04)" strokeWidth={stroke} />
+        <circle cx={c} cy={c} r={r} fill="none" stroke="var(--chart-track)" strokeWidth={stroke} />
         {arcs.map((a, i) => (
           <circle
             key={i}
@@ -130,7 +130,7 @@ export function Ring({
   return (
     <div ref={ref} style={{ width: size, height: size, flexShrink: 0 }}>
       <svg width={size} height={size} viewBox={`0 0 ${size} ${size}`} style={{ transform: 'rotate(-90deg)' }}>
-        <circle cx={size / 2} cy={size / 2} r={r} fill="none" stroke="rgba(255,255,255,0.06)" strokeWidth={stroke} />
+        <circle cx={size / 2} cy={size / 2} r={r} fill="none" stroke="var(--chart-track-strong)" strokeWidth={stroke} />
         <circle
           cx={size / 2}
           cy={size / 2}

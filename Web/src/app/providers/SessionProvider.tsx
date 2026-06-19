@@ -44,12 +44,14 @@ interface SessionState {
   permissions?: ResolvedPerms;
 }
 
-export interface SessionContextValue extends SessionState {
+interface SessionActions {
   can: (perm: Permission) => boolean;
   hasFlag: (key: FeatureFlagKey) => boolean;
   reload: () => Promise<void>;
   logout: () => Promise<void>;
 }
+
+export interface SessionContextValue extends SessionState, SessionActions {}
 
 const initial: SessionState = {
   status: 'loading',
@@ -61,7 +63,40 @@ const initial: SessionState = {
   delegatedModules: [],
 };
 
-const SessionContext = createContext<SessionContextValue | null>(null);
+/* -------------------------------------------------------------------------
+   INTERNAL CONTEXT SPLIT.
+   The session used to live in one ~12-field context, so EVERY change (incl.
+   the delegation listener firing on a 60s interval, or a flag refresh) gave
+   the whole object a new identity and re-rendered every consumer.
+
+   We now keep the single source-of-truth `state` + atomic update logic (so
+   behaviour is byte-for-byte the same), but expose it through four narrow,
+   independently-memoised contexts:
+     • IdentityContext  — auth/role/member/permissions (who you are)
+     • SchoolContext    — tenant doc + feature flags (where you are)
+     • DelegationContext— live temporary-access module keys (churns most)
+     • ActionsContext   — can/hasFlag/reload/logout (stable callables)
+
+   The PUBLIC surface is unchanged: `useSession()` still returns the full
+   merged shape, and `useCan`/`useFlag`/`useOwnership`/`useAudit` keep the
+   exact same signatures + return values. The win is that those narrow hooks
+   now subscribe only to the slice they read, so e.g. a delegation tick no
+   longer re-renders a component that only calls `useFlag(...)`. Components
+   that call `useSession()` still see every field (and re-render on any
+   change), preserving compatibility for the ~250 external consumers.
+   ------------------------------------------------------------------------- */
+
+type IdentitySlice = Pick<
+  SessionState,
+  'status' | 'firebaseUser' | 'uid' | 'isSuperAdmin' | 'role' | 'secondaryRole' | 'member' | 'permissions'
+>;
+type SchoolSlice = Pick<SessionState, 'schoolId' | 'school' | 'flags'>;
+type DelegationSlice = Pick<SessionState, 'delegatedModules'>;
+
+const IdentityContext = createContext<IdentitySlice | null>(null);
+const SchoolContext = createContext<SchoolSlice | null>(null);
+const DelegationContext = createContext<DelegationSlice | null>(null);
+const ActionsContext = createContext<SessionActions | null>(null);
 
 /** Resolve a signed-in user → tenant + role + flags via the /userIndex lookup. */
 async function loadProfile(user: User): Promise<Partial<SessionState>> {
@@ -159,58 +194,150 @@ export function SessionProvider({ children }: { children: ReactNode }) {
     return unsub;
   }, [state.status, state.isSuperAdmin, state.schoolId, state.uid]);
 
-  const can = useCallback(
-    (perm: Permission) => {
-      if (state.isSuperAdmin) return true;
-      const granted = state.member?.grantedPermissions ?? [];
-      const perms = state.permissions;
-      // Primary path: the data-driven permission set resolved for this session
-      // (already the union of primary + secondary role, Firestore ◀ catalogue).
-      if (perms === '*') return true;
-      if (perms) return permissionListGrants([...perms, ...granted], perm);
-      // Fallback (permissions not resolved yet): bundled role defaults.
-      if (!state.role) return false;
-      if (hasPermission(state.role, perm, granted)) return true;
-      return !!state.secondaryRole && hasPermission(state.secondaryRole, perm, granted);
-    },
-    [state.isSuperAdmin, state.role, state.secondaryRole, state.member, state.permissions],
-  );
+  // `can` reads the live state via a ref so its identity stays stable across
+  // renders (the ActionsContext never needs a new value just because state
+  // changed), while still evaluating against the latest session.
+  const stateRef = useRef(state);
+  stateRef.current = state;
 
-  const hasFlag = useCallback((key: FeatureFlagKey) => state.flags[key] ?? false, [state.flags]);
+  const can = useCallback((perm: Permission) => {
+    const s = stateRef.current;
+    if (s.isSuperAdmin) return true;
+    const granted = s.member?.grantedPermissions ?? [];
+    const perms = s.permissions;
+    // Primary path: the data-driven permission set resolved for this session
+    // (already the union of primary + secondary role, Firestore ◀ catalogue).
+    if (perms === '*') return true;
+    if (perms) return permissionListGrants([...perms, ...granted], perm);
+    // Fallback (permissions not resolved yet): bundled role defaults.
+    if (!s.role) return false;
+    if (hasPermission(s.role, perm, granted)) return true;
+    return !!s.secondaryRole && hasPermission(s.secondaryRole, perm, granted);
+  }, []);
+
+  const hasFlag = useCallback((key: FeatureFlagKey) => stateRef.current.flags[key] ?? false, []);
 
   const reload = useCallback(async () => {
     if (auth.currentUser) await applyUser(auth.currentUser);
   }, [applyUser]);
 
   const logout = useCallback(async () => {
-    if (state.uid) {
+    const s = stateRef.current;
+    if (s.uid) {
       // Await so the logout audit event is persisted before the hard reload below.
       await writeAuditEvent({
         action: 'logout',
-        schoolId: state.schoolId,
-        actor: { uid: state.uid, name: state.member?.name, role: state.role },
+        schoolId: s.schoolId,
+        actor: { uid: s.uid, name: s.member?.name, role: s.role },
       }).catch(() => {});
     }
     // Clears the Firestore IndexedDB cache (student PII / fees / medical) then reloads.
     await signOutAndClearLocalData();
-  }, [state.uid, state.schoolId, state.member, state.role]);
+  }, []);
 
-  const value = useMemo<SessionContextValue>(
-    () => ({ ...state, can, hasFlag, reload, logout }),
-    [state, can, hasFlag, reload, logout],
+  // Stable for the lifetime of the provider — all four callables have constant
+  // identity, so nothing re-renders merely because an action reference "changed".
+  const actions = useMemo<SessionActions>(
+    () => ({ can, hasFlag, reload, logout }),
+    [can, hasFlag, reload, logout],
   );
 
-  return <SessionContext.Provider value={value}>{children}</SessionContext.Provider>;
+  const identity = useMemo<IdentitySlice>(
+    () => ({
+      status: state.status,
+      firebaseUser: state.firebaseUser,
+      uid: state.uid,
+      isSuperAdmin: state.isSuperAdmin,
+      role: state.role,
+      secondaryRole: state.secondaryRole,
+      member: state.member,
+      permissions: state.permissions,
+    }),
+    [
+      state.status,
+      state.firebaseUser,
+      state.uid,
+      state.isSuperAdmin,
+      state.role,
+      state.secondaryRole,
+      state.member,
+      state.permissions,
+    ],
+  );
+
+  const school = useMemo<SchoolSlice>(
+    () => ({ schoolId: state.schoolId, school: state.school, flags: state.flags }),
+    [state.schoolId, state.school, state.flags],
+  );
+
+  const delegation = useMemo<DelegationSlice>(
+    () => ({ delegatedModules: state.delegatedModules }),
+    [state.delegatedModules],
+  );
+
+  return (
+    <ActionsContext.Provider value={actions}>
+      <IdentityContext.Provider value={identity}>
+        <SchoolContext.Provider value={school}>
+          <DelegationContext.Provider value={delegation}>{children}</DelegationContext.Provider>
+        </SchoolContext.Provider>
+      </IdentityContext.Provider>
+    </ActionsContext.Provider>
+  );
 }
 
-export function useSession(): SessionContextValue {
-  const ctx = useContext(SessionContext);
+/* ---- internal slice accessors (throw outside the provider) ---- */
+function useIdentity(): IdentitySlice {
+  const ctx = useContext(IdentityContext);
+  if (!ctx) throw new Error('useSession must be used within <SessionProvider>');
+  return ctx;
+}
+function useSchool(): SchoolSlice {
+  const ctx = useContext(SchoolContext);
+  if (!ctx) throw new Error('useSession must be used within <SessionProvider>');
+  return ctx;
+}
+function useDelegation(): DelegationSlice {
+  const ctx = useContext(DelegationContext);
+  if (!ctx) throw new Error('useSession must be used within <SessionProvider>');
+  return ctx;
+}
+function useSessionActions(): SessionActions {
+  const ctx = useContext(ActionsContext);
   if (!ctx) throw new Error('useSession must be used within <SessionProvider>');
   return ctx;
 }
 
-export const useCan = (perm: Permission): boolean => useSession().can(perm);
-export const useFlag = (key: FeatureFlagKey): boolean => useSession().hasFlag(key);
+/**
+ * Full session — the public, unchanged surface. Composes all four internal slices
+ * into the same merged object every existing consumer expects. (Subscribes to all
+ * slices, so it re-renders on any session change, exactly as before.)
+ */
+export function useSession(): SessionContextValue {
+  const identity = useIdentity();
+  const school = useSchool();
+  const delegation = useDelegation();
+  const actions = useSessionActions();
+  return useMemo<SessionContextValue>(
+    () => ({ ...identity, ...school, ...delegation, ...actions }),
+    [identity, school, delegation, actions],
+  );
+}
+
+// `useCan` / `useFlag` now read only the slices they need (identity / school
+// flags) via the stable actions, so they re-render far less than a full
+// `useSession()` — same signatures, same return values.
+export const useCan = (perm: Permission): boolean => {
+  // Depend on identity so the result re-evaluates when role/permissions change;
+  // `can` itself is stable and reads the latest state internally.
+  useIdentity();
+  return useSessionActions().can(perm);
+};
+export const useFlag = (key: FeatureFlagKey): boolean => {
+  // Depend on the flags slice so a flag refresh re-runs this.
+  useSchool();
+  return useSessionActions().hasFlag(key);
+};
 
 /**
  * Operational ownership for a module (realism layer over RBAC). Gate the primary
@@ -227,7 +354,8 @@ export function useOwnership(moduleKey: string): {
   isDelegated: boolean;
   ownerLabel: string;
 } {
-  const { role, secondaryRole, isSuperAdmin, delegatedModules } = useSession();
+  const { role, secondaryRole, isSuperAdmin } = useIdentity();
+  const { delegatedModules } = useDelegation();
   const isDelegated = delegatedModules.includes(moduleKey);
   // Multi-role: operate/review/approve if EITHER role qualifies.
   const sec = secondaryRole;
@@ -244,7 +372,8 @@ export function useOwnership(moduleKey: string): {
 
 /** Returns a session-bound audit logger: `log('student.edited', { targetId })`. */
 export function useAudit() {
-  const { uid, schoolId, member, role } = useSession();
+  const { uid, role, member } = useIdentity();
+  const { schoolId } = useSchool();
   return useCallback(
     (action: AuditAction, opts?: Omit<AuditEventInput, 'action' | 'actor' | 'schoolId'>) =>
       writeAuditEvent({

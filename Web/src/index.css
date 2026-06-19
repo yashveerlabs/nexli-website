@@ -68,6 +68,28 @@
      exists so any future lighter surface can override just the text variant
      without shifting the gold used for fills/borders/accents. */
   --gold-text: var(--gold);
+
+  /* ---------------------------------------------------------------
+     SHELL CHROME TOKENS. The app shell (sidebar/drawer, mobile app
+     bar, bottom nav, page glow) was painted with hardcoded near-black
+     hex in styles/app.css + styles/nexli.css, so it ignored the theme.
+     These tokens hold those EXACT dark values as the default, then get
+     light-mode values under :root[data-theme='light'] below. The shell
+     rule blocks farther down re-bind the relevant CSS properties to
+     these tokens for light mode only — dark stays byte-for-byte the
+     same (it falls through to the original app.css/nexli.css rules).
+     --------------------------------------------------------------- */
+  --aside-bg: linear-gradient(180deg, #0e0e0e 0%, #0a0a0a 100%);
+  --appbar-bg: rgba(10, 10, 10, 0.82);
+  --bottomnav-bg: rgba(10, 10, 10, 0.9);
+  --overlay-bg: rgba(0, 0, 0, 0.6);
+  --shell-glow: rgba(198, 165, 92, 0.05);
+  /* Solid backstop colour for the badge ring that punches through the
+     translucent app bar (was a literal #0a0a0a border). */
+  --appbar-solid: #0a0a0a;
+  /* Donut/ring chart unfilled "track" — faint white on dark. */
+  --chart-track: rgba(255, 255, 255, 0.04);
+  --chart-track-strong: rgba(255, 255, 255, 0.06);
 }
 
 /* =============================================================
@@ -111,6 +133,20 @@
   --shadow-sm: 0 1px 2px rgba(20, 18, 12, 0.08);
   --shadow-md: 0 8px 24px rgba(20, 18, 12, 0.12);
   --shadow-gold: 0 0 0 1px rgba(198, 165, 92, 0.35), 0 8px 24px rgba(198, 165, 92, 0.14);
+
+  /* Shell chrome — ivory equivalents of the dark near-black surfaces so the
+     sidebar/drawer, mobile app bar and bottom nav read correctly outdoors.
+     The sidebar gets a faint vertical wash off the page tint; the floating
+     bars stay translucent (the backdrop-blur is preserved by app.css). */
+  --aside-bg: linear-gradient(180deg, #FFFFFF 0%, #F7F4ED 100%);
+  --appbar-bg: rgba(251, 249, 243, 0.85);
+  --bottomnav-bg: rgba(251, 249, 243, 0.92);
+  --overlay-bg: rgba(20, 18, 12, 0.32);
+  --shell-glow: rgba(198, 165, 92, 0.10);
+  --appbar-solid: #FBF9F3;
+  /* Chart tracks flip to a faint ink wash so the unfilled arc stays visible. */
+  --chart-track: rgba(20, 18, 12, 0.07);
+  --chart-track-strong: rgba(20, 18, 12, 0.10);
 }
 
 /* Keep the page background in step with the theme on the document elements
@@ -186,4 +222,82 @@
     --safe-left: env(safe-area-inset-left, 0px);
     --safe-right: env(safe-area-inset-right, 0px);
   }
+}
+
+/* =============================================================
+   LIGHT-MODE SHELL CHROME OVERRIDES.
+   The shell rules in styles/app.css + styles/nexli.css hardcode
+   near-black backgrounds, so they don't follow the theme. These
+   UNLAYERED rules (kept out of @layer base on purpose, so they
+   outrank the unlayered design-system rules they target) re-bind
+   only the colour properties to the shell tokens, and ONLY when
+   data-theme='light' is set. Dark mode never matches these
+   selectors, so it renders exactly as before — pixel-identical.
+   Selector specificity (:root[...] .x = 0,2,0) also beats the
+   plain .x (0,1,0) rules in the design-system files.
+   ============================================================= */
+:root[data-theme='light'] .nx-shell {
+  background:
+    radial-gradient(ellipse 70% 50% at 12% 0%, var(--shell-glow), transparent 60%),
+    var(--bg);
+}
+:root[data-theme='light'] .nx-aside,
+:root[data-theme='light'] .sidebar {
+  background: var(--aside-bg);
+}
+:root[data-theme='light'] .nx-overlay,
+:root[data-theme='light'] .sidebar-overlay {
+  background: var(--overlay-bg);
+}
+/* "Soon" nav tag fill (decorative) — flip the white wash to an ink wash. */
+:root[data-theme='light'] .nx-navtag--soon {
+  background: rgba(20, 18, 12, 0.05);
+}
+
+/* Mobile-only floating bars: mirror app.css's phone breakpoint so we override
+   the same translucent backgrounds where they actually render. */
+@media (max-width: 767.98px) {
+  :root[data-theme='light'] .nx-appbar {
+    background: var(--appbar-bg);
+  }
+  :root[data-theme='light'] .nx-bottomnav {
+    background: var(--bottomnav-bg);
+  }
+  /* Notification-count ring on the app bar (was a literal #0a0a0a border). */
+  :root[data-theme='light'] .nx-appbar__badge {
+    border-color: var(--appbar-solid);
+  }
+}
+
+/* =============================================================
+   Language segmented control (account sheet). Token-based, so it
+   adapts to light mode automatically alongside the theme toggle.
+   ============================================================= */
+.nx-langseg {
+  display: inline-flex;
+  gap: 2px;
+  padding: 2px;
+  border: 1px solid var(--border);
+  border-radius: var(--r-sm, 8px);
+  background: var(--surface-2);
+}
+.nx-langseg__btn {
+  appearance: none;
+  border: 0;
+  cursor: pointer;
+  padding: 4px 10px;
+  border-radius: calc(var(--r-sm, 8px) - 3px);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.2;
+  color: var(--text-muted);
+  background: transparent;
+  transition: color 0.15s var(--ease, ease), background 0.15s var(--ease, ease);
+}
+.nx-langseg__btn:hover {
+  color: var(--text);
+}
+.nx-langseg__btn.is-active {
+  color: var(--gold-text);
+  background: var(--gold-glow, rgba(198, 165, 92, 0.12));
 }

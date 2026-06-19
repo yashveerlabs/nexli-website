@@ -1,3 +1,4 @@
+import { useTranslation } from 'react-i18next';
 import type { IconName } from '@/components/Icon';
 import { Panel } from '@/components/Panel';
 import { EmptyState } from '@/components/feedback';
@@ -10,6 +11,7 @@ import { Badge } from '@/components/Badge';
  * until then, so navigation is never dead.
  */
 export function ModuleStub({ title, icon = 'box', note }: { title: string; icon?: IconName; note?: string }) {
+  const { t } = useTranslation();
   return (
     <div className="nx-page">
       <div className="nx-page__head">
@@ -17,7 +19,7 @@ export function ModuleStub({ title, icon = 'box', note }: { title: string; icon?
           <h1 className="nx-page__title">{title}</h1>
           <p className="nx-page__sub">{note ?? 'This module is part of NEXLI and is being built out.'}</p>
         </div>
-        <Badge variant="warning">In build</Badge>
+        <Badge variant="warning">{t('shell.inBuild')}</Badge>
       </div>
       <Panel>
         <EmptyState

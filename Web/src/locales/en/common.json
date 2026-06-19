@@ -70,5 +70,46 @@
     "discardBody": "Your unsaved changes will be lost.",
     "deleteTitle": "Delete this record?",
     "deleteBody": "This action cannot be undone."
+  },
+  "shell": {
+    "schoolErp": "SCHOOL ERP",
+    "sidebar": "Sidebar",
+    "mainNavigation": "Main navigation",
+    "quickActions": "Quick Actions",
+    "soon": "Soon",
+    "comingSoon": "{{label}} — coming soon",
+    "skipToContent": "Skip to main content",
+    "openMenu": "Open menu",
+    "more": "More",
+    "home": "Home",
+    "notifications": "Notifications",
+    "account": "Account",
+    "superAdminConsole": "Super Admin Console",
+    "nexliPlatform": "NEXLI Platform",
+    "academicYear": "Academic year",
+    "copyright": "© 2026 NEXLI. All rights reserved.",
+    "inBuild": "In build"
+  },
+  "account": {
+    "title": "Account",
+    "outdoorMode": "Outdoor (light) mode",
+    "toggleLightMode": "Toggle light mode",
+    "language": "Language",
+    "settings": "Settings",
+    "notificationsEmptyTitle": "You're all caught up",
+    "notificationsEmptyBody": "New alerts and circulars will show up here."
+  },
+  "status": {
+    "loadingWorkspace": "Loading your workspace…",
+    "noAccessTitle": "Account not linked",
+    "noAccessBody": "You're signed in, but this account isn't connected to a school yet. Please ask your school administrator to finish setting up your access.",
+    "signedInAs": "Signed in as {{email}}",
+    "suspendedTitle": "Access paused",
+    "suspendedBody": "Your account has been temporarily suspended. If you believe this is a mistake, contact your school administrator or IT admin.",
+    "forbiddenTitle": "You don't have access to this",
+    "forbiddenBody": "Your role doesn't include this area. If you need it, ask your administrator to grant the permission.",
+    "notFoundTitle": "Page not found",
+    "notFoundBody": "The page you're looking for doesn't exist or may have moved.",
+    "backToDashboard": "Back to dashboard"
   }
 }

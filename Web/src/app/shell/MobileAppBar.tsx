@@ -1,4 +1,5 @@
 import type { ReactNode } from 'react';
+import { useTranslation } from 'react-i18next';
 import { Icon } from '@/components/Icon';
 
 export interface MobileAppBarProps {
@@ -9,9 +10,10 @@ export interface MobileAppBarProps {
 
 /** Mobile-only sticky top bar with the drawer trigger. Hidden on desktop. */
 export function MobileAppBar({ title, onMenu, actions }: MobileAppBarProps) {
+  const { t } = useTranslation();
   return (
     <header className="nx-appbar">
-      <button type="button" className="nx-appbar__btn" onClick={onMenu} aria-label="Open menu">
+      <button type="button" className="nx-appbar__btn" onClick={onMenu} aria-label={t('shell.openMenu')}>
         <Icon name="menu" size={20} />
       </button>
       <div className="nx-appbar__brand">

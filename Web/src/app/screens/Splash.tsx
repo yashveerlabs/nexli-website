@@ -1,5 +1,8 @@
+import { useTranslation } from 'react-i18next';
+
 /** Full-screen branded boot/loading state shown while the session resolves. */
-export function Splash({ message = 'Loading your workspace…' }: { message?: string }) {
+export function Splash({ message }: { message?: string }) {
+  const { t } = useTranslation();
   return (
     <div className="nx-splash" role="status" aria-live="polite">
       <div className="nx-splash__mark">
@@ -11,7 +14,7 @@ export function Splash({ message = 'Loading your workspace…' }: { message?: st
       </div>
       <div className="nx-splash__name">NEXLI</div>
       <span className="nx-splash__spin" aria-hidden="true" />
-      <div className="nx-splash__msg">{message}</div>
+      <div className="nx-splash__msg">{message ?? t('status.loadingWorkspace')}</div>
     </div>
   );
 }

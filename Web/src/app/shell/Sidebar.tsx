@@ -1,5 +1,6 @@
 import type { ReactNode } from 'react';
 import { NavLink } from 'react-router-dom';
+import { useTranslation } from 'react-i18next';
 import { cn } from '@/lib/cn';
 import { Icon, type IconName } from '@/components/Icon';
 import type { NavItem } from '@/app/nav';
@@ -20,6 +21,7 @@ export interface SidebarProps {
 
 /** Sidebar contents (used inside the desktop rail and the mobile drawer). */
 export function Sidebar({ nav, contextChip, quickActions, footer, onNavigate }: SidebarProps) {
+  const { t } = useTranslation();
   return (
     <>
       <div className="sb-logo">
@@ -32,13 +34,13 @@ export function Sidebar({ nav, contextChip, quickActions, footer, onNavigate }: 
         </div>
         <div className="sb-logo__text">
           <div className="b">NEXLI</div>
-          <div className="s">SCHOOL ERP</div>
+          <div className="s">{t('shell.schoolErp')}</div>
         </div>
       </div>
 
       {contextChip}
 
-      <nav className="sb-nav" aria-label="Main navigation">
+      <nav className="sb-nav" aria-label={t('shell.mainNavigation')}>
         {nav.map((item) =>
           item.comingSoon ? (
             // Announced-but-unbuilt: a clearly-disabled item, never a dead link.
@@ -46,11 +48,11 @@ export function Sidebar({ nav, contextChip, quickActions, footer, onNavigate }: 
               key={item.id}
               className="sb-nav__item is-soon"
               aria-disabled="true"
-              title={`${item.label} — coming soon`}
+              title={t('shell.comingSoon', { label: item.label })}
             >
               <Icon name={item.icon} size={18} />
               <span>{item.label}</span>
-              <span className="nx-navtag nx-navtag--soon">Soon</span>
+              <span className="nx-navtag nx-navtag--soon">{t('shell.soon')}</span>
             </div>
           ) : (
             <NavLink
@@ -71,7 +73,7 @@ export function Sidebar({ nav, contextChip, quickActions, footer, onNavigate }: 
       {quickActions && quickActions.length > 0 && (
         <div className="sb-quick">
           <div className="sb-quick__head">
-            <span className="t">Quick Actions</span>
+            <span className="t">{t('shell.quickActions')}</span>
           </div>
           {quickActions.map((qa, i) => (
             <button key={i} type="button" className="sb-quick__btn" onClick={qa.onClick}>
@@ -86,7 +88,7 @@ export function Sidebar({ nav, contextChip, quickActions, footer, onNavigate }: 
         <div className="sb-foot">
           {/* Pre-release version badge removed (was "NEXLI School ERP v0.1.0") —
               don't signal a beta build to end users. */}
-          <div>© 2026 NEXLI. All rights reserved.</div>
+          <div>{t('shell.copyright')}</div>
         </div>
       )}
     </>
