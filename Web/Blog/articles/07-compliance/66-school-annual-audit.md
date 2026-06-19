@@ -13,7 +13,7 @@ branding_block_company: 18
 branding_block_nexli: 18
 ---
 
-Schools operating as trusts, societies, or companies are legally required to have their accounts audited annually. This statutory audit is not optional — it is a condition of maintaining the registration that allows the school to operate. Additionally, many state governments require government-aided schools to submit audited accounts as a condition for continued grant.
+Schools operating as trusts, societies, or companies are legally required to have their accounts audited annually. This statutory audit is not optional, it is a condition of maintaining the registration that allows the school to operate. Additionally, many state governments require government-aided schools to submit audited accounts as a condition for continued grant.
 
 An annual audit verifies that the school's financial statements accurately reflect income, expenditure, and assets, and that funds (including government grants and student fees) have been used for their intended purposes.
 
@@ -83,7 +83,7 @@ Nexli's finance module maintains fee collection records, payment vouchers, salar
 
 **About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's finance module for school financial management with audit readiness in mind. Categorized transactions, reconciled fee records, and payroll integration mean audit preparation is a report generation exercise, not a data collection scramble.
 
-**How Nexli Helps:** Yashveer Labs invests in financial infrastructure because school finances are fiduciary — parents' fees, government grants, and charitable donations must be accounted for transparently. Nexli supports that accountability.
+**How Nexli Helps:** Yashveer Labs invests in financial infrastructure because school finances are fiduciary, parents' fees, government grants, and charitable donations must be accounted for transparently. Nexli supports that accountability.
 
 ---
 

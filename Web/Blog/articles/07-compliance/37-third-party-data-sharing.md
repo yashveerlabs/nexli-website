@@ -13,7 +13,7 @@ branding_block_company: 10
 branding_block_nexli: 10
 ---
 
-Every time a school shares student data with a vendor — a transport app, a payment gateway, a school management system, or an assessment platform — the school remains legally responsible for that data under DPDP Act 2023. Vendor data sharing requires due diligence and formal data processing agreements.
+Every time a school shares student data with a vendor, a transport app, a payment gateway, a school management system, or an assessment platform, the school remains legally responsible for that data under DPDP Act 2023. Vendor data sharing requires due diligence and formal data processing agreements.
 
 ## Common Third-Party Data Sharing in Schools
 
@@ -21,12 +21,12 @@ Every time a school shares student data with a vendor — a transport app, a pay
 - **Payment Gateway:** Parent names, email, phone, payment amounts.
 - **Transport App:** Student name, home address, route, photo.
 - **Assessment Platform:** Student name, grade, performance data.
-- **Government Portals:** UDISE+, CBSE portal — student enrollment data, grades.
+- **Government Portals:** UDISE+, CBSE portal, student enrollment data, grades.
 - **Background Verification Agency:** Staff documents, police records.
 
 ## What Schools Must Check Before Sharing Data
 
-1. **Is sharing necessary?** Only share what the vendor actually needs. A transport app needs the student's boarding stop — not their medical history.
+1. **Is sharing necessary?** Only share what the vendor actually needs. A transport app needs the student's boarding stop, not their medical history.
 2. **Does a Data Processing Agreement (DPA) exist?** The vendor must sign an agreement committing to: use data only for the stated purpose, protect data with adequate security, not sell or share data further, delete data when no longer needed, notify the school of any breach.
 3. **Has parent consent been obtained?** If the sharing is beyond what parents originally consented to, fresh consent is needed.
 4. **Is the vendor compliant?** Ask for their data protection policy and security certifications.
@@ -43,7 +43,7 @@ Nexli is designed as a school-first platform: student data is never used for adv
 
 ---
 
-**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately — it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 **About Yashveer Labs:** Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
 

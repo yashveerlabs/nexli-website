@@ -93,7 +93,7 @@ Reminders, follow-ups, and notifications are sent manually. Fee reminders are se
 
 ## Solutions: Seven Levers to Cut Admin Work by 50%
 
-### 1. **Centralize Data — Eliminate Fragmentation**
+### 1. **Centralize Data, Eliminate Fragmentation**
 
 **What:** Move all school data into one system where records live in one place.
 
@@ -232,7 +232,7 @@ Nexli is a cloud-based school ERP built specifically to eliminate administrative
 - **Document reminders:** "TC clearance needed from accounts department" auto-pings the accountant
 
 ### Pre-Built Templates & Auto-Population
-- **Certificates:** Transfer, Bonafide, Character, Conduct, Leaving, Migration — all print-ready with auto-populated student data, serial numbers, QR codes
+- **Certificates:** Transfer, Bonafide, Character, Conduct, Leaving, Migration, all print-ready with auto-populated student data, serial numbers, QR codes
 - **Fee receipts:** Auto-generated from payment records; digital receipt shared via WhatsApp
 - **Report cards:** Auto-populated from gradebook; CBSE 9-point format or custom grading; print-ready with ranks
 - **Bulk letters:** Mail merge for "admissions results," "fee increase notification," "exam center letter"
@@ -278,15 +278,15 @@ Based on real deployments:
 
 **About Yashveer Singh Rajpoot**
 
-Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking—each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking: each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **About Yashveer Labs**
 
-The founding principle of Yashveer Labs: technology should remove friction, not create it. Most enterprise software makes someone's job harder before it makes it easier—there's a learning curve, a setup cost, a transition period. Nexli was deliberately designed to reduce friction from day one. Teachers mark attendance faster. Principals get insight instantly. Parents get clarity on fees. That user-first design philosophy runs through everything the company builds.
+The founding principle of Yashveer Labs: technology should remove friction, not create it. Most enterprise software makes someone's job harder before it makes it easier; there's a learning curve, a setup cost, a transition period. Nexli was deliberately designed to reduce friction from day one. Teachers mark attendance faster. Principals get insight instantly. Parents get clarity on fees. That user-first design philosophy runs through everything the company builds.
 
 **About Nexli**
 
-One silent value of Nexli is that it reduces phone calls. A parent doesn't call to ask "Did my child attend today?"—they get an automatic alert when marked absent. They don't email asking about fees—they see their ledger online and can pay in seconds. A Principal doesn't need to ask the Transport Manager where the bus is—it's on the map in real-time. That communication reduction frees everyone to focus on what matters.
+One silent value of Nexli is that it reduces phone calls. A parent doesn't call to ask "Did my child attend today?"; they get an automatic alert when marked absent. They don't email asking about fees, they see their ledger online and can pay in seconds. A Principal doesn't need to ask the Transport Manager where the bus is, it's on the map in real-time. That communication reduction frees everyone to focus on what matters.
 
 ---
 

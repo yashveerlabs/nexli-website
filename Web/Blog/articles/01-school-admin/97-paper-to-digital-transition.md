@@ -1,7 +1,7 @@
 ---
 title: How Schools Can Transition from Paper to Digital Records
 slug: paper-to-digital-transition
-meta_description: A step-by-step guide for schools transitioning from paper to digital records—covering data cleaning, staff training, migration sequencing, and common pitfalls.
+meta_description: A step-by-step guide for schools transitioning from paper to digital records, covering data cleaning, staff training, migration sequencing, and common pitfalls.
 category: School Administration & Operations
 primary_keyword: digitization of school records
 secondary_keywords:
@@ -85,13 +85,13 @@ Allocate at least two weeks for data cleaning before attempting migration. For a
 
 Migrate in a sequence that matches how data flows in school operations:
 
-1. **Student master records** — Everything else references this. Get it right first.
-2. **Class and section structure** — Define the academic year structure before assigning students.
-3. **Staff records** — Required for attendance and academic module assignments.
-4. **Fee structure** — Required before migrating fee collection history.
-5. **Historical fee payments** — Import the current year's payment history.
-6. **Attendance** — Current year only; historical attendance has low operational value.
-7. **Marks and assessments** — Current year's internal assessment history.
+1. **Student master records**: Everything else references this. Get it right first.
+2. **Class and section structure**: Define the academic year structure before assigning students.
+3. **Staff records**: Required for attendance and academic module assignments.
+4. **Fee structure**: Required before migrating fee collection history.
+5. **Historical fee payments**: Import the current year's payment history.
+6. **Attendance**: Current year only; historical attendance has low operational value.
+7. **Marks and assessments**: Current year's internal assessment history.
 
 Do not attempt to migrate all data simultaneously. Each data type should be migrated, verified, and signed off before the next is imported.
 
@@ -193,7 +193,7 @@ Building Nexli required understanding something most software companies miss abo
 
 ## About Yashveer Labs
 
-Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep—it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
+Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep; it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
 
 ## About Nexli
 

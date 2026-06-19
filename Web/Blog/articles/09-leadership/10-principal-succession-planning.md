@@ -101,7 +101,7 @@ Principal announces retirement with 6 months notice. Board is caught off-guard. 
 
 1. **Interview the current principal:** What skills got them here? What do they wish they'd known? What's the hardest part of the job?
 2. **Survey your board:** What do you think a principal should be good at? (Leadership, finance, academics, operations, people)
-3. **Talk to stakeholders:** Parents, teachers, students—what do they see the principal doing well?
+3. **Talk to stakeholders:** Parents, teachers, students, what do they see the principal doing well?
 4. **List the 5 non-negotiables:** Your school's top 5 principal competencies
    - Example: "Strategic thinker, financially literate, strong people skills, academic rigor, community builder"
 5. **Document it:** Create a one-page "Principal Competency Profile"
@@ -311,7 +311,7 @@ Every decision (budget, hiring, discipline, approvals) is logged in Nexli. A new
 **Solution (implemented using Nexli):**
 
 1. **Month 1–3:** Board identified 2 internal candidates: Priya (Academic Coordinator, 12 years) and Arun (VP, 8 years)
-2. **Month 4–12:** Both underwent formal development—Priya led financial planning, Arun led strategic planning. Nexli's dashboards helped both learn to interpret data.
+2. **Month 4–12:** Both underwent formal development, Priya led financial planning, Arun led strategic planning. Nexli's dashboards helped both learn to interpret data.
 3. **Month 13–18:** Priya took more responsibility; Arun moved into community relations. Both shadowed Rajesh's decisions in Nexli (audit trails showed how approvals flowed, why decisions were made).
 4. **Month 19–24:** Priya emerged as the clear successor. Arun became her VP. Rajesh documented key relationships in Nexli's staff records.
 5. **Month 25:** Priya became principal; Rajesh stepped back; Arun supported Priya's first 6 months.

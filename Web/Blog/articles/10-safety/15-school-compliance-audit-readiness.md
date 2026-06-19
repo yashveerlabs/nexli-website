@@ -47,7 +47,7 @@ The principal doesn't know what that is.
 Principals don't know when inspections are coming. They come as surprises.
 
 **2. Unclear Requirements**
-CBSE standards, DPDP Act, POCSO guidelines—it's a lot. Which apply to your school? What's required?
+CBSE standards, DPDP Act, POCSO guidelines, it's a lot. Which apply to your school? What's required?
 
 **3. No Accountability**
 No one is assigned to "ensure compliance." It's everyone's responsibility, which means no one's.
@@ -65,7 +65,7 @@ School is reactive, not proactive. Fixes happen the day before inspection.
 ### For the School
 - **Fines:** ₹1–10 lakhs for regulatory violations
 - **Operational shutdown:** Temporary closure if safety standards not met
-- **Loss of affiliation:** Worst case—CBSE suspends or revokes affiliation
+- **Loss of affiliation:** Worst case, CBSE suspends or revokes affiliation
 - **Reputation damage:** "School failed government inspection"
 - **Enrollment loss:** Parents move students to compliant schools
 
@@ -403,15 +403,15 @@ Nexli's incident logging helps with POCSO compliance:
 
 **About Yashveer Singh Rajpoot**
 
-Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking — each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking, each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **About Yashveer Labs**
 
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 
-Nexli includes 55+ modules and 45+ Firestore collections with live security rules. The Compliance Calendar provides automated alerts for CBSE LOC, UDISE+, fire NOC, building safety, FSSAI license, EPF/ESI/TDS, GST, POSH, water testing, and lab safety. Consent management (DPDP Act), POCSO case management, and UDISE+ reporting are all built in — not optional add-ons.
+Nexli includes 55+ modules and 45+ Firestore collections with live security rules. The Compliance Calendar provides automated alerts for CBSE LOC, UDISE+, fire NOC, building safety, FSSAI license, EPF/ESI/TDS, GST, POSH, water testing, and lab safety. Consent management (DPDP Act), POCSO case management, and UDISE+ reporting are all built in, not optional add-ons.
 
 ---
 

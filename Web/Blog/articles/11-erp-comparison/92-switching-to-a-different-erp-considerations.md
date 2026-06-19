@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Switching School ERP Vendors: What to Consider Before Making the Move
 
-**Switching school ERP vendors is a significant undertaking — comparable in complexity to the original implementation, and often more difficult because the school is migrating live operational data from a system that is currently in use. Schools switch for legitimate reasons (vendor failure, product stagnation, unacceptable price increases), but the switch itself carries risk. This guide helps schools evaluate whether to switch and how to do it well.**
+**Switching school ERP vendors is a significant undertaking, comparable in complexity to the original implementation, and often more difficult because the school is migrating live operational data from a system that is currently in use. Schools switch for legitimate reasons (vendor failure, product stagnation, unacceptable price increases), but the switch itself carries risk. This guide helps schools evaluate whether to switch and how to do it well.**
 
 ---
 
@@ -111,15 +111,15 @@ A: Request this as part of the new vendor's implementation scope. A vendor exper
 A: Check your contract for data export rights. If you have a contractual right to export (which you should have negotiated), enforce it in writing. If there is no such clause, you may need to export reports manually (attendance reports, fee ledgers) or escalate through a legal channel.
 
 **Q: How do we tell staff about the switch without creating alarm?**
-A: Acknowledge the change directly: "We are changing our ERP software because [specific reason]. There will be a training period and a parallel running period to ensure the transition is smooth. The core information you work with will be the same — the interface and the tool you use will be different." Honesty reduces anxiety more than minimizing the change.
+A: Acknowledge the change directly: "We are changing our ERP software because [specific reason]. There will be a training period and a parallel running period to ensure the transition is smooth. The core information you work with will be the same, the interface and the tool you use will be different." Honesty reduces anxiety more than minimizing the change.
 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

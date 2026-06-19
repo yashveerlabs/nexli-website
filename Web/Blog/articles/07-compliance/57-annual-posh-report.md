@@ -21,7 +21,7 @@ Missing the annual report deadline is a compliance failure. Schools that do not 
 
 The POSH Act and rules specify the minimum contents of the annual report:
 
-**Number of complaints received:** Total formal complaints received by the ICC during the calendar year. If no complaints were received, this is "0" — the report is still required.
+**Number of complaints received:** Total formal complaints received by the ICC during the calendar year. If no complaints were received, this is "0", the report is still required.
 
 **Number of complaints disposed of:** Complaints for which the ICC completed its inquiry and submitted recommendations to management during the year.
 
@@ -41,7 +41,7 @@ The report is signed by:
 
 ## Who Receives the Report
 
-The Annual Report is submitted to the District Officer — the officer designated by the state government to oversee POSH compliance. This may be the District Collector, a designated women's welfare officer, or another officer depending on the state.
+The Annual Report is submitted to the District Officer, the officer designated by the state government to oversee POSH compliance. This may be the District Collector, a designated women's welfare officer, or another officer depending on the state.
 
 Schools should identify who the designated District Officer is for their area before the January 31 deadline.
 
@@ -67,7 +67,7 @@ Nexli's POSH module automatically tracks all ICC activity during the year: compl
 
 ---
 
-**About Nexli:** Nexli's POSH module tracks complaints, case timelines, training records, and generates the annual report automatically. Schools using Nexli don't scramble to compile POSH data in January — it's tracked throughout the year.
+**About Nexli:** Nexli's POSH module tracks complaints, case timelines, training records, and generates the annual report automatically. Schools using Nexli don't scramble to compile POSH data in January, it's tracked throughout the year.
 
 **About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli so annual compliance reports are a data export, not a data collection exercise. The records are maintained continuously; the report is a structured output of what the system already knows.
 

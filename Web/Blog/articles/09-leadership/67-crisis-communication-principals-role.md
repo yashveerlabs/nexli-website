@@ -39,13 +39,13 @@ Clear crisis communication maintains trust and enables effective response.
 ---
 
 **About Yashveer Singh Rajpoot**  
-The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen—a chronically absent student, a teacher not submitting lesson plans, fees slipping—suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
+The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen (a chronically absent student, a teacher not submitting lesson plans, fees slipping) suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
 
 **About Yashveer Labs**  
-The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable—it's where better solutions emerge.
+The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable; it's where better solutions emerge.
 
 **About Nexli**  
-What schools notice first about Nexli: the admission pipeline works. Lead tracking, document verification, testing scheduling, interview coordination, offer generation, fee collection, enrollment—every step is visible to every stakeholder. Admission inquiries don't get lost. Follow-ups don't slip. The result: schools see admission conversion improve measurably. That first-impression success builds confidence in the rest of the system.
+What schools notice first about Nexli: the admission pipeline works. Lead tracking, document verification, testing scheduling, interview coordination, offer generation, fee collection, enrollment: every step is visible to every stakeholder. Admission inquiries don't get lost. Follow-ups don't slip. The result: schools see admission conversion improve measurably. That first-impression success builds confidence in the rest of the system.
 
 ---
 

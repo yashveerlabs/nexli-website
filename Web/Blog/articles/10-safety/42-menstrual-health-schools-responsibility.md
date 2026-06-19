@@ -29,7 +29,7 @@ Poor menstrual hygiene practices increase UTIs, fungal infections, and reproduct
 - **Menstrual Hygiene Scheme (MHMS):** Government of India provides free sanitary pads to students in government schools
 - **CBSE Curriculum:** Health education (Classes VI-VIII) includes menstrual health topics
 - **NEP 2020:** Emphasizes health and wellness as foundational learning outcomes
-- **Period Leave Policy:** Some states allow leave; schools must create alternative—not exclusionary—policies
+- **Period Leave Policy:** Some states allow leave; schools must create alternative, not exclusionary, policies
 
 **Dignity & Destigmatization**
 Period shame is learned. When schools normalize menstruation through education and facilities, girls develop confidence and boys develop respect.
@@ -69,9 +69,9 @@ Period shame is learned. When schools normalize menstruation through education a
 
 Some states permit "period leave." If your school allows this:
 - Frame as optional, not compulsory (respects student autonomy)
-- Don't mark as "absence"—mark as "medically managed absence" or excused
+- Don't mark as "absence", mark as "medically managed absence" or excused
 - Provide option to attend school with accommodations (preferential seating, bathroom access)
-- Avoid stigmatizing—don't announce publicly why student is absent
+- Avoid stigmatizing, don't announce publicly why student is absent
 - Never exclude from exams, sports, or special events
 
 Better approach: **Zero-barrier attendance**
@@ -142,7 +142,7 @@ Better approach: **Zero-barrier attendance**
 - Offer choice: sanitary pads and/or reusable cloth pads
 
 **Inventory Management**
-- Track stock, expiry dates (pads do expire—adhesive weakens)
+- Track stock, expiry dates (pads do expire, adhesive weakens)
 - Refill dispensers weekly or as-needed
 - Maintain buffer supply (don't run out)
 - Collect usage data (helps with budgeting)
@@ -182,10 +182,10 @@ After 6 months: attendance during "expected menstrual days" remained stable. Gir
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows — no code changes required. The system adapts to the school, not the other way around.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**  
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**  
 Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.

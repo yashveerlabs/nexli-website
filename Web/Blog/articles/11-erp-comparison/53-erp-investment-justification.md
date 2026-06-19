@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Justifying School ERP Investment to the Management Committee
 
-**Getting ERP investment approved requires making the case to people who control the budget — school trustees, management committee members, or a managing director. These stakeholders care about financial return, risk management, and operational improvement. They do not care about feature lists. The investment case must be framed in their terms.**
+**Getting ERP investment approved requires making the case to people who control the budget, school trustees, management committee members, or a managing director. These stakeholders care about financial return, risk management, and operational improvement. They do not care about feature lists. The investment case must be framed in their terms.**
 
 ---
 
@@ -81,13 +81,13 @@ A fee collection error, attendance record dispute, or data breach affects parent
 ## Component 3: Expected Return
 
 **Time savings converted to value:**
-The hours recovered from manual processes can be directed to higher-value activities — student support, parent engagement, curriculum improvement. Quantify: "We estimate recovering 150+ staff-hours per month across the team — equivalent to one full-time admin staff member's time."
+The hours recovered from manual processes can be directed to higher-value activities, student support, parent engagement, curriculum improvement. Quantify: "We estimate recovering 150+ staff-hours per month across the team, equivalent to one full-time admin staff member's time."
 
 **Fee collection improvement:**
 "Our current collection rate is 82%. Industry-typical improvement from automated reminders and online payment is 3-7 percentage points. At 85% collection on our ₹75 lakh annual fee base, this is ₹2.25 lakh in additional annual collection."
 
 **Compliance cost avoidance:**
-"CBSE LOC preparation currently takes our exam team 5 days. ERP reduces this to 4-8 hours. At ₹800/day, this saves ₹3,200 per cycle × 2 cycles = ₹6,400 per year — small, but it frees exam team capacity."
+"CBSE LOC preparation currently takes our exam team 5 days. ERP reduces this to 4-8 hours. At ₹800/day, this saves ₹3,200 per cycle × 2 cycles = ₹6,400 per year, small, but it frees exam team capacity."
 
 ---
 
@@ -97,13 +97,13 @@ The hours recovered from manual processes can be directed to higher-value activi
 "The ERP is designed for non-technical staff. Attendance marking is a single tap per student on a mobile device. Training takes 2-3 hours per role. Most schools see stable adoption within 6-8 weeks. We will run the old system in parallel for the first month as a safety net."
 
 **"We tried software before and it did not work"**
-"The previous implementation failed because [specific reason — poor training, wrong vendor, unclear adoption strategy]. We have addressed this by [specific actions — choosing a vendor with strong implementation support, designating a school champion, starting at the beginning of the academic year]."
+"The previous implementation failed because [specific reason, poor training, wrong vendor, unclear adoption strategy]. We have addressed this by [specific actions, choosing a vendor with strong implementation support, designating a school champion, starting at the beginning of the academic year]."
 
 **"What if the vendor closes down?"**
 "Our data is ours. The contract includes data export provisions. If the vendor closes, we export all student and financial records in standard formats. Cloud data is more portable than paper records."
 
 **"This is a budget we do not have"**
-"The fee collection improvement alone is expected to recover [Rs. amount] per year — [X]× the cost of the subscription. The payback period is less than 12 months."
+"The fee collection improvement alone is expected to recover [Rs. amount] per year, [X]× the cost of the subscription. The payback period is less than 12 months."
 
 ---
 
@@ -119,7 +119,7 @@ A: If committee members are willing to sit through a focused 30-minute demo, yes
 A: A phased approach (one module, one term) is possible. It is slower to achieve full ROI but reduces perceived risk. Ensure the pilot scope is large enough to show genuine results (attendance for all classes, not just two sections).
 
 **Q: How do we handle the concern that ERP is too expensive for smaller schools?**
-A: Calculate per-student cost: a ₹1 lakh/year ERP for a 400-student school is ₹250/student/year — less than one textbook. Frame it as per-student rather than total cost.
+A: Calculate per-student cost: a ₹1 lakh/year ERP for a 400-student school is ₹250/student/year, less than one textbook. Frame it as per-student rather than total cost.
 
 **Q: What approval process is typical?**
 A: For most school trusts, committee approval is needed for capital expenditure. Subscription software is often treated as recurring operating expense. Understand which budget category applies to avoid procedural delays.
@@ -127,10 +127,10 @@ A: For most school trusts, committee approval is needed for capital expenditure.
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

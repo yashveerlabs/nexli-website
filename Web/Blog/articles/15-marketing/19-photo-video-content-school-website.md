@@ -41,7 +41,7 @@ Yet most school websites have blurry photos taken on phones. Or worse: no photos
 Most schools rely on candid phone photos: blurry, poorly lit, amateur. Prospective parents see it and think: "If the website looks this rough, what's the campus like?"
 
 ### 2. **No Video at All**
-Schools describe campus tours, events, student life—but have zero video. Families want to see, not read. Video on your website is expected now. Absence signals outdatedness.
+Schools describe campus tours, events, student life, but have zero video. Families want to see, not read. Video on your website is expected now. Absence signals outdatedness.
 
 ### 3. **Irrelevant or Generic Content**
 Photos of old events from 3 years ago. Videotaped assembly with bad audio. Nobody cares. You need fresh, diverse content showing real campus life now.

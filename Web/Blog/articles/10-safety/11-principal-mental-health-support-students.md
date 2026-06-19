@@ -393,15 +393,15 @@ When certain thresholds are crossed (attendance drops 10%, grades drop significa
 
 **About Yashveer Singh Rajpoot**
 
-Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP — they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
+Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP, they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds software that protects student wellbeing. The company specializes in creating systems for early detection, support coordination, and crisis response in schools. Every feature is built on the belief that a feature that's hard to use is a bug — simplicity and depth together.
+Yashveer Labs builds software that protects student wellbeing. The company specializes in creating systems for early detection, support coordination, and crisis response in schools. Every feature is built on the belief that a feature that's hard to use is a bug, simplicity and depth together.
 
 **About Nexli**
 
-Nexli includes 55+ modules covering student info, academics, compliance, safety, and communication. The counselling workspace provides confidential session notes, at-risk flagging, and behavioral tracking — accessible only to authorized roles. Combined with the at-risk student dashboard for principals, Nexli gives schools the visibility to detect struggles early.
+Nexli includes 55+ modules covering student info, academics, compliance, safety, and communication. The counselling workspace provides confidential session notes, at-risk flagging, and behavioral tracking, accessible only to authorized roles. Combined with the at-risk student dashboard for principals, Nexli gives schools the visibility to detect struggles early.
 
 ---
 

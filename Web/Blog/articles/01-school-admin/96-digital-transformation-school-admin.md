@@ -1,7 +1,7 @@
 ---
 title: Digital Transformation Roadmap for School Administration
 slug: digital-transformation-school-admin
-meta_description: A practical digital transformation roadmap for school administration—covering change management, phased rollout, staff adoption, and how Nexli supports every step.
+meta_description: A practical digital transformation roadmap for school administration, covering change management, phased rollout, staff adoption, and how Nexli supports every step.
 category: School Administration & Operations
 primary_keyword: digital transformation school administration
 secondary_keywords:
@@ -95,7 +95,7 @@ Once all modules are live, the work shifts to ensuring the system becomes the de
 
 ## Change Management Principles That Drive Adoption
 
-**Communicate the "why" before the "how."** Staff who understand that the system reduces their own workload—not just the Principal's visibility—are more likely to adopt it willingly.
+**Communicate the "why" before the "how."** Staff who understand that the system reduces their own workload, not just the Principal's visibility, are more likely to adopt it willingly.
 
 **Train in small groups on real tasks.** Generic training sessions where staff watch a demo rarely produce adoption. Training that has a teacher mark actual attendance for their actual class produces competence.
 
@@ -180,7 +180,7 @@ Building Nexli required understanding something most software companies miss abo
 
 ## About Yashveer Labs
 
-Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep—it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
+Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep; it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
 
 ## About Nexli
 

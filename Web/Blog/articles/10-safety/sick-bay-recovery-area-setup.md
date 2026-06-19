@@ -61,7 +61,7 @@ Without addressing these operational issues, schools face:
 ## Solutions
 
 ### 1. Implement Integrated Technology
-Deploy a comprehensive school management system that connects all departments—academics, finance, HR, and operations—for real-time data visibility.
+Deploy a comprehensive school management system that connects all departments, academics, finance, HR, and operations, for real-time data visibility.
 
 ### 2. Automate Repetitive Tasks
 Use automation for routine processes like attendance marking, fee reminders, report generation, and communication to free staff for strategic work.

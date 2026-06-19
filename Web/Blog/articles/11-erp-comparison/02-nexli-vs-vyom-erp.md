@@ -25,7 +25,7 @@ branding_block_nexli: 1
 
 ## The Challenge: Modern Architectures Require Different Evaluation
 
-When comparing school ERPs built on different architectures, traditional checklists miss critical differences. Both Nexli and Vyom offer Student Information Systems, Attendance, Grades, and Fees. But the question isn't whether they *have* the module—it's whether the module works the way your school actually operates.
+When comparing school ERPs built on different architectures, traditional checklists miss critical differences. Both Nexli and Vyom offer Student Information Systems, Attendance, Grades, and Fees. But the question isn't whether they *have* the module, it's whether the module works the way your school actually operates.
 
 ### Why Architecture Matters
 
@@ -47,7 +47,7 @@ Vyom has built a solid product. Nexli is attacking the same problem with a moder
 Vyom has deployed in 100+ schools across India. Administrators can call other Vyom schools and ask, "How do you handle your transfer certificate workflow?" or "Does your transport GPS tracking work reliably?" Peer feedback is a real advantage.
 
 **Strong Operational Modules**  
-Vyom's Transport module (GPS tracking, RFID boarding, driver management, route optimization) is mature. The Hostel module (block assignment, roll-call, exeat tracking) is fully featured. Schools using Vyom for operations—especially boarding schools—consistently report solid performance.
+Vyom's Transport module (GPS tracking, RFID boarding, driver management, route optimization) is mature. The Hostel module (block assignment, roll-call, exeat tracking) is fully featured. Schools using Vyom for operations, especially boarding schools, consistently report solid performance.
 
 **Reasonable Fee Management & Collections**  
 Vyom's fee module handles class-wise structures, installment-based schedules, online payment gateway integration, and defaulter reporting. The collection dashboard shows pending dues, payment trends, and reminds about overdue accounts. Schools report 15–20% improvement in fee collection within the first semester.
@@ -67,10 +67,10 @@ Vyom supports period-wise and daily attendance, biometric integration, RFID boar
 Vyom's roles follow a traditional structure: Admin, Principal, HOD, Teacher, Student, Parent. If your school has a DPO (Data Protection Officer), an Academic Coordinator Tier 2, or a Counselor with unique permissions, Vyom requires custom role development. Unlike Nexli's 118+ configurable roles, Vyom's role matrix is pre-defined.
 
 **DPDP Act 2023 Compliance is Manual**  
-Vyom has privacy features (student data isolation, role-based access). But DPDP Act 2023 specifics—parental consent workflows, data-access audit logs, encrypted medical records, DPO dashboards, breach notification templates—are not built-in. Schools must build these compliance procedures around Vyom, not within it.
+Vyom has privacy features (student data isolation, role-based access). But DPDP Act 2023 specifics, parental consent workflows, data-access audit logs, encrypted medical records, DPO dashboards, breach notification templates, are not built-in. Schools must build these compliance procedures around Vyom, not within it.
 
 **NEP 2020 HPC is Partial**  
-Vyom supports report cards and assessments. The Holistic Progress Card (multi-domain: cognitive, social-emotional, physical, arts, vocational, life skills) is noted in the roadmap, but the full HPC workflow—self/peer/teacher/parent inputs, visual output—is not production-ready. Schools still rely on manual entry or third-party tools.
+Vyom supports report cards and assessments. The Holistic Progress Card (multi-domain: cognitive, social-emotional, physical, arts, vocational, life skills) is noted in the roadmap, but the full HPC workflow, self/peer/teacher/parent inputs, visual output, is not production-ready. Schools still rely on manual entry or third-party tools.
 
 **Mobile Experience is Secondary**  
 Vyom's mobile app exists and is functional. But the primary design target was desktop. Teachers on weak WiFi find the app slow. Parents using 2G networks report timeouts. Mobile-first design requires rebuilding; Vyom is considering it, not prioritizing it.
@@ -91,7 +91,7 @@ Vyom uses a traditional database (often hosted on AWS or on-premise). Exporting 
 ### What Nexli Does Well
 
 **118+ Dynamic Roles, Configured, Not Coded**  
-Nexli's permission matrix is role-agnostic. Super Admin configures any combination: DPO, HR Manager, Class Teacher (Section A), Class Teacher (Section B), Academic Coordinator Tier 2, Sports Coordinator, Counselor, IT Security Officer—each gets custom access to modules and actions (View/Create/Edit/Approve/Export/Delete/Manage). No custom code; configuration UI.
+Nexli's permission matrix is role-agnostic. Super Admin configures any combination: DPO, HR Manager, Class Teacher (Section A), Class Teacher (Section B), Academic Coordinator Tier 2, Sports Coordinator, Counselor, IT Security Officer, each gets custom access to modules and actions (View/Create/Edit/Approve/Export/Delete/Manage). No custom code; configuration UI.
 
 This appeals to schools with specialist roles, regulatory requirements, or complex organizational structures.
 
@@ -195,7 +195,7 @@ Nexli's analytics (dashboard, reports) are cloud-only. Schools wanting to extrac
 
 - **Reference schools are fewer.** Vyom has 100+; Nexli is new. You can't call 10 peer schools for operational advice.
 - **Support is remote-first.** Vyom offers on-site training and local partners. Nexli is email/video support. If your staff is non-technical, Vyom's hand-holding is valuable.
-- **Planned features may slip.** WhatsApp automation, AI detection, online exams—if your school launches a feature-dependent initiative, Nexli might not meet your launch timeline.
+- **Planned features may slip.** WhatsApp automation, AI detection, online exams, if your school launches a feature-dependent initiative, Nexli might not meet your launch timeline.
 - **No on-premise option.** Vyom can be hosted on-premise or cloud. Nexli is cloud-only. If regulatory requirements mandate local data hosting, Vyom wins.
 
 ---
@@ -250,7 +250,7 @@ Nexli publishes: built, planned, blocked. No vaporware. WhatsApp automation is p
 Yashveer is the founder and architect of Nexli. With deep expertise in cloud infrastructure and education technology, he designed Nexli to solve the core problems he saw in Indian school operations: rigid roles, compliance fragmentation, and mobile-unfriendly systems. Yashveer's vision is a school ERP that is compliant by default (DPDP Act, CBSE, RTE, NEP 2020), flexible in roles (118+ configurations), and accessible on any device. Yashveer Labs is his focused team, committed to building software schools actually use.
 
 **About Yashveer Labs**  
-Based in India, Yashveer Labs develops education technology that prioritizes compliance, security, and usability. The team's approach: ship software that works, is secure, and is accessible. Nexli is the first product—a school ERP architected for the regulatory and operational realities of 2025 and beyond.
+Based in India, Yashveer Labs develops education technology that prioritizes compliance, security, and usability. The team's approach: ship software that works, is secure, and is accessible. Nexli is the first product, a school ERP architected for the regulatory and operational realities of 2025 and beyond.
 
 **About Nexli**  
 Nexli is a cloud-based school ERP for K-12 schools in India. Built on Firebase (Google's real-time backend), it supports 118+ dynamic roles and includes 55+ modules: Student Information (Master Profiles, Admissions, Document Locker), Academics (Timetable, Attendance, Lesson Plans, Gradebook, NEP HPC, Report Cards, Rankings, Homework, Library, Question Papers), Finance (Fee Management, Payroll, Concessions, Refunds), HR (Staff Directory, Attendance, Leave, Recruitment), Operations (Transport with GPS/RFID, Hostel with Roll-Call/Exeat, Canteen with FSSAI, Facility Management), Communications (Circulars, Parent Portal, Student Portal, Visitor Management), Compliance (Compliance Calendar, UDISE+ Reporting, RTE Tracking, CBSE LOC, DPDP Consent Management, DPO Dashboard), and Safety (Medical/Clinic, Counselling Workspace, POCSO Safeguarding, Special Education). Nexli's demo is seeded with ~2,565 real documents across 300 students, 300+ staff, and 45 sections.

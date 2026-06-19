@@ -19,7 +19,7 @@ branding_block_nexli: 8
 
 ## Physical Security for Schools: Access Control and Perimeter Protection
 
-**Physical security is the first line of defense against unauthorized access, theft, and harm. Without it, anyone can walk into your school—and that's a risk you can't take. This guide walks you through building a secure perimeter, managing access points, controlling visitor flow, and maintaining security protocols that don't feel like a prison but keep your campus safe. The goal: a school where students and staff feel secure, parents trust the environment, and threats are minimized.**
+**Physical security is the first line of defense against unauthorized access, theft, and harm. Without it, anyone can walk into your school, and that's a risk you can't take. This guide walks you through building a secure perimeter, managing access points, controlling visitor flow, and maintaining security protocols that don't feel like a prison but keep your campus safe. The goal: a school where students and staff feel secure, parents trust the environment, and threats are minimized.**
 
 ---
 
@@ -54,7 +54,7 @@ This creates risk: thefts, fights, unauthorized entry, and in worst cases, child
 - Install 6–8 foot fencing around the entire campus (prevents easy entry)
 - Check regularly for gaps, breaks, or damage
 - No vegetation growing over fence (reduces climbing access)
-- Clear line of sight—trim branches that block view from road
+- Clear line of sight, trim branches that block view from road
 
 **Gates:**
 - Main gate: Solid, lockable, attended during school hours
@@ -69,7 +69,7 @@ This creates risk: thefts, fights, unauthorized entry, and in worst cases, child
 - Backup power (if power cuts, cameras still record via battery)
 
 **Signage:**
-- "School in Session—No Entry" signs visible from road
+- "School in Session, No Entry" signs visible from road
 - "Property Protected by CCTV" signs visible
 - Clear markings of authorized entry/exit points
 
@@ -185,7 +185,7 @@ This creates risk: thefts, fights, unauthorized entry, and in worst cases, child
 - Incident response: If something suspicious observed, immediate response
 - Recording: Continuous 24/7 to hard drive or cloud backup
 - Retention: Minimum 30 days of footage (for incident investigation)
-- Maintenance: Monthly checks—cameras clean, no blind spots, recording working
+- Maintenance: Monthly checks, cameras clean, no blind spots, recording working
 
 **Security Personnel:**
 - Security guard or gate keeper: Present during school hours
@@ -245,7 +245,7 @@ This creates risk: thefts, fights, unauthorized entry, and in worst cases, child
 - Report: Generate monthly visitor log for review
 
 **Communication:**
-- Alert circulars: "Security update—new procedures" broadcast to staff/parents
+- Alert circulars: "Security update, new procedures" broadcast to staff/parents
 - Incident logs: Document security incidents centrally
 
 **Staff Directory:**
@@ -257,10 +257,10 @@ This creates risk: thefts, fights, unauthorized entry, and in worst cases, child
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows—no code changes required. The system adapts to the school, not the other way around.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, with no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**  
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails—these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails: these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**  
 Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
@@ -289,7 +289,7 @@ A: Varies. Fencing: ₹1–3 L. CCTV system: ₹50K–2L. Gate infrastructure: �
 A: Not mandatory, but helpful. At minimum, a gate keeper (staff member or hired) manages access. For larger schools or high-risk areas, a trained security guard is recommended.
 
 **Q4: How do we balance security with school feel?**  
-A: Don't overdo it. Secure doesn't mean militaristic. Open grounds, accessible teachers, friendly staff—all compatible with controlled access and monitoring. Focus on preventing bad actors, not restricting good people.
+A: Don't overdo it. Secure doesn't mean militaristic. Open grounds, accessible teachers, friendly staff, all compatible with controlled access and monitoring. Focus on preventing bad actors, not restricting good people.
 
 **Q5: What if a parent disagrees with security protocols?**  
 A: Explain the "why" with empathy. "We want your child safe. These protocols protect all students." Most parents appreciate security when explained well.

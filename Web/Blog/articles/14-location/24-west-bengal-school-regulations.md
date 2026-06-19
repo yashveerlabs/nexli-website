@@ -1,10 +1,10 @@
 ---
 title: "West Bengal School Regulations"
 slug: "west-bengal-school-regulations"
-meta_description: "West Bengal School Regulations"
+meta_description: "West Bengal school regulations and ERP compliance: WBCHSE requirements, CBSE affiliate norms, RTE obligations, and state-specific education rules."
 category: 14
-primary_keyword: "west"
-secondary_keywords: ["bengal", "school", "regulations", "school"]
+primary_keyword: "West Bengal school regulations ERP"
+secondary_keywords: ["West Bengal school compliance", "WBCHSE school ERP", "school regulation compliance Bengal", "West Bengal CBSE school requirements"]
 intent: "buyer-guide"
 author: "Yashveer Labs"
 founder: "Yashveer Singh Rajpoot"
@@ -60,7 +60,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,7 +93,7 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools, different boards, diverse student populations, complex compliance.
 
 **About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
 

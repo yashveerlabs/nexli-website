@@ -28,7 +28,7 @@ At minimum, logs should record:
 
 The DPO should review audit logs:
 - **Monthly:** Check for any access outside normal hours or by unexpected staff.
-- **Quarterly:** Identify trends — are access patterns consistent with staff roles?
+- **Quarterly:** Identify trends, are access patterns consistent with staff roles?
 - **After incidents:** Pull logs immediately if a breach is suspected.
 
 ## Red Flags in Audit Logs
@@ -54,7 +54,7 @@ Nexli logs every access to student records automatically: staff name, role, reco
 
 ---
 
-**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately — it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 **About Yashveer Labs:** Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
 

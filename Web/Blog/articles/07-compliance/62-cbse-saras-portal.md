@@ -23,7 +23,7 @@ Schools without an active SARAS account or with outdated information on the port
 
 **Affiliation renewal:** Schools with provisional or regular affiliation renew through SARAS. Renewal deadlines and fee structures are managed through the portal.
 
-**Document management:** All compliance documents — NOC from state government, building safety certificates, land documents, fire safety certificates, staff qualification records — are uploaded to SARAS.
+**Document management:** All compliance documents, NOC from state government, building safety certificates, land documents, fire safety certificates, staff qualification records, are uploaded to SARAS.
 
 **Inspection scheduling:** CBSE inspection requests are submitted through SARAS. The school receives inspection notices through the portal.
 

@@ -15,7 +15,7 @@ branding_block_nexli: 18
 
 When a student or parent files a complaint about abuse, harassment, or misconduct, the school's first obligation is to protect the complainant. Confidentiality is not a courtesy; it is a legal requirement under POCSO (for child abuse) and POSH (for workplace sexual harassment), and a basic condition for creating an environment where complaints are made at all.
 
-Schools that fail to maintain confidentiality — through gossip, visible investigation activity, or inadvertent disclosure — deter future complaints and potentially cause additional harm to the complainant.
+Schools that fail to maintain confidentiality, through gossip, visible investigation activity, or inadvertent disclosure, deter future complaints and potentially cause additional harm to the complainant.
 
 ## What Confidentiality Means in Practice
 
@@ -24,7 +24,7 @@ Confidentiality means the identity of the complainant and the details of the com
 - The Principal (for coordination)
 - Police (for POCSO cases where reporting is mandatory)
 
-Everyone else — other teachers, other staff, other parents, other students — should not receive information about the complaint. This includes not revealing that a complaint has been filed at all.
+Everyone else, other teachers, other staff, other parents, other students, should not receive information about the complaint. This includes not revealing that a complaint has been filed at all.
 
 ## Common Confidentiality Failures
 
@@ -82,9 +82,9 @@ Nexli's complaint intake system assigns a case ID to each complaint, restricts a
 
 **About Nexli:** Nexli's child protection module is built for confidentiality: encrypted case files, access-restricted records, anonymous intake, and audit trails. POCSO and POSH compliance is built into operations.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's complaint systems with write-only case logs — once an entry is made, it cannot be edited or deleted by staff. This protects both the complainant and the school's integrity. Records that cannot be tampered with are records that hold up under scrutiny.
+**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's complaint systems with write-only case logs, once an entry is made, it cannot be edited or deleted by staff. This protects both the complainant and the school's integrity. Records that cannot be tampered with are records that hold up under scrutiny.
 
-**How Nexli Helps:** Yashveer Labs takes the structural protection of complainants seriously. The system's architecture — access controls, encryption, audit trails — is designed so confidentiality is maintained by default, not by relying on individual staff discretion.
+**How Nexli Helps:** Yashveer Labs takes the structural protection of complainants seriously. The system's architecture, access controls, encryption, audit trails, is designed so confidentiality is maintained by default, not by relying on individual staff discretion.
 
 ---
 

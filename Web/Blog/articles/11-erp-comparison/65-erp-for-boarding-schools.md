@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## ERP for Boarding Schools: What Residential Schools Need That Day Schools Do Not
 
-**Boarding schools manage more than academics and fees. Residential students live at school full-time — eating, sleeping, studying, and spending their formative years in the school's physical care. This creates operational, compliance, and welfare requirements that day school ERP systems were not designed for. An ERP built for day schools will handle a boarding school's academic and fee needs but will leave significant operational gaps.**
+**Boarding schools manage more than academics and fees. Residential students live at school full-time, eating, sleeping, studying, and spending their formative years in the school's physical care. This creates operational, compliance, and welfare requirements that day school ERP systems were not designed for. An ERP built for day schools will handle a boarding school's academic and fee needs but will leave significant operational gaps.**
 
 ---
 
@@ -29,11 +29,11 @@ date: "2026-06-19"
 
 A day school's duty of care ends when the student leaves at 3 PM. A boarding school's duty of care is 24 hours a day, 7 days a week, for the full academic year. This continuous duty creates:
 
-**Residential tracking needs:** The school must know where every student is at all times — in class, in their hostel room, on weekend leave, in the sick bay.
+**Residential tracking needs:** The school must know where every student is at all times, in class, in their hostel room, on weekend leave, in the sick bay.
 
-**Welfare monitoring:** Meal attendance, physical and mental health monitoring, welfare checks, counseling records — these do not exist in day school ERP.
+**Welfare monitoring:** Meal attendance, physical and mental health monitoring, welfare checks, counseling records, these do not exist in day school ERP.
 
-**Disciplinary records:** Conduct incidents, punishment records, appeals processes — formal record-keeping for residential disciplinary matters.
+**Disciplinary records:** Conduct incidents, punishment records, appeals processes, formal record-keeping for residential disciplinary matters.
 
 **POCSO compliance:** With minors living under the school's direct care, POCSO compliance is more urgent and more operationally demanding than for day schools.
 
@@ -51,7 +51,7 @@ A day school's duty of care ends when the student leaves at 3 PM. A boarding sch
 
 ### Exeat and Leave Management
 
-**Weekend leave (exeat):** Formal process — parents apply, warden approves, student is released to specified guardian. Return check-in is recorded. Students not returned on time are flagged.
+**Weekend leave (exeat):** Formal process, parents apply, warden approves, student is released to specified guardian. Return check-in is recorded. Students not returned on time are flagged.
 
 **Medical leave:** Student sent home for illness, with dates of departure and expected return.
 
@@ -63,7 +63,7 @@ A day school's duty of care ends when the student leaves at 3 PM. A boarding sch
 
 **Counseling records:** Private counseling session logs. Accessible only to the counselor and authorized mental health staff.
 
-**Physical welfare checks:** Regular health screenings, dental checks, vision checks — records maintained for each student annually.
+**Physical welfare checks:** Regular health screenings, dental checks, vision checks, records maintained for each student annually.
 
 ### Disciplinary Records
 
@@ -97,7 +97,7 @@ Most day school ERPs:
 - Have POCSO compliance as a checkbox, not a workflow
 - Do not support 24-hour roll call processes
 
-A boarding school using a day school ERP must maintain all residential records separately — exactly the fragmentation problem ERP is supposed to solve.
+A boarding school using a day school ERP must maintain all residential records separately, exactly the fragmentation problem ERP is supposed to solve.
 
 ---
 
@@ -119,7 +119,7 @@ A: Boarding parents typically have more urgency around real-time information tha
 A: Beneficial but not essential. Manual check-in/check-out records in the ERP are sufficient for most boarding schools. Integration with access control (RFID gate systems) automates the record.
 
 **Q: How is counseling record privacy handled?**
-A: Counseling records should be accessible only to the counselor and authorized mental health staff — not visible to the principal, HODs, or class teachers without explicit permission. This is a role-based access control requirement.
+A: Counseling records should be accessible only to the counselor and authorized mental health staff, not visible to the principal, HODs, or class teachers without explicit permission. This is a role-based access control requirement.
 
 **Q: What POCSO documentation must a boarding school maintain?**
 A: Staff background verification, ICC constitution with member names, annual training completion records, any incident reports and their disposition. These records should be maintained in the ERP with access limited to the designated POCSO officer.
@@ -127,10 +127,10 @@ A: Staff background verification, ICC constitution with member names, annual tra
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

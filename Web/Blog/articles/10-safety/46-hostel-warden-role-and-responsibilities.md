@@ -15,12 +15,12 @@ branding_block_nexli: 8
 
 # Hostel Warden: Role and Responsibilities
 
-The hostel warden is a boarding school's backbone—part parent, part disciplinarian, part counselor, part administrator. 24/7 responsibility for 50-100 students' safety, wellness, and development. This guide defines the warden role, establishes accountability, and creates sustainable responsibility frameworks.
+The hostel warden is a boarding school's backbone, part parent, part disciplinarian, part counselor, part administrator. 24/7 responsibility for 50-100 students' safety, wellness, and development. This guide defines the warden role, establishes accountability, and creates sustainable responsibility frameworks.
 
 ## Why the Warden Role Is Critical
 
 **The 24/7 Responsibility**
-Unlike day school staff, hostel wardens are in loco parentis—acting as parents. When students are ill at midnight, homesick at 6 PM, injured during midnight snacks, the warden is first responder. This role shapes entire hostel culture.
+Unlike day school staff, hostel wardens are in loco parentis, acting as parents. When students are ill at midnight, homesick at 6 PM, injured during midnight snacks, the warden is first responder. This role shapes entire hostel culture.
 
 **Legal Liability**
 Schools are liable for student welfare during hostel hours. Negligent warden supervision leading to injury, abuse, or death exposes school to civil suits and criminal charges. Clear role definition protects students and staff.
@@ -226,10 +226,10 @@ By October, Rahul adjusted. Remained in hostel through year, excelled academical
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows — no code changes required. The system adapts to the school, not the other way around.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**  
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**  
 Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.

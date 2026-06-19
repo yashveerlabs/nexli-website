@@ -29,7 +29,7 @@ Both are mandatory.
 
 ## What General Staff Training Must Cover
 
-**Definition of sexual harassment:** Employees must understand what the Act defines as sexual harassment — physical conduct, verbal conduct, and non-verbal conduct that is sexual in nature and unwelcome.
+**Definition of sexual harassment:** Employees must understand what the Act defines as sexual harassment, physical conduct, verbal conduct, and non-verbal conduct that is sexual in nature and unwelcome.
 
 **The ICC and how it works:** Who the ICC members are, where to find them, and how to file a complaint.
 

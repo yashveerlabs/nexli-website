@@ -13,7 +13,7 @@ branding_block_company: 10
 branding_block_nexli: 10
 ---
 
-The Data Protection Officer (DPO) is the person responsible for ensuring a school's DPDP Act compliance. For most schools, this is not a new hire — it is an existing staff member (office manager, IT head, or senior administrator) formally designated with defined responsibilities.
+The Data Protection Officer (DPO) is the person responsible for ensuring a school's DPDP Act compliance. For most schools, this is not a new hire, it is an existing staff member (office manager, IT head, or senior administrator) formally designated with defined responsibilities.
 
 ## DPO Core Responsibilities
 
@@ -45,13 +45,13 @@ Per incident: 10-20 additional hours.
 
 ## How Nexli Helps
 
-Nexli's DPO dashboard provides consent registry, access audit logs, breach alert notifications, and compliance calendar reminders — reducing DPO time requirement significantly.
+Nexli's DPO dashboard provides consent registry, access audit logs, breach alert notifications, and compliance calendar reminders, reducing DPO time requirement significantly.
 
 [Book a Free Demo](/demo) to see Nexli's compliance management in action.
 
 ---
 
-**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately — it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 **About Yashveer Labs:** Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
 
@@ -68,7 +68,7 @@ A: DPDP Act does not mandate a DPO for all organizations, but designating one is
 
 **Q: Can the school principal be the DPO?**
 
-A: Yes, for small schools. The principal should then have dedicated time allocated — DPO responsibilities cannot be treated as a minor add-on to the principal role.
+A: Yes, for small schools. The principal should then have dedicated time allocated, DPO responsibilities cannot be treated as a minor add-on to the principal role.
 
 **Q: What qualifications does a DPO need?**
 

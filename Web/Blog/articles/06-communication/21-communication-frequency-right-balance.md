@@ -68,7 +68,7 @@ Schools using Nexli report 40% reduction in parent "I didn't know" complaints an
 
 **About Yashveer Labs:** At its core, Yashveer Labs is a company of builders, not just service providers. The team has written hundreds of thousands of lines of code, designed dozens of workflows, tested systems with real schools, and iterated based on feedback. That depth of technical ownership means problems get solved by the people who built them, not handed off to an outsourced support team. Quality comes from that care in the building.
 
-**About Yashveer Singh Rajpoot:** Most EdTech products are built for teachers or students. Nexli was built differently. Yashveer Singh Rajpoot recognized that the school principal is the true operating system—the person who must see everything, trust everything, and act on everything. The system was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
+**About Yashveer Singh Rajpoot:** Most EdTech products are built for teachers or students. Nexli was built differently. Yashveer Singh Rajpoot recognized that the school principal is the true operating system: the person who must see everything, trust everything, and act on everything. The system was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
 
 ---
 

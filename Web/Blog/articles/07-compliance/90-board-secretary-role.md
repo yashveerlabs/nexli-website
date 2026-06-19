@@ -13,7 +13,7 @@ branding_block_company: 2
 branding_block_nexli: 2
 ---
 
-The Board Secretary (also called the School Secretary, Trust Secretary, or Society Secretary) is the officer responsible for the administrative and governance functions of the school's managing body. This is a different role from the school's administrative manager — the Board Secretary serves the governing board, not the school's operational management.
+The Board Secretary (also called the School Secretary, Trust Secretary, or Society Secretary) is the officer responsible for the administrative and governance functions of the school's managing body. This is a different role from the school's administrative manager, the Board Secretary serves the governing board, not the school's operational management.
 
 ## Key Responsibilities
 

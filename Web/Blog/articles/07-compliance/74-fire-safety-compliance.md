@@ -15,7 +15,7 @@ branding_block_nexli: 6
 
 Fire safety compliance for schools involves multiple overlapping requirements: a Fire No Objection Certificate (NOC) from the state Fire Services, annual maintenance of fire-fighting equipment, fire drills, and compliance with building fire safety norms. CBSE affiliation requires a current fire safety certificate.
 
-A school fire emergency is an extreme risk due to the number of children in a confined space. Fire safety compliance is not bureaucratic — it is directly connected to student safety.
+A school fire emergency is an extreme risk due to the number of children in a confined space. Fire safety compliance is not bureaucratic, it is directly connected to student safety.
 
 ## Fire NOC: What It Is and Who Issues It
 
@@ -70,7 +70,7 @@ All staff must know:
 - Location and operation of nearest fire extinguisher
 - Which fire exit they and their class should use
 - Assembly point location
-- Who calls the fire services (one designated person — not everyone)
+- Who calls the fire services (one designated person, not everyone)
 - First steps on discovering a fire: activate alarm, evacuate, call 101
 
 ## CBSE Fire Safety Requirement
@@ -92,7 +92,7 @@ Nexli's compliance calendar tracks fire NOC expiry dates, fire equipment AMC ren
 
 **About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's compliance tracking because fire safety certificates and equipment maintenance are exactly the kind of compliance that lapses when managed by calendar reminders alone. System-level tracking with automatic alerts is more reliable.
 
-**How Nexli Helps:** Yashveer Labs invests in compliance infrastructure because fire safety is genuinely life-critical. The same system that tracks student attendance tracks fire safety compliance — both are continuous obligations, not annual events.
+**How Nexli Helps:** Yashveer Labs invests in compliance infrastructure because fire safety is genuinely life-critical. The same system that tracks student attendance tracks fire safety compliance, both are continuous obligations, not annual events.
 
 ---
 

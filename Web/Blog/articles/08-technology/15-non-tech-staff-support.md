@@ -42,13 +42,13 @@ Tailor the starting point of training to where each person actually is, not wher
 
 ## Simplified Interfaces Reduce Overwhelm
 
-One of the most effective support mechanisms for non-tech staff is not training at all — it is ensuring they only see the parts of the ERP relevant to their job.
+One of the most effective support mechanisms for non-tech staff is not training at all, it is ensuring they only see the parts of the ERP relevant to their job.
 
 A fee collection clerk does not need to see the HR module, the timetable module, or the library system. If she opens the ERP and sees 12 menu items when her job requires 3, she is immediately overwhelmed and will call for help for tasks she could otherwise handle herself.
 
 Work with your ERP vendor to configure role-based access so that each non-tech staff member's dashboard shows only their modules. An accounts clerk's landing page should show: today's fee collection, pending invoices, and the fee report. Nothing else.
 
-This is not about restricting access — it is about reducing visual noise for users who are still building confidence.
+This is not about restricting access, it is about reducing visual noise for users who are still building confidence.
 
 ## Printed Quick-Reference Guides
 
@@ -69,7 +69,7 @@ A printed, laminated quick-reference guide is one of the most effective low-cost
 4. How to record a cash payment and print the receipt.
 5. How to record a UPI payment and verify the transaction.
 
-That's it. When the fee clerk needs to generate the monthly outstanding report, the quick guide doesn't cover it — she calls the change champion. The guide handles 80% of her daily work without any help needed.
+That's it. When the fee clerk needs to generate the monthly outstanding report, the quick guide doesn't cover it, she calls the change champion. The guide handles 80% of her daily work without any help needed.
 
 ## The Buddy System
 
@@ -77,7 +77,7 @@ Pair each non-tech staff member with a buddy: a colleague who is slightly more t
 
 The buddy relationship is informal but structured:
 - The buddy is available for "quick questions" during working hours.
-- The buddy does not do the work for the non-tech staff member — they sit alongside and explain.
+- The buddy does not do the work for the non-tech staff member, they sit alongside and explain.
 - The buddy relationship typically runs for 6-8 weeks until the non-tech staff member is handling daily tasks independently.
 
 Choose buddies carefully. The best buddy is someone in the same department (an accounts buddy for accounts staff, a senior teacher as a buddy for a junior teacher), not necessarily the most technical person in the school. Proximity matters: a buddy who sits 5 meters away is more useful than a technically expert colleague on another floor.
@@ -90,7 +90,7 @@ Standard 90-minute group training sessions may not be enough for genuinely non-t
 
 **Slow-paced walkthrough:** Non-tech users often need the same process explained 3-4 times before it becomes comfortable. Avoid showing impatience. The third explanation takes 5 minutes; a staff member who never learns the system properly costs far more.
 
-**Relate to familiar experiences:** Connect ERP tasks to things the staff member already does. "Generating an invoice in the ERP is like filling out a fee receipt, except the system fills in the amounts for you and the number is automatic." "Searching for a student works like searching in Google — type the name, tap the student's name in the results."
+**Relate to familiar experiences:** Connect ERP tasks to things the staff member already does. "Generating an invoice in the ERP is like filling out a fee receipt, except the system fills in the amounts for you and the number is automatic." "Searching for a student works like searching in Google, type the name, tap the student's name in the results."
 
 ## What to Do When Non-Tech Staff Are Stuck
 

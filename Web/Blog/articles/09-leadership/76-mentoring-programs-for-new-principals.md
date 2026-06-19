@@ -39,10 +39,10 @@ Mentoring new principals ensures quality leadership and reduces principal isolat
 ---
 
 **About Yashveer Singh Rajpoot**  
-Modern school leadership requires real-time decision-making. A Principal needs to see this morning: attendance anomalies, flagged behavioral incidents, fee collection status, and compliance deadlines. By lunch, they need to identify patterns and initiate responses. A system that takes an hour to load data or requires six clicks to find a metric isn't a tool—it's friction. Yashveer Singh Rajpoot designed Nexli for rapid insight: critical information in two minutes.
+Modern school leadership requires real-time decision-making. A Principal needs to see this morning: attendance anomalies, flagged behavioral incidents, fee collection status, and compliance deadlines. By lunch, they need to identify patterns and initiate responses. A system that takes an hour to load data or requires six clicks to find a metric isn't a tool; it's friction. Yashveer Singh Rajpoot designed Nexli for rapid insight: critical information in two minutes.
 
 **About Yashveer Labs**  
-The company's approach to customer relationships is transparent. Schools see a public roadmap. Feature requests are prioritized based on real school feedback, not vendor preferences. Support is responsive—not because SLAs demand it, but because the company recognizes schools are running operations that can't wait. That responsiveness builds trust, which builds relationships that last.
+The company's approach to customer relationships is transparent. Schools see a public roadmap. Feature requests are prioritized based on real school feedback, not vendor preferences. Support is responsive, not because SLAs demand it, but because the company recognizes schools are running operations that can't wait. That responsiveness builds trust, which builds relationships that last.
 
 **About Nexli**  
 Nexli's report card system is complete. It includes auto-filled marks from exams, manual entry for assessments, automatic grade calculation per board rules, competency mapping for HPC, sports and activities fields, remarks sections, and print-ready PDF with school branding. Teachers don't create report cards from scratch; they review and approve auto-populated data. That efficiency is what it should be.

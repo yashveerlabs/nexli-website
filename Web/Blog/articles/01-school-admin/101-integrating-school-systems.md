@@ -23,7 +23,7 @@ Many schools run separate software for fees, a different tool for attendance, an
 
 ## The Data Silo Problem in Schools
 
-A school with three separate systems—fee software, attendance register, and gradebook—has three separate data stores. When a parent calls asking why their child was marked absent despite being present, the admin staff must check the attendance system. When the same parent asks whether their fee was received, the admin staff must switch to the fee system. When the parent asks about their child's term marks, a third system. Three conversations, three systems, no connection.
+A school with three separate systems, fee software, attendance register, and gradebook, has three separate data stores. When a parent calls asking why their child was marked absent despite being present, the admin staff must check the attendance system. When the same parent asks whether their fee was received, the admin staff must switch to the fee system. When the parent asks about their child's term marks, a third system. Three conversations, three systems, no connection.
 
 This fragmentation creates concrete operational problems:
 
@@ -39,7 +39,7 @@ This fragmentation creates concrete operational problems:
 
 ## What Integration Actually Means
 
-Integration is frequently overstated in software vendor claims. "Integrates with everything" often means "can export a CSV that another system can import"—which is not integration. Genuine integration means:
+Integration is frequently overstated in software vendor claims. "Integrates with everything" often means "can export a CSV that another system can import", which is not integration. Genuine integration means:
 
 **Shared student master record.** There is one student record that all modules read from. When the student's section is changed, it updates everywhere automatically.
 
@@ -49,7 +49,7 @@ Integration is frequently overstated in software vendor claims. "Integrates with
 
 **Unified reporting.** A report that combines attendance, fee status, and academic performance can be generated from one system without manual data reconciliation.
 
-True integration is achieved most reliably by a single, unified system where all modules share a common database—not by connecting separate systems through APIs that may break or lag.
+True integration is achieved most reliably by a single, unified system where all modules share a common database, not by connecting separate systems through APIs that may break or lag.
 
 ---
 
@@ -174,7 +174,7 @@ Building Nexli required understanding something most software companies miss abo
 
 ## About Yashveer Labs
 
-Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep—it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
+Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep; it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
 
 ## About Nexli
 

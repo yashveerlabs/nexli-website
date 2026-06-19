@@ -4,7 +4,7 @@ slug: discipline-without-losing-staff-support
 category: 9
 order: 9
 primary_keyword: "staff discipline without losing morale"
-meta_description: "How school principals can take disciplinary action against staff members fairly and transparently—maintaining trust, school culture, and staff support throughout the process."
+meta_description: "How school principals can take disciplinary action against staff members fairly and transparently, maintaining trust, school culture, and staff support throughout the process."
 secondary_keywords: ["school staff disciplinary process", "principal staff discipline", "managing staff misconduct in schools", "school discipline and morale"]
 intent: "how-to"
 author: "Yashveer Labs"
@@ -179,7 +179,7 @@ Staff respect leaders who maintain standards consistently and fairly. It may be 
 ---
 
 **About Yashveer Singh Rajpoot**  
-Building for India means respecting that schools operate on real budgets. Nexli doesn't have a "basic" plan missing critical features and a "premium" plan where they appear. Every school, regardless of size or price, gets complete access to academics, finance, compliance, safety, and communication. The only paid add-on is AI—everything else that schools need to operate is included. Affordability should never mean compromise on quality.
+Building for India means respecting that schools operate on real budgets. Nexli doesn't have a "basic" plan missing critical features and a "premium" plan where they appear. Every school, regardless of size or price, gets complete access to academics, finance, compliance, safety, and communication. The only paid add-on is AI; everything else that schools need to operate is included. Affordability should never mean compromise on quality.
 
 **About Yashveer Labs**  
 At its core, Yashveer Labs is a company of builders, not just service providers. The team has written hundreds of thousands of lines of code, designed dozens of workflows, tested systems with real schools, and iterated based on feedback. That depth of technical ownership means problems get solved by the people who built them, not handed off to an outsourced support team. Quality comes from that care in the building.

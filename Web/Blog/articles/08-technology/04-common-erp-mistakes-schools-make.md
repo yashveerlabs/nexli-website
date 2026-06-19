@@ -79,7 +79,7 @@ When staff can't figure something out, they should have internal help before cal
 
 Nexli's implementation approach includes role-based onboarding paths, so teachers see only teacher-relevant training content and accounts staff see only finance workflows. The 118+ role permission matrix means staff only ever see the modules that apply to their job, reducing confusion from day one.
 
-Nexli's data import tools accept standard spreadsheet formats with validation checks that flag errors before data is committed — catching the date format inconsistencies and missing fields that cause post-migration headaches.
+Nexli's data import tools accept standard spreadsheet formats with validation checks that flag errors before data is committed, catching the date format inconsistencies and missing fields that cause post-migration headaches.
 
 [Book a Free Demo](/demo)
 

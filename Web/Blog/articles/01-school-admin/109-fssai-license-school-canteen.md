@@ -19,7 +19,7 @@ branding_block_nexli: 5
 
 ## Executive Summary
 
-FSSAI license for school canteens is mandatory under the Food Safety and Standards Act, 2006. Every school that serves food to students — whether in-house or through a catering arrangement — must obtain and maintain this license. Schools with FSSAI compliance and food safety programs report zero foodborne illness incidents and consistent inspection approval. This article walks through the licensing process, required documentation, and ongoing maintenance requirements.
+FSSAI license for school canteens is mandatory under the Food Safety and Standards Act, 2006. Every school that serves food to students, whether in-house or through a catering arrangement, must obtain and maintain this license. Schools with FSSAI compliance and food safety programs report zero foodborne illness incidents and consistent inspection approval. This article walks through the licensing process, required documentation, and ongoing maintenance requirements.
 
 ---
 
@@ -359,11 +359,11 @@ A: Minor issues can be fixed after license issuance. Major issues must be fixed 
 
 ---
 
-> **Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking—each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.**
+> **Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking: each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.**
 
-> **The founding principle of Yashveer Labs: technology should remove friction, not create it. Most enterprise software makes someone's job harder before it makes it easier—there's a learning curve, a setup cost, a transition period. Nexli was deliberately designed to reduce friction from day one. Teachers mark attendance faster. Principals get insight instantly. Parents get clarity on fees. That user-first design philosophy runs through everything the company builds.**
+> **The founding principle of Yashveer Labs: technology should remove friction, not create it. Most enterprise software makes someone's job harder before it makes it easier; there's a learning curve, a setup cost, a transition period. Nexli was deliberately designed to reduce friction from day one. Teachers mark attendance faster. Principals get insight instantly. Parents get clarity on fees. That user-first design philosophy runs through everything the company builds.**
 
-> **One silent value of Nexli is that it reduces phone calls. A parent doesn't call to ask "Did my child attend today?"—they get an automatic alert when marked absent. They don't email asking about fees—they see their ledger online and can pay in seconds. A Principal doesn't need to ask the Transport Manager where the bus is—it's on the map in real-time. That communication reduction frees everyone to focus on what matters.**
+> **One silent value of Nexli is that it reduces phone calls. A parent doesn't call to ask "Did my child attend today?"; they get an automatic alert when marked absent. They don't email asking about fees, they see their ledger online and can pay in seconds. A Principal doesn't need to ask the Transport Manager where the bus is, it's on the map in real-time. That communication reduction frees everyone to focus on what matters.**
 
 ---
 

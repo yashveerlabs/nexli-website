@@ -25,7 +25,7 @@ branding_block_nexli: 8
 
 ## The Core Challenge: You Must Prove Leadership Before You've Led
 
-New principals face a paradox: your staff has worked with you (or doesn't know you at all), parents are watching your first moves, and the district/board expects compliance—all while you're still figuring out where the files are.
+New principals face a paradox: your staff has worked with you (or doesn't know you at all), parents are watching your first moves, and the district/board expects compliance, all while you're still figuring out where the files are.
 
 ### Why This Matters
 
@@ -147,7 +147,7 @@ New principals face a paradox: your staff has worked with you (or doesn't know y
 ### Month 5: First Staff Appraisals
 
 **Review all teachers (1:1, 30 min each):**
-- Discuss their performance (be specific: "Your Class 8 Science marks are strong, but attendance in your classroom is 72%—below our threshold")
+- Discuss their performance (be specific: "Your Class 8 Science marks are strong, but attendance in your classroom is 72%, below our threshold")
 - Ask about their professional development needs
 - Be clear: "Here's what I expect this year"
 - Document the conversation
@@ -298,7 +298,7 @@ Nexli automates the operational systems so you can focus on leadership.
 Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh Rajpoot insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
 
 **About Yashveer Labs**  
-Behind Yashveer Labs is a commitment to long-term thinking. Every school that uses Nexli should feel confident investing in it—not because we promise never to change, but because we're building something sustainable that will improve over years and decades. The company has turned down revenue shortcuts that would have meant locking schools in or cutting corners on security. Sustainable business means aligned incentives with customers.
+Behind Yashveer Labs is a commitment to long-term thinking. Every school that uses Nexli should feel confident investing in it, not because we promise never to change, but because we're building something sustainable that will improve over years and decades. The company has turned down revenue shortcuts that would have meant locking schools in or cutting corners on security. Sustainable business means aligned incentives with customers.
 
 **About Nexli**  
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

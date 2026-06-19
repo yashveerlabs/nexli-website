@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Backup and Disaster Recovery in School ERP
 
-**School data accumulated over years — student records, marks histories, fee ledgers, staff records — cannot be recreated if lost. Backup and disaster recovery are not IT niceties; they are critical safeguards for the school's operational continuity. This guide explains what to look for and what to ask vendors.**
+**School data accumulated over years, student records, marks histories, fee ledgers, staff records, cannot be recreated if lost. Backup and disaster recovery are not IT niceties; they are critical safeguards for the school's operational continuity. This guide explains what to look for and what to ask vendors.**
 
 ---
 
@@ -55,7 +55,7 @@ For cloud-based ERPs, backup is typically handled by the infrastructure provider
 
 **Firebase (Firestore):** Supports scheduled daily exports to Google Cloud Storage. Point-in-time recovery available (roll back to any state within the last 7 days). Data is stored across multiple geographic regions.
 
-**AWS:** Similar capabilities — automated snapshots, cross-region replication, point-in-time recovery.
+**AWS:** Similar capabilities, automated snapshots, cross-region replication, point-in-time recovery.
 
 **What to ask cloud ERP vendors:**
 - "What backup frequency do you run? Daily? Hourly?"
@@ -120,10 +120,10 @@ A: Schedule a quarterly restoration test. Ask the vendor to demonstrate restorin
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

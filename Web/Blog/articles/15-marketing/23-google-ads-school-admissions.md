@@ -44,7 +44,7 @@ Schools assume organic search is enough. Meanwhile, competitors are buying top p
 Ads running on low budgets. No keyword optimization. No landing page optimization. Money spent but no conversions.
 
 ### 3. **Broad Targeting**
-Your ad shows to people searching "educational games" or "online tuition"—not people looking to enroll in your school. Wasted budget.
+Your ad shows to people searching "educational games" or "online tuition", not people looking to enroll in your school. Wasted budget.
 
 ### 4. **Bad Landing Pages**
 Ad clicks to homepage, not a dedicated admissions page. Users have to hunt for the application. 70% abandon before finding it.

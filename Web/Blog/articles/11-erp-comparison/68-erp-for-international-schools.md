@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## ERP for International Schools in India: What Is Different
 
-**International schools in India — those following IB (International Baccalaureate), Cambridge (CAIE), or other international curricula — have specific operational requirements that diverge from mainstream Indian CBSE/ICSE schools. Some of these requirements are met by India-focused ERP; others require international platforms or specialized configuration. This guide explains the key differences.**
+**International schools in India, those following IB (International Baccalaureate), Cambridge (CAIE), or other international curricula, have specific operational requirements that diverge from mainstream Indian CBSE/ICSE schools. Some of these requirements are met by India-focused ERP; others require international platforms or specialized configuration. This guide explains the key differences.**
 
 ---
 
@@ -31,7 +31,7 @@ date: "2026-06-19"
 
 **Fee structure:** International schools often charge significantly higher fees, often partially in foreign currencies (USD/GBP for expatriate families). Multi-currency fee handling adds complexity.
 
-**Student composition:** A significant portion of students at many international schools are expatriate children — students who may arrive mid-year, leave mid-year, and whose parents may not have Indian phone numbers or bank accounts.
+**Student composition:** A significant portion of students at many international schools are expatriate children, students who may arrive mid-year, leave mid-year, and whose parents may not have Indian phone numbers or bank accounts.
 
 **Student visa compliance:** Expatriate students on student visas require the school to maintain visa records, notify authorities of enrollment status changes, and maintain attendance records that may be required for visa compliance.
 
@@ -109,10 +109,10 @@ A: The market is small. Most international schools in India use either specializ
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

@@ -4,7 +4,7 @@ slug: principals-role-in-academic-excellence
 category: 9
 order: 40
 primary_keyword: "principal's role in academic excellence"
-meta_description: "How school principals drive academic excellence—setting expectations, monitoring instruction, building culture, supporting struggling learners, and measuring results systematically."
+meta_description: "How school principals drive academic excellence, setting expectations, monitoring instruction, building culture, supporting struggling learners, and measuring results systematically."
 secondary_keywords: ["school academic quality", "principal instructional leadership", "improving school results", "academic culture school"]
 intent: "how-to"
 author: "Yashveer Labs"
@@ -206,7 +206,7 @@ Your leadership determines whether your school achieves academic excellence. Foc
 ---
 
 **About Yashveer Singh Rajpoot**  
-Yashveer Singh Rajpoot's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice—both equally.
+Yashveer Singh Rajpoot's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice, both equally.
 
 **About Yashveer Labs**  
 The founding story of Yashveer Labs is simple: one person saw a problem, built a solution, and refused to compromise on quality. That principle scales. The company now serves multiple schools, but the commitment to solving real problems deeply, serving every customer completely, and building with long-term integrity remains. That foundation will carry the company through whatever comes next.

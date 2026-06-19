@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Attendance Module Comparison: What Your School ERP Must Do
 
-**Attendance is the most frequently used module in any school ERP. Teachers mark it every day, parents check it every week, and the principal reviews it every month. A weak attendance module creates more work than it saves — slow loading, confusing UI, or missing features force staff to maintain parallel paper registers. This guide explains what the attendance module of a school ERP must do.**
+**Attendance is the most frequently used module in any school ERP. Teachers mark it every day, parents check it every week, and the principal reviews it every month. A weak attendance module creates more work than it saves, slow loading, confusing UI, or missing features force staff to maintain parallel paper registers. This guide explains what the attendance module of a school ERP must do.**
 
 ---
 
@@ -66,7 +66,7 @@ CBSE mandates 75% minimum attendance per subject for eligibility for board exams
 - Send automated alerts to parents when a student crosses the at-risk threshold
 - Generate a list of students at risk per class, available to the Principal and HOD
 
-Without automated threshold tracking, the HOD manually calculates percentages at the end of each term — a slow, error-prone process.
+Without automated threshold tracking, the HOD manually calculates percentages at the end of each term, a slow, error-prone process.
 
 ### 3. Mobile-Optimized Marking Interface
 
@@ -110,7 +110,7 @@ Annual school data submissions to UDISE+ require attendance statistics. The ERP 
 
 ## Optional But Valuable Features
 
-**Bus attendance:** RFID or manual marking of students boarding the school bus — feeds transport module and generates parent alerts ("Your child has boarded the bus").
+**Bus attendance:** RFID or manual marking of students boarding the school bus, feeds transport module and generates parent alerts ("Your child has boarded the bus").
 
 **Hostel roll-call integration:** Morning and night roll-call in the hostel linked to the main attendance system. Hostel absentees trigger alerts to the warden.
 
@@ -126,7 +126,7 @@ The mobile interface is tested on Galaxy S20 (412px) and supports offline markin
 
 Nexli's attendance data feeds directly into UDISE+ annual export, analytics dashboards, and the at-risk student list visible to counselors and HODs.
 
-Demo data includes 1,350 attendance records across 30 working days and 45 sections — giving evaluating schools a realistic picture of the module under load.
+Demo data includes 1,350 attendance records across 30 working days and 45 sections, giving evaluating schools a realistic picture of the module under load.
 
 ---
 
@@ -150,10 +150,10 @@ A: Mobile-first systems cache the class roster locally. Teachers mark attendance
 ---
 
 **About Yashveer Singh Rajpoot**
-The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli — a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**
-Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project — from Nexli to future platforms — the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 **How Nexli Helps**
 Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents where they actually open messages. Nexli is built for Indian schools, by people who understand Indian schools.

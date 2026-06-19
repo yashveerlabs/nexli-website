@@ -91,7 +91,7 @@ Nexli is built on Firebase (Google Cloud), which provides India-region data cent
 ## Frequently Asked Questions
 
 **Q: Does a school need a full-time IT person to use a cloud ERP?**
-A: No. Cloud ERPs eliminate infrastructure management tasks that previously required IT staff. Schools need someone to manage user accounts (creating accounts for new staff, deactivating accounts for staff who leave) — this takes 30-60 minutes per month for most schools and can be done by an administrator.
+A: No. Cloud ERPs eliminate infrastructure management tasks that previously required IT staff. Schools need someone to manage user accounts (creating accounts for new staff, deactivating accounts for staff who leave), this takes 30-60 minutes per month for most schools and can be done by an administrator.
 
 **Q: What internet speed does a school need for a cloud ERP?**
 A: Most cloud ERP functions (attendance marking, fee receipt generation, viewing records) work on 2-5 Mbps shared connections. Bandwidth-intensive operations (uploading bulk documents, loading complex reports with many students) benefit from faster connections.

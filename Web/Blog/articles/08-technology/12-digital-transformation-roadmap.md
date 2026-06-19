@@ -86,13 +86,13 @@ With core operations stable, Year 2 integrates the academic side and builds staf
 
 ## Year 3: Optimization and Data-Driven Culture (Months 25-36)
 
-Year 3 shifts from "making it work" to "making it better" — using the data you've accumulated to improve decisions.
+Year 3 shifts from "making it work" to "making it better", using the data you've accumulated to improve decisions.
 
 **Year 3 priorities:**
 
 **11. Analytics and reporting depth:** With 2 years of clean data, build dashboards showing trends: enrollment growth by year, class-wise attendance patterns, fee collection seasonality, staff turnover.
 
-**12. Compliance automation:** CBSE reporting, DPDP Act consent records, RTE seat tracking, POCSO case management — generating compliance documentation from data that already exists in the ERP rather than through separate manual processes.
+**12. Compliance automation:** CBSE reporting, DPDP Act consent records, RTE seat tracking, POCSO case management, generating compliance documentation from data that already exists in the ERP rather than through separate manual processes.
 
 **13. Multi-campus coordination (if applicable):** For school trusts with multiple branches, Year 3 is when cross-campus reporting and standardized processes pay off.
 

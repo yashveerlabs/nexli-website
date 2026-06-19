@@ -4,7 +4,7 @@ slug: how-to-handle-criticism-and-feedback
 category: 9
 order: 81
 primary_keyword: "how to handle criticism as a school leader"
-meta_description: "Learn how school principals can handle criticism and feedback professionally — listening, assessing validity, responding gracefully, and turning feedback into growth."
+meta_description: "Learn how school principals can handle criticism and feedback professionally, listening, assessing validity, responding gracefully, and turning feedback into growth."
 secondary_keywords:
   - "receiving feedback as a principal"
   - "constructive criticism in schools"
@@ -45,10 +45,10 @@ Leaders who learn from feedback grow constantly. Those who resist criticism stag
 ---
 
 **About Yashveer Singh Rajpoot**  
-The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli—a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**  
-Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project—from Nexli to future platforms—the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project (from Nexli to future platforms), the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 **About Nexli**  
 Nexli operates on a principle that most schools ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents on WhatsApp (where they actually open messages). Nexli is built for Indian schools, by people who understand Indian schools.

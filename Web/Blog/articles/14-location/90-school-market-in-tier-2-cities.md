@@ -1,10 +1,10 @@
 ---
 title: "School Market in Tier 2 Cities"
 slug: "school-market-in-tier-2-cities"
-meta_description: "School Market in Tier 2 Cities"
+meta_description: "School market in Tier 2 cities: how cloud-based ERP positions schools for growth in India's emerging education markets like Jaipur, Chandigarh, and Lucknow."
 category: 14
-primary_keyword: "school"
-secondary_keywords: ["market", "in", "tier", "2"]
+primary_keyword: "school market Tier 2 cities India ERP"
+secondary_keywords: ["Tier 2 school market ERP India", "school growth Jaipur Chandigarh Lucknow", "school ERP emerging markets India", "Tier 2 education market school software"]
 intent: "buyer-guide"
 author: "Yashveer Labs"
 founder: "Yashveer Singh Rajpoot"
@@ -60,7 +60,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,7 +93,7 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools, different boards, diverse student populations, complex compliance.
 
 **About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
 

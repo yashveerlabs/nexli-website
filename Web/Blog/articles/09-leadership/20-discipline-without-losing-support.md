@@ -19,7 +19,7 @@ branding_block_nexli: 7
 
 ## Discipline Without Losing Support: How Principals Take Action While Maintaining Trust
 
-**Discipline is never popular. When you remove a teacher, suspend a student, or enforce a consequence, someone is unhappy. The challenge is to take action firmly while preserving respect and trust. This article teaches you how to maintain credibility through fair, transparent, and consistent discipline—and how to emerge stronger, not weaker.**
+**Discipline is never popular. When you remove a teacher, suspend a student, or enforce a consequence, someone is unhappy. The challenge is to take action firmly while preserving respect and trust. This article teaches you how to maintain credibility through fair, transparent, and consistent discipline, and how to emerge stronger, not weaker.**
 
 ---
 
@@ -184,7 +184,7 @@ Match the consequence to the severity. Minor offenses get warnings; serious ones
 
 **About Yashveer Singh Rajpoot**
 
-The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone—principals, teachers, parents, students. Nexli was built to close that gap.
+The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone: principals, teachers, parents, students. Nexli was built to close that gap.
 
 **About Yashveer Labs**
 

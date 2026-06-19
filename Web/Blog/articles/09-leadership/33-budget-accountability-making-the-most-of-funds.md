@@ -4,7 +4,7 @@ slug: budget-accountability-making-the-most-of-funds
 category: 9
 order: 33
 primary_keyword: "budget accountability school"
-meta_description: "How principals can maximize every rupee spent in their school budget—aligning spending to strategy, controlling costs, and demonstrating financial accountability to stakeholders."
+meta_description: "How principals can maximize every rupee spent in their school budget, aligning spending to strategy, controlling costs, and demonstrating financial accountability to stakeholders."
 secondary_keywords: ["school budget management", "principal budget accountability", "school financial stewardship", "school spending strategy"]
 intent: "how-to"
 author: "Yashveer Labs"

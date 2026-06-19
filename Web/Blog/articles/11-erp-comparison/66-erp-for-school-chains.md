@@ -42,7 +42,7 @@ date: "2026-06-19"
 
 **The conflict:** Both views are needed simultaneously. An ERP that only provides chain-level aggregates leaves campus principals without their operational tools. An ERP that only provides per-campus views leaves the chain director without the visibility they need.
 
-The solution is proper multi-tenant architecture — one platform, multiple schools, data isolation between schools, aggregate view at chain level.
+The solution is proper multi-tenant architecture, one platform, multiple schools, data isolation between schools, aggregate view at chain level.
 
 ---
 
@@ -61,7 +61,7 @@ Without drilling into individual student or teacher records of any campus.
 
 ### Per-Campus Operational Independence
 
-Each campus principal has full control of their campus — their fee structures, their academic calendar variations, their role assignments, their compliance deadlines. The chain director can see but not interfere with campus operations.
+Each campus principal has full control of their campus, their fee structures, their academic calendar variations, their role assignments, their compliance deadlines. The chain director can see but not interfere with campus operations.
 
 ### Standardized Reporting
 
@@ -78,7 +78,7 @@ That are available to all campuses simultaneously.
 
 ### Student Transfer Between Campuses
 
-When a student moves from Campus A to Campus B within the chain, the ERP should support a structured transfer — preserving academic history, attendance history, and fee history in the receiving campus.
+When a student moves from Campus A to Campus B within the chain, the ERP should support a structured transfer, preserving academic history, attendance history, and fee history in the receiving campus.
 
 ---
 
@@ -118,10 +118,10 @@ A: Common staff need role assignments at each campus they serve. The ERP should 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

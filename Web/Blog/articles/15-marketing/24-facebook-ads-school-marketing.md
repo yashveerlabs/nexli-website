@@ -87,7 +87,7 @@ Facebook ads need to stop the scroll.
 - Bright, colorful (monotone = boring)
 - Text overlay: "Limited seats available" or "Admissions open for Class 6"
 - Face in image (faces get 20% more engagement)
-- Action visible (learning, playing, smiling—not just posing)
+- Action visible (learning, playing, smiling, not just posing)
 
 **Video specs:** 9:16 vertical (mobile), 15–30 sec, captions (most watch muted)
 

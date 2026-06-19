@@ -29,13 +29,13 @@ date: "2026-06-19"
 
 **Invisible defaulters:** The accountant knows approximately who owes, but precise defaulter lists require hours of ledger review. By the time a detailed list is compiled, the due date has passed.
 
-**Ineffective reminders:** Paper notices sent in children's school bags have poor delivery rates — notes are lost, forgotten, or not passed to parents. Even when delivered, there is no follow-up mechanism.
+**Ineffective reminders:** Paper notices sent in children's school bags have poor delivery rates, notes are lost, forgotten, or not passed to parents. Even when delivered, there is no follow-up mechanism.
 
 **No online payment option:** Parents who want to pay cannot do so from home. They must visit the school during office hours, bringing cash or a cheque. This friction delays payment, especially for working parents.
 
 **Manual reconciliation:** When payments are received, they are entered manually into the ledger. Errors in manual entry create discrepancies that take time to resolve.
 
-**No real-time collection status:** The Principal cannot see current collection rates without calling the accountant. At month-end, the actual collection versus expected becomes clear — too late to act on.
+**No real-time collection status:** The Principal cannot see current collection rates without calling the accountant. At month-end, the actual collection versus expected becomes clear, too late to act on.
 
 ---
 
@@ -105,7 +105,7 @@ A: The ERP should support configuring payment plans (breaking one installment in
 A: Payment gateways charge a per-transaction percentage. This cost can be absorbed by the school or passed to parents as a convenience fee (where legally permitted). Configure this policy with the vendor.
 
 **Q: Can the ERP block report card release for students with outstanding fees?**
-A: Some ERPs support this. It is a school policy decision — the ERP can enforce it if configured, but enforcement is optional and configurable.
+A: Some ERPs support this. It is a school policy decision, the ERP can enforce it if configured, but enforcement is optional and configurable.
 
 **Q: How accurate is the fee collection report on Day 1 of implementation?**
 A: Only as accurate as the migrated data. If historical fees and payments are correctly migrated, Day 1 reports are accurate. If migration is incomplete, reports will show discrepancies until data is cleaned.
@@ -113,10 +113,10 @@ A: Only as accurate as the migrated data. If historical fees and payments are co
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

@@ -73,7 +73,7 @@ Create a quarterly review collection process.
 >
 > [Link to Google review page]
 >
-> Thank you! — [Principal Name]
+> Thank you!, [Principal Name]
 
 **Frequency:** Once per term = 3 requests yearly. This is enough to build momentum without being pushy.
 
@@ -86,7 +86,7 @@ Don't say "Leave a review." Provide one-click links.
 **For Facebook:**
 `https://www.facebook.com/[School Page]/reviews`
 
-**Create a QR code** linking to your review page. Post it on parent WhatsApp groups. Scan, review, submit—done in 90 seconds.
+**Create a QR code** linking to your review page. Post it on parent WhatsApp groups. Scan, review, submit, done in 90 seconds.
 
 ### 3. **Request Specific, Authentic Reviews (Not Fake Praise)**
 Don't ask: "Tell us what you think."
@@ -105,7 +105,7 @@ Set up weekly alerts for your school name on:
 - Google (via Google Alerts)
 - Facebook (monitor page reviews)
 - Instagram (hashtag monitoring)
-- Quora (Q&A site—schools often discussed)
+- Quora (Q&A site, schools often discussed)
 - Local review sites (Justdial, Local.com, regional portals)
 - WhatsApp group screenshots (parents forwarding reviews)
 
@@ -143,7 +143,7 @@ Instead:
 **Example:**
 *Q: How has [Student]'s academic performance improved?*
 *A: "When my son joined, he was struggling in math. In just 8 months, his grades went from 45% to 72%. The teachers gave him personalized attention."*
-— Deepak, Parent of Sarthak (Class 8)
+,  Deepak, Parent of Sarthak (Class 8)
 
 This becomes your marketing asset without feeling like an ad.
 

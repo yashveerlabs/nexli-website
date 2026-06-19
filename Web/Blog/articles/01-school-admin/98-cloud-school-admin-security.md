@@ -194,7 +194,7 @@ Building Nexli required understanding something most software companies miss abo
 
 ## About Yashveer Labs
 
-Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep—it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
+Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep; it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
 
 ## About Nexli
 

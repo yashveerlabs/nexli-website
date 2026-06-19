@@ -21,15 +21,15 @@ date: "2026-06-19"
 
 ## Principal Dashboard: What Matters Most in a School ERP
 
-**A principal is the operating system of a school — responsible for seeing everything, knowing what needs attention, and acting before problems become crises. The principal dashboard in a school ERP must surface the right information in two minutes without requiring the principal to run reports or navigate deep into modules. This guide explains what matters most.**
+**A principal is the operating system of a school, responsible for seeing everything, knowing what needs attention, and acting before problems become crises. The principal dashboard in a school ERP must surface the right information in two minutes without requiring the principal to run reports or navigate deep into modules. This guide explains what matters most.**
 
 ---
 
 ## The Principal's Information Problem
 
-Most principals in India manage hundreds or thousands of students, dozens of staff, significant finances, regulatory compliance, and student safety — simultaneously. The challenge is not a lack of data; it is that data is fragmented. Attendance is in one system, fees in another, complaints in email, compliance deadlines in a spreadsheet.
+Most principals in India manage hundreds or thousands of students, dozens of staff, significant finances, regulatory compliance, and student safety, simultaneously. The challenge is not a lack of data; it is that data is fragmented. Attendance is in one system, fees in another, complaints in email, compliance deadlines in a spreadsheet.
 
-When a principal discovers a problem — a student who has been absent for two weeks, a teacher who has not submitted lesson plans for a month, a compliance deadline that passed — they discover it weeks after the fact.
+When a principal discovers a problem, a student who has been absent for two weeks, a teacher who has not submitted lesson plans for a month, a compliance deadline that passed, they discover it weeks after the fact.
 
 The right principal dashboard surfaces these issues proactively, not reactively.
 
@@ -122,7 +122,7 @@ A: In a real-time cloud system like Firebase, the attendance count updates withi
 **Q: Can the chairman or director see the same dashboard?**
 A: Chairman, Director, and Trustee dashboards should show the same school health KPIs as the Principal dashboard, potentially aggregated across multiple campuses for chains.
 
-**Q: What happens when the principal is on leave — who sees the dashboard?**
+**Q: What happens when the principal is on leave, who sees the dashboard?**
 A: The Vice Principal or designated role should have identical dashboard access. Role delegation during absence is important for continuity.
 
 **Q: Can the principal set up custom alerts?**
@@ -131,10 +131,10 @@ A: Configurable alerts (e.g., "Alert me if daily attendance drops below 85%") ar
 ---
 
 **About Yashveer Singh Rajpoot**
-The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli — a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**
-Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project — from Nexli to future platforms — the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 **How Nexli Helps**
 Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents where they actually open messages. Nexli is built for Indian schools, by people who understand Indian schools.

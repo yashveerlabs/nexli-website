@@ -68,7 +68,7 @@ All conflict disclosures must be recorded in the board meeting minutes, includin
 
 ## Arm's Length Transactions
 
-If the school must do business with a connected party (perhaps the only qualified supplier), the transaction must be at arm's length — on terms no more favorable than the school would obtain from an unrelated party. This must be documented and approved by non-conflicted board members.
+If the school must do business with a connected party (perhaps the only qualified supplier), the transaction must be at arm's length, on terms no more favorable than the school would obtain from an unrelated party. This must be documented and approved by non-conflicted board members.
 
 ## Annual Disclosure
 

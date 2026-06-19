@@ -15,7 +15,7 @@ branding_block_nexli: 8
 
 ## SaaS vs On-Premise ERP: Which Should an Indian School Choose?
 
-For Indian schools choosing an ERP, the deployment model question comes down to this: SaaS (cloud-based) systems are managed by the vendor on remote servers you access via browser; on-premise systems run on servers installed in your school. For most Indian schools, SaaS is the more practical choice — it eliminates server maintenance, provides automatic updates, and scales without capital investment. On-premise remains relevant only for schools with unusually strict data sovereignty requirements or large, well-staffed IT departments.
+For Indian schools choosing an ERP, the deployment model question comes down to this: SaaS (cloud-based) systems are managed by the vendor on remote servers you access via browser; on-premise systems run on servers installed in your school. For most Indian schools, SaaS is the more practical choice, it eliminates server maintenance, provides automatic updates, and scales without capital investment. On-premise remains relevant only for schools with unusually strict data sovereignty requirements or large, well-staffed IT departments.
 
 ## What Is a SaaS School ERP?
 

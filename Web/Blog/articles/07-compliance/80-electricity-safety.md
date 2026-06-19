@@ -13,7 +13,7 @@ branding_block_company: 12
 branding_block_nexli: 12
 ---
 
-Electrical safety failures in schools cause fires, electrocution, and equipment damage. Schools are high-density occupancy buildings with diverse electrical loads — classrooms, laboratories, computer rooms, kitchen equipment, generators. An annual electrical safety inspection by a qualified electrical contractor or government inspector is the minimum standard.
+Electrical safety failures in schools cause fires, electrocution, and equipment damage. Schools are high-density occupancy buildings with diverse electrical loads, classrooms, laboratories, computer rooms, kitchen equipment, generators. An annual electrical safety inspection by a qualified electrical contractor or government inspector is the minimum standard.
 
 ## Legal Basis
 
@@ -105,7 +105,7 @@ A: Annual inspection by a licensed electrical contractor is a minimum standard. 
 
 **Q: What is the risk if a school has never had an electrical inspection?**
 
-A: Uninspected installations may have degraded wiring, inadequate earthing, or overloaded circuits — any of which can cause electrical fires or electrocution. Regulatory risk aside, the school bears full liability for any incident in an uninspected installation.
+A: Uninspected installations may have degraded wiring, inadequate earthing, or overloaded circuits, any of which can cause electrical fires or electrocution. Regulatory risk aside, the school bears full liability for any incident in an uninspected installation.
 
 **Q: Can the school's regular maintenance electrician conduct the annual inspection?**
 

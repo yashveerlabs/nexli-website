@@ -248,12 +248,12 @@ Schools that have had minor incidents (or no incidents) feel they're "fine." The
 **Essential Supplies:**
 
 - **First Aid Kits** (multiple, in classrooms, medical room, office)
-- **Emergency Communication** (PA system backup—battery powered; megaphone; phone tree list)
+- **Emergency Communication** (PA system backup, battery powered; megaphone; phone tree list)
 - **Water & Food** (bottled water, biscuits, emergency rations for 2–4 hours)
 - **Evacuation Equipment** (glow sticks, flashlights, batteries)
 - **Medical Equipment** (stretcher, AED, emergency medications)
 - **Personal Protective Equipment** (gloves, masks, hand sanitizer)
-- **Documentation** (incident report forms, attendance roster copies, emergency contact lists—printed and laminated)
+- **Documentation** (incident report forms, attendance roster copies, emergency contact lists, printed and laminated)
 
 **Where to Keep Supplies:**
 - Medical room
@@ -404,15 +404,15 @@ Nexli's SMS/WhatsApp integration allows mass notification to parents in seconds 
 
 **About Yashveer Singh Rajpoot**
 
-Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking — each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking, each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **About Yashveer Labs**
 
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 
-Nexli includes 55+ modules covering student info, academics, compliance, safety, and operations. The Compliance Calendar provides automated alerts for drills, fire NOC renewal, and building safety checks. Attendance records enable rapid student accountability during emergencies. Incident Logging documents every emergency with timestamp, response, and outcome — fully audit-ready.
+Nexli includes 55+ modules covering student info, academics, compliance, safety, and operations. The Compliance Calendar provides automated alerts for drills, fire NOC renewal, and building safety checks. Attendance records enable rapid student accountability during emergencies. Incident Logging documents every emergency with timestamp, response, and outcome, fully audit-ready.
 
 ---
 

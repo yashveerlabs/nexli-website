@@ -21,7 +21,7 @@ Collecting parental consent under DPDP Act 2023 requires more than a signature o
 Collect consent for: admission and academic data, medical data, photographs, biometric (if used), communication channels.
 
 **Before New Data Types:**
-If the school introduces a new system — fingerprint attendance, for example — collect specific consent before launch.
+If the school introduces a new system, fingerprint attendance, for example, collect specific consent before launch.
 
 **Annually:**
 Send consent renewal notice at the start of each academic year. Confirm existing consents are still valid or collect updated ones.
@@ -59,7 +59,7 @@ Nexli's consent management module collects OTP-verified digital consent, maintai
 
 ---
 
-**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately — it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 **About Yashveer Labs:** Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
 

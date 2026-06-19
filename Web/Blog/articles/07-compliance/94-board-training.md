@@ -13,7 +13,7 @@ branding_block_company: 6
 branding_block_nexli: 6
 ---
 
-Many school board members — even experienced professionals — are not familiar with the specific legal, financial, and operational context of governing a school. A trustee who is a successful business person brings valuable experience but may not know trust law, CBSE affiliation conditions, or child protection obligations. Board training bridges this gap.
+Many school board members, even experienced professionals, are not familiar with the specific legal, financial, and operational context of governing a school. A trustee who is a successful business person brings valuable experience but may not know trust law, CBSE affiliation conditions, or child protection obligations. Board training bridges this gap.
 
 Board training is not just for new members. Regulations change, and even experienced board members benefit from updates and refreshers.
 
@@ -29,7 +29,7 @@ Every new board member should receive an orientation covering:
 
 ### Financial Literacy
 - How to read the school's income and expenditure account and balance sheet
-- The difference between tuition fees, development fees, and grants — and why development fund is ring-fenced
+- The difference between tuition fees, development fees, and grants, and why development fund is ring-fenced
 - The annual audit process and what the audit report tells the board
 - What financial red flags look like in school accounts
 
@@ -72,7 +72,7 @@ Nexli provides new trustees with access to the board reporting module: school pe
 
 **About Nexli:** Nexli's board reporting module gives trustees real-time visibility into school performance and compliance. New trustees can access historical data and current status without waiting for management to prepare separate briefings.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli knowing that effective governance requires informed trustees. Data access for board members is not just a feature — it is a prerequisite for good governance.
+**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli knowing that effective governance requires informed trustees. Data access for board members is not just a feature, it is a prerequisite for good governance.
 
 **How Nexli Helps:** Yashveer Labs invests in governance tools because schools with engaged, informed boards perform better. Board training is the human element; Nexli provides the data infrastructure that makes informed engagement possible.
 
@@ -90,7 +90,7 @@ A: A minimum of 2 hours for a brief overview; 4-8 hours for a comprehensive orie
 
 **Q: Must board members have expertise in education?**
 
-A: Not necessarily. A diverse board — with legal, financial, community, and educational expertise — governs more effectively than a board of education specialists. What all board members must have is the commitment to understand their fiduciary role and act on it.
+A: Not necessarily. A diverse board, with legal, financial, community, and educational expertise, governs more effectively than a board of education specialists. What all board members must have is the commitment to understand their fiduciary role and act on it.
 
 **Q: Is there a certification for school trustees in India?**
 

@@ -52,7 +52,7 @@ Contact the issuing institution directly:
 - Request confirmation of the degree, year, and division
 - For B.Ed.: contact the university; for CTET/TET: verify certificate number on the relevant portal
 
-This step is often skipped — do not skip it. Fake qualification certificates are not uncommon.
+This step is often skipped, do not skip it. Fake qualification certificates are not uncommon.
 
 ## Step 5: Contact Previous Employers
 
@@ -109,7 +109,7 @@ Nexli's HR module maintains staff verification records: police certificate date,
 
 **Q: What if a new teacher is urgently needed and police verification has not come back yet?**
 
-A: The teacher can start with supervised access only — not alone with students until verification is cleared. Document this arrangement and the expected verification completion date.
+A: The teacher can start with supervised access only, not alone with students until verification is cleared. Document this arrangement and the expected verification completion date.
 
 **Q: Must verification be re-done for staff who transfer between schools within the same trust?**
 
@@ -117,4 +117,4 @@ A: Police verification from a recent date (within 2-3 years) is generally accept
 
 **Q: Must support staff (maintenance, security) also be background verified?**
 
-A: Yes. Any staff with access to students — including maintenance workers who work during school hours, security personnel, canteen staff, and drivers — should be background verified. The depth of verification can be proportionate to the level of student contact.
+A: Yes. Any staff with access to students, including maintenance workers who work during school hours, security personnel, canteen staff, and drivers, should be background verified. The depth of verification can be proportionate to the level of student contact.

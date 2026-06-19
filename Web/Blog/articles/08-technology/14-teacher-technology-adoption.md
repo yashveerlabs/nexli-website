@@ -57,7 +57,7 @@ Piling all features on teachers at once creates learning overload. Progressive i
 
 When the principal stands at the front of a staff meeting and says "everyone must use the new system starting Monday," teachers who are unsure feel anxious but say nothing. They go back to their classrooms and continue as before.
 
-When a respected colleague who teaches the same level says "I tried the attendance app for two weeks and my register is now a backup, not the source — it's genuinely easier," that changes the calculation.
+When a respected colleague who teaches the same level says "I tried the attendance app for two weeks and my register is now a backup, not the source, it's genuinely easier," that changes the calculation.
 
 Identify 2-3 teachers who are early adopters and willing to be public about their experience. Give them advanced training (not special technical sessions, but early access to start using the system a week before everyone else). Ask them to answer questions in the staff common room, not just in formal training sessions.
 
@@ -110,7 +110,7 @@ A: Most teachers who actively engage with training and early use reach comfortab
 A: Provide a desktop workstation option for attendance marking and grade entry. Most school ERP interfaces are fully functional on desktop. Desktop use is valid; the key is that data enters the ERP digitally, not that a phone is required.
 
 **Q: Should teachers continue maintaining paper registers alongside the ERP?**
-A: For the first 4-6 weeks of go-live, yes — as a safety net. After the system has been validated for two consecutive attendance cycles without errors, retire the paper register as the primary record. Maintaining both indefinitely creates a dual-data situation and signals distrust in the ERP.
+A: For the first 4-6 weeks of go-live, yes, as a safety net. After the system has been validated for two consecutive attendance cycles without errors, retire the paper register as the primary record. Maintaining both indefinitely creates a dual-data situation and signals distrust in the ERP.
 
 **Q: How do we handle a teacher who submits false attendance data in the ERP?**
 A: This is a conduct issue, not a technology issue. ERP attendance records include timestamps and user identifiers, which create an audit trail. Address any misuse through normal HR processes.

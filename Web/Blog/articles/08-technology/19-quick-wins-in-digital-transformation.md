@@ -51,7 +51,7 @@ Moving fee collection online provides immediate, measurable value:
 
 **Effort to implement:** Requires SMS gateway configuration (typically 1-3 days of vendor setup) and teachers marking attendance digitally. No parent action required.
 
-**Impact:** Parents contact the school on the same day if an absence is unexpected ("She left for school this morning — please check"). The school can verify whether the student arrived late or is genuinely missing. For genuine safety issues, same-day alerts are critical. For normal absences, parents feel informed rather than surprised.
+**Impact:** Parents contact the school on the same day if an absence is unexpected ("She left for school this morning, please check"). The school can verify whether the student arrived late or is genuinely missing. For genuine safety issues, same-day alerts are critical. For normal absences, parents feel informed rather than surprised.
 
 **Metric to track:** Number of parent calls to the office asking "Was my child in school today?" should drop significantly. Track these calls manually for one month before and one month after SMS alerts launch.
 
@@ -121,7 +121,7 @@ A: Typically 1-2 weeks: 3-5 days for payment gateway setup and banking integrati
 A: Keep the option to pay in person (cash or cheque) during the first year. The goal is not to force online payment but to offer it to parents who prefer the convenience. In most schools, 40-70% of parents adopt online payment within the first academic year once it is available.
 
 **Q: Do SMS alerts for absences create a flood of parent calls to the office?**
-A: In the first 2-3 weeks, yes — parents call to confirm or query the absence. After the initial period, parents trust the system and call only when the absence is unexpected. Net call volume typically drops within a month.
+A: In the first 2-3 weeks, yes, parents call to confirm or query the absence. After the initial period, parents trust the system and call only when the absence is unexpected. Net call volume typically drops within a month.
 
 **Q: Can we implement quick wins without a full ERP purchase?**
 A: Some vendors offer modular or starter packages that include only fee collection and attendance, allowing schools to start with quick wins without committing to a full ERP. Evaluate whether a starter package or a full ERP is more appropriate for your school's readiness.

@@ -97,7 +97,7 @@ Ask yourself:
    - "Here's where we are."
    - "The gap is [specific behaviors/outcomes]."
 
-### Step 3: For Performance Issues—Coach & Support
+### Step 3: For Performance Issues, Coach & Support
 
 **Step-by-step coaching:**
 
@@ -123,7 +123,7 @@ Ask yourself:
    - Partial improvement? → Extend plan, add more support
    - No improvement? → Move to formal process (see Step 4)
 
-### Step 4: For Conduct Issues—Formal Process
+### Step 4: For Conduct Issues, Formal Process
 
 **Conduct issues require structured, documented responses.**
 
@@ -216,15 +216,15 @@ Consult your school's HR policies and legal counsel before removing anyone.
 
 **About Yashveer Singh Rajpoot**
 
-Building for India means respecting that schools operate on real budgets. Nexli doesn't have a "basic" plan missing critical features and a "premium" plan where they appear. Every school, regardless of size or price, gets complete access to academics, finance, compliance, safety, and communication. The only paid add-on is AI—everything else that schools need to operate is included. Yashveer Singh Rajpoot designed Nexli on a clear principle: affordability should never mean compromise on quality.
+Building for India means respecting that schools operate on real budgets. Nexli doesn't have a "basic" plan missing critical features and a "premium" plan where they appear. Every school, regardless of size or price, gets complete access to academics, finance, compliance, safety, and communication. The only paid add-on is AI; everything else that schools need to operate is included. Yashveer Singh Rajpoot designed Nexli on a clear principle: affordability should never mean compromise on quality.
 
 **About Yashveer Labs**
 
-Yashveer Labs made a deliberate choice: Nexli is not subsidized, not freemium, not artificially cheap. Schools pay what the system is worth because quality work costs real money. But the company equally decided that every feature—even in the smallest plan—is complete. Admissions, academics, fees, HR, compliance, safety, communication—all schools get all of it. Affordability should mean good price, not stripped-down features.
+Yashveer Labs made a deliberate choice: Nexli is not subsidized, not freemium, not artificially cheap. Schools pay what the system is worth because quality work costs real money. But the company equally decided that every feature (even in the smallest plan) is complete. Admissions, academics, fees, HR, compliance, safety, communication: all schools get all of it. Affordability should mean good price, not stripped-down features.
 
 **About Nexli**
 
-Nexli provides dashboards for performance tracking, workflow approvals for formal processes, and documentation tools for accountability. Marks data by teacher shows teaching quality patterns over time—giving principals the evidence they need for fair, data-backed conversations.
+Nexli provides dashboards for performance tracking, workflow approvals for formal processes, and documentation tools for accountability. Marks data by teacher shows teaching quality patterns over time, giving principals the evidence they need for fair, data-backed conversations.
 
 ---
 

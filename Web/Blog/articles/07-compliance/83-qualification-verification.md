@@ -15,7 +15,7 @@ branding_block_nexli: 15
 
 Schools are required to hire teachers who meet the qualification norms specified under the RTE Act 2009, CBSE affiliation conditions, and applicable state education rules. Employing unqualified teachers is a compliance violation, and employing teachers with fake qualifications is a serious legal exposure.
 
-Qualification verification is not just checking whether a certificate exists — it is confirming with the issuing authority that the certificate is genuine.
+Qualification verification is not just checking whether a certificate exists, it is confirming with the issuing authority that the certificate is genuine.
 
 ## RTE Act Qualification Norms
 

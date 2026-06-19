@@ -70,7 +70,7 @@ Nexli supports open house planning and follow-up:
 
 **About Yashveer Labs:** The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable: it's where better solutions emerge.
 
-**About Yashveer Singh Rajpoot:** Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety—all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence—bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+**About Yashveer Singh Rajpoot:** Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 ---
 

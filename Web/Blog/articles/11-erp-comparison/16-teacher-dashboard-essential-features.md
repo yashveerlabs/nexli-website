@@ -21,17 +21,17 @@ date: "2026-06-19"
 
 ## Teacher Dashboard: Essential Features in a School ERP
 
-**Teacher adoption determines whether an ERP succeeds or fails. If teachers find the dashboard difficult, slow, or irrelevant, they stop using it — and fall back to paper. The teacher dashboard must show teachers exactly what they need for their day's work, in a format that works on a phone, with minimal clicks. This guide explains what an effective teacher dashboard must include.**
+**Teacher adoption determines whether an ERP succeeds or fails. If teachers find the dashboard difficult, slow, or irrelevant, they stop using it, and fall back to paper. The teacher dashboard must show teachers exactly what they need for their day's work, in a format that works on a phone, with minimal clicks. This guide explains what an effective teacher dashboard must include.**
 
 ---
 
 ## Why Teacher Dashboards Often Fail
 
-The most common failure pattern: an ERP that gives teachers access to too much information. Teachers open the dashboard and see a sea of data — school-wide statistics, admin reports, governance tools — none of which is relevant to their role. They leave the app and use WhatsApp instead.
+The most common failure pattern: an ERP that gives teachers access to too much information. Teachers open the dashboard and see a sea of data, school-wide statistics, admin reports, governance tools, none of which is relevant to their role. They leave the app and use WhatsApp instead.
 
 The second common failure: an ERP that requires too many steps to complete a simple task. Marking attendance should take under 60 seconds. Entering marks for a student should take under 30 seconds. If the interface requires 5-7 clicks for each action, teachers will not sustain use beyond the first month.
 
-The right design: teachers see their classes, their pending tasks, and their students — nothing else by default.
+The right design: teachers see their classes, their pending tasks, and their students, nothing else by default.
 
 ---
 
@@ -83,7 +83,7 @@ Quick access to:
 
 ### Announcements
 
-School-wide and department-specific announcements visible to the teacher. Not parent-facing announcements, not student-facing announcements — only those relevant to their role.
+School-wide and department-specific announcements visible to the teacher. Not parent-facing announcements, not student-facing announcements, only those relevant to their role.
 
 ---
 
@@ -103,13 +103,13 @@ Class teachers and subject teachers need different dashboards:
 - Homework assignment and submission tracking
 - Curriculum coverage per class
 
-A well-designed ERP combines these based on the teacher's assigned roles — class teacher for Section 7A, subject teacher for Mathematics in Sections 7A, 7B, and 8A.
+A well-designed ERP combines these based on the teacher's assigned roles, class teacher for Section 7A, subject teacher for Mathematics in Sections 7A, 7B, and 8A.
 
 ---
 
 ## Mobile Optimization for Teachers
 
-Teachers often need to use the ERP during or between classes — not at a desktop computer. The teacher dashboard must:
+Teachers often need to use the ERP during or between classes, not at a desktop computer. The teacher dashboard must:
 - Load the current-period class attendance in under 3 seconds on 3G
 - Allow bulk attendance marking (all Present, mark exceptions) in under 60 seconds
 - Work offline with sync when internet returns
@@ -121,7 +121,7 @@ Teachers often need to use the ERP during or between classes — not at a deskto
 
 Nexli's teacher dashboard shows attendance pending, homework tracking, student performance, and at-risk student lists scoped to the teacher's assigned classes. Subject teachers see only their subjects; class teachers see their full section. The mobile interface is tested on Galaxy S20 (412px) and supports offline attendance marking.
 
-Lesson plan submission links to curriculum coverage tracking — teachers see where they are in the syllabus relative to the academic calendar. Substitution management appears on the dashboard when the teacher is covering an absent colleague's class.
+Lesson plan submission links to curriculum coverage tracking, teachers see where they are in the syllabus relative to the academic calendar. Substitution management appears on the dashboard when the teacher is covering an absent colleague's class.
 
 ---
 
@@ -145,10 +145,10 @@ A: Their classes appear in the substitution system. A substitute teacher sees th
 ---
 
 **About Yashveer Singh Rajpoot**
-The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli — a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**
-Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project — from Nexli to future platforms — the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 **How Nexli Helps**
 Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents where they actually open messages. Nexli is built for Indian schools, by people who understand Indian schools.

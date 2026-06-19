@@ -33,7 +33,7 @@ date: "2026-06-19"
 
 **Staff composition:** Government school staff includes both government employees (with fixed service terms) and contract staff. Payroll integration must accommodate both categories, often with different EPF/ESI treatment.
 
-**Infrastructure:** Government schools — particularly rural and semi-urban — often have unreliable power and internet connectivity. Cloud-based ERP that requires consistent internet may not be feasible.
+**Infrastructure:** Government schools, particularly rural and semi-urban, often have unreliable power and internet connectivity. Cloud-based ERP that requires consistent internet may not be feasible.
 
 **Fee structure:** Many government schools are tuition-free. Fee management is less central than in private schools. The ERP must support government grants, free uniform allowances, mid-day meal tracking, and scholarship disbursement.
 
@@ -49,11 +49,11 @@ UDISE+ annual data submission is mandatory. The ERP should pre-populate UDISE+ f
 
 ### RTE Tracking
 
-Private schools with government-mandated RTE (Right to Education) quotas need robust RTE tracking. Government schools — which fulfill RTE through free universal access — have different needs: tracking enrollment of disadvantaged groups, attendance of vulnerable students, and scholarship receipt.
+Private schools with government-mandated RTE (Right to Education) quotas need robust RTE tracking. Government schools, which fulfill RTE through free universal access, have different needs: tracking enrollment of disadvantaged groups, attendance of vulnerable students, and scholarship receipt.
 
 ### Offline Capability
 
-For schools with unreliable internet, offline capability is not optional — it is a prerequisite. The ERP must work when the internet is down and sync when connectivity returns.
+For schools with unreliable internet, offline capability is not optional, it is a prerequisite. The ERP must work when the internet is down and sync when connectivity returns.
 
 ### Government Payroll Complexity
 
@@ -96,7 +96,7 @@ The ERP should generate reports in the formats required by each level.
 A: For government schools in urban areas with reliable infrastructure and school management committee budgets, commercial ERP can add value beyond state-provided systems. Rural government schools face infrastructure barriers that limit commercial cloud ERP viability.
 
 **Q: How do government schools handle the DPDP Act?**
-A: Government schools are covered by DPDP Act 2023. The obligations are the same as private schools — parental consent, data minimization, access controls, breach notification. State-provided ERP should be evaluated for DPDP compliance just as commercial ERP would be.
+A: Government schools are covered by DPDP Act 2023. The obligations are the same as private schools, parental consent, data minimization, access controls, breach notification. State-provided ERP should be evaluated for DPDP compliance just as commercial ERP would be.
 
 **Q: Can government schools use Nexli?**
 A: Nexli is designed for Indian K-12 schools. Government school administrators interested in evaluating Nexli can [Book a Free Demo](/demo) to discuss whether Nexli's feature set and pricing model works for their specific situation.
@@ -110,10 +110,10 @@ A: Increasingly, yes. Government school teachers in urban and peri-urban areas t
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

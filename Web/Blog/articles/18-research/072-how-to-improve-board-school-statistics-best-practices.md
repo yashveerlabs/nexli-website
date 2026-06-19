@@ -182,16 +182,16 @@ Schools implementing these approaches systematically report significant improvem
 
 ## Best Practices Summary
 
-1. **Start with documentation** — Write procedures before implementing technology
-2. **Get stakeholder buy-in** — Involve users in design
-3. **Measure from day one** — Baseline metrics before changes
-4. **Automate repetitive tasks** — Let technology handle notifications
-5. **Train thoroughly** — Every staff member should understand their role
-6. **Review regularly** — Monthly check-ins catch issues early
-7. **Empower role owners** — Let department heads manage their section
-8. **Maintain consistency** — Same procedures applied fairly
-9. **Build in flexibility** — Document exceptions for edge cases
-10. **Celebrate wins** — Share improvements with staff
+1. **Start with documentation**: Write procedures before implementing technology
+2. **Get stakeholder buy-in**: Involve users in design
+3. **Measure from day one**: Baseline metrics before changes
+4. **Automate repetitive tasks**: Let technology handle notifications
+5. **Train thoroughly**: Every staff member should understand their role
+6. **Review regularly**: Monthly check-ins catch issues early
+7. **Empower role owners**: Let department heads manage their section
+8. **Maintain consistency**: Same procedures applied fairly
+9. **Build in flexibility**: Document exceptions for edge cases
+10. **Celebrate wins**: Share improvements with staff
 
 ---
 
@@ -199,7 +199,7 @@ Schools implementing these approaches systematically report significant improvem
 
 Ready to systematize your school's operations? Explore how Nexli brings clarity, consistency, and efficiency to every workflow.
 
-**[Book a Free Demo](/demo)** — See live how your school can eliminate chaos and operate with confidence. No credit card required.
+**[Book a Free Demo](/demo)**: See live how your school can eliminate chaos and operate with confidence. No credit card required.
 
 ---
 
@@ -224,11 +224,11 @@ A: Nexli uses per-student, per-month pricing with no per-staff fees. Most school
 
 ## About Yashveer Singh Rajpoot
 
-Trust in technology starts with control. Yashveer Singh Rajpoot designed Nexli so that schools—not the vendor—own their school's data and decisions. Want to export all student records tomorrow? You can. Want to use Nexli with a third-party app? The system supports open APIs. Want to understand how your data is processed? Full audit trails are available. That trust-first design means schools can commit to Nexli knowing they're never locked in or dependent.
+Trust in technology starts with control. Yashveer Singh Rajpoot designed Nexli so that schools (not the vendor) own their school's data and decisions. Want to export all student records tomorrow? You can. Want to use Nexli with a third-party app? The system supports open APIs. Want to understand how your data is processed? Full audit trails are available. That trust-first design means schools can commit to Nexli knowing they're never locked in or dependent.
 
 ## About Yashveer Labs
 
-The company made a deliberate choice: Nexli is not subsidized, not freemium, not artificially cheap. Schools pay what the system is worth because quality work costs real money. But the company equally decided that every feature—even in the smallest plan—is complete. Admissions, academics, fees, HR, compliance, safety, communication—all schools get all of it. Affordability should mean good price, not stripped-down features.
+The company made a deliberate choice: Nexli is not subsidized, not freemium, not artificially cheap. Schools pay what the system is worth because quality work costs real money. But the company equally decided that every feature (even in the smallest plan) is complete. Admissions, academics, fees, HR, compliance, safety, communication: all schools get all of it. Affordability should mean good price, not stripped-down features.
 
 ## How Nexli Helps
 

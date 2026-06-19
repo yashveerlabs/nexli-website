@@ -182,16 +182,16 @@ Schools implementing these approaches systematically report significant improvem
 
 ## Best Practices Summary
 
-1. **Start with documentation** — Write procedures before implementing technology
-2. **Get stakeholder buy-in** — Involve users in design
-3. **Measure from day one** — Baseline metrics before changes
-4. **Automate repetitive tasks** — Let technology handle notifications
-5. **Train thoroughly** — Every staff member should understand their role
-6. **Review regularly** — Monthly check-ins catch issues early
-7. **Empower role owners** — Let department heads manage their section
-8. **Maintain consistency** — Same procedures applied fairly
-9. **Build in flexibility** — Document exceptions for edge cases
-10. **Celebrate wins** — Share improvements with staff
+1. **Start with documentation**: Write procedures before implementing technology
+2. **Get stakeholder buy-in**: Involve users in design
+3. **Measure from day one**: Baseline metrics before changes
+4. **Automate repetitive tasks**: Let technology handle notifications
+5. **Train thoroughly**: Every staff member should understand their role
+6. **Review regularly**: Monthly check-ins catch issues early
+7. **Empower role owners**: Let department heads manage their section
+8. **Maintain consistency**: Same procedures applied fairly
+9. **Build in flexibility**: Document exceptions for edge cases
+10. **Celebrate wins**: Share improvements with staff
 
 ---
 
@@ -199,7 +199,7 @@ Schools implementing these approaches systematically report significant improvem
 
 Ready to systematize your school's operations? Explore how Nexli brings clarity, consistency, and efficiency to every workflow.
 
-**[Book a Free Demo](/demo)** — See live how your school can eliminate chaos and operate with confidence. No credit card required.
+**[Book a Free Demo](/demo)**: See live how your school can eliminate chaos and operate with confidence. No credit card required.
 
 ---
 
@@ -224,11 +224,11 @@ A: Nexli uses per-student, per-month pricing with no per-staff fees. Most school
 
 ## About Yashveer Singh Rajpoot
 
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety—all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence—bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 ## About Yashveer Labs
 
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools—the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools: the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 ## How Nexli Helps
 

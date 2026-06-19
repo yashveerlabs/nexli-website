@@ -19,7 +19,7 @@ branding_block_nexli: 7
 
 ## School Security Protocols: Essential Systems Every Principal Must Have
 
-**Security is not optional. A single breach—an unauthorized person entering campus, a missing student, a safety incident—can destroy a school's reputation and put lives at risk. Most Indian schools rely on outdated security (paper gate registers, manual pass systems, unclear emergency procedures). Modern schools implement layered security: digital visitor management, access control, staff training, emergency drills, and incident response protocols. Schools with strong security protocols report 90% reduction in security incidents and significantly higher parent confidence. This article reveals the essential security systems every school needs.**
+**Security is not optional. A single breach, an unauthorized person entering campus, a missing student, a safety incident, can destroy a school's reputation and put lives at risk. Most Indian schools rely on outdated security (paper gate registers, manual pass systems, unclear emergency procedures). Modern schools implement layered security: digital visitor management, access control, staff training, emergency drills, and incident response protocols. Schools with strong security protocols report 90% reduction in security incidents and significantly higher parent confidence. This article reveals the essential security systems every school needs.**
 
 ---
 
@@ -404,15 +404,15 @@ Nexli can track which staff members have completed security training, when, and 
 
 **About Yashveer Singh Rajpoot**
 
-Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP — they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
+Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP, they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
 **About Yashveer Labs**
 
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 
-Nexli includes 55+ modules covering student info, academics, compliance, safety, and communication. Visitor Management (OTP gate pass, expected-visitor pre-registration, audit trail), Incident Logging, and the Compliance Calendar are built in. Schools using Nexli have audit-ready records of every visitor, every incident, and every compliance deadline — all in one place.
+Nexli includes 55+ modules covering student info, academics, compliance, safety, and communication. Visitor Management (OTP gate pass, expected-visitor pre-registration, audit trail), Incident Logging, and the Compliance Calendar are built in. Schools using Nexli have audit-ready records of every visitor, every incident, and every compliance deadline, all in one place.
 
 ---
 

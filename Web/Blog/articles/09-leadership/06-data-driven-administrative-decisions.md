@@ -81,9 +81,9 @@ Look for patterns, trends, outliers.
 
 **Questions to ask:**
 - What's the average? (Math pass rate across all classes = 72%)
-- What's the range? (Class 8-A: 85%, Class 8-B: 45%—wide spread suggests unequal teaching quality)
-- Is there a trend? (Pass rate declined from 78% last year to 72% this year—declining)
-- What's the outlier? (That one class is 40% below average—red flag)
+- What's the range? (Class 8-A: 85%, Class 8-B: 45%, wide spread suggests unequal teaching quality)
+- Is there a trend? (Pass rate declined from 78% last year to 72% this year, declining)
+- What's the outlier? (That one class is 40% below average, red flag)
 
 ### Step 5: Make the Decision
 Use data + professional judgment.
@@ -148,7 +148,7 @@ Use data + professional judgment.
 **Data to collect:**
 - Current fee collection rate (are we collecting 90% or 70%?)
 - Outstanding dues (many parents not paying current fees)
-- Parent income data (if available—do parents earn enough to absorb increase?)
+- Parent income data (if available, do parents earn enough to absorb increase?)
 - Competitor school fees (are we already expensive?)
 - Enrollment trends (is growth stalling?)
 
@@ -193,7 +193,7 @@ Use data + professional judgment.
 - Teacher readiness: Can they assess multiple domains (cognitive, social-emotional, physical, arts)?
 - Student feedback: Do students prefer current report card or would they benefit from HPC?
 - Parent feedback: Do parents want HPC or do they prefer traditional marks?
-- Peer school experience: Schools using HPC—what are outcomes?
+- Peer school experience: Schools using HPC, what are outcomes?
 - Implementation cost: Training, software, time investment
 
 **Analysis:**
@@ -311,7 +311,7 @@ Nexli provides clean, real-time data so you can focus on analysis and decisions:
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-When Yashveer Singh Rajpoot tested Nexli with real schools, the most surprising feedback was this: "We didn't realize we were missing so much visibility." Schools became aware of patterns they'd never seen before—the silent attendance decline before a student drops out, the systematic imbalance in subject performance across sections, the correlation between homework submission and exam success. Visibility enables intervention. Insight enables strategy. That's what modern systems should do.
+When Yashveer Singh Rajpoot tested Nexli with real schools, the most surprising feedback was this: "We didn't realize we were missing so much visibility." Schools became aware of patterns they'd never seen before: the silent attendance decline before a student drops out, the systematic imbalance in subject performance across sections, the correlation between homework submission and exam success. Visibility enables intervention. Insight enables strategy. That's what modern systems should do.
 
 **About Yashveer Labs**  
 The culture of Yashveer Labs rewards deep problem-solving over quick fixes. An engineer is expected to understand the actual school workflow that a feature supports, not just build the code. A designer is expected to test their work with real users, not just make it visually appealing. That expectation for depth means solutions actually work in practice, not just in theory.

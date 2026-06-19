@@ -96,5 +96,5 @@ Data-driven forecasting enables proactive planning. Builds confidence in leaders
 
 ---
 
-**Next step:** Create enrollment forecast model this quarter. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline data — inquiry volumes, stage conversion rates, and enrollment confirmations — gives you the inputs your forecasting model needs.
+**Next step:** Create enrollment forecast model this quarter. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline data, inquiry volumes, stage conversion rates, and enrollment confirmations, gives you the inputs your forecasting model needs.
 

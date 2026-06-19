@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Time Saved with School ERP: Where Hours Go Back to People
 
-**The time savings from school ERP are real but specific. Not every task becomes faster. Some tasks become dramatically faster. Understanding where the hours go back to people — and where they do not — helps set honest expectations and identify which workflows to prioritize in implementation.**
+**The time savings from school ERP are real but specific. Not every task becomes faster. Some tasks become dramatically faster. Understanding where the hours go back to people, and where they do not, helps set honest expectations and identify which workflows to prioritize in implementation.**
 
 ---
 
@@ -119,7 +119,7 @@ This is the single largest time saving most schools experience. Over a 10-month 
 **Q: How do we quantify the time savings to justify the ERP cost?**
 A: Calculate current staff time on the tasks above. Multiply by the staff member's hourly cost. Compare to the ERP subscription. Add fee collection improvement as a second benefit category.
 
-**Q: Who captures the time savings — teachers or admin?**
+**Q: Who captures the time savings, teachers or admin?**
 A: Attendance compilation time returns to class teachers and clerks. Report card time returns to the exam team. Defaulter report time returns to accounts. Each role benefits differently.
 
 **Q: Can we track actual time before and after to verify savings?**
@@ -134,10 +134,10 @@ A: Attendance savings begin in week 1 (first month-end report is the clearest). 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

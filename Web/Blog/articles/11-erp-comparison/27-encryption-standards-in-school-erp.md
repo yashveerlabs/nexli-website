@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Encryption Standards in School ERP: What Schools Should Know
 
-**Encryption protects data from being read by unauthorized parties — whether that is a hacker who steals a database file, an employee who accesses data they should not, or a cloud provider employee with server access. This guide explains what encryption standards a school ERP should meet and how to verify vendor claims.**
+**Encryption protects data from being read by unauthorized parties, whether that is a hacker who steals a database file, an employee who accesses data they should not, or a cloud provider employee with server access. This guide explains what encryption standards a school ERP should meet and how to verify vendor claims.**
 
 ---
 
@@ -29,11 +29,11 @@ date: "2026-06-19"
 
 ### 1. Encryption in Transit
 
-All data moving between the school ERP and its users — teachers, parents, admin staff — should be encrypted in transit using TLS (Transport Layer Security), commonly visible as HTTPS in the browser.
+All data moving between the school ERP and its users, teachers, parents, admin staff, should be encrypted in transit using TLS (Transport Layer Security), commonly visible as HTTPS in the browser.
 
 This prevents man-in-the-middle attacks where someone intercepts data being transmitted over a network (especially relevant on shared WiFi in schools).
 
-**How to verify:** Look for the padlock icon in the browser when accessing the ERP. Try accessing the system via HTTP (without the S) — a secure system should redirect to HTTPS automatically.
+**How to verify:** Look for the padlock icon in the browser when accessing the ERP. Try accessing the system via HTTP (without the S), a secure system should redirect to HTTPS automatically.
 
 This is table stakes. Any ERP without HTTPS is fundamentally insecure.
 
@@ -97,7 +97,7 @@ Proper key management:
 
 ## How Nexli Handles Encryption
 
-Nexli uses HTTPS for all data in transit. Firebase provides AES-256 encryption at rest for all stored data. Medical records and Aadhaar numbers use field-level encryption within Firestore, managed with separate encryption keys — meaning even database-level access does not expose these fields.
+Nexli uses HTTPS for all data in transit. Firebase provides AES-256 encryption at rest for all stored data. Medical records and Aadhaar numbers use field-level encryption within Firestore, managed with separate encryption keys, meaning even database-level access does not expose these fields.
 
 ---
 
@@ -109,7 +109,7 @@ A: Yes. On-premise does not mean safe from insider threats, physical theft, or n
 **Q: Is data encrypted when exported for backup?**
 A: This varies. Ask vendors if exported backup files are encrypted. Unencrypted backup files stored on cloud drives or USB devices are a significant risk.
 
-**Q: What if we need to migrate our data to a different ERP — will encryption be a problem?**
+**Q: What if we need to migrate our data to a different ERP, will encryption be a problem?**
 A: Data export for migration typically requires decrypting the data, which is handled by the vendor during the export process. The export file itself may or may not be re-encrypted.
 
 **Q: Can we audit the vendor's encryption implementation?**
@@ -121,10 +121,10 @@ A: This is a real concern. Your contract should specify that data exports includ
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

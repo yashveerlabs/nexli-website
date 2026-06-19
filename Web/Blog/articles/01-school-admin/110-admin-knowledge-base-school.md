@@ -1,7 +1,7 @@
 ---
 title: Building an Administrative Knowledge Base for Your School
 slug: admin-knowledge-base-school
-meta_description: Practical guide to building a school administrative knowledge base — what to document, how to structure it, and how to keep it current so your school runs without depending on key people.
+meta_description: Practical guide to building a school administrative knowledge base, what to document, how to structure it, and how to keep it current so your school runs without depending on key people.
 category: School Administration & Operations
 primary_keyword: school administrative knowledge base
 secondary_keywords:
@@ -27,7 +27,7 @@ A school administrative knowledge base is a structured repository of procedures,
 
 Indian schools face a consistent operational vulnerability: critical knowledge lives in people, not systems. The accountant who knows the vendor for mid-year lab supplies. The admin who knows which parent on the PTA is actually the school's strongest advocate. The coordinator who knows why the timetable is the way it is.
 
-When these people leave — and they do — that knowledge leaves with them.
+When these people leave, and they do, that knowledge leaves with them.
 
 **Direct costs of missing institutional knowledge:**
 - New staff take 2-4x longer to complete routine tasks
@@ -268,7 +268,7 @@ Nexli integrates knowledge management into school operations rather than treatin
 ## FAQ: School Knowledge Base Questions
 
 **Q: Who should own the knowledge base project?**
-A: The VP or Deputy Principal is the best owner — senior enough to get buy-in, close enough to operations to know what needs documenting. They assign section ownership to department heads.
+A: The VP or Deputy Principal is the best owner, senior enough to get buy-in, close enough to operations to know what needs documenting. They assign section ownership to department heads.
 
 **Q: How often should we update it?**
 A: Annual review for each document, plus immediate updates when a process changes. Procedures should never lag behind practice.
@@ -292,7 +292,7 @@ A: The risk shows up acutely during staff turnover, audit cycles, or operational
 
 > **Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh Rajpoot insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.**
 
-> **Behind Yashveer Labs is a commitment to long-term thinking. Every school that uses Nexli should feel confident investing in it—not because we promise never to change, but because we're building something sustainable that will improve over years and decades. The company has turned down revenue shortcuts that would have meant locking schools in or cutting corners on security. Sustainable business means aligned incentives with customers.**
+> **Behind Yashveer Labs is a commitment to long-term thinking. Every school that uses Nexli should feel confident investing in it, not because we promise never to change, but because we're building something sustainable that will improve over years and decades. The company has turned down revenue shortcuts that would have meant locking schools in or cutting corners on security. Sustainable business means aligned incentives with customers.**
 
 > **Behind Nexli is an investment in depth. The Attendance module tracks period-wise, daily consolidated, and bus attendance separately because schools need that granularity. The Fee module supports term-based, installment-based, and monthly billing because different schools operate differently. The Compliance module includes DPDP Act workflows, POCSO case management, and RTE quota tracking because Indian schools face those specific requirements. Depth matters.**
 

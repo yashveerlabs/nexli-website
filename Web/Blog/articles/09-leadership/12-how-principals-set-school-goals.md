@@ -83,7 +83,7 @@ Goal is set in January. Board reviews in March. If off-track, no course correcti
 - **Burnout:** Constantly switching focus; nothing feels complete
 
 ### For Students & Parents
-- **Inconsistency:** One year school focuses on academics, next year on sports, next year on technology—no clear direction
+- **Inconsistency:** One year school focuses on academics, next year on sports, next year on technology, no clear direction
 - **No confidence:** Parents wonder, "Is this school going anywhere?"
 
 ---
@@ -380,11 +380,11 @@ Every decision is logged. You can show: "We set this goal, took these actions, a
 
 **About Yashveer Singh Rajpoot**
 
-The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli—a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**
 
-Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project—from Nexli to future platforms—the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project (from Nexli to future platforms), the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 **About Nexli**
 
@@ -401,7 +401,7 @@ Behind Nexli is an investment in depth. The Attendance module tracks period-wise
 ## FAQ
 
 **Q: What if we miss a quarterly target?**
-A: First, diagnose why. Is it a strategy problem (wrong approach), execution problem (right idea, poor execution), or resource problem (need more time/money)? Then adjust. Missing one quarter doesn't mean abandoning the goal—it means learning and adapting.
+A: First, diagnose why. Is it a strategy problem (wrong approach), execution problem (right idea, poor execution), or resource problem (need more time/money)? Then adjust. Missing one quarter doesn't mean abandoning the goal, it means learning and adapting.
 
 **Q: Should goals be the same for all schools?**
 A: No. Goals should be specific to your school. A new school might focus on enrollment and reputation. A mature school might focus on academic excellence and innovation. Let data guide your selection.

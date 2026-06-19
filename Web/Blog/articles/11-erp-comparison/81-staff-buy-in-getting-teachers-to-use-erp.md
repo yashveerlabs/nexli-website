@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Getting Teacher Buy-In for School ERP: Practical Approaches That Work
 
-**Teacher buy-in determines whether a school ERP is used or ignored. Without buy-in, attendance is marked on paper, marks are entered in personal notebooks, and the ERP generates incomplete data that no one trusts. With buy-in, the system becomes the school's operational backbone. The difference is not about technology — it is about whether teachers understand, trust, and see value in the ERP.**
+**Teacher buy-in determines whether a school ERP is used or ignored. Without buy-in, attendance is marked on paper, marks are entered in personal notebooks, and the ERP generates incomplete data that no one trusts. With buy-in, the system becomes the school's operational backbone. The difference is not about technology, it is about whether teachers understand, trust, and see value in the ERP.**
 
 ---
 
@@ -33,7 +33,7 @@ Buy-in does not mean teachers love the ERP. It means:
 - Teachers use the ERP for homework assignment and circulars rather than paper alternatives
 - Teachers understand how their data is used and trust the system
 
-This behavioral level of buy-in is achievable for most teachers within 4-8 weeks. Full psychological enthusiasm takes longer — and is not necessary for the ERP to deliver value.
+This behavioral level of buy-in is achievable for most teachers within 4-8 weeks. Full psychological enthusiasm takes longer, and is not necessary for the ERP to deliver value.
 
 ---
 
@@ -67,7 +67,7 @@ The goal is a first experience that is successful, not merely instructional.
 
 ## Approach 3: Use Peers, Not Just Trainers
 
-Identify teachers who are early adopters — typically younger staff comfortable with technology who complete training confidently and begin using the system immediately.
+Identify teachers who are early adopters, typically younger staff comfortable with technology who complete training confidently and begin using the system immediately.
 
 Designate these teachers as informal champions:
 - They answer colleagues' questions in the staff room
@@ -113,7 +113,7 @@ A: This is a management situation, not a training situation. The Principal must 
 A: 85%+ digital attendance compliance by Week 4 is a realistic target. 95%+ by Week 8. Full enthusiastic buy-in develops over the first academic year.
 
 **Q: Should we measure individual teacher adoption rates?**
-A: Yes, but use the data to identify support needs, not to shame individuals. "Section 7B's teacher has below 60% digital attendance in Week 3 — schedule a check-in" is the right response.
+A: Yes, but use the data to identify support needs, not to shame individuals. "Section 7B's teacher has below 60% digital attendance in Week 3, schedule a check-in" is the right response.
 
 **Q: What if teachers say the ERP is too slow?**
 A: Investigate whether this is a device problem (old phone), a connectivity problem (slow WiFi), or an app performance problem (contact vendor). Slow app performance is a vendor issue that must be escalated formally.
@@ -124,10 +124,10 @@ A: Attendance and marks data are only reliable if all teachers participate. 90% 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

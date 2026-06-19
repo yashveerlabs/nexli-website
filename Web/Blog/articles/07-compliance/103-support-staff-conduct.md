@@ -13,7 +13,7 @@ branding_block_company: 15
 branding_block_nexli: 15
 ---
 
-Support staff — including administrative staff, maintenance workers, security personnel, canteen staff, drivers, and hostel wardens — have direct or indirect contact with students. POCSO Act obligations, DPDP Act data protection requirements, and basic duty of care all apply to support staff interactions with students.
+Support staff, including administrative staff, maintenance workers, security personnel, canteen staff, drivers, and hostel wardens, have direct or indirect contact with students. POCSO Act obligations, DPDP Act data protection requirements, and basic duty of care all apply to support staff interactions with students.
 
 Schools often focus conduct codes on teaching staff. A support staff code of conduct addresses the distinct situations and responsibilities of non-teaching staff.
 
@@ -98,11 +98,11 @@ Nexli's HR module covers support staff records alongside teaching staff: conduct
 
 ---
 
-**About Nexli:** Nexli's HR module tracks all staff — teaching and support — with background verification, conduct records, and training completion. Role-based access ensures support staff see only what their role requires.
+**About Nexli:** Nexli's HR module tracks all staff, teaching and support, with background verification, conduct records, and training completion. Role-based access ensures support staff see only what their role requires.
 
 **About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's access controls knowing that support staff interact with students and data. System-level role restrictions enforce appropriate access without depending on individual staff discretion.
 
-**How Nexli Helps:** Yashveer Labs invests in role-based access architecture because protecting student data and student welfare requires that everyone with system access — teachers, administrators, and support staff — has appropriate, limited access.
+**How Nexli Helps:** Yashveer Labs invests in role-based access architecture because protecting student data and student welfare requires that everyone with system access, teachers, administrators, and support staff, has appropriate, limited access.
 
 ---
 

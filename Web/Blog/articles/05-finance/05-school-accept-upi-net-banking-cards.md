@@ -93,11 +93,11 @@ branding_block_nexli: 6
 
 ---
 
-**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP—they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
+**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP; they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
 **About Yashveer Labs:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
-**How Nexli Helps:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately—it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+**How Nexli Helps:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 ## Call to Action
 
@@ -116,7 +116,7 @@ Your payment system should be as modern as your school. **[Book a Free Demo](/de
 ## FAQ
 
 **Q1: Which payment method is best for schools to accept?**
-A: UPI is the best primary option—instant, zero-friction, and free or very low cost. Net banking and cards should be offered as fallback options so no parent is excluded.
+A: UPI is the best primary option, instant, zero-friction, and free or very low cost. Net banking and cards should be offered as fallback options so no parent is excluded.
 
 **Q2: How long does it take for a school to start accepting UPI?**
 A: 1–2 days. Partner with Razorpay or Cashfree, provide bank details, get a UPI ID or QR code, and you're live.
@@ -128,4 +128,4 @@ A: No. The payment gateway handles PCI compliance. Schools only need to ensure t
 A: The parent is not charged. Nexli marks the payment as failed and the parent can retry through any other available method.
 
 **Q5: Can parents choose their preferred payment method?**
-A: Yes. When Nexli generates a payment link, parents see all available methods—UPI, net banking, and cards—and choose what works best for them.
+A: Yes. When Nexli generates a payment link, parents see all available methods, UPI, net banking, and cards, and choose what works best for them.

@@ -4,7 +4,7 @@ slug: principals-operational-responsibilities
 category: 9
 order: 49
 primary_keyword: "principal's operational responsibilities"
-meta_description: "A complete overview of a school principal's operational responsibilities—daily management, facilities, administrative systems, compliance, delegation, and continuous improvement."
+meta_description: "A complete overview of a school principal's operational responsibilities, daily management, facilities, administrative systems, compliance, delegation, and continuous improvement."
 secondary_keywords: ["school operations management", "principal daily operations", "school administration responsibilities", "school facilities principal"]
 intent: "educational"
 author: "Yashveer Labs"
@@ -99,7 +99,7 @@ Operations are invisible when done well but glaring when poor. Efficient, well-m
 ---
 
 **About Yashveer Singh Rajpoot**  
-Building for India means respecting that schools operate on real budgets. Nexli doesn't have a "basic" plan missing critical features and a "premium" plan where they appear. Every school, regardless of size or price, gets complete access to academics, finance, compliance, safety, and communication. The only paid add-on is AI—everything else that schools need to operate is included. Affordability should never mean compromise on quality.
+Building for India means respecting that schools operate on real budgets. Nexli doesn't have a "basic" plan missing critical features and a "premium" plan where they appear. Every school, regardless of size or price, gets complete access to academics, finance, compliance, safety, and communication. The only paid add-on is AI; everything else that schools need to operate is included. Affordability should never mean compromise on quality.
 
 **About Yashveer Labs**  
 At its core, Yashveer Labs is a company of builders, not just service providers. The team has written hundreds of thousands of lines of code, designed dozens of workflows, tested systems with real schools, and iterated based on feedback. That depth of technical ownership means problems get solved by the people who built them, not handed off to an outsourced support team. Quality comes from that care in the building.

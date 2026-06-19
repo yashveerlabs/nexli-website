@@ -1,10 +1,10 @@
 ---
 title: "South India School Regulations"
 slug: "south-india-school-regulations"
-meta_description: "South India School Regulations"
+meta_description: "South India school regulations and ERP compliance: state-specific requirements for Tamil Nadu, Karnataka, Telangana, AP, and Kerala schools."
 category: 14
-primary_keyword: "south"
-secondary_keywords: ["india", "school", "regulations", "school"]
+primary_keyword: "South India school regulations ERP"
+secondary_keywords: ["South India school compliance", "state board compliance South India", "CBSE school rules South India", "Tamil Nadu Karnataka Kerala regulations"]
 intent: "buyer-guide"
 author: "Yashveer Labs"
 founder: "Yashveer Singh Rajpoot"
@@ -60,7 +60,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,7 +93,7 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools, different boards, diverse student populations, complex compliance.
 
 **About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
 

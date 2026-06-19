@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## HR and Staff Management Features in School ERP
 
-**Schools are people-intensive organizations. A 500-student school typically has 40-60 staff members across teaching, administrative, operational, and support roles. HR management — tracking qualifications, attendance, leaves, appraisals, and compliance — is a significant operational burden without a system. This guide explains what a school ERP's HR module must do.**
+**Schools are people-intensive organizations. A 500-student school typically has 40-60 staff members across teaching, administrative, operational, and support roles. HR management, tracking qualifications, attendance, leaves, appraisals, and compliance, is a significant operational burden without a system. This guide explains what a school ERP's HR module must do.**
 
 ---
 
@@ -35,7 +35,7 @@ Every school ERP must maintain a complete staff directory with:
 
 **Employment information:** Date of joining, employment type (permanent, contract, probationary), designation, department, reporting manager, salary grade
 
-**Background verification:** Police verification status, character certificate from previous employer, reference check records — all with dates
+**Background verification:** Police verification status, character certificate from previous employer, reference check records, all with dates
 
 **Documents:** Uploaded copies of qualification certificates, experience letters, identity proof, bank account details for salary disbursement
 
@@ -51,7 +51,7 @@ Staff attendance must capture:
 - Early departures
 - Work-from-home or remote work days (if applicable)
 
-Staff attendance must feed directly into payroll — late arrivals and unauthorized absences affect salary deductions.
+Staff attendance must feed directly into payroll, late arrivals and unauthorized absences affect salary deductions.
 
 ---
 
@@ -95,7 +95,7 @@ New staff typically serve a 6-month probation period before confirmation. The sy
 - Alert the HOD and HR before probation end
 - Record confirmation decision (confirmed, extended, terminated)
 
-Automated alerts prevent HR from missing probation end dates — which can create legal complications if not managed formally.
+Automated alerts prevent HR from missing probation end dates, which can create legal complications if not managed formally.
 
 ---
 
@@ -107,7 +107,7 @@ Annual performance appraisals drive salary increments. The system should support
 - Principal review
 - Salary increment decision recorded
 
-The link between appraisal results and salary changes in payroll should be direct — no re-entry.
+The link between appraisal results and salary changes in payroll should be direct, no re-entry.
 
 ---
 
@@ -134,15 +134,15 @@ A: A staff member can be assigned to multiple departments. Leave approvals may r
 A: Departing staff should be marked as "Separated" with a separation date and reason. Their historical records remain (for compliance and reference), but they no longer appear in active directories.
 
 **Q: Can we track professional development (training programs, certifications)?**
-A: This is a valuable feature. Staff training records — who attended which programs, dates, certificate issued — should be part of the staff profile and visible to HR and management.
+A: This is a valuable feature. Staff training records, who attended which programs, dates, certificate issued, should be part of the staff profile and visible to HR and management.
 
 ---
 
 **About Yashveer Singh Rajpoot**
-The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli — a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**
-Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project — from Nexli to future platforms — the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 **How Nexli Helps**
 Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents where they actually open messages. Nexli is built for Indian schools, by people who understand Indian schools.

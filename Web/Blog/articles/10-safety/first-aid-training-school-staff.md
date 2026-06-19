@@ -61,7 +61,7 @@ Without addressing these operational issues, schools face:
 ## Solutions
 
 ### 1. Implement Integrated Technology
-Deploy a comprehensive school management system that connects all departments—academics, finance, HR, and operations—for real-time data visibility.
+Deploy a comprehensive school management system that connects all departments, academics, finance, HR, and operations, for real-time data visibility.
 
 ### 2. Automate Repetitive Tasks
 Use automation for routine processes like attendance marking, fee reminders, report generation, and communication to free staff for strategic work.
@@ -151,7 +151,7 @@ At its core, Nexli is built on a principle that has shaped every feature: school
 ## Frequently Asked Questions
 
 **Q: Does Nexli track student medical records?**
-A: Yes. Nexli's Medical module includes student visit logs, health records, immunization tracking, and allergen flags — all accessible to authorized staff with role-based permissions.
+A: Yes. Nexli's Medical module includes student visit logs, health records, immunization tracking, and allergen flags, all accessible to authorized staff with role-based permissions.
 
 **Q: Can wardens access first aid incident logs digitally?**
 A: Yes. Incident management in Nexli allows wardens and nurses to log first aid events, medications administered, and follow-up actions with timestamps for each student.

@@ -13,7 +13,7 @@ branding_block_company: 10
 branding_block_nexli: 10
 ---
 
-A school data breach — whether a hacked portal, a lost physical file, or accidental exposure of student records — triggers mandatory obligations under DPDP Act 2023. Schools must notify affected parents and, in serious cases, the Data Protection Authority. Having a breach response plan before an incident is the difference between a managed incident and a crisis.
+A school data breach, whether a hacked portal, a lost physical file, or accidental exposure of student records, triggers mandatory obligations under DPDP Act 2023. Schools must notify affected parents and, in serious cases, the Data Protection Authority. Having a breach response plan before an incident is the difference between a managed incident and a crisis.
 
 ## What Constitutes a Data Breach
 
@@ -57,7 +57,7 @@ Nexli's DPO dashboard sends automated breach alerts when unusual access patterns
 
 ---
 
-**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately — it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 **About Yashveer Labs:** Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
 
@@ -74,7 +74,7 @@ A: The DPDP Act 2023 prescribes notification within the timeline specified in go
 
 **Q: Must every data breach be reported to authorities?**
 
-A: Not necessarily. Minor incidents with no risk of harm to individuals may not require authority notification. Significant breaches — especially involving sensitive data of many students — do. Consult your DPO and legal counsel.
+A: Not necessarily. Minor incidents with no risk of harm to individuals may not require authority notification. Significant breaches, especially involving sensitive data of many students, do. Consult your DPO and legal counsel.
 
 **Q: What if the breach was caused by a third-party vendor?**
 

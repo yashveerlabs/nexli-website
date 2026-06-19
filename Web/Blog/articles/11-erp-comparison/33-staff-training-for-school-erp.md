@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Staff Training for School ERP: How to Do It Right
 
-**The most common reason school ERP implementations fail is not poor software — it is poor training. Staff who do not understand the system avoid it. Teachers mark attendance in notebooks because the app seems complicated. Accounts staff use Excel because they never learned the fee module. Training is not a nice-to-have; it determines whether the investment succeeds.**
+**The most common reason school ERP implementations fail is not poor software, it is poor training. Staff who do not understand the system avoid it. Teachers mark attendance in notebooks because the app seems complicated. Accounts staff use Excel because they never learned the fee module. Training is not a nice-to-have; it determines whether the investment succeeds.**
 
 ---
 
@@ -29,7 +29,7 @@ date: "2026-06-19"
 
 The biggest training mistake: one session for all staff. A 4-hour session that covers "the entire ERP" for the Principal, three HODs, twenty teachers, the accounts team, and the admin staff simultaneously teaches no one effectively.
 
-Each role uses different parts of the system. A subject teacher needs to know attendance marking and marks entry — nothing else initially. The accounts team needs to know the fee module in detail and nothing else. Giving everyone the same training means everyone is overwhelmed by features they will never use.
+Each role uses different parts of the system. A subject teacher needs to know attendance marking and marks entry, nothing else initially. The accounts team needs to know the fee module in detail and nothing else. Giving everyone the same training means everyone is overwhelmed by features they will never use.
 
 **Role-based training is the only approach that works.**
 
@@ -79,7 +79,7 @@ Each role uses different parts of the system. A subject teacher needs to know at
 - Homework assignment: publishing subject homework
 - Lesson plan submission
 
-**Format:** Practice session with the teacher's own class roster and subject. Short and focused — subject teachers have the narrowest use of the system.
+**Format:** Practice session with the teacher's own class roster and subject. Short and focused, subject teachers have the narrowest use of the system.
 
 ---
 
@@ -114,7 +114,7 @@ Training does not end at go-live. Sustain adoption with:
 
 **Video recordings:** Record training sessions. New staff joining mid-year can watch the recording relevant to their role.
 
-**Champion designation:** Identify one "ERP champion" per department — a teacher who is comfortable with the system and can answer colleague questions. This reduces dependency on the vendor.
+**Champion designation:** Identify one "ERP champion" per department, a teacher who is comfortable with the system and can answer colleague questions. This reduces dependency on the vendor.
 
 **Monthly check-in for first 3 months:** A 30-minute session covering common issues, questions, and new features. Keeps adoption momentum.
 
@@ -147,21 +147,21 @@ A: Plan 3-5 total days across all role groups. The accounts team and class teach
 A: Training recordings and one-on-one catch-up sessions are important. A missed HOD can block their department's adoption if they do not understand the system.
 
 **Q: Should we train parents separately?**
-A: Parents need a simple onboarding — a one-page guide or a 5-minute video explaining how to log in, check attendance, and pay fees. This is different from staff training and much shorter.
+A: Parents need a simple onboarding, a one-page guide or a 5-minute video explaining how to log in, check attendance, and pay fees. This is different from staff training and much shorter.
 
 **Q: What if a teacher decides they do not want to use the system?**
 A: This is a management issue, not a training issue. The Principal must set a clear expectation that the ERP is the official system, not optional. Identify the specific concern (too slow, confusing interface) and address it, but do not let one resistant teacher undermine school-wide adoption.
 
 **Q: How do we measure training effectiveness?**
-A: Track usage metrics — how many teachers marked digital attendance in week 1 vs. week 4. Improving usage rates over the first month indicate effective training. Stagnant or declining usage indicate a problem that needs attention.
+A: Track usage metrics, how many teachers marked digital attendance in week 1 vs. week 4. Improving usage rates over the first month indicate effective training. Stagnant or declining usage indicate a problem that needs attention.
 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

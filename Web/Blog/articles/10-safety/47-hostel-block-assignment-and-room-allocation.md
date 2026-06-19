@@ -15,7 +15,7 @@ branding_block_nexli: 8
 
 # Hostel Block Assignment and Room Allocation: Strategic Placement for Wellbeing
 
-How students are placed in hostel blocks and rooms shapes their entire boarding experience. A mismatch—aggressive roommate, incompatible peers, wrong age group—can make hostel years miserable. Strategic allocation, informed by data and careful consideration, promotes belonging, adjustment, and safety. This guide outlines allocation frameworks.
+How students are placed in hostel blocks and rooms shapes their entire boarding experience. A mismatch, aggressive roommate, incompatible peers, wrong age group, can make hostel years miserable. Strategic allocation, informed by data and careful consideration, promotes belonging, adjustment, and safety. This guide outlines allocation frameworks.
 
 ## Why Room Allocation Matters
 
@@ -56,7 +56,7 @@ Optimal room occupancy balances occupancy rates (revenue) with student welfare (
 
 **4. Geographic Consideration**
 - Students from same region/hometown may cluster together (language comfort)
-- But avoid ghettoization—mix geographic backgrounds for cultural exposure
+- But avoid ghettoization, mix geographic backgrounds for cultural exposure
 - Balance: 1-2 roommates from student's home region per room
 
 **5. Special Needs Accommodation**
@@ -188,7 +188,7 @@ Identify 10-15% of senior students as floor leaders:
 Small room near warden's office:
 - For students with recent behavioral issues (fighting, substance concerns)
 - Ensures closer supervision
-- Not punitive—framed as "support and mentoring"
+- Not punitive, framed as "support and mentoring"
 - Reassess after 4-6 weeks; move to regular room if improvement
 
 **Medical Monitoring Room**
@@ -226,10 +226,10 @@ By October, Aditya had formed a close study group, participated in floor activit
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows — no code changes required. The system adapts to the school, not the other way around.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**  
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**  
 Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.

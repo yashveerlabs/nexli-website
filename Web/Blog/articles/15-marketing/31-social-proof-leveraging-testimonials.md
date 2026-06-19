@@ -29,7 +29,7 @@ Parents don't trust school marketing. They trust other parents.
 
 89% of parents read reviews before enrolling. 72% trust peer testimonials more than school ads.
 
-Social proof—real parent and student voices—is your most credible marketing asset. Yet most schools hide it or don't systematically collect it.
+Social proof, real parent and student voices, is your most credible marketing asset. Yet most schools hide it or don't systematically collect it.
 
 ---
 

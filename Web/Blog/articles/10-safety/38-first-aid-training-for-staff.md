@@ -15,18 +15,18 @@ branding_block_nexli: 8
 
 # First Aid Training for Staff: Building Emergency Response Capability
 
-Medical emergencies in schools demand rapid, confident response. A student collapses during sports, a child cuts their head during play, an allergic reaction strikes unexpectedly—without trained staff, critical minutes are lost. This guide explains how to build first aid competency across your school team.
+Medical emergencies in schools demand rapid, confident response. A student collapses during sports, a child cuts their head during play, an allergic reaction strikes unexpectedly, without trained staff, critical minutes are lost. This guide explains how to build first aid competency across your school team.
 
 ## Why First Aid Training Matters
 
 **The Emergency Reality**
-Indian schools serve 250+ million students daily. According to the National Health Mission, over 40% of school-related injuries could be mitigated with basic first aid knowledge. RTE (Right to Education) Act, 2009, mandates that schools provide a safe learning environment—trained first aid staff is a legal requirement.
+Indian schools serve 250+ million students daily. According to the National Health Mission, over 40% of school-related injuries could be mitigated with basic first aid knowledge. RTE (Right to Education) Act, 2009, mandates that schools provide a safe learning environment, trained first aid staff is a legal requirement.
 
 **Staff Confidence & Parent Trust**
 Parents enroll their children with the expectation that trained personnel can respond to emergencies. Schools with documented first aid training programs report higher parent confidence and reduced liability. When an incident occurs, proper documentation and trained response demonstrate duty of care.
 
 **Reducing Disability & Mortality**
-First aid isn't about replacing doctors—it's about bridging the critical gap between injury and hospital care. Studies show that immediate CPR, bleeding control, and fracture immobilization can prevent permanent disability and save lives.
+First aid isn't about replacing doctors, it's about bridging the critical gap between injury and hospital care. Studies show that immediate CPR, bleeding control, and fracture immobilization can prevent permanent disability and save lives.
 
 ## Building Your First Aid Program
 
@@ -69,7 +69,7 @@ Partner with organizations like:
 - FSSAI-certified trainers (for food-related emergencies)
 - Hospital-affiliated training programs
 
-Verify trainer credentials—all should hold current certifications from recognized bodies.
+Verify trainer credentials, all should hold current certifications from recognized bodies.
 
 **Step 4: Establish Training Schedule**
 
@@ -145,10 +145,10 @@ Emergency responders confirmed: "Without immediate CPR and AED use, the outcome 
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows — no code changes required. The system adapts to the school, not the other way around.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**  
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**  
 Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.

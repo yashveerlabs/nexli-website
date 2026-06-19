@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Gradebook and Marks Management: What to Evaluate in a School ERP
 
-**A school ERP's gradebook is where academic data lives or dies. Poor marks management — incorrect aggregation, grade calculation errors, missed board-format requirements — creates report card crises at the end of every term. This guide explains what to evaluate before committing to any system.**
+**A school ERP's gradebook is where academic data lives or dies. Poor marks management, incorrect aggregation, grade calculation errors, missed board-format requirements, creates report card crises at the end of every term. This guide explains what to evaluate before committing to any system.**
 
 ---
 
@@ -42,7 +42,7 @@ Before trusting any ERP's gradebook, test it with your actual exam data.
 
 ### Multiple Assessment Types
 
-A single term typically includes periodic tests, half-yearly and annual examinations, practicals, projects, internal assessments, and co-scholastic assessments. The system must let schools define the assessment structure — types, weights, and grade calculation rules — per class and per board.
+A single term typically includes periodic tests, half-yearly and annual examinations, practicals, projects, internal assessments, and co-scholastic assessments. The system must let schools define the assessment structure, types, weights, and grade calculation rules, per class and per board.
 
 ### Auto-Calculation Per Board Rules
 
@@ -73,13 +73,13 @@ For schools implementing NEP 2020, the HPC replaces traditional report cards for
 1. Enter marks for one complete exam cycle. Verify grades calculate correctly per your board's rules.
 2. Ask the vendor to show the aggregation formula. Ensure the system uses the correct exam paper per subject.
 3. Generate a report card. Check it matches your board's required format exactly.
-4. If implementing HPC, ask for a live demo — not a mockup.
+4. If implementing HPC, ask for a live demo, not a mockup.
 
 ---
 
 ## How Nexli Handles Marks Management
 
-Nexli's gradebook supports multiple assessment types with configurable weights per class and board. Marks aggregation uses paper IDs (not subject IDs), which prevents cross-paper mark contamination — the most common cause of blank report cards in other systems.
+Nexli's gradebook supports multiple assessment types with configurable weights per class and board. Marks aggregation uses paper IDs (not subject IDs), which prevents cross-paper mark contamination, the most common cause of blank report cards in other systems.
 
 The NEP 2020 HPC module is production-ready: multi-domain assessment with self, peer, teacher, and parent inputs generates visual progress reports. Demo data includes 79 exam papers and 300 result records across a complete Term 1 Examination cycle.
 
@@ -100,15 +100,15 @@ A: Yes, the student profile should show academic history across all terms and ye
 A: Elective subjects should be configured per class with relevant teachers assigned, with correct aggregation even when students take different electives.
 
 **Q: What if our school uses a custom grading scale?**
-A: Look for ERPs with fully configurable grading rules — boundaries, labels, and calculation formulas you can set without vendor involvement.
+A: Look for ERPs with fully configurable grading rules, boundaries, labels, and calculation formulas you can set without vendor involvement.
 
 ---
 
 **About Yashveer Singh Rajpoot**
-The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli — a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**
-Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project — from Nexli to future platforms — the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 **How Nexli Helps**
 Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents where they actually open messages. Nexli is built for Indian schools, by people who understand Indian schools.

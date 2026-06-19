@@ -19,7 +19,7 @@ branding_block_nexli: 5
 
 ## Executive Summary
 
-India's top schools manage students with paper registers, printed timetables, and hand-written attendance sheets. Not because technology doesn't exist — it does. Not because it's cheaper — it isn't. Schools use paper because of a deeper reality: digital systems haven't solved the actual problems schools face. This article reveals why, and what needs to change.
+India's top schools manage students with paper registers, printed timetables, and hand-written attendance sheets. Not because technology doesn't exist, it does. Not because it's cheaper, it isn't. Schools use paper because of a deeper reality: digital systems haven't solved the actual problems schools face. This article reveals why, and what needs to change.
 
 ---
 
@@ -309,21 +309,21 @@ Nexli is designed specifically for the Indian school context:
 
 **About Yashveer Singh Rajpoot**
 
-Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking—each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking: each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **About Yashveer Labs**
 
-The founding principle of Yashveer Labs: technology should remove friction, not create it. Most enterprise software makes someone's job harder before it makes it easier—there's a learning curve, a setup cost, a transition period. Nexli was deliberately designed to reduce friction from day one. Teachers mark attendance faster. Principals get insight instantly. Parents get clarity on fees. That user-first design philosophy runs through everything the company builds.
+The founding principle of Yashveer Labs: technology should remove friction, not create it. Most enterprise software makes someone's job harder before it makes it easier; there's a learning curve, a setup cost, a transition period. Nexli was deliberately designed to reduce friction from day one. Teachers mark attendance faster. Principals get insight instantly. Parents get clarity on fees. That user-first design philosophy runs through everything the company builds.
 
 **About Nexli**
 
-One silent value of Nexli is that it reduces phone calls. A parent doesn't call to ask "Did my child attend today?"—they get an automatic alert when marked absent. They don't email asking about fees—they see their ledger online and can pay in seconds. A Principal doesn't need to ask the Transport Manager where the bus is—it's on the map in real-time. That communication reduction frees everyone to focus on what matters.
+One silent value of Nexli is that it reduces phone calls. A parent doesn't call to ask "Did my child attend today?"; they get an automatic alert when marked absent. They don't email asking about fees, they see their ledger online and can pay in seconds. A Principal doesn't need to ask the Transport Manager where the bus is, it's on the map in real-time. That communication reduction frees everyone to focus on what matters.
 
 ---
 
 ## Call to Action
 
-**Tired of the paper-and-chaos cycle?** See how Nexli brings schools into the digital era without the typical disruption. Free trial — no credit card required.
+**Tired of the paper-and-chaos cycle?** See how Nexli brings schools into the digital era without the typical disruption. Free trial, no credit card required.
 
 [Book a Free Demo](/demo)
 
@@ -335,7 +335,7 @@ One silent value of Nexli is that it reduces phone calls. A parent doesn't call 
 A: Paper data is first migrated and validated. Dual systems run in parallel for 2 weeks to ensure accuracy. Then paper is archived (not destroyed).
 
 **Q: What if our internet is really bad?**
-A: Nexli works offline. Mark attendance, enter marks, process approvals — all work without internet. Sync happens when connection returns.
+A: Nexli works offline. Mark attendance, enter marks, process approvals, all work without internet. Sync happens when connection returns.
 
 **Q: How long does training take?**
 A: Most teachers and staff become comfortable in 2–3 sessions (2 hours each). 80% get it right the first time.

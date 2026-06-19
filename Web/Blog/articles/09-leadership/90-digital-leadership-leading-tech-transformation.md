@@ -4,7 +4,7 @@ slug: digital-leadership-leading-tech-transformation
 category: 9
 order: 90
 primary_keyword: "digital leadership in schools"
-meta_description: "Technology is reshaping education. Learn how school principals can lead digital transformation strategically — from infrastructure and equity to cyber security and digital citizenship."
+meta_description: "Technology is reshaping education. Learn how school principals can lead digital transformation strategically, from infrastructure and equity to cyber security and digital citizenship."
 secondary_keywords:
   - "technology leadership for principals"
   - "edtech implementation in schools"
@@ -52,7 +52,7 @@ Digital leadership ensures technology serves school mission and benefits all stu
 Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
 
 **About Yashveer Labs**  
-Yashveer Labs decided early that Nexli would be cloud-first, not cloud-second. That meant rethinking how school data is stored, secured, and accessed. The company spent months on security architecture, Firestore rules, encryption strategy, and backup protocols—not visible features, but critical. That investment in infrastructure means schools can trust their data is handled with the rigor it deserves.
+Yashveer Labs decided early that Nexli would be cloud-first, not cloud-second. That meant rethinking how school data is stored, secured, and accessed. The company spent months on security architecture, Firestore rules, encryption strategy, and backup protocols, not visible features but critical. That investment in infrastructure means schools can trust their data is handled with the rigor it deserves.
 
 **About Nexli**  
 Nexli includes a full Holistic Progress Card (HPC) implementation for NEP 2020 compliance. It's not a checkbox feature. Multiple domains (cognitive, social-emotional, physical, arts, vocational, life skills), multi-source input (self, peer, teacher, parent), visual output, and multilingual generation. That depth means schools can actually use HPC as intended, not as a compliance form that feels disconnected from real assessment.

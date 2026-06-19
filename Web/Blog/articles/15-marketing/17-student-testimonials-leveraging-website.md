@@ -52,7 +52,7 @@ Gathering testimonials requires permission forms, student privacy compliance (DP
 Even schools with testimonials often display them badly:
 - Tiny text on a "Testimonials" page nobody visits.
 - Generic quotes: "Great school!" with no context.
-- No photos or video—just text, which converts at 1/10th the rate.
+- No photos or video, just text, which converts at 1/10th the rate.
 - Hidden below the fold where nobody sees them.
 
 ### 5. **Wrong Content**
@@ -99,23 +99,23 @@ Don't make every testimonial about academics. Variety resonates.
 
 **Academic Excellence:**
 *"I was average in math. The extra classes helped me go from 65% to 92%. I now want to study engineering."*
-— Arjun, Class 10
+,  Arjun, Class 10
 
 **Sports & Confidence:**
 *"I was shy. The debate club made me speak. Now I'm confident in class. I even won a district competition."*
-— Priya, Class 9
+,  Priya, Class 9
 
 **Special Needs Support:**
 *"As a CWSN student, I was scared of being left out. The teachers here made sure I was included in everything. I love coming to school."*
-— Rohan, Class 6
+,  Rohan, Class 6
 
 **Leadership Development:**
 *"I started as a student. Now I'm class captain. This school believes in every student's potential."*
-— Aisha, Class 11
+,  Aisha, Class 11
 
 **Holistic Growth:**
 *"School isn't just about grades here. I do art, sports, debate, community service. I'm a better person now."*
-— Rishi, Class 8
+,  Rishi, Class 8
 
 This diversity shows: "No matter who your child is, they'll thrive here."
 
@@ -193,7 +193,7 @@ The **Alumni Module** lets you maintain an opt-in directory of graduates and pub
 
 Every school claims excellence. Your students prove it.
 
-A well-placed student testimonial—raw, authentic, and specific—converts prospects into enrollments faster than any ad spend. Because parents don't trust marketing. They trust other parents and their kids' peers.
+A well-placed student testimonial, raw, authentic, and specific, converts prospects into enrollments faster than any ad spend. Because parents don't trust marketing. They trust other parents and their kids' peers.
 
 Stop waiting for testimonials to happen. Build a system to capture them. Diversify them across academics, sports, inclusion, and leadership. Feature them prominently. Refresh them quarterly.
 

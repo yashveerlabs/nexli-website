@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Parallel Running Old and New ERP: How to Do It Without Making It Permanent
 
-**Parallel running — maintaining both the old system and the new ERP simultaneously — is a safety net during implementation. It provides confidence that the new system matches the old one before the old one is retired. Done well, parallel running lasts 4-6 weeks and ends cleanly. Done badly, it becomes permanent — double entry forever — which is worse than not implementing the ERP at all.**
+**Parallel running, maintaining both the old system and the new ERP simultaneously, is a safety net during implementation. It provides confidence that the new system matches the old one before the old one is retired. Done well, parallel running lasts 4-6 weeks and ends cleanly. Done badly, it becomes permanent, double entry forever, which is worse than not implementing the ERP at all.**
 
 ---
 
@@ -105,7 +105,7 @@ If parallel running is still happening at Week 8, escalate to the Principal. Eit
 When parallel running shows acceptable match and staff are using the ERP consistently:
 
 1. **Archive the old system:** Keep it accessible in read-only mode for 3-6 months (for reference in disputes)
-2. **Export a final snapshot:** Generate full reports from the old system on the last day — fee ledger, attendance summary, marks history
+2. **Export a final snapshot:** Generate full reports from the old system on the last day, fee ledger, attendance summary, marks history
 3. **Store the archive:** Save in a secure, accessible location (not dependent on the old system's software remaining active)
 4. **Communicate clearly:** Inform all staff that the old system is retired and the ERP is now the only official record
 
@@ -120,7 +120,7 @@ A: 4-6 weeks for most schools. 8 weeks maximum. If still running beyond 8 weeks,
 A: Same process. Export a reference snapshot before migration, compare with ERP data weekly, archive when satisfied with match.
 
 **Q: Does parallel running mean staff have to maintain both systems?**
-A: For attendance: Yes — digital and paper simultaneously for the parallel period. For fees: Staff enter payments in the ERP; accounts also update the old ledger for the parallel period. This is a temporary burden that ends when the old system is retired.
+A: For attendance: Yes, digital and paper simultaneously for the parallel period. For fees: Staff enter payments in the ERP; accounts also update the old ledger for the parallel period. This is a temporary burden that ends when the old system is retired.
 
 **Q: What if a parent disputes their balance after we retire the old system?**
 A: Your archived snapshot from the old system provides the reference. The ERP's transaction history also provides the reference. With both available, you can reconstruct any historical position.
@@ -131,10 +131,10 @@ A: Investigate each category of discrepancy. If all discrepancies are explained 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

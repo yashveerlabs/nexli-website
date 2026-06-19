@@ -1,7 +1,7 @@
 ---
 title: School Software Training: Getting Staff On Board
 slug: school-software-training
-meta_description: How to design school software training that drives real adoption—covering role-based training, common resistance points, and how to measure whether training has worked.
+meta_description: How to design school software training that drives real adoption, covering role-based training, common resistance points, and how to measure whether training has worked.
 category: School Administration & Operations
 primary_keyword: school software training
 secondary_keywords:
@@ -41,7 +41,7 @@ The reasons this format fails are predictable:
 
 Effective school software training has four characteristics:
 
-**Role-specific.** Each role in the school—class teacher, subject teacher, class coordinator, accounts staff, principal, admission officer, hostel warden—has a different workflow. Training should cover only that role's workflows, using examples from that role's actual responsibilities.
+**Role-specific.** Each role in the school, class teacher, subject teacher, class coordinator, accounts staff, principal, admission officer, hostel warden, has a different workflow. Training should cover only that role's workflows, using examples from that role's actual responsibilities.
 
 **Hands-on from the start.** From the first minute of training, staff should be logged into the actual system performing actual tasks with real (or realistic) data. The trainer demonstrates one step; staff immediately replicate it on their own device.
 
@@ -125,7 +125,7 @@ Training format: training in the hostel itself, on the device that will be used 
 
 Resistance to school software training takes predictable forms. Each has a direct response:
 
-**"I don't need a computer to do my job."** Do not argue. Instead, show—do not tell—how the digital process is faster than the paper process. Let the resistant staff member time themselves marking paper attendance vs. digital attendance. The data usually closes the argument.
+**"I don't need a computer to do my job."** Do not argue. Instead, show, do not tell, how the digital process is faster than the paper process. Let the resistant staff member time themselves marking paper attendance vs. digital attendance. The data usually closes the argument.
 
 **"The old system was fine."** Acknowledge that the old system worked. Then identify a specific pain point the old system caused for that person (e.g., searching a paper fee ledger for 10 minutes to answer a parent's question) and show how the new system resolves it in 30 seconds.
 
@@ -222,7 +222,7 @@ Building Nexli required understanding something most software companies miss abo
 
 ## About Yashveer Labs
 
-Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep—it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
+Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep; it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
 
 ## About Nexli
 

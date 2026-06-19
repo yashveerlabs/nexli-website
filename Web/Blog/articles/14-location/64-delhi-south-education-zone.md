@@ -1,10 +1,10 @@
 ---
 title: "Delhi South Education Zone"
 slug: "delhi-south-education-zone"
-meta_description: "Delhi South Education Zone"
+meta_description: "School ERP in South Delhi: cloud-based school management for South Delhi's education zone with CBSE compliance, admissions pipeline, and 118+ staff roles."
 category: 14
-primary_keyword: "delhi"
-secondary_keywords: ["south", "education", "zone", "school"]
+primary_keyword: "school ERP South Delhi education zone"
+secondary_keywords: ["school management South Delhi", "South Delhi school software", "Delhi school ERP Vasant Vihar Hauz Khas", "CBSE school ERP South Delhi"]
 intent: "buyer-guide"
 author: "Yashveer Labs"
 founder: "Yashveer Singh Rajpoot"
@@ -60,7 +60,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,7 +93,7 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools, different boards, diverse student populations, complex compliance.
 
 **About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
 

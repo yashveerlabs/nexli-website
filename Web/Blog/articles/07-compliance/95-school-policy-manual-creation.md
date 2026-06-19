@@ -114,7 +114,7 @@ Nexli's governance module maintains policy documents with version control, appro
 
 **Q: How detailed do school policies need to be?**
 
-A: Detailed enough to answer the most common questions about how the school handles the relevant situation, but not so prescriptive that the policy cannot be followed without constant exceptions. A leave policy should specify the types of leave, entitlement, approval process, and documentation required — not every conceivable scenario.
+A: Detailed enough to answer the most common questions about how the school handles the relevant situation, but not so prescriptive that the policy cannot be followed without constant exceptions. A leave policy should specify the types of leave, entitlement, approval process, and documentation required, not every conceivable scenario.
 
 **Q: Should students sign that they have received and read the policy manual?**
 

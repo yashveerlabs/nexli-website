@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## How to Evaluate School ERP Vendor Reputation
 
-**School ERP vendors market themselves with case studies, testimonials, and impressive feature lists. Evaluating actual reputation — what schools genuinely experience over 2-3 years — requires going beyond vendor-provided materials. This guide covers practical due diligence methods that reveal what vendors do not show you in a sales presentation.**
+**School ERP vendors market themselves with case studies, testimonials, and impressive feature lists. Evaluating actual reputation, what schools genuinely experience over 2-3 years, requires going beyond vendor-provided materials. This guide covers practical due diligence methods that reveal what vendors do not show you in a sales presentation.**
 
 ---
 
@@ -35,7 +35,7 @@ Reputation evaluation covers the full lifecycle, not just the sales and onboardi
 
 ---
 
-## Method 1: Reference Schools — The Right Way
+## Method 1: Reference Schools, The Right Way
 
 Most vendors provide references. Most references are cherry-picked success stories. To get useful information:
 
@@ -121,15 +121,15 @@ A: Ask about investor backing or profitability. A bootstrapped vendor with a sta
 A: Often yes. An extra 20% in annual cost for a vendor with documented reliability, good support, and fair renewal practices is less expensive than the hidden cost of a troubled implementation, poor support, or mid-year vendor failure.
 
 **Q: Should we use the same vendor other schools in our area use?**
-A: It is useful information — you can ask those schools directly for their experience. But local adoption is not a substitute for due diligence. A locally popular vendor might have consolidated market share not because they are better, but because they entered the market first.
+A: It is useful information, you can ask those schools directly for their experience. But local adoption is not a substitute for due diligence. A locally popular vendor might have consolidated market share not because they are better, but because they entered the market first.
 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

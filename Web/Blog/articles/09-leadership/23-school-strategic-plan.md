@@ -189,7 +189,7 @@ The founding story of Yashveer Labs is simple: one person saw a problem, built a
 
 **About Nexli**
 
-Nexli provides dashboards and reporting tools to track strategic plan execution quarterly. Real-time KPIs for enrollment, attendance, fee collection, and compliance mean leaders see progress—and gaps—without waiting for month-end reports.
+Nexli provides dashboards and reporting tools to track strategic plan execution quarterly. Real-time KPIs for enrollment, attendance, fee collection, and compliance mean leaders see progress, and gaps, without waiting for month-end reports.
 
 ---
 

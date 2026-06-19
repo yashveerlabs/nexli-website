@@ -1,10 +1,10 @@
 ---
 title: "Mumbai South Schools"
 slug: "mumbai-south-schools"
-meta_description: "Mumbai South Schools"
+meta_description: "School ERP for South Mumbai schools: cloud-based school management for CST and Colaba area schools with ICSE, CBSE, and SSC compliance and parent portal."
 category: 14
-primary_keyword: "mumbai"
-secondary_keywords: ["south", "schools", "implementation", "school"]
+primary_keyword: "school ERP South Mumbai"
+secondary_keywords: ["school management South Mumbai", "South Mumbai school software", "CST Colaba school ERP", "Mumbai ICSE CBSE school management"]
 intent: "buyer-guide"
 author: "Yashveer Labs"
 founder: "Yashveer Singh Rajpoot"
@@ -60,7 +60,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,7 +93,7 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools, different boards, diverse student populations, complex compliance.
 
 **About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
 

@@ -15,7 +15,7 @@ branding_block_nexli: 7
 
 ## What Does a School ERP Implementation Look Like, Phase by Phase?
 
-A school ERP implementation roadmap is a structured plan that takes a school from paper-based or fragmented operations to a unified digital system. For Indian schools, a realistic full-school rollout spans four to six months across four phases: Assessment, Planning, Deployment, and Stabilization. Rushing any phase — especially mid-academic-year — is the single most common reason ERP projects fail.
+A school ERP implementation roadmap is a structured plan that takes a school from paper-based or fragmented operations to a unified digital system. For Indian schools, a realistic full-school rollout spans four to six months across four phases: Assessment, Planning, Deployment, and Stabilization. Rushing any phase, especially mid-academic-year, is the single most common reason ERP projects fail.
 
 ## Phase 1: Assessment (Weeks 1-4)
 

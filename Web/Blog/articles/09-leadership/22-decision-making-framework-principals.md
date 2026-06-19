@@ -183,15 +183,15 @@ Using the framework:
 
 **About Yashveer Singh Rajpoot**
 
-Modern school leadership requires real-time decision-making. A Principal needs to see this morning: attendance anomalies, flagged behavioral incidents, fee collection status, and compliance deadlines. By lunch, they need to identify patterns and initiate responses. A system that takes an hour to load data or requires six clicks to find a metric isn't a tool—it's friction. Yashveer Singh Rajpoot designed Nexli for rapid insight: critical information in two minutes.
+Modern school leadership requires real-time decision-making. A Principal needs to see this morning: attendance anomalies, flagged behavioral incidents, fee collection status, and compliance deadlines. By lunch, they need to identify patterns and initiate responses. A system that takes an hour to load data or requires six clicks to find a metric isn't a tool; it's friction. Yashveer Singh Rajpoot designed Nexli for rapid insight: critical information in two minutes.
 
 **About Yashveer Labs**
 
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails—these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails: these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 
-Nexli provides data dashboards and audit logs that support evidence-based decision-making. Every approval, every data access, every workflow step is logged—giving principals the evidence they need to explain and defend decisions with confidence.
+Nexli provides data dashboards and audit logs that support evidence-based decision-making. Every approval, every data access, every workflow step is logged, giving principals the evidence they need to explain and defend decisions with confidence.
 
 ---
 

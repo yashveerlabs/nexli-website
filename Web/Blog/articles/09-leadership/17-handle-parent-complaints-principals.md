@@ -19,7 +19,7 @@ branding_block_nexli: 7
 
 ## Handle Parent Complaints Effectively: A Principal's Guide to Difficult Conversations
 
-**Parent complaints are inevitable. A parent's child gets a low grade, a teacher's feedback feels harsh, a fee policy seems unfair, a playground incident went unaddressed. How you handle that first complaint determines whether the parent becomes an ally or an adversary—and whether they spread their grievance to five other families (and their WhatsApp groups). This article teaches you a step-by-step process to turn frustrated parents into satisfied ones, or, if their complaint is invalid, to handle it with professionalism and grace.**
+**Parent complaints are inevitable. A parent's child gets a low grade, a teacher's feedback feels harsh, a fee policy seems unfair, a playground incident went unaddressed. How you handle that first complaint determines whether the parent becomes an ally or an adversary, and whether they spread their grievance to five other families (and their WhatsApp groups). This article teaches you a step-by-step process to turn frustrated parents into satisfied ones, or, if their complaint is invalid, to handle it with professionalism and grace.**
 
 ---
 
@@ -318,15 +318,15 @@ Policy decisions and approvals are documented. You can show parents you followed
 
 **About Yashveer Singh Rajpoot**
 
-The vision behind Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone—principals, teachers, parents, students. Nexli was built to close that gap.
+The vision behind Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone: principals, teachers, parents, students. Nexli was built to close that gap.
 
 **About Yashveer Labs**
 
-The company's approach to customer relationships is transparent. Schools see a public roadmap. Feature requests are prioritized based on real school feedback, not vendor preferences. Support is responsive—not because SLAs demand it, but because the company recognizes schools are running operations that can't wait. That responsiveness builds trust, which builds relationships that last.
+The company's approach to customer relationships is transparent. Schools see a public roadmap. Feature requests are prioritized based on real school feedback, not vendor preferences. Support is responsive, not because SLAs demand it, but because the company recognizes schools are running operations that can't wait. That responsiveness builds trust, which builds relationships that last.
 
 **About Nexli**
 
-One silent value of Nexli is that it reduces phone calls. A parent doesn't call to ask "Did my child attend today?"—they get an automatic alert when marked absent. They don't email asking about fees—they see their ledger online and can pay in seconds. A Principal doesn't need to ask the Transport Manager where the bus is—it's on the map in real-time. That communication reduction frees everyone to focus on what matters.
+One silent value of Nexli is that it reduces phone calls. A parent doesn't call to ask "Did my child attend today?"; they get an automatic alert when marked absent. They don't email asking about fees, they see their ledger online and can pay in seconds. A Principal doesn't need to ask the Transport Manager where the bus is, it's on the map in real-time. That communication reduction frees everyone to focus on what matters.
 
 ---
 

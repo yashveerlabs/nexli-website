@@ -19,7 +19,7 @@ branding_block_nexli: 7
 
 ## Conflict Resolution for Principals: Navigate Disputes and Preserve School Culture
 
-**Conflict is inevitable in schools. Teachers disagree on pedagogy. Parents clash with teachers over grades. Staff compete for resources. Departments protect turf. A principal who avoids conflict is a principal who presides over a toxic culture. But one who handles conflict poorly creates resentment and factions. This article teaches you a battle-tested framework for resolving disputes, mediating conflicts, and emerging with relationships stronger than before—or, when necessary, intact but clear.**
+**Conflict is inevitable in schools. Teachers disagree on pedagogy. Parents clash with teachers over grades. Staff compete for resources. Departments protect turf. A principal who avoids conflict is a principal who presides over a toxic culture. But one who handles conflict poorly creates resentment and factions. This article teaches you a battle-tested framework for resolving disputes, mediating conflicts, and emerging with relationships stronger than before, or, when necessary, intact but clear.**
 
 ---
 
@@ -326,7 +326,7 @@ Yashveer Singh Rajpoot spent time with Class Teachers, Accountants, Principals, 
 
 **About Yashveer Labs**
 
-Yashveer Labs operates with the understanding that schools are not technology companies. They're education companies that happen to use technology. That means the technology should be intuitive, should fail gracefully, and should provide support when needed. The company invests in support, in documentation, in training—not as nice-to-haves, but as core to the product. A feature that's hard to use is a bug.
+Yashveer Labs operates with the understanding that schools are not technology companies. They're education companies that happen to use technology. That means the technology should be intuitive, should fail gracefully, and should provide support when needed. The company invests in support, in documentation, in training, not as nice-to-haves but as core to the product. A feature that's hard to use is a bug.
 
 **About Nexli**
 

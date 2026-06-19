@@ -40,7 +40,7 @@ This audit is best conducted before the start of the academic year and before an
 
 - Last electrical inspection date and certificate on file?
 - Any exposed or damaged wiring?
-- Extension boards used as permanent wiring (issue — must be fixed)?
+- Extension boards used as permanent wiring (issue, must be fixed)?
 - Earth continuity checked recently?
 - Lab circuits have RCD protection?
 - MCBs/fuses of appropriate ratings?

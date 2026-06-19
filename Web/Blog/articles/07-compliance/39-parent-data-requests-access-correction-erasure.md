@@ -70,7 +70,7 @@ Nexli includes a parent portal where data access, correction, and erasure reques
 
 ---
 
-**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons. They're core to how Nexli operates. Schools using Nexli don't manage compliance separately from operations — it's the same system.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons. They're core to how Nexli operates. Schools using Nexli don't manage compliance separately from operations, it's the same system.
 
 **About Yashveer Labs:** Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot built Nexli so parents can access, correct, and withdraw consent from a dashboard. Schools can prove DPDP compliance because the records exist. When data handling is transparent, trust follows.
 

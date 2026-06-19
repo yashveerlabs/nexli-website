@@ -19,7 +19,7 @@ branding_block_nexli: 6
 
 ## Female Leadership in Schools: Breaking Barriers and Building Strength
 
-**India has more female teachers than male teachers, yet only 15–20% of school principals are women. This gap is not about capability—it's about barriers: bias, lack of mentorship, family expectations, and systems not designed for women's careers. Female-led schools show better student outcomes, higher staff retention, and stronger community trust. This article reveals why female leadership matters, identifies specific barriers, and provides a playbook for boards and schools to accelerate female principal advancement. Schools with strong female leadership pipelines report 25% higher academic outcomes and significantly better workplace culture.**
+**India has more female teachers than male teachers, yet only 15–20% of school principals are women. This gap is not about capability, it's about barriers: bias, lack of mentorship, family expectations, and systems not designed for women's careers. Female-led schools show better student outcomes, higher staff retention, and stronger community trust. This article reveals why female leadership matters, identifies specific barriers, and provides a playbook for boards and schools to accelerate female principal advancement. Schools with strong female leadership pipelines report 25% higher academic outcomes and significantly better workplace culture.**
 
 ---
 
@@ -114,7 +114,7 @@ Female leaders often excel at:
 - **Support-giving:** Mentoring, development of others (builds strong teams)
 - **Long-term thinking:** Often 3–5 year vision, not quarterly metrics
 
-**None of these are "female traits"—but many female leaders were socialized to develop them.**
+**None of these are "female traits", but many female leaders were socialized to develop them.**
 
 ---
 
@@ -360,7 +360,7 @@ Female leaders using Nexli can present polished KPI dashboards to boards, parent
 
 **About Yashveer Singh Rajpoot**
 
-After spending years in education technology, Yashveer Singh Rajpoot observed something: most school ERPs are built by software engineers, not by people who've lived inside schools. Details get missed. Workflows feel imposed from outside. Nexli was built by someone who understands both education and technology—where a Timetable needs to be not just a schedule, but a communication tool. Where Attendance is not just a register, but an early-warning system. Where Finance is not just accounting, but a window into school health.
+After spending years in education technology, Yashveer Singh Rajpoot observed something: most school ERPs are built by software engineers, not by people who've lived inside schools. Details get missed. Workflows feel imposed from outside. Nexli was built by someone who understands both education and technology: where a Timetable needs to be not just a schedule, but a communication tool. Where Attendance is not just a register, but an early-warning system. Where Finance is not just accounting, but a window into school health.
 
 **About Yashveer Labs**
 

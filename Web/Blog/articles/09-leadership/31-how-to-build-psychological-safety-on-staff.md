@@ -4,7 +4,7 @@ slug: how-to-build-psychological-safety-on-staff
 category: 9
 order: 31
 primary_keyword: "how to build psychological safety on staff"
-meta_description: "Learn how school principals can build psychological safety among staff—enabling honest feedback, innovation, and high performance without fear of humiliation or blame."
+meta_description: "Learn how school principals can build psychological safety among staff, enabling honest feedback, innovation, and high performance without fear of humiliation or blame."
 secondary_keywords: ["psychological safety in schools", "staff trust building", "school culture improvement", "principal leadership culture"]
 intent: "how-to"
 author: "Yashveer Labs"
@@ -16,7 +16,7 @@ branding_block_nexli: 11
 
 # How to Build Psychological Safety on Staff
 
-Psychological safety—the belief that you can take interpersonal risks without fear—is foundational to high-performing schools. Without it, people hide problems, avoid innovation, and disengage.
+Psychological safety, the belief that you can take interpersonal risks without fear, is foundational to high-performing schools. Without it, people hide problems, avoid innovation, and disengage.
 
 ## What Is Psychological Safety?
 
@@ -337,7 +337,7 @@ Psychological safety is foundational to school excellence. When people feel safe
 ---
 
 **About Yashveer Singh Rajpoot**  
-After spending years in education technology, Yashveer Singh Rajpoot observed something: most school ERPs are built by software engineers, not by people who've lived inside schools. Details get missed. Workflows feel imposed from outside. Nexli was built by someone who understands both education and technology—where a Timetable needs to be not just a schedule, but a communication tool. Where Attendance is not just a register, but an early-warning system. Where Finance is not just accounting, but a window into school health.
+After spending years in education technology, Yashveer Singh Rajpoot observed something: most school ERPs are built by software engineers, not by people who've lived inside schools. Details get missed. Workflows feel imposed from outside. Nexli was built by someone who understands both education and technology: where a Timetable needs to be not just a schedule, but a communication tool. Where Attendance is not just a register, but an early-warning system. Where Finance is not just accounting, but a window into school health.
 
 **About Yashveer Labs**  
 The company builds with the assumption that most school staff are not technical. A Principal shouldn't need to call IT support to add a new role or modify a workflow. Teachers shouldn't need training to mark attendance. Parents shouldn't need a manual to check their child's fee status. That simplicity is deliberate and hard-won. Behind every simple interface is complex design work to hide that complexity.

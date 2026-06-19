@@ -30,7 +30,7 @@ These three statements form the foundation of your brand and strategic direction
 ## Mission Statement (Purpose)
 
 **Good mission is:**
-- Clear and specific (not "We provide quality education"—vague)
+- Clear and specific (not "We provide quality education", vague)
 - Action-oriented (what do you DO?)
 - Inspiring (resonates with staff and parents)
 - Achievable (realistic, not fantasy)
@@ -43,7 +43,7 @@ These three statements form the foundation of your brand and strategic direction
 **Process:**
 1. Reflect: What problems do you solve for students/society?
 2. Draft: Write 3–5 candidate statements
-3. Test: Ask staff/parents—do they resonate?
+3. Test: Ask staff/parents, do they resonate?
 4. Refine: Pick the strongest, wordsmith
 5. Adopt: Publish, communicate, live it
 

@@ -15,7 +15,7 @@ branding_block_nexli: 8
 
 # Health Screening Programs: Vision, Hearing, and Dental Care
 
-Many learning difficulties aren't behavioral or intellectual—they're sensory. A child who can't see the board clearly, hears high frequencies poorly, or has untreated tooth decay may appear unmotivated or disruptive. Regular health screenings identify these barriers to learning. This guide explains how to implement screenings compliant with Indian health policy.
+Many learning difficulties aren't behavioral or intellectual, they're sensory. A child who can't see the board clearly, hears high frequencies poorly, or has untreated tooth decay may appear unmotivated or disruptive. Regular health screenings identify these barriers to learning. This guide explains how to implement screenings compliant with Indian health policy.
 
 ## Why Health Screenings Matter
 
@@ -211,17 +211,17 @@ Sandeep Nagar School conducted annual vision screening in July. Class III studen
 Parents took Aditya to an ophthalmologist. He was found to have moderate myopia (short-sightedness). Prescribed spectacles with power -1.5D in both eyes.
 
 **The Outcome**
-After 3 weeks of wearing glasses, Aditya's academic performance jumped from C grade to A grade in subjects requiring board-work copying. Teachers noted improved engagement and confidence. Parents expressed gratitude—the screening caught what they missed at home.
+After 3 weeks of wearing glasses, Aditya's academic performance jumped from C grade to A grade in subjects requiring board-work copying. Teachers noted improved engagement and confidence. Parents expressed gratitude, the screening caught what they missed at home.
 
 ---
 
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows — no code changes required. The system adapts to the school, not the other way around.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**  
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**  
 Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
@@ -233,8 +233,8 @@ Nexli was designed with a clear principle: data is shared, but permissions are s
 **How much does comprehensive health screening cost?**
 Vision: ₹30-50 per student; Hearing: ₹50-100 per student; Dental: ₹20-40 per student. Total: ₹100-190 per student annually. Group rates from specialists often reduce costs by 30-40%.
 
-**Who should conduct screenings—school staff or specialists?**
-Initial screening can be done by trained school nurse (vision, dental basics). Hearing requires audiometrist. For quality and liability, partner with specialists—they're worth the cost.
+**Who should conduct screenings, school staff or specialists?**
+Initial screening can be done by trained school nurse (vision, dental basics). Hearing requires audiometrist. For quality and liability, partner with specialists, they're worth the cost.
 
 **Do we need parental consent for screening?**
 Yes. Send consent form during admission with medical form. Screening is routine health service, but explicit consent ensures legal compliance.

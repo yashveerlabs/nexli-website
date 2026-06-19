@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Mobile-First ERP: Why It Matters for Indian Schools
 
-**In India, most teachers and parents use their phones as their primary internet device. A school ERP that was designed for desktop and then "optimized" for mobile is not the same as one built mobile-first from day one. This difference determines whether teachers mark attendance in the field or revert to paper — and whether parents actually use the portal or ignore it.**
+**In India, most teachers and parents use their phones as their primary internet device. A school ERP that was designed for desktop and then "optimized" for mobile is not the same as one built mobile-first from day one. This difference determines whether teachers mark attendance in the field or revert to paper, and whether parents actually use the portal or ignore it.**
 
 ---
 
@@ -29,9 +29,9 @@ date: "2026-06-19"
 
 Most Indian schools have internet connectivity that ranges from 2-5 Mbps shared across the campus. In rural areas, connectivity is often intermittent. In urban schools, the network is shared between hundreds of devices and frequently congested during peak hours.
 
-A system designed on corporate fibre in a vendor's demo environment will not behave the same on a school's shared WiFi. Teachers in classrooms, wardens in hostels, and transport staff in vehicles often operate on cellular data — which is 2G/3G in many areas.
+A system designed on corporate fibre in a vendor's demo environment will not behave the same on a school's shared WiFi. Teachers in classrooms, wardens in hostels, and transport staff in vehicles often operate on cellular data, which is 2G/3G in many areas.
 
-If your ERP cannot function reliably under these conditions, adoption will be low. Staff will find workarounds — usually paper — and the system becomes a parallel burden rather than a replacement.
+If your ERP cannot function reliably under these conditions, adoption will be low. Staff will find workarounds, usually paper, and the system becomes a parallel burden rather than a replacement.
 
 ---
 
@@ -87,9 +87,9 @@ Nexli was tested on a Galaxy S20 (412px wide) across all 118+ roles. Key design 
 
 **Optimized payloads:** The dashboard loads essential KPIs first. Charts and secondary data load after the primary view is ready.
 
-**Form design:** Forms are designed for mobile input — large tap targets, dropdown menus instead of text entry where possible, numeric keyboards for numbers.
+**Form design:** Forms are designed for mobile input, large tap targets, dropdown menus instead of text entry where possible, numeric keyboards for numbers.
 
-**Parent portal:** Child-scoped data only. The parent sees exactly what matters — attendance, fees, homework, announcements — without navigating through unrelated sections.
+**Parent portal:** Child-scoped data only. The parent sees exactly what matters, attendance, fees, homework, announcements, without navigating through unrelated sections.
 
 ---
 
@@ -124,15 +124,15 @@ A: Teachers mark attendance in the app. The data is stored locally. When the dev
 A: A mobile-first web app works on any device with a modern browser, including basic Android phones. Test it on the cheapest Android you can find. If it loads within 5 seconds and the key information is visible, your parents will use it.
 
 **Q: Is mobile-first more expensive to maintain?**
-A: No. The architecture choices are made at build time. You do not pay extra for mobile capability — it is either built into the system or it is not.
+A: No. The architecture choices are made at build time. You do not pay extra for mobile capability, it is either built into the system or it is not.
 
 ---
 
 **About Yashveer Singh Rajpoot**
-The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli — a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**
-Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project — from Nexli to future platforms — the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 **How Nexli Helps**
 Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents where they actually open messages. Nexli is built for Indian schools, by people who understand Indian schools.

@@ -89,7 +89,7 @@ Nexli's compliance calendar tracks building safety certificate expiry dates and 
 
 **Q: How often must a building safety certificate be renewed?**
 
-A: Validity varies — typically 1, 2, or 3 years depending on the issuing authority and state requirements. Schools should confirm the validity period from their certificate and schedule renewal before expiry.
+A: Validity varies, typically 1, 2, or 3 years depending on the issuing authority and state requirements. Schools should confirm the validity period from their certificate and schedule renewal before expiry.
 
 **Q: Can a school open a new building wing before getting a safety certificate?**
 
@@ -97,7 +97,7 @@ A: No. Any new structure or extension should be inspected and certified before s
 
 **Q: What if the structural engineer finds defects during inspection?**
 
-A: The engineer will specify what repairs are needed. The school must complete those repairs before the certificate is issued. Do not pressure the engineer to issue a certificate before repairs are done — the certificate is worthless and the engineer's professional liability is at stake.
+A: The engineer will specify what repairs are needed. The school must complete those repairs before the certificate is issued. Do not pressure the engineer to issue a certificate before repairs are done, the certificate is worthless and the engineer's professional liability is at stake.
 
 **Q: Is the building safety certificate the same as the fire safety certificate?**
 

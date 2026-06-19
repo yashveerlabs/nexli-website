@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Hidden Costs of School ERP: What Vendors Do Not Tell You Upfront
 
-**School ERP vendors lead with subscription price. The total cost of ownership often includes charges for items that seem like they should be included — SMS notifications, additional storage, extra modules, premium support, annual training refreshers, customization for standard Indian requirements. Identifying these before signing prevents Year 1 budget surprises.**
+**School ERP vendors lead with subscription price. The total cost of ownership often includes charges for items that seem like they should be included, SMS notifications, additional storage, extra modules, premium support, annual training refreshers, customization for standard Indian requirements. Identifying these before signing prevents Year 1 budget surprises.**
 
 ---
 
@@ -29,7 +29,7 @@ date: "2026-06-19"
 
 ### SMS and Notification Charges
 
-Many ERPs include "automated notifications" in their feature list — but charge separately for the SMS messages sent. If your school sends:
+Many ERPs include "automated notifications" in their feature list, but charge separately for the SMS messages sent. If your school sends:
 - Fee reminders: 1,200 parents × 3 reminders × 3 installments = 10,800 SMS per year
 - Attendance alerts: 200 alert-level events × 1 SMS = 200 SMS per year
 - Circulars and announcements: 12 circulars × 1,200 parents = 14,400 SMS per year
@@ -54,7 +54,7 @@ Some ERPs have base storage limits and charge for additional storage as schools 
 
 ### Customization Fees
 
-Standard Indian school requirements — CBSE LOC export, UDISE+ format, specific state board report card formats — should be built-in. If a vendor classifies these as "customization" that costs extra, evaluate carefully.
+Standard Indian school requirements, CBSE LOC export, UDISE+ format, specific state board report card formats, should be built-in. If a vendor classifies these as "customization" that costs extra, evaluate carefully.
 
 **Ask:** "Is CBSE LOC export included? UDISE+ export? What about [your state board]'s report card format?"
 
@@ -100,7 +100,7 @@ Year 1 pricing may be a promotional rate. Year 2 and 3 rates may be significantl
 
 Nexli's subscription model includes all core modules without separate module licensing. SMS charges depend on volume and are discussed transparently during the demo. Implementation support is included. Nexli does not charge separately for CBSE LOC export, compliance calendar, or standard report formats.
 
-For a specific breakdown relevant to your school size and needs, [Book a Free Demo](/demo) — pricing is discussed openly with no hidden line items.
+For a specific breakdown relevant to your school size and needs, [Book a Free Demo](/demo), pricing is discussed openly with no hidden line items.
 
 ---
 
@@ -124,10 +124,10 @@ A: Yes. A school with 80 staff training 3 new joiners per month has ongoing trai
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

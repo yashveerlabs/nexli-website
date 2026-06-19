@@ -13,7 +13,7 @@ branding_block_company: 8
 branding_block_nexli: 8
 ---
 
-Sanitation infrastructure in schools — toilets, handwashing facilities, and menstrual hygiene management — is a compliance requirement under the RTE Act 2009 and a significant factor in student attendance, particularly for girls. Schools with inadequate sanitation facilities face both regulatory non-compliance and real student welfare consequences.
+Sanitation infrastructure in schools, toilets, handwashing facilities, and menstrual hygiene management, is a compliance requirement under the RTE Act 2009 and a significant factor in student attendance, particularly for girls. Schools with inadequate sanitation facilities face both regulatory non-compliance and real student welfare consequences.
 
 ## RTE Act Sanitation Requirements
 
@@ -115,7 +115,7 @@ A: Yes. Separate facilities for girls and boys are a fundamental RTE requirement
 
 **Q: How should schools handle toilet cleanliness complaints from parents or students?**
 
-A: Take complaints seriously — poor sanitation directly affects student well-being. Investigate, improve, and inform the complainant of the action taken. Repeated complaints about the same facility indicate a systemic maintenance failure.
+A: Take complaints seriously, poor sanitation directly affects student well-being. Investigate, improve, and inform the complainant of the action taken. Repeated complaints about the same facility indicate a systemic maintenance failure.
 
 **Q: Must schools provide separate teacher toilets?**
 

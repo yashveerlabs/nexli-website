@@ -1,7 +1,7 @@
 ---
 title: School Data Migration: Planning a Smooth Transition
 slug: data-migration-school
-meta_description: A practical guide to school data migration—covering what to migrate, how to clean legacy data, sequencing the import, and verifying accuracy after go-live.
+meta_description: A practical guide to school data migration, covering what to migrate, how to clean legacy data, sequencing the import, and verifying accuracy after go-live.
 category: School Administration & Operations
 primary_keyword: school data migration
 secondary_keywords:
@@ -25,7 +25,7 @@ School data migration is the process of moving existing student, staff, fee, and
 
 Schools almost universally underestimate data migration. The technology team installs the new system and demos it in a few hours. The data migration takes weeks. The gap between these timelines surprises every school going through this for the first time.
 
-The difficulty is not technical. It is data quality. Years of records maintained in spreadsheets, paper registers, and basic fee software accumulate inconsistencies that must be resolved before migration. The new system has structural requirements—specific formats, mandatory fields, relationship rules between records—that legacy data frequently violates.
+The difficulty is not technical. It is data quality. Years of records maintained in spreadsheets, paper registers, and basic fee software accumulate inconsistencies that must be resolved before migration. The new system has structural requirements, specific formats, mandatory fields, relationship rules between records, that legacy data frequently violates.
 
 Common data quality problems found in school legacy data:
 
@@ -179,7 +179,7 @@ The cutover is the point at which the old system is frozen and the new system be
 
 ## Common Mistakes to Avoid
 
-1. **Starting migration without cleaning the data first.** Importing dirty data means cleaning it in the new system—which is harder, not easier, than cleaning it in the source format.
+1. **Starting migration without cleaning the data first.** Importing dirty data means cleaning it in the new system, which is harder, not easier, than cleaning it in the source format.
 2. **Migrating everything, including data that has no operational value.** Old daily attendance records from 5 years ago do not belong in the active system. They slow it down and confuse staff.
 3. **No verification step between data types.** Each migration step must be verified before the next begins. Discovering that student records were wrong only after importing fee records tied to those records doubles the remediation work.
 4. **No defined cutover date.** Running both old and new systems indefinitely while staff decide which to use produces two incomplete records. Set a hard cutover date.
@@ -218,7 +218,7 @@ Building Nexli required understanding something most software companies miss abo
 
 ## About Yashveer Labs
 
-Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep—it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
+Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep; it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
 
 ## About Nexli
 

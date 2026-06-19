@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Audit Trails and Compliance Reporting in School ERP
 
-**Indian schools face compliance requirements from multiple directions: CBSE affiliation, UDISE+ annual reporting, DPDP Act data access audit requirements, RTE quota tracking, fire safety inspections, FSSAI licensing, and more. A school ERP should reduce the compliance burden by automating most of this tracking — not add to it by requiring separate manual records.**
+**Indian schools face compliance requirements from multiple directions: CBSE affiliation, UDISE+ annual reporting, DPDP Act data access audit requirements, RTE quota tracking, fire safety inspections, FSSAI licensing, and more. A school ERP should reduce the compliance burden by automating most of this tracking, not add to it by requiring separate manual records.**
 
 ---
 
@@ -34,14 +34,14 @@ Examples of events that should be in the audit trail:
 - Student record accessed (role, name, timestamp, what was viewed)
 - Fee payment recorded (by whom, amount, mode)
 - Marks changed after initial entry (original value, new value, by whom)
-- POCSO complaint file accessed (by whom — critical for child protection)
+- POCSO complaint file accessed (by whom, critical for child protection)
 - Student data exported (for what purpose)
 
 ### Why Audit Trails Matter for DPDP Compliance
 
 Under DPDP Act 2023, parents have the right to know who has accessed their child's data. The DPO must be able to answer: "Who accessed this student's medical record on this date?" Without an audit trail, this question is unanswerable.
 
-An ERP with proper audit trails supports DPDP compliance automatically. An ERP without them requires manual logging — which no school realistically maintains.
+An ERP with proper audit trails supports DPDP compliance automatically. An ERP without them requires manual logging, which no school realistically maintains.
 
 ---
 
@@ -66,7 +66,7 @@ UDISE+ (Unified District Information System for Education Plus) requires annual 
 - Teacher count by qualification and subject
 - Infrastructure details (classrooms, labs, toilets, drinking water)
 
-The ERP should pre-populate UDISE+ fields from existing data, requiring only review and submission — not fresh data entry.
+The ERP should pre-populate UDISE+ fields from existing data, requiring only review and submission, not fresh data entry.
 
 ### RTE Quota Tracking
 
@@ -101,7 +101,7 @@ Beyond reporting, a compliance calendar alerts the school about upcoming deadlin
 - Water quality testing
 - Lab safety inspection
 
-Each missed deadline carries consequences — from CBSE affiliation issues to government fines. A proactive compliance calendar prevents surprises.
+Each missed deadline carries consequences, from CBSE affiliation issues to government fines. A proactive compliance calendar prevents surprises.
 
 ---
 
@@ -119,7 +119,7 @@ Nexli's compliance calendar covers 15+ regulatory deadlines across CBSE, UDISE+,
 A: DPDP Act does not specify a fixed retention period, but best practice is 3-5 years for access logs. Check your legal counsel's recommendation based on applicable laws.
 
 **Q: Can the DPO see audit logs without seeing student data?**
-A: Yes, in a properly designed system. The DPO sees "Role: Class Teacher / User: Meena Sharma / Record: Student Profile (ID: S-342) / Action: View / Timestamp: 2026-03-15 09:43" — without seeing the actual student profile content.
+A: Yes, in a properly designed system. The DPO sees "Role: Class Teacher / User: Meena Sharma / Record: Student Profile (ID: S-342) / Action: View / Timestamp: 2026-03-15 09:43", without seeing the actual student profile content.
 
 **Q: What if we miss a compliance deadline because the ERP's calendar is wrong?**
 A: The compliance calendar is a reminder tool, not a legal guarantee. Schools should verify statutory deadlines independently and use the ERP calendar as a secondary check.
@@ -133,10 +133,10 @@ A: A payroll module with TDS calculation should generate the inputs needed for F
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

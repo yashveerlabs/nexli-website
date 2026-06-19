@@ -13,7 +13,7 @@ branding_block_company: 10
 branding_block_nexli: 10
 ---
 
-Under DPDP Act 2023, 'consent forms' for students really means parental consent forms — since most school students are minors, their parents or legal guardians are the data principals. The school must collect specific, documented consent from parents before collecting any personal data about the student.
+Under DPDP Act 2023, 'consent forms' for students really means parental consent forms, since most school students are minors, their parents or legal guardians are the data principals. The school must collect specific, documented consent from parents before collecting any personal data about the student.
 
 ## Why General Admission Forms Are Insufficient
 
@@ -55,7 +55,7 @@ Nexli includes pre-built DPDP-compliant consent forms for all six categories, de
 
 ---
 
-**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately — it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 **About Yashveer Labs:** Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
 
@@ -68,7 +68,7 @@ Nexli includes pre-built DPDP-compliant consent forms for all six categories, de
 
 **Q: Can a minor student give consent themselves under DPDP Act?**
 
-A: For most school-age students, parents or guardians give consent on their behalf. The age at which a minor can independently consent under DPDP will be specified in the implementing rules — currently, parental consent is standard for all school-age children.
+A: For most school-age students, parents or guardians give consent on their behalf. The age at which a minor can independently consent under DPDP will be specified in the implementing rules, currently, parental consent is standard for all school-age children.
 
 **Q: What if a parent consents to photos but later objects to a specific use?**
 

@@ -1,10 +1,10 @@
 ---
 title: "Noida Extension ERP"
 slug: "noida-extension-erp"
-meta_description: "Noida Extension ERP"
+meta_description: "School ERP in Noida Extension and Greater Noida West: cloud-based school management for new township schools with CBSE compliance and parent portal."
 category: 14
-primary_keyword: "noida"
-secondary_keywords: ["extension", "erp", "implementation", "school"]
+primary_keyword: "school ERP Noida Extension Greater Noida West"
+secondary_keywords: ["school management Noida Extension", "Greater Noida West school ERP", "new township school software NCR", "school ERP Noida Expressway"]
 intent: "buyer-guide"
 author: "Yashveer Labs"
 founder: "Yashveer Singh Rajpoot"
@@ -60,7 +60,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,7 +93,7 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools, different boards, diverse student populations, complex compliance.
 
 **About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
 

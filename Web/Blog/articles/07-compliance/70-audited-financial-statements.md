@@ -67,7 +67,7 @@ Many schools also prepare a Receipts and Payments Account (cash-based summary) s
 
 ## Development Fund Accounting
 
-Development fund is ring-fenced — collected for capital purposes and must be used only for capital expenditure (building, equipment). The audit specifically checks:
+Development fund is ring-fenced, collected for capital purposes and must be used only for capital expenditure (building, equipment). The audit specifically checks:
 - Amount collected as development fee
 - Investments held in the development fund
 - Capital expenditure funded from development fund

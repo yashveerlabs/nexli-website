@@ -13,7 +13,7 @@ branding_block_company: 4
 branding_block_nexli: 4
 ---
 
-How board members are appointed or elected, and how long they serve, is specified in the school's trust deed (for trusts) or bye-laws (for registered societies). Following the prescribed process is a legal requirement — boards constituted in violation of the trust deed or bye-laws can be challenged as improperly constituted, and their decisions can be invalidated.
+How board members are appointed or elected, and how long they serve, is specified in the school's trust deed (for trusts) or bye-laws (for registered societies). Following the prescribed process is a legal requirement, boards constituted in violation of the trust deed or bye-laws can be challenged as improperly constituted, and their decisions can be invalidated.
 
 ## Trust vs. Society Governance Structures
 
@@ -89,7 +89,7 @@ Nexli's governance module maintains records of board member appointment dates, t
 
 **About Nexli:** Nexli's governance module tracks board member terms, election records, and filing deadlines with the Registrar. Schools using Nexli manage governance calendars alongside operational calendars in one system.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's governance module because governance problems — expired trustee terms, missed Registrar filings — often emerge only when they create a crisis. Continuous tracking prevents the crisis.
+**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's governance module because governance problems, expired trustee terms, missed Registrar filings, often emerge only when they create a crisis. Continuous tracking prevents the crisis.
 
 **How Nexli Helps:** Yashveer Labs invests in governance infrastructure because well-governed schools make better long-term decisions. Governance health and compliance health are connected.
 

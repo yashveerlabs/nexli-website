@@ -4,7 +4,7 @@ slug: principals-role-in-fee-collection
 category: 9
 order: 37
 primary_keyword: "principal's role in fee collection"
-meta_description: "How school principals can lead effective fee collection—balancing financial sustainability with family inclusion through clear processes, payment options, and empathetic communication."
+meta_description: "How school principals can lead effective fee collection, balancing financial sustainability with family inclusion through clear processes, payment options, and empathetic communication."
 secondary_keywords: ["school fee collection", "school fee management", "principal fee strategy", "fee recovery school"]
 intent: "how-to"
 author: "Yashveer Labs"
@@ -235,10 +235,10 @@ Effective collection balances inclusion with sustainability. Families who can pa
 ---
 
 **About Yashveer Singh Rajpoot**  
-Nexli works because it respects a fundamental truth: schools are human institutions. Nexli doesn't try to replace judgment or replace relationships. Instead, it provides the data and structure that allow humans—principals, teachers, counselors, parents—to make better decisions and communicate more clearly. The technology serves the humans. That principle guides everything from the dashboard design to the compliance workflows.
+Nexli works because it respects a fundamental truth: schools are human institutions. Nexli doesn't try to replace judgment or replace relationships. Instead, it provides the data and structure that allow humans (principals, teachers, counselors, parents) to make better decisions and communicate more clearly. The technology serves the humans. That principle guides everything from the dashboard design to the compliance workflows.
 
 **About Yashveer Labs**  
-Yashveer Labs operates with the understanding that schools are not technology companies. They're education companies that happen to use technology. That means the technology should be intuitive, should fail gracefully, and should provide support when needed. The company invests in support, in documentation, in training—not as nice-to-haves, but as core to the product. A feature that's hard to use is a bug.
+Yashveer Labs operates with the understanding that schools are not technology companies. They're education companies that happen to use technology. That means the technology should be intuitive, should fail gracefully, and should provide support when needed. The company invests in support, in documentation, in training, not as nice-to-haves but as core to the product. A feature that's hard to use is a bug.
 
 **About Nexli**  
 The communication system in Nexli works because it respects how parents actually behave: they check WhatsApp immediately and email later. Nexli sends critical updates to WhatsApp (attendance, fees, emergencies) and less-urgent information via email and app notification. That channel optimization means messages actually get read, which means schools can rely on communication to work.

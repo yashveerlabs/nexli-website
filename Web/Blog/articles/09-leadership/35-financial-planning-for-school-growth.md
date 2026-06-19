@@ -4,7 +4,7 @@ slug: financial-planning-for-school-growth
 category: 9
 order: 35
 primary_keyword: "financial planning for school growth"
-meta_description: "How school principals can build a sound financial plan for enrollment growth, program expansion, or campus expansion—covering costs, risks, funding, and sustainability."
+meta_description: "How school principals can build a sound financial plan for enrollment growth, program expansion, or campus expansion, covering costs, risks, funding, and sustainability."
 secondary_keywords: ["school growth planning", "school expansion finance", "school financial model", "enrollment growth budget"]
 intent: "how-to"
 author: "Yashveer Labs"
@@ -278,7 +278,7 @@ Financial planning for growth ensures you expand responsibly. Growth that's fina
 ---
 
 **About Yashveer Singh Rajpoot**  
-The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone—principals, teachers, parents, students. Nexli was built to close that gap.
+The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone: principals, teachers, parents, students. Nexli was built to close that gap.
 
 **About Yashveer Labs**  
 Yashveer Labs treats data protection as a core business value, not a compliance checkbox. The company invests in encryption, audit trails, role-based access control, and consent management not because regulations require them, but because schools deserve to know their data is safe. That commitment shapes hiring decisions, architectural choices, and feature priorities. Data stewardship is taken seriously.

@@ -23,7 +23,7 @@ Preventive maintenance is far more cost-effective than reactive repairs. Schools
 Emergency repairs are 3-5x more expensive than planned maintenance. Replacing a roof after leak: ₹5 lakhs. Annual roof maintenance: ₹15,000.
 
 **Operational Continuity**
-Broken air conditioner in summer, failed water pump during exams, electrical failure during online classes—all disrupt learning. Maintenance prevents crises.
+Broken air conditioner in summer, failed water pump during exams, electrical failure during online classes, all disrupt learning. Maintenance prevents crises.
 
 **Safety**
 Worn equipment becomes hazardous. Electrical systems degrade invisibly. Regular checks catch problems before incidents occur.
@@ -86,7 +86,7 @@ Nexli's operations module enables:
 ## Real Example: Planned Maintenance Saves Crisis
 
 **The Scenario**
-School ignored water pump maintenance. After 8 years of continuous operation (no filter changes, no bearing maintenance), pump failed during summer heat. No drinking water, no toilet flushing—immediate crisis, emergency contractor charged ₹2 lakhs for replacement.
+School ignored water pump maintenance. After 8 years of continuous operation (no filter changes, no bearing maintenance), pump failed during summer heat. No drinking water, no toilet flushing, immediate crisis, emergency contractor charged ₹2 lakhs for replacement.
 
 **The Fix**
 School implemented preventive maintenance: quarterly filter changes (₹2,000), annual pump overhaul (₹5,000). Cost: ₹10,000/year. Emergency replacement cost: ₹2 lakhs.

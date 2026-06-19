@@ -52,7 +52,7 @@ The most important security feature in any school ERP is role-based access contr
 - Medical Nurse sees medical records, but cannot see POCSO case files
 - Child Protection Officer sees POCSO case files, but not general student data
 
-**What to verify:** Log in as different roles and check what data each role sees. Do not trust vendor assurances — test it directly.
+**What to verify:** Log in as different roles and check what data each role sees. Do not trust vendor assurances, test it directly.
 
 ---
 
@@ -64,7 +64,7 @@ There are two places where access control can be enforced in a cloud-based syste
 
 **Database-level control (Firestore security rules):** Rules in the database itself prevent unauthorized reads and writes, regardless of how the request arrives. Even if someone bypasses the UI, the database rejects unauthorized requests.
 
-Nexli enforces access control at the Firestore level. The security ruleset is tested with 145 test cases and passes 145/0. This means the security is not just UI-level — it is enforced at the data layer.
+Nexli enforces access control at the Firestore level. The security ruleset is tested with 145 test cases and passes 145/0. This means the security is not just UI-level, it is enforced at the data layer.
 
 **What to ask vendors:** "Is your access control enforced at the database level or only at the application level? Can you share your security architecture or test results?"
 
@@ -72,7 +72,7 @@ Nexli enforces access control at the Firestore level. The security ruleset is te
 
 ## Encryption
 
-**Encryption in transit:** All data between the browser/app and the server should be encrypted via HTTPS/TLS. This is table stakes — if a vendor does not have this, walk away.
+**Encryption in transit:** All data between the browser/app and the server should be encrypted via HTTPS/TLS. This is table stakes, if a vendor does not have this, walk away.
 
 **Encryption at rest:** Data stored in the database should be encrypted. This protects against database file theft or unauthorized data center access. Not all ERPs encrypt at rest.
 
@@ -108,7 +108,7 @@ If a school chain runs multiple campuses on the same ERP, each campus's data mus
 
 ## How Nexli's Security Model Works
 
-Nexli enforces role-based access control at the Firestore database level — not just the UI. The security ruleset is live and tested with 145 test cases (145/0 passing). Medical records and Aadhaar numbers are encrypted with field-level encryption. All data access is logged; the DPO can review access logs without seeing the raw data beneath.
+Nexli enforces role-based access control at the Firestore database level, not just the UI. The security ruleset is live and tested with 145 test cases (145/0 passing). Medical records and Aadhaar numbers are encrypted with field-level encryption. All data access is logged; the DPO can review access logs without seeing the raw data beneath.
 
 Per-school data isolation is built into the data model. A Super Admin configures the system but cannot access individual school's academic, medical, or financial records directly.
 
@@ -134,10 +134,10 @@ A: Yes, and you should for high-value contracts. Ask if the vendor allows author
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

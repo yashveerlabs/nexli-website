@@ -1,7 +1,7 @@
 ---
 title: "Backup and Disaster Recovery for Schools: Why Your Data Needs a Plan"
 slug: "backup-disaster-recovery"
-meta_description: "Why Indian schools need a backup and disaster recovery strategy. Fire, flood, ransomware, accidental deletion — cloud backup, RTO, and how to test your backup actually works."
+meta_description: "Why Indian schools need a backup and disaster recovery strategy. Fire, flood, ransomware, accidental deletion, cloud backup, RTO, and how to test your backup actually works."
 category: "School Technology"
 primary_keyword: "school data backup disaster recovery"
 secondary_keywords: ["school ERP backup India", "school data recovery plan", "cloud backup schools", "school data loss prevention"]
@@ -67,7 +67,7 @@ This is one of the strongest practical arguments for cloud ERP over on-premise: 
 
 ## Disaster Recovery Planning for Schools
 
-Even with cloud backup, schools need a disaster recovery plan — a documented set of steps to follow when something goes wrong.
+Even with cloud backup, schools need a disaster recovery plan, a documented set of steps to follow when something goes wrong.
 
 **Scenario planning: what is the procedure if...?**
 

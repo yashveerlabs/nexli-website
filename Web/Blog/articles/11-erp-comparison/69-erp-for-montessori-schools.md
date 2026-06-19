@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## ERP for Montessori Schools: What Works and What to Reconfigure
 
-**Montessori and alternative pedagogy schools present a specific challenge for ERP evaluation: most school ERP systems are designed around traditional marks-based academic structures, and Montessori's skills-based, self-paced, mixed-age approach requires different academic tracking. However, the operational and compliance requirements of a Montessori school are broadly similar to any school — attendance, fees, parent communication, DPDP Act compliance. This guide explains what standard ERP handles well for Montessori schools, and where the gaps are.**
+**Montessori and alternative pedagogy schools present a specific challenge for ERP evaluation: most school ERP systems are designed around traditional marks-based academic structures, and Montessori's skills-based, self-paced, mixed-age approach requires different academic tracking. However, the operational and compliance requirements of a Montessori school are broadly similar to any school, attendance, fees, parent communication, DPDP Act compliance. This guide explains what standard ERP handles well for Montessori schools, and where the gaps are.**
 
 ---
 
@@ -78,7 +78,7 @@ Montessori progress is documented through portfolios (samples of the child's wor
 
 Montessori progress reports are narrative rather than grade-based. Standard ERP report card modules generate grade-based reports.
 
-**Workaround:** Use the remarks/comment fields for narrative, suppress grades, and customize the report format — possible in flexible ERP systems, difficult in rigid ones.
+**Workaround:** Use the remarks/comment fields for narrative, suppress grades, and customize the report format, possible in flexible ERP systems, difficult in rigid ones.
 
 ---
 
@@ -102,10 +102,10 @@ A: Nexli's configurable fee management, DPDP compliance, attendance, and parent 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

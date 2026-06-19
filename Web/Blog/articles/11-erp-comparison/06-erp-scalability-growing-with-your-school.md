@@ -27,7 +27,7 @@ date: "2026-06-19"
 
 ## The Hidden Cost of Choosing the Wrong Scale
 
-Most schools evaluate ERPs based on current needs. A school with 300 students chooses a system designed for that size, only to discover two years later that adding a second campus requires a completely different licensing tier — or worse, a complete platform migration.
+Most schools evaluate ERPs based on current needs. A school with 300 students chooses a system designed for that size, only to discover two years later that adding a second campus requires a completely different licensing tier, or worse, a complete platform migration.
 
 The real cost of poor scalability is not just money. It is the disruption of migrating data, retraining staff, and rebuilding trust in the system at a critical growth period.
 
@@ -67,7 +67,7 @@ A school with 50 students needs three roles. A school with 2,000 students across
 
 Systems with hard-coded roles become obstacles at this stage. You end up creating workarounds: giving a counselor "HOD" access because there is no counselor role, or giving a transport coordinator "Admin" access to see bus data.
 
-Nexli supports 118+ configurable roles. Each role gets a custom permission matrix (module x action: View/Create/Edit/Approve/Export/Delete/Manage). Adding a new role requires no code — only configuration.
+Nexli supports 118+ configurable roles. Each role gets a custom permission matrix (module x action: View/Create/Edit/Approve/Export/Delete/Manage). Adding a new role requires no code, only configuration.
 
 **What to ask:** "If I need to create a 'Campus Coordinator' role that sees attendance and fees for Campus B but not Campus A, can your system do this without custom development?"
 
@@ -122,7 +122,7 @@ Nexli's architecture was designed with growth in mind from the start:
 
 **Role system:** 118+ configurable roles with per-module, per-action permissions. Adding a new role as your school grows requires no code changes.
 
-**Data model:** Built on Firebase (Google's real-time backend). Data scales with school size automatically — no hardware upgrades, no database optimization required.
+**Data model:** Built on Firebase (Google's real-time backend). Data scales with school size automatically, no hardware upgrades, no database optimization required.
 
 **Multi-campus support:** Per-school data isolation is built into the data model. A chain-level admin can see KPIs across all campuses; campus staff see only their campus.
 
@@ -160,15 +160,15 @@ A: Not necessarily. The architecture matters as much as the hosting. A poorly de
 A: Ask for a live demo with two test school tenants. Have the vendor show you what a chain-level admin sees vs. what a campus principal sees. If they cannot demo this in 10 minutes, it is not production-ready.
 
 **Q: What is the biggest scalability mistake schools make?**
-A: Choosing based on current size rather than 3-year plan. A system that is perfect for 200 students may be genuinely inadequate for 600 — not because of performance, but because the role system, compliance features, and multi-campus support are not there.
+A: Choosing based on current size rather than 3-year plan. A system that is perfect for 200 students may be genuinely inadequate for 600, not because of performance, but because the role system, compliance features, and multi-campus support are not there.
 
 ---
 
 **About Yashveer Singh Rajpoot**
-The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli — a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**
-Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project — from Nexli to future platforms — the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 **How Nexli Helps**
 Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents on WhatsApp (where they actually open messages). Nexli is built for Indian schools, by people who understand Indian schools.

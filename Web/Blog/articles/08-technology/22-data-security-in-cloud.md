@@ -87,7 +87,7 @@ Despite best security practices, breaches can occur. What separates responsible 
 
 **What breach response looks like:**
 
-Detection: The vendor has monitoring systems (intrusion detection, anomaly detection) that flag unusual activity — large data exports, access from unusual locations, multiple failed login attempts across many accounts.
+Detection: The vendor has monitoring systems (intrusion detection, anomaly detection) that flag unusual activity, large data exports, access from unusual locations, multiple failed login attempts across many accounts.
 
 Containment: Once a breach is detected, the vendor isolates the affected systems, revokes compromised credentials, and prevents further unauthorized access.
 

@@ -25,7 +25,7 @@ A report is required when any staff member:
 - Hears a student make statements that suggest abuse ("my teacher does bad things to me")
 - Receives information from a parent, colleague, or third party about suspected abuse
 
-The legal standard is "knowledge or reasonable belief" — not certainty. Staff should report suspicion; the police investigate to determine facts.
+The legal standard is "knowledge or reasonable belief", not certainty. Staff should report suspicion; the police investigate to determine facts.
 
 ## Who Reports
 
@@ -67,7 +67,7 @@ Training for all staff must include:
 
 **"I'm not sure, so I shouldn't report."** Section 19 requires reporting on reasonable suspicion or belief, not proof. Let the police determine facts.
 
-**"The CPO will handle it, not me."** Every staff member who receives information is a mandatory reporter. Telling the CPO is not optional — it is part of the mandatory reporting chain.
+**"The CPO will handle it, not me."** Every staff member who receives information is a mandatory reporter. Telling the CPO is not optional, it is part of the mandatory reporting chain.
 
 **"It might be a misunderstanding; I'll wait and see."** Delay creates legal liability and potentially allows ongoing abuse. Report immediately.
 
@@ -75,7 +75,7 @@ Training for all staff must include:
 
 ## How Nexli Helps
 
-Nexli tracks mandatory reporter training completion for every staff member, sends reminders when annual refreshers are due, and maintains training records for CBSE inspection. The system's CPO dashboard makes it clear who the CPO is, their contact, and how to escalate — reducing the friction that causes reporting delays.
+Nexli tracks mandatory reporter training completion for every staff member, sends reminders when annual refreshers are due, and maintains training records for CBSE inspection. The system's CPO dashboard makes it clear who the CPO is, their contact, and how to escalate, reducing the friction that causes reporting delays.
 
 [Book a Free Demo](/demo) to see Nexli's staff training tracking and CPO tools.
 

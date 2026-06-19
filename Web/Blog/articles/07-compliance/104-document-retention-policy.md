@@ -44,7 +44,7 @@ Multiple laws specify minimum record retention periods:
 ### Staff Records
 - Employment letters, service records: Duration of employment + 7 years
 - Police verification certificates: Duration of employment + 3 years
-- Qualification certificates: Duration of employment + 3 years (or permanently — they are originals)
+- Qualification certificates: Duration of employment + 3 years (or permanently, they are originals)
 - Leave records: 5 years
 - Training records (POCSO, POSH, data protection): 5 years after last training
 

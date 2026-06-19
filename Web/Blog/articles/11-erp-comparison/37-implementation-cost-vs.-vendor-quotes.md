@@ -1,7 +1,7 @@
 ---
 title: "Implementation Cost vs. Vendor Quotes: The Hidden Expenses"
 slug: "implementation-cost-vs.-vendor-quotes"
-meta_description: "School ERP total cost of ownership: what vendor quotes typically exclude — data migration, training, customization, integration, and renewal escalation. How to negotiate."
+meta_description: "School ERP total cost of ownership: what vendor quotes typically exclude, data migration, training, customization, integration, and renewal escalation. How to negotiate."
 category: "School ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP implementation cost"
 secondary_keywords:
@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Implementation Cost vs. Vendor Quotes: The Hidden Expenses
 
-**Vendor quotes for school ERP typically show the subscription price — the annual fee per student or per school. The actual cost of ownership includes implementation, data migration, training, customization, integrations, and renewal rate increases. Schools that compare only quoted prices often find their Year 2 costs significantly higher than Year 1.**
+**Vendor quotes for school ERP typically show the subscription price, the annual fee per student or per school. The actual cost of ownership includes implementation, data migration, training, customization, integrations, and renewal rate increases. Schools that compare only quoted prices often find their Year 2 costs significantly higher than Year 1.**
 
 ---
 
@@ -123,7 +123,7 @@ A vendor with a lower subscription but higher one-time fees and renewal escalati
 
 ## How Nexli Approaches Pricing Transparency
 
-Nexli's pricing is structured to include onboarding assistance, standard training sessions, and data migration support. The subscription model does not require purchasing separate module licenses. Detailed pricing is discussed during the demo — [Book a Free Demo](/demo) to get a transparent breakdown for your school's size and requirements.
+Nexli's pricing is structured to include onboarding assistance, standard training sessions, and data migration support. The subscription model does not require purchasing separate module licenses. Detailed pricing is discussed during the demo, [Book a Free Demo](/demo) to get a transparent breakdown for your school's size and requirements.
 
 ---
 
@@ -147,10 +147,10 @@ A: At each renewal point. If your usage has grown significantly (more students, 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

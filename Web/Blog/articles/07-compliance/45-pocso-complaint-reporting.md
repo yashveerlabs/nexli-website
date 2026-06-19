@@ -57,7 +57,7 @@ The CPO:
 
 The CPO files an FIR with the nearest police station or the Special Juvenile Police Unit (SJPU).
 
-**This step is mandatory under POCSO Section 19.** Filing the FIR does not require management approval. If management attempts to prevent the FIR, the CPO should file anyway — failure to report is a criminal offence.
+**This step is mandatory under POCSO Section 19.** Filing the FIR does not require management approval. If management attempts to prevent the FIR, the CPO should file anyway, failure to report is a criminal offence.
 
 **What to include in the FIR:**
 - Student's name, age, class

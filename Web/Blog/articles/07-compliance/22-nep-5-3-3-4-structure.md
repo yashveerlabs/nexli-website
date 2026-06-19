@@ -18,7 +18,7 @@ NEP 2020 replaces India's traditional 10+2 school structure with a 5+3+3+4 model
 ## The Four Stages Explained
 
 **Stage 1 - Foundational (5 years, Ages 3-8):**
-Covers Pre-School (Anganwadi, Nursery, LKG, UKG) and Classes 1-2. Focus: Play-based learning, literacy, numeracy, basic social skills. Assessment: Observation, portfolios — no formal exams.
+Covers Pre-School (Anganwadi, Nursery, LKG, UKG) and Classes 1-2. Focus: Play-based learning, literacy, numeracy, basic social skills. Assessment: Observation, portfolios, no formal exams.
 
 **Stage 2 - Preparatory (3 years, Ages 8-11):**
 Covers Classes 3-5. Focus: Experiential learning, introduction to science, social studies, art, sports. Assessment: Project-based, short assignments, teacher observations.
@@ -31,7 +31,7 @@ Covers Classes 9-12. Focus: Deep study, flexible subject choice, career preparat
 
 ## What Changes for Schools
 
-Schools must restructure their teaching approaches by stage — not just teach the same way across all classes. A Class 2 student needs play-based learning; a Class 7 student needs project-based exploration; a Class 11 student needs deep disciplinary study.
+Schools must restructure their teaching approaches by stage, not just teach the same way across all classes. A Class 2 student needs play-based learning; a Class 7 student needs project-based exploration; a Class 11 student needs deep disciplinary study.
 
 ## Curriculum Implications
 
@@ -45,9 +45,9 @@ Nexli's curriculum module supports stage-wise lesson planning and tracks curricu
 
 ---
 
-**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately — it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
-**About Yashveer Labs:** Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking — each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+**About Yashveer Labs:** Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking, each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **How Nexli Helps:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
@@ -58,7 +58,7 @@ Nexli's curriculum module supports stage-wise lesson planning and tracks curricu
 
 **Q: Do all schools have to immediately restructure into 5+3+3+4?**
 
-A: Implementation is phased. Most schools already have classes that align loosely. The key changes are pedagogical — how you teach each stage matters more than renaming classes.
+A: Implementation is phased. Most schools already have classes that align loosely. The key changes are pedagogical, how you teach each stage matters more than renaming classes.
 
 **Q: What happens to the Class 10 board exam under NEP 5+3+3+4?**
 

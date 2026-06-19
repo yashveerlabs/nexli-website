@@ -91,5 +91,5 @@ Mobile is primary now. Optimize for mobile or lose ranking and traffic.
 
 ---
 
-**Next step:** Test your website on mobile today. Fix top 3 issues. [Book a Free Demo](/demo) to see Nexli — a school ERP built mobile-first, tested on 412px screens, with all 118+ roles verified on mobile devices.
+**Next step:** Test your website on mobile today. Fix top 3 issues. [Book a Free Demo](/demo) to see Nexli, a school ERP built mobile-first, tested on 412px screens, with all 118+ roles verified on mobile devices.
 

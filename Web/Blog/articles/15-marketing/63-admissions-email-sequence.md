@@ -111,5 +111,5 @@ Email sequence keeps momentum from inquiry to application. Automate this. Let te
 
 ---
 
-**Next step:** Write your admissions email sequence this week. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline tracks every inquiry through multi-stage workflows — from inquiry to document verification to enrollment confirmation.
+**Next step:** Write your admissions email sequence this week. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline tracks every inquiry through multi-stage workflows, from inquiry to document verification to enrollment confirmation.
 

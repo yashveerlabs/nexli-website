@@ -86,5 +86,5 @@ Monthly newsletters are your direct line to parents. Use it wisely. Build commun
 
 ---
 
-**Next step:** Create newsletter template this week. [Book a Free Demo](/demo) to see how Nexli's Circulars module lets you send targeted announcements to specific parent groups — segmented by class, grade, or cohort.
+**Next step:** Create newsletter template this week. [Book a Free Demo](/demo) to see how Nexli's Circulars module lets you send targeted announcements to specific parent groups, segmented by class, grade, or cohort.
 

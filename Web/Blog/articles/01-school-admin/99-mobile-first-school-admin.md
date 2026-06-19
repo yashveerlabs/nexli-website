@@ -17,7 +17,7 @@ branding_block_company: 3
 branding_block_nexli: 3
 ---
 
-Mobile-first school administration means school operations work fully from a smartphone, not just from a desktop browser. For Indian schools, where principals travel, teachers often lack desk access, and parents primarily use WhatsApp, mobile-first is not optional—it is the only design that matches how school stakeholders actually live. This article covers what mobile-first means in practice, how it changes workflows for each role, and what to look for when evaluating a school management system's mobile capabilities.
+Mobile-first school administration means school operations work fully from a smartphone, not just from a desktop browser. For Indian schools, where principals travel, teachers often lack desk access, and parents primarily use WhatsApp, mobile-first is not optional, it is the only design that matches how school stakeholders actually live. This article covers what mobile-first means in practice, how it changes workflows for each role, and what to look for when evaluating a school management system's mobile capabilities.
 
 ---
 
@@ -184,7 +184,7 @@ Building Nexli required understanding something most software companies miss abo
 
 ## About Yashveer Labs
 
-Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep—it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
+Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep; it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
 
 ## About Nexli
 

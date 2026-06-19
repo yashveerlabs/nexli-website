@@ -147,7 +147,7 @@ For parents looking for specific programs:
 Don't regurgitate generic advice. Add your school's perspective.
 
 Example post opening:
-> "Every education blog tells you to 'make a study schedule.' But our Class 10 coordinator has worked with 500+ students. Here's what actually works—and why most study plans fail."
+> "Every education blog tells you to 'make a study schedule.' But our Class 10 coordinator has worked with 500+ students. Here's what actually works, and why most study plans fail."
 
 This signals: "This isn't generic advice. This is from real experience."
 

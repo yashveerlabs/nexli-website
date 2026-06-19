@@ -33,7 +33,7 @@ For school trusts and societies managing significant fee income, government gran
 
 An effective audit committee for a school includes:
 - 2-3 trustees/governing board members (at least one with financial or accounting experience)
-- External member (CA, retired banker, or finance professional — not the school's statutory auditor)
+- External member (CA, retired banker, or finance professional, not the school's statutory auditor)
 - Optionally: school's Finance Manager as a non-voting member for information provision
 
 **Key principle:** The audit committee must be independent of school management. Members who are also involved in school operations cannot provide effective oversight.

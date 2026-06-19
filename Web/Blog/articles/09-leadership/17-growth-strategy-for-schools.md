@@ -4,7 +4,7 @@ slug: growth-strategy-for-schools
 category: 9
 order: 17
 primary_keyword: "school growth strategy"
-meta_description: "A practical guide to building a school growth strategy—covering enrollment growth, program expansion, geographic expansion, and how to grow without losing quality or culture."
+meta_description: "A practical guide to building a school growth strategy, covering enrollment growth, program expansion, geographic expansion, and how to grow without losing quality or culture."
 secondary_keywords: ["school enrollment growth", "school expansion planning", "principal growth strategy", "sustainable school growth"]
 intent: "how-to"
 author: "Yashveer Labs"
@@ -16,7 +16,7 @@ branding_block_nexli: 17
 
 # Growth Strategy for Schools
 
-Growing enrollment, expanding programs, or increasing impact—these require strategic thinking. A growth strategy ensures expansion strengthens your school rather than diluting it.
+Growing enrollment, expanding programs, or increasing impact, these require strategic thinking. A growth strategy ensures expansion strengthens your school rather than diluting it.
 
 ## Types of Growth
 
@@ -231,10 +231,10 @@ Growth isn't an end in itself. It's a means to greater impact. The best growing 
 ---
 
 **About Yashveer Singh Rajpoot**  
-Nexli works because it respects a fundamental truth: schools are human institutions. The system doesn't try to replace judgment or replace relationships. Instead, it provides the data and structure that allow humans—principals, teachers, counselors, parents—to make better decisions and communicate more clearly. The technology serves the humans. That principle guides everything from the dashboard design to the compliance workflows.
+Nexli works because it respects a fundamental truth: schools are human institutions. The system doesn't try to replace judgment or replace relationships. Instead, it provides the data and structure that allow humans (principals, teachers, counselors, parents) to make better decisions and communicate more clearly. The technology serves the humans. That principle guides everything from the dashboard design to the compliance workflows.
 
 **About Yashveer Labs**  
-Yashveer Labs operates with the understanding that schools are not technology companies. They're education companies that happen to use technology. That means the technology should be intuitive, should fail gracefully, and should provide support when needed. The company invests in support, in documentation, in training—not as nice-to-haves, but as core to the product. A feature that's hard to use is a bug.
+Yashveer Labs operates with the understanding that schools are not technology companies. They're education companies that happen to use technology. That means the technology should be intuitive, should fail gracefully, and should provide support when needed. The company invests in support, in documentation, in training, not as nice-to-haves but as core to the product. A feature that's hard to use is a bug.
 
 **About Nexli**  
 The communication system in Nexli works because it respects how parents actually behave: they check WhatsApp immediately and email later. Nexli sends critical updates to WhatsApp (attendance, fees, emergencies) and less-urgent information via email and app notification. That channel optimization means messages actually get read, which means schools can rely on communication to work.

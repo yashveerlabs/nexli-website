@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## School ERP Rollout Strategy: How to Plan a Successful Launch
 
-**ERP rollout strategy determines whether implementation is smooth or chaotic. Schools that deploy ERP with a clear plan — right timing, sequenced modules, defined milestones, and a fallback approach — succeed. Schools that deploy without a strategy experience confusion, data problems, and staff resistance that can take months to overcome. This guide covers the strategic decisions that determine rollout success.**
+**ERP rollout strategy determines whether implementation is smooth or chaotic. Schools that deploy ERP with a clear plan, right timing, sequenced modules, defined milestones, and a fallback approach, succeed. Schools that deploy without a strategy experience confusion, data problems, and staff resistance that can take months to overcome. This guide covers the strategic decisions that determine rollout success.**
 
 ---
 
@@ -83,7 +83,7 @@ The order in which you inform and train staff affects adoption.
 1. **Principal and senior admin first:** They must understand and be visibly committed before teachers are trained. If teachers see that leadership is uncertain, adoption suffers.
 2. **HODs second:** Department heads become internal champions and answer their team's questions.
 3. **Teachers third:** Class teachers, then subject teachers, in role-specific sessions.
-4. **Support staff last:** Accounts, admin, transport — after core academic staff are trained.
+4. **Support staff last:** Accounts, admin, transport, after core academic staff are trained.
 
 Parents are onboarded after the parent portal is confirmed accurate (after Phase 1 data quality is verified).
 
@@ -107,7 +107,7 @@ These criteria, agreed in advance, give the team a clear target and allow the Pr
 A: Yes. Piloting with one or two sections first builds confidence and identifies issues before full deployment. This works best for attendance and marks; fee management is harder to pilot because fee structures apply school-wide.
 
 **Q: What if implementation runs over the planned timeline?**
-A: A 2-week overrun is normal. A 4-week overrun suggests a systemic problem — data quality issues, staff resistance, or vendor capacity. Identify the specific bottleneck and address it directly.
+A: A 2-week overrun is normal. A 4-week overrun suggests a systemic problem, data quality issues, staff resistance, or vendor capacity. Identify the specific bottleneck and address it directly.
 
 **Q: How do we handle a critical issue that appears at go-live?**
 A: Return to parallel running for the affected module while the issue is resolved. A critical issue in fee management does not mean reverting attendance management. Module isolation prevents a single problem from becoming a complete rollback.
@@ -121,10 +121,10 @@ A: Student count confirmation (matches pre-migration count), fee ledger balance 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

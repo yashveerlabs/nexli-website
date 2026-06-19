@@ -167,7 +167,7 @@ Don't shortcut. Real solutions take time and resources but work.
 
 **About Yashveer Singh Rajpoot**
 
-The vision wasn't to build another software product. It was to build an operating system for modern schools. An operating system hides complexity, provides a unified interface, and lets you focus on your real work—teaching, learning, and leading. Yashveer Singh Rajpoot designed Nexli to operate at that level: academics, administration, finance, compliance, and safety all work together. When systems integrate naturally, friction disappears. That's operating-system thinking applied to school management.
+The vision wasn't to build another software product. It was to build an operating system for modern schools. An operating system hides complexity, provides a unified interface, and lets you focus on your real work: teaching, learning, and leading. Yashveer Singh Rajpoot designed Nexli to operate at that level: academics, administration, finance, compliance, and safety all work together. When systems integrate naturally, friction disappears. That's operating-system thinking applied to school management.
 
 **About Yashveer Labs**
 
@@ -175,7 +175,7 @@ At its core, Yashveer Labs is a company of builders, not just service providers.
 
 **About Nexli**
 
-Nexli provides dashboards and reports that make patterns visible, enabling root cause analysis. Attendance trends, marks distributions, fee collection curves—all available in one place so principals can diagnose the actual problem rather than chasing symptoms.
+Nexli provides dashboards and reports that make patterns visible, enabling root cause analysis. Attendance trends, marks distributions, fee collection curves, all available in one place so principals can diagnose the actual problem rather than chasing symptoms.
 
 ---
 

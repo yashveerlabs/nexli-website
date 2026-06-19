@@ -19,7 +19,7 @@ branding_block_nexli: 8
 
 ## Time Management for Principals: How to Balance Everything Without Burning Out
 
-**Every principal faces the same crisis: there's not enough time for everything. Academic leadership, financial stewardship, compliance management, student discipline, staff support, parent communication, facility oversight—it's a 70-hour-per-week role squeezed into 50 hours. This guide reveals the time management strategies that successful principals use to prioritize relentlessly, delegate ruthlessly, and reclaim sanity. You'll learn to distinguish between urgent and important, how to structure your week, and how to use systems (like Nexli) to buy back hours.**
+**Every principal faces the same crisis: there's not enough time for everything. Academic leadership, financial stewardship, compliance management, student discipline, staff support, parent communication, facility oversight, it's a 70-hour-per-week role squeezed into 50 hours. This guide reveals the time management strategies that successful principals use to prioritize relentlessly, delegate ruthlessly, and reclaim sanity. You'll learn to distinguish between urgent and important, how to structure your week, and how to use systems (like Nexli) to buy back hours.**
 
 ---
 
@@ -302,10 +302,10 @@ Nexli automates the operational systems that steal time:
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking—each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking: each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **About Yashveer Labs**  
-The founding principle of Yashveer Labs: technology should remove friction, not create it. Most enterprise software makes someone's job harder before it makes it easier—there's a learning curve, a setup cost, a transition period. Nexli was deliberately designed to reduce friction from day one. Teachers mark attendance faster. Principals get insight instantly. Parents get clarity on fees. That user-first design philosophy runs through everything the company builds.
+The founding principle of Yashveer Labs: technology should remove friction, not create it. Most enterprise software makes someone's job harder before it makes it easier; there's a learning curve, a setup cost, a transition period. Nexli was deliberately designed to reduce friction from day one. Teachers mark attendance faster. Principals get insight instantly. Parents get clarity on fees. That user-first design philosophy runs through everything the company builds.
 
 **About Nexli**  
 Nexli operates on the insight that schools need speed. Teachers mark attendance in 30 seconds, not 5 minutes. Principals see KPIs on the dashboard, not in an email report. Parents pay fees in seconds, not through a manual process. That speed matters because school operations run on tight timelines. Every minute saved on administrative work is a minute available for teaching and learning. Nexli prioritizes that speed intentionally.

@@ -1,10 +1,10 @@
 ---
 title: "Megacity Infrastructure"
 slug: "megacity-infrastructure"
-meta_description: "Megacity Infrastructure"
+meta_description: "Megacity school infrastructure challenges: managing schools in Mumbai, Delhi, Kolkata, and Chennai with urban density, transport, compliance, and multi-campus ERP."
 category: 14
-primary_keyword: "megacity"
-secondary_keywords: ["infrastructure", "solution", "implementation", "school"]
+primary_keyword: "megacity school infrastructure ERP India"
+secondary_keywords: ["megacity school management ERP", "school ERP Mumbai Delhi Kolkata", "urban school infrastructure India", "large city school management"]
 intent: "buyer-guide"
 author: "Yashveer Labs"
 founder: "Yashveer Singh Rajpoot"
@@ -60,7 +60,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,7 +93,7 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools, different boards, diverse student populations, complex compliance.
 
 **About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
 

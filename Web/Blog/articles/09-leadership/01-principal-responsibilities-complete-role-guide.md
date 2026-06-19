@@ -1,7 +1,7 @@
 ---
 title: "Principal Responsibilities: Complete Role Guide for Indian Schools"
 slug: "principal-responsibilities-complete-role-guide"
-meta_description: "Comprehensive guide to principal responsibilities in Indian schools. Learn academic, administrative, financial, and compliance duties—and how to balance them effectively."
+meta_description: "Comprehensive guide to principal responsibilities in Indian schools. Learn academic, administrative, financial, and compliance duties, and how to balance them effectively."
 category: "School Leadership & Management"
 primary_keyword: "principal responsibilities"
 secondary_keywords:
@@ -19,7 +19,7 @@ branding_block_nexli: 8
 
 ## Principal Responsibilities: What Every School Leader Must Master
 
-**A principal is not just an administrator—they are an educational leader, financial steward, compliance officer, and community ambassador rolled into one. This complete guide breaks down the principal's role across five critical dimensions, helping you understand what it takes to lead a modern Indian school. Whether you are a first-time principal or seeking to refine your leadership approach, this roadmap clarifies the duties, priorities, and tools that successful school leaders use.**
+**A principal is not just an administrator, they are an educational leader, financial steward, compliance officer, and community ambassador rolled into one. This complete guide breaks down the principal's role across five critical dimensions, helping you understand what it takes to lead a modern Indian school. Whether you are a first-time principal or seeking to refine your leadership approach, this roadmap clarifies the duties, priorities, and tools that successful school leaders use.**
 
 ---
 
@@ -34,7 +34,7 @@ Most principals in Indian schools report the same challenge: they wear too many 
 - An admissions target that needs acceleration
 - A compliance deadline for UDISE+ reporting
 
-Without clarity on role priorities and effective operational systems, principals end up in reactive mode—fighting fires instead of building schools.
+Without clarity on role priorities and effective operational systems, principals end up in reactive mode, fighting fires instead of building schools.
 
 ### Why This Matters
 
@@ -214,7 +214,7 @@ Schools are ecosystems involving students, parents, teachers, staff, the distric
 ### 4. Be Visible & Accessible
 - Walk the campus 2–3 times per week (see what's happening in classrooms, halls, labs).
 - Have office hours when parents and teachers can drop in without appointment.
-- Attend student events, assemblies, and sports matches—show you value the whole school.
+- Attend student events, assemblies, and sports matches, show you value the whole school.
 
 ### 5. Invest in Your Own Learning
 - Attend district education officer meetings and webinars.
@@ -237,7 +237,7 @@ Nexli is built to automate and organize the operational chaos so principals can 
 - Marks entry and gradebook show subject-wise performance instantly (no manual spreadsheets)
 - Lesson plan tracker ensures HODs review curriculum alignment before term starts
 - Report card engine auto-generates CBSE-compliant cards with competitive rankings
-- Holistic Progress Card (NEP 2020) captures multi-domain assessment—cognitive, social-emotional, physical, arts, vocational
+- Holistic Progress Card (NEP 2020) captures multi-domain assessment, cognitive, social-emotional, physical, arts, vocational
 
 **Administration Streamlined:**
 - Timetable generator creates conflict-free schedules (no double-booking)
@@ -273,10 +273,10 @@ Nexli is built to automate and organize the operational chaos so principals can 
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows—no code changes required. The system adapts to the school, not the other way around.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, with no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**  
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails—these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails: these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**  
 Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.

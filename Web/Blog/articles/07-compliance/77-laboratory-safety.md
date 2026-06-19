@@ -13,7 +13,7 @@ branding_block_company: 9
 branding_block_nexli: 9
 ---
 
-School science laboratories are environments where students handle chemicals, biological materials, heat sources, and electrical equipment. Laboratory accidents — chemical burns, fire, glass injuries — are real risks when safety protocols are absent. Schools have a duty of care obligation for laboratory safety, and CBSE affiliation conditions specify minimum laboratory safety standards.
+School science laboratories are environments where students handle chemicals, biological materials, heat sources, and electrical equipment. Laboratory accidents, chemical burns, fire, glass injuries, are real risks when safety protocols are absent. Schools have a duty of care obligation for laboratory safety, and CBSE affiliation conditions specify minimum laboratory safety standards.
 
 ## Legal and Regulatory Basis
 

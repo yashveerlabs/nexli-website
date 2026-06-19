@@ -21,7 +21,7 @@ Strong internal controls do not require large staff or complex systems. The most
 
 No single person should control an entire financial transaction from initiation to recording to authorization.
 
-**Example — Fee collection:**
+**Example, Fee collection:**
 - Staff member at counter collects cash or records online payment (initiates)
 - Finance Manager reconciles payment against student record (records)
 - Principal or authorized person approves fee adjustments and waivers (authorizes)
@@ -54,9 +54,9 @@ No single person should control an entire financial transaction from initiation 
 ## Control 3: Payment Authorization
 
 **Authorization matrix:**
-- Payments below Rs. X — Finance Manager can authorize
-- Payments above Rs. X — Principal approval required
-- Payments above Rs. Y — Board/Committee approval required (capital expenditure, large contracts)
+- Payments below Rs. X, Finance Manager can authorize
+- Payments above Rs. X, Principal approval required
+- Payments above Rs. Y, Board/Committee approval required (capital expenditure, large contracts)
 
 **Payment process:**
 - Three-way match: purchase order, delivery note, invoice must all match before payment
@@ -95,7 +95,7 @@ Nexli enforces role-based access (Finance Manager cannot approve their own payme
 
 ---
 
-**About Nexli:** Nexli's role-based access, transaction audit trails, and reconciliation tools enforce internal controls at the system level. Segregation of duties is architectural — the system prevents conflicts without depending on policy adherence.
+**About Nexli:** Nexli's role-based access, transaction audit trails, and reconciliation tools enforce internal controls at the system level. Segregation of duties is architectural, the system prevents conflicts without depending on policy adherence.
 
 **About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's finance module knowing that internal controls enforced by software are more reliable than those enforced only by policy. System-level controls protect schools from human error and intentional fraud.
 

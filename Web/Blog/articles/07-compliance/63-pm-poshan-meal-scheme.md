@@ -43,13 +43,13 @@ This register is the primary audit document for PM POSHAN inspections.
 Schools must ensure:
 - Meals are prepared under hygienic conditions (clean kitchen, clean utensils)
 - Menu follows state government nutritional guidelines
-- Teachers taste the meal before it is served to students (mandatory — teacher must sign the tasting record)
+- Teachers taste the meal before it is served to students (mandatory, teacher must sign the tasting record)
 - Meals are served within the school premises
 - Leftovers are disposed of hygienically
 
 ### 3. Tasting Record
 
-Before serving any meal, a teacher must taste it and sign a tasting record. This is a mandatory food safety safeguard — it verifies the meal is edible and not contaminated before children eat it.
+Before serving any meal, a teacher must taste it and sign a tasting record. This is a mandatory food safety safeguard, it verifies the meal is edible and not contaminated before children eat it.
 
 **The tasting record must include:**
 - Date

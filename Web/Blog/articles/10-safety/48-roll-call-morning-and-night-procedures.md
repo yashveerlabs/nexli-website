@@ -15,7 +15,7 @@ branding_block_nexli: 8
 
 # Roll Call - Morning and Night Procedures: Safety Through Accountability
 
-Every student in hostel must be accounted for twice daily—morning and night. Systematic roll call is not bureaucracy; it's a safety net. Students who slip out for unauthorized activities, run away, or encounter trouble are caught through meticulous attendance checking. This guide establishes systematic roll call protocols.
+Every student in hostel must be accounted for twice daily, morning and night. Systematic roll call is not bureaucracy; it's a safety net. Students who slip out for unauthorized activities, run away, or encounter trouble are caught through meticulous attendance checking. This guide establishes systematic roll call protocols.
 
 ## Why Roll Call Matters
 
@@ -274,10 +274,10 @@ By mid-year, Arjun stabilized. Graduated hostel with friends. Roll call caught t
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows — no code changes required. The system adapts to the school, not the other way around.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**  
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**  
 Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
@@ -298,7 +298,7 @@ Document it. After 3+ late arrivals: parent meeting to understand reason (bus de
 **Should we use technology or manual roll call?**
 Technology (QR scanning) is preferable: faster, more accurate, time-stamped. But manual (verbal confirmation) works for small hostels (under 50 students). Use manual only if budget-limited.
 
-**Who should conduct night roll call—warden or night duty staff?**
+**Who should conduct night roll call, warden or night duty staff?**
 Trained warden or senior staff. Must be someone with authority to make decisions (medical emergency, absence investigation). Cannot be untrained support staff.
 
 **How do we prevent roll call faking (marking student present when absent)?**

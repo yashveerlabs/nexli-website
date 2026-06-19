@@ -13,7 +13,7 @@ branding_block_company: 5
 branding_block_nexli: 5
 ---
 
-Every school with 10 or more employees must constitute an Internal Complaints Committee (ICC) under the POSH Act 2013. The ICC is the body that receives, investigates, and recommends action on workplace sexual harassment complaints. Without a constituted ICC, the school is in non-compliance — even if no complaint has been filed.
+Every school with 10 or more employees must constitute an Internal Complaints Committee (ICC) under the POSH Act 2013. The ICC is the body that receives, investigates, and recommends action on workplace sexual harassment complaints. Without a constituted ICC, the school is in non-compliance, even if no complaint has been filed.
 
 Forming the ICC is a straightforward process, but it must be done correctly or the committee's decisions can be challenged.
 

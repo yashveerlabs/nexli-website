@@ -13,7 +13,7 @@ branding_block_company: 20
 branding_block_nexli: 20
 ---
 
-The school board — whether called the Board of Governors, Managing Committee, Board of Trustees, or Governing Council — is the highest decision-making body of the school. Board members have legal and ethical responsibilities that go beyond attending meetings and approving budgets. Understanding the full scope of board responsibility is essential for effective school governance.
+The school board, whether called the Board of Governors, Managing Committee, Board of Trustees, or Governing Council, is the highest decision-making body of the school. Board members have legal and ethical responsibilities that go beyond attending meetings and approving budgets. Understanding the full scope of board responsibility is essential for effective school governance.
 
 ## Fiduciary Duty
 

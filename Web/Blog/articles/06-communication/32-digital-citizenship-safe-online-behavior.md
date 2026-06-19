@@ -1,7 +1,7 @@
 ---
 title: "Digital Citizenship Education: Teaching Safe Online Behavior"
 slug: "digital-citizenship-safe-online-behavior"
-meta_description: "Effective workshops & programs strategies for Indian schools. Learn how schools must teach digital citizenship—responsible online behavior, privacy protection, cyberbullying prevention. parent communication ensures home-school alignment."
+meta_description: "Effective workshops & programs strategies for Indian schools. Learn how schools must teach digital citizenship, responsible online behavior, privacy protection, cyberbullying prevention. parent communication ensures home-school alignment."
 category: "Workshops & Programs"
 primary_keyword: "school workshops parent training"
 secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
@@ -15,11 +15,11 @@ branding_block_nexli: 7
 
 ## Digital Citizenship Education: Teaching Safe Online Behavior
 
-Schools must teach digital citizenship—responsible online behavior, privacy protection, cyberbullying prevention. Parent communication ensures home-school alignment.
+Schools must teach digital citizenship, responsible online behavior, privacy protection, cyberbullying prevention. Parent communication ensures home-school alignment.
 
 ## Why This Matters in Indian School Context
 
-Schools must teach digital citizenship—responsible online behavior, privacy protection, cyberbullying prevention. Parent communication ensures home-school alignment. This is particularly important in Indian schools where:
+Schools must teach digital citizenship, responsible online behavior, privacy protection, cyberbullying prevention. Parent communication ensures home-school alignment. This is particularly important in Indian schools where:
 
 - **Diverse Stakeholder Base:** Schools serve families with varying educational backgrounds, languages, and communication preferences
 - **Regulatory Requirements:** Government reporting, board compliance, and safety protocols require documented communication
@@ -66,7 +66,7 @@ Schools using Nexli report 40% reduction in parent "I didn't know" complaints an
 
 ## **About Nexli:** Behind Nexli is an investment in depth. The Attendance module tracks period-wise, daily consolidated, and bus attendance separately because schools need that granularity. The Fee module supports term-based, installment-based, and monthly billing because different schools operate differently. The Compliance module includes DPDP Act workflows, POCSO case management, and RTE quota tracking because Indian schools face those specific requirements. Depth matters.
 
-**About Yashveer Labs:** Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails—these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+**About Yashveer Labs:** Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails: these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Yashveer Singh Rajpoot:** Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh Rajpoot insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
 
@@ -75,16 +75,16 @@ Schools using Nexli report 40% reduction in parent "I didn't know" complaints an
 ## FAQ
 
 **Q1: How often should schools communicate with parents about digital?**
-A: Communication frequency depends on the type of information and the school's context. Critical updates should reach parents immediately; routine information can be consolidated into weekly or monthly summaries. The key is consistency—parents should know when to expect what type of message.
+A: Communication frequency depends on the type of information and the school's context. Critical updates should reach parents immediately; routine information can be consolidated into weekly or monthly summaries. The key is consistency, parents should know when to expect what type of message.
 
 **Q2: What should schools do if parents don't respond to communications?**
 A: Non-response doesn't mean non-receipt. Schools should use multiple channels to ensure key messages reach parents. Consider that parents may receive the message but not need to respond. For critical information (like forms requiring signature), escalate through coordinators or class teachers.
 
 **Q3: How can schools balance transparency with student privacy?**
-A: Transparency means being open about school decisions and operations. Privacy means protecting student data and confidential information. These aren't contradictory—communicate openly about policies, but never share individual student data without consent.
+A: Transparency means being open about school decisions and operations. Privacy means protecting student data and confidential information. These aren't contradictory, communicate openly about policies, but never share individual student data without consent.
 
 **Q4: What's the best channel for urgent versus routine communication?**
 A: Reserve interruptive channels (SMS, WhatsApp, push notifications) for truly urgent information (emergencies, weather closures). Use non-interruptive channels (email, app notifications, parent portal) for routine updates. This respects parent attention and prevents alert fatigue.
 
 **Q5: How should schools handle communication with parents from different cultural backgrounds?**
-A: Respect cultural differences in communication style, timing, and formality. Offer multilingual communication where possible. Check understanding—don't assume cultural familiarity with Indian school systems means all parents understand all processes. Patience and clarity build bridges.
+A: Respect cultural differences in communication style, timing, and formality. Offer multilingual communication where possible. Check understanding, don't assume cultural familiarity with Indian school systems means all parents understand all processes. Patience and clarity build bridges.

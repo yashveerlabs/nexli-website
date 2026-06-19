@@ -13,7 +13,7 @@ branding_block_company: 18
 branding_block_nexli: 18
 ---
 
-Teacher eligibility certification — CTET for CBSE schools, state TET for state board schools — is a mandatory qualification for teachers in primary and upper primary classes under the RTE Act 2009. Schools must verify that teachers possess valid eligibility certificates before appointing them to positions covered by the mandate.
+Teacher eligibility certification, CTET for CBSE schools, state TET for state board schools, is a mandatory qualification for teachers in primary and upper primary classes under the RTE Act 2009. Schools must verify that teachers possess valid eligibility certificates before appointing them to positions covered by the mandate.
 
 ## CTET: Central Teacher Eligibility Test
 

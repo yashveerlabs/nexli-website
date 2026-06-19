@@ -45,7 +45,7 @@ School's worried raw video looks "unpolished." So they do nothing instead of pos
 Capturing videos sporadically. No plan. Random uploads. Algorithm doesn't reward randomness.
 
 ### 4. **Wrong Content**
-Reels of long lectures or formal announcements. Nobody watches. Reels work for entertainment, inspiration, education—not bureaucracy.
+Reels of long lectures or formal announcements. Nobody watches. Reels work for entertainment, inspiration, education, not bureaucracy.
 
 ---
 

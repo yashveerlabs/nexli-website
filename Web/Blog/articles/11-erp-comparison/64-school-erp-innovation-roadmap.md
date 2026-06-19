@@ -74,11 +74,11 @@ A forward-looking vendor anticipates regulatory changes. DPDP Act enforcement ru
 
 ## Red Flags in Roadmap Discussions
 
-**Overpromising:** "We can build anything you need." This is not a roadmap — it is sales language. Ask for specific features, specific timelines.
+**Overpromising:** "We can build anything you need." This is not a roadmap, it is sales language. Ask for specific features, specific timelines.
 
 **Features "coming soon" that have been on the roadmap for years:** Ask reference schools whether promised features have been delivered. Chronic delays indicate a team that cannot execute.
 
-**No mechanism for customer feedback:** If customers cannot easily report issues or request features, the product direction is driven by the vendor alone — not by school needs.
+**No mechanism for customer feedback:** If customers cannot easily report issues or request features, the product direction is driven by the vendor alone, not by school needs.
 
 **Roadmap dependent on raising funding:** "We are planning to add these features once our next funding round closes." Vendor financial dependency is a risk, not a roadmap.
 
@@ -112,10 +112,10 @@ A: Evaluate whether the feature is a genuine requirement or a preference. If gen
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

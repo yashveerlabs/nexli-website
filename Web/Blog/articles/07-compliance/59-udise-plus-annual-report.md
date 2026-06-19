@@ -13,7 +13,7 @@ branding_block_company: 11
 branding_block_nexli: 11
 ---
 
-UDISE+ (Unified District Information System for Education Plus) is India's national database for school education statistics, maintained by the Ministry of Education. Every recognized school — government and private — must submit an annual report through the UDISE+ portal. The data is used for government planning, funding decisions, and regulatory oversight.
+UDISE+ (Unified District Information System for Education Plus) is India's national database for school education statistics, maintained by the Ministry of Education. Every recognized school, government and private, must submit an annual report through the UDISE+ portal. The data is used for government planning, funding decisions, and regulatory oversight.
 
 Missing the UDISE+ annual submission affects the school's regulatory standing and, for government schools, funding. Private schools that skip submission risk recognition complications.
 
@@ -69,7 +69,7 @@ The School Management Committee (SMC) or school principal is responsible for dat
 
 ## Data Accuracy
 
-Data entered in UDISE+ is used for government planning and is subject to physical verification by education inspectors. Inaccurate data — inflated enrollment, unreported infrastructure gaps — creates risk during inspections. Enter accurate data even if it reflects gaps; inspectors compare submission against physical reality.
+Data entered in UDISE+ is used for government planning and is subject to physical verification by education inspectors. Inaccurate data, inflated enrollment, unreported infrastructure gaps, creates risk during inspections. Enter accurate data even if it reflects gaps; inspectors compare submission against physical reality.
 
 ## How Nexli Helps
 
@@ -79,7 +79,7 @@ Nexli maintains real-time school data that maps directly to UDISE+ reporting cat
 
 ---
 
-**About Nexli:** Nexli's UDISE+ export pulls enrollment, staff, infrastructure, and academic data from the live database and formats it for portal submission. Schools using Nexli don't compile UDISE+ data manually — they export it.
+**About Nexli:** Nexli's UDISE+ export pulls enrollment, staff, infrastructure, and academic data from the live database and formats it for portal submission. Schools using Nexli don't compile UDISE+ data manually, they export it.
 
 **About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's government reporting tools around the actual data formats required by UDISE+ and CBSE. Integration with regulatory requirements was a design priority, not an afterthought.
 

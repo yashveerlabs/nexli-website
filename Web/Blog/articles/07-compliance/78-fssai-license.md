@@ -89,7 +89,7 @@ Nexli's compliance calendar tracks FSSAI registration renewal dates. Hostel and 
 
 **About Nexli:** Nexli's compliance calendar tracks FSSAI renewal dates alongside other school compliance obligations. Hostel and cafeteria modules maintain meal records that support food safety audit readiness.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli knowing that schools are complex multi-function operations — education, accommodation, food service. Compliance across all these functions is tracked in one system.
+**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli knowing that schools are complex multi-function operations, education, accommodation, food service. Compliance across all these functions is tracked in one system.
 
 **How Nexli Helps:** Yashveer Labs invests in compliance coverage that matches school operational reality. Food safety compliance is part of the same compliance framework as educational and governance compliance.
 

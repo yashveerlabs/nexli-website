@@ -21,17 +21,17 @@ date: "2026-06-19"
 
 ## Hostel Management Features: What to Look for in a School ERP
 
-**Boarding schools have a layer of operational complexity that day schools do not. Students live on campus around the clock. Wardens are responsible for safety at 2 AM, not just 2 PM. A hostel management module in a school ERP must handle room allocation, roll-call, weekend leave, and welfare tracking — and it must work reliably on a warden's phone at odd hours.**
+**Boarding schools have a layer of operational complexity that day schools do not. Students live on campus around the clock. Wardens are responsible for safety at 2 AM, not just 2 PM. A hostel management module in a school ERP must handle room allocation, roll-call, weekend leave, and welfare tracking, and it must work reliably on a warden's phone at odd hours.**
 
 ---
 
 ## Why Hostel Management Needs Its Own Module
 
-Day school operations end at dismissal. Boarding school operations are 24/7. The warden is responsible for knowing where every student is at any time — in their room, at study hall, at the infirmary, or on an approved weekend leave.
+Day school operations end at dismissal. Boarding school operations are 24/7. The warden is responsible for knowing where every student is at any time, in their room, at study hall, at the infirmary, or on an approved weekend leave.
 
 Without a hostel module, wardens maintain paper registers, WhatsApp groups, and verbal handoffs. These break down. Students slip through gaps. Incidents happen and the school cannot reconstruct where students were.
 
-A hostel module creates a digital record of room assignments, roll-calls, and approved leaves — the foundation for student accountability and parent assurance.
+A hostel module creates a digital record of room assignments, roll-calls, and approved leaves, the foundation for student accountability and parent assurance.
 
 ---
 
@@ -103,7 +103,7 @@ Hostel fees (accommodation, meals, laundry) must integrate with the main fee mod
 
 Nexli's hostel management covers block assignment, room allocations, morning and night roll-call, and exeat weekend leave tracking. Wardens see students in their assigned block. Roll-call is completed on mobile. Exeat requests are submitted by parents, reviewed by the warden, and logged with expected return dates.
 
-The hostel module integrates with the student welfare system — behavioral incidents and medical visits from the hostel feed into the student's complete welfare record visible to the counselor and Principal.
+The hostel module integrates with the student welfare system, behavioral incidents and medical visits from the hostel feed into the student's complete welfare record visible to the counselor and Principal.
 
 ---
 
@@ -127,10 +127,10 @@ A: The medical/clinic module should communicate with hostel management. A studen
 ---
 
 **About Yashveer Singh Rajpoot**
-The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli — a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**
-Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project — from Nexli to future platforms — the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 **How Nexli Helps**
 Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents where they actually open messages. Nexli is built for Indian schools, by people who understand Indian schools.

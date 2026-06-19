@@ -31,7 +31,7 @@ For Class 5 Mathematics: Student can calculate area and perimeter of regular sha
 - Excelling (E): Demonstrates beyond grade expectations.
 
 **Evidence of competency:**
-Projects, presentations, practical tasks, oral responses, and observations — not just written tests.
+Projects, presentations, practical tasks, oral responses, and observations, not just written tests.
 
 ## Integration with Marks-Based System
 
@@ -49,9 +49,9 @@ Nexli's gradebook supports both marks-based and competency-based rating entry. T
 
 ---
 
-**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately — it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
-**About Yashveer Labs:** Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking — each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+**About Yashveer Labs:** Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking, each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **How Nexli Helps:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
@@ -62,7 +62,7 @@ Nexli's gradebook supports both marks-based and competency-based rating entry. T
 
 **Q: Does competency-based grading eliminate exams?**
 
-A: No. Exams continue, particularly for Classes 9-12 board requirements. Competency-based assessment supplements exams — it provides additional evidence of learning beyond exam performance.
+A: No. Exams continue, particularly for Classes 9-12 board requirements. Competency-based assessment supplements exams, it provides additional evidence of learning beyond exam performance.
 
 **Q: How are competency grades communicated to parents?**
 

@@ -75,7 +75,7 @@ Manual processes create errors. Errors have costs: staff time to identify and co
 - Incorrect attendance entry: May require manual attendance register cross-checking, parent notification correction. Time cost: 15-30 minutes per incident.
 - Grade entry errors: If noticed after report card distribution, requires printed corrections, parent communication, principal approval. Time cost: 1-2 hours per incident.
 
-For a school generating 20 fee errors, 50 attendance errors, and 5 grade errors monthly, the error correction cost can reach 60-80 hours per month, or 720-960 hours per year — approximately ₹2-3 lakh in staff time value.
+For a school generating 20 fee errors, 50 attendance errors, and 5 grade errors monthly, the error correction cost can reach 60-80 hours per month, or 720-960 hours per year, approximately ₹2-3 lakh in staff time value.
 
 ## Benefit Category 4: Compliance Cost Avoidance
 

@@ -53,7 +53,7 @@ The data behind these decisions doesn't need to be complex. Simple, accurate num
 
 ## Leadership Behavior 3: Recognizing Digital Champions Publicly
 
-The change champions who supported colleagues through the ERP transition, who stayed late to help the accounts staff learn fee collection, who created the quick-reference cards — they should be recognized.
+The change champions who supported colleagues through the ERP transition, who stayed late to help the accounts staff learn fee collection, who created the quick-reference cards, they should be recognized.
 
 Recognition can be as simple as:
 - Mentioning them by name in a staff meeting: "I want to thank [name] from the accounts department who has been the ERP go-to person for the past two months and has helped 15 colleagues resolve issues."
@@ -93,7 +93,7 @@ A digital culture in a school is a 2-3 year journey, not a 6-month project. Scho
 
 Realistic milestones:
 - **Month 3-6:** Staff use the ERP for mandated tasks (attendance, marks, fee receipts). Not yet habit, but compliance.
-- **Month 7-12:** Staff start referring to ERP data without being asked. "I checked the system — Class 6A has three students who have missed more than 8 days."
+- **Month 7-12:** Staff start referring to ERP data without being asked. "I checked the system, Class 6A has three students who have missed more than 8 days."
 - **Year 2:** ERP data is the default starting point for operational discussions. Paper reports are for archiving, not for decision-making.
 - **Year 3:** New staff join and adopt the ERP within weeks because "that's how we do things here."
 

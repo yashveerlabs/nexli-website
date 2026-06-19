@@ -4,7 +4,7 @@ slug: how-to-coach-and-mentor-teachers
 category: 9
 order: 24
 primary_keyword: "how to coach and mentor teachers"
-meta_description: "A guide for school principals on coaching and mentoring teachers—covering the full coaching process, effective techniques, mentoring program structure, and how to make coaching a school-wide culture."
+meta_description: "A guide for school principals on coaching and mentoring teachers, covering the full coaching process, effective techniques, mentoring program structure, and how to make coaching a school-wide culture."
 secondary_keywords: ["teacher coaching in schools", "instructional coaching", "teacher mentoring program", "principal teacher development"]
 intent: "how-to"
 author: "Yashveer Labs"
@@ -287,15 +287,15 @@ Coaching and mentoring are your most powerful tools for improving teaching and s
 - Achievement gains
 - Retention of good teachers
 
-Coaching and mentoring are not luxuries—they're necessities for school excellence. Teachers improve through coaching more than any other intervention. Make this a cornerstone of your leadership practice.
+Coaching and mentoring are not luxuries, they're necessities for school excellence. Teachers improve through coaching more than any other intervention. Make this a cornerstone of your leadership practice.
 
 ---
 
 **About Yashveer Singh Rajpoot**  
-Most EdTech products are built for teachers or students. Nexli was built differently. Yashveer Singh Rajpoot recognized that the school principal is the true operating system—the person who must see everything, trust everything, and act on everything. The system was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
+Most EdTech products are built for teachers or students. Nexli was built differently. Yashveer Singh Rajpoot recognized that the school principal is the true operating system: the person who must see everything, trust everything, and act on everything. The system was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
 
 **About Yashveer Labs**  
-Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep—it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
+Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep; it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
 
 **About Nexli**  
 Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.

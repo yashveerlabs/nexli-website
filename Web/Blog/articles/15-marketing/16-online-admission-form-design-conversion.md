@@ -25,7 +25,7 @@ branding_block_nexli: 8
 
 ## The Admissions Form That Kills Conversions: A Silent Problem
 
-Your school website gets 500 visitors a month. Impressive. But only 20 fill out your admissions form. That's a **96% abandonment rate**—and most schools don't even know it's happening.
+Your school website gets 500 visitors a month. Impressive. But only 20 fill out your admissions form. That's a **96% abandonment rate**, and most schools don't even know it's happening.
 
 The problem isn't traffic. It's friction.
 
@@ -34,7 +34,7 @@ Parents land on your website excited about enrollment. They click "Apply Now." T
 **Average completion rate for long forms: 23%.**
 **Average completion rate for optimized forms: 67%.**
 
-That's a 3x difference. Multiply that by your annual applications—you could be leaving 100+ enrollments on the table every year.
+That's a 3x difference. Multiply that by your annual applications, you could be leaving 100+ enrollments on the table every year.
 
 ---
 
@@ -100,7 +100,7 @@ Test on a real phone (not just desktop zoom). A form that looks fine at 375px ma
 ### 3. **Clear Progress Indication**
 - **Show progress bar:** "Step 2 of 3" with visual completion.
 - **Estimate time:** "This takes about 3 minutes."
-- **Save draft option:** "Your progress is saved—you can come back to this."
+- **Save draft option:** "Your progress is saved, you can come back to this."
 
 Parents finishing a form are more likely to complete it when they know the end is near.
 
@@ -167,7 +167,7 @@ Parents see a streamlined, mobile-friendly experience. Your admissions team gets
 
 ## The Bottom Line
 
-Your admission form is a conversion machine—or a conversion killer. Most schools optimize traffic but ignore the last mile: the form itself.
+Your admission form is a conversion machine, or a conversion killer. Most schools optimize traffic but ignore the last mile: the form itself.
 
 Shortening your form by 60% and adding mobile optimization can triple your completion rate. Immediate follow-up with reassurance closes the gap between "interested" and "enrolled."
 

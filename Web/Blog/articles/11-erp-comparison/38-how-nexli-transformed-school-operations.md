@@ -1,7 +1,7 @@
 ---
 title: "How Nexli Addresses the Operational Challenges Schools Face"
 slug: "how-nexli-transformed-school-operations"
-meta_description: "How Nexli addresses fragmented school operations: attendance tracking, fee management, compliance, and staff coordination — built for Indian K-12 schools."
+meta_description: "How Nexli addresses fragmented school operations: attendance tracking, fee management, compliance, and staff coordination, built for Indian K-12 schools."
 category: "School ERP Comparisons & Software Evaluation"
 primary_keyword: "Nexli school ERP features"
 secondary_keywords:
@@ -39,7 +39,7 @@ The typical Indian school before unified ERP adoption looks like this:
 
 **Communication:** Circulars are printed and sent home in bags (or not sent at all). Parents have no real-time visibility into their child's attendance or fee status.
 
-This fragmentation is not a school management failure — it is what happens when each operational area uses a different tool without a central system.
+This fragmentation is not a school management failure, it is what happens when each operational area uses a different tool without a central system.
 
 ---
 
@@ -59,7 +59,7 @@ Marks are entered by subject teachers directly into Nexli after each assessment.
 
 ### Compliance
 
-The compliance calendar alerts staff about upcoming CBSE LOC submission, UDISE+ window, fire NOC renewal, POSH annual report, and other regulatory deadlines. CBSE LOC exports in the prescribed format. DPDP Act compliance is built-in — parental consent is OTP-verified and stored, with the DPO dashboard tracking who accessed what data.
+The compliance calendar alerts staff about upcoming CBSE LOC submission, UDISE+ window, fire NOC renewal, POSH annual report, and other regulatory deadlines. CBSE LOC exports in the prescribed format. DPDP Act compliance is built-in, parental consent is OTP-verified and stored, with the DPO dashboard tracking who accessed what data.
 
 ### Communication
 
@@ -99,10 +99,10 @@ A: The demo environment includes 300 students, 300+ staff, and realistic workflo
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

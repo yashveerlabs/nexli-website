@@ -109,5 +109,5 @@ Know yourself, know your competitors, you can win any battle. Deep analysis reve
 
 ---
 
-**Next step:** Complete competitive analysis this quarter. [Book a Free Demo](/demo) to see how Nexli's Principal Dashboard gives you the outcomes data — exam rankings, attendance rates, fee collection — that your competitive analysis needs.
+**Next step:** Complete competitive analysis this quarter. [Book a Free Demo](/demo) to see how Nexli's Principal Dashboard gives you the outcomes data, exam rankings, attendance rates, fee collection, that your competitive analysis needs.
 

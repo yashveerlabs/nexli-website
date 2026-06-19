@@ -20,7 +20,7 @@ Infrastructure inspection checklists ensure systematic review of facility condit
 ## Why Systematic Inspections Matter
 
 **Hazard Detection**
-Cracks in walls, loose ceiling tiles, rust in electrical panels—these become catastrophic if missed. Checklists ensure nothing is overlooked.
+Cracks in walls, loose ceiling tiles, rust in electrical panels, these become catastrophic if missed. Checklists ensure nothing is overlooked.
 
 **Compliance**
 Schools must pass accreditation, fire safety, and structural audits. Inspection records prove due diligence.
@@ -126,7 +126,7 @@ Nexli's operations module enables:
 ## Real Example: Inspection Catches Critical Flaw
 
 **The Scenario**
-School conducted ad-hoc inspections (no checklist). During accreditation visit, inspector discovered cracked electrical panel hidden behind stored materials in janitor room—fire hazard that could have caused catastrophe.
+School conducted ad-hoc inspections (no checklist). During accreditation visit, inspector discovered cracked electrical panel hidden behind stored materials in janitor room, fire hazard that could have caused catastrophe.
 
 **The Fix**
 School implemented systematic inspection protocol with checklist covering all areas (including storage rooms). Electrical panel repairs completed immediately (₹40,000). Score improved in accreditation audit.

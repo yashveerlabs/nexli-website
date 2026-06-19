@@ -45,7 +45,7 @@ Leadership ambivalence communicates itself. A Principal who is visibly confident
 
 **What to communicate:**
 - The school is implementing Nexli (or your chosen ERP) starting [date]
-- Why: [specific problems it solves — attendance compilation, parent queries, DPDP compliance]
+- Why: [specific problems it solves, attendance compilation, parent queries, DPDP compliance]
 - What each role will do differently: "Class teachers will mark attendance digitally. Accounts team will record payments in the system. Admin will use the system for circulars."
 - What is not changing: "Report cards will still be reviewed by class teachers. Teaching methods are unchanged. Your relationship with your students is unchanged."
 - Training schedule: "Your role-specific training is on [date]. Attendance is required."
@@ -59,7 +59,7 @@ Leadership ambivalence communicates itself. A Principal who is visibly confident
 
 ### Phase 3: Parent Communication (2 Weeks Before Parent Portal Opens)
 
-**Timing:** After Phase 1 (student information, attendance, fees) is stable — usually 4-6 weeks after go-live. Do not open the parent portal until you are confident the data is accurate.
+**Timing:** After Phase 1 (student information, attendance, fees) is stable, usually 4-6 weeks after go-live. Do not open the parent portal until you are confident the data is accurate.
 
 **What to communicate:**
 - The school has implemented a parent portal that provides real-time access to your child's attendance and fee balance
@@ -71,9 +71,9 @@ Leadership ambivalence communicates itself. A Principal who is visibly confident
 **Format:** A one-page printed guide (sent in student bag), a WhatsApp message with the same information, and a demonstration at the next parent meeting.
 
 **What to avoid:**
-- Technical language ("we've implemented a cloud-based ERP") — parents do not need or want this
+- Technical language ("we've implemented a cloud-based ERP"), parents do not need or want this
 - Promising features not yet live in the system
-- Overwhelming parents with everything the portal can do — focus on the 3 things they will use immediately
+- Overwhelming parents with everything the portal can do, focus on the 3 things they will use immediately
 
 ---
 
@@ -113,7 +113,7 @@ A: Acknowledge the concern directly: "We understand some parents prefer paper re
 A: For planned maintenance, send advance notice (24 hours). For unexpected downtime, send a short message acknowledging the issue and estimated restoration time. Silence during downtime creates unnecessary anxiety.
 
 **Q: What language should we use for parent communication?**
-A: Use the language most parents read fluently — English, Hindi, or the regional language. For schools with multilingual parent populations, a brief translation of key information is worthwhile.
+A: Use the language most parents read fluently, English, Hindi, or the regional language. For schools with multilingual parent populations, a brief translation of key information is worthwhile.
 
 **Q: How do we measure whether our communication worked?**
 A: Parent portal activation rate (target: 50%+ within first month), staff attendance compliance rate (target: 85%+ digital within 4 weeks), and inbound query volume (should decrease as parents self-serve in the portal).
@@ -121,10 +121,10 @@ A: Parent portal activation rate (target: 50%+ within first month), staff attend
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

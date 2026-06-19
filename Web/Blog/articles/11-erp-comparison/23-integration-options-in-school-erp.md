@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Integration Options in School ERP: What to Ask Vendors
 
-**No school ERP operates in isolation. Schools use payment gateways for fee collection, biometric devices for attendance, accounting software for financial reporting, and SMS gateways for parent communication. Understanding how a school ERP integrates with these external systems — and what the cost is — is critical before signing a contract.**
+**No school ERP operates in isolation. Schools use payment gateways for fee collection, biometric devices for attendance, accounting software for financial reporting, and SMS gateways for parent communication. Understanding how a school ERP integrates with these external systems, and what the cost is, is critical before signing a contract.**
 
 ---
 
@@ -90,7 +90,7 @@ A: Physical security integrations are rarely supported in school ERPs. These req
 A: Ask about standard data formats (XML, CSV). The ERP may accept file imports even without direct API integration.
 
 **Q: Is there an open API for custom integrations?**
-A: Some ERPs provide REST APIs. Ask vendors for API documentation — important if your school has in-house IT or wants custom reporting.
+A: Some ERPs provide REST APIs. Ask vendors for API documentation, important if your school has in-house IT or wants custom reporting.
 
 **Q: Do integrations add to total cost?**
 A: Usually yes. Expect setup fees for payment gateway, biometric, and custom integrations. Ask for a complete integration cost estimate.
@@ -101,10 +101,10 @@ A: APIs should be versioned. Ask vendors about their API versioning policy and h
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

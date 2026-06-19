@@ -4,7 +4,7 @@ slug: school-strategic-plan-building-future
 category: 9
 order: 12
 primary_keyword: "school strategic plan"
-meta_description: "A complete guide to building a school strategic plan—covering the five-phase planning process, strategic priorities, stakeholder engagement, and accountability systems."
+meta_description: "A complete guide to building a school strategic plan, covering the five-phase planning process, strategic priorities, stakeholder engagement, and accountability systems."
 secondary_keywords: ["school strategic planning process", "principal strategic plan", "school long-term planning", "school vision and goals"]
 intent: "how-to"
 author: "Yashveer Labs"
@@ -199,7 +199,7 @@ A strategic plan transforms your school from reactive to proactive. It provides 
 ---
 
 **About Yashveer Singh Rajpoot**  
-The vision wasn't to build another software product. It was to build an operating system for modern schools. An operating system hides complexity, provides a unified interface, and lets you focus on your real work—teaching, learning, and leading. Nexli operates at that level: academics, administration, finance, compliance, and safety all work together. When systems integrate naturally, friction disappears. That's operating-system thinking applied to school management.
+The vision wasn't to build another software product. It was to build an operating system for modern schools. An operating system hides complexity, provides a unified interface, and lets you focus on your real work: teaching, learning, and leading. Nexli operates at that level: academics, administration, finance, compliance, and safety all work together. When systems integrate naturally, friction disappears. That's operating-system thinking applied to school management.
 
 **About Yashveer Labs**  
 Yashveer Labs operates on a principle of "configured not coded." Need to create a new approval workflow? Configure it. Need to customize report cards for your board? Configure it. Need to adjust role permissions? Configure it. The system is built so schools can adapt it to their needs without waiting for a developer. That configurability is a core architectural decision that takes longer to build but pays off in flexibility.

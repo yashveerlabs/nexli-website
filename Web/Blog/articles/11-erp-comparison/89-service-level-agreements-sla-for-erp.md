@@ -1,7 +1,7 @@
 ---
 title: "Service Level Agreements for School ERP: What Schools Should Require"
 slug: "service-level-agreements-sla-for-erp"
-meta_description: "What school ERP SLAs should cover: uptime guarantees, response times, resolution times, maintenance windows, and remedies for SLA breach — with realistic benchmarks."
+meta_description: "What school ERP SLAs should cover: uptime guarantees, response times, resolution times, maintenance windows, and remedies for SLA breach, with realistic benchmarks."
 category: "School ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP service level agreement"
 secondary_keywords:
@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Service Level Agreements for School ERP: What Schools Should Require
 
-**A Service Level Agreement (SLA) defines what the vendor commits to provide — uptime, support response times, resolution times — and what remedies apply if those commitments are not met. Most standard school ERP contracts contain minimal SLAs or none at all. Schools that negotiate SLAs into their contracts have a basis for holding vendors accountable. Schools that do not have no recourse when support is slow or the system is down during exams.**
+**A Service Level Agreement (SLA) defines what the vendor commits to provide, uptime, support response times, resolution times, and what remedies apply if those commitments are not met. Most standard school ERP contracts contain minimal SLAs or none at all. Schools that negotiate SLAs into their contracts have a basis for holding vendors accountable. Schools that do not have no recourse when support is slow or the system is down during exams.**
 
 ---
 
@@ -31,11 +31,11 @@ date: "2026-06-19"
 
 **Benchmarks:**
 - 99.9% uptime is a reasonable minimum for cloud-based school ERP
-- 99.5% uptime allows up to 43.8 hours of downtime per year — acceptable only if downtime is scheduled during non-school hours
+- 99.5% uptime allows up to 43.8 hours of downtime per year, acceptable only if downtime is scheduled during non-school hours
 - 99.0% uptime (87.6 hours per year) is below acceptable for a production system
 
 **What to look for in the SLA:**
-- Uptime measured monthly (not annually) — monthly SLA violations are more actionable
+- Uptime measured monthly (not annually), monthly SLA violations are more actionable
 - Excluding scheduled maintenance windows (which should be during weekends and school holidays)
 - Definition of what counts as "downtime" (inaccessibility vs. partial functionality)
 
@@ -85,7 +85,7 @@ Note: Complex bugs may not be resolvable within these windows. The SLA should de
 - Scheduled maintenance only during defined windows (weekend nights, school holiday periods)
 - Advance notice of at least 48 hours for scheduled maintenance
 - Emergency maintenance allowed but must be communicated immediately
-- Academic calendar consideration — no maintenance windows during board examination submission periods
+- Academic calendar consideration, no maintenance windows during board examination submission periods
 
 ---
 
@@ -121,10 +121,10 @@ A: Zero unscheduled downtime during board examination LOC submission periods and
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

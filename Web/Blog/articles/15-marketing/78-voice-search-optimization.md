@@ -92,5 +92,5 @@ Voice search is growing fast. Optimize conversational keywords. Prepare for futu
 
 ---
 
-**Next step:** Create FAQ page with 10 common questions this month. [Book a Free Demo](/demo) to see how Nexli gives your school real data-backed answers to common parent questions — the content voice search features.
+**Next step:** Create FAQ page with 10 common questions this month. [Book a Free Demo](/demo) to see how Nexli gives your school real data-backed answers to common parent questions, the content voice search features.
 

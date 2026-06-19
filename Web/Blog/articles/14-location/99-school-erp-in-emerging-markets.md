@@ -89,7 +89,7 @@ The system operates efficiently even on 2G connectivity. Critical dashboards loa
 Interface available in Hindi and regional languages. Reduces training burden significantly.
 
 **Transparent Pricing**
-No hidden costs. Pricing is the same across metro cities and Tier 3 towns—affordability is achievable without compromise.
+No hidden costs. Pricing is the same across metro cities and Tier 3 towns, affordability is achievable without compromise.
 
 **Implementation Speed**
 Most Tier 3 schools are operational within 2-4 weeks. System configuration adapts to their board and operational model without extensive customization.
@@ -127,4 +127,4 @@ A: Nexli integrates with UPI, net banking, and local payment gateways. Mobile mo
 
 **About Yashveer Labs:** Yashveer Labs was founded by someone who understands the challenge Indian schools face. The company builds not for global markets adapted for India, but for India's specific context from the ground up.
 
-**How Nexli Helps:** The platform supports India's full diversity of schools—from 5,000-student metro chains to 200-student Tier 3 schools to rural community schools. That diversity is strength, not compromise.
+**How Nexli Helps:** The platform supports India's full diversity of schools, from 5,000-student metro chains to 200-student Tier 3 schools to rural community schools. That diversity is strength, not compromise.

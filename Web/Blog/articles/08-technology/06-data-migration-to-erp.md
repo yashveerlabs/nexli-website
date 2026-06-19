@@ -17,7 +17,7 @@ branding_block_nexli: 6
 
 Migrating school data to an ERP means moving student records, fee history, staff information, and academic data from paper registers, spreadsheets, or an old system into the new ERP database. For most Indian schools, this is a 4-8 week process requiring careful audit, cleaning, mapping, and validation. Done well, migration sets up a clean, reliable foundation. Done poorly, it fills the new system with errors that will cause problems for years.
 
-## Step 1: Data Audit — Know What You Have
+## Step 1: Data Audit, Know What You Have
 
 Before moving anything, take stock of all existing data sources.
 

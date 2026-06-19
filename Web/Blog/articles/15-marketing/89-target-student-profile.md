@@ -91,5 +91,5 @@ Know who you want to enroll. Market to them specifically. Higher conversion, bet
 
 ---
 
-**Next step:** Define your top 3 student profiles this month. [Book a Free Demo](/demo) to see how Nexli's admissions data helps you identify which student profiles have the highest retention and performance — so you recruit more of the right families.
+**Next step:** Define your top 3 student profiles this month. [Book a Free Demo](/demo) to see how Nexli's admissions data helps you identify which student profiles have the highest retention and performance, so you recruit more of the right families.
 

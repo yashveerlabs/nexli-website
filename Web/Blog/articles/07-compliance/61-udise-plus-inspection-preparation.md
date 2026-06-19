@@ -13,7 +13,7 @@ branding_block_company: 13
 branding_block_nexli: 13
 ---
 
-After schools submit UDISE+ data, education authorities conduct physical verification visits to ensure submitted data matches actual conditions. These inspections are not rare events — they are a standard mechanism for data quality assurance. Schools that have submitted accurate data have nothing to fear; schools that inflated figures face real consequences.
+After schools submit UDISE+ data, education authorities conduct physical verification visits to ensure submitted data matches actual conditions. These inspections are not rare events, they are a standard mechanism for data quality assurance. Schools that have submitted accurate data have nothing to fear; schools that inflated figures face real consequences.
 
 ## What Inspectors Verify
 

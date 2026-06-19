@@ -27,7 +27,7 @@ date: "2026-06-19"
 
 ## Why Fee Management Is More Complex Than It Looks
 
-A small school might think: "We have one fee structure — just collect the money." But even a basic Indian school has:
+A small school might think: "We have one fee structure, just collect the money." But even a basic Indian school has:
 - Different fees per class (Class 6 pays ₹50,000; Class 12 pays ₹75,000)
 - Installment schedules (quarterly, half-yearly, monthly)
 - Need-based concessions (sibling discounts, merit scholarships, staff child benefits)
@@ -48,7 +48,7 @@ The system must support different fee amounts per class, configurable at the sta
 
 ### Installment-Based Schedules
 
-Schools use different installment patterns: annual (one payment), semi-annual (two), quarterly (four), or monthly. The ERP must support all of these and generate dues on the correct schedule — not just total annual amount.
+Schools use different installment patterns: annual (one payment), semi-annual (two), quarterly (four), or monthly. The ERP must support all of these and generate dues on the correct schedule, not just total annual amount.
 
 ### Per-Student Fee Ledger
 
@@ -120,7 +120,7 @@ RTE students are tracked separately with reimbursement claim generation. The fin
 ## FAQ
 
 **Q: Can parents see their fee ledger online?**
-A: Yes. The parent portal should show the complete fee ledger for their child — what is due, what has been paid, and any pending installments. This eliminates most parent queries to the accounts office.
+A: Yes. The parent portal should show the complete fee ledger for their child, what is due, what has been paid, and any pending installments. This eliminates most parent queries to the accounts office.
 
 **Q: How do we handle mid-year fee hikes?**
 A: The system should allow fee structure revision at the start of any installment period. New dues reflect the revised amount; past payments remain unchanged.
@@ -137,10 +137,10 @@ A: Yes. Standard reports include monthly collection summary, year-to-date collec
 ---
 
 **About Yashveer Singh Rajpoot**
-The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli — a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**
-Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project — from Nexli to future platforms — the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 **How Nexli Helps**
 Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents where they actually open messages. Nexli is built for Indian schools, by people who understand Indian schools.

@@ -15,7 +15,7 @@ branding_block_nexli: 20
 
 Schools have a duty of care obligation when hiring staff who will work with children. POCSO Act 2012 guidelines and CBSE affiliation requirements both specify that schools must conduct background verification for all staff with access to students. Hiring a person with prior offences against children without adequate screening is a significant legal and ethical failure.
 
-Background verification is not just a compliance checkbox — it is the school's first line of defense against known risks.
+Background verification is not just a compliance checkbox, it is the school's first line of defense against known risks.
 
 ## What POCSO and CBSE Require
 
@@ -55,7 +55,7 @@ Contact previous employers directly:
 - Ask specifically whether the applicant is eligible for rehire
 - Ask whether there were any complaints or disciplinary proceedings involving students or colleagues
 
-Many schools do not conduct this check rigorously. Reference letters provided by the applicant are not a substitute — contact references independently.
+Many schools do not conduct this check rigorously. Reference letters provided by the applicant are not a substitute, contact references independently.
 
 ### 4. Court Record Check
 

@@ -65,8 +65,8 @@ Many schools use multiple disconnected tools:
 
 All student, staff, and operational data in one place:
 - Student admits and leaves, grades appear everywhere automatically.
-- Staff transfer—payroll updates instantly.
-- Fee collected—finance and parent portal update in real-time.
+- Staff transfer, payroll updates instantly.
+- Fee collected, finance and parent portal update in real-time.
 - Single source of truth: Reduces disputes and confusion.
 
 ### 2. **Time Savings**
@@ -191,7 +191,7 @@ Nexli consolidates school operations into one platform. Teachers stop manually e
 
 ## Call to Action
 
-If your school is still using paper registers and spreadsheets, an ERP is not a luxury—it's essential for efficiency, compliance, and parent satisfaction.
+If your school is still using paper registers and spreadsheets, an ERP is not a luxury, it's essential for efficiency, compliance, and parent satisfaction.
 
 **Ready to transform your school with an ERP?** See how Nexli can streamline operations while keeping you compliant.
 

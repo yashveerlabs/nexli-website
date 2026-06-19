@@ -21,13 +21,13 @@ date: "2026-06-19"
 
 ## School ERP Market Consolidation: What It Means for Schools
 
-**The Indian school ERP market has hundreds of vendors. The vast majority are small companies with fewer than 20 employees. As DPDP Act compliance requirements, cloud infrastructure costs, and customer service expectations rise, many of these small vendors will exit the market — either closing operations or being acquired by larger players. This consolidation affects schools that chose smaller vendors for lower price, and it creates both risk and opportunity.**
+**The Indian school ERP market has hundreds of vendors. The vast majority are small companies with fewer than 20 employees. As DPDP Act compliance requirements, cloud infrastructure costs, and customer service expectations rise, many of these small vendors will exit the market, either closing operations or being acquired by larger players. This consolidation affects schools that chose smaller vendors for lower price, and it creates both risk and opportunity.**
 
 ---
 
 ## Why Small Vendors Are Struggling
 
-**DPDP Act compliance engineering:** Implementing OTP-verified consent, field-level encryption, DPO dashboards, and data access logging requires substantial software engineering. For a 5-person development team maintaining an older codebase, this is existential work — they either make the investment or become non-compliant.
+**DPDP Act compliance engineering:** Implementing OTP-verified consent, field-level encryption, DPO dashboards, and data access logging requires substantial software engineering. For a 5-person development team maintaining an older codebase, this is existential work, they either make the investment or become non-compliant.
 
 **Cloud migration costs:** Schools increasingly expect cloud-hosted, always-available access. Vendors built on legacy on-premise architecture face significant migration costs.
 
@@ -41,7 +41,7 @@ date: "2026-06-19"
 
 **Best case:** The acquiring company has a better product. Schools are migrated to the improved platform. Service quality improves.
 
-**Middle case:** The acquiring company plans to migrate schools eventually but takes 12-18 months. During this period, the school is in limbo — the old system receives no new development, and migration timelines slip.
+**Middle case:** The acquiring company plans to migrate schools eventually but takes 12-18 months. During this period, the school is in limbo, the old system receives no new development, and migration timelines slip.
 
 **Worst case:** The acquiring company's product is incompatible or of lower quality. Schools are forced to migrate to an inferior system or find a new vendor at short notice.
 
@@ -67,7 +67,7 @@ Schools that chose the cheapest small vendor to save ₹50,000 per year risk pay
 
 **Investment in the product:** Is the vendor actively developing new features? Are DPDP compliance features built or planned? Is the mobile interface modern? A stagnant product suggests a vendor not investing.
 
-**Financial signals:** Profitability is hard to assess for private companies. Look for indirect signs — stable team, responsive support, consistent product updates. Rapid pricing discounting (urgency to close deals) can signal financial stress.
+**Financial signals:** Profitability is hard to assess for private companies. Look for indirect signs, stable team, responsive support, consistent product updates. Rapid pricing discounting (urgency to close deals) can signal financial stress.
 
 **Customer references:** Ask to speak with schools that have been using the system for 3+ years. Long-term customers are evidence of vendor stability.
 
@@ -81,7 +81,7 @@ Schools that chose the cheapest small vendor to save ₹50,000 per year risk pay
 A: Not always. Large vendors may deprioritize smaller customers or discontinue products after acquiring them. Evaluate the specific vendor, not just size.
 
 **Q: What contract terms protect schools from vendor failure?**
-A: Data export clause (right to export all data on demand), termination clause (reasonable notice period), escrow clause (source code held in escrow if vendor closes). Not all small contracts will include all these — negotiate what you can.
+A: Data export clause (right to export all data on demand), termination clause (reasonable notice period), escrow clause (source code held in escrow if vendor closes). Not all small contracts will include all these, negotiate what you can.
 
 **Q: Should we avoid small vendors entirely?**
 A: Not necessarily. Smaller vendors sometimes offer better support quality (more responsive, more personalized) and can serve niche needs well. Evaluate stability alongside capabilities and support.
@@ -95,10 +95,10 @@ A: Nexli is built with DPDP compliance from the ground up, not retrofitted. The 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

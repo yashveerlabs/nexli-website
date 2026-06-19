@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Change Management for School ERP: Managing the Human Side
 
-**ERP implementation is partly a technology project and mostly a people project. The technology can be configured in 2 weeks. Getting 40 teachers to change how they record attendance, enter marks, and communicate with parents takes 3-6 months. Change management — the planned approach to managing the human dimension — determines whether the technology investment succeeds.**
+**ERP implementation is partly a technology project and mostly a people project. The technology can be configured in 2 weeks. Getting 40 teachers to change how they record attendance, enter marks, and communicate with parents takes 3-6 months. Change management, the planned approach to managing the human dimension, determines whether the technology investment succeeds.**
 
 ---
 
@@ -29,7 +29,7 @@ date: "2026-06-19"
 
 Teachers have established routines. The paper attendance register has worked for 15 years. The class marks sheet is familiar. The thought of changing both simultaneously, learning new software, and still delivering quality education to students is genuinely stressful.
 
-The stress is not irrational. Change creates uncertainty. New systems have bugs. Adoption takes time. Until the ERP is fully internalized, staff are carrying two cognitive loads — the new system and the familiar fallback.
+The stress is not irrational. Change creates uncertainty. New systems have bugs. Adoption takes time. Until the ERP is fully internalized, staff are carrying two cognitive loads, the new system and the familiar fallback.
 
 Change management acknowledges this reality and manages it proactively, rather than expecting staff to simply "get on with it."
 
@@ -37,7 +37,7 @@ Change management acknowledges this reality and manages it proactively, rather t
 
 ## Step 1: Build the "Why" Before the "How"
 
-Before any training, staff must understand why the change is happening. Not "because we bought the software" — but the real reasons:
+Before any training, staff must understand why the change is happening. Not "because we bought the software", but the real reasons:
 
 - "Monthly attendance compilation currently takes 15 hours. This time will be recovered."
 - "Parents are calling the school to check fee balances, and we cannot answer quickly. The parent portal fixes this."
@@ -62,7 +62,7 @@ Common fears and how to address them:
 "We have a fallback plan: [specific plan, e.g., paper backup for the period, same-day digital entry when connectivity returns]."
 
 **"I am not good with technology"**
-"Training is role-specific — you will only learn the 3 tasks you need for your role. Most teachers find it manageable after two practice sessions."
+"Training is role-specific, you will only learn the 3 tasks you need for your role. Most teachers find it manageable after two practice sessions."
 
 ---
 
@@ -72,7 +72,7 @@ The first visible win creates credibility:
 
 - First month-end attendance report generated in 5 minutes (vs. 2 days): share this with staff
 - First report card cycle with zero post-printing errors: acknowledge this at a staff meeting
-- First parent who calls to say "I checked the balance in the app — very helpful": share at the next staff meeting
+- First parent who calls to say "I checked the balance in the app, very helpful": share at the next staff meeting
 
 Early wins convert skeptics faster than any argument. When colleagues see the benefit concretely, resistance diminishes.
 
@@ -117,18 +117,18 @@ A: 6-12 months for the ERP to feel like the school's natural operating system. T
 A: This is why redundancy is essential. Always train at least two staff members as ERP champions. If one leaves, the other carries continuity.
 
 **Q: Should we incentivize adoption?**
-A: Small recognitions (department that achieves 95% digital attendance first gets acknowledged, teacher of the month who achieves perfect digital attendance) can accelerate adoption. Avoid cash incentives — they create the wrong motivation.
+A: Small recognitions (department that achieves 95% digital attendance first gets acknowledged, teacher of the month who achieves perfect digital attendance) can accelerate adoption. Avoid cash incentives, they create the wrong motivation.
 
 **Q: How do we handle staff who refuse to adopt after the grace period?**
-A: Address privately and specifically. Identify the barrier (training gap, technical issue, principled objection). If principled objection persists after genuine support is offered, it becomes a management performance matter — the ERP is the school's official system.
+A: Address privately and specifically. Identify the barrier (training gap, technical issue, principled objection). If principled objection persists after genuine support is offered, it becomes a management performance matter, the ERP is the school's official system.
 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

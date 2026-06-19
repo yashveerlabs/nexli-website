@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Multi-Tenancy and Data Isolation in School ERP
 
-**School chains and multi-campus organizations need one platform that runs across all their schools while keeping each school's data completely separate. This is the multi-tenancy challenge. Getting it wrong means a teacher at Campus A can see students from Campus B — a privacy violation and a DPDP Act risk. Getting it right means a chain director can see KPIs across all campuses while each campus operates in isolation.**
+**School chains and multi-campus organizations need one platform that runs across all their schools while keeping each school's data completely separate. This is the multi-tenancy challenge. Getting it wrong means a teacher at Campus A can see students from Campus B, a privacy violation and a DPDP Act risk. Getting it right means a chain director can see KPIs across all campuses while each campus operates in isolation.**
 
 ---
 
@@ -35,7 +35,7 @@ In the school context:
 - A Class Teacher at Campus A cannot see students from Campus B
 - A chain-level director can see aggregate KPIs across all campuses
 
-The alternative — separate installations for each campus — creates management overhead, inconsistent features across campuses, and no central visibility.
+The alternative, separate installations for each campus, creates management overhead, inconsistent features across campuses, and no central visibility.
 
 ---
 
@@ -68,7 +68,7 @@ Without drilling into individual student records or staff data of any specific c
 
 ## What to Test for Multi-Tenancy
 
-**Test 1:** Log in as a teacher from Campus A. Try to access student data from Campus B. The system should reject this — not just hide it in the UI, but block it at the data layer.
+**Test 1:** Log in as a teacher from Campus A. Try to access student data from Campus B. The system should reject this, not just hide it in the UI, but block it at the data layer.
 
 **Test 2:** Log in as a chain director. Verify that aggregate KPIs are visible across campuses but that student-level records from any campus require campus-level role.
 
@@ -105,21 +105,21 @@ A: Yes, but they need separate role assignments for each campus. A teacher assig
 A: Adding a new campus to a multi-tenant ERP should be a configuration task, not an implementation project. The new school is provisioned as a new tenant on the existing infrastructure.
 
 **Q: Is multi-tenancy more expensive?**
-A: Multi-campus licensing typically involves per-school pricing rather than a flat fee. Ask vendors for their multi-campus pricing model — some offer volume discounts for chains.
+A: Multi-campus licensing typically involves per-school pricing rather than a flat fee. Ask vendors for their multi-campus pricing model, some offer volume discounts for chains.
 
 **Q: How do we migrate an existing standalone school into the chain's ERP?**
 A: Data migration from the school's existing system into the new tenant in the chain's ERP. This is a data import process, not a separate installation.
 
 **Q: Can two campuses share a single library catalog?**
-A: In most ERPs, library catalogs are school-specific. A shared catalog across campuses is a configuration option in some systems — ask vendors if this applies to your use case.
+A: In most ERPs, library catalogs are school-specific. A shared catalog across campuses is a configuration option in some systems, ask vendors if this applies to your use case.
 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

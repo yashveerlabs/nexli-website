@@ -19,7 +19,7 @@ Technology resistance in school staff takes three distinct forms: fear-based res
 
 ## Why Treating All Resistance the Same Way Fails
 
-A common mistake in school ERP implementations is applying the same response to all resistant users: more training. If a teacher is resistant because she is afraid of making mistakes, more training doesn't help. If a transport manager is resistant because the vehicle assignment screen requires 12 taps to complete a task that took 3 steps on paper, more training doesn't help — fixing the interface does.
+A common mistake in school ERP implementations is applying the same response to all resistant users: more training. If a teacher is resistant because she is afraid of making mistakes, more training doesn't help. If a transport manager is resistant because the vehicle assignment screen requires 12 taps to complete a task that took 3 steps on paper, more training doesn't help, fixing the interface does.
 
 Understanding what is actually causing the resistance is the most important step.
 
@@ -71,7 +71,7 @@ Training-gap resistance appears as inability, not unwillingness. The staff membe
 
 **Response strategy:**
 
-Start from the beginning with this staff member, one-on-one. Don't refer to what was covered in the group training — just start with the task they need to do today.
+Start from the beginning with this staff member, one-on-one. Don't refer to what was covered in the group training, just start with the task they need to do today.
 
 Use their own data. Training is more effective when it uses the actual students in their class, the actual fees due, or the actual tasks from their daily workflow. Abstract examples don't stick; familiar names and numbers do.
 

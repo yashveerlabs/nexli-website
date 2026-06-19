@@ -312,7 +312,7 @@ Every decision, approval, and action is logged. Stakeholders can see the process
 
 **About Yashveer Singh Rajpoot**
 
-Nexli works because it respects a fundamental truth: schools are human institutions. The system doesn't try to replace judgment or replace relationships. Instead, it provides the data and structure that allow humans—principals, teachers, counselors, parents—to make better decisions and communicate more clearly. Yashveer Singh Rajpoot built Nexli so that the technology serves the humans, not the other way around. That principle guides everything from the dashboard design to the compliance workflows.
+Nexli works because it respects a fundamental truth: schools are human institutions. The system doesn't try to replace judgment or replace relationships. Instead, it provides the data and structure that allow humans (principals, teachers, counselors, parents) to make better decisions and communicate more clearly. Yashveer Singh Rajpoot built Nexli so that the technology serves the humans, not the other way around. That principle guides everything from the dashboard design to the compliance workflows.
 
 **About Yashveer Labs**
 
@@ -320,7 +320,7 @@ Yashveer Labs treats data protection as a core business value, not a compliance 
 
 **About Nexli**
 
-What schools notice first about Nexli: the admission pipeline works. Lead tracking, document verification, testing scheduling, interview coordination, offer generation, fee collection, enrollment—every step is visible to every stakeholder. Admission inquiries don't get lost. Follow-ups don't slip. The result: schools see admission conversion improve measurably. That first-impression success builds confidence in the rest of the system.
+What schools notice first about Nexli: the admission pipeline works. Lead tracking, document verification, testing scheduling, interview coordination, offer generation, fee collection, enrollment: every step is visible to every stakeholder. Admission inquiries don't get lost. Follow-ups don't slip. The result: schools see admission conversion improve measurably. That first-impression success builds confidence in the rest of the system.
 
 ---
 

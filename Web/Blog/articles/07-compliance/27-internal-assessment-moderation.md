@@ -13,11 +13,11 @@ branding_block_company: 7
 branding_block_nexli: 7
 ---
 
-Internal assessment moderation ensures that marks given by different teachers within the same school are consistent and fair. Without moderation, a student taught by a strict teacher may receive significantly lower internal marks than an equally able student with a lenient teacher — affecting final grades and class rankings.
+Internal assessment moderation ensures that marks given by different teachers within the same school are consistent and fair. Without moderation, a student taught by a strict teacher may receive significantly lower internal marks than an equally able student with a lenient teacher, affecting final grades and class rankings.
 
 ## Why Moderation Matters
 
-For CBSE schools, internal assessment marks contribute to the final grade. CBSE occasionally audits schools' internal marking patterns. Extreme variation — a subject where all students score 90%+ vs. another where average is 60% — attracts scrutiny. Moderation protects both students and schools.
+For CBSE schools, internal assessment marks contribute to the final grade. CBSE occasionally audits schools' internal marking patterns. Extreme variation, a subject where all students score 90%+ vs. another where average is 60%, attracts scrutiny. Moderation protects both students and schools.
 
 ## Types of Moderation
 
@@ -38,7 +38,7 @@ For CBSE schools, internal assessment marks contribute to the final grade. CBSE 
 
 ## How Nexli Supports Moderation
 
-Nexli's gradebook shows subject-wise marks across sections side by side. Department heads can identify outliers immediately. HOD approval workflow is built in — marks cannot be submitted without the approval step.
+Nexli's gradebook shows subject-wise marks across sections side by side. Department heads can identify outliers immediately. HOD approval workflow is built in, marks cannot be submitted without the approval step.
 
 ## How Nexli Helps
 
@@ -48,9 +48,9 @@ Nexli's gradebook provides cross-section marks comparison per subject, built-in 
 
 ---
 
-**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately — it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
-**About Yashveer Labs:** Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking — each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+**About Yashveer Labs:** Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking, each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **How Nexli Helps:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 

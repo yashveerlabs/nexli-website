@@ -4,7 +4,7 @@ slug: how-to-prepare-for-school-inspections
 category: 9
 order: 53
 primary_keyword: "how to prepare for school inspections"
-meta_description: "A practical checklist for school principals preparing for inspections—self-assessment, documentation, staff briefing, facilities readiness, and turning inspections into opportunities."
+meta_description: "A practical checklist for school principals preparing for inspections, self-assessment, documentation, staff briefing, facilities readiness, and turning inspections into opportunities."
 secondary_keywords: ["school inspection preparation", "school accreditation readiness", "principal inspection checklist", "school compliance inspection"]
 intent: "how-to"
 author: "Yashveer Labs"

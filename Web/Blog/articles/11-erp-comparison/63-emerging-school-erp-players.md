@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Evaluating New School ERP Vendors: How to Assess Emerging Players
 
-**Newer ERP vendors — companies that have been in the school ERP market for fewer than 5 years — can offer genuine advantages: modern architecture built with current compliance requirements from the start, better mobile experience, and responsive support from teams that still care about individual customer success. They also carry risks. Evaluating new vendors requires a different approach than evaluating established ones.**
+**Newer ERP vendors, companies that have been in the school ERP market for fewer than 5 years, can offer genuine advantages: modern architecture built with current compliance requirements from the start, better mobile experience, and responsive support from teams that still care about individual customer success. They also carry risks. Evaluating new vendors requires a different approach than evaluating established ones.**
 
 ---
 
@@ -29,7 +29,7 @@ date: "2026-06-19"
 
 ### Built for Current Requirements
 
-An ERP built in 2022-2024 is designed with DPDP Act awareness, NEP 2020 requirements, and mobile-first use as foundational assumptions. ERPs built in 2010-2015 have these requirements bolted on — often less elegantly.
+An ERP built in 2022-2024 is designed with DPDP Act awareness, NEP 2020 requirements, and mobile-first use as foundational assumptions. ERPs built in 2010-2015 have these requirements bolted on, often less elegantly.
 
 ### Modern Technical Architecture
 
@@ -73,7 +73,7 @@ Ask technical questions directly:
 - "Is your application cloud-native or hosted on a single server?"
 - "How is student data isolated between schools?"
 - "What is your uptime SLA? Can you share historical uptime data?"
-- "How do you handle DPDP Act compliance — consent, access logs, encryption?"
+- "How do you handle DPDP Act compliance, consent, access logs, encryption?"
 
 A vendor with solid technical foundations can answer these specifically. A vendor that cannot has gaps.
 
@@ -112,15 +112,15 @@ A: Very low pricing from a new vendor can signal financial unsustainability. Ask
 A: More recently built ≠ better. Evaluate the specific implementation. Some new vendors use modern frameworks but implement them poorly. Some established vendors have strong architectural foundations despite age.
 
 **Q: How does Nexli fit the "emerging" category?**
-A: Nexli was built specifically for the current regulatory environment (DPDP Act 2023, NEP 2020). The architecture is cloud-native from the ground up. Technical foundations — security rules, consent management, role granularity — were designed as core features, not retrofit additions.
+A: Nexli was built specifically for the current regulatory environment (DPDP Act 2023, NEP 2020). The architecture is cloud-native from the ground up. Technical foundations, security rules, consent management, role granularity, were designed as core features, not retrofit additions.
 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

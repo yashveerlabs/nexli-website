@@ -1,7 +1,7 @@
 ---
 title: "20 Questions to Ask School ERP Vendors Before Signing"
 slug: "20-questions-to-ask-school-erp-vendors"
-meta_description: "20 essential questions to ask school ERP vendors before signing a contract — covering product depth, implementation, support, pricing, compliance, and data ownership."
+meta_description: "20 essential questions to ask school ERP vendors before signing a contract, covering product depth, implementation, support, pricing, compliance, and data ownership."
 category: "School ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP vendor questions"
 secondary_keywords:
@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## 20 Questions to Ask School ERP Vendors Before Signing
 
-**The quality of your ERP vendor relationship over 3-5 years depends significantly on questions asked before signing. Vendors are highly capable communicators during sales. The questions below are designed to surface information vendors might not volunteer — about implementation quality, support responsiveness, data ownership, pricing escalation, and regulatory compliance.**
+**The quality of your ERP vendor relationship over 3-5 years depends significantly on questions asked before signing. Vendors are highly capable communicators during sales. The questions below are designed to surface information vendors might not volunteer, about implementation quality, support responsiveness, data ownership, pricing escalation, and regulatory compliance.**
 
 ---
 
@@ -31,7 +31,7 @@ date: "2026-06-19"
 Adapted platforms struggle with Indian grading schemes, board compliance requirements, and local fee management. Purpose-built products are better for Indian schools.
 
 **2. Which Indian school boards does your grading and report card module support out of the box?**
-CBSE, ICSE, and your state board should be supported natively — not via a customization request.
+CBSE, ICSE, and your state board should be supported natively, not via a customization request.
 
 **3. How do you handle CBSE LOC data export?**
 The LOC format changes periodically. Vendors must track this and update the export. Ask when they last updated it and what happens when it changes again.
@@ -46,10 +46,10 @@ A school has principals, VPs, HODs, class teachers, subject teachers, counselors
 
 ## Implementation Questions
 
-**6. How long did implementation actually take for your last 10 schools — not the quoted timeline?**
+**6. How long did implementation actually take for your last 10 schools, not the quoted timeline?**
 If they quote "2 weeks" but reference schools report "2 months," you have discovered a gap between promise and reality.
 
-**7. Who conducts the training — your staff or a third party?**
+**7. Who conducts the training, your staff or a third party?**
 Outsourced trainers with generic knowledge are less effective than experienced vendor staff who know the product deeply.
 
 **8. Is role-based training included or charged separately?**
@@ -72,7 +72,7 @@ Get an answer in writing. "We'll work together until it's done" is acceptable. "
 IST timezone support matters for Indian schools. A vendor whose support operates on US hours creates gaps during school hours.
 
 **13. Can we speak to 3 reference schools that are 12+ months into using the product?**
-Ask specifically for schools that are over 12 months in — that is when the honeymoon is over and real support quality is visible.
+Ask specifically for schools that are over 12 months in, that is when the honeymoon is over and real support quality is visible.
 
 **14. What happens to our support during your renewal negotiations?**
 Some vendors reduce support responsiveness around renewal to create pressure. Reference schools who have renewed will have experienced this (or not).
@@ -81,7 +81,7 @@ Some vendors reduce support responsiveness around renewal to create pressure. Re
 
 ## Pricing and Contract Questions
 
-**15. What is the total cost for Year 1, Year 2, and Year 3 — including all modules we need, training, SMS, storage, and any other charges?**
+**15. What is the total cost for Year 1, Year 2, and Year 3, including all modules we need, training, SMS, storage, and any other charges?**
 Year 1 quotes often exclude SMS credits, additional training, and storage overage. Year 2 and 3 may include price escalations. Get a 3-year projection.
 
 **16. What triggers a price increase at renewal?**
@@ -94,7 +94,7 @@ SMS for attendance alerts, fee reminders, and parent notifications can add signi
 
 ## Data and Exit Questions
 
-**18. Who owns our school data — us or you?**
+**18. Who owns our school data, us or you?**
 The answer must be: the school owns all data. Confirm this is in the contract.
 
 **19. If we choose to leave, how do we export our data, and in what format?**
@@ -125,10 +125,10 @@ A: Yes. A 30-60 day pilot with a subset of users (one grade, attendance only) re
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

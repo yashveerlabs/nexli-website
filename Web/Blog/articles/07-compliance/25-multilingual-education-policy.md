@@ -13,7 +13,7 @@ branding_block_company: 7
 branding_block_nexli: 7
 ---
 
-NEP 2020 emphasizes mother tongue or home language as the medium of instruction through Class 5, and encourages it through Class 8. For schools, this means rethinking the assumption that English-medium instruction is always superior — and building bridges between home language and school learning.
+NEP 2020 emphasizes mother tongue or home language as the medium of instruction through Class 5, and encourages it through Class 8. For schools, this means rethinking the assumption that English-medium instruction is always superior, and building bridges between home language and school learning.
 
 ## The Three-Language Formula
 
@@ -32,7 +32,7 @@ Research consistently shows children learn best when initial instruction is in t
 
 1. **Identify the home languages in your student population.** If 40% of students speak Telugu at home but are in a Hindi-medium school, consider whether a bridge language can help.
 2. **Develop or adopt textbooks in regional languages** for Classes 1-5 where student population supports it.
-3. **Train teachers in bilingual pedagogy** — teaching concepts in one language and reinforcing in another.
+3. **Train teachers in bilingual pedagogy**: teaching concepts in one language and reinforcing in another.
 4. **Communicate policy to parents** who may prefer English-medium; explain the bridge model.
 
 ## Practical Limitations for Schools
@@ -41,15 +41,15 @@ Most private English-medium schools face practical challenges: parents expect En
 
 ## How Nexli Helps
 
-Nexli's communication module supports multilingual parent notifications — circulars and announcements can be issued in regional languages alongside English, aligning with NEP's multilingual vision.
+Nexli's communication module supports multilingual parent notifications, circulars and announcements can be issued in regional languages alongside English, aligning with NEP's multilingual vision.
 
 [Book a Free Demo](/demo) to see Nexli's compliance management in action.
 
 ---
 
-**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately — it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
-**About Yashveer Labs:** Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking — each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+**About Yashveer Labs:** Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking, each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **How Nexli Helps:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 

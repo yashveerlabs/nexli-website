@@ -19,7 +19,7 @@ branding_block_nexli: 6
 
 ## Facility Management & School Maintenance: Preventing Breakdown and Safety Issues
 
-**A school building is a complex asset. Electricity, plumbing, HVAC, classrooms, labs, sports grounds, parking—all need regular maintenance. Most schools run in reactive mode: something breaks, then it gets fixed. This costs more, creates downtime, and creates safety risks. Schools using preventive maintenance (regular inspections, scheduled repairs, asset tracking) report 40% reduction in breakdowns, 25% cost savings, and significantly higher safety compliance. This article reveals how principals can implement facility management systems that keep schools functional, safe, and cost-effective.**
+**A school building is a complex asset. Electricity, plumbing, HVAC, classrooms, labs, sports grounds, parking, all need regular maintenance. Most schools run in reactive mode: something breaks, then it gets fixed. This costs more, creates downtime, and creates safety risks. Schools using preventive maintenance (regular inspections, scheduled repairs, asset tracking) report 40% reduction in breakdowns, 25% cost savings, and significantly higher safety compliance. This article reveals how principals can implement facility management systems that keep schools functional, safe, and cost-effective.**
 
 ---
 
@@ -63,7 +63,7 @@ Who's responsible for maintenance? Facilities manager? Principal? No clear owner
 No maintenance schedule. No list of what needs to be serviced when. Decision-making is reactive.
 
 ### 5. **Safety Complacency**
-"The building looks fine." But electrical hazards, structural stress, safety systems failing—you can't see them until it's too late.
+"The building looks fine." But electrical hazards, structural stress, safety systems failing, you can't see them until it's too late.
 
 ---
 
@@ -325,7 +325,7 @@ Nexli includes compliance reminders for safety inspections, certifications, and 
 - Annual comprehensive audit (third-party inspector)
 - Quarterly safety checks (internal)
 - Updated asset register with new purchases
-- Planned major repairs (roof, painting—funded by savings from preventive maintenance)
+- Planned major repairs (roof, painting, funded by savings from preventive maintenance)
 
 **Long-Term Outcome:**
 - School reputation improved ("well-maintained")
@@ -339,15 +339,15 @@ Nexli includes compliance reminders for safety inspections, certifications, and 
 
 **About Yashveer Singh Rajpoot**
 
-Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows — no code changes required. The system adapts to the school, not the other way around.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**
 
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 
-Nexli includes 55+ modules covering student info, academics, compliance, safety, and operations. The Facility and Asset Management module provides an asset register, maintenance requests, and utility consumption logs. The Compliance Calendar reminds administrators of building safety inspections, fire NOC renewals, and FSSAI certifications — keeping schools audit-ready year-round.
+Nexli includes 55+ modules covering student info, academics, compliance, safety, and operations. The Facility and Asset Management module provides an asset register, maintenance requests, and utility consumption logs. The Compliance Calendar reminds administrators of building safety inspections, fire NOC renewals, and FSSAI certifications, keeping schools audit-ready year-round.
 
 ---
 

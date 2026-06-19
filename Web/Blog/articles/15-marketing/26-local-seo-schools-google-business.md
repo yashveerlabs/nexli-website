@@ -31,7 +31,7 @@ Your school shows up #1 on the map, 4.8 stars, 47 reviews. They click. They visi
 
 A competitor's school shows up #4, 3.2 stars, 5 reviews. Nobody clicks.
 
-Local SEO—specifically Google Business Profile optimization—determines if you're found at the critical moment.
+Local SEO, specifically Google Business Profile optimization, determines if you're found at the critical moment.
 
 **The data:** 76% of parents search "schools near [city]" or "schools near me." Schools with optimized Google Business Profiles get 3x more phone calls and map visibility.
 

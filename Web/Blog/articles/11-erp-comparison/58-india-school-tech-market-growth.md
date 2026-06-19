@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## India School Technology Market: What Is Driving ERP Adoption
 
-**India has approximately 1.5 million schools, the majority of which are government-run. The private school sector — where ERP adoption is most active — numbers around 300,000+ schools. Among these, ERP penetration has grown substantially since 2020. Understanding what is driving adoption helps schools evaluate whether they are behind the curve and what factors will shape the market in the next 3-5 years.**
+**India has approximately 1.5 million schools, the majority of which are government-run. The private school sector, where ERP adoption is most active, numbers around 300,000+ schools. Among these, ERP penetration has grown substantially since 2020. Understanding what is driving adoption helps schools evaluate whether they are behind the curve and what factors will shape the market in the next 3-5 years.**
 
 ---
 
@@ -29,7 +29,7 @@ date: "2026-06-19"
 
 ERP designed for Western schools does not translate directly to India. The Indian school context has specific characteristics:
 
-**Regulatory complexity:** CBSE, ICSE, state boards, and international board (IB, Cambridge) all have different requirements. Add DPDP Act 2023, POCSO, RTE, POSH, NEP 2020 — the compliance surface area is large and India-specific.
+**Regulatory complexity:** CBSE, ICSE, state boards, and international board (IB, Cambridge) all have different requirements. Add DPDP Act 2023, POCSO, RTE, POSH, NEP 2020, the compliance surface area is large and India-specific.
 
 **Payment patterns:** Fee collection is critical but culturally sensitive. Many Indian schools deal with delayed payment norms, installment arrangements, and significant sibling and scholarship concession structures.
 
@@ -37,7 +37,7 @@ ERP designed for Western schools does not translate directly to India. The India
 
 **Parent expectations are changing:** Parents who manage their banking and investments on mobile apps expect similar access to school information. This expectation is most acute in Tier 1 and Tier 2 cities and is spreading.
 
-**Role proliferation:** Indian schools — particularly residential schools — have roles that don't exist in Western school systems: hostel wardens, transport supervisors, DPO (data protection officer), vice principals with specific scopes, matrons, medical staff.
+**Role proliferation:** Indian schools, particularly residential schools, have roles that don't exist in Western school systems: hostel wardens, transport supervisors, DPO (data protection officer), vice principals with specific scopes, matrons, medical staff.
 
 ---
 
@@ -57,7 +57,7 @@ Post-pandemic normalization of digital communication has shifted parent expectat
 
 ### Fee Management Pressure
 
-Economic pressures on school finances — higher costs, competitive pricing pressure — make fee collection efficiency more important. ERP with automated reminders and online payment improves collection rates, which is a direct financial benefit.
+Economic pressures on school finances, higher costs, competitive pricing pressure, make fee collection efficiency more important. ERP with automated reminders and online payment improves collection rates, which is a direct financial benefit.
 
 ### Competitive Pressure Among Schools
 
@@ -99,10 +99,10 @@ A: Higher ERP penetration among private schools, consolidation among vendors, NE
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

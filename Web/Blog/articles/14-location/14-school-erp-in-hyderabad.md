@@ -1,10 +1,10 @@
 ---
 title: "School ERP in Hyderabad"
 slug: "school-erp-in-hyderabad"
-meta_description: "School ERP in Hyderabad"
+meta_description: "School ERP in Hyderabad: cloud-based school management for Telangana and AP schools with CBSE and State Board compliance, admissions pipeline, and analytics."
 category: 14
-primary_keyword: "school"
-secondary_keywords: ["erp", "in", "hyderabad", "school"]
+primary_keyword: "school ERP Hyderabad"
+secondary_keywords: ["school management system Hyderabad", "Hyderabad school software", "Telangana school ERP", "best ERP for Hyderabad schools"]
 intent: "buyer-guide"
 author: "Yashveer Labs"
 founder: "Yashveer Singh Rajpoot"
@@ -60,7 +60,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,7 +93,7 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools, different boards, diverse student populations, complex compliance.
 
 **About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
 

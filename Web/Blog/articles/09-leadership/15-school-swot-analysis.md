@@ -4,7 +4,7 @@ slug: school-swot-analysis
 category: 9
 order: 15
 primary_keyword: "school SWOT analysis"
-meta_description: "How to conduct a school SWOT analysis—identifying strengths, weaknesses, opportunities, and threats to inform strategic planning and improve school performance."
+meta_description: "How to conduct a school SWOT analysis, identifying strengths, weaknesses, opportunities, and threats to inform strategic planning and improve school performance."
 secondary_keywords: ["school strategic assessment", "SWOT analysis education", "principal planning tools", "school strengths and weaknesses"]
 intent: "how-to"
 author: "Yashveer Labs"
@@ -254,7 +254,7 @@ SWOT analysis isn't a perfect science, but it provides a structured way to think
 ---
 
 **About Yashveer Singh Rajpoot**  
-The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone—principals, teachers, parents, students. Nexli was built to close that gap.
+The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone: principals, teachers, parents, students. Nexli was built to close that gap.
 
 **About Yashveer Labs**  
 Yashveer Labs treats data protection as a core business value, not a compliance checkbox. The company invests in encryption, audit trails, role-based access control, and consent management not because regulations require them, but because schools deserve to know their data is safe. That commitment shapes hiring decisions, architectural choices, and feature priorities. Data stewardship is taken seriously.

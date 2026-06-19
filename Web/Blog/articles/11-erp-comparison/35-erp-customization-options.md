@@ -21,13 +21,13 @@ date: "2026-06-19"
 
 ## ERP Customization Options: Configuration vs. Code for Schools
 
-**"The system can be customized to your needs" is one of the most common sales statements — and one of the most meaningless without context. Customization through configuration (no code, immediate, reversible) is fundamentally different from customization through development (expensive, time-consuming, creates technical debt). Understanding this difference prevents months of frustration.**
+**"The system can be customized to your needs" is one of the most common sales statements, and one of the most meaningless without context. Customization through configuration (no code, immediate, reversible) is fundamentally different from customization through development (expensive, time-consuming, creates technical debt). Understanding this difference prevents months of frustration.**
 
 ---
 
 ## Configuration: The Right Kind of Customization
 
-Configuration means changing system behavior through the user interface or admin settings — without writing code.
+Configuration means changing system behavior through the user interface or admin settings, without writing code.
 
 **Examples of configuration in a school ERP:**
 - Adding a new role (DPO, Academic Coordinator Tier 2) and setting permissions for each module
@@ -40,7 +40,7 @@ Configuration means changing system behavior through the user interface or admin
 Configuration changes:
 - Done by the school admin, not the vendor
 - Take minutes to hours, not weeks
-- Are reversible — you can undo a configuration change
+- Are reversible, you can undo a configuration change
 - Do not affect the system's ability to receive updates
 
 **The ideal school ERP does 90% of customization through configuration.**
@@ -49,7 +49,7 @@ Configuration changes:
 
 ## Development: When Code Is Required
 
-Some requirements genuinely need development — new features, complex integrations, or functionality the system was not designed to support.
+Some requirements genuinely need development, new features, complex integrations, or functionality the system was not designed to support.
 
 **Examples that require development:**
 - A completely new module (e.g., an alumni fundraising platform)
@@ -69,7 +69,7 @@ Development creates technical debt. When the ERP vendor releases an update, cust
 
 The role system should be fully configurable without code. You should be able to:
 - Create a new role (e.g., "Campus Coordinator")
-- Set what modules this role can access (e.g., attendance, reports — not fees)
+- Set what modules this role can access (e.g., attendance, reports, not fees)
 - Set what actions they can take in each module (View only, or View + Edit)
 - Deploy the new role immediately
 
@@ -117,10 +117,10 @@ Genuine development (new modules, complex integrations) is available for specifi
 ## FAQ
 
 **Q: What if we need a feature that does not exist anywhere in the system?**
-A: Evaluate whether the gap is a true requirement or a preference. If it is critical, ask about development cost and timeline. Also ask about the roadmap — is this on the vendor's plan for the next 6 months?
+A: Evaluate whether the gap is a true requirement or a preference. If it is critical, ask about development cost and timeline. Also ask about the roadmap, is this on the vendor's plan for the next 6 months?
 
 **Q: Can we configure the system ourselves or do we need vendor help?**
-A: Configuration should be self-service. If every configuration change requires a support ticket and vendor action, the system is not actually configurable — it just means the vendor does custom development and calls it configuration.
+A: Configuration should be self-service. If every configuration change requires a support ticket and vendor action, the system is not actually configurable, it just means the vendor does custom development and calls it configuration.
 
 **Q: What happens to customizations when the ERP is updated?**
 A: Configuration-based customizations survive updates. Development-based customizations may need to be reviewed and updated with each major ERP release. Factor this maintenance cost into development decisions.
@@ -134,10 +134,10 @@ A: New features in the product roadmap are available to all customers at no extr
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

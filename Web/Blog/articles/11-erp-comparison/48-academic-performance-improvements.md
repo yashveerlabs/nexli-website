@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## School ERP and Academic Performance: What the Connection Is
 
-**ERP vendors sometimes claim that their software improves academic performance. This deserves scrutiny. ERP does not directly improve learning. But it provides better information to teachers and administrators about which students are falling behind, earlier — which gives the school an opportunity to intervene before the problem deepens. The connection to academic outcomes is real but indirect.**
+**ERP vendors sometimes claim that their software improves academic performance. This deserves scrutiny. ERP does not directly improve learning. But it provides better information to teachers and administrators about which students are falling behind, earlier, which gives the school an opportunity to intervene before the problem deepens. The connection to academic outcomes is real but indirect.**
 
 ---
 
@@ -29,9 +29,9 @@ date: "2026-06-19"
 
 ### Earlier Identification of At-Risk Students
 
-Before ERP: A student who is consistently present but scoring low across multiple subjects might not be identified until exam results are published — by which time several months of learning have been lost.
+Before ERP: A student who is consistently present but scoring low across multiple subjects might not be identified until exam results are published, by which time several months of learning have been lost.
 
-With ERP: The marks analytics module can flag students whose performance is declining across assessments, whose attendance is falling, or whose combination of weak attendance and weak marks puts them at high risk for failure. This alert can reach the Class Teacher, HOD, or Principal within days of the assessment — not weeks later.
+With ERP: The marks analytics module can flag students whose performance is declining across assessments, whose attendance is falling, or whose combination of weak attendance and weak marks puts them at high risk for failure. This alert can reach the Class Teacher, HOD, or Principal within days of the assessment, not weeks later.
 
 **The causal chain:** ERP identifies the student earlier → Teacher or counselor intervenes earlier → Student gets support sooner → Outcome improves.
 
@@ -45,7 +45,7 @@ ERP tracks attendance and marks in the same system, making this correlation visi
 
 ### NEP 2020 Holistic Progress Card (HPC)
 
-NEP 2020 requires schools to track student development beyond marks — cognitive skills, social-emotional development, physical fitness, and co-curricular participation. Without digital tools, this tracking happens on paper portfolios that are rarely used analytically.
+NEP 2020 requires schools to track student development beyond marks, cognitive skills, social-emotional development, physical fitness, and co-curricular participation. Without digital tools, this tracking happens on paper portfolios that are rarely used analytically.
 
 ERP with NEP 2020 HPC support allows systematic tracking of these indicators, making the HPC genuinely informative rather than a checkbox exercise.
 
@@ -61,13 +61,13 @@ With ERP: Teachers enter marks directly. HODs review before submission. Calculat
 
 ## What ERP Cannot Do for Academic Performance
 
-**ERP cannot improve teaching quality.** The quality of instruction — how a teacher explains a concept, how they respond to student confusion, how they structure a lesson — is entirely outside ERP's scope.
+**ERP cannot improve teaching quality.** The quality of instruction, how a teacher explains a concept, how they respond to student confusion, how they structure a lesson, is entirely outside ERP's scope.
 
 **ERP cannot motivate students.** Engagement, curiosity, and motivation are influenced by relationships, meaningful content, and classroom culture. No digital tool changes these fundamentals.
 
-**ERP cannot replace counseling.** When an at-risk student is identified, the next step is human — a teacher checking in, a counselor meeting, a parent conversation. ERP identifies; humans respond.
+**ERP cannot replace counseling.** When an at-risk student is identified, the next step is human, a teacher checking in, a counselor meeting, a parent conversation. ERP identifies; humans respond.
 
-**ERP cannot fix structural gaps.** If a school's curriculum is not well-matched to the board's exam requirements, or if teaching methodology is misaligned with student needs, ERP data will show the outcomes of these structural problems clearly — but will not fix them.
+**ERP cannot fix structural gaps.** If a school's curriculum is not well-matched to the board's exam requirements, or if teaching methodology is misaligned with student needs, ERP data will show the outcomes of these structural problems clearly, but will not fix them.
 
 ---
 
@@ -95,18 +95,18 @@ A: NEP 2020 requires HPC tracking. Whether this happens in an ERP, a standalone 
 A: Board results (CBSE, ICSE, state board) are the primary benchmarks. Standardized assessment programs (ASER, SAT school editions) provide additional data. ERP tracks internal performance; external benchmarks require external data.
 
 **Q: What is the most actionable ERP report for academic improvement?**
-A: The at-risk student list — students with both poor attendance and poor marks across multiple subjects. This list is prioritized for intervention and is directly actionable by class teachers and counselors.
+A: The at-risk student list, students with both poor attendance and poor marks across multiple subjects. This list is prioritized for intervention and is directly actionable by class teachers and counselors.
 
 **Q: Can we share academic performance reports with parents through the portal?**
-A: Yes, marks and report cards should be available to parents. Sharing internal analytics (like at-risk flags) is a policy decision — some schools share this data with parents proactively; others prefer to have a staff conversation first.
+A: Yes, marks and report cards should be available to parents. Sharing internal analytics (like at-risk flags) is a policy decision, some schools share this data with parents proactively; others prefer to have a staff conversation first.
 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

@@ -74,10 +74,10 @@ branding_block_nexli: 8
 
 ## Avoid Commodity Traps
 
-**Don't claim:** "We provide quality education"—everyone says this
+**Don't claim:** "We provide quality education", everyone says this
 **Do claim:** "We achieved 85% pass rate in 2025, top in district"
 
-**Don't claim:** "We care about students"—expected
+**Don't claim:** "We care about students", expected
 **Do claim:** "We have 1:15 teacher-student ratio with personalized counseling"
 
 ---

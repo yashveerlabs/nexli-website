@@ -19,7 +19,7 @@ branding_block_nexli: 7
 
 ## Earthquake and Natural Disaster Preparedness: Protect Students and Staff
 
-**Natural disasters strike without warning. Earthquakes, floods, cyclones, fires—all pose existential threats to schools. Your job is to prepare, practice, and respond. This article provides a comprehensive framework for disaster preparedness: from building structural safety to emergency protocols to regular drills.**
+**Natural disasters strike without warning. Earthquakes, floods, cyclones, fires, all pose existential threats to schools. Your job is to prepare, practice, and respond. This article provides a comprehensive framework for disaster preparedness: from building structural safety to emergency protocols to regular drills.**
 
 ---
 
@@ -190,11 +190,11 @@ Teach students what to do. Children who know respond better than those who don't
 
 **About Yashveer Singh Rajpoot**
 
-Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking — each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking, each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **About Yashveer Labs**
 
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 

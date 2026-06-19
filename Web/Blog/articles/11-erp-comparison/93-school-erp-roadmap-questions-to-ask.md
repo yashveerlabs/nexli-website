@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## School ERP Product Roadmap: Questions That Reveal the Real Plan
 
-**Every school ERP vendor has a roadmap. Vendors will tell you about planned features to make the product more attractive during sales. The question is not what they plan to build — it is whether they actually build what they commit to, on a timeline that matters to you. Evaluating a vendor's roadmap requires looking backward (at their delivery history) as much as forward (at their stated plans).**
+**Every school ERP vendor has a roadmap. Vendors will tell you about planned features to make the product more attractive during sales. The question is not what they plan to build, it is whether they actually build what they commit to, on a timeline that matters to you. Evaluating a vendor's roadmap requires looking backward (at their delivery history) as much as forward (at their stated plans).**
 
 ---
 
@@ -54,7 +54,7 @@ Reference schools who waited for a promised feature have direct experience with 
 
 ## Questions About Regulatory Update Commitments
 
-Regulatory compliance is not optional and is not a feature request — it is a core obligation of a school ERP vendor. Ask:
+Regulatory compliance is not optional and is not a feature request, it is a core obligation of a school ERP vendor. Ask:
 
 **"When CBSE changed the LOC format last time, how quickly did you update the export, and when did you notify schools?"**
 The right answer: notified schools 30+ days before submission season, update available before the deadline.
@@ -110,15 +110,15 @@ A: Quarterly roadmap communications are a reasonable expectation. Annual is acce
 A: Ask this question directly and verify with reference schools. A vendor with a clear feature request process, who can name features that came from customer feedback, is listening. A vendor who cannot name a single customer-requested feature that made it to production may not have an effective feedback loop.
 
 **Q: Is a vendor's roadmap ever shared publicly?**
-A: Some vendors share a public product roadmap. This is generally a positive signal — it creates accountability. A vendor who is confident enough to publish planned features publicly is more likely to be committed to delivering them.
+A: Some vendors share a public product roadmap. This is generally a positive signal, it creates accountability. A vendor who is confident enough to publish planned features publicly is more likely to be committed to delivering them.
 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

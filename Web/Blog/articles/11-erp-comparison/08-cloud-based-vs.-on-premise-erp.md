@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Cloud-Based vs. On-Premise ERP for Schools: What to Choose
 
-**The choice between cloud and on-premise school ERP affects maintenance cost, data control, offline capability, and compliance. Most Indian schools in 2026 choose cloud for cost and convenience — but on-premise remains valid for specific scenarios. This guide explains the genuine differences so you can decide what fits your school.**
+**The choice between cloud and on-premise school ERP affects maintenance cost, data control, offline capability, and compliance. Most Indian schools in 2026 choose cloud for cost and convenience, but on-premise remains valid for specific scenarios. This guide explains the genuine differences so you can decide what fits your school.**
 
 ---
 
@@ -58,7 +58,7 @@ For most schools, cloud is significantly cheaper over 3 years. On-premise makes 
 
 **On-premise:** Works without internet. All data is on your local network. Teachers mark attendance, accounts process fees, and admin manages records even during an internet outage.
 
-This is the primary reason on-premise still exists. Schools in areas with unreliable internet — rural India, remote campuses — need systems that work independently of connectivity.
+This is the primary reason on-premise still exists. Schools in areas with unreliable internet, rural India, remote campuses, need systems that work independently of connectivity.
 
 ### Data Control
 
@@ -76,7 +76,7 @@ This is the primary reason on-premise still exists. Schools in areas with unreli
 
 **Cloud:** Backups happen automatically (usually daily, sometimes real-time). If data is corrupted or accidentally deleted, the vendor restores it. Google's Firebase (which Nexli uses) maintains multiple redundant copies across data centers.
 
-**On-premise:** You manage backups. If your server fails and the backup is also corrupt, data loss is your problem. Most on-premise deployments should run daily backups to an off-site location — a discipline many schools do not consistently maintain.
+**On-premise:** You manage backups. If your server fails and the backup is also corrupt, data loss is your problem. Most on-premise deployments should run daily backups to an off-site location, a discipline many schools do not consistently maintain.
 
 ---
 
@@ -107,7 +107,7 @@ Fedena is the most commonly cited ERP with a robust on-premise option. If on-pre
 
 ## DPDP Act Implications
 
-The DPDP Act 2023 requires schools to know where student data is processed and stored. Cloud providers like Google (Firebase) publish their data processing agreements and infrastructure locations. Nexli's data lives on Firebase, which operates data centers in multiple regions — clarify with the vendor which region your data is in.
+The DPDP Act 2023 requires schools to know where student data is processed and stored. Cloud providers like Google (Firebase) publish their data processing agreements and infrastructure locations. Nexli's data lives on Firebase, which operates data centers in multiple regions, clarify with the vendor which region your data is in.
 
 For on-premise, data residency is not a concern because data never leaves your servers. However, your responsibility to secure, back up, and properly delete data increases significantly.
 
@@ -133,10 +133,10 @@ A: It is declining. Most new school ERP deployments in India are cloud-based. Bu
 ---
 
 **About Yashveer Singh Rajpoot**
-The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli — a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**
-Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project — from Nexli to future platforms — the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 **How Nexli Helps**
 Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents where they actually open messages. Nexli is built for Indian schools, by people who understand Indian schools.

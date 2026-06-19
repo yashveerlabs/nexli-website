@@ -21,13 +21,13 @@ date: "2026-06-19"
 
 ## Data Ownership and Portability in School ERP: What Schools Need to Know
 
-**School ERP systems hold student records, fee history, health data, staff payroll records, and attendance — years of institutional data that belongs to the school and the families whose children are enrolled. Who legally owns this data, what the vendor can do with it, and whether the school can take it if the relationship ends are questions every school should understand before signing a contract.**
+**School ERP systems hold student records, fee history, health data, staff payroll records, and attendance, years of institutional data that belongs to the school and the families whose children are enrolled. Who legally owns this data, what the vendor can do with it, and whether the school can take it if the relationship ends are questions every school should understand before signing a contract.**
 
 ---
 
 ## Who Owns School ERP Data?
 
-In a well-structured contract, the answer is clear: the school owns all data entered into the system. The vendor provides the software to store and process that data — they do not acquire ownership of the data itself.
+In a well-structured contract, the answer is clear: the school owns all data entered into the system. The vendor provides the software to store and process that data, they do not acquire ownership of the data itself.
 
 In poorly written contracts, this may not be stated, or may include language giving the vendor:
 - A license to use "aggregated and anonymized" data for product improvement
@@ -49,7 +49,7 @@ The Digital Personal Data Protection Act 2023 (DPDP) applies to personal data of
 - Staff records are personal data
 
 **What this means for the vendor relationship:**
-- The school is a "Data Fiduciary" — responsible for how student and parent data is processed
+- The school is a "Data Fiduciary", responsible for how student and parent data is processed
 - The school must have documented consent from parents for data processing
 - The school must ensure the vendor (as a "Data Processor") is bound by contractual data protection obligations
 - If the vendor processes data in unauthorized ways, the school bears regulatory accountability
@@ -83,7 +83,7 @@ Data portability is the ability to export your data from the ERP in a usable for
 
 1. **Self-service export:** The school can export data at any time without vendor involvement (download button in the admin dashboard)
 2. **Formats:** CSV, Excel, or standard JSON for all data types
-3. **Completeness:** Every module's data is exportable (not just students — also fees, attendance, marks, staff)
+3. **Completeness:** Every module's data is exportable (not just students, also fees, attendance, marks, staff)
 4. **Timeline:** Complete export available within 30 days of request
 5. **No charge:** Data export is included in the contract, not a billable service
 
@@ -109,10 +109,10 @@ A: Academic records (marks, attendance, TC records) should be retained for 7-10 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

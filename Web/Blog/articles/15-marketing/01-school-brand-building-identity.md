@@ -46,7 +46,7 @@ Your brand is the feeling and expectation parents have when they hear your schoo
 **Values:** What principles guide you?
 - Academic excellence, integrity, inclusion, community, innovation
 
-**How to define:** Involve staff, parents, students. Consensus is powerful. Avoid generic statements ("We value excellence")—be specific ("We celebrate curiosity and reward intellectual risk-taking").
+**How to define:** Involve staff, parents, students. Consensus is powerful. Avoid generic statements ("We value excellence"), be specific ("We celebrate curiosity and reward intellectual risk-taking").
 
 ---
 
@@ -124,7 +124,7 @@ A: Both. "We strive for excellence" (aspirational). "Our average pass rate is 78
 A: 2–3 years of consistent messaging and delivery. First year is foundation. Patience required.
 
 **Q3: Should we change our brand if we're struggling?**  
-A: Usually, the brand is fine—execution is the problem. Fix operations first. Change brand only if you've fundamentally shifted direction.
+A: Usually, the brand is fine, execution is the problem. Fix operations first. Change brand only if you've fundamentally shifted direction.
 
 ---
 

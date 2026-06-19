@@ -13,7 +13,7 @@ branding_block_company: 7
 branding_block_nexli: 7
 ---
 
-Access to safe drinking water is a fundamental requirement for schools under the RTE Act 2009 and various state education regulations. CBSE affiliation norms also require schools to provide safe, potable drinking water to students. Water-borne illness outbreaks in schools are serious events — they affect student health and trigger regulatory scrutiny.
+Access to safe drinking water is a fundamental requirement for schools under the RTE Act 2009 and various state education regulations. CBSE affiliation norms also require schools to provide safe, potable drinking water to students. Water-borne illness outbreaks in schools are serious events, they affect student health and trigger regulatory scrutiny.
 
 ## Legal and Regulatory Basis
 

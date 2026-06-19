@@ -63,7 +63,7 @@ Before processing personal data, the school must provide a notice to parents/dat
 
 This notice must be in simple language, not legal jargon. It must be accessible before data collection begins (at enrollment, not buried in a 20-page handbook).
 
-A cloud ERP should support notice delivery — either by displaying the notice during the parent portal registration process or by including it in the enrollment documentation workflow.
+A cloud ERP should support notice delivery, either by displaying the notice during the parent portal registration process or by including it in the enrollment documentation workflow.
 
 ## Key DPDP Act Requirement 3: Data Minimization
 

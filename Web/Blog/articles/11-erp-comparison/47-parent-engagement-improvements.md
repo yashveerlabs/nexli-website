@@ -21,7 +21,7 @@ date: "2026-06-19"
 
 ## Parent Engagement and School ERP: What Changes, What Stays the Same
 
-**Schools often want ERP to improve parent engagement. The question is which kind of engagement. ERP improves information-based engagement — parents getting data about their child's attendance, fees, and performance without calling the school. It does not replace relationship-based engagement — parents feeling connected to the school community, understanding the school's vision, participating in events. Both matter, but ERP mainly affects the first.**
+**Schools often want ERP to improve parent engagement. The question is which kind of engagement. ERP improves information-based engagement, parents getting data about their child's attendance, fees, and performance without calling the school. It does not replace relationship-based engagement, parents feeling connected to the school community, understanding the school's vision, participating in events. Both matter, but ERP mainly affects the first.**
 
 ---
 
@@ -29,7 +29,7 @@ date: "2026-06-19"
 
 Before designing a parent portal, understand what parents most want:
 
-**Information without friction:** Parents want to know if their child was present today, what their current fee balance is, and when the next exam is — without calling the school. They want to check at 9 PM when the school office is closed.
+**Information without friction:** Parents want to know if their child was present today, what their current fee balance is, and when the next exam is, without calling the school. They want to check at 9 PM when the school office is closed.
 
 **Alerts that matter:** Automatic notifications when their child's attendance drops below a threshold, when a fee is overdue, when an exam result is published. Relevant alerts at the right time.
 
@@ -57,7 +57,7 @@ Marks and grades published as they are entered and approved by the school. Paren
 
 ### Homework and Announcements
 
-Homework assigned by teachers, class announcements, school circulars — all visible in the portal. Parents can verify what was assigned and when it is due.
+Homework assigned by teachers, class announcements, school circulars, all visible in the portal. Parents can verify what was assigned and when it is due.
 
 ### Communication
 
@@ -89,7 +89,7 @@ Some ERPs include a message function for parent-teacher communication. This prov
 
 **Trust is built in person.** A parent who does not trust the school will not trust the portal's data. Trust comes from how the school responds to concerns, how teachers treat students, and how leadership communicates.
 
-**Community feeling requires presence.** Annual days, sports days, parent-teacher meetings, open houses — these build community connection. An app does not replicate this.
+**Community feeling requires presence.** Annual days, sports days, parent-teacher meetings, open houses, these build community connection. An app does not replicate this.
 
 **Communication quality depends on humans.** A school that communicates with clarity, warmth, and promptness builds parent confidence. An ERP that sends automated fee reminders in a cold tone creates friction if the underlying relationship is not strong.
 
@@ -97,14 +97,14 @@ Some ERPs include a message function for parent-teacher communication. This prov
 
 ## How Nexli Handles Parent Communication
 
-Nexli's parent portal provides role-scoped access (each parent sees only their own children's data — DPDP-compliant data minimization). Attendance, fee balance, homework, and circulars are visible. Automated alerts go out for attendance threshold and fee due dates. The portal is accessible on mobile browsers without requiring a native app download, reducing friction for parents with limited storage.
+Nexli's parent portal provides role-scoped access (each parent sees only their own children's data, DPDP-compliant data minimization). Attendance, fee balance, homework, and circulars are visible. Automated alerts go out for attendance threshold and fee due dates. The portal is accessible on mobile browsers without requiring a native app download, reducing friction for parents with limited storage.
 
 ---
 
 ## FAQ
 
 **Q: Do parents prefer SMS alerts or app notifications?**
-A: It varies by school context. SMS reaches all parents regardless of smartphone. App notifications require app installation but cost less per message and allow richer content. Many schools use both — SMS for fee reminders (high priority, needs to reach everyone), app notifications for homework and circulars.
+A: It varies by school context. SMS reaches all parents regardless of smartphone. App notifications require app installation but cost less per message and allow richer content. Many schools use both, SMS for fee reminders (high priority, needs to reach everyone), app notifications for homework and circulars.
 
 **Q: What data should we not put in the parent portal?**
 A: Data that requires context to interpret correctly. A student's absolute marks without class averages can cause unnecessary anxiety. POCSO or counseling records should never be in the parent portal. Disciplinary records should follow a defined disclosure policy.
@@ -121,10 +121,10 @@ A: 3-6 months with active onboarding effort. Passive adoption (parents find the 
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

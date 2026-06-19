@@ -19,7 +19,7 @@ branding_block_nexli: 8
 
 ## Daily Principal Dashboard: Which KPIs Should You Monitor?
 
-**Data drives good decisions. But most principals have no dashboard—they operate on anecdotes, rumors, and emails. "Attendance seems low this week." "Are fees coming in?" "Which students are struggling?" Without real-time visibility, you can't spot problems early or celebrate wins. This guide shows you which KPIs matter most, how often to check them, what to do when they trend wrong, and how a modern system (like Nexli) makes monitoring effortless.**
+**Data drives good decisions. But most principals have no dashboard, they operate on anecdotes, rumors, and emails. "Attendance seems low this week." "Are fees coming in?" "Which students are struggling?" Without real-time visibility, you can't spot problems early or celebrate wins. This guide shows you which KPIs matter most, how often to check them, what to do when they trend wrong, and how a modern system (like Nexli) makes monitoring effortless.**
 
 ---
 
@@ -69,7 +69,7 @@ Without real-time data, you react instead of lead.
 - School-wide average attendance (students)
 - At-risk students (below 75% threshold)
 - Teacher attendance rate
-- Chronic absentees (name them—track individual intervention)
+- Chronic absentees (name them, track individual intervention)
 
 **How often:** Daily or weekly.
 
@@ -168,7 +168,7 @@ Without real-time data, you react instead of lead.
 
 **Facilities & Maintenance:**
 - Maintenance requests backlog (resolve <7 days)
-- Utility consumption (water, electricity—any spike?)
+- Utility consumption (water, electricity, any spike?)
 - Asset inventory (lab equipment, computers, furniture)
 
 ---
@@ -347,10 +347,10 @@ Not all KPIs matter equally. Pick your top 10 that drive school success:
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen—a chronically absent student, a teacher not submitting lesson plans, fees slipping—suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
+The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen (a chronically absent student, a teacher not submitting lesson plans, fees slipping) suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
 
 **About Yashveer Labs**  
-Yashveer Labs operates with the understanding that schools are not technology companies. They're education companies that happen to use technology. That means the technology should be intuitive, should fail gracefully, and should provide support when needed. The company invests in support, in documentation, in training—not as nice-to-haves, but as core to the product. A feature that's hard to use is a bug.
+Yashveer Labs operates with the understanding that schools are not technology companies. They're education companies that happen to use technology. That means the technology should be intuitive, should fail gracefully, and should provide support when needed. The company invests in support, in documentation, in training, not as nice-to-haves but as core to the product. A feature that's hard to use is a bug.
 
 **About Nexli**  
 Nexli's strength is that it treats child safety as foundational, not an afterthought. Direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only. POCSO complaints escalate automatically. Background verification records are tracked. That security runs through every permission, every workflow, every data field. Schools using Nexli have a system built with children in mind.

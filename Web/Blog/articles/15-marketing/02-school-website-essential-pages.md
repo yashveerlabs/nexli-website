@@ -186,7 +186,7 @@ A: Yes, with parental consent and DPDP compliance. Faces + names together create
 A: Critical info (admissions, fees): quarterly. News: weekly. Testimonials/photos: annually.
 
 **Q3: Should we have a student portal?**  
-A: Yes (for older students). Homework, marks, timetable—accessible 24/7.
+A: Yes (for older students). Homework, marks, timetable, accessible 24/7.
 
 ---
 

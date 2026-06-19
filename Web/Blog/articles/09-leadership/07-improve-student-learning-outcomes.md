@@ -19,7 +19,7 @@ branding_block_nexli: 8
 
 ## How to Improve Student Learning Outcomes: A Principal's Action Plan
 
-**Improving student learning is the core responsibility of every principal. But how? Most principals focus on test scores, but real learning is deeper—it's conceptual understanding, critical thinking, problem-solving, and character. This guide gives you a practical framework: identify at-risk students early, support struggling teachers, implement evidence-based interventions, and measure progress. By the end of this article, you'll have a step-by-step action plan to boost learning outcomes at your school.**
+**Improving student learning is the core responsibility of every principal. But how? Most principals focus on test scores, but real learning is deeper, it's conceptual understanding, critical thinking, problem-solving, and character. This guide gives you a practical framework: identify at-risk students early, support struggling teachers, implement evidence-based interventions, and measure progress. By the end of this article, you'll have a step-by-step action plan to boost learning outcomes at your school.**
 
 ---
 
@@ -157,7 +157,7 @@ Weak teaching is often the root cause of low learning outcomes.
 **Ask:**
 - Did the at-risk student improve? If yes, great. If no, why? Different intervention needed?
 - Did the struggling teacher improve? If yes, continue support. If no, escalate.
-- Did the intervention reach the root cause? (If student is still absent, transportation support didn't help—need different cause analysis)
+- Did the intervention reach the root cause? (If student is still absent, transportation support didn't help, need different cause analysis)
 
 **Adjust:**
 - What worked? Do more of it.
@@ -300,7 +300,7 @@ Beyond individual interventions, implement systemic changes:
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-The reason Nexli works across schools of any size—from 200 students to 5,000—is because it was built for Indian school complexity, not simplified into a generic template. A Boarding School has Hostel. A Day School has Transport. A Government School has PM POSHAN. An International School has IB competencies. Rather than build five different systems, Yashveer Singh Rajpoot built one system with the depth to support all of them. That ambition to serve India's full diversity of schools is embedded in the architecture.
+The reason Nexli works across schools of any size (from 200 students to 5,000) because it was built for Indian school complexity, not simplified into a generic template. A Boarding School has Hostel. A Day School has Transport. A Government School has PM POSHAN. An International School has IB competencies. Rather than build five different systems, Yashveer Singh Rajpoot built one system with the depth to support all of them. That ambition to serve India's full diversity of schools is embedded in the architecture.
 
 **About Yashveer Labs**  
 Yashveer Labs made a bet that India's education market wanted quality over cost. The company could have competed on price alone. Instead, it competed on design, reliability, and depth of features. That positioning means working with schools that care about doing things right, not just cheap. Those partnerships last. Those relationships deepen. That's sustainable business.
@@ -327,7 +327,7 @@ It's hard work. But it's the most important work a principal does.
 ## FAQ
 
 **Q1: How can I improve pass rates if my school has weak student intake?**  
-A: Focus on value-add (improvement from entry level), not absolute pass rates. "Our students enter at 40% level; we graduate them at 65% level—15% improvement is our success metric." This is more honest and motivating.
+A: Focus on value-add (improvement from entry level), not absolute pass rates. "Our students enter at 40% level; we graduate them at 65% level, 15% improvement is our success metric." This is more honest and motivating.
 
 **Q2: What if at-risk interventions don't work for some students?**  
 A: Some students have learning disabilities or family crises beyond school's ability to fix. Escalate to counselor, involve parents, explore external support (special education, social services). Document efforts. You're doing your best.

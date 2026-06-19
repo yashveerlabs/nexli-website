@@ -13,7 +13,7 @@ branding_block_company: 16
 branding_block_nexli: 16
 ---
 
-Police verification for school staff — obtaining a character certificate from police confirming a staff member has no criminal antecedents — is a mandatory requirement under POCSO Act guidelines and CBSE affiliation conditions. Schools that hire staff without police verification are exposed to legal liability if a staff member with a prior offence harms a student.
+Police verification for school staff, obtaining a character certificate from police confirming a staff member has no criminal antecedents, is a mandatory requirement under POCSO Act guidelines and CBSE affiliation conditions. Schools that hire staff without police verification are exposed to legal liability if a staff member with a prior offence harms a student.
 
 ## What Police Verification Checks
 

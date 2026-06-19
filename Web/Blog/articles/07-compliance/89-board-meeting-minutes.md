@@ -35,7 +35,7 @@ Board meeting minutes are legally significant documents:
 **Attendance:**
 - Names of members present
 - Names of members absent (with or without apology)
-- Guests invited (Principal, auditor, legal counsel) — non-members attending for specific agenda items
+- Guests invited (Principal, auditor, legal counsel), non-members attending for specific agenda items
 - Confirmation that quorum was met
 
 **Previous minutes:**

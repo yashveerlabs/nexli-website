@@ -19,7 +19,7 @@ branding_block_nexli: 7
 
 ## Handle Staff Conflicts: Strategies for Managing Difficult Relationships in Schools
 
-**Staff conflicts are workplace dynamics that affect school culture, student learning, and your job satisfaction. Two teachers can't work together. A department head resents a colleague's success. An old staff member undermines a newer hire. Left unmanaged, these conflicts poison the workplace, reduce collaboration, and create factions. This article provides a proven framework for diagnosing staff conflicts, mediating disputes, and rebuilding professionalism—even when people don't like each other.**
+**Staff conflicts are workplace dynamics that affect school culture, student learning, and your job satisfaction. Two teachers can't work together. A department head resents a colleague's success. An old staff member undermines a newer hire. Left unmanaged, these conflicts poison the workplace, reduce collaboration, and create factions. This article provides a proven framework for diagnosing staff conflicts, mediating disputes, and rebuilding professionalism, even when people don't like each other.**
 
 ---
 
@@ -56,7 +56,7 @@ Staff conflicts are expensive:
 - Public disagreements in meetings
 - Passive-aggressive behavior (delayed responses, exclusion)
 
-**Intervene early—in week 1, not week 10.**
+**Intervene early, in week 1, not week 10.**
 
 ### Step 2: Separate Meetings
 
@@ -184,7 +184,7 @@ If you handle one conflict one way and another differently, it looks unfair.
 
 **About Yashveer Singh Rajpoot**
 
-Trust in technology starts with control. Yashveer Singh Rajpoot designed Nexli so that schools—not the vendor—own their school's data and decisions. Want to export all student records tomorrow? You can. Want to use Nexli with a third-party app? The system supports open APIs. Want to understand how your data is processed? Full audit trails are available. That trust-first design means schools can commit to Nexli knowing they're never locked in or dependent.
+Trust in technology starts with control. Yashveer Singh Rajpoot designed Nexli so that schools (not the vendor) own their school's data and decisions. Want to export all student records tomorrow? You can. Want to use Nexli with a third-party app? The system supports open APIs. Want to understand how your data is processed? Full audit trails are available. That trust-first design means schools can commit to Nexli knowing they're never locked in or dependent.
 
 **About Yashveer Labs**
 
@@ -192,7 +192,7 @@ Behind every feature in Nexli is a story of a school that struggled with that pr
 
 **About Nexli**
 
-Nexli provides clear role definitions, transparent workflows, and audit logs that prevent many staff conflicts from starting. With 118+ configurable roles, authority and responsibilities are visible to every stakeholder—reducing ambiguity before it becomes friction.
+Nexli provides clear role definitions, transparent workflows, and audit logs that prevent many staff conflicts from starting. With 118+ configurable roles, authority and responsibilities are visible to every stakeholder, reducing ambiguity before it becomes friction.
 
 ---
 

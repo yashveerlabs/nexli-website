@@ -1,7 +1,7 @@
 ---
-title: "School ERP Implementation: Before and After — A Realistic Picture"
+title: "School ERP Implementation: Before and After, A Realistic Picture"
 slug: "school-erp-implementation-before-and-after"
-meta_description: "What school operations look like before and after ERP implementation: attendance workflows, fee tracking, compliance, and parent communication — honest before/after comparison."
+meta_description: "What school operations look like before and after ERP implementation: attendance workflows, fee tracking, compliance, and parent communication, honest before/after comparison."
 category: "School ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP before and after implementation"
 secondary_keywords:
@@ -19,9 +19,9 @@ branding_block_nexli: 2
 date: "2026-06-19"
 ---
 
-## School ERP Implementation: Before and After — A Realistic Picture
+## School ERP Implementation: Before and After, A Realistic Picture
 
-**Schools considering ERP often want a realistic picture of what actually changes — not marketing claims about operational efficiency, but specific workflows that get better and some that take adjustment. This article describes the before and after for the most common school operations, honestly.**
+**Schools considering ERP often want a realistic picture of what actually changes, not marketing claims about operational efficiency, but specific workflows that get better and some that take adjustment. This article describes the before and after for the most common school operations, honestly.**
 
 ---
 
@@ -69,7 +69,7 @@ date: "2026-06-19"
 
 **Before ERP:**
 - Marks maintained in teachers' personal notebooks or Excel files
-- Report card assembly at term end involves collecting sheets from 30-40 teachers, consolidating, calculating totals, and formatting — a multi-week effort for admin staff
+- Report card assembly at term end involves collecting sheets from 30-40 teachers, consolidating, calculating totals, and formatting, a multi-week effort for admin staff
 - Errors discovered after report cards are printed require re-printing
 - Historical marks for transferred-out students must be dug from paper files
 
@@ -121,9 +121,9 @@ date: "2026-06-19"
 
 ## What Does Not Change
 
-**ERP does not replace good management.** An ERP will surface that 20% of students are below 75% attendance — but the Principal still needs to decide how to respond. The ERP surfaces information; decisions are still human.
+**ERP does not replace good management.** An ERP will surface that 20% of students are below 75% attendance, but the Principal still needs to decide how to respond. The ERP surfaces information; decisions are still human.
 
-**ERP does not fix data quality problems automatically.** If your student records have duplicates, wrong dates of birth, or incorrect contact numbers, the ERP will make these problems visible more quickly — but will not resolve them automatically.
+**ERP does not fix data quality problems automatically.** If your student records have duplicates, wrong dates of birth, or incorrect contact numbers, the ERP will make these problems visible more quickly, but will not resolve them automatically.
 
 **Staff adoption is never 100% immediately.** Expect 3-6 months before the ERP is the default for all staff in all workflows.
 
@@ -132,7 +132,7 @@ date: "2026-06-19"
 ## FAQ
 
 **Q: Is the first year the hardest?**
-A: Yes. The first year involves migration, training, adaptation, and discovering configuration gaps. By Year 2, the system is running with the same data and same staff — the adjustment period is over.
+A: Yes. The first year involves migration, training, adaptation, and discovering configuration gaps. By Year 2, the system is running with the same data and same staff, the adjustment period is over.
 
 **Q: How do we measure ERP success?**
 A: Track: time to generate monthly attendance report (should drop from days to minutes), fee collection rate (should improve with automated reminders), call volume from parents asking for balances (should decrease), and report card errors (should drop significantly).
@@ -149,10 +149,10 @@ A: Data migration quality. Accurate student and fee records from day one prevent
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

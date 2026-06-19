@@ -32,7 +32,7 @@ Every school that pays salary to employees must deduct TDS from salary payments 
 
 ## TDS on Contractor Payments (Section 194C)
 
-When a school hires contractors — construction work, maintenance, housekeeping, security (via agency), transport (third-party contracts) — TDS applies.
+When a school hires contractors, construction work, maintenance, housekeeping, security (via agency), transport (third-party contracts), TDS applies.
 
 **Rate:** 1% if the contractor is an individual or HUF; 2% for others (companies, firms, etc.)
 
@@ -42,7 +42,7 @@ When a school hires contractors — construction work, maintenance, housekeeping
 
 ## TDS on Professional Services (Section 194J)
 
-When a school pays professional fees — CA, lawyer, consultant, teacher on contract (if treated as professional) — TDS applies.
+When a school pays professional fees, CA, lawyer, consultant, teacher on contract (if treated as professional), TDS applies.
 
 **Rate:** 10% for most professional/technical services
 
@@ -60,7 +60,7 @@ Schools with TDS obligations must:
 - **TAN registration:** Get a Tax Deduction Account Number (TAN) from the Income Tax Department
 - **Monthly deposit:** Deduct TDS and deposit it to the government by the 7th of the following month (by the 30th for March payments)
 - **Quarterly returns:** File TDS returns quarterly (Form 26Q for non-salary; Form 24Q for salary payments) within 31 days of the end of each quarter
-- **TDS certificates:** Issue TDS certificates to deductees — Form 16 for salary (by June 15), Form 16A for non-salary (within 15 days of filing the quarterly return)
+- **TDS certificates:** Issue TDS certificates to deductees, Form 16 for salary (by June 15), Form 16A for non-salary (within 15 days of filing the quarterly return)
 
 ## Consequences of Non-Compliance
 

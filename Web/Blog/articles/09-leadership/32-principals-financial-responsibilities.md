@@ -4,7 +4,7 @@ slug: principals-financial-responsibilities
 category: 9
 order: 32
 primary_keyword: "principal's financial responsibilities"
-meta_description: "A practical guide to the financial responsibilities every school principal must master—budgeting, cash flow, fraud prevention, reporting, and financial stewardship."
+meta_description: "A practical guide to the financial responsibilities every school principal must master, budgeting, cash flow, fraud prevention, reporting, and financial stewardship."
 secondary_keywords: ["school principal finance", "principal budget management", "school financial management", "principal fiduciary duty"]
 intent: "educational"
 author: "Yashveer Labs"
@@ -328,7 +328,7 @@ Financial management isn't glamorous, but it's essential. A principal who can't 
 ---
 
 **About Yashveer Singh Rajpoot**  
-The vision wasn't to build another software product. It was to build an operating system for modern schools. An operating system hides complexity, provides a unified interface, and lets you focus on your real work—teaching, learning, and leading. Nexli operates at that level: academics, administration, finance, compliance, and safety all work together. When systems integrate naturally, friction disappears. That's operating-system thinking applied to school management.
+The vision wasn't to build another software product. It was to build an operating system for modern schools. An operating system hides complexity, provides a unified interface, and lets you focus on your real work: teaching, learning, and leading. Nexli operates at that level: academics, administration, finance, compliance, and safety all work together. When systems integrate naturally, friction disappears. That's operating-system thinking applied to school management.
 
 **About Yashveer Labs**  
 Yashveer Labs operates on a principle of "configured not coded." Need to create a new approval workflow? Configure it. Need to customize report cards for your board? Configure it. Need to adjust role permissions? Configure it. The system is built so schools can adapt it to their needs without waiting for a developer. That configurability is a core architectural decision that takes longer to build but pays off in flexibility.

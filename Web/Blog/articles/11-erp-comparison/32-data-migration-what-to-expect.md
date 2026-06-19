@@ -110,7 +110,7 @@ A good ERP import tool will:
 After import, verify:
 - Total student count matches your expected count
 - Sample-check 20-30 records in detail (name, class, fee balance)
-- Check total fee outstanding — does it match your old system's outstanding?
+- Check total fee outstanding, does it match your old system's outstanding?
 
 ---
 
@@ -122,7 +122,7 @@ After import, verify:
 
 **Not migrating current-year attendance:** If you implement mid-year and do not migrate attendance data, your attendance percentages will be wrong for the year.
 
-**Assuming the migration tool handles everything:** Even the best migration tools require human review. Automated import cannot fix data quality problems — it can only surface them.
+**Assuming the migration tool handles everything:** Even the best migration tools require human review. Automated import cannot fix data quality problems, it can only surface them.
 
 ---
 
@@ -140,7 +140,7 @@ Demo data includes 300 students across 45 sections as a reference for expected d
 A: For a school of 300 students with clean data, 1-2 days. For a school with messy data needing extensive cleaning, 1-2 weeks. Data quality is the primary variable.
 
 **Q: What if our old vendor does not provide a data export?**
-A: Check your contract for data portability clauses. If no export is available, you may need to re-enter data manually from printed reports — painful but feasible for smaller schools.
+A: Check your contract for data portability clauses. If no export is available, you may need to re-enter data manually from printed reports, painful but feasible for smaller schools.
 
 **Q: Should we migrate historical data (5 years of records) or just current year?**
 A: At minimum, migrate the current academic year's data (student list, fee ledger, current attendance). Historical data adds value for trend analysis but is lower priority. Start with current year; migrate history later if needed.
@@ -154,10 +154,10 @@ A: Yes, in a well-designed import tool. Preview mode shows what will be imported
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

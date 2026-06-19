@@ -13,7 +13,7 @@ branding_block_company: 10
 branding_block_nexli: 10
 ---
 
-A DPO office is not a physical room — it is a set of systems, documents, and workflows that ensure student and parent data is protected, consent is tracked, and breaches are handled correctly. Setting it up takes 30-40 hours in Year 1 but reduces compliance risk significantly.
+A DPO office is not a physical room, it is a set of systems, documents, and workflows that ensure student and parent data is protected, consent is tracked, and breaches are handled correctly. Setting it up takes 30-40 hours in Year 1 but reduces compliance risk significantly.
 
 ## Step 1: Formal DPO Appointment
 
@@ -33,7 +33,7 @@ Approve the policy at principal or governing body level. Publish it.
 
 ## Step 3: Build the Consent Registry
 
-Create a system — digital or paper — to record every parent's consent status per data category. It must show: consent given date, what was consented to, any withdrawals, and renewal dates.
+Create a system, digital or paper, to record every parent's consent status per data category. It must show: consent given date, what was consented to, any withdrawals, and renewal dates.
 
 ## Step 4: Implement Access Controls
 
@@ -55,13 +55,13 @@ Schedule the DPO's annual audit: review consent registry, check audit logs for u
 
 ## How Nexli Helps
 
-Nexli provides the digital infrastructure for the DPO office: consent registry, audit logs, breach notifications, compliance calendar, and staff training records — all in one platform.
+Nexli provides the digital infrastructure for the DPO office: consent registry, audit logs, breach notifications, compliance calendar, and staff training records, all in one platform.
 
 [Book a Free Demo](/demo) to see Nexli's compliance management in action.
 
 ---
 
-**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately — it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 **About Yashveer Labs:** Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
 
@@ -74,7 +74,7 @@ Nexli provides the digital infrastructure for the DPO office: consent registry, 
 
 **Q: How much does setting up a DPO office cost?**
 
-A: The cost is staff time — primarily the DPO's hours for policy drafting, training, and system configuration. No separate department or major purchase is required if using a platform like Nexli.
+A: The cost is staff time, primarily the DPO's hours for policy drafting, training, and system configuration. No separate department or major purchase is required if using a platform like Nexli.
 
 **Q: How should the DPO communicate DPDP compliance to parents?**
 

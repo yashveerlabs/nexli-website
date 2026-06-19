@@ -35,7 +35,7 @@ A school salary structure typically includes:
 ### Statutory Deductions
 
 **EPF (Employees' Provident Fund):**
-Applicable to schools with 20 or more employees. Employee contribution: 12% of basic salary. Employer contribution: 12% of basic (split as 3.67% to EPF account, 8.33% to EPS — Employees' Pension Scheme). Schools must register with EPFO, file monthly ECR (Electronic Challan cum Return), and remit by the 15th of the following month.
+Applicable to schools with 20 or more employees. Employee contribution: 12% of basic salary. Employer contribution: 12% of basic (split as 3.67% to EPF account, 8.33% to EPS, Employees' Pension Scheme). Schools must register with EPFO, file monthly ECR (Electronic Challan cum Return), and remit by the 15th of the following month.
 
 **ESI (Employees' State Insurance):**
 Applicable to employees earning up to ₹21,000 gross per month. Employee contribution: 0.75% of gross salary. Employer contribution: 3.25% of gross salary. ESI covers medical benefits for employees and their families. Registration with ESIC is required. Remittance by the 15th of the following month.
@@ -62,7 +62,7 @@ A valid salary slip should show:
 - Statutory deductions (EPF employee, ESI employee, TDS, PT)
 - Voluntary deductions (if any: loan recovery, advance recovery)
 - Net salary (Gross minus Total Deductions)
-- Employer contributions (EPF employer, ESI employer) — shown for information, not deducted from employee
+- Employer contributions (EPF employer, ESI employer), shown for information, not deducted from employee
 - Bank account number for disbursement
 
 Salary slips serve as income proof for loan applications, and staff frequently request them. Digital salary slips that staff can download from the portal reduce administrative burden.

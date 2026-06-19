@@ -19,13 +19,13 @@ branding_block_nexli: 8
 
 ## School Safety Audit: Comprehensive Checklist
 
-**A school safety audit is not optional—it's a legal requirement and a moral imperative. Every principal must know: Are our buildings physically safe? Is our campus secure? Do we have emergency procedures in place? Are staff trained? This comprehensive checklist walks you through every category of safety: physical infrastructure, security protocols, emergency preparedness, medical readiness, and compliance. Use this checklist annually (at minimum) to audit your school, document findings, and close gaps.**
+**A school safety audit is not optional, it's a legal requirement and a moral imperative. Every principal must know: Are our buildings physically safe? Is our campus secure? Do we have emergency procedures in place? Are staff trained? This comprehensive checklist walks you through every category of safety: physical infrastructure, security protocols, emergency preparedness, medical readiness, and compliance. Use this checklist annually (at minimum) to audit your school, document findings, and close gaps.**
 
 ---
 
 ## The Core Problem: Many Schools Have No Idea If They're Safe
 
-Most principals assume their school is safe because no incident has happened. But absence of incident doesn't mean safety—it means you got lucky. A real audit reveals:
+Most principals assume their school is safe because no incident has happened. But absence of incident doesn't mean safety, it means you got lucky. A real audit reveals:
 - Broken fire extinguishers (nobody noticed)
 - Exits blocked by stored materials (nobody checks)
 - Staff untrained in first aid (never budgeted for training)
@@ -278,7 +278,7 @@ Without an audit, you're flying blind.
 
 **Compliance Calendar:** Automated reminders for fire NOC renewal, FSSAI certification, DPDP compliance deadlines.
 
-**Incident Logging:** POCSO cases, medical incidents, accidents—all logged with timestamp, description, response, and follow-up.
+**Incident Logging:** POCSO cases, medical incidents, accidents, all logged with timestamp, description, response, and follow-up.
 
 **Medical Records:** Student health data (allergies, chronic conditions, medications) centralized and accessible to medical staff.
 
@@ -293,10 +293,10 @@ Without an audit, you're flying blind.
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows—no code changes required. The system adapts to the school, not the other way around.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, with no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**  
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails—these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails: these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**  
 Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
@@ -309,7 +309,7 @@ Nexli was designed with a clear principle: data is shared, but permissions are s
 
 ## Closing: Safety is Non-Negotiable
 
-A safety audit is not bureaucracy—it's a lifesaving practice. Conduct it annually. Take findings seriously. Act fast on critical gaps. Communicate openly with parents.
+A safety audit is not bureaucracy, it's a lifesaving practice. Conduct it annually. Take findings seriously. Act fast on critical gaps. Communicate openly with parents.
 
 ---
 

@@ -25,7 +25,7 @@ Non-compliance with ESI and EPF is a significant labour law violation. It create
 
 **Contribution rates:**
 - Employee: 12% of basic salary + dearness allowance
-- Employer: 12% of basic salary + DA (of which, 8.33% goes to EPS — Employees' Pension Scheme, and the rest to EPF account)
+- Employer: 12% of basic salary + DA (of which, 8.33% goes to EPS, Employees' Pension Scheme, and the rest to EPF account)
 
 **Employer obligations:**
 - Register with the Regional Provident Fund Commissioner (RPFC) online at the EPFO unified portal

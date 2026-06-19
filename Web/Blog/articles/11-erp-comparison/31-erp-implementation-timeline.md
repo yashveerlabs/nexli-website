@@ -100,7 +100,7 @@ Each step takes real time. Rushing any step creates problems that take months to
 - Compare outputs (does the new system's attendance match the old register?)
 - Identify and fix discrepancies
 
-**Why this matters:** Parallel running catches bugs and configuration issues before the old system is retired. It is also a safety net — if something goes wrong in the new system, you have the old records.
+**Why this matters:** Parallel running catches bugs and configuration issues before the old system is retired. It is also a safety net, if something goes wrong in the new system, you have the old records.
 
 **Who is involved:** All staff + admin coordinator tracking discrepancies
 
@@ -139,7 +139,7 @@ Each step takes real time. Rushing any step creates problems that take months to
 
 ## How Nexli Approaches Implementation
 
-Nexli's cloud-native architecture reduces technical setup time — no hardware to configure, no server to install. The bulk import tool handles student and staff data with validation and error reporting. Most schools are operationally productive within 2-4 weeks.
+Nexli's cloud-native architecture reduces technical setup time, no hardware to configure, no server to install. The bulk import tool handles student and staff data with validation and error reporting. Most schools are operationally productive within 2-4 weeks.
 
 The demo environment is seeded with 300 students and 300+ staff across realistic workflows, allowing schools to see the system under realistic conditions before they commit to implementation.
 
@@ -165,10 +165,10 @@ A: No. Cloud-based ERP implementation does not require technical IT staff. An or
 ---
 
 **About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety — all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence — bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
-The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools — the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 **How Nexli Helps**
 What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.

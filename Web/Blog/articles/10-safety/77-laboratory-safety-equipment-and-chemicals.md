@@ -15,7 +15,7 @@ branding_block_nexli: 8
 
 # Laboratory Safety: Equipment and Chemicals: Comprehensive Guide
 
-Laboratories are high-risk environments combining chemicals, electrical equipment, and heat sources. Poor safety culture leads to accidents: chemical burns, fires, eye injuries. Strong lab safety protocols—proper storage, training, equipment—prevent tragedies. This guide establishes comprehensive laboratory safety standards.
+Laboratories are high-risk environments combining chemicals, electrical equipment, and heat sources. Poor safety culture leads to accidents: chemical burns, fires, eye injuries. Strong lab safety protocols, proper storage, training, equipment, prevent tragedies. This guide establishes comprehensive laboratory safety standards.
 
 ## Why Laboratory Safety Matters
 

@@ -27,7 +27,7 @@ date: "2026-06-19"
 
 ## Why Transport Needs Its Own Module
 
-Transport is not just a logistical convenience — it is a safety responsibility. If a child does not board the bus in the afternoon, someone needs to know immediately. If a bus is late, parents should receive a proactive notification before they start calling the school. If a bus breaks down mid-route, the transport coordinator needs to arrange a replacement.
+Transport is not just a logistical convenience, it is a safety responsibility. If a child does not board the bus in the afternoon, someone needs to know immediately. If a bus is late, parents should receive a proactive notification before they start calling the school. If a bus breaks down mid-route, the transport coordinator needs to arrange a replacement.
 
 Schools that manage transport through spreadsheets, WhatsApp groups, and driver phone calls have no systematic record, no accountability, and no audit trail when something goes wrong.
 
@@ -106,7 +106,7 @@ Daily bus attendance is separate from classroom attendance. The conductor marks 
 
 Nexli's transport module covers route management, driver and conductor records, vehicle maintenance scheduling, GPS live-tracking via OpenStreetMap, and RFID boarding integration. The transport coordinator sees all buses on a live map. Parents receive alerts when their child boards and alights.
 
-Bus attendance integrates with the main attendance module — a student absent from the bus but present in school is flagged for follow-up.
+Bus attendance integrates with the main attendance module, a student absent from the bus but present in school is flagged for follow-up.
 
 ---
 
@@ -130,10 +130,10 @@ A: Basic route management records the existing routes. Advanced optimization (sh
 ---
 
 **About Yashveer Singh Rajpoot**
-The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli — a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**
-Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project — from Nexli to future platforms — the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 **How Nexli Helps**
 Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents where they actually open messages. Nexli is built for Indian schools, by people who understand Indian schools.

@@ -1,10 +1,10 @@
 ---
 title: "Maharashtra School Regulations"
 slug: "maharashtra-school-regulations"
-meta_description: "Maharashtra School Regulations"
+meta_description: "Maharashtra school regulations and ERP compliance: SSC Board, CBSE, ICSE requirements, RTE obligations, fire NOC, and DPDP Act handled in one platform."
 category: 14
-primary_keyword: "maharashtra"
-secondary_keywords: ["school", "regulations", "implementation", "school"]
+primary_keyword: "Maharashtra school regulations ERP"
+secondary_keywords: ["Maharashtra SSC school compliance", "Maharashtra school ERP", "CBSE ICSE Maharashtra regulations", "school compliance Maharashtra"]
 intent: "buyer-guide"
 author: "Yashveer Labs"
 founder: "Yashveer Singh Rajpoot"
@@ -60,7 +60,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,7 +93,7 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools, different boards, diverse student populations, complex compliance.
 
 **About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
 

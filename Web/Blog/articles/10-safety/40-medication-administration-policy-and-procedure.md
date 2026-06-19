@@ -15,12 +15,12 @@ branding_block_nexli: 8
 
 # Medication Administration Policy and Procedure: Ensuring Safe Drug Delivery
 
-Schools increasingly manage student medications—from insulin for diabetic students to rescue inhalers for asthma. Without clear protocols, medication errors can lead to serious harm and legal liability. This guide provides a comprehensive framework for safe medication administration in Indian schools.
+Schools increasingly manage student medications, from insulin for diabetic students to rescue inhalers for asthma. Without clear protocols, medication errors can lead to serious harm and legal liability. This guide provides a comprehensive framework for safe medication administration in Indian schools.
 
 ## Why Medication Policies Matter
 
 **The Error Risk**
-Wrong medication, wrong dose, wrong student—these errors happen quickly in busy school environments. The Institute of Safe Medication Practices reports that even "simple" medication errors (administering a dose to the wrong child) carry significant risk. In India, schools are legally responsible for student welfare during school hours.
+Wrong medication, wrong dose, wrong student, these errors happen quickly in busy school environments. The Institute of Safe Medication Practices reports that even "simple" medication errors (administering a dose to the wrong child) carry significant risk. In India, schools are legally responsible for student welfare during school hours.
 
 **Legal Liability**
 Schools are non-medical facilities. If medication is administered and causes harm, the school can face civil suits claiming negligence. RTE Act and CBSE standards require schools to implement safeguards, not just ad-hoc practices.
@@ -200,10 +200,10 @@ Medical review confirmed the correct inhaler was given and inhaler technique was
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows — no code changes required. The system adapts to the school, not the other way around.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**  
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails — these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**  
 Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.

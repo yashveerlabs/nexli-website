@@ -257,10 +257,10 @@ This creates risk: delays, overcrowding, driver misconduct, accidents, and stude
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows—no code changes required. The system adapts to the school, not the other way around.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, with no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**  
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails—these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails: these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**  
 Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
@@ -292,7 +292,7 @@ A: Ranges ₹500–2000/month depending on distance and vehicle. Typically, tran
 A: Initial training at hire (8–16 hours). Refresher training annually (4 hours minimum). Additional training after any safety incident or complaint.
 
 **Q5: Should GPS be mandatory or optional for parents?**  
-A: Optional. Collect consent. Provide incentive (reduced fee if you opt in to tracking—school saves on lost-student risk). Respects privacy while encouraging uptake.
+A: Optional. Collect consent. Provide incentive (reduced fee if you opt in to tracking, school saves on lost-student risk). Respects privacy while encouraging uptake.
 
 **Q6: What should we do if a driver is found drunk/impaired?**  
 A: Immediate suspension pending investigation. If confirmed: termination. Report to police if injury occurred. No tolerance for substance impairment while driving.

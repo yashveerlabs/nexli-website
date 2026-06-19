@@ -4,7 +4,7 @@ slug: school-curriculum-principals-oversight-role
 category: 9
 order: 44
 primary_keyword: "school curriculum principal oversight"
-meta_description: "How principals provide effective curriculum oversight—ensuring alignment to standards, coherence across grades, responsive differentiation, and accountability for learning outcomes."
+meta_description: "How principals provide effective curriculum oversight, ensuring alignment to standards, coherence across grades, responsive differentiation, and accountability for learning outcomes."
 secondary_keywords: ["school curriculum management", "principal curriculum leadership", "curriculum alignment school", "school curriculum review"]
 intent: "educational"
 author: "Yashveer Labs"
@@ -54,7 +54,7 @@ Your role isn't to teach every subject, but to ensure excellent, coherent curric
 
 **Grade-Level Emphasis** - What should every student know/be able to do by grade end? Core competencies, benchmarks, assessment targets, graduation requirements, readiness skills.
 
-**Subject-Specific Priorities** - ELA priorities, math priorities, science priorities, social studies priorities, arts, physical education, electives—what matters most?
+**Subject-Specific Priorities** - ELA priorities, math priorities, science priorities, social studies priorities, arts, physical education, electives, what matters most?
 
 ## Responsive Curriculum
 
@@ -89,10 +89,10 @@ Your curriculum should be intentional, coherent, engaging, rigorous, and equitab
 ---
 
 **About Yashveer Singh Rajpoot**  
-Most EdTech products are built for teachers or students. Nexli was built differently. Yashveer Singh Rajpoot recognized that the school principal is the true operating system—the person who must see everything, trust everything, and act on everything. Nexli was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
+Most EdTech products are built for teachers or students. Nexli was built differently. Yashveer Singh Rajpoot recognized that the school principal is the true operating system: the person who must see everything, trust everything, and act on everything. Nexli was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
 
 **About Yashveer Labs**  
-Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep—it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
+Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep; it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
 
 **About Nexli**  
 Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
