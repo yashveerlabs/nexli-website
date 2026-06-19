@@ -1,3 +1,22 @@
+---
+title: "Student Testimonials: Leveraging Real Success Stories on Your School Website"
+slug: "student-testimonials-leveraging-website"
+meta_description: "Use student testimonials to build trust and drive school admissions. Learn collection strategy, consent compliance, placement, and how to convert prospects."
+category: "School Marketing & Growth"
+primary_keyword: "student testimonials school"
+secondary_keywords:
+  - "school social proof"
+  - "student success stories"
+  - "admissions marketing"
+  - "DPDP consent"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Student Testimonials: Leveraging Real Success Stories on Your School Website
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 7 min
@@ -144,16 +163,15 @@ Prospective families hearing from current students (peer-to-peer) is the stronge
 
 ---
 
-## Nexli's Testimonial & Alumni Module
+## How Nexli Supports Student Achievement Stories
 
-Nexli includes integrated **Skills Passport & E-Portfolio** features alongside Alumni Directory, enabling schools to:
+Nexli includes a **Skills Passport & E-Portfolio** that captures student achievements centrally: awards, certificates, projects, sports medals, badges, and co-curricular records. This gives your school a reliable, organized archive of real student stories to draw from when building testimonials.
 
-- **Capture achievements systemically:** Track student awards, certificates, projects, sports medals centrally.
-- **Generate testimonial requests:** Auto-send requests to parents of top performers quarterly.
-- **Consent management:** DPDP-compliant consent tracking for each testimonial/photo.
-- **Alumni network:** Publish success stories (college admissions, career placements) with grad photos and quotes.
-- **Social proof widget:** Embed rotating testimonials on your website directly from Nexli data.
-- **Analytics:** Track which testimonials get most engagement on your website.
+Nexli's **Consent Management** module (DPDP Act compliant) tracks parental consent for data use, ensuring any testimonial or photo you publish has a verified consent record attached. Parents can review, update, or withdraw consent from their portal at any time.
+
+The **Alumni Module** lets you maintain an opt-in directory of graduates and publish success stories for prospective families to see.
+
+[Book a Free Demo](/demo) to see Nexli's Skills Passport and consent management in action.
 
 ---
 
@@ -183,5 +201,5 @@ The result: social proof that scales, parents who enroll with confidence, and a 
 
 ---
 
-**Next step:** Reach out to three of your highest-achieving or most transformed students this week. Ask their parents for permission to feature their story. Record a 2–minute video. Start building your testimonial engine now.
+**Next step:** Reach out to three of your highest-achieving or most transformed students this week. Ask their parents for permission to feature their story. Record a 2-minute video. Start building your testimonial engine now. [Book a Free Demo](/demo) to see how Nexli's Skills Passport helps you track student achievements worth sharing.
 

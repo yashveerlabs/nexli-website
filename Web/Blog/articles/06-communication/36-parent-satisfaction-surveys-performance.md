@@ -32,7 +32,7 @@ Regular satisfaction surveys gauge parent perception across academics, safety, c
 - **Clarity:** Use simple language, avoid jargon, explain acronyms and technical terms
 - **Timeliness:** Send information when needed, not too early (forgotten) or too late (ineffective)
 - **Consistency:** Regular, predictable communication builds trust and expectation
-- **Multi-Channel:** Reach parents where they are—email, WhatsApp, SMS, parent portal, printed materials
+- **Multi-Channel:** Reach parents where they are: email, WhatsApp, SMS, parent portal, printed materials
 - **Accountability:** Ensure communication is documented and trackable
 
 ### Specific Implementation Steps
@@ -40,7 +40,7 @@ Regular satisfaction surveys gauge parent perception across academics, safety, c
 2. Define message types (urgent, routine, feedback-seeking, celebratory)
 3. Assign owners for each channel and establish response protocols
 4. Create templates for common messages to ensure consistency
-5. Establish feedback loops—measure what's working and adjust
+5. Establish feedback loops: measure what's working and adjust
 
 ### Overcoming Common Challenges
 - **Language Barriers:** Partner with community members for translation; use visual communication
@@ -52,13 +52,15 @@ Regular satisfaction surveys gauge parent perception across academics, safety, c
 
 Nexli's Communication Module centralizes school communication:
 - **Unified Messaging Hub:** Create announcements once and deliver via SMS, WhatsApp, email, app, and parent portal simultaneously
-- **Targeted Delivery:** Direct messages by class, grade, role, or custom groups—not broadcast to everyone
+- **Targeted Delivery:** Direct messages by class, grade, role, or custom groups, not broadcast to everyone
 - **Template Library:** Pre-built templates for common messages (fee reminders, exam schedules, holiday notices) ensure consistency and save time
 - **Delivery Confirmation:** Real-time tracking shows which messages were delivered and read
 - **Parent Portal Archive:** All announcements are permanently available for reference and compliance proof
 - **Compliance Audit Trail:** Every communication is logged with recipient lists and timestamps for regulatory verification
 
 Schools using Nexli report 40% reduction in parent "I didn't know" complaints and 60% faster communication setup compared to manual processes.
+
+[Book a Free Demo](/demo)
 
 ---
 

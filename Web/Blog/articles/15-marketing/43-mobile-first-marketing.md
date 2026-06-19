@@ -1,3 +1,22 @@
+---
+title: "Mobile-First Marketing: Reaching Parents on Their Phones"
+slug: "mobile-first-marketing-schools"
+meta_description: "Reach parents on mobile with optimized school marketing. Learn mobile website design, mobile ads, WhatsApp marketing, and mobile-first content strategy."
+category: "School Marketing & Growth"
+primary_keyword: "mobile marketing schools"
+secondary_keywords:
+  - "mobile website school"
+  - "school WhatsApp marketing"
+  - "mobile ads schools"
+  - "school mobile strategy"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Mobile-First Marketing: Reaching Parents on Their Phones
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -105,5 +124,5 @@ Test everything on mobile:
 
 ---
 
-**Next step:** Test your website on an iPhone. List mobile issues. Fix top 3 issues this week.
+**Next step:** Test your website on an iPhone. List mobile issues. Fix top 3 issues this week. [Book a Free Demo](/demo) to see how Nexli's Parent Portal delivers a mobile-optimized experience across all 118+ roles, verified on 412px screens.
 

@@ -90,9 +90,9 @@ These three statements form the foundation of your brand and strategic direction
 
 ---
 
-## Branding Block
+## How Nexli Supports Your School's Mission
 
-Nexli helps communicate mission/vision through digital platforms and newsletters.
+Nexli's Circulars and Announcements module gives your school a consistent voice across every communication channel, reinforcing your mission and values in every parent interaction. [Book a Free Demo](/demo) to see how Nexli supports school communication.
 
 ---
 

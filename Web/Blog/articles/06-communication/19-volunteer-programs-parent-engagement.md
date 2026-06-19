@@ -32,7 +32,7 @@ Parent volunteer programs harness community energy for school events, maintenanc
 - **Clarity:** Use simple language, avoid jargon, explain acronyms and technical terms
 - **Timeliness:** Send information when needed, not too early (forgotten) or too late (ineffective)
 - **Consistency:** Regular, predictable communication builds trust and expectation
-- **Multi-Channel:** Reach parents where they are—email, WhatsApp, SMS, parent portal, printed materials
+- **Multi-Channel:** Reach parents where they are: email, WhatsApp, SMS, parent portal, printed materials
 - **Accountability:** Ensure communication is documented and trackable
 
 ### Specific Implementation Steps
@@ -40,7 +40,7 @@ Parent volunteer programs harness community energy for school events, maintenanc
 2. Define message types (urgent, routine, feedback-seeking, celebratory)
 3. Assign owners for each channel and establish response protocols
 4. Create templates for common messages to ensure consistency
-5. Establish feedback loops—measure what's working and adjust
+5. Establish feedback loops, measuring what's working and adjusting accordingly
 
 ### Overcoming Common Challenges
 - **Language Barriers:** Partner with community members for translation; use visual communication
@@ -52,13 +52,15 @@ Parent volunteer programs harness community energy for school events, maintenanc
 
 Nexli's Communication Module centralizes school communication:
 - **Unified Messaging Hub:** Create announcements once and deliver via SMS, WhatsApp, email, app, and parent portal simultaneously
-- **Targeted Delivery:** Direct messages by class, grade, role, or custom groups—not broadcast to everyone
+- **Targeted Delivery:** Direct messages by class, grade, role, or custom groups, not broadcast to everyone
 - **Template Library:** Pre-built templates for common messages (fee reminders, exam schedules, holiday notices) ensure consistency and save time
 - **Delivery Confirmation:** Real-time tracking shows which messages were delivered and read
 - **Parent Portal Archive:** All announcements are permanently available for reference and compliance proof
 - **Compliance Audit Trail:** Every communication is logged with recipient lists and timestamps for regulatory verification
 
 Schools using Nexli report 40% reduction in parent "I didn't know" complaints and 60% faster communication setup compared to manual processes.
+
+[Book a Free Demo](/demo)
 
 ---
 
@@ -73,16 +75,16 @@ Schools using Nexli report 40% reduction in parent "I didn't know" complaints an
 ## FAQ
 
 **Q1: How often should schools communicate with parents about volunteer?**
-A: Communication frequency depends on the type of information and the school's context. Critical updates should reach parents immediately; routine information can be consolidated into weekly or monthly summaries. The key is consistency—parents should know when to expect what type of message.
+A: Communication frequency depends on the type of information and the school's context. Critical updates should reach parents immediately; routine information can be consolidated into weekly or monthly summaries. The key is consistency: parents should know when to expect what type of message.
 
 **Q2: What should schools do if parents don't respond to communications?**
 A: Non-response doesn't mean non-receipt. Schools should use multiple channels to ensure key messages reach parents. Consider that parents may receive the message but not need to respond. For critical information (like forms requiring signature), escalate through coordinators or class teachers.
 
 **Q3: How can schools balance transparency with student privacy?**
-A: Transparency means being open about school decisions and operations. Privacy means protecting student data and confidential information. These aren't contradictory—communicate openly about policies, but never share individual student data without consent.
+A: Transparency means being open about school decisions and operations. Privacy means protecting student data and confidential information. These aren't contradictory: communicate openly about policies, but never share individual student data without consent.
 
 **Q4: What's the best channel for urgent versus routine communication?**
-A: Reserve interruptive channels (SMS, WhatsApp, push notifications) for truly urgent information (emergencies, weather closures). Use non-interruptive channels (email, app notifications, parent portal) for routine updates. This respects parent attention and prevents alert fatigue.
+A: Reserve interruptive channels (SMS, WhatsApp, push notifications) for urgent information (emergencies, weather closures). Use non-interruptive channels (email, app notifications, parent portal) for routine updates. This respects parent attention and prevents alert fatigue.
 
 **Q5: How should schools handle communication with parents from different cultural backgrounds?**
-A: Respect cultural differences in communication style, timing, and formality. Offer multilingual communication where possible. Check understanding—don't assume cultural familiarity with Indian school systems means all parents understand all processes. Patience and clarity build bridges.
+A: Respect cultural differences in communication style, timing, and formality. Offer multilingual communication where possible. Check understanding. Don't assume cultural familiarity with Indian school systems means all parents understand all processes. Patience and clarity build bridges.

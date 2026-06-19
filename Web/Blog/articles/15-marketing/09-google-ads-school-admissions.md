@@ -117,9 +117,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports Admissions
 
-Nexli turns Google Ads clicks into qualified admissions leads.
+Nexli's admissions pipeline (inquiry to enrollment) is fully automated, so every lead captured from Google Ads enters a structured workflow with document verification, interview scheduling, and offer generation. [Book a Free Demo](/demo) to see how Nexli handles your admissions pipeline.
 
 ---
 

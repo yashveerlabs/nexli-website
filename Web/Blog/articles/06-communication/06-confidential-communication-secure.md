@@ -15,7 +15,7 @@ branding_block_nexli: 7
 
 ## Why Confidential Communication Requires Special Handling
 
-Schools frequently need to communicate sensitive information to parents: disciplinary action, medical concerns, financial hardship, learning disabilities, or behavioral issues. These conversations require secure channels, careful documentation, and strict confidentiality. A single breach — a sensitive email forwarded to others, a WhatsApp screenshot shared widely — can damage a student's reputation, violate privacy laws, and create legal liability.
+Schools frequently need to communicate sensitive information to parents: disciplinary action, medical concerns, financial hardship, learning disabilities, or behavioral issues. These conversations require secure channels, careful documentation, and strict confidentiality. A single breach, such as a sensitive email forwarded to others or a WhatsApp screenshot shared widely, can damage a student's reputation, violate privacy laws, and create legal liability.
 
 Schools that handle confidential communication thoughtfully build parent trust. Those that don't face complaints, regulatory exposure, and reputational damage.
 
@@ -207,7 +207,7 @@ Nexli takes the burden of confidential communication management off teachers and
 
 Confidential communication is not a nice-to-have; it's a legal and ethical requirement. Build a culture where sensitive information is protected, and your school earns parent trust that lasts.
 
-**Ready to implement confidential communication protocols?** Explore Nexli's secure communication features and see how your school can handle sensitive topics safely.
+**Ready to implement confidential communication protocols?** Explore Nexli's secure communication features and see how your school can handle sensitive topics safely. [Book a Free Demo](/demo)
 
 ---
 

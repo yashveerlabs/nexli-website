@@ -109,9 +109,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports School Communication
 
-Nexli's email integration makes newsletters easy to create and send.
+Nexli's Circulars and Announcements module lets staff publish targeted updates to parents by class, grade, or custom group, with delivery via SMS, WhatsApp, and the parent app. [Book a Free Demo](/demo) to see Nexli's communication tools in action.
 
 ---
 

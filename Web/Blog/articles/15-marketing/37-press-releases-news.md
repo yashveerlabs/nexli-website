@@ -1,3 +1,22 @@
+---
+title: "Press Release: Getting Your School in the News"
+slug: "press-releases-news-schools"
+meta_description: "Get your school featured in the news with effective press releases. Learn how to write newsworthy content, target journalists, and build media relationships."
+category: "School Marketing & Growth"
+primary_keyword: "school press release"
+secondary_keywords:
+  - "school media coverage"
+  - "school PR strategy"
+  - "school news"
+  - "school public relations"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Press Release: Getting Your School in the News
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -61,5 +80,5 @@ Press releases turn achievements into news. News turns news into credibility. Cr
 
 ---
 
-**Next step:** Identify one newsworthy story. Write a press release this week.
+**Next step:** Identify one newsworthy story. Write a press release this week. [Book a Free Demo](/demo) to see how Nexli's exam rankings, attendance data, and compliance certifications give your school real stories worth covering.
 

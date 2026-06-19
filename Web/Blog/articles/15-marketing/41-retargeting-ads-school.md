@@ -1,3 +1,22 @@
+---
+title: "Retargeting Ads: Following Up With Interested Families"
+slug: "retargeting-ads-school"
+meta_description: "Use retargeting ads to re-engage parents who visited your school website. Learn pixel setup, audience segments, ad creative, and budget allocation for schools."
+category: "School Marketing & Growth"
+primary_keyword: "retargeting ads school"
+secondary_keywords:
+  - "school remarketing"
+  - "parent retargeting"
+  - "school Facebook retargeting"
+  - "admissions follow-up ads"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Retargeting Ads: Following Up With Interested Families
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -92,5 +111,5 @@ Retargeting is your highest-ROI paid channel. Follow up with interested people w
 
 ---
 
-**Next step:** Set up tracking pixel this week. Create your first retargeting campaign.
+**Next step:** Set up tracking pixel this week. Create your first retargeting campaign. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline manages leads who return to your website from retargeting ads.
 

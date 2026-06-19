@@ -1,3 +1,22 @@
+---
+title: "Leveraging Social Proof: Turning Parents Into Brand Advocates"
+slug: "social-proof-leveraging-testimonials"
+meta_description: "Use social proof to convert hesitant parents into enrolled families. Learn how to collect testimonials, display reviews, and build advocacy programs."
+category: "School Marketing & Growth"
+primary_keyword: "school social proof"
+secondary_keywords:
+  - "parent testimonials"
+  - "school reviews"
+  - "brand advocates"
+  - "admissions trust"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Leveraging Social Proof: Turning Parents Into Brand Advocates
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -70,5 +89,5 @@ Social proof is free marketing. Collect it systematically. Display prominently. 
 
 ---
 
-**Next step:** Email 30 satisfied parents asking for testimonials. Record 3 video testimonials this week.
+**Next step:** Email 30 satisfied parents asking for testimonials. Record 3 video testimonials this week. [Book a Free Demo](/demo) to see how Nexli's Parent Portal and consent management support your school's social proof strategy.
 

@@ -88,9 +88,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports School Authority
 
-Nexli's blog platform amplifies school authority and drives enrollment.
+Nexli gives your school real data to write about: CBSE report cards, attendance trends, exam rankings, and compliance milestones. Real outcomes make compelling blog content. [Book a Free Demo](/demo) to see Nexli's analytics and reporting features.
 
 ---
 

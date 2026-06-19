@@ -1,3 +1,22 @@
+---
+title: "Building YouTube Presence: Long-Form Video Strategy"
+slug: "youtube-channel-building-schools"
+meta_description: "Build a YouTube channel for your school that drives admissions and community. Learn content strategy, optimization, consistency, and growth tactics."
+category: "School Marketing & Growth"
+primary_keyword: "school YouTube presence"
+secondary_keywords:
+  - "school YouTube channel"
+  - "school video strategy"
+  - "YouTube school content"
+  - "school long form video"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Building YouTube Presence: Long-Form Video Strategy
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -91,5 +110,5 @@ YouTube is long-term investment. Publish consistently for 1 year. By year 2, you
 
 ---
 
-**Next step:** Create channel this week. Upload first video by end of month.
+**Next step:** Create channel this week. Upload first video by end of month. [Book a Free Demo](/demo) to see how Nexli's Skills Passport and exam rankings provide authentic school achievements to feature in your YouTube content.
 

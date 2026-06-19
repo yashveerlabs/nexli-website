@@ -91,9 +91,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports Differentiation
 
-Nexli helps communicate your differentiation through data and transparency.
+Nexli provides the proof points your positioning needs: real-time exam rankings, attendance reports, NEP 2020 Holistic Progress Cards, and compliance documentation that competitors without proper systems cannot match. [Book a Free Demo](/demo) to see Nexli's reporting capabilities.
 
 ---
 

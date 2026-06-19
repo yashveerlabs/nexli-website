@@ -1,3 +1,22 @@
+---
+title: "Teacher Spotlight: Building Employee Brand Through Staff Stories"
+slug: "teacher-spotlight-employee-brand"
+meta_description: "Use teacher spotlights to build your school's employer brand and attract parents. Learn how to showcase staff expertise and humanize your school's identity."
+category: "School Marketing & Growth"
+primary_keyword: "teacher spotlight school"
+secondary_keywords:
+  - "school employer brand"
+  - "staff stories marketing"
+  - "school culture content"
+  - "teacher marketing"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Teacher Spotlight: Building Employee Brand Through Staff Stories
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -80,5 +99,5 @@ Teachers are your school. Celebrate them publicly. Prospective families connect 
 
 ---
 
-**Next step:** Select your top 3 teachers. Interview them this week. Share their stories on social media.
+**Next step:** Select your top 3 teachers. Interview them this week. Share their stories on social media. [Book a Free Demo](/demo) to see how Nexli's Staff Profiles and Lesson Plan module give teachers the tools that make their expertise visible.
 

@@ -1,3 +1,22 @@
+---
+title: "User-Generated Content: Parents as Content Creators"
+slug: "user-generated-content-schools"
+meta_description: "Turn parents into content creators for your school. Learn how to encourage user-generated content, manage permissions, and build authentic social proof."
+category: "School Marketing & Growth"
+primary_keyword: "user generated content school"
+secondary_keywords:
+  - "parent content creation"
+  - "school UGC strategy"
+  - "parent social media school"
+  - "school community content"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # User-Generated Content: Parents as Content Creators
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -83,5 +102,5 @@ User-generated content is authentic, free, and more credible than brand marketin
 
 ---
 
-**Next step:** Create a school hashtag this week. Post it everywhere. Ask parents to use it.
+**Next step:** Create a school hashtag this week. Post it everywhere. Ask parents to use it. [Book a Free Demo](/demo) to see how Nexli's Parent Portal keeps families engaged, creating the positive experiences that inspire user-generated content.
 

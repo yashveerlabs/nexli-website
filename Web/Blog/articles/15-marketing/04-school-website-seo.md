@@ -160,9 +160,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports Your School Online
 
-Nexli's built-in SEO tools help your school get found online.
+Nexli's admissions pipeline captures leads from your website and converts them into structured application records, while your Parent Portal and announcements keep current families engaged. [Book a Free Demo](/demo) to see Nexli's admissions and communication tools.
 
 ---
 

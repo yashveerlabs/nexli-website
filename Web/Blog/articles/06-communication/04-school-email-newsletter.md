@@ -124,19 +124,19 @@ Schools that develop a consistent, valuable email newsletter build stronger pare
 ## Email Templates to Adopt
 
 **Weekly Newsletter:**
-- Subject: "[School Name] Weekly Update — [Date]"
+- Subject: "[School Name] Weekly Update - [Date]"
 - Include top story, 2-3 key updates, and one call to action.
 
 **Event Reminder:**
-- Subject: "Reminder: PTM on [Date] — Reserve Your Slot"
+- Subject: "Reminder: PTM on [Date] - Reserve Your Slot"
 - Include date, time, how to RSVP, and link to portal.
 
 **Fee Reminder:**
-- Subject: "Fee Due on [Date] — Pay Now via Parent Portal"
+- Subject: "Fee Due on [Date] - Pay Now via Parent Portal"
 - Include amount, due date, payment link, and contact for questions.
 
 **Academic Update:**
-- Subject: "Exam Schedule Released — Check Your Child's Timetable"
+- Subject: "Exam Schedule Released - Check Your Child's Timetable"
 - Include link to parent portal; avoid sharing exam schedule details in email.
 
 ## How Nexli Solves Email Communication
@@ -169,7 +169,7 @@ Nexli transforms school email from ad-hoc updates into a strategic communication
 
 Email newsletters are not optional for modern schools. Start with a clear content strategy, consistent schedule, and mobile-friendly design. Then automate the process so it requires minimal staff effort.
 
-**Ready to build a parent-engaging email newsletter?** Explore how Nexli's email communication tools help schools communicate consistently and compliantly.
+**Ready to build a parent-engaging email newsletter?** Explore how Nexli's email communication tools help schools communicate consistently and compliantly. [Book a Free Demo](/demo)
 
 ---
 
@@ -179,7 +179,7 @@ Email newsletters are not optional for modern schools. Start with a clear conten
 A: 1-2 emails per week is ideal (e.g., one school-wide newsletter + one class-specific update). More than 2-3 per week causes unsubscribes. Quality over quantity.
 
 **Q2: What should be the subject line of a school email?**
-A: Make it specific and action-oriented. NOT "Important Update". TRY "Exam Schedule Out — View Dates in Parent Portal". Good subject lines have a 40%+ open rate; vague ones have 15%.
+A: Make it specific and action-oriented. NOT "Important Update". TRY "Exam Schedule Out - View Dates in Parent Portal". Good subject lines have a 40%+ open rate; vague ones have 15%.
 
 **Q3: Can schools send promotional emails to parents?**
 A: Only with explicit consent (separate from transactional consent). If parents agreed to "receive school updates," that's transactional. Promotional emails (e.g., "Join our summer camp") require separate consent.

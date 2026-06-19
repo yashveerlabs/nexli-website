@@ -1,3 +1,22 @@
+---
+title: "Local SEO for Schools: Google Business Profile Optimization"
+slug: "local-seo-schools-google-business"
+meta_description: "Optimize your school for local SEO and Google Business Profile. Learn how to rank in 'schools near me' searches and convert local searches into admissions inquiries."
+category: "School Marketing & Growth"
+primary_keyword: "local SEO schools"
+secondary_keywords:
+  - "Google Business Profile school"
+  - "school Google ranking"
+  - "local search schools"
+  - "school near me"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Local SEO for Schools: Google Business Profile Optimization
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 6 min
@@ -198,13 +217,13 @@ Use Google Search Console (free):
 
 ---
 
-## Nexli's Local SEO Integration
+## How Nexli Supports Your Local Presence
 
-Nexli enables:
+Nexli's **admissions pipeline** ensures every inquiry that arrives from your Google Business Profile or local search enters a structured follow-up workflow. No lead from a parent clicking "Call" on your Google listing gets lost.
 
-- **Review widget:** Embed reviews on your website
-- **Google Profile sync:** Keep info updated from one place
-- **Analytics:** See which reviews drive inquiries
+Nexli's **Parent Portal** gives enrolled families a direct, reliable communication channel that reinforces your school's digital presence and builds the reputation that drives local reviews.
+
+[Book a Free Demo](/demo) to see how Nexli handles leads from your local search presence.
 
 ---
 
@@ -232,5 +251,5 @@ Start today. Create your profile. Add photos. Collect reviews. Respond. Measure.
 
 ---
 
-**Next step:** Check if you have a Google Business Profile. If not, create one today. If yes, add 5 new photos this week.
+**Next step:** Check if you have a Google Business Profile. If not, create one today. If yes, add 5 new photos this week. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline handles every inquiry that arrives from your local search presence.
 

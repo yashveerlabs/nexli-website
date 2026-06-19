@@ -127,9 +127,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports School Reputation
 
-Nexli helps schools build lasting reputation through transparent, consistent communication and data-backed outcomes.
+Nexli helps schools build reputation through transparent, consistent communication and data-backed outcomes. Your Principal dashboard shows real metrics that prove your school's performance to parents and stakeholders. [Book a Free Demo](/demo) to see how Nexli supports school transparency.
 
 ---
 

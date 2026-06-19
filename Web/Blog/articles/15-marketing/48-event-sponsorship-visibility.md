@@ -1,3 +1,22 @@
+---
+title: "Event Sponsorship: Building Brand Visibility Locally"
+slug: "event-sponsorship-visibility"
+meta_description: "Build school visibility through local event sponsorship. Learn how to select events, negotiate sponsorship packages, and measure brand awareness impact."
+category: "School Marketing & Growth"
+primary_keyword: "school event sponsorship"
+secondary_keywords:
+  - "school brand visibility"
+  - "local sponsorship school"
+  - "school community marketing"
+  - "school local advertising"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Event Sponsorship: Building Brand Visibility Locally
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -95,5 +114,5 @@ Event sponsorships position your school as community leader and generate qualifi
 
 ---
 
-**Next step:** Identify one upcoming local event. Sponsor it.
+**Next step:** Identify one upcoming local event. Sponsor it. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline captures leads you meet at sponsored events and converts them to enrolled students.
 

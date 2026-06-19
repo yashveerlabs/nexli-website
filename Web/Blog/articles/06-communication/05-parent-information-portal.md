@@ -212,7 +212,7 @@ Nexli's parent portal is built from the ground up for parent engagement:
 
 - **Report Card Export:** Parents download and share report cards as PDFs.
 
-- **Two-Way Communication:** Parents submit forms, update emergency contact, request fee concessions — all via the portal.
+- **Two-Way Communication:** Parents submit forms, update emergency contact, and request fee concessions all via the portal.
 
 - **Notification Preferences:** Parents choose which channels they want (SMS, email, app) for different types of alerts.
 
@@ -226,7 +226,7 @@ Nexli eliminates the need to maintain a separate parent portal. The platform int
 
 A parent portal transforms school communication from reactive (parents calling with questions) to proactive (parents checking the portal for information). The right portal makes parents feel engaged and informed.
 
-**Ready to launch a parent information portal?** Explore Nexli's parent portal and see how your school can engage parents better while reducing staff workload.
+**Ready to launch a parent information portal?** Explore Nexli's parent portal and see how your school can engage parents better while reducing staff workload. [Book a Free Demo](/demo)
 
 ---
 

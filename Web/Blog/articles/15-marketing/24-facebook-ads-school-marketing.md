@@ -1,3 +1,22 @@
+---
+title: "Facebook Ads for School Marketing: Reaching Parents Where They Are"
+slug: "facebook-ads-school-marketing"
+meta_description: "Use Facebook Ads to reach parents and drive school admissions. Learn audience targeting, ad formats, budget optimization, and ROI measurement for schools."
+category: "School Marketing & Growth"
+primary_keyword: "Facebook Ads schools"
+secondary_keywords:
+  - "school social media advertising"
+  - "parent targeting Facebook"
+  - "school admissions ads"
+  - "Facebook marketing education"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Facebook Ads for School Marketing: Reaching Parents Where They Are
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 6 min
@@ -167,13 +186,11 @@ Know the cost per result:
 
 ---
 
-## Nexli's Facebook Integration
+## How Nexli Supports Your Admissions Pipeline
 
-Nexli integrates with Facebook for:
+Nexli's admissions pipeline converts Facebook Ad leads into structured enrollment records. Once a parent submits an inquiry, Nexli tracks them through document verification, testing, interview, offer, and enrollment. Your admissions team works from one dashboard, not scattered WhatsApp messages and email threads.
 
-- **Lead capture:** Admissions forms pre-filled from Facebook lead forms
-- **Pixel tracking:** Automatic conversion tracking when someone applies
-- **Audience sync:** Automatically sync your enrolled families to exclude from ad targeting
+[Book a Free Demo](/demo) to see how Nexli manages your admissions pipeline from first inquiry to enrolled student.
 
 ---
 
@@ -201,5 +218,5 @@ Start small ($20/day). Test. Measure. Scale what works. Within 3 months, Faceboo
 
 ---
 
-**Next step:** Set up Facebook Ads account this week. Install pixel. Create one test campaign for $10/day. Measure results.
+**Next step:** Set up Facebook Ads account this week. Install pixel. Create one test campaign for $10/day. Measure results. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline manages leads from Facebook Ads through to enrollment.
 

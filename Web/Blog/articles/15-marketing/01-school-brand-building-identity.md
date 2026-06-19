@@ -109,9 +109,9 @@ Your brand is the feeling and expectation parents have when they hear your schoo
 
 ---
 
-## Branding Block
+## How Nexli Supports Brand Building
 
-Nexli helps schools communicate their brand through modern, reliable systems. Real data, real results, real reputation.
+Nexli helps schools communicate their brand through modern, reliable systems. Real data, real results, real reputation. [Book a Free Demo](/demo) to see how Nexli can strengthen your school's reputation and communication.
 
 ---
 

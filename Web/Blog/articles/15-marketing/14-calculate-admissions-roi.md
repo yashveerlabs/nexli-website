@@ -126,9 +126,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports Admissions Analytics
 
-Nexli's admissions analytics help you optimize marketing ROI.
+Nexli's admissions pipeline tracks every lead from inquiry through enrollment, letting you calculate cost per acquisition and conversion rates by stage. [Book a Free Demo](/demo) to see how Nexli tracks your admissions funnel.
 
 ---
 

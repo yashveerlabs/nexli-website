@@ -183,7 +183,7 @@ Nexli makes PTM feel organized and professional. Parents book slots in seconds; 
 
 PTM is not a necessary evil; it's an opportunity to strengthen parent-teacher partnerships. With proper planning and technology support, PTM can be productive and satisfying for everyone involved.
 
-**Ready to transform your PTM experience?** Explore Nexli's PTM management features and see how your school can hold better parent-teacher meetings.
+**Ready to transform your PTM experience?** Explore Nexli's PTM management features and see how your school can hold better parent-teacher meetings. [Book a Free Demo](/demo)
 
 ---
 

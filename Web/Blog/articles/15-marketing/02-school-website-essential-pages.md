@@ -171,9 +171,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports Your Website
 
-Nexli's parent portal turns your website into a dynamic, engaging resource.
+Nexli's Parent Portal turns your website into a dynamic, engaging resource where parents access real-time attendance, fees, homework, and announcements. [Book a Free Demo](/demo) to see Nexli's parent portal in action.
 
 ---
 

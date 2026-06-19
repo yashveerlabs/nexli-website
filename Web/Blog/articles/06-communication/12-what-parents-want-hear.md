@@ -191,7 +191,7 @@ Nexli shifts communication focus from "telling parents what to do" to "showing p
 
 Stop sending generic logistics and start sending what parents actually want: evidence of their child's progress, specific support strategies, and genuine partnership. The right communication builds parent loyalty and improves student outcomes.
 
-**Ready to transform your school's communication?** Explore Nexli's parent communication features and see how your school can send messages parents actually want to hear.
+**Ready to transform your school's communication?** Explore Nexli's parent communication features and see how your school can send messages parents actually want to hear. [Book a Free Demo](/demo)
 
 ---
 

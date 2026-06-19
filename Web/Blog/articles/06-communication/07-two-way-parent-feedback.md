@@ -25,7 +25,7 @@ Schools that actively solicit parent feedback and respond thoughtfully build str
 
 **Missed Red Flags:** A parent notices bullying before teachers do. If there's no feedback channel, the parent goes silent, and bullying continues until it escalates.
 
-**Teacher Burnout:** Teachers don't know what parents think. Without feedback, they assume everything is fine — then a parent suddenly switches schools, citing poor teaching (feedback that could have been addressed earlier).
+**Teacher Burnout:** Teachers don't know what parents think. Without feedback, they assume everything is fine. Then a parent suddenly switches schools, citing poor teaching (feedback that could have been addressed earlier).
 
 **Operational Blind Spots:** Parents notice that exam schedules conflict with other schools' exams, or that the new fee structure is unclear, but if there's no feedback channel, the school repeats the same mistakes year after year.
 
@@ -178,7 +178,7 @@ Nexli turns parent feedback from random complaints into structured, actionable i
 
 Two-way communication is not a luxury; it's essential for school improvement. Start collecting parent feedback through structured surveys, and commit to acting on what you hear.
 
-**Ready to build a feedback culture?** Explore Nexli's feedback and engagement tools and see how your school can listen and improve based on parent input.
+**Ready to build a feedback culture?** Explore Nexli's feedback and engagement tools and see how your school can listen and improve based on parent input. [Book a Free Demo](/demo)
 
 ---
 

@@ -1,3 +1,22 @@
+---
+title: "Influencer Partnerships: Leveraging Education Experts"
+slug: "influencer-partnerships-education"
+meta_description: "Partner with education influencers to reach more parents and build school credibility. Learn influencer selection, collaboration formats, and measuring impact."
+category: "School Marketing & Growth"
+primary_keyword: "school influencer marketing"
+secondary_keywords:
+  - "education influencer partnerships"
+  - "school brand ambassadors"
+  - "parent influencer marketing"
+  - "school social proof"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
+
 # Influencer Partnerships: Leveraging Education Experts
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -83,5 +102,5 @@ Influencers amplify your reach to new audiences. Authentic recommendations drive
 
 ---
 
-**Next step:** Identify 3 relevant influencers this week. Send partnership proposal.
+**Next step:** Identify 3 relevant influencers this week. Send partnership proposal. [Book a Free Demo](/demo) to see how Nexli gives your school the real outcomes data that makes influencer collaborations credible.
 

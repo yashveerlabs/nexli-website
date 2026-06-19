@@ -192,7 +192,7 @@ Nexli eliminates the scramble in a crisis. Instead of fumbling with contact list
 
 Every school needs a crisis communication plan. Don't wait for an emergency to figure out how you'll communicate. Build the plan now, test it quarterly, and rest easy knowing you're prepared.
 
-**Ready to build a crisis communication system?** Explore Nexli's emergency alert features and see how your school can respond to crises with speed and clarity.
+**Ready to build a crisis communication system?** Explore Nexli's emergency alert features and see how your school can respond to crises with speed and clarity. [Book a Free Demo](/demo)
 
 ---
 

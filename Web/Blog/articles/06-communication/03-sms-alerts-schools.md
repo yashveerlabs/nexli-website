@@ -153,7 +153,7 @@ Nexli's communication module integrates SMS automation with audit trails and com
 
 - **Sender ID Registration:** Nexli handles sender ID registration and ensures messages appear as from the school, not a random number.
 
-- **Message Templates:** Pre-built SMS templates for attendance, fees, events, and emergencies — ensuring consistency and compliance.
+- **Message Templates:** Pre-built SMS templates for attendance, fees, events, and emergencies, ensuring consistency and compliance.
 
 - **Delivery & Audit Trail:** Every SMS is logged with recipient, content, timestamp, and delivery status (delivered/failed/bounced).
 
@@ -169,9 +169,9 @@ Nexli makes SMS a reliable, compliant part of your school communication. Schools
 
 ## Call to Action
 
-SMS is not optional for modern schools — it's the last-mile delivery channel that reaches parents when email and apps fail. Replace ad-hoc SMS sending with Nexli's automated, compliant SMS alerts and watch parent engagement and school efficiency improve.
+SMS is not optional for modern schools: it's the last-mile delivery channel that reaches parents when email and apps fail. Replace ad-hoc SMS sending with Nexli's automated, compliant SMS alerts and watch parent engagement and school efficiency improve.
 
-**Ready to master SMS communication?** Explore Nexli's SMS automation and see how your school can send the right message at the right time, every time.
+**Ready to master SMS communication?** Explore Nexli's SMS automation and see how your school can send the right message at the right time, every time. [Book a Free Demo](/demo)
 
 ---
 

@@ -185,7 +185,7 @@ Nexli takes the chaos out of conference scheduling. Parents book with one click;
 
 Effective conference scheduling requires planning, clear communication, and automation. Don't rely on WhatsApp groups and word-of-mouth. Use a system that guides parents, supports teachers, and documents the outcome.
 
-**Ready to simplify conference scheduling?** Explore Nexli's conference scheduling features and see how your school can make parent-teacher conferences efficient and engaging.
+**Ready to simplify conference scheduling?** Explore Nexli's conference scheduling features and see how your school can make parent-teacher conferences efficient and engaging. [Book a Free Demo](/demo)
 
 ---
 

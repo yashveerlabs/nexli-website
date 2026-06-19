@@ -111,9 +111,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports Parent Communication
 
-Nexli integrates Facebook for seamless school marketing.
+Nexli's Circulars and Announcements module helps schools publish targeted updates to parents by class, grade, or custom group, complementing your Facebook presence with direct, reliable communication. [Book a Free Demo](/demo) to see how Nexli handles parent engagement.
 
 ---
 

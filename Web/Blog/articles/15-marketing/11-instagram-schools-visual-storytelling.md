@@ -91,9 +91,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports School Marketing
 
-Nexli integrates Instagram for visual school marketing.
+Nexli's Skills Passport and Gamification Dashboard give your school a constant stream of real achievements (badges, streaks, leaderboard positions) to share on Instagram. [Book a Free Demo](/demo) to see Nexli's student achievement features.
 
 ---
 

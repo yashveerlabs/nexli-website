@@ -127,9 +127,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports Your Website
 
-Nexli integrates seamlessly into beautiful, fast, mobile-first school websites.
+Nexli's Parent Portal is built mobile-first and tested on 412px screens, ensuring parents get a fast, clean experience on their phones. All 118+ roles have been verified on mobile. [Book a Free Demo](/demo) to see Nexli's mobile experience.
 
 ---
 

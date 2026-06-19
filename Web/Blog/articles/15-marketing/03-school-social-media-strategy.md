@@ -119,9 +119,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports Social Media
 
-Nexli integrates with social media to amplify your school's story.
+Nexli's Circulars and Announcements module helps your school publish and distribute content to targeted audiences across SMS, WhatsApp, and the parent app. [Book a Free Demo](/demo) to see how Nexli supports your school's communication strategy.
 
 ---
 

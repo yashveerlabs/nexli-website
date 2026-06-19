@@ -98,9 +98,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports Your Positioning
 
-Nexli supports your positioning through consistent communication and real data.
+Nexli provides the real data that backs your positioning: live attendance figures, exam results, fee collection metrics, and parent engagement all visible in your Principal dashboard. [Book a Free Demo](/demo) to see how Nexli's data can strengthen your school's competitive position.
 
 ---
 
