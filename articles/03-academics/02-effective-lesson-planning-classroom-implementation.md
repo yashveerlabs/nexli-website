@@ -54,6 +54,74 @@ A lesson plan is either missing or generic: "Chapter 5: Photosynthesis." Student
 
 ---
 
+
+## Lesson Plan Template
+
+Here's a complete lesson plan for one 45-minute class:
+
+**Topic:** Photosynthesis | **Grade:** 6 | **Date:** March 15, 2026
+
+**Learning Objective:** Students will understand that plants make their own food using sunlight (by end of lesson)
+
+**Prior Knowledge Assumed:** Plant structures, concept of energy, light properties
+
+**Assessment:**
+- Formative: Observation during activity, class participation
+- Summative: Quiz at end of week
+
+**Materials Needed:** Green leaves, sealed bag, transparent container, sunlight, water, glucose solution
+
+**Timeline:**
+
+| Time | Activity | Teacher Role | Student Role | Why |
+|---|---|---|---|---|
+| 0-5 min | **Hook:** Show a wilted plant. "How did this happen? How do plants stay alive without eating food?" | Ask questions, generate curiosity | Discuss prior knowledge | Engage interest |
+| 5-10 min | **Direct Teach:** Explain photosynthesis using labeled diagram on board | Explain clearly, check understanding | Listen, ask clarifying questions | Provide foundational knowledge |
+| 10-25 min | **Activity:** Divide class into 3 groups. Group A: seal a plant in dark bag, Group B: expose plant to sunlight, Group C: seal and expose. Record observations over 1 week. | Facilitate group work, ask probing questions | Conduct experiment, predict outcomes | Hands-on learning |
+| 25-35 min | **Closure:** Class shares observations. Teacher guides toward understanding | Guide synthesis of findings | Present findings, draw conclusions | Consolidate learning |
+| 35-45 min | **Practice:** Students label a photosynthesis diagram and answer 3 conceptual questions | Clarify confusion, provide feedback | Answer questions individually | Reinforce learning |
+
+**Homework:** Read textbook page 90-92. Sketch the photosynthesis process in your own words.
+
+**Differentiation:**
+- Fast learners: "Draw a flowchart of photosynthesis from raw materials to energy."
+- Slow learners: Complete partially-filled diagram of photosynthesis.
+
+---
+
+## Activating Prior Knowledge
+
+Never assume students remember last lesson. Activate prior knowledge:
+
+- **Lesson on Respiration:** Start with: "Recall: What is photosynthesis? Turn to partner and explain in 1 minute."
+- **Lesson on Electricity:** Start with: "Think about your phone charging. How does electricity flow? Discuss."
+
+This primes the brain to connect old knowledge with new knowledge.
+
+---
+
+## Checking for Understanding Mid-Lesson
+
+Don't just teach and test at the end. Check throughout:
+
+- Minute 10: Ask 3 random students: "What does chlorophyll do?" (Gauge understanding)
+- Minute 20: Quick poll: "Raise hand if you think plants breathe at night." (Identify misconceptions)
+- Minute 30: "Turn to partner and explain photosynthesis in your own words." (Peer check)
+
+If 20% of class doesn't understand, re-teach. If 80% understands, move on.
+
+---
+
+## Homework Purpose
+
+Homework should reinforce, not repeat:
+
+- ❌ Homework: "Do 20 math problems exactly like we did in class"
+- ✅ Homework: "Do 10 problems similar to class examples, then 3 challenge problems requiring new thinking"
+
+Homework prepares next lesson, not just reviews today's lesson.
+
+
 ## How Nexli Solves This
 
 Nexli is India's #1 ERP for schools, built by Yashveer Singh Rajpoot and Yashveer Labs to streamline school operations and academics. Whether you're managing enrollment, attendance, timetables, or curriculum—Nexli provides:

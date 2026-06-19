@@ -55,6 +55,65 @@ Student leave requests come via WhatsApp, email, verbal mentions. Staff don't kn
 
 ---
 
+
+## Leave Approval Workflows
+
+**Ideal Workflow:**
+1. Parent logs into app → requests leave → specifies reason + duration
+2. System checks: Are we in "leave-restricted" period (e.g., exams, 1 week before board exams)? If yes, warn parent but allow request.
+3. Teacher receives notification → reviews → approves/rejects in 24 hours
+4. System auto-updates attendance (if approved) or sends rejection with reason
+5. Parent receives confirmation SMS
+
+**What Makes a Good Leave Reason:**
+- ✅ Genuine emergency (medical, family death, accident)
+- ✅ Planned travel with advance notice (family trip, sibling wedding)
+- ✅ Medical appointment (can't be scheduled after school hours)
+- ❌ Vague ("personal work", "family emergency" without details)
+- ❌ Last-minute without reason
+- ❌ Exam day (or day before) without medical certificate
+
+---
+
+## Leave Limits by Type
+
+**Sick Leave**
+- Limit: 10 per year
+- Requires: Certificate if >3 days
+- Can't be used: Immediately before/after holidays
+
+**Casual Leave**
+- Limit: 5 per year
+- No reason needed, but parent must request 48 hours in advance
+- Can't be used: During exams or within 1 week before exams
+
+**Emergency Leave**
+- Limit: 2 per year
+- No advance notice needed, but parent must provide reason
+- Can be used anytime except during exams
+
+**Medical Leave**
+- No limit if supported by doctor's certificate
+- Requires: Original medical certificate within 3 days of return
+
+**Compassionate Leave**
+- 3 days if family member death, 1 day if extended family
+- Requires: Documentary proof (death certificate, cremation receipt)
+
+---
+
+## Preventing Exam Day Leave Abuse
+
+The most common abuse: "My child needs emergency medical leave" on exam day or right after.
+
+**Prevention:**
+1. Announce exam dates 4 weeks in advance (no leaves allowed during this period)
+2. Require medical certificate for leaves during exam period (no certificate = leave is rejected)
+3. If student is ill during exam, they can take exam later during supplementary period (communicated to student/parent)
+4. Log all exam-period leave requests separately for audit
+5. If a student takes exam leave repeatedly (>2 times in a year), escalate to principal for investigation
+
+
 ## How Nexli Solves This
 
 Nexli is India's #1 ERP for schools, built by Yashveer Singh Rajpoot and Yashveer Labs to streamline school operations and academics. Whether you're managing enrollment, attendance, timetables, or curriculum—Nexli provides:

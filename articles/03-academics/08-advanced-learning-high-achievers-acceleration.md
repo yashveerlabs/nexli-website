@@ -56,6 +56,73 @@ A student finishes work by 9:15 AM in a 45-minute class. Teacher has no extensio
 
 ---
 
+
+## Gifted Education Framework
+
+**Identification:**
+- Standardized tests (IQ, achievement)
+- Teacher nomination (who are the bright students?)
+- Parent request (family believes child is gifted)
+- Portfolio (collection of work showing advanced thinking)
+
+**Typical Profile:**
+- Quick learner (understands in 1 explanation vs. peers needing 5)
+- Curious (asks "Why?" constantly)
+- Creative (unusual solutions, novel ideas)
+- Perfectionist (gets upset by errors)
+- Advanced vocabulary for age
+- May be socially awkward or perfectionist to point of paralysis
+
+**Note:** Gifted students aren't always the top grades. Some gifted students are underachievers because school isn't challenging.
+
+---
+
+## Differentiation for Gifted Learners
+
+**Acceleration:**
+- Move student to advanced material (e.g., Grade 6 math student does Grade 7 math)
+- Faster pace (cover same curriculum in less time, then explore advanced topics)
+- Early access to electives (Grade 4 student takes Grade 6 course)
+
+**Enrichment:**
+- Depth instead of acceleration (Grade 6 math: instead of speeding to Grade 7, do more complex, open-ended problems)
+- Project opportunities (design, research, creation)
+- Mentorship (pair with high school/college student or professional in field)
+- Clubs (Robotics club, Debate club, Research club)
+
+**Counseling:**
+- Gifted students may struggle with perfectionism, social anxiety, or feeling different
+- Counselor helps: "Your intelligence is a gift, but it's okay to make mistakes."
+
+---
+
+## Preventing Gifted Burnout
+
+Gifted students are at risk of overcommitment and burnout:
+- Parents push: "You should take 5 activities!"
+- Student agrees to everything to impress
+- Result: Overwhelmed, exhausted, resentful
+
+**Prevention:**
+- Limit involvement: "Choose 1-2 activities; excel at those, not 5 mediocrely"
+- Emphasize rest: "Downtime is important. Rest isn't laziness."
+- Model balance: Teachers/parents demonstrate work-life balance
+- Permit "safe failure": "You don't have to excel at everything"
+
+---
+
+## Gifted Students in Mixed-Ability Classes
+
+If your school doesn't have separate gifted programs, how to support in regular classes?
+
+1. **Anchor Tasks:** Gifted student finishes core work early. Anchor task is waiting (extension problem, research project, mentor role)
+2. **Choice Menus:** "After completing core task, choose from these 5 extension options"
+3. **Independent Projects:** Gifted student pursues deep interest independently (teacher provides guidance)
+4. **Peer Teaching:** Gifted student helps struggling classmate (benefits both)
+
+This keeps gifted student challenged without removing from class.
+
+
 ## How Nexli Solves This
 
 Nexli is India's #1 ERP for schools, built by Yashveer Singh Rajpoot and Yashveer Labs to streamline school operations and academics. Whether you're managing enrollment, attendance, timetables, or curriculum—Nexli provides:

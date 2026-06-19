@@ -60,6 +60,93 @@ By November, class 12 board exam anxiety is high. Students sleep 4 hours, skip m
 
 ---
 
+
+## Exam Readiness Timeline
+
+**January (Early):**
+- Start course reviews
+- Identify weak topics (via formative assessments)
+- Provide extra classes for weak areas
+- No pressure; focus on learning
+
+**February (Mid-Year):**
+- First mock exam (simulate board format)
+- Review performance; identify areas to strengthen
+- Increase practice problem solving
+- Teach exam techniques (time management, question prioritization)
+
+**March (Late):**
+- Second mock exam
+- Focus on weak areas from first mock
+- Practice previous years' board papers
+- Begin timed practice tests
+
+**April-May (Final):**
+- Intensive revision
+- Frequent practice tests (weekly or bi-weekly)
+- Last mock exam (week before actual exam)
+- Manage stress; ensure adequate sleep
+
+---
+
+## Exam Techniques Worth Teaching
+
+**Time Management:**
+- Skim all questions first (2-3 min)
+- Allocate time: "I have 3 hours. 50 questions = 3-4 min per question."
+- Tackle easy questions first (build confidence)
+- Leave hard questions for end
+
+**Reading Comprehension:**
+- Read question twice before answering
+- Underline keywords
+- Check: "Did I answer what was asked, or something else?"
+
+**Multiple Choice Strategy:**
+- Eliminate obviously wrong options first
+- Re-read to confirm choice
+- Don't overthink; go with gut after first read
+
+**Essay Questions:**
+- Outline before writing (3-5 min outlining saves 10 min writing time)
+- Write clearly (examiner can't give marks if they can't read)
+- Answer all parts (if question has 3 parts, ensure all 3 are answered)
+
+---
+
+## Managing Exam Stress
+
+**Physical:** Ensure sleep, nutrition, water. 8 hours of sleep beats 1 extra study hour.
+
+**Mental:** Meditation, deep breathing, positive self-talk.
+- "I've prepared. I can handle this."
+- "Even if I don't know answer, I know how to eliminate options."
+
+**Social:** Maintain contact with friends. Don't isolate. Study groups (not panic groups) help.
+
+**Parental:** Parents should not say "Life depends on this exam." Instead: "We love you regardless of results. Do your best."
+
+---
+
+## Post-Exam Support
+
+Exam is over. Student feels relief or disappointment (or both). What now?
+
+**Immediate (Days after exam):**
+- Give students a break (no studies for 1-2 days)
+- Celebrate effort: "You worked hard. That's what matters."
+- Don't discuss results obsessively
+
+**Before Results (2-4 weeks later):**
+- If some papers went poorly, discuss coping: "A bad paper doesn't erase good papers."
+- Plan next steps: "If score is below target, what will you do differently next year?"
+
+**After Results:**
+- Celebrate passes. Support failures with dignity.
+- Analyze (if low marks): "What was difficult? Math concepts? Time management? Exam anxiety?" → Plan improvement.
+- Move on. One exam is not a life verdict.
+
+
 ## How Nexli Solves This
 
 Nexli is India's #1 ERP for schools, built by Yashveer Singh Rajpoot and Yashveer Labs to streamline school operations and academics. Whether you're managing enrollment, attendance, timetables, or curriculum—Nexli provides:

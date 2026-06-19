@@ -55,6 +55,63 @@ A student presents a project: poster board with Wikipedia content copied verbati
 
 ---
 
+
+## Project Assessment Rubric
+
+**Project: Design a Sustainable Classroom (Grade 7)**
+
+| Criteria | Excellent | Good | Satisfactory | Below Average |
+|---|---|---|---|---|
+| **Problem Understanding** | Clearly identifies 2+ sustainability issues in typical classroom. Understands impact. | Identifies 1-2 issues. Understands impact. | Identifies basic issues. Limited understanding of impact. | Vague problem identification. |
+| **Research** | 5+ credible sources. Cites recent data. Understands what exists. | 3-4 sources. Some data. Knows some options. | 2-3 sources. Basic information. Limited options explored. | <2 sources. Incomplete information. |
+| **Design Creativity** | Novel solution. Practical and feasible. Well-reasoned trade-offs. | Good solution. Mostly practical. Some reasoning. | Basic solution. Partially practical. Limited reasoning. | Impractical or incomplete solution. |
+| **Collaboration** | All group members contributed equally. Clear role division. Resolved conflicts constructively. | Most members contributed. Some role division. Managed conflicts. | Unequal contribution. Unclear roles. Some conflict. | One member dominated. Conflict unresolved. |
+| **Presentation** | Clear, engaging, well-organized. Visuals support content. Handles Q&A well. | Organized, mostly clear. Adequate visuals. Handles some Q&A. | Somewhat organized. Minimal visuals. Struggles with Q&A. | Disorganized. No visuals. Doesn't handle Q&A. |
+
+---
+
+## Peer Review Process
+
+Structure peer feedback so it's constructive:
+
+1. **Glow:** "What's something you did really well?"
+2. **Grow:** "One thing you could improve is..."
+3. **Question:** "I wonder if you considered...?"
+
+Example:
+- Peer 1: "I loved your poster design (Glow). The text could be bigger so it's readable from far away (Grow). Did you consider adding a photo of actual composting bin (Question)?"
+
+This format: affirms + suggests + prompts thinking.
+
+---
+
+## Group Grades vs. Individual Grades
+
+Problem: One student does all work; group gets same grade. Unfair.
+
+Solution:
+- **Group Grade (40%):** Quality of the project itself
+- **Individual Grade (60%):** Based on:
+  - Peer evaluation: "How much did each member contribute?" (1-5 scale)
+  - Individual task: Each student completes a component alone
+  - Reflection: Student writes what they did and learned
+
+Example: Project gets 90/100 (group grade). But Student A gets 95 (high peer evaluation), Student B gets 75 (low peer evaluation, contributed less).
+
+---
+
+## Celebrating Project Outcomes
+
+Don't just grade and move on. Celebrate:
+
+1. **Gallery Walk:** Display all projects in school hallway. Students walk around, view each other's work.
+2. **Public Presentation:** Invite parents to student presentations.
+3. **Real-World Use:** If project is actionable (poster, compost bin, website), actually implement it.
+4. **Student Feedback:** Ask students: "What did you learn from others' projects?"
+
+This motivates students and validates their effort.
+
+
 ## How Nexli Solves This
 
 Nexli is India's #1 ERP for schools, built by Yashveer Singh Rajpoot and Yashveer Labs to streamline school operations and academics. Whether you're managing enrollment, attendance, timetables, or curriculum—Nexli provides:

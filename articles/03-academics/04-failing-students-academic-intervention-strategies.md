@@ -56,6 +56,107 @@ A student flunks math in Term 1. Teacher says, "They're not good at math." No in
 
 ---
 
+
+## Early Warning Systems
+
+Identify at-risk students early:
+
+**Indicators (Month 1):**
+- Failed first assessment (formative test)
+- Incomplete homework submissions
+- Lack of participation in class
+- Behavioral issues (distraction, disruption)
+
+**Indicators (Month 2):**
+- Multiple failed assessments
+- Withdrawal from peers
+- Missing school (emerging absenteeism)
+- Negative attitude ("I can't do this")
+
+**Indicators (Month 3):**
+- Failed unit test
+- Failing in 2+ subjects
+- Chronic absenteeism
+- Teachers reporting hopelessness
+
+**Action Timeline:**
+- **Month 1 indicators:** Parent meeting, peer tutoring offer
+- **Month 2 indicators:** Counselor support, potential learning disability screening
+- **Month 3 indicators:** Remedial class, special educator, possible summer school
+
+---
+
+## Diagnostic Assessment
+
+Before intervention, diagnose the root cause:
+
+**Questions to Ask:**
+
+*Is it a prerequisite gap?*
+- "Can you solve 3 + 4?" (If no, foundation is weak)
+- Intervention: Teach prerequisites before current material
+
+*Is it a learning disability?*
+- "Does this student struggle only in math or in all subjects?"
+- "Are there other indicators (slow reading, speech issues)?"
+- Intervention: Refer for formal evaluation; provide accommodations
+
+*Is it motivation?*
+- "Does student care about failing?" (Ask directly)
+- "What are they interested in? Can we connect to that?"
+- Intervention: Counselor support, choice in learning activities
+
+*Is it family/personal crisis?*
+- "Is everything okay at home?" (Ask sensitively)
+- "Are there financial, health, or family issues?"
+- Intervention: Social worker support, potential fee waiver, flexible pace
+
+Diagnosis guides intervention. One-size-fits-all tutoring doesn't work if root cause is motivation or family crisis.
+
+---
+
+## Intervention Program Options
+
+**In-School Options:**
+1. **Reteaching:** Teacher re-teaches the concept using different methods (visual, kinesthetic, etc.)
+2. **Small group instruction:** 4-5 students with same gaps, separate from main class, 30 min 3x/week
+3. **Peer tutoring:** Stronger student tutors weaker student. Benefits both.
+4. **Technology-based:** Adaptive software (Khan Academy, Byju's) that adjusts to student level
+
+**Out-of-School Options:**
+1. **Private tutoring:** Parent-hired tutor (not school's role, but school can recommend)
+2. **Summer school:** Intensive remediation over summer break
+3. **After-school program:** School-run program (1 hour after school, 3-4 days/week)
+
+**Which to Choose:**
+- Mild gaps (80% mastery): In-school reteaching works
+- Moderate gaps (50-80%): Small group + peer tutoring
+- Severe gaps (<50%): Intensive intervention + possible counseling
+
+---
+
+## Tracking Intervention Success
+
+Don't assume intervention worked. Measure:
+
+1. **Short-term:** After 4 weeks of intervention, reassess. Has the student improved?
+2. **Mid-term:** After 8 weeks, is the gap narrowing?
+3. **Long-term:** By next unit test, is the student at grade level?
+
+**Reassessment Tools:**
+- Same assessment given again (so you can compare)
+- Parallel form (similar questions, different numbers)
+- Observation (is student more confident, more participatory?)
+
+**If No Improvement:** Consider:
+- Is intervention too slow/too fast?
+- Is root cause different than assumed?
+- Does student need different intervention?
+- Is something else interfering (family crisis, attendance, motivation)?
+
+Regular progress monitoring prevents student from getting lost.
+
+
 ## How Nexli Solves This
 
 Nexli is India's #1 ERP for schools, built by Yashveer Singh Rajpoot and Yashveer Labs to streamline school operations and academics. Whether you're managing enrollment, attendance, timetables, or curriculum—Nexli provides:

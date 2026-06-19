@@ -55,6 +55,56 @@ A simple request spirals into bureaucratic chaos. Exam fee reimbursement waits w
 
 ---
 
+
+## Workflow Examples
+
+**Example 1: Teacher Transfer Request**
+- Teacher submits request: "Transfer to Math Department"
+- HOD reviews: "Math needs this teacher. Approve."
+- Principal reviews: "Budget allows. Approve."
+- HR processes: "Transfer effective from June 1."
+- Total time: 3 days (if all approvers respond promptly)
+
+Without clear workflow: Teacher waits 3 weeks, submits reminder, escalates to principal. Chaotic.
+
+---
+
+**Example 2: Infrastructure Maintenance Request**
+- Maintenance staff reports: "Classroom roof leaking."
+- HOD inspects: "Confirmed. Budget required: Rs. 15,000."
+- Principal approves: "Proceed. Use maintenance fund."
+- Contractor engaged: "Fix by next week."
+- Completion signed off: "Issue resolved."
+- Total time: 1 week vs. 3-4 weeks in chaotic systems
+
+---
+
+## Escalation Protocols
+
+What if an approval is delayed?
+
+- **48 hours:** No response from approver → Auto-escalate to their supervisor
+- **72 hours:** Still no response → Go to principal
+- **Default Option:** For time-critical requests (exam schedule, emergency repairs), if approver is absent, system defaults to approval
+
+This prevents bottlenecks. Approvers know they'll be escalated if they don't respond.
+
+---
+
+## Audit Trail Benefits
+
+Every approval leaves a trace:
+- Who approved, when, why
+- Any changes to the request during approval
+- Reasons for rejection (if rejected)
+
+This enables:
+1. **Compliance:** External auditors can verify all expenses were approved
+2. **Learning:** Patterns emerge (e.g., 80% of requests from Dept X are approved; suggests bias or leniency)
+3. **Accountability:** Approvers know their decisions are logged
+4. **Dispute Resolution:** If someone claims they approved something, you have proof
+
+
 ## How Nexli Solves This
 
 Nexli is India's #1 ERP for schools, built by Yashveer Singh Rajpoot and Yashveer Labs to streamline school operations and academics. Whether you're managing enrollment, attendance, timetables, or curriculum—Nexli provides:

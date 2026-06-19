@@ -55,6 +55,66 @@ A school has 50 students applying for 40 spots in class 6. No formal allocation 
 
 ---
 
+
+## Balanced Allocation Algorithm
+
+Here's how schools can allocate students objectively:
+
+1. **Academic Balance:** Sort students by last year's marks. Allocate to sections in snake pattern (A gets top, B gets 2nd, C gets 3rd... then C gets next, B gets next, A gets next...). Result: all sections have similar average scores.
+
+2. **Gender Balance:** Count boys/girls. Allocate to maintain roughly 50-50 ratio in each section.
+
+3. **Sibling Grouping:** If siblings are both in same grade, place together (high priority).
+
+4. **Learning Diversity:** If student data exists (learning style, special needs), distribute students with different profiles across sections. Don't cluster weak learners in one section.
+
+5. **Teacher Assignment:** Assign strongest teachers to mixed-ability sections; let experienced teachers handle challenging groups.
+
+**Result:** All sections perform similarly. No "weak class" perception.
+
+---
+
+## Addressing Post-Allocation Concerns
+
+Parent: "My child is in Class A. His friend is in Class B. Can they be together?"
+
+**Policy:** Allocation is final. No changes except for:
+- Medical need (student has anxiety, needs specific support)
+- Learning disability (student needs resource room access in a specific section's schedule)
+- Genuine hardship (sibling was separated accidentally)
+
+First 2 weeks of term are freeze period. After week 2, if student reports bullying or severe mismatch, escalate to counselor. Counselor makes final call on transfer.
+
+---
+
+## Class Identity & Belonging
+
+Allocation feels punitive if sections feel ranked. Build positive identity:
+
+- **Class Names:** Instead of A/B/C, use thematic names (Sparrows, Eagles, Tigers—no hierarchy)
+- **Class Mentors:** Each section gets a dedicated mentor (not just subject teachers) who builds class bonds
+- **Class Activities:** Class outings, team sports, creative projects where class competes/collaborates
+- **Class Performance Celebration:** "Class Sparrows improved attendance 10%" (celebrate all, not just toppers)
+
+Result: Students feel part of a team. Same section next year is an honor ("I'm a returning Sparrow leader helping new members"), not a stigma.
+
+---
+
+## Handling Mid-Year Transfers
+
+Rare cases need transfers:
+- Student reports bullying by specific classmates (move to different class)
+- Student requests learning support (move to class with resource access)
+- Teacher-student personality mismatch affecting learning (move to different teacher)
+
+**Process:**
+1. Counselor interviews student and parents to understand root cause
+2. Counselor meets with teachers to assess if transfer is warranted
+3. If approved, counselor prepares receiving section's teacher
+4. Transfer happens with dignity ("New opportunity to join Class B") not punishment
+5. Follow-up at week 2 and week 4 to ensure the transfer helped
+
+
 ## How Nexli Solves This
 
 Nexli is India's #1 ERP for schools, built by Yashveer Singh Rajpoot and Yashveer Labs to streamline school operations and academics. Whether you're managing enrollment, attendance, timetables, or curriculum—Nexli provides:

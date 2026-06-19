@@ -55,6 +55,76 @@ Teachers inherit curriculum from predecessors. No written scope-sequence. Each t
 
 ---
 
+
+## Scope and Sequence Template
+
+Here's what a scope-sequence document looks like:
+
+**Grade 6 Science (Botany Unit)**
+- **Weeks 1-2:** Plant Structure (root, stem, leaf, flower)
+  - Learning Outcomes: Identify plant parts. Explain function of each part.
+  - Activities: Label diagrams, dissect flowers, draw structures
+  - Assessment: Diagram test, oral Q&A
+
+- **Weeks 3-4:** Photosynthesis
+  - Learning Outcomes: Understand how plants make food. Explain role of chlorophyll.
+  - Prerequisites: Plant structure, light concepts
+  - Activities: Experiment (light/no-light plant), video explanation, group discussion
+  - Assessment: Quiz, concept map
+
+- **Weeks 5-6:** Plant Reproduction
+  - Learning Outcomes: Distinguish sexual vs. asexual reproduction.
+  - Activities: Observe seeds, sprouting experiments, case studies (potato, bamboo)
+  - Assessment: Exam question, project (grow a plant)
+
+**Mapping to Board (CBSE Class 6):**
+- This unit covers Board Syllabus Chapter 7 (Nutrition in Plants) + Chapter 8 (Respiration).
+- NCERT textbook: Pages 86-101. School adds diagrams from resource site X.
+
+---
+
+## Curriculum Customization for School Context
+
+A school in Kerala can't use the exact same curriculum as a school in Delhi. Customize:
+
+1. **Examples:** Use local context. Delhi school: "Water scarcity in NCR region" vs. Kerala school: "Monsoon floods and water management"
+
+2. **Pace:** Rural school with weaker previous background: slow pace with more practice. City school with stronger base: faster pace with deeper exploration.
+
+3. **Resources:** School with lab: experiments. School without: video-based learning and virtual labs.
+
+4. **Languages:** Some schools teach science in English; others in regional language. Adjust vocabulary accordingly.
+
+5. **Values:** Some schools emphasize sustainability; others emphasize industry readiness. Weave that into curriculum.
+
+---
+
+## Scaffolding and Prerequisite Mapping
+
+When teaching fractions in Grade 4:
+- **Prerequisite:** Students should know what division means (Grade 3)
+- **Scaffold:** Start with visual fractions (pizza slices, pie charts) → then numbers → then operations
+- **Progression:** Simple fractions (1/2, 1/4) → mixed fractions → fractions with different denominators → operations
+
+If you skip scaffolding, students don't understand. If you go too slow, they get bored. Good curriculum maps out the right pace.
+
+---
+
+## Aligned Assessments
+
+Assessment should match learning outcomes:
+
+**Learning Outcome:** "Student can solve multi-step word problems involving fractions"
+
+**Good Assessment:** "A pizza is divided into 8 slices. Ali eats 1/4. Bob eats 1/8. How many slices are left?"
+(Tests comprehension + calculation + application)
+
+**Poor Assessment:** "What is 3/4 + 1/8?"
+(Tests only calculation, not problem-solving)
+
+Curriculum should specify assessment methods that align with outcomes, not just content.
+
+
 ## How Nexli Solves This
 
 Nexli is India's #1 ERP for schools, built by Yashveer Singh Rajpoot and Yashveer Labs to streamline school operations and academics. Whether you're managing enrollment, attendance, timetables, or curriculum—Nexli provides:

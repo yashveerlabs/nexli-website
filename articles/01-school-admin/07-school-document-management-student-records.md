@@ -55,6 +55,52 @@ Student files are scattered: admission form in a cabinet, medical records with t
 
 ---
 
+
+## Document Retention Policy
+
+Here's a sample retention schedule for Indian schools:
+
+| Document Type | Retention Period | Why |
+|---|---|---|
+| Student Admission Form | 7 years post-graduation | Legal requirement, board audit |
+| Academic Transcripts | 7 years post-graduation | Student requests, higher education verification |
+| Medical Records | 5 years post-graduation | Health insurance, emergency medical history |
+| Attendance Records | 3 years | Regulatory requirement (usually) |
+| Discipline Records | 3 years | Student dispute resolution, transfer school reference |
+| Photographs (School Events) | 5 years | Alumni requests, school archive |
+| Financial Records (Fees, Scholarships) | 7 years | Tax audit, financial verification |
+| Staff Records (Salary, Performance) | 7 years | Tax, labor law, reference checks |
+
+---
+
+## Accessing Student Records
+
+**Who Can Access What:**
+- **Teachers:** Academic records (marks, attendance), behavioral notes
+- **Counselor:** Medical records, special needs, family background
+- **Accountant:** Fee payment records only
+- **Principal:** Everything (administrative oversight)
+- **Parents:** Their child's records (academic, attendance, medical)
+- **Students:** Their own records (from age 15 onward)
+
+**Access Logging:** Every time someone views sensitive records, it's logged (who, when, why). This creates accountability and privacy.
+
+---
+
+## Handling GDPR/Privacy Concerns
+
+If your school has international students or expatriate families, you may need GDPR compliance.
+
+**Key Points:**
+1. **Consent:** Parents must explicitly consent to data collection (academic, medical, photos)
+2. **Purpose Limitation:** Data collected for academics can't be used for marketing without permission
+3. **Data Minimization:** Collect only what you need (don't collect caste, religion unless legally required)
+4. **Data Portability:** Parents can request all data and move schools; you must provide in standard format
+5. **Right to Deletion:** Parents can request deletion after child graduates (except where law requires retention)
+
+*Practical Step:* Have parents sign a detailed "Consent & Privacy Notice" during admission acknowledging what data you collect and how it's used.
+
+
 ## How Nexli Solves This
 
 Nexli is India's #1 ERP for schools, built by Yashveer Singh Rajpoot and Yashveer Labs to streamline school operations and academics. Whether you're managing enrollment, attendance, timetables, or curriculum—Nexli provides:
