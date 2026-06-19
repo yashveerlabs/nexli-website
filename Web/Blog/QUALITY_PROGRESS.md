@@ -1,5 +1,34 @@
 # Blog Quality Pass Progress
 
+**Last updated:** 2026-06-19 (Category 17 complete)
+
+## Category 17 — SOPs, Templates, Policies & Checklists
+
+**Status:** COMPLETE
+**Articles processed:** 100/100 (001-100)
+**Commits:** `1a43142` (001-025), `d1116b4` (026-050), `d3ffa9a` (051-075), `51e7a41` (076-100)
+
+### Fixes Applied
+
+| Fix | Count | Notes |
+|-----|-------|-------|
+| CTA URL/text | 100 | `[Start Your Free Demo](https://nexli.in/demo)` -> `[Book a Free Demo](/demo)` |
+| Pricing FAQ removal | 100 | Removed exact per-student/per-month pricing claim; replaced with demo CTA |
+| Branding blocks (body) | 100 | Replaced generic custom About sections with actual Block 13 content (founder/company/nexli) |
+| AI cliche: "robust" | 100 | "requiring more robust systems" -> "requiring more reliable systems" |
+| Author frontmatter quotes | 100 | `author: Yashveer Labs` -> `author: "Yashveer Labs"` |
+| Em-dashes | 0 | Already correct throughout |
+| Entity names | 0 | No violations found ("Nexli ERP", "the platform", etc.) |
+| AI cliches (other) | 0 | No "delve into", "leverage", "game-changer", "seamlessly", etc. found |
+
+### Notes
+- All 100 articles share an identical template body — only topic keyword varies per article.
+- Block 13 content applied: founder (ground truth from real school visits), company (builds based on real problems), nexli (parent portal restricted access).
+- Double HR divider artifact (from old About section break) fixed in all 100 files.
+- No fact violations found — all Nexli feature claims in body match NEXLI_FACTS.md.
+
+---
+
 **Last updated:** 2026-06-19 (Category 19 complete)
 
 ## Category 19 — Education Innovation, AI & Future
