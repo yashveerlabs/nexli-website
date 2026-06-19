@@ -21,6 +21,9 @@ export interface NavItem {
   flag?: FeatureFlagKey;
   /** AI-powered surface (renders a subtle AI tag; content uses AILockedOverlay). */
   ai?: boolean;
+  /** Announced-but-unbuilt destination: render as a disabled "Coming soon" item
+   *  (never a link that goes nowhere). Shown even though no module is registered. */
+  comingSoon?: boolean;
   end?: boolean;
 }
 
@@ -109,7 +112,7 @@ export const PARENT_NAV: NavItem[] = [
   { id: 'calendar', label: 'Calendar', icon: 'calendar', path: '/calendar' },
   { id: 'notices', label: 'School Notices', icon: 'megaphone', path: '/notices' },
   { id: 'wellness', label: 'Wellness', icon: 'heart-pulse', path: '/wellness' },
-  { id: 'ptm', label: 'Parent-Teacher Meeting', icon: 'user-plus', path: '/ptm' },
+  { id: 'ptm', label: 'Parent-Teacher Meeting', icon: 'user-plus', path: '/ptm', comingSoon: true },
   { id: 'settings', label: 'Settings', icon: 'settings', path: '/settings' },
 ];
 

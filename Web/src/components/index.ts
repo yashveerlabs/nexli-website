@@ -4,6 +4,7 @@ export * from './Badge';
 export * from './Button';
 export * from './Panel';
 export * from './KPICard';
+export * from './ErrorBoundary';
 export * from './feedback';
 export * from './AILockedOverlay';
 export * from './charts';

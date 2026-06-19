@@ -52,6 +52,10 @@ export function AppShell({
 
   return (
     <div className="nx-shell">
+      {/* WCAG 2.4.1: first focusable element — lets keyboard/SR users jump past the
+          nav straight to the page content. Visually hidden until focused. */}
+      <a href="#main" className="nx-skip-link">Skip to main content</a>
+
       <aside className={cn('nx-aside', drawerOpen && 'open')} aria-label="Sidebar">
         <Sidebar
           nav={nav}
@@ -66,7 +70,7 @@ export function AppShell({
 
       <MobileAppBar title={appbarTitle} onMenu={open} actions={appbarActions} />
 
-      <main className="nx-main">
+      <main id="main" className="nx-main" tabIndex={-1}>
         <div className="nx-content">{children}</div>
       </main>
 

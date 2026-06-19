@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { useFieldArray, useFormContext } from 'react-hook-form';
 import { Button } from '@/components/Button';
@@ -45,6 +45,42 @@ import '@/features/school/school.css';
 
 const STATUS_OPTIONS = Object.entries(STUDENT_STATUS_META).map(([value, m]) => ({ value, label: m.label }));
 
+/** localStorage key for a per-school new-admission draft (so an interrupted 20+
+ *  field entry can be recovered). Edit mode is intentionally NOT drafted — the
+ *  saved record is the source of truth there. */
+const draftKeyFor = (schoolId: string) => `nexli:draft:student:new:${schoolId}`;
+
+function readDraft(key: string): { values: StudentFormValues; savedAt: number } | null {
+  try {
+    const raw = localStorage.getItem(key);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw) as { values?: StudentFormValues; savedAt?: number };
+    if (!parsed || typeof parsed !== 'object' || !parsed.values) return null;
+    return { values: parsed.values, savedAt: parsed.savedAt ?? 0 };
+  } catch {
+    return null;
+  }
+}
+
+function clearDraft(key: string): void {
+  try {
+    localStorage.removeItem(key);
+  } catch {
+    /* ignore (private mode / quota) */
+  }
+}
+
+/** Short human age for a saved draft, e.g. "just now", "12 min ago", "2 days ago". */
+function formatDraftAge(ts: number): string {
+  const mins = Math.floor((Date.now() - ts) / 60000);
+  if (mins < 1) return 'just now';
+  if (mins < 60) return `${mins} min ago`;
+  const hrs = Math.floor(mins / 60);
+  if (hrs < 24) return `${hrs} hr${hrs === 1 ? '' : 's'} ago`;
+  const days = Math.floor(hrs / 24);
+  return `${days} day${days === 1 ? '' : 's'} ago`;
+}
+
 export function StudentFormPage({ mode }: { mode: 'new' | 'edit' }) {
   const { id = '' } = useParams();
   const navigate = useNavigate();
@@ -77,6 +113,8 @@ export function StudentFormPage({ mode }: { mode: 'new' | 'edit' }) {
   if (!defaults) return <div className="nx-page"><Skeleton height={360} /></div>;
 
   const actor = { uid: uid ?? 'unknown', name: member?.name };
+  // Drafts apply only to a brand-new admission (recover an interrupted entry).
+  const draftKey = mode === 'new' ? draftKeyFor(schoolId) : null;
 
   return (
     <div className="nx-page">
@@ -88,6 +126,7 @@ export function StudentFormPage({ mode }: { mode: 'new' | 'edit' }) {
             const payload = formToStudent(values);
             if (mode === 'new') {
               const newId = await createStudent(schoolId, { ...payload, schoolId }, actor);
+              if (draftKey) clearDraft(draftKey); // success → discard the recovery draft
               toast.success('Student admitted', payload.fullName);
               navigate(`/students/${newId}`);
             } else {
@@ -100,20 +139,89 @@ export function StudentFormPage({ mode }: { mode: 'new' | 'edit' }) {
           }
         }}
       >
-        <StudentFormBody mode={mode} onCancel={() => navigate(mode === 'edit' ? `/students/${id}` : '/students')} />
+        <StudentFormBody
+          mode={mode}
+          draftKey={draftKey}
+          emptyDraft={defaults}
+          onCancel={() => navigate(mode === 'edit' ? `/students/${id}` : '/students')}
+        />
       </Form>
     </div>
   );
 }
 
-function StudentFormBody({ mode, onCancel }: { mode: 'new' | 'edit'; onCancel: () => void }) {
+function StudentFormBody({
+  mode,
+  draftKey,
+  emptyDraft,
+  onCancel,
+}: {
+  mode: 'new' | 'edit';
+  draftKey: string | null;
+  emptyDraft: StudentFormValues;
+  onCancel: () => void;
+}) {
   const navigate = useNavigate();
   const { schoolId } = useSession();
-  const { control, watch, formState } = useFormContext<StudentFormValues>();
+  const { control, watch, reset, formState } = useFormContext<StudentFormValues>();
   const { data: grades } = useGrades(schoolId);
   const { data: sections } = useSections(schoolId);
   const { data: houses } = useHouses(schoolId);
   const { fields, append, remove } = useFieldArray({ control, name: 'guardians' });
+
+  // ---- Draft autosave / recovery (new admission only) -------------------------
+  // A recoverable draft is offered if one was found in storage on mount; the live
+  // form is then debounced-persisted on every change and cleared on success.
+  const [draft, setDraft] = useState<{ values: StudentFormValues; savedAt: number } | null>(null);
+  const [draftDismissed, setDraftDismissed] = useState(false);
+  const saveTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const submittingRef = useRef(false);
+  submittingRef.current = formState.isSubmitting;
+
+  useEffect(() => {
+    if (!draftKey) return;
+    const found = readDraft(draftKey);
+    if (found) setDraft(found);
+  }, [draftKey]);
+
+  // Debounced persistence of the in-progress form. A single ref-held timer is
+  // reset on every change (true debounce), and writes are skipped while
+  // submitting. The `{ type: undefined }` first emission from RHF is naturally
+  // debounced away. Best-effort — storage failures are ignored.
+  useEffect(() => {
+    if (!draftKey) return;
+    const sub = watch((values, { name }) => {
+      // Skip RHF's initial emission (name === undefined): don't persist the
+      // untouched default form, which would falsely offer a "draft" next time.
+      if (!name) return;
+      if (saveTimer.current) clearTimeout(saveTimer.current);
+      saveTimer.current = setTimeout(() => {
+        if (submittingRef.current) return;
+        try {
+          localStorage.setItem(draftKey, JSON.stringify({ values, savedAt: Date.now() }));
+        } catch {
+          /* ignore (private mode / quota) */
+        }
+      }, 800);
+    });
+    return () => {
+      sub.unsubscribe();
+      if (saveTimer.current) clearTimeout(saveTimer.current);
+    };
+  }, [draftKey, watch]);
+
+  const restoreDraft = () => {
+    if (draft) reset(draft.values, { keepDefaultValues: true });
+    setDraft(null);
+  };
+  const discardDraft = () => {
+    if (draftKey) clearDraft(draftKey);
+    // Reset back to a clean form so the just-discarded values don't linger.
+    reset(emptyDraft, { keepDefaultValues: true });
+    setDraft(null);
+    setDraftDismissed(true);
+  };
+  const showDraftBanner = !!draft && !draftDismissed;
 
   const gradeId = watch('gradeId');
   const gradeOptions = grades.map((g) => ({ value: g.id, label: g.name }));
@@ -131,6 +239,30 @@ function StudentFormBody({ mode, onCancel }: { mode: 'new' | 'edit'; onCancel: (
       submitIcon="check"
       submitting={formState.isSubmitting}
     >
+      {showDraftBanner && (
+        <div className="nx-info-card" role="status" style={{ marginBottom: 16 }}>
+          <div className="nx-info-card__icon">
+            <Icon name="clock" size={16} />
+          </div>
+          <div style={{ flex: 1, minWidth: 0 }}>
+            <div className="nx-info-card__title">Unsaved draft found</div>
+            <div className="nx-info-card__msg">
+              You have an unfinished admission saved on this device
+              {draft && draft.savedAt ? ` (${formatDraftAge(draft.savedAt)})` : ''}. Restore it to
+              continue where you left off, or discard to start fresh.
+            </div>
+            <div style={{ display: 'flex', gap: 8, marginTop: 10 }}>
+              <Button type="button" variant="gold" size="sm" leftIcon="check" onClick={restoreDraft}>
+                Restore draft
+              </Button>
+              <Button type="button" variant="ghost" size="sm" onClick={discardDraft}>
+                Discard
+              </Button>
+            </div>
+          </div>
+        </div>
+      )}
+
       <FormSection title="Identity" description="Basic details of the student.">
         <FormFileUpload<StudentFormValues> name="photoUrl" label="Photo" kind="avatar" />
         <FormInput<StudentFormValues> name="firstName" label="First name" required placeholder="First name" />

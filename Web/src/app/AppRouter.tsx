@@ -1,11 +1,12 @@
-import { Suspense } from 'react';
-import { Navigate, Route, Routes } from 'react-router-dom';
+import { Suspense, useMemo } from 'react';
+import { Navigate, Route, Routes, useLocation } from 'react-router-dom';
 import { useSession } from '@/app/providers/SessionProvider';
 import { audienceForRole, navForAudience } from '@/app/nav';
 import { moduleComponent } from '@/app/moduleRegistry';
 import { registerAllModules } from '@/app/registerModules';
 import { AppLayout } from '@/app/AppLayout';
 import { Guarded } from '@/app/guards';
+import { ErrorBoundary } from '@/components/ErrorBoundary';
 import { Spinner } from '@/components/feedback';
 import { Splash } from '@/app/screens/Splash';
 import { Dashboard } from '@/app/screens/Dashboard';
@@ -17,33 +18,46 @@ registerAllModules();
 
 /** Per-audience route tree (nested under the session shell). */
 function RoleRoutes() {
-  const { isSuperAdmin, role } = useSession();
+  const { isSuperAdmin, role, permissions, flags, delegatedModules } = useSession();
+  const location = useLocation();
   const audience = audienceForRole(role, isSuperAdmin);
-  const items = navForAudience(audience).filter((i) => i.path !== '/');
+
+  // Build the route <Route> elements once per audience + access shape rather than
+  // on every render. The structural tree is audience-driven (Guarded reads live
+  // session for the actual gate), but we key on the permission/flag/delegation
+  // inputs it depends on so the memo refreshes if access changes mid-session.
+  const routeEls = useMemo(() => {
+    const items = navForAudience(audience).filter((i) => i.path !== '/');
+    return items.map((item) => {
+      const Comp = moduleComponent(audience, item.id);
+      const inner = Comp ? <Comp /> : <ModuleStub title={item.label} icon={item.icon} />;
+      const sub = item.path.replace(/^\//, '');
+      return (
+        <Route
+          key={item.id}
+          path={`${sub}/*`}
+          element={
+            <Guarded perm={item.permission} anyPerm={item.anyPermission} flag={item.flag} moduleKey={item.id}>
+              {inner}
+            </Guarded>
+          }
+        />
+      );
+    });
+  }, [audience, permissions, flags, delegatedModules]);
 
   return (
-    <Suspense fallback={<div className="nx-route-loading"><Spinner size={22} /></div>}>
-      <Routes>
-        <Route index element={<Dashboard />} />
-        {items.map((item) => {
-          const Comp = moduleComponent(audience, item.id);
-          const inner = Comp ? <Comp /> : <ModuleStub title={item.label} icon={item.icon} />;
-          const sub = item.path.replace(/^\//, '');
-          return (
-            <Route
-              key={item.id}
-              path={`${sub}/*`}
-              element={
-                <Guarded perm={item.permission} anyPerm={item.anyPermission} flag={item.flag} moduleKey={item.id}>
-                  {inner}
-                </Guarded>
-              }
-            />
-          );
-        })}
-        <Route path="*" element={<NotFoundScreen />} />
-      </Routes>
-    </Suspense>
+    // Per-route crash net: a render error in one module shows the branded fallback
+    // instead of white-screening the whole app, and recovers when the route changes.
+    <ErrorBoundary scope="route" resetKey={location.pathname}>
+      <Suspense fallback={<div className="nx-route-loading"><Spinner size={22} /></div>}>
+        <Routes>
+          <Route index element={<Dashboard />} />
+          {routeEls}
+          <Route path="*" element={<NotFoundScreen />} />
+        </Routes>
+      </Suspense>
+    </ErrorBoundary>
   );
 }
 

@@ -6,8 +6,10 @@ import { Icon } from '@/components/Icon';
 import { Avatar } from '@/components/Avatar';
 import { Sheet } from '@/components/Sheet';
 import { Button } from '@/components/Button';
+import { Toggle } from '@/components/form';
 import { EmptyState } from '@/components/feedback';
 import { useSession } from '@/app/providers/SessionProvider';
+import { useTheme } from '@/app/theme';
 import {
   audienceForRole,
   bottomNavForAudience,
@@ -38,6 +40,7 @@ export function AppLayout({ children }: { children: ReactNode }) {
   const { isSuperAdmin, role, member, school, schoolId, can, hasFlag, logout, delegatedModules } = session;
   const [accountOpen, setAccountOpen] = useState(false);
   const [notifOpen, setNotifOpen] = useState(false);
+  const { theme, toggle: toggleTheme } = useTheme();
 
   // Usage telemetry: refresh the tenant's last-active stamp (throttled) so the
   // Super Admin console reflects real activity. Best-effort; never blocks UX.
@@ -54,8 +57,14 @@ export function AppLayout({ children }: { children: ReactNode }) {
   // registered for this audience, or one surfaced via a live delegation. This hides
   // not-yet-built "In build" placeholders (e.g. staff Settings/Security, parent
   // Academics/Calendar/Notices) so a user never opens an empty page from the menu.
+  // `comingSoon` items are the exception: they're shown deliberately, but rendered
+  // disabled (no link) by the sidebar so the destination is acknowledged, not broken.
   const isReachable = useCallback(
-    (it: NavItem) => it.path === '/' || !!moduleComponent(audience, it.id) || !!delegatedModules?.includes(it.id),
+    (it: NavItem) =>
+      it.path === '/' ||
+      it.comingSoon ||
+      !!moduleComponent(audience, it.id) ||
+      !!delegatedModules?.includes(it.id),
     [audience, delegatedModules],
   );
 
@@ -162,6 +171,18 @@ export function AppLayout({ children }: { children: ReactNode }) {
           {member?.email && <AccountRow icon="mail" label={member.email} />}
           {member?.phone && <AccountRow icon="phone" label={member.phone} />}
           {school?.name && <AccountRow icon="school" label={school.name} />}
+
+          {/* Appearance: dark is default; light ("outdoor") mode aids sunlight readability. */}
+          <div className="nx-account__row" style={{ justifyContent: 'space-between', gap: 12 }}>
+            <span>Outdoor (light) mode</span>
+            <Toggle
+              checked={theme === 'light'}
+              onChange={toggleTheme}
+              size="sm"
+              aria-label="Toggle light mode"
+            />
+          </div>
+
           <div className="nx-account__actions">
             {moduleComponent(audience, 'settings') && (
               <Button

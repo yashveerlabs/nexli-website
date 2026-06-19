@@ -121,7 +121,7 @@ export function FoundationPage() {
           <Button variant="gold" rightIcon="arrow-right">
             Continue build
           </Button>
-          <span style={{ fontSize: 11.5, color: 'var(--text-faint)' }}>NEXLI · v0.1.0 · © 2026</span>
+          <span style={{ fontSize: 11.5, color: 'var(--text-faint)' }}>NEXLI · © 2026</span>
         </div>
       </div>
     </div>

@@ -23,8 +23,8 @@ export function Sidebar({ nav, contextChip, quickActions, footer, onNavigate }: 
   return (
     <>
       <div className="sb-logo">
-        <div className="sb-logo__mark">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={1.5} strokeLinejoin="round">
+        <div className="sb-logo__mark" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={1.5} strokeLinejoin="round" aria-hidden="true" focusable="false">
             <path d="M12 2 L21 7 L21 17 L12 22 L3 17 L3 7 Z" />
             <path d="M3 7 L12 12 L21 7" />
             <path d="M12 12 L12 22" />
@@ -39,19 +39,33 @@ export function Sidebar({ nav, contextChip, quickActions, footer, onNavigate }: 
       {contextChip}
 
       <nav className="sb-nav" aria-label="Main navigation">
-        {nav.map((item) => (
-          <NavLink
-            key={item.id}
-            to={item.path}
-            end={item.end}
-            onClick={onNavigate}
-            className={({ isActive }) => cn('sb-nav__item', isActive && 'active')}
-          >
-            <Icon name={item.icon} size={18} />
-            <span>{item.label}</span>
-            {item.ai && <span className="nx-navtag">AI</span>}
-          </NavLink>
-        ))}
+        {nav.map((item) =>
+          item.comingSoon ? (
+            // Announced-but-unbuilt: a clearly-disabled item, never a dead link.
+            <div
+              key={item.id}
+              className="sb-nav__item is-soon"
+              aria-disabled="true"
+              title={`${item.label} — coming soon`}
+            >
+              <Icon name={item.icon} size={18} />
+              <span>{item.label}</span>
+              <span className="nx-navtag nx-navtag--soon">Soon</span>
+            </div>
+          ) : (
+            <NavLink
+              key={item.id}
+              to={item.path}
+              end={item.end}
+              onClick={onNavigate}
+              className={({ isActive }) => cn('sb-nav__item', isActive && 'active')}
+            >
+              <Icon name={item.icon} size={18} />
+              <span>{item.label}</span>
+              {item.ai && <span className="nx-navtag">AI</span>}
+            </NavLink>
+          ),
+        )}
       </nav>
 
       {quickActions && quickActions.length > 0 && (
@@ -70,7 +84,8 @@ export function Sidebar({ nav, contextChip, quickActions, footer, onNavigate }: 
 
       {footer ?? (
         <div className="sb-foot">
-          <div className="v">NEXLI School ERP v0.1.0</div>
+          {/* Pre-release version badge removed (was "NEXLI School ERP v0.1.0") —
+              don't signal a beta build to end users. */}
           <div>© 2026 NEXLI. All rights reserved.</div>
         </div>
       )}

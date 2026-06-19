@@ -111,13 +111,37 @@ export function buildPassportHtml(o: PassportOpts): string {
 </body></html>`;
 }
 
-/** Open the passport in a clean window for printing / Save-as-PDF. Returns false if a popup blocker stopped it. */
-export function printPassport(html: string): boolean {
-  const w = window.open('', '_blank', 'width=960,height=1200');
-  if (!w) return false;
+/**
+ * Open a blank print window. Returns null if a popup blocker stopped it.
+ *
+ * POPUP-BLOCKER NOTE: browsers only allow `window.open` during the synchronous
+ * portion of a user-gesture handler. If a caller ever builds/persists data with an
+ * `await` BEFORE printing, the window must be opened synchronously at the very start
+ * of the click (via `openPrintWindow()`), then filled with `writePrintWindow(win, html)`
+ * once the HTML is ready — otherwise the popup is treated as non-user-initiated and
+ * blocked. (Mirrors `features/certificates/print.ts`.)
+ */
+export function openPrintWindow(): Window | null {
+  return window.open('', '_blank', 'width=960,height=1200');
+}
+
+/** Write passport HTML into an already-opened print window and focus it. */
+export function writePrintWindow(w: Window, html: string): void {
   w.document.open();
   w.document.write(html);
   w.document.close();
   w.focus();
+}
+
+/**
+ * Open the passport in a clean window for printing / Save-as-PDF. Safe when called
+ * synchronously from the click (no preceding await), which is how `PortfolioHub`
+ * invokes it. For an issue/persist-then-print flow, pass a window opened earlier in
+ * the same gesture as `preOpened`. Returns false if a popup blocker stopped it.
+ */
+export function printPassport(html: string, preOpened?: Window | null): boolean {
+  const w = preOpened ?? openPrintWindow();
+  if (!w) return false;
+  writePrintWindow(w, html);
   return true;
 }
