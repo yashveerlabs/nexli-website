@@ -1,0 +1,174 @@
+---
+title: "Fee Defaulter List: Creating and Acting On It"
+slug: "fee-defaulter-list-creating-acting"
+meta_description: "Create and manage a fee defaulter list. Process for identifying, tracking, and collecting from defaulting parents."
+category: "School Finance"
+primary_keyword: "fee defaulter list management collection"
+secondary_keywords: ["defaulter tracking", "fee recovery", "delinquent accounts"]
+intent: "How-to / Educational Guide"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 6
+branding_block_company: 6
+branding_block_nexli: 6
+---
+
+## Generating the Defaulter List
+
+**Frequency:**
+- Weekly: Identify students >7 days overdue (for immediate follow-up)
+- Monthly: Full defaulter list (all >30 days overdue)
+- Quarterly: Strategic review (seasonal patterns, escalation decisions)
+
+**What to Include:**
+- Student name, class, section
+- Parent name, phone, email
+- Amount due
+- Due date and days overdue
+- Previous payment history
+- Last action taken (call date, SMS sent, etc.)
+
+**Example:**
+
+| Name | Class | Due | Days OD | Amount | Last Action | Status |
+|------|-------|-----|---------|--------|---|---|
+| Arjun S. | 8-A | Apr 30 | 45 | ₹40,000 | Called Apr 28 | SMS sent; awaiting |
+| Priya M. | 6-B | May 31 | 15 | ₹30,000 | SMS sent Jun 14 | Responded; says paying by Jun 20 |
+| Rohan K. | 10-A | Apr 15 | 60 | ₹40,000 | No contact yet | Escalate; formal notice due |
+
+## Acting on the List
+
+### 7–14 Days Overdue
+**Action:** SMS reminder
+**Message:** "Fee payment is overdue by X days. Please pay immediately via [Link]"
+**Expectation:** 40–50% pay after reminder
+
+### 15–30 Days Overdue
+**Action:** Phone call + SMS
+**Message:** "Hi [Parent], your fee is 20 days overdue. Is there a barrier I can help with? Call [Principal] or pay via [Link]"
+**Expectation:** Additional 20–30% pay after call
+
+### 30–60 Days Overdue
+**Action:** Formal email/letter + Principal meeting
+**Message:** "Your account is 45 days overdue. We need to meet to discuss. Please contact [Principal] within 3 days."
+**Expectation:** 10–15% pay; remainder needs plan or escalation
+
+### 60+ Days Overdue
+**Action:** Formal default notice + restrictive action
+**Message:** "Your account is 60+ days overdue. Unless payment is received by [Date], the following actions will be taken: [withhold report card, block re-enrollment, legal notice]"
+**Expectation:** 5–10% pay; remainder proceeds to escalation
+
+## Categorizing Defaulters
+
+**Category A: Able to Pay, Won't Pay (Negligent)**
+- History of paying eventually after pressure
+- Has resources; avoids payment
+- Action: Firm follow-up; escalate quickly
+
+**Category B: Genuinely Unable to Pay (Economic Hardship)**
+- Lost job, medical emergency, income reduction
+- Willing to pay; lacks means
+- Action: Offer scholarship/concession; create payment plan
+
+**Category C: Disputing Fees (Disagreement)**
+- Believes fee calculation is wrong
+- Action: Listen; recalculate if needed; clarify
+
+**Category D: Institutional Issues (School at Fault)**
+- Invoice sent to wrong address
+- Payment got lost (system error)
+- Action: Fix issue; waive late penalties
+
+**Handling Each:**
+- Category A: Don't give in to delays; escalate to legal
+- Category B: Reduce fee; formalize payment plan
+- Category C: Resolve dispute; adjust if warranted
+- Category D: Apologize; fix process
+
+## Best Practices
+
+**1. Monthly Review Meeting**
+- Principal, accountant, one teacher
+- Review defaulter list
+- Discuss: Who pays after follow-up? Who needs escalation? Why?
+- Adjust strategy based on data
+
+**2. Escalation Discipline**
+- Don't let defaulters drag on for years
+- Clear timeline: 30 days → notice; 60 days → restriction; 90 days → legal
+- Follow through (credibility matters)
+
+**3. Track Outcomes**
+- "Out of 15 defaulters this month, 8 paid after SMS, 4 after call, 2 after legal notice, 1 remains unpaid"
+- Learn what works; optimize
+
+**4. Distinguish Restriction Wisely**
+- Withhold report card: Effective but harsh
+- Block re-enrollment: Extreme; use as last resort
+- Ban from school events: Less harsh; still sends message
+
+**5. Communication Tone**
+- Firm, not harsh
+- Respectful, not subservient
+- Problem-solving, not punitive
+
+## How Nexli Creates Defaulter Lists
+
+**Automatic Generation:**
+- Define "defaulter" threshold (30+ days overdue)
+- Nexli generates list daily/weekly
+- Categorizes by: 30–60, 60–90, 90+ days
+
+**Status Tracking:**
+- Nexli notes each action taken (call, SMS, email, meeting)
+- Tracks outcomes ("Paid after SMS" vs. "No response")
+- Updates status automatically
+
+**Escalation Workflow:**
+- SMS sent automatically on Day 15
+- Email sent automatically on Day 30
+- Alert to principal on Day 60 (formal notice step due)
+- Alert on Day 90 (escalate to legal)
+
+**Reporting:**
+- Monthly report: "Collected ₹X from defaulters via reminders"
+- Trend: "30 defaulters last month; 45 this month" (deteriorating?)
+
+---
+
+## Branding Block: Why Nexli
+
+Managing defaulters manually is tedious and error-prone. Nexli automates the list, tracking, and escalation.
+
+**Founder Insight (Yashveer Singh Rajpoot):**
+> "Schools that manage defaulter lists systematically recover 80–90% of outstanding fees. Nexli automates the system, so schools don't forget or delay action."
+
+**Yashveer Labs' Commitment:**
+Your revenue depends on consistent follow-up. Nexli makes follow-up automatic and disciplined.
+
+---
+
+## Call to Action
+
+Create and manage a defaulter list:
+
+1. **Generate weekly** (students >7 days overdue)
+2. **Act on tiered schedule** (7 days→SMS, 15→call, 30→notice, 60→escalate)
+3. **Categorize defaulters** (unable to pay vs. unwilling)
+4. **Follow through** (don't let defaulters drag indefinitely)
+5. **Track outcomes** (learn what works; optimize)
+
+Nexli automates the entire defaulter workflow. **[Request a demo](#contact)** and see how your school can recover 90%+ of outstanding fees.
+
+---
+
+## FAQ
+
+**Q1: Is it unethical to withhold report cards for unpaid fees?**
+A: If communicated at admission, it's reasonable and legally defensible. Courts have upheld this practice.
+
+**Q2: At what point do we escalate to police/legal?**
+A: Typically 90+ days after formal notice. But consult your legal counsel first.
+
+**Q3: Should we write off old defaults?**
+A: Generally no. Even after years, pursue recovery. Some parents pay when escalated to legal threat.
