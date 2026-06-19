@@ -1,0 +1,46 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Icon from "../../components/Icon.astro";
+import { KB_CATEGORIES } from "../../lib/site";
+---
+<BaseLayout
+  title="Knowledge Base"
+  description="2,000+ in-depth guides for running a better school — across 20 categories, from admissions and academics to compliance, finance, and leadership."
+>
+  <section class="relative overflow-hidden">
+    <div class="glow-radial"></div>
+    <div class="container-nx relative pt-32 pb-16 text-center md:pt-40">
+      <p class="eyebrow justify-center"><Icon name="sparkle" size={15} /> Knowledge Base</p>
+      <h1 class="mx-auto mt-6 max-w-3xl text-4xl sm:text-5xl md:text-6xl">
+        Guides for running a <span class="text-gradient-gold">better school</span>
+      </h1>
+      <p class="mx-auto mt-6 max-w-2xl text-ivory-muted">
+        A growing library of 2,000+ practical, in-depth articles across 20 categories — written for
+        principals, administrators, and teachers across India.
+      </p>
+    </div>
+  </section>
+
+  <section class="pb-24">
+    <div class="container-nx">
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {KB_CATEGORIES.map((c, i) => (
+          <a href={`/knowledge-base/${c.slug}`} class="card group flex items-center gap-4">
+            <div
+              class="inline-flex h-11 w-11 shrink-0 items-center justify-center rounded-xl border border-line text-gold"
+              style="background:rgba(198,165,92,0.06)"
+            >
+              <Icon name={c.icon} size={20} />
+            </div>
+            <div>
+              <div class="text-[0.7rem] uppercase tracking-wider text-ivory-faint">
+                {String(i + 1).padStart(2, "0")}
+              </div>
+              <h2 class="text-base text-ivory transition-colors group-hover:text-gold-200">{c.title}</h2>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

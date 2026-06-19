@@ -1,0 +1,26 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import ComingSoon from "../../components/ComingSoon.astro";
+import { KB_CATEGORIES } from "../../lib/site";
+
+// Placeholder category routes so the Knowledge Base structure is navigable.
+// In the content phase these are replaced by pages backed by the Web/Blog/ collection.
+export function getStaticPaths() {
+  return KB_CATEGORIES.map((c) => ({
+    params: { category: c.slug },
+    props: { title: c.title },
+  }));
+}
+
+const { title } = Astro.props as { title: string };
+---
+<BaseLayout
+  title={title}
+  description={`In-depth ${title} guides for schools — part of the Nexli Knowledge Base.`}
+>
+  <ComingSoon
+    kicker="Knowledge Base"
+    title={title}
+    body={`In-depth ${title} guides are being published now. Check back soon — or message us on WhatsApp with a question in the meantime.`}
+  />
+</BaseLayout>

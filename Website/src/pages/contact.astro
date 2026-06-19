@@ -1,0 +1,81 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import { whatsappHref, SITE } from "../lib/site";
+const wa = whatsappHref();
+---
+<BaseLayout
+  title="Contact"
+  description="Get in touch with Nexli. Message us on WhatsApp for the fastest reply, or send a note and we'll get back to you."
+>
+  <section class="relative overflow-hidden">
+    <div class="glow-radial"></div>
+    <div class="container-nx relative pt-32 pb-20 md:pt-40">
+      <div class="mx-auto max-w-2xl text-center">
+        <p class="eyebrow justify-center"><Icon name="sparkle" size={15} /> Contact</p>
+        <h1 class="mt-6 text-4xl sm:text-5xl md:text-6xl">Let's talk about your school</h1>
+        <p class="mt-6 text-ivory-muted">
+          The fastest way to reach us is WhatsApp — tap below and we'll reply quickly. Prefer email?
+          Use the form and we'll get back to you.
+        </p>
+      </div>
+
+      <div class="mx-auto mt-14 grid max-w-4xl gap-6 lg:grid-cols-2">
+        <!-- WhatsApp: primary -->
+        <div class="card flex flex-col">
+          <div class="flex items-center gap-3">
+            <div class="inline-flex h-11 w-11 items-center justify-center rounded-xl text-white" style="background:#1faa53">
+              <Icon name="whatsapp" size={22} />
+            </div>
+            <div>
+              <h2 class="text-lg text-ivory">Chat on WhatsApp</h2>
+              <p class="text-sm text-ivory-faint">Usually replies within hours</p>
+            </div>
+          </div>
+          <p class="mt-5 text-sm leading-relaxed text-ivory-muted">
+            Tell us about your school and what you'd like to improve. We'll show you exactly how Nexli
+            fits — no pressure, no jargon.
+          </p>
+          <a href={wa} target="_blank" rel="noopener" class="btn btn-whatsapp mt-6 w-full">
+            <Icon name="whatsapp" size={18} /> Contact Now on WhatsApp
+          </a>
+        </div>
+
+        <!-- Form: backup -->
+        <div class="card">
+          <h2 class="text-lg text-ivory">Send a message</h2>
+          <!-- TODO: create a free Web3Forms access key at https://web3forms.com and paste it below. -->
+          <form action="https://api.web3forms.com/submit" method="POST" class="mt-5 space-y-3">
+            <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_ACCESS_KEY" />
+            <input type="hidden" name="subject" value="New enquiry from the Nexli website" />
+            <input type="hidden" name="from_name" value="Nexli Website" />
+            <input type="checkbox" name="botcheck" class="hidden" style="display:none" tabindex="-1" autocomplete="off" />
+
+            <input type="text" name="name" required placeholder="Your name" class="nx-input" />
+            <input type="text" name="school" placeholder="School name" class="nx-input" />
+            <input type="email" name="email" required placeholder="Email" class="nx-input" />
+            <input type="tel" name="phone" placeholder="Phone (optional)" class="nx-input" />
+            <textarea name="message" rows="4" placeholder="How can we help?" class="nx-input resize-none"></textarea>
+            <button type="submit" class="btn btn-gold w-full">Send message</button>
+            <p class="text-center text-xs text-ivory-faint">We'll only use your details to reply to your enquiry.</p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style is:global>
+  .nx-input {
+    width: 100%;
+    border-radius: 0.75rem;
+    border: 1px solid var(--color-line);
+    background: rgba(255, 255, 255, 0.02);
+    padding: 0.7rem 0.9rem;
+    font-size: 0.9rem;
+    color: var(--color-ivory);
+    transition: border-color 0.2s ease;
+  }
+  .nx-input::placeholder { color: var(--color-ivory-faint); }
+  .nx-input:focus { outline: none; border-color: rgba(198, 165, 92, 0.6); }
+</style>

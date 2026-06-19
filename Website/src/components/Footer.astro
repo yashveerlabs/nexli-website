@@ -1,0 +1,68 @@
+---
+import Logo from "./Logo.astro";
+import Icon from "./Icon.astro";
+import { SITE, NAV, DEMO_HREF, KB_CATEGORIES, whatsappHref } from "../lib/site";
+const wa = whatsappHref();
+const year = new Date().getFullYear();
+const kbFeatured = KB_CATEGORIES.slice(0, 6);
+---
+<footer class="relative border-t border-line">
+  <div class="container-nx py-16">
+    <div class="grid gap-12 md:grid-cols-[1.4fr_1fr_1fr_1fr]">
+      <div>
+        <Logo />
+        <p class="mt-5 max-w-xs text-sm leading-relaxed text-ivory-muted">
+          The School Operating System for modern education. {SITE.tagline}.
+        </p>
+        <a href={wa} target="_blank" rel="noopener" class="btn btn-whatsapp mt-6">
+          <Icon name="whatsapp" size={18} /> Contact on WhatsApp
+        </a>
+      </div>
+
+      <div>
+        <h3 class="text-xs font-semibold uppercase tracking-[0.18em] text-ivory-faint">Platform</h3>
+        <ul class="mt-4 space-y-3 text-sm">
+          {NAV.map((item) => (
+            <li>
+              <a href={item.href} class="text-ivory-muted transition-colors hover:text-gold-200">{item.label}</a>
+            </li>
+          ))}
+          <li><a href={DEMO_HREF} class="text-ivory-muted transition-colors hover:text-gold-200">Free Live Demo</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="text-xs font-semibold uppercase tracking-[0.18em] text-ivory-faint">Knowledge Base</h3>
+        <ul class="mt-4 space-y-3 text-sm">
+          {kbFeatured.map((c) => (
+            <li>
+              <a href={`/knowledge-base/${c.slug}`} class="text-ivory-muted transition-colors hover:text-gold-200">{c.title}</a>
+            </li>
+          ))}
+          <li><a href="/knowledge-base" class="text-gold transition-colors hover:text-gold-200">All categories →</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="text-xs font-semibold uppercase tracking-[0.18em] text-ivory-faint">Company</h3>
+        <ul class="mt-4 space-y-3 text-sm">
+          <li><a href="/about" class="text-ivory-muted transition-colors hover:text-gold-200">About</a></li>
+          <li><a href="/contact" class="text-ivory-muted transition-colors hover:text-gold-200">Contact</a></li>
+          <li><a href="/pricing" class="text-ivory-muted transition-colors hover:text-gold-200">Pricing</a></li>
+          <li><a href="#" class="text-ivory-muted transition-colors hover:text-gold-200">Privacy</a></li>
+          <li><a href="#" class="text-ivory-muted transition-colors hover:text-gold-200">Terms</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <hr class="hairline my-10" />
+
+    <div class="flex flex-col items-center justify-between gap-4 text-sm text-ivory-faint sm:flex-row">
+      <p>© {year} {SITE.name}. All rights reserved.</p>
+      <p class="flex items-center gap-2">
+        <Icon name="sparkle" size={14} class="text-gold" />
+        Built for Indian schools · Made in India
+      </p>
+    </div>
+  </div>
+</footer>
