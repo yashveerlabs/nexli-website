@@ -234,3 +234,18 @@ Systematic fix pass against the deduplicated **P0–P3 / Tier-0/1 launch-blocker
 - AI insights: removed **all** fabricated student names/risk scores/briefings/fake inputs → honest "Coming Soon — Preview" (no fake PII remains under the AI overlay).
 - Transport LiveMap: honest empty state (live tracking needs driver GPS app); library OverdueTab: **real** per-day fine computation (`computeFine`, `DEFAULT_FINE_PER_DAY`).
 - itadmin backup log: removed delete affordance (append-only); SchoolWizard temp password masked + reveal toggle + one-time/expiry warning.
+
+### Wave 2 — Finance · Data integrity
+
+**Finance correctness & atomicity** (commit `8e6c13f`)
+- `cancelInvoice` transaction-guarded (blocks cancel when `paidAmount>0`); `recordPayment` rejects overpayment in-transaction; payslip writes **locked after run finalization** (`savePayslipGuarded`); payroll-run generation writes run doc first + chunked batches (idempotent retry); `markPayrollRunPaid` atomic batch; approval wrapped in status-checking transaction (no double-approve).
+- **LOP now recomputes ESI/PT on earned (post-LOP) gross** — correct Indian-payroll treatment; concurrent concessions transaction-safe (net floored at 0); GRN+PO atomic batch.
+- Finance monetary inputs → `type=text inputMode=decimal`.
+- New: **Tally XML export** (`tallyExport.ts` — fee/expense/payroll vouchers), **EPF/ESI/TDS statutory CSV + print** (`statutoryExport.ts`, honest "working sheet", not a faked govt ECR).
+
+**Data integrity & race conditions** (commit `b629a36`)
+- Atomic admission & TC serial counters (`admission_counters`/`tc_counters` via `runTransaction`); atomic admit batch (no orphan students); **RTE lottery** CSPRNG (auditable) + atomic `writeBatch` + `deleteField()` rank clear (RTE Act); TC clearance no longer regresses an approved TC.
+- Hostel occupancy `runTransaction` (no capacity overflow); canteen headcount deterministic-id upsert (no double-count); messaging doc-id collision fixed (crypto suffix); provisioning unique app-name + best-effort Auth rollback on Firestore failure.
+- `roster.length` `useEffect` dep bug fixed in attendance/transport/hostel rollcall (3 modules); exam ResultsTab max-inflation + stale-doc delete + `allSettled`; rankings recompute from raw marks; homework cascade-delete of submissions; student import preserves guardian relation + duplicate detection; attendance status legend.
+- DPDP `ConsentGate` (warn mode) wired into admissions; `sweepExpiredSubscriptions` re-read transaction (no double-write/double-log across tabs).
+- Verified **already resolved**: `reportcard/compute.ts autoFillSubjects` (keys marks by paperId).
