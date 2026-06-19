@@ -1,174 +1,109 @@
-﻿---
-title: "ESI/EPF Compliance"
-slug: "esi-epf-compliance"
-category: "Compliance"
-category_number: 7
-article_number: 69
-published: true
-seo:
-  description: "Complete compliance guide for ESI/EPF Compliance in Indian schools."
-  keywords: "school compliance, ESI/EPF Compliance, Indian education"
-  canonical: "https://nexli.io/blog/compliance/esi-epf-compliance"
-branding_block: 7
+---
+title: "ESI and EPF Compliance for Schools: What Employers Must Do"
+slug: "esi-epf-compliance-schools"
+meta_description: "Understand ESI and EPF obligations for schools as employers. Covers eligibility thresholds, contribution rates, registration, monthly filing, and employee benefits."
+category: "School Compliance"
+primary_keyword: "ESI EPF compliance schools India"
+secondary_keywords: ["school employee provident fund", "ESI for teachers schools", "PF compliance school employer", "ESIC school registration"]
+intent: "informational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 1
+branding_block_company: 1
+branding_block_nexli: 1
 ---
 
-## Introduction to ESI/EPF Compliance
+Schools are employers. As employers, schools with 10 or more employees must comply with the Employees' State Insurance Act 1948 (ESI) and the Employees' Provident Funds and Miscellaneous Provisions Act 1952 (EPF). These laws apply to most private schools, regardless of their registration as trust, society, or company.
 
-ESI/EPF Compliance is a critical compliance requirement for educational institutions in India. This comprehensive guide covers all aspects of implementation, requirements, and best practices.
+Non-compliance with ESI and EPF is a significant labour law violation. It creates financial liability (arrears, interest, penalty) and can result in prosecution of the school management.
 
-## Legal Framework
+## EPF: Employees' Provident Fund
 
-The requirement for ESI/EPF Compliance stems from:
-- Central and State education policies
-- Statutory regulations
-- Board directives
-- Ministry guidelines
-- Supreme Court judgments
+**Applicability:** Establishments employing 20 or more employees (10 for certain specified industries). Schools are typically covered when they reach 20 employees; some states have extended coverage to establishments with fewer employees.
 
-## Key Requirements
+**Who is covered:** All employees earning up to Rs. 15,000 per month basic salary. Employees earning above Rs. 15,000 can opt in.
 
-Schools must:
-1. Understand compliance requirements
-2. Develop implementation procedures
-3. Train staff members
-4. Maintain proper documentation
-5. Conduct periodic audits
-6. Report to authorities as required
-7. Address deficiencies promptly
+**Contribution rates:**
+- Employee: 12% of basic salary + dearness allowance
+- Employer: 12% of basic salary + DA (of which, 8.33% goes to EPS — Employees' Pension Scheme, and the rest to EPF account)
 
-## Nexli FACTS for Compliance Management
+**Employer obligations:**
+- Register with the Regional Provident Fund Commissioner (RPFC) online at the EPFO unified portal
+- Deduct employee contribution from salary each month
+- Add employer's contribution
+- Deposit total (employee + employer) by the 15th of the following month
+- File monthly ECR (Electronic Challan-cum-Return) through the EPFO portal
+- Issue annual UAN-linked statements to employees
 
-Nexli's Compliance module supports ESI/EPF Compliance through:
+**Employee UAN:** Each covered employee must have a Universal Account Number (UAN). Employer activates and links UAN for new employees.
 
-- **Compliance Calendar**: Automated reminders for deadlines and key dates
-- **Document Storage**: Secure cloud storage for all compliance documents
-- **Audit Trails**: Complete record of all actions taken for compliance
-- **Policy Tracking**: Monitor policy implementation across school
-- **Report Generation**: Create compliance reports for audits and inspections
-- **Task Assignment**: Assign compliance tasks to responsible staff
-- **Checklist Management**: Track completion of compliance requirements
-- **Digital Archiving**: Maintain accessible records for inspections
+## ESI: Employees' State Insurance
 
-## Implementation Strategy
+**Applicability:** Establishments employing 10 or more employees in areas covered by the ESI scheme.
 
-Develop a structured approach:
+**Who is covered:** Employees earning up to Rs. 21,000 per month gross salary.
 
-**Phase 1: Planning**
-- Understand requirements
-- Identify gaps
-- Create action plan
-- Allocate resources
-- Set timelines
+**Contribution rates:**
+- Employee: 0.75% of gross wages
+- Employer: 3.25% of gross wages
 
-**Phase 2: Implementation**
-- Train staff
-- Develop procedures
-- Update systems
-- Create documentation
-- Communicate to stakeholders
+**Benefits to employees:**
+- Medical care for employee and their dependants
+- Sickness benefit
+- Maternity benefit
+- Disablement benefit
 
-**Phase 3: Monitoring**
-- Track progress
-- Conduct audits
-- Address issues
-- Update procedures
-- Maintain records
+**Employer obligations:**
+- Register with ESIC (Employee State Insurance Corporation) online
+- Deduct employee contribution from salary
+- Add employer contribution
+- Deposit total by the 15th of the following month
+- File half-yearly returns (Form 5) with ESIC within 42 days of each half-year ending
 
-**Phase 4: Reporting**
-- Prepare compliance reports
-- Submit to authorities
-- Document improvements
-- Plan next steps
-- Share with board
+## Registration Process
 
-## Common Challenges
+**EPF registration:** Online at the EPFO Unified Shram Suvidha Portal. Requires school registration documents (trust deed, society registration), PAN, and bank details.
 
-- Understanding complex requirements
-- Limited staff resources
-- Data management issues
-- Coordination across departments
-- Maintaining documentation
-- Staying updated on changes
+**ESI registration:** Online at the ESIC portal. Requires similar documentation. On registration, each covered employee is issued an ESI card.
 
-## Best Practices
+## Common Compliance Issues for Schools
 
-1. **Create detailed procedures** for all compliance activities
-2. **Train staff regularly** on compliance requirements
-3. **Use digital tools** like Nexli for efficient management
-4. **Conduct regular audits** to ensure compliance
-5. **Maintain organized documentation** for easy retrieval
-6. **Communicate transparently** with stakeholders
-7. **Stay updated** on policy changes
-8. **Plan ahead** for compliance deadlines
+**Not registering:** Schools that cross the employment threshold but delay registration. The obligation attaches from the date the threshold is crossed, and arrears are calculated from that date.
 
-## Documentation Checklist
+**Excluding contract staff:** Housekeeping, security, and canteen staff employed through contractors may be covered under ESI/EPF depending on the nature of the arrangement.
 
-Essential documents for ESI/EPF Compliance:
-- [ ] Policy documents
-- [ ] Procedure manuals
-- [ ] Staff training records
-- [ ] Audit reports
-- [ ] Inspection certificates
-- [ ] Government correspondence
-- [ ] Implementation records
-- [ ] Compliance reports
+**Incorrect salary definition:** Using only basic pay to calculate contributions while excluding other allowances that are part of wages under the Acts.
 
-## Risk Management
+## How Nexli Helps
 
-Identify and mitigate risks:
-- Incomplete documentation
-- Missed deadlines
-- Staff non-compliance
-- System failures
-- Data loss
-- Regulatory changes
+Nexli's payroll module tracks employee salaries and calculates EPF and ESI contributions per employee per month. The system generates the data needed for ECR filing and maintains contribution records for audit. Salary slips show employee deductions.
 
-## Technology Solutions
+[Book a Free Demo](/demo) to see Nexli's payroll and statutory compliance tools.
 
-Implement digital solutions to:
-- Automate compliance tracking
-- Centralize documentation
-- Streamline reporting
-- Reduce manual errors
-- Improve accessibility
-- Ensure data security
+---
 
-## Training and Awareness
+**About Nexli:** Nexli's payroll module handles EPF and ESI contribution calculation, maintains employee records, and generates payroll data for statutory filing. Schools using Nexli manage ESI/EPF compliance as part of payroll processing, not as a separate exercise.
 
-Ensure all staff understand:
-- Regulatory requirements
-- School procedures
-- Their responsibilities
-- Consequences of non-compliance
-- Available support systems
+**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli knowing that labour law compliance for schools is often neglected until an inspection or complaint arrives. Building ESI/EPF calculation into payroll means compliance is automatic for every salary cycle.
 
-## Audit and Verification
+**How Nexli Helps:** Yashveer Labs invests in payroll accuracy because employee welfare compliance protects employees and reduces legal risk for school management. Accurate contribution calculation and timely records mean the school demonstrates compliance continuously.
 
-Prepare for audits by:
-- Maintaining complete documentation
-- Organizing records systematically
-- Creating summary reports
-- Addressing previous findings
-- Updating procedures as needed
+---
 
-## Reporting to Authorities
+## FAQ
 
-When required, submit:
-- Compliance certificates
-- Audit reports
-- Implementation status
-- Corrections made
-- Future plans
+**Q: Are part-time teachers covered under EPF and ESI?**
 
-## Continuous Improvement
+A: Part-time teachers are covered if they qualify as "employees" under the Acts and their wages are within the applicable ceiling. Mere part-time status does not exclude them if they work regularly for the school.
 
-Establish process to:
-- Review compliance effectiveness
-- Identify improvement areas
-- Update procedures
-- Train on changes
-- Document improvements
+**Q: Must a school trust register separately under EPF and ESI if it runs multiple school campuses?**
 
-## Conclusion
+A: Each establishment (campus) may require separate registration if it has a separate legal identity or is in a different state. Schools with multiple campuses should confirm the applicable structure with EPFO and ESIC.
 
-ESI/EPF Compliance requires systematic implementation, proper documentation, and continuous monitoring. By using comprehensive compliance management systems like Nexli, schools can efficiently meet all requirements while maintaining proper audit trails and documentation for inspections.
+**Q: What if a school has been operating for years without registering for EPF/ESI?**
+
+A: Register immediately. Arrears (contributions that should have been made from the date of coverage) plus interest and penalty are payable. Voluntary disclosure and prompt registration typically results in better treatment than continued non-compliance discovered during an inspection.
+
+**Q: Are senior teachers earning more than Rs. 15,000 basic excluded from EPF?**
+
+A: Employees earning above Rs. 15,000 basic are not mandatorily covered from the date they exceed that ceiling. However, once covered, an employee continues to be a member until they leave. New employees earning above Rs. 15,000 from the start can opt in voluntarily.
