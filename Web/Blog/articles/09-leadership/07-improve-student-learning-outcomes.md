@@ -1,8 +1,8 @@
 ---
 title: "How to Improve Student Learning Outcomes: A Principal's Action Plan"
-slug: "improve-student-learning-outcomes"
+slug: "07-improve-student-learning-outcomes"
 meta_description: "Practical strategies for principals to improve student learning outcomes. Learn how to identify struggling students, support teachers, and measure progress."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "improve student learning"
 secondary_keywords:
   - "student academic improvement"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## How to Improve Student Learning Outcomes: A Principal's Action Plan
 
 **Improving student learning is the core responsibility of every principal. But how? Most principals focus on test scores, but real learning is deeper, it's conceptual understanding, critical thinking, problem-solving, and character. This guide gives you a practical framework: identify at-risk students early, support struggling teachers, implement evidence-based interventions, and measure progress. By the end of this article, you'll have a step-by-step action plan to boost learning outcomes at your school.**

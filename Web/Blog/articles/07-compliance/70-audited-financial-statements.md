@@ -1,18 +1,21 @@
 ---
 title: "Audited Financial Statements for Schools: Preparation and Compliance"
-slug: "audited-financial-statements-schools"
+slug: "70-audited-financial-statements"
 meta_description: "Guide to preparing audited financial statements for schools. Covers income and expenditure accounts, balance sheet, grant accounting, fee fund accounting, and audit requirements."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "audited financial statements schools India"
-secondary_keywords: ["school balance sheet", "income expenditure school", "school accounts preparation", "financial statements school trust"]
-intent: "informational"
+secondary_keywords:
+  - "school balance sheet"
+  - "income expenditure school"
+  - "school accounts preparation"
+  - "financial statements school trust"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 Schools must prepare annual financial statements that accurately reflect their income, expenditure, assets, and liabilities. These statements form the basis for the statutory audit and for disclosures to regulators, government authorities, and, in some states, to parents.
 
 Unlike commercial businesses, schools follow an income and expenditure (I&E) model rather than a profit and loss model, reflecting their non-profit character.

@@ -1,22 +1,21 @@
 ---
-title: Co-Educational Statistics for Modern Indian Schools
-slug: co-educational-statistics-for-modern-indian-schools
-meta_description: Co-Educational Statistics for Modern Indian Schools
-category: Research & Statistics
-primary_keyword: co-educational statistics
+title: "Co-Educational Statistics for Modern Indian Schools"
+slug: "074-co-educational-statistics-for-modern-indian-schools"
+meta_description: "Co-Educational Statistics for Modern Indian Schools"
+category: "School Research, Statistics & Reports"
+primary_keyword: "co-educational statistics"
 secondary_keywords:
-  - co-educational statistics schools
-  - best practices co-educational statistics
-  - co-educational statistics strategy
-  - how to implement co-educational statistics
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "co-educational statistics schools"
+  - "best practices co-educational statistics"
+  - "co-educational statistics strategy"
+  - "how to implement co-educational statistics"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on co-educational statistics for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

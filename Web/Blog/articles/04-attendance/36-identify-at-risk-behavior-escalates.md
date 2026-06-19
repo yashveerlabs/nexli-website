@@ -1,18 +1,21 @@
-﻿---
+---
 title: "How to Identify At-Risk Behavior Before It Escalates"
-slug: "identify-at-risk-behavior-escalates"
+slug: "36-identify-at-risk-behavior-escalates"
 meta_description: "Learn about how to identify at-risk behavior before it escalates in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "how to identify at-risk behavior before it escalates"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with how to identify at-risk behavior before it escalates:

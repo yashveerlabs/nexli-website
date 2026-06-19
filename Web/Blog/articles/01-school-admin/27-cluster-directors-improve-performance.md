@@ -1,10 +1,14 @@
 ---
 title: "How Cluster Directors Improve School Performance Across Branches"
-slug: "cluster-directors-school-performance"
+slug: "27-cluster-directors-improve-performance"
 meta_description: "Cluster director role in coordinating and improving performance across school branches."
-category: "1. School Administration & Operations"
+category: "School Administration & Operations"
 primary_keyword: "cluster director school performance"
-secondary_keywords: ["cluster management", "school coordination", "performance improvement", "branch management"]
+secondary_keywords:
+  - "cluster management"
+  - "school coordination"
+  - "performance improvement"
+  - "branch management"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
@@ -12,7 +16,6 @@ branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## How Cluster Directors Improve School Performance Across Branches
 
 Cluster Directors manage larger groups of schools (5-10+) than Regional Directors. They focus on long-term performance improvement, not daily operations. Their role is strategic: identify patterns, set targets, remove obstacles, and ensure each school improves year-over-year.

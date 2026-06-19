@@ -1,18 +1,21 @@
 ---
 title: "Child Protection Investigations: What Schools Must and Must Not Do"
-slug: "child-protection-investigation-schools"
+slug: "47-child-protection-investigation"
 meta_description: "Understand school obligations during child protection investigations under POCSO Act. Covers what schools can do, what is prohibited, and how to cooperate with police."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "child protection investigation school POCSO"
-secondary_keywords: ["school investigation POCSO", "police investigation child abuse school", "child abuse school response", "POCSO investigation procedure"]
-intent: "informational"
+secondary_keywords:
+  - "school investigation POCSO"
+  - "police investigation child abuse school"
+  - "child abuse school response"
+  - "POCSO investigation procedure"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 19
 branding_block_company: 19
 branding_block_nexli: 19
 ---
-
 When a child protection complaint is filed at a school, two distinct processes begin: the police investigation (mandatory under POCSO) and the school's internal response. These are not the same process. Schools that conduct parallel internal investigations, question witnesses, or take disciplinary action before police have investigated can obstruct justice and cause additional harm to the child.
 
 This article clarifies what schools must do, what they must not do, and how to cooperate appropriately with formal investigations.

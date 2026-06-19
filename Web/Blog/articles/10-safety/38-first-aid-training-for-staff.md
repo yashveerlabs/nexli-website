@@ -1,18 +1,21 @@
 ---
-title: First Aid Training for Staff
-slug: first-aid-training-for-staff
-meta_description: Develop comprehensive first aid training programs for school staff to handle medical emergencies and protect student safety.
-category: Safety & Operations
-primary_keyword: first aid training schools
-secondary_keywords: ["staff medical training", "emergency response", "CPR training", "incident management"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+title: "First Aid Training for Staff"
+slug: "38-first-aid-training-for-staff"
+meta_description: "Develop comprehensive first aid training programs for school staff to handle medical emergencies and protect student safety."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "first aid training schools"
+secondary_keywords:
+  - "staff medical training"
+  - "emergency response"
+  - "CPR training"
+  - "incident management"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # First Aid Training for Staff: Building Emergency Response Capability
 
 Medical emergencies in schools demand rapid, confident response. A student collapses during sports, a child cuts their head during play, an allergic reaction strikes unexpectedly, without trained staff, critical minutes are lost. This guide explains how to build first aid competency across your school team.

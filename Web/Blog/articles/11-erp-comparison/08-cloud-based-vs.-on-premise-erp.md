@@ -1,8 +1,8 @@
 ---
 title: "Cloud-Based vs. On-Premise ERP for Schools: What to Choose"
-slug: "cloud-based-vs-on-premise-erp"
+slug: "08-cloud-based-vs.-on-premise-erp"
 meta_description: "Cloud vs. on-premise school ERP: compare costs, data control, maintenance, connectivity needs, and compliance implications for Indian schools in 2026."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "cloud vs on-premise school ERP"
 secondary_keywords:
   - "SaaS school ERP India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP data residency"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 ## Cloud-Based vs. On-Premise ERP for Schools: What to Choose
 
 **The choice between cloud and on-premise school ERP affects maintenance cost, data control, offline capability, and compliance. Most Indian schools in 2026 choose cloud for cost and convenience, but on-premise remains valid for specific scenarios. This guide explains the genuine differences so you can decide what fits your school.**

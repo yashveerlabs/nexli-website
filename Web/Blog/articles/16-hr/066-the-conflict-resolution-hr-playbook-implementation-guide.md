@@ -1,22 +1,21 @@
-﻿---
-title: The Conflict Resolution Hr Playbook: Implementation Guide
-slug: the-conflict-resolution-hr-playbook-implementation-guide
-meta_description: The Conflict Resolution Hr Playbook: Implementation Guide
-category: HR & Recruitment
-primary_keyword: conflict resolution HR
+---
+title: "The Conflict Resolution Hr Playbook: Implementation Guide"
+slug: "066-the-conflict-resolution-hr-playbook-implementation-guide"
+meta_description: "The Conflict Resolution Hr Playbook: Implementation Guide"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "conflict resolution HR"
 secondary_keywords:
-  - conflict resolution HR schools
-  - best practices conflict resolution HR
-  - conflict resolution HR strategy
-  - how to implement conflict resolution HR
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "conflict resolution HR schools"
+  - "best practices conflict resolution HR"
+  - "conflict resolution HR strategy"
+  - "how to implement conflict resolution HR"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on conflict resolution hr for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

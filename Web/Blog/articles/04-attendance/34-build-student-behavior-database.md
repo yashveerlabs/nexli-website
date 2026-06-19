@@ -1,18 +1,21 @@
-﻿---
+---
 title: "How to Build a Student Behavior Database"
-slug: "build-student-behavior-database"
+slug: "34-build-student-behavior-database"
 meta_description: "Learn about how to build a student behavior database in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "how to build a student behavior database"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with how to build a student behavior database:

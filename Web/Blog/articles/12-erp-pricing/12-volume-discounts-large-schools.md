@@ -1,20 +1,20 @@
 ---
 title: "Volume Discounts for Large Schools: When They Apply"
-slug: "volume-discounts-large-schools"
+slug: "12-volume-discounts-large-schools"
 meta_description: "Large school ERP volume discounts. How enrollment size affects pricing. When to expect 15-40% savings on school management systems."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "volume discounts large schools ERP"
-secondary_keywords: ["big school ERP pricing", "enrollment-based discounts", "large institution software costs"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "big school ERP pricing"
+  - "enrollment-based discounts"
+  - "large institution software costs"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 **Snippet:** Schools with 2,000+ students typically receive 15-30% volume discounts on per-student ERP pricing. Large schools spend ₹2,00,000-₹8,00,000 annually depending on enrollment. Flat-fee vendors offer better value for large schools than per-student pricing.
 
 ## Volume Discounts: When Your Size Becomes an Asset

@@ -1,18 +1,21 @@
 ---
 title: "Drinking Water Safety in Schools: Standards and Compliance"
-slug: "drinking-water-safety-schools"
+slug: "75-drinking-water-safety"
 meta_description: "Ensure safe drinking water in schools. Covers BIS standards, water testing requirements, filtration systems, maintenance, and inspection compliance for Indian schools."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "drinking water safety schools India"
-secondary_keywords: ["school drinking water standards", "school water quality testing", "RO filter school compliance", "safe drinking water school India"]
-intent: "informational"
+secondary_keywords:
+  - "school drinking water standards"
+  - "school water quality testing"
+  - "RO filter school compliance"
+  - "safe drinking water school India"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 Access to safe drinking water is a fundamental requirement for schools under the RTE Act 2009 and various state education regulations. CBSE affiliation norms also require schools to provide safe, potable drinking water to students. Water-borne illness outbreaks in schools are serious events, they affect student health and trigger regulatory scrutiny.
 
 ## Legal and Regulatory Basis

@@ -1,22 +1,21 @@
 ---
-title: The Migration Certificate Format Playbook: Implementation Guide
-slug: the-migration-certificate-format-playbook-implementation-guide
-meta_description: The Migration Certificate Format Playbook: Implementation...
-category: SOPs & Templates
-primary_keyword: migration certificate format
+title: "The Migration Certificate Format Playbook: Implementation Guide"
+slug: "056-the-migration-certificate-format-playbook-implementation-guide"
+meta_description: "The Migration Certificate Format Playbook: Implementation..."
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "migration certificate format"
 secondary_keywords:
-  - migration certificate format schools
-  - best practices migration certificate format
-  - migration certificate format strategy
-  - how to implement migration certificate format
-intent: informational
+  - "migration certificate format schools"
+  - "best practices migration certificate format"
+  - "migration certificate format strategy"
+  - "how to implement migration certificate format"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on migration certificate format for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

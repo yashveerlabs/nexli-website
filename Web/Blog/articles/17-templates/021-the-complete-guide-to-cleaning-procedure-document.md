@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Cleaning Procedure Document
-slug: the-complete-guide-to-cleaning-procedure-document
-meta_description: The Complete Guide to Cleaning Procedure Document
-category: SOPs & Templates
-primary_keyword: cleaning procedure document
+title: "The Complete Guide to Cleaning Procedure Document"
+slug: "021-the-complete-guide-to-cleaning-procedure-document"
+meta_description: "The Complete Guide to Cleaning Procedure Document"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "cleaning procedure document"
 secondary_keywords:
-  - cleaning procedure document schools
-  - best practices cleaning procedure document
-  - cleaning procedure document strategy
-  - how to implement cleaning procedure document
-intent: informational
+  - "cleaning procedure document schools"
+  - "best practices cleaning procedure document"
+  - "cleaning procedure document strategy"
+  - "how to implement cleaning procedure document"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on cleaning procedure document for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

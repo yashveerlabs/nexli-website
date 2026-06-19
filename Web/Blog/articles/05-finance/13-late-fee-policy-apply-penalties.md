@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Late Fee Policy: When to Apply Penalties"
-slug: "late-fee-policy-apply-penalties"
+slug: "13-late-fee-policy-apply-penalties"
 meta_description: "Learn about late fee policy: when to apply penalties in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "late fee policy: when to apply penalties"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with late fee policy: when to apply penalties:

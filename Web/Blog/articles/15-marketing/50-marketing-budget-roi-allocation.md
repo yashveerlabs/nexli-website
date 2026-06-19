@@ -1,8 +1,8 @@
 ---
 title: "Marketing Budget: How to Allocate Spend for Maximum ROI"
-slug: "marketing-budget-roi-allocation"
+slug: "50-marketing-budget-roi-allocation"
 meta_description: "Allocate your school marketing budget for maximum ROI. Learn data-driven budget allocation, channel ROI measurement, and how to cut underperforming spend."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school marketing budget"
 secondary_keywords:
   - "marketing ROI schools"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Marketing Budget: How to Allocate Spend for Maximum ROI
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

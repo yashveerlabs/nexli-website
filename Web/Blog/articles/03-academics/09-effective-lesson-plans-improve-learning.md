@@ -1,18 +1,21 @@
 ---
 title: "How to Write Effective Lesson Plans That Improve Student Learning"
-slug: "effective-lesson-plans-improve-student-learning"
+slug: "09-effective-lesson-plans-improve-learning"
 meta_description: "Write high-impact lesson plans that boost student achievement. Proven framework for lesson planning that delivers measurable learning outcomes."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "effective lesson plans student learning outcomes"
-secondary_keywords: ["lesson design", "student achievement", "teaching effectiveness", "learning assessment"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "lesson design"
+  - "student achievement"
+  - "teaching effectiveness"
+  - "learning assessment"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Lessons That Don't Stick
 
 A teacher delivers a well-organized lesson. Students seem engaged during class. But the next day, when asked to apply what they learned, most students draw a blank. The lesson didn't translate into learning.

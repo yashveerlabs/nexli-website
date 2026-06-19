@@ -1,18 +1,21 @@
 ---
 title: "DPDP Act 2023: Complete Compliance Guide for Schools"
-slug: "dpdp-act-schools-compliance"
+slug: "04-dpdp-act-schools"
 meta_description: "Master DPDP Act 2023 compliance for schools. Learn about personal data protection, consent management, and data security requirements."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "DPDP Act 2023 schools"
-secondary_keywords: ["data protection schools", "personal data privacy", "consent management", "data security"]
-intent: "informational"
+secondary_keywords:
+  - "data protection schools"
+  - "personal data privacy"
+  - "consent management"
+  - "data security"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## What is the DPDP Act 2023?
 
 India's Digital Personal Data Protection (DPDP) Act, 2023, regulates how organizations collect, process, and store personal data. For schools, this means how student and parent information is handled. The law is stringent: organizations must have consent before collecting data, must use data only for stated purposes, and must protect data from breaches.

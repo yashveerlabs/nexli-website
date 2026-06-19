@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Kerala"
-slug: "school-erp-in-kerala"
+slug: "40-school-erp-in-kerala"
 meta_description: "School ERP in Kerala: cloud-based school management for state board, CBSE, and ICSE schools with Kerala education department compliance and analytics."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Kerala"
-secondary_keywords: ["school management system Kerala", "Kerala school software", "KBPE school ERP", "school ERP Kochi Thiruvananthapuram Kozhikode"]
+secondary_keywords:
+  - "school management system Kerala"
+  - "Kerala school software"
+  - "KBPE school ERP"
+  - "school ERP Kochi Thiruvananthapuram Kozhikode"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## School ERP in Kerala
 

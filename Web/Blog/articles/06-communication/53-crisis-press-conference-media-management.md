@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Crisis Press Conference: Managing Media and Public Communication"
-slug: "crisis-press-conference-media-management"
+slug: "53-crisis-press-conference-media-management"
 meta_description: "Effective crisis communication strategies for Indian schools. Learn how major incidents may attract media attention. designated spokespersons and prepared statements ensure consistent, appropriate messaging."
-category: "Crisis Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "crisis communication school emergency"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Crisis Press Conference: Managing Media and Public Communication
 
 Major incidents may attract media attention. Designated spokespersons and prepared statements ensure consistent, appropriate messaging.

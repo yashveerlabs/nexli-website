@@ -1,20 +1,23 @@
 ---
 title: "Multi-Campus School ERP Requirements: Managing Chains and Branch Autonomy"
-slug: "multi-campus-school-erp-requirements"
+slug: "03-multi-campus-school-erp"
 meta_description: "Multi-campus school networks require centralized oversight with branch autonomy. Discover how unified ERPs enable consolidated reporting while respecting campus independence and governance."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "multi-campus school ERP"
-secondary_keywords: ["school chain management", "branch autonomy ERP", "consolidated school reporting", "multi-campus finance", "school network operations", "centralized data"]
+secondary_keywords:
+  - "school chain management"
+  - "branch autonomy ERP"
+  - "consolidated school reporting"
+  - "multi-campus finance"
+  - "school network operations"
+  - "centralized data"
 intent: "reference"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
-
 ## Overview
 
 **Snippet:** A school chain operating 3-20 campuses across cities faces a governance paradox: how to standardize operations (curriculum, policies, compliance) while allowing each campus autonomy to adapt to local contexts (local market, parent expectations, staff realities). A multi-campus ERP must enable the Head Office to see consolidated metrics while trusting regional managers to operate their campuses independently. Without this balance, either campuses operate in silos (defeating the network's economy of scale) or Head Office micromanagement stifles local decision-making.

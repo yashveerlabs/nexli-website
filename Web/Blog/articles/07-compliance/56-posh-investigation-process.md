@@ -1,18 +1,21 @@
 ---
 title: "POSH Investigation Process: What Schools Must Follow Step by Step"
-slug: "posh-investigation-process-schools"
+slug: "56-posh-investigation-process"
 meta_description: "Step-by-step POSH investigation process for schools. Covers ICC procedures, natural justice requirements, witness interviews, evidence review, and report preparation."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "POSH investigation process schools"
-secondary_keywords: ["ICC investigation procedure POSH", "sexual harassment inquiry school", "POSH inquiry report", "natural justice POSH investigation"]
-intent: "informational"
+secondary_keywords:
+  - "ICC investigation procedure POSH"
+  - "sexual harassment inquiry school"
+  - "POSH inquiry report"
+  - "natural justice POSH investigation"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 The POSH Act 2013 requires that the ICC complete its inquiry within 90 days of receiving a complaint. During this time, the ICC must follow a procedure that upholds natural justice for both the complainant and the respondent. An inquiry that cuts corners on procedure is vulnerable to legal challenge.
 
 ## Step 1: Acknowledge Receipt and Notify Respondent

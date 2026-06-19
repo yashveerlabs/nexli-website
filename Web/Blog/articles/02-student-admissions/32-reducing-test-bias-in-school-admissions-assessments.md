@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Reducing Test Bias in School Admissions Assessments"
-slug: reducing-test-bias-in-school-admissions-assessments
-meta_description: reducing test bias in school admissions assessments. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: reducing test bias in school admissions assessments
+slug: "32-reducing-test-bias-in-school-admissions-assessments"
+meta_description: "reducing test bias in school admissions assessments. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "reducing test bias in school admissions assessments"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for reducing test bias in school admissions assessments in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

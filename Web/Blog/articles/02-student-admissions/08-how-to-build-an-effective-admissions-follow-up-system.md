@@ -1,22 +1,21 @@
-﻿---
+---
 title: "How to Build an Effective Admissions Follow-Up System"
-slug: how-to-build-an-effective-admissions-follow-up-system
-meta_description: how to build an effective admissions follow-up system. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: how to build an effective admissions follow-up system
+slug: "08-how-to-build-an-effective-admissions-follow-up-system"
+meta_description: "how to build an effective admissions follow-up system. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "how to build an effective admissions follow-up system"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for how to build an effective admissions follow up system in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

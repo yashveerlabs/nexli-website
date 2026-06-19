@@ -1,8 +1,8 @@
 ---
 title: "ERP for State Board Schools: Regional Compliance and Grading Support"
-slug: "erp-for-state-board-schools"
+slug: "74-erp-for-state-board-schools"
 meta_description: "School ERP for state board schools in India: regional board grading requirements, state government reporting portals, regional language support, and what to verify."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "ERP for state board schools India"
 secondary_keywords:
   - "state board school management software"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "state board school ERP India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## ERP for State Board Schools: Regional Compliance and Grading Support
 
 **India has 29 state boards, each with its own grading scales, examination structures, and reporting requirements. Maharashtra SSC/HSC, UP Board, Karnataka SSLC, Tamil Nadu HSC, Rajasthan Board, each has distinct requirements that a school ERP must accommodate. Most national ERP vendors are optimized for CBSE; state board schools must verify specific features carefully.**

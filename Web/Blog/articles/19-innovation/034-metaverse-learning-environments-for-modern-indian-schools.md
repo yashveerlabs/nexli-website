@@ -1,22 +1,21 @@
-﻿---
-title: Metaverse Learning Environments for Modern Indian Schools
-slug: metaverse-learning-environments-for-modern-indian-schools
-meta_description: Metaverse Learning Environments for Modern Indian Schools
-category: Innovation & AI
-primary_keyword: metaverse learning environments
+---
+title: "Metaverse Learning Environments for Modern Indian Schools"
+slug: "034-metaverse-learning-environments-for-modern-indian-schools"
+meta_description: "Metaverse Learning Environments for Modern Indian Schools"
+category: "Education Innovation, AI & Future"
+primary_keyword: "metaverse learning environments"
 secondary_keywords:
-  - metaverse learning environments schools
-  - best practices metaverse learning environments
-  - metaverse learning environments strategy
-  - how to implement metaverse learning environments
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "metaverse learning environments schools"
+  - "best practices metaverse learning environments"
+  - "metaverse learning environments strategy"
+  - "how to implement metaverse learning environments"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on metaverse learning environments for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

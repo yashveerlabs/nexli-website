@@ -1,18 +1,20 @@
-﻿---
+---
 title: "How Schools Can Accept UPI, Net Banking, and Cards"
-slug: "schools-accept-upi-net-banking-cards"
+slug: "05-school-accept-upi-net-banking-cards"
 meta_description: "Enable UPI, net banking, and card payments at your school. Setup guide for digital payment acceptance."
-category: "School Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "schools accept UPI net banking cards payments"
-secondary_keywords: ["digital payment methods", "payment acceptance", "fee collection methods"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "digital payment methods"
+  - "payment acceptance"
+  - "fee collection methods"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Quick Setup Guide
 
 ### UPI Acceptance

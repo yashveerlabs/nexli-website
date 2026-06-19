@@ -1,18 +1,21 @@
 ---
 title: "Parent Skill-Sharing Sessions: Using Family Expertise"
-slug: "parent-skill-sharing-family-expertise"
+slug: "20-parent-skill-sharing-family-expertise"
 meta_description: "Effective parent engagement strategies for Indian schools. Learn how schools can tap parent expertise through skill-sharing sessions: professionals sharing knowledge in their fields, enriching the curriculum with real-world perspectives."
-category: "Parent Engagement"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent engagement communication"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Parent Skill-Sharing Sessions: Using Family Expertise
 
 Schools can tap parent expertise through skill-sharing sessions: professionals sharing knowledge in their fields, enriching the curriculum with real-world perspectives.

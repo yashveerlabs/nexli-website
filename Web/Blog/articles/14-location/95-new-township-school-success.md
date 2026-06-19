@@ -1,18 +1,20 @@
 ---
 title: "New Township School Success"
-slug: "new-township-school-success"
+slug: "95-new-township-school-success"
 meta_description: "New township school success with ERP: how greenfield schools in Noida, Navi Mumbai, and Gurgaon built operations from day one with cloud-based school management."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "new township school success ERP India"
-secondary_keywords: ["township school ERP India", "greenfield school management ERP", "new school operations Noida Navi Mumbai", "startup school ERP India"]
+secondary_keywords:
+  - "township school ERP India"
+  - "greenfield school management ERP"
+  - "new school operations Noida Navi Mumbai"
+  - "startup school ERP India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## New Township School Success
 

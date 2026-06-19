@@ -1,18 +1,20 @@
 ---
 title: "Maharashtra School Regulations"
-slug: "maharashtra-school-regulations"
+slug: "08-maharashtra-school-regulations"
 meta_description: "Maharashtra school regulations and ERP compliance: SSC Board, CBSE, ICSE requirements, RTE obligations, fire NOC, and DPDP Act handled in one platform."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "Maharashtra school regulations ERP"
-secondary_keywords: ["Maharashtra SSC school compliance", "Maharashtra school ERP", "CBSE ICSE Maharashtra regulations", "school compliance Maharashtra"]
+secondary_keywords:
+  - "Maharashtra SSC school compliance"
+  - "Maharashtra school ERP"
+  - "CBSE ICSE Maharashtra regulations"
+  - "school compliance Maharashtra"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## Maharashtra School Regulations
 

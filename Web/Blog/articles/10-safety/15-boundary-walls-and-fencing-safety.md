@@ -1,8 +1,8 @@
 ---
 title: "Boundary Walls and Fencing Safety for Schools"
-slug: boundary-walls-and-fencing-safety
+slug: "15-boundary-walls-and-fencing-safety"
 meta_description: "Establish secure boundary walls and fencing for your school. Learn maintenance standards, inspection checklists, and how to balance security with welcoming design."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school boundary wall fencing safety"
 secondary_keywords:
   - "school perimeter security"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Boundary Walls and Fencing: Safety
 
 Secure boundaries protect students. Maintain fencing and walls properly.

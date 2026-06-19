@@ -1,18 +1,21 @@
 ---
 title: "School Data Breach Response Plan: 72-Hour DPDP Timeline"
-slug: "breach-response-plan"
+slug: "42-breach-response-plan"
 meta_description: "Build a data breach response plan for your school under DPDP Act 2023. Covers detection, 72-hour notification, containment, and post-breach review procedures."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "school data breach response plan DPDP"
-secondary_keywords: ["72-hour breach notification", "DPDP breach reporting", "school cybersecurity incident", "data breach school India"]
-intent: "informational"
+secondary_keywords:
+  - "72-hour breach notification"
+  - "DPDP breach reporting"
+  - "school cybersecurity incident"
+  - "data breach school India"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 Under the DPDP Act 2023, schools must notify the Data Protection Board within 72 hours of becoming aware of a personal data breach that is likely to harm individuals. Schools without a documented response plan will struggle to meet this timeline. The plan needs to exist before a breach happens.
 
 A breach is any unauthorized access, disclosure, alteration, or loss of personal data. This includes: a hacked ERP system, a lost laptop containing student records, an accidental email sent to the wrong parent, or unauthorized access by a staff member.

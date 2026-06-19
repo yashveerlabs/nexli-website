@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Learning Disability Prevalence
-slug: the-complete-guide-to-learning-disability-prevalence
-meta_description: The Complete Guide to Learning Disability Prevalence
-category: Research & Statistics
-primary_keyword: learning disability prevalence
+title: "The Complete Guide to Learning Disability Prevalence"
+slug: "081-the-complete-guide-to-learning-disability-prevalence"
+meta_description: "The Complete Guide to Learning Disability Prevalence"
+category: "School Research, Statistics & Reports"
+primary_keyword: "learning disability prevalence"
 secondary_keywords:
-  - learning disability prevalence schools
-  - best practices learning disability prevalence
-  - learning disability prevalence strategy
-  - how to implement learning disability prevalence
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "learning disability prevalence schools"
+  - "best practices learning disability prevalence"
+  - "learning disability prevalence strategy"
+  - "how to implement learning disability prevalence"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on learning disability prevalence for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

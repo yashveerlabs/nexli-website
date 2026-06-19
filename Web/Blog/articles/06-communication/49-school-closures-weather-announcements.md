@@ -1,18 +1,21 @@
 ---
 title: "School Closures Due to Weather: Timely Announcements and Alternatives"
-slug: "school-closures-weather-announcements"
+slug: "49-school-closures-weather-announcements"
 meta_description: "Effective crisis communication strategies for Indian schools. Learn how weather-related closures require immediate, multi-channel communication and contingency planning for online classes and make-up schedules."
-category: "Crisis Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "crisis communication school emergency"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Closures Due to Weather: Timely Announcements and Alternatives
 
 Weather-related closures require immediate, multi-channel communication and contingency planning for online classes and make-up schedules.

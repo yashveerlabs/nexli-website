@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Online Admissions Testing: Technical Setup and Proctoring"
-slug: online-admissions-testing-technical-setup-and-proctoring
-meta_description: online admissions testing: technical setup and proctoring. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: online admissions testing
+slug: "31-online-admissions-testing-technical-setup-and-proctoring"
+meta_description: "online admissions testing: technical setup and proctoring. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "online admissions testing"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article explores best practices for online admissions testing in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

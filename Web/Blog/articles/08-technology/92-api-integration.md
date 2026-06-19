@@ -1,18 +1,21 @@
 ---
 title: "API Integration for Schools: Connecting Your ERP to Other Systems"
-slug: "api-integration"
+slug: "92-api-integration"
 meta_description: "API integration for school systems: REST vs SOAP, webhooks vs polling, rate limits, API key authentication, and how Nexli supports third-party integrations."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "API integration school ERP"
-secondary_keywords: ["REST API school software", "webhook school system", "school ERP third party integration", "API authentication school"]
-intent: "informational"
+secondary_keywords:
+  - "REST API school software"
+  - "webhook school system"
+  - "school ERP third party integration"
+  - "API authentication school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## API Integration for Schools: What It Is and How It Works
 
 An API (Application Programming Interface) is a defined way for one piece of software to ask another for data or to trigger an action. When a school's ERP can provide student data to a library system via an API, the library system knows which students are currently enrolled without anyone manually typing that data in. When a payment gateway notifies the ERP via API that a fee payment was received, the ERP records the payment immediately without manual entry.

@@ -1,18 +1,20 @@
 ---
 title: "Automated Fee Reminders for Schools: Timing, Message Content, and What Works"
-slug: "automated-fee-reminders"
+slug: "63-automated-fee-reminders"
 meta_description: "Automated fee reminders sent at due date, 3, 7, and 15 days overdue improve collection without requiring manual follow-up. Learn what message content works and what crosses the line."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "automated fee reminders for schools"
-secondary_keywords: ["school fee reminder SMS", "fee collection automation", "fee overdue notifications"]
-intent: "informational"
+secondary_keywords:
+  - "school fee reminder SMS"
+  - "fee collection automation"
+  - "fee overdue notifications"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Automated Fee Reminders: Why Timing Matters More Than Frequency
 
 Automated fee reminders for schools are one of the clearest wins in school finance automation. A school that previously had the accounts clerk calling parents individually for overdue fees can instead have the system send reminders automatically at defined intervals, freeing the clerk to focus on genuinely complex cases (fee waivers, partial payments, RTE queries) rather than routine follow-up.

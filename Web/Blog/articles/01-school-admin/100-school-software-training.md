@@ -1,22 +1,21 @@
 ---
-title: School Software Training: Getting Staff On Board
-slug: school-software-training
-meta_description: How to design school software training that drives real adoption, covering role-based training, common resistance points, and how to measure whether training has worked.
-category: School Administration & Operations
-primary_keyword: school software training
+title: "School Software Training: Getting Staff On Board"
+slug: "100-school-software-training"
+meta_description: "How to design school software training that drives real adoption, covering role-based training, common resistance points, and how to measure whether training has worked."
+category: "School Administration & Operations"
+primary_keyword: "school software training"
 secondary_keywords:
-  - school staff technology adoption
-  - school management system training
-  - staff onboarding school software
-  - school ERP implementation training
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school staff technology adoption"
+  - "school management system training"
+  - "staff onboarding school software"
+  - "school ERP implementation training"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 School software training determines whether a school management system succeeds or fails. Schools regularly invest in good software and then fail to achieve adoption because training was treated as a one-day event rather than an ongoing process. This guide covers how to design training that produces actual competence, how to handle resistance, and how to measure whether training has worked.
 
 ---

@@ -1,19 +1,22 @@
 ---
 title: "Building Relationships with Government Officials"
-slug: building-relationships-with-government-officials
-category: 9
-order: 65
-primary_keyword: "school principal government relationships"
+slug: "65-building-relationships-with-government-officials"
 meta_description: "Build productive relationships with government officials to advocate for your school. Practical strategies for principals to engage education authorities and policymakers."
-secondary_keywords: ["school government advocacy", "principal policy engagement", "education authority relationships", "school community advocacy"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "school principal government relationships"
+secondary_keywords:
+  - "school government advocacy"
+  - "principal policy engagement"
+  - "education authority relationships"
+  - "school community advocacy"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
+order: 65
 ---
-
 # Building Relationships with Government Officials
 
 Government officials impact schools. Relationships enable advocacy and partnerships.

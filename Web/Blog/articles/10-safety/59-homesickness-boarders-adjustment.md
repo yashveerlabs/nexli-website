@@ -1,22 +1,21 @@
-﻿---
-title: Homesickness: Helping Boarders Adjust
-slug: homesickness-boarders-adjustment
-meta_description: Comprehensive guide to homesickness: helping boarders adjust for school administrators and leaders.
-category: School Safety, Transport, Hostel, Medical & Campus Operations
-primary_keyword: student wellbeing
+---
+title: "Homesickness: Helping Boarders Adjust"
+slug: "59-homesickness-boarders-adjustment"
+meta_description: "Comprehensive guide to homesickness: helping boarders adjust for school administrators and leaders."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "student wellbeing"
 secondary_keywords:
-  - school safety
-  - student wellbeing
-  - school operations
-  - campus safety
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school safety"
+  - "student wellbeing"
+  - "school operations"
+  - "campus safety"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This comprehensive guide covers essential strategies and best practices for homesickness: helping boarders adjust.

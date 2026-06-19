@@ -1,8 +1,8 @@
 ---
 title: "CCTV Systems for Schools: Strategic Placement and Monitoring"
-slug: "cctv-systems-schools-placement"
+slug: "06-cctv-placement-monitoring"
 meta_description: "Guide to implementing CCTV systems in schools. Learn strategic camera placement, monitoring best practices, and privacy-compliant video surveillance."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school CCTV system"
 secondary_keywords:
   - "video surveillance schools"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## CCTV Systems for Schools: Strategic Placement and Monitoring
 
 **CCTV cameras are a visible deterrent to theft and misconduct, and a crucial tool for investigating incidents after they occur. But poor placement wastes money, and poor practices violate privacy. This guide covers strategic camera placement, monitoring protocols, data retention, privacy compliance, and incident investigation procedures.**

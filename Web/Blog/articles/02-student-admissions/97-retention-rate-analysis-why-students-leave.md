@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Retention Rate Analysis: Why Students Leave"
-slug: retention-rate-analysis-why-students-leave
-meta_description: retention rate analysis: why students leave. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: retention rate analysis
+slug: "97-retention-rate-analysis-why-students-leave"
+meta_description: "retention rate analysis: why students leave. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "retention rate analysis"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: research
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "research"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article explores best practices for retention rate analysis in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

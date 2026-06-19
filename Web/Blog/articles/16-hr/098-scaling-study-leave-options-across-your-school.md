@@ -1,22 +1,21 @@
-﻿---
-title: Scaling Study Leave Options Across Your School
-slug: scaling-study-leave-options-across-your-school
-meta_description: Scaling Study Leave Options Across Your School
-category: HR & Recruitment
-primary_keyword: study leave options
+---
+title: "Scaling Study Leave Options Across Your School"
+slug: "098-scaling-study-leave-options-across-your-school"
+meta_description: "Scaling Study Leave Options Across Your School"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "study leave options"
 secondary_keywords:
-  - study leave options schools
-  - best practices study leave options
-  - study leave options strategy
-  - how to implement study leave options
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "study leave options schools"
+  - "best practices study leave options"
+  - "study leave options strategy"
+  - "how to implement study leave options"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on study leave options for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

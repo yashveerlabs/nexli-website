@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Sending Attendance Warnings to Parents"
-slug: "sending-attendance-warnings-parents"
+slug: "73-sending-attendance-warnings-parents"
 meta_description: "Learn about sending attendance warnings to parents in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "sending attendance warnings to parents"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with sending attendance warnings to parents:

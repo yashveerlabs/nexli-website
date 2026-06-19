@@ -1,8 +1,8 @@
 ---
 title: "Print Advertising for Schools: Flyers, Brochures, Publications"
-slug: "print-advertising-schools"
+slug: "70-print-advertising-schools"
 meta_description: "Use print advertising to reach local families and drive school admissions. Learn flyer design, newspaper ads, school brochures, and when print outperforms digital."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school print advertising"
 secondary_keywords:
   - "school flyers"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Print Advertising for Schools: Flyers, Brochures, Publications
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

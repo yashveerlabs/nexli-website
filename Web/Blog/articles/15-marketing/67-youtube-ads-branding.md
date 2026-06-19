@@ -1,8 +1,8 @@
 ---
 title: "YouTube Ads for School Brand Building"
-slug: "youtube-ads-branding-schools"
+slug: "67-youtube-ads-branding"
 meta_description: "Use YouTube Ads to build school brand awareness and drive admissions. Learn ad formats, audience targeting, video creative strategy, and measuring brand lift."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "YouTube ads school"
 secondary_keywords:
   - "school video advertising"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # YouTube Ads for School Brand Building
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

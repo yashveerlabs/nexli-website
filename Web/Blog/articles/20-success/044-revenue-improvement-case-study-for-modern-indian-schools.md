@@ -1,22 +1,21 @@
 ---
-title: Revenue Improvement Case Study for Modern Indian Schools
-slug: revenue-improvement-case-study-for-modern-indian-schools
-meta_description: Revenue Improvement Case Study for Modern Indian Schools
-category: Success Stories & Cases
-primary_keyword: revenue improvement case study
+title: "Revenue Improvement Case Study for Modern Indian Schools"
+slug: "044-revenue-improvement-case-study-for-modern-indian-schools"
+meta_description: "Revenue Improvement Case Study for Modern Indian Schools"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "revenue improvement case study"
 secondary_keywords:
-  - revenue improvement case study schools
-  - best practices revenue improvement case study
-  - revenue improvement case study strategy
-  - how to implement revenue improvement case study
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "revenue improvement case study schools"
+  - "best practices revenue improvement case study"
+  - "revenue improvement case study strategy"
+  - "how to implement revenue improvement case study"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on revenue improvement case study for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

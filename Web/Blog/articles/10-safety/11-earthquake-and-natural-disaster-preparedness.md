@@ -1,8 +1,8 @@
 ---
 title: "Earthquake and Natural Disaster Preparedness for Schools"
-slug: earthquake-and-natural-disaster-preparedness
+slug: "11-earthquake-and-natural-disaster-preparedness"
 meta_description: "Build earthquake and natural disaster preparedness in your school. Learn evacuation drills, shelter protocols, and post-disaster recovery procedures."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "earthquake preparedness schools"
 secondary_keywords:
   - "natural disaster school safety"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Earthquake and Natural Disaster Preparedness
 
 Natural disasters threaten school safety. Comprehensive preparedness saves lives.

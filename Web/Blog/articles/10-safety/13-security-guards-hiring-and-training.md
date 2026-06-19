@@ -1,8 +1,8 @@
 ---
 title: "Security Guards: Hiring and Training for Schools"
-slug: security-guards-hiring-and-training
+slug: "13-security-guards-hiring-and-training"
 meta_description: "Guide to hiring and training school security guards. Learn recruitment criteria, training requirements, and how to build an effective security team."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school security guards"
 secondary_keywords:
   - "security guard hiring"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Security Guards: Hiring and Training
 
 Security guards are first line of school defense. Hire and train carefully.

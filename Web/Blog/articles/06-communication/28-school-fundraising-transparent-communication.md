@@ -1,18 +1,21 @@
 ---
 title: "School Fundraising: Transparent Communication About Finances"
-slug: "school-fundraising-transparent-communication"
+slug: "28-school-fundraising-transparent-communication"
 meta_description: "Effective community partnership strategies for Indian schools. Learn how fundraising campaigns succeed when parents understand the need, the goal, and how funds are used. transparency builds confidence and participation."
-category: "Community Partnership"
+category: "Parent Communication & Engagement"
 primary_keyword: "school community involvement"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## School Fundraising: Transparent Communication About Finances
 
 Fundraising campaigns succeed when parents understand the need, the goal, and how funds are used. Transparency builds confidence and participation.

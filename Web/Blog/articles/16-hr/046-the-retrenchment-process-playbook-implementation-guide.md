@@ -1,22 +1,21 @@
-﻿---
-title: The Retrenchment Process Playbook: Implementation Guide
-slug: the-retrenchment-process-playbook-implementation-guide
-meta_description: The Retrenchment Process Playbook: Implementation Guide
-category: HR & Recruitment
-primary_keyword: retrenchment process
+---
+title: "The Retrenchment Process Playbook: Implementation Guide"
+slug: "046-the-retrenchment-process-playbook-implementation-guide"
+meta_description: "The Retrenchment Process Playbook: Implementation Guide"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "retrenchment process"
 secondary_keywords:
-  - retrenchment process schools
-  - best practices retrenchment process
-  - retrenchment process strategy
-  - how to implement retrenchment process
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "retrenchment process schools"
+  - "best practices retrenchment process"
+  - "retrenchment process strategy"
+  - "how to implement retrenchment process"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on retrenchment process for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

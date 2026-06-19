@@ -1,19 +1,22 @@
 ---
 title: "How to Build School Reputation"
-slug: how-to-build-school-reputation
-category: 9
-order: 69
-primary_keyword: "how to build school reputation"
+slug: "69-how-to-build-school-reputation"
 meta_description: "Build a strong school reputation that attracts students, families, and funding. Proven strategies for principals covering academic excellence, communication, and community presence."
-secondary_keywords: ["school brand building", "school reputation management", "school community image", "school marketing reputation"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to build school reputation"
+secondary_keywords:
+  - "school brand building"
+  - "school reputation management"
+  - "school community image"
+  - "school marketing reputation"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 9
 branding_block_company: 9
 branding_block_nexli: 9
+order: 69
 ---
-
 # How to Build School Reputation
 
 A strong reputation attracts students, families, and funding. Build reputation intentionally.

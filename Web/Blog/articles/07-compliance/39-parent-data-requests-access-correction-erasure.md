@@ -1,18 +1,21 @@
 ---
 title: "Parent Data Requests: Access, Correction, and Erasure Under DPDP"
-slug: "parent-data-requests-access-correction-erasure"
+slug: "39-parent-data-requests-access-correction-erasure"
 meta_description: "Learn how schools must handle parent requests to access, correct, or erase student data under India's DPDP Act 2023. Timelines, procedures, and Nexli's workflow."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "parent data requests DPDP schools"
-secondary_keywords: ["student data access request", "right to erasure schools", "data correction DPDP", "DPDP parental rights"]
-intent: "informational"
+secondary_keywords:
+  - "student data access request"
+  - "right to erasure schools"
+  - "data correction DPDP"
+  - "DPDP parental rights"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 11
 branding_block_company: 11
 branding_block_nexli: 11
 ---
-
 Under the DPDP Act 2023, parents have three enforceable rights over their child's personal data held by the school: the right to access what data is held, the right to correct inaccurate data, and the right to request erasure of data the school no longer needs.
 
 Schools that cannot respond to these requests within a reasonable timeframe are exposed to regulatory risk. A clear, documented process is the minimum standard.

@@ -1,8 +1,8 @@
 ---
 title: "Data Security in School ERP: What to Verify Before Buying"
-slug: "data-security-in-school-erp"
+slug: "24-data-security-in-school-erp"
 meta_description: "School ERP data security: role-based access control, Firestore security rules, encryption standards, access logging, and what to verify beyond vendor claims."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP data security"
 secondary_keywords:
   - "school data protection ERP"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP encryption"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Data Security in School ERP: What to Verify Before Buying
 
 **"Enterprise-grade security" is one of the most frequently used and least verifiable claims in software marketing. Every ERP vendor says their system is secure. Very few can prove it. This guide explains what school data security actually requires, and how to verify it before committing to a system.**

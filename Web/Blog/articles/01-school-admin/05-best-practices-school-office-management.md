@@ -1,22 +1,21 @@
 ---
-title: Best Practices for School Office Management
-slug: best-practices-school-office-management
-meta_description: Essential practices for running an efficient school office. Systems, delegation, and tools to minimize chaos and maximize productivity.
-category: School Administration & Operations
-primary_keyword: school office management best practices
+title: "Best Practices for School Office Management"
+slug: "05-best-practices-school-office-management"
+meta_description: "Essential practices for running an efficient school office. Systems, delegation, and tools to minimize chaos and maximize productivity."
+category: "School Administration & Operations"
+primary_keyword: "school office management best practices"
 secondary_keywords:
-  - office operations
-  - administrative efficiency
-  - document management
-  - school coordination
-intent: best-practice
-author: Yashveer Labs
-date: 2026-06-19
+  - "office operations"
+  - "administrative efficiency"
+  - "document management"
+  - "school coordination"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 A well-run school office is invisible, communication flows, documents arrive on time, approvals happen without friction. A poorly-run office creates daily crises: lost emails, delayed decisions, conflicting information. This article outlines 12 core practices that successful school offices implement.

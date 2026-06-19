@@ -1,22 +1,21 @@
 ---
-title: School ERP Implementation: Common Mistakes and How to Avoid Them
-slug: erp-implementation-mistakes
-meta_description: The most common school ERP implementation mistakes and how to avoid them. A practical guide for school administrators and leaders.
-category: School Administration & Operations
-primary_keyword: ERP adoption
+title: "School ERP Implementation: Common Mistakes and How to Avoid Them"
+slug: "95-erp-implementation-mistakes"
+meta_description: "The most common school ERP implementation mistakes and how to avoid them. A practical guide for school administrators and leaders."
+category: "School Administration & Operations"
+primary_keyword: "ERP adoption"
 secondary_keywords:
-  - school administration
-  - ERP adoption
-  - school management
-  - educational administration
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school administration"
+  - "ERP adoption"
+  - "school management"
+  - "educational administration"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 School ERP implementation fails more often than it succeeds. The reasons are predictable: schools rush rollout, skip staff training, and choose systems that don't fit their actual workflows. This guide covers the most common mistakes and how to avoid them so your implementation delivers real results.

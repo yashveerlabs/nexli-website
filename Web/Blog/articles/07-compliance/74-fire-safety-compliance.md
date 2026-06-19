@@ -1,18 +1,21 @@
 ---
 title: "Fire Safety Compliance for Schools: NOC, Inspection, and Annual Requirements"
-slug: "fire-safety-compliance-schools"
+slug: "74-fire-safety-compliance"
 meta_description: "Complete guide to fire safety compliance for schools. Covers Fire NOC requirements, fire equipment maintenance, fire drills, inspection checklist, and CBSE affiliation requirements."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "fire safety compliance schools India"
-secondary_keywords: ["school fire NOC", "fire safety school India", "school fire drill compliance", "CBSE fire safety requirement"]
-intent: "informational"
+secondary_keywords:
+  - "school fire NOC"
+  - "fire safety school India"
+  - "school fire drill compliance"
+  - "CBSE fire safety requirement"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 Fire safety compliance for schools involves multiple overlapping requirements: a Fire No Objection Certificate (NOC) from the state Fire Services, annual maintenance of fire-fighting equipment, fire drills, and compliance with building fire safety norms. CBSE affiliation requires a current fire safety certificate.
 
 A school fire emergency is an extreme risk due to the number of children in a confined space. Fire safety compliance is not bureaucratic, it is directly connected to student safety.

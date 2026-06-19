@@ -1,22 +1,21 @@
 ---
-title: Scaling Compliance Documentation Templates Across Your School
-slug: scaling-compliance-documentation-templates-across-your-school
-meta_description: Scaling Compliance Documentation Templates Across Your Sc...
-category: SOPs & Templates
-primary_keyword: compliance documentation templates
+title: "Scaling Compliance Documentation Templates Across Your School"
+slug: "008-scaling-compliance-documentation-templates-across-your-school"
+meta_description: "Scaling Compliance Documentation Templates Across Your Sc..."
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "compliance documentation templates"
 secondary_keywords:
-  - compliance documentation templates schools
-  - best practices compliance documentation templates
-  - compliance documentation templates strategy
-  - how to implement compliance documentation templates
-intent: informational
+  - "compliance documentation templates schools"
+  - "best practices compliance documentation templates"
+  - "compliance documentation templates strategy"
+  - "how to implement compliance documentation templates"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on compliance documentation templates for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

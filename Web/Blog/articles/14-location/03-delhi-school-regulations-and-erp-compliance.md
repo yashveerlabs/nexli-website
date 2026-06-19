@@ -1,18 +1,20 @@
 ---
 title: "Delhi School Regulations and ERP Compliance"
-slug: "delhi-school-regulations-and-erp-compliance"
+slug: "03-delhi-school-regulations-and-erp-compliance"
 meta_description: "Delhi school regulations and ERP compliance: how cloud-based school ERP handles CBSE, DPDP Act, fire safety NOC, UDISE+, and state board requirements."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "Delhi school regulations ERP compliance"
-secondary_keywords: ["Delhi school compliance", "Delhi CBSE school ERP", "school regulation compliance Delhi", "Delhi ERP for schools"]
+secondary_keywords:
+  - "Delhi school compliance"
+  - "Delhi CBSE school ERP"
+  - "school regulation compliance Delhi"
+  - "Delhi ERP for schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## Delhi School Regulations and ERP Compliance
 

@@ -1,18 +1,21 @@
 ---
 title: "School Assembly: Building School Culture Through Gatherings"
-slug: "school-assembly-building-culture"
+slug: "14-school-assembly-building-culture"
 meta_description: "Effective school events strategies for Indian schools. Learn how school assemblies are more than just events: they're cultural anchors that bind a school community together. A well-executed assembly sets the tone for the week, celebrates achievements, and reinforces school values."
-category: "School Events"
+category: "Parent Communication & Engagement"
 primary_keyword: "school assembly"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## School Assembly: Building School Culture Through Gatherings
 
 School assemblies are more than just events: they're cultural anchors that bind a school community together. A well-executed assembly sets the tone for the week, celebrates achievements, and reinforces school values.

@@ -1,8 +1,8 @@
 ---
 title: "YouTube Channel for Schools: Long-Form Video Strategy"
-slug: "youtube-channel-school"
+slug: "34-youtube-channel-school"
 meta_description: "Build a school YouTube channel that drives admissions and builds community. Learn content strategy, production tips, SEO optimization, and growth tactics."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school YouTube channel"
 secondary_keywords:
   - "school video marketing"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # YouTube Channel for Schools: Long-Form Video Strategy
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

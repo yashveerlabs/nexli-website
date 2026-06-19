@@ -1,18 +1,21 @@
 ---
 title: "Open Standards in School Technology: Preventing Vendor Lock-In"
-slug: "open-standards"
+slug: "91-open-standards"
 meta_description: "Why open standards matter in school technology: IMS Global LTI, OneRoster, xAPI, and how to evaluate vendor compliance to prevent lock-in and enable data exchange."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "open standards school technology"
-secondary_keywords: ["IMS Global LTI schools", "OneRoster interoperability", "EdTech open standards India", "vendor lock-in prevention schools"]
-intent: "informational"
+secondary_keywords:
+  - "IMS Global LTI schools"
+  - "OneRoster interoperability"
+  - "EdTech open standards India"
+  - "vendor lock-in prevention schools"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Open Standards in School Technology: What They Are and Why They Matter
 
 An open standard is a technical specification that is publicly available and not controlled by a single company. When school software is built on open standards, different products from different vendors can exchange data and work together. When software is built on proprietary formats and protocols, the school becomes dependent on that specific vendor for every function the software performs.

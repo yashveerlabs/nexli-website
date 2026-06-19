@@ -1,18 +1,21 @@
 ---
 title: "Student Code of Conduct: What Schools Must Include and Enforce"
-slug: "student-code-of-conduct-schools"
+slug: "101-student-code-of-conduct"
 meta_description: "Create a comprehensive student code of conduct for your school. Covers expected behavior, disciplinary procedures, prohibited conduct, due process, and parental communication."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "student code of conduct schools India"
-secondary_keywords: ["school discipline policy student", "student behavior policy school", "school rules code of conduct", "student conduct policy India"]
-intent: "informational"
+secondary_keywords:
+  - "school discipline policy student"
+  - "student behavior policy school"
+  - "school rules code of conduct"
+  - "student conduct policy India"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 A student code of conduct sets out the behavioral expectations for students, the rules they must follow, and the consequences for violations. It is the basis on which disciplinary action is taken. Without a written, communicated code, disciplinary actions can be challenged as arbitrary.
 
 ## Why a Written Code of Conduct Is Essential

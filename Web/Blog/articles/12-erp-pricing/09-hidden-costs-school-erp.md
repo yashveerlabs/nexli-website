@@ -1,20 +1,20 @@
 ---
 title: "Hidden Costs in School ERP Pricing: 15 Expenses to Budget"
-slug: "hidden-costs-school-erp"
+slug: "09-hidden-costs-school-erp"
 meta_description: "School ERP hidden costs beyond software license. Implementation, training, infrastructure, support, integrations. Complete budget checklist."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "hidden costs school ERP"
-secondary_keywords: ["ERP implementation costs schools", "total cost of ownership ERP", "ERP support costs"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "ERP implementation costs schools"
+  - "total cost of ownership ERP"
+  - "ERP support costs"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 **Snippet:** School ERP true cost is 2-3x the software license. Hidden costs include implementation (₹1,50,000–₹5,00,000), training (₹50,000–₹2,00,000), infrastructure, data migration, integrations, and ongoing support. Budget ₹10–30 lakhs for realistic 5-year investment.
 
 ## The Software License is Just 20-30% of True Cost

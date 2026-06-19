@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Building a Culture of Support, Not Shame"
-slug: "building-culture-support-not-shame"
+slug: "59-building-culture-support-not-shame"
 meta_description: "Learn about building a culture of support, not shame in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "building a culture of support, not shame"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with building a culture of support, not shame:

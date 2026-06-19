@@ -1,18 +1,21 @@
 ---
 title: "How Teachers Can Organize Lesson Plans by Chapter and Topic"
-slug: "organize-lesson-plans-chapter-topic"
+slug: "04-organize-lesson-plans-chapter-topic"
 meta_description: "Organize lesson plans efficiently by chapter and topic. System for teachers to manage lesson plans, track coverage, and align with curriculum."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "organize lesson plans chapter topic"
-secondary_keywords: ["lesson plan organization", "curriculum coverage", "teaching materials management", "subject planning"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "lesson plan organization"
+  - "curriculum coverage"
+  - "teaching materials management"
+  - "subject planning"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Lesson Plans Scattered and Forgotten
 
 A teacher finishes the year with 150 lesson plans saved across email, personal documents, shared drives, and notebooks. Next year, when asked "Did we cover photosynthesis thoroughly?" the teacher can't remember. Plans are lost, duplicated, or buried. New teachers inherit nothing. Each cycle reinvents the wheel.

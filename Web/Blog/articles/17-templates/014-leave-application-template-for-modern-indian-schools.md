@@ -1,22 +1,21 @@
 ---
-title: Leave Application Template for Modern Indian Schools
-slug: leave-application-template-for-modern-indian-schools
-meta_description: Leave Application Template for Modern Indian Schools
-category: SOPs & Templates
-primary_keyword: leave application template
+title: "Leave Application Template for Modern Indian Schools"
+slug: "014-leave-application-template-for-modern-indian-schools"
+meta_description: "Leave Application Template for Modern Indian Schools"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "leave application template"
 secondary_keywords:
-  - leave application template schools
-  - best practices leave application template
-  - leave application template strategy
-  - how to implement leave application template
-intent: informational
+  - "leave application template schools"
+  - "best practices leave application template"
+  - "leave application template strategy"
+  - "how to implement leave application template"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on leave application template for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

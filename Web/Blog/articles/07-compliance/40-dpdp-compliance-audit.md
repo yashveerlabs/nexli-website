@@ -1,18 +1,21 @@
 ---
 title: "DPDP Compliance Audit for Schools: What to Check and When"
-slug: "dpdp-compliance-audit"
+slug: "40-dpdp-compliance-audit"
 meta_description: "Run a DPDP Act compliance audit at your school. This checklist covers consent records, data mapping, security controls, and staff training requirements."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "DPDP compliance audit schools"
-secondary_keywords: ["data protection audit", "DPDP checklist schools", "school data audit", "DPDP self-assessment"]
-intent: "informational"
+secondary_keywords:
+  - "data protection audit"
+  - "DPDP checklist schools"
+  - "school data audit"
+  - "DPDP self-assessment"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 A DPDP compliance audit is a structured review of whether a school's data practices meet the requirements of India's Digital Personal Data Protection Act 2023. Schools should run an internal audit at least once a year, and before any major system change, vendor change, or regulatory inspection.
 
 An audit does not require external consultants. A thorough internal review by the school's data protection officer or a designated senior administrator is a reasonable starting point.

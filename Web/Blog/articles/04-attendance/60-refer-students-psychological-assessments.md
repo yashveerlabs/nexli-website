@@ -1,18 +1,21 @@
-﻿---
+---
 title: "When to Refer Students for Psychological or Learning Assessments"
-slug: "refer-students-psychological-assessments"
+slug: "60-refer-students-psychological-assessments"
 meta_description: "Learn about when to refer students for psychological or learning assessments in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "when to refer students for psychological or learning assessments"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with when to refer students for psychological or learning assessments:

@@ -1,18 +1,21 @@
 ---
 title: "Annual Day Celebrations: Showcasing Student Talent and Growth"
-slug: "annual-day-celebrations-student-talent"
+slug: "16-annual-day-celebrations-student-talent"
 meta_description: "Effective school events strategies for Indian schools. Learn how annual days celebrate the year's achievements through performances, exhibitions, and recognition ceremonies. these events boost morale, recognize diverse talents, and create lasting memories."
-category: "School Events"
+category: "Parent Communication & Engagement"
 primary_keyword: "school annual day"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Annual Day Celebrations: Showcasing Student Talent and Growth
 
 Annual days celebrate the year's achievements through performances, exhibitions, and recognition ceremonies. These events boost morale, recognize diverse talents, and create lasting memories.

@@ -1,18 +1,20 @@
 ---
 title: "Distance Learning Platform Integration"
-slug: "distance-learning-platform-integration"
+slug: "59-distance-learning-platform-integration"
 meta_description: "How school ERPs support distance learning platform integration for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "distance learning ERP integration"
-secondary_keywords: ["online school management software India", "hybrid learning ERP", "distance education platform integration", "school ERP online learning"]
+secondary_keywords:
+  - "online school management software India"
+  - "hybrid learning ERP"
+  - "distance education platform integration"
+  - "school ERP online learning"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Distance Learning Platform Integration
 

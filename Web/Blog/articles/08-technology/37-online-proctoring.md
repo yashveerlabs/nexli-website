@@ -1,18 +1,21 @@
 ---
 title: "Online Exam Proctoring: Methods, DPDP Act Concerns, and When to Use It"
-slug: "online-proctoring"
+slug: "37-online-proctoring"
 meta_description: "Online proctoring monitors students during remote exams. Understand AI-based and live proctoring options, DPDP Act privacy concerns for minors, and when proctoring is appropriate."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "online exam proctoring schools"
-secondary_keywords: ["AI proctoring education", "DPDP Act student surveillance", "remote exam monitoring India", "online assessment integrity"]
-intent: "informational"
+secondary_keywords:
+  - "AI proctoring education"
+  - "DPDP Act student surveillance"
+  - "remote exam monitoring India"
+  - "online assessment integrity"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## What Online Proctoring Is and Why Schools Consider It
 
 Online exam proctoring refers to methods used to monitor students during remotely administered examinations to reduce the risk of cheating. When schools moved to online assessments during COVID-19, demand for proctoring software increased significantly. Now that schools have largely returned to physical classrooms, the question of when online proctoring is appropriate, and whether it is proportionate, deserves careful consideration.

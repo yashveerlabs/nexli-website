@@ -1,22 +1,21 @@
-﻿---
+---
 title: "How Schools Get 500+ Admissions Inquiries: Tracking and Converting Leads"
-slug: school-admissions-500-inquiries-tracking
-meta_description: How schools attract and convert 500+ annual admissions inquiries into enrollments. Lead tracking, conversion strategies, and funnel optimization.
-category: Student Management & Admissions
-primary_keyword: school admissions inquiries tracking
+slug: "01-school-admissions-500-inquiries"
+meta_description: "How schools attract and convert 500+ annual admissions inquiries into enrollments. Lead tracking, conversion strategies, and funnel optimization."
+category: "Student Management & Admissions"
+primary_keyword: "school admissions inquiries tracking"
 secondary_keywords:
-  - admissions funnel
-  - lead conversion
-  - student recruitment
-  - admissions management
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "admissions funnel"
+  - "lead conversion"
+  - "student recruitment"
+  - "admissions management"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 A 300-student school with 6% annual turnover needs 18 new students yearly. Most schools get 50–100 inquiries annually. Leading schools get 500+. The difference: systematic lead tracking, follow-up, and conversion. This article reveals how.

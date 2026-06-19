@@ -1,22 +1,21 @@
 ---
 title: "School Administrative Processes: End-to-End Workflow Design"
-slug: school-admin-processes-workflow-design
-meta_description: Design efficient school workflows. Approval chains, decision authority, and process flow for all administrative tasks.
-category: School Administration & Operations
-primary_keyword: school administrative processes
+slug: "13-school-approval-workflows"
+meta_description: "Design efficient school workflows. Approval chains, decision authority, and process flow for all administrative tasks."
+category: "School Administration & Operations"
+primary_keyword: "school administrative processes"
 secondary_keywords:
-  - workflow design
-  - approval workflows
-  - administrative efficiency
-  - process optimization
-intent: educational
-author: Yashveer Labs
-date: 2026-06-19
+  - "workflow design"
+  - "approval workflows"
+  - "administrative efficiency"
+  - "process optimization"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 Most school processes exist in people's heads, not on paper. The result: inconsistency, delays, and unclear authority. This article provides a framework to design clear, documented workflows for all administrative processes, from leave approvals to transfer certificates to fee concessions.

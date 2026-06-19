@@ -1,22 +1,21 @@
-﻿---
-title: The Teacher Recruitment Timeline Playbook: Implementation Guide
-slug: the-teacher-recruitment-timeline-playbook-implementation-guide
-meta_description: The Teacher Recruitment Timeline Playbook: Implementation...
-category: HR & Recruitment
-primary_keyword: teacher recruitment timeline
+---
+title: "The Teacher Recruitment Timeline Playbook: Implementation Guide"
+slug: "026-the-teacher-recruitment-timeline-playbook-implementation-guide"
+meta_description: "The Teacher Recruitment Timeline Playbook: Implementation..."
+category: "School HR, Recruitment & Staff"
+primary_keyword: "teacher recruitment timeline"
 secondary_keywords:
-  - teacher recruitment timeline schools
-  - best practices teacher recruitment timeline
-  - teacher recruitment timeline strategy
-  - how to implement teacher recruitment timeline
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "teacher recruitment timeline schools"
+  - "best practices teacher recruitment timeline"
+  - "teacher recruitment timeline strategy"
+  - "how to implement teacher recruitment timeline"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on teacher recruitment timeline for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

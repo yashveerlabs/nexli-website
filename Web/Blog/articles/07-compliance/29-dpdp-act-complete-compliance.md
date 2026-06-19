@@ -1,18 +1,21 @@
 ---
 title: "DPDP Act Complete Compliance: A School's Full Checklist"
-slug: "dpdp-act-complete-compliance"
+slug: "29-dpdp-act-complete-compliance"
 meta_description: "Complete DPDP Act compliance checklist for schools. Cover consent, data security, DPO appointment, breach response, and staff training in one guide."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "DPDP Act complete compliance schools"
-secondary_keywords: ["DPDP compliance checklist", "school data protection", "consent management", "data security schools"]
-intent: "informational"
+secondary_keywords:
+  - "DPDP compliance checklist"
+  - "school data protection"
+  - "consent management"
+  - "data security schools"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
 ---
-
 Full DPDP Act 2023 compliance for schools requires six distinct systems working together: consent management, data classification, access control, breach response, staff training, and DPO oversight. This checklist covers all six.
 
 ## System 1: Consent Management

@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Custom Pricing for Large Schools"
-slug: "custom-pricing-for-large-schools"
+slug: "61-custom-pricing-for-large-schools"
 meta_description: "Custom Pricing for Large Schools"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "custom"
-secondary_keywords: ["pricing", "for", "large", "schools"]
+secondary_keywords:
+  - "pricing"
+  - "for"
+  - "large"
+  - "schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Custom Pricing for Large Schools
 

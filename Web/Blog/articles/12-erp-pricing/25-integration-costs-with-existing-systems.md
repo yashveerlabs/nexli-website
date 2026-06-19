@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Integration Costs with Existing Systems"
-slug: "integration-costs-with-existing-systems"
+slug: "25-integration-costs-with-existing-systems"
 meta_description: "Integration Costs with Existing Systems"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "integration"
-secondary_keywords: ["costs", "with", "existing", "systems"]
+secondary_keywords:
+  - "costs"
+  - "with"
+  - "existing"
+  - "systems"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Integration Costs with Existing Systems
 

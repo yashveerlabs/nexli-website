@@ -1,19 +1,22 @@
 ---
 title: "Principal's Role in Academic Excellence"
-slug: principals-role-in-academic-excellence
-category: 9
-order: 40
-primary_keyword: "principal's role in academic excellence"
+slug: "40-principals-role-in-academic-excellence"
 meta_description: "How school principals drive academic excellence, setting expectations, monitoring instruction, building culture, supporting struggling learners, and measuring results systematically."
-secondary_keywords: ["school academic quality", "principal instructional leadership", "improving school results", "academic culture school"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "principal's role in academic excellence"
+secondary_keywords:
+  - "school academic quality"
+  - "principal instructional leadership"
+  - "improving school results"
+  - "academic culture school"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 20
 branding_block_company: 20
 branding_block_nexli: 20
+order: 40
 ---
-
 # Principal's Role in Academic Excellence
 
 Your role as principal directly affects academic quality. You're not teaching every class, but your leadership determines whether excellent teaching happens.

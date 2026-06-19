@@ -1,8 +1,8 @@
 ---
 title: "Local SEO for Schools: Google Business Profile Optimization"
-slug: "local-seo-schools-google-business"
+slug: "26-local-seo-schools-google-business"
 meta_description: "Optimize your school for local SEO and Google Business Profile. Learn how to rank in 'schools near me' searches and convert local searches into admissions inquiries."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "local SEO schools"
 secondary_keywords:
   - "Google Business Profile school"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Local SEO for Schools: Google Business Profile Optimization
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 6 min

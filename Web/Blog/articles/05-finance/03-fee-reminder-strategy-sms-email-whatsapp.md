@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Fee Reminder Strategy: SMS, Email, WhatsApp – What Works Best"
-slug: "fee-reminder-strategy-sms-email-whatsapp"
+slug: "03-fee-reminder-strategy-sms-email-whatsapp"
 meta_description: "Multi-channel fee reminder strategy. Compare SMS, email, and WhatsApp effectiveness for school fee collection."
-category: "School Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "fee reminder strategy SMS email WhatsApp"
-secondary_keywords: ["payment reminders", "collection channels", "communication strategy"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "payment reminders"
+  - "collection channels"
+  - "communication strategy"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Channel Effectiveness Comparison
 
 | Channel | Open Rate | Response Time | Cost | Best For |

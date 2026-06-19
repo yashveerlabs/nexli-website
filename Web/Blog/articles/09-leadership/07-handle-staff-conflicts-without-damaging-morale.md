@@ -1,19 +1,22 @@
 ---
 title: "Handle Staff Conflicts Without Damaging Morale"
-slug: handle-staff-conflicts-without-damaging-morale
-category: 9
-order: 7
-primary_keyword: "handle staff conflicts without damaging morale"
+slug: "07-handle-staff-conflicts-without-damaging-morale"
 meta_description: "How school principals can resolve staff conflicts fairly and discreetly, protecting school morale, maintaining psychological safety, and keeping the culture strong."
-secondary_keywords: ["staff conflict management schools", "school staff morale", "principal staff relations", "managing teacher conflicts"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "handle staff conflicts without damaging morale"
+secondary_keywords:
+  - "staff conflict management schools"
+  - "school staff morale"
+  - "principal staff relations"
+  - "managing teacher conflicts"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
+order: 7
 ---
-
 # Handle Staff Conflicts Without Damaging Morale
 
 Staff conflicts are particularly challenging because they're visible to the entire school community. How you handle them sets the tone for trust and psychological safety.

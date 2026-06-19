@@ -1,18 +1,20 @@
 ---
 title: "Subsidized Fee Management"
-slug: "subsidized-fee-management"
+slug: "83-subsidized-fee-management"
 meta_description: "How school ERPs support subsidized fee management for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "subsidized fee management school ERP"
-secondary_keywords: ["corporate school fee subsidy tracking", "discounted fee management ERP India", "employer school fee management", "subsidy fee ERP India"]
+secondary_keywords:
+  - "corporate school fee subsidy tracking"
+  - "discounted fee management ERP India"
+  - "employer school fee management"
+  - "subsidy fee ERP India"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Subsidized Fee Management
 

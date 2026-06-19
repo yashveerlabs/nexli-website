@@ -1,22 +1,21 @@
 ---
-title: Practical Strategies for Teacher-Student Ratio Analysis
-slug: practical-strategies-for-teacher-student-ratio-analysis
-meta_description: Practical Strategies for Teacher-Student Ratio Analysis
-category: Research & Statistics
-primary_keyword: teacher-student ratio analysis
+title: "Practical Strategies for Teacher-Student Ratio Analysis"
+slug: "065-practical-strategies-for-teacher-student-ratio-analysis"
+meta_description: "Practical Strategies for Teacher-Student Ratio Analysis"
+category: "School Research, Statistics & Reports"
+primary_keyword: "teacher-student ratio analysis"
 secondary_keywords:
-  - teacher-student ratio analysis schools
-  - best practices teacher-student ratio analysis
-  - teacher-student ratio analysis strategy
-  - how to implement teacher-student ratio analysis
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "teacher-student ratio analysis schools"
+  - "best practices teacher-student ratio analysis"
+  - "teacher-student ratio analysis strategy"
+  - "how to implement teacher-student ratio analysis"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on teacher-student ratio analysis for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

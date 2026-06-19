@@ -1,18 +1,21 @@
 ---
 title: "Cybersecurity for Indian Schools: Practical Basics Every School Needs"
-slug: "cybersecurity-for-schools"
+slug: "25-cybersecurity-for-schools"
 meta_description: "Cybersecurity basics for Indian schools: strong passwords, phishing awareness, access control, software updates, vendor security. What a school IT policy should cover."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "cybersecurity for schools India"
-secondary_keywords: ["school cyber security India", "school data protection cyber", "phishing schools India", "school IT security policy"]
-intent: "informational"
+secondary_keywords:
+  - "school cyber security India"
+  - "school data protection cyber"
+  - "phishing schools India"
+  - "school IT security policy"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## What Are the Most Important Cybersecurity Steps for Indian Schools?
 
 The most important cybersecurity steps for Indian schools are: strong, unique passwords for every staff account, phishing awareness training so staff recognize fraudulent emails and messages, access control ensuring staff only access systems they need, keeping software and devices updated, and verifying that ERP and other software vendors have adequate security practices. These basics prevent the vast majority of cybersecurity incidents that affect Indian schools. Schools do not need a large IT team to implement them; they need consistent practice and a documented IT security policy.

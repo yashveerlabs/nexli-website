@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Social Responsibility Initiative (And How to Fix Them)
-slug: common-mistakes-in-social-responsibility-initiative-and-how-to-fix-them
-meta_description: Common Mistakes in Social Responsibility Initiative (And ...
-category: Success Stories & Cases
-primary_keyword: social responsibility initiative
+title: "Common Mistakes in Social Responsibility Initiative (And How to Fix Them)"
+slug: "090-common-mistakes-in-social-responsibility-initiative-and-how-to-fix-them"
+meta_description: "Common Mistakes in Social Responsibility Initiative (And ..."
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "social responsibility initiative"
 secondary_keywords:
-  - social responsibility initiative schools
-  - best practices social responsibility initiative
-  - social responsibility initiative strategy
-  - how to implement social responsibility initiative
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "social responsibility initiative schools"
+  - "best practices social responsibility initiative"
+  - "social responsibility initiative strategy"
+  - "how to implement social responsibility initiative"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on social responsibility initiative for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,22 +1,21 @@
 ---
-title: Fee Collection Transformation for Modern Indian Schools
-slug: fee-collection-transformation-for-modern-indian-schools
-meta_description: Fee Collection Transformation for Modern Indian Schools
-category: Success Stories & Cases
-primary_keyword: fee collection transformation
+title: "Fee Collection Transformation for Modern Indian Schools"
+slug: "004-fee-collection-transformation-for-modern-indian-schools"
+meta_description: "Fee Collection Transformation for Modern Indian Schools"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "fee collection transformation"
 secondary_keywords:
-  - fee collection transformation schools
-  - best practices fee collection transformation
-  - fee collection transformation strategy
-  - how to implement fee collection transformation
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "fee collection transformation schools"
+  - "best practices fee collection transformation"
+  - "fee collection transformation strategy"
+  - "how to implement fee collection transformation"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on fee collection transformation for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

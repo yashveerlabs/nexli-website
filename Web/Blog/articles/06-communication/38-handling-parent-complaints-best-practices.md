@@ -1,18 +1,21 @@
 ---
 title: "Handling Parent Complaints: Communication Best Practices"
-slug: "handling-parent-complaints-best-practices"
+slug: "38-handling-parent-complaints-best-practices"
 meta_description: "Effective feedback & complaints strategies for Indian schools. Learn how when complaints arise, empathetic listening, clear communication, and documented resolution build trust even in difficult situations."
-category: "Feedback & Complaints"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent feedback resolution"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Handling Parent Complaints: Communication Best Practices
 
 When complaints arise, empathetic listening, clear communication, and documented resolution build trust even in difficult situations.

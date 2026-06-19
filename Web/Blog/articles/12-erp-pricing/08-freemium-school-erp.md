@@ -1,20 +1,20 @@
 ---
 title: "Freemium School ERP: What's Really Free?"
-slug: "freemium-school-erp-whats-really-free"
+slug: "08-freemium-school-erp"
 meta_description: "Freemium school ERP pricing trap explained. What features are actually free vs. paywalled. True cost analysis and when freemium makes sense."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "freemium school ERP"
-secondary_keywords: ["free school ERP", "school management system free tier", "ERP pricing free vs paid"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "free school ERP"
+  - "school management system free tier"
+  - "ERP pricing free vs paid"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 **Snippet:** Freemium ERPs offer basic features free (student data, attendance) but charge ₹1,50,000–₹5,00,000 annually for necessary features (compliance, analytics, POCSO, advanced reports). The "free" tier is incomplete; you'll move to paid tier to actually run your school.
 
 ## The Freemium Trap

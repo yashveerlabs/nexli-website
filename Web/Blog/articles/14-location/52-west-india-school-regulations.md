@@ -1,18 +1,20 @@
 ---
 title: "West India School Regulations"
-slug: "west-india-school-regulations"
+slug: "52-west-india-school-regulations"
 meta_description: "West India school regulations and ERP compliance: state requirements for Gujarat, Maharashtra, and Goa schools including GSEB, SSC, and CBSE rules."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "West India school regulations ERP"
-secondary_keywords: ["West India school compliance", "GSEB SSC school ERP", "school regulations Gujarat Maharashtra", "West India state board compliance"]
+secondary_keywords:
+  - "West India school compliance"
+  - "GSEB SSC school ERP"
+  - "school regulations Gujarat Maharashtra"
+  - "West India state board compliance"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## West India School Regulations
 

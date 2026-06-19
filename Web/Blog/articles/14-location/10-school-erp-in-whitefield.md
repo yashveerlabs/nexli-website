@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Whitefield"
-slug: "school-erp-in-whitefield"
+slug: "10-school-erp-in-whitefield"
 meta_description: "School ERP in Whitefield Bangalore: cloud-based school management for tech-corridor schools with CBSE compliance, fee management, and parent portal."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Whitefield Bangalore"
-secondary_keywords: ["school management system Whitefield", "Whitefield school software", "Bangalore tech hub school ERP", "school ERP East Bangalore"]
+secondary_keywords:
+  - "school management system Whitefield"
+  - "Whitefield school software"
+  - "Bangalore tech hub school ERP"
+  - "school ERP East Bangalore"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Whitefield
 

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Emergency Fee Waivers: How to Handle Compassionate Cases"
-slug: "emergency-fee-waivers-compassionate"
+slug: "20-emergency-fee-waivers-compassionate"
 meta_description: "Learn about emergency fee waivers: how to handle compassionate cases in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "emergency fee waivers: how to handle compassionate cases"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with emergency fee waivers: how to handle compassionate cases:

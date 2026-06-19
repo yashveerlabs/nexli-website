@@ -1,22 +1,21 @@
 ---
-title: Building an Efficient Principal Approval Dashboard
-slug: principal-approval-dashboard
-meta_description: Give principals one-glance visibility into all pending approvals and decisions.
-category: School Administration & Operations
-primary_keyword: principal approval dashboard
+title: "Building an Efficient Principal Approval Dashboard"
+slug: "45-principal-approval-dashboard"
+meta_description: "Give principals one-glance visibility into all pending approvals and decisions."
+category: "School Administration & Operations"
+primary_keyword: "principal approval dashboard"
 secondary_keywords:
-  - Principal Approval Dashboard
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Principal Approval Dashboard"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Building an Efficient Principal Approval Dashboard
 
 A principal approval dashboard is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that give principals one-glance visibility into all pending approvals report significant improvements in speed, consistency, and stakeholder confidence.

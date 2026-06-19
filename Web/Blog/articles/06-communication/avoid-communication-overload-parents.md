@@ -1,20 +1,22 @@
-﻿---
+---
 title: "How to Avoid Communication Overload While Keeping Parents Informed"
 slug: "avoid-communication-overload-parents"
 meta_description: "Balance parent communication frequency and content to keep them informed without overwhelming them."
-category: "06"
+category: "Parent Communication & Engagement"
 primary_keyword: "communication frequency, parent information, message management"
 secondary_keywords:
   - "message prioritization"
   - "communication planning"
   - "timing strategy"
   - "content curation"
-intent: "best-practice"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
+branding_block_founder: 16
+branding_block_company: 16
+branding_block_nexli: 16
 branding_block: 20
 ---
-
 # How to Avoid Communication Overload While Keeping Parents Informed
 
 ## Problem

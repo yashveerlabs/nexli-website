@@ -1,18 +1,21 @@
 ---
 title: "Medical Emergency Notification: Protocols and Parent Communication"
-slug: "medical-emergency-notification-protocols"
+slug: "47-medical-emergency-notification-protocols"
 meta_description: "Effective crisis communication strategies for Indian schools. Learn how medical emergencies require immediate parent notification while respecting privacy. clear protocols and pre-authorized contacts enable rapid response."
-category: "Crisis Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "crisis communication school emergency"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Medical Emergency Notification: Protocols and Parent Communication
 
 Medical emergencies require immediate parent notification while respecting privacy. Clear protocols and pre-authorized contacts enable rapid response.

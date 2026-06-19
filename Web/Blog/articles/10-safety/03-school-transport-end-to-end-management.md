@@ -1,8 +1,8 @@
 ---
 title: "School Transport: End-to-End Management Guide"
-slug: "school-transport-management-guide"
+slug: "03-school-transport-end-to-end-management"
 meta_description: "Complete guide to school transport operations. Learn route planning, safety protocols, driver management, and how to optimize transport for student safety."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school transport management"
 secondary_keywords:
   - "school bus operations"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Transport: End-to-End Management Guide
 
 **School transport is both a student service and a significant operational responsibility. Every day, buses move hundreds of students safely (or unsafely) to and from school. This guide covers every aspect: fleet management, route planning, driver recruitment and oversight, safety protocols, GPS tracking, and incident response. By implementing these practices, you'll ensure student safety, improve operational efficiency, and reduce transport-related incidents.**

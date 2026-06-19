@@ -1,22 +1,21 @@
 ---
-title: The Digital Adoption Schools Playbook: Implementation Guide
-slug: the-digital-adoption-schools-playbook-implementation-guide
-meta_description: The Digital Adoption Schools Playbook: Implementation Guide
-category: Research & Statistics
-primary_keyword: digital adoption schools
+title: "The Digital Adoption Schools Playbook: Implementation Guide"
+slug: "006-the-digital-adoption-schools-playbook-implementation-guide"
+meta_description: "The Digital Adoption Schools Playbook: Implementation Guide"
+category: "School Research, Statistics & Reports"
+primary_keyword: "digital adoption schools"
 secondary_keywords:
-  - digital adoption schools schools
-  - best practices digital adoption schools
-  - digital adoption schools strategy
-  - how to implement digital adoption schools
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "digital adoption schools schools"
+  - "best practices digital adoption schools"
+  - "digital adoption schools strategy"
+  - "how to implement digital adoption schools"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on digital adoption schools for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

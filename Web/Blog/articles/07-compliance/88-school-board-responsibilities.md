@@ -1,18 +1,21 @@
 ---
 title: "School Board Responsibilities: Governance Obligations for Trustees"
-slug: "school-board-responsibilities-governance"
+slug: "88-school-board-responsibilities"
 meta_description: "Understand the governance responsibilities of school board members and trustees. Covers fiduciary duty, policy oversight, financial approval, compliance monitoring, and board accountability."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "school board responsibilities governance India"
-secondary_keywords: ["school trustee duties India", "school governing body responsibilities", "school board fiduciary duty", "education trust governance"]
-intent: "informational"
+secondary_keywords:
+  - "school trustee duties India"
+  - "school governing body responsibilities"
+  - "school board fiduciary duty"
+  - "education trust governance"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 20
 branding_block_company: 20
 branding_block_nexli: 20
 ---
-
 The school board, whether called the Board of Governors, Managing Committee, Board of Trustees, or Governing Council, is the highest decision-making body of the school. Board members have legal and ethical responsibilities that go beyond attending meetings and approving budgets. Understanding the full scope of board responsibility is essential for effective school governance.
 
 ## Fiduciary Duty

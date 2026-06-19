@@ -1,8 +1,8 @@
 ---
 title: "Bus Route Planning and Optimization"
-slug: bus-route-planning-and-optimization
+slug: "16-bus-route-planning-and-optimization"
 meta_description: "Plan efficient school bus routes with GPS tracking, capacity management, and safety-first route design to reduce costs and improve student transportation."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school bus route planning"
 secondary_keywords:
   - "bus route optimization"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Bus Route Planning and Optimization
 
 Efficient routes save time, money, and gas. Strategic planning optimizes transportation.

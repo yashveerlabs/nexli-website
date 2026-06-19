@@ -1,18 +1,21 @@
 ---
 title: "Data Migration to ERP: A Step-by-Step Guide for Schools"
-slug: "data-migration-to-erp"
+slug: "06-data-migration-to-erp"
 meta_description: "How to migrate school data to an ERP. Covers student records, fee history, staff data, data audit, cleaning, mapping, validation, and reconciliation for Indian schools."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school ERP data migration"
-secondary_keywords: ["student data migration ERP", "school records digitisation", "ERP data import India", "fee history migration ERP"]
-intent: "informational"
+secondary_keywords:
+  - "student data migration ERP"
+  - "school records digitisation"
+  - "ERP data import India"
+  - "fee history migration ERP"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## What Is Involved in Migrating School Data to an ERP?
 
 Migrating school data to an ERP means moving student records, fee history, staff information, and academic data from paper registers, spreadsheets, or an old system into the new ERP database. For most Indian schools, this is a 4-8 week process requiring careful audit, cleaning, mapping, and validation. Done well, migration sets up a clean, reliable foundation. Done poorly, it fills the new system with errors that will cause problems for years.

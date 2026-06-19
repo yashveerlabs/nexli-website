@@ -1,18 +1,20 @@
 ---
 title: "Canteen Management System for Schools: PM POSHAN, FSSAI, and Daily Operations"
-slug: "canteen-management-system"
+slug: "74-canteen-management-system"
 meta_description: "School canteen management covers menu planning, daily headcount for PM POSHAN, FSSAI compliance documentation, and vendor certificate tracking. Learn what a canteen system needs to handle."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school canteen management system"
-secondary_keywords: ["PM POSHAN school software", "FSSAI compliance canteen", "school cafeteria management"]
-intent: "informational"
+secondary_keywords:
+  - "PM POSHAN school software"
+  - "FSSAI compliance canteen"
+  - "school cafeteria management"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## School Canteen Management: What the System Needs to Track
 
 A school canteen management system covers more than menu planning and meal counts. For government-aided and government schools participating in PM POSHAN (formerly Mid-Day Meal Scheme), it must generate accurate daily headcount data for government reporting. For any school, FSSAI compliance documentation must be maintained. And for schools with residential students, the canteen serves as a daily nutritional backbone that warrants more careful planning than a commercial food service operation.

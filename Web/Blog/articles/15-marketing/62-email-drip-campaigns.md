@@ -1,8 +1,8 @@
 ---
 title: "Email Drip Campaigns: Nurturing Leads Automatically"
-slug: "email-drip-campaigns-schools"
+slug: "62-email-drip-campaigns"
 meta_description: "Build email drip campaigns to nurture school admissions leads. Learn sequence design, content strategy, timing, and how to convert inquiries to enrolled students."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school email drip campaigns"
 secondary_keywords:
   - "admissions lead nurturing email"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Email Drip Campaigns: Nurturing Leads Automatically
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

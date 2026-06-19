@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Kochi"
-slug: "school-erp-in-kochi"
+slug: "39-school-erp-in-kochi"
 meta_description: "School ERP in Kochi: cloud-based school management for Kerala schools with CBSE, KBPE, and ICSE compliance, bilingual support, and parent portal."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Kochi Kerala"
-secondary_keywords: ["school management system Kochi", "Kochi school software", "Kerala school ERP", "best ERP for Kochi schools"]
+secondary_keywords:
+  - "school management system Kochi"
+  - "Kochi school software"
+  - "Kerala school ERP"
+  - "best ERP for Kochi schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## School ERP in Kochi
 

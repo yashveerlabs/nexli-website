@@ -1,22 +1,21 @@
 ---
-title: How to Generate Affiliation Audit Reports
-slug: generate-affiliation-audit-reports
-meta_description: Prepare CBSE affiliation audit reports that ensure school compliance and readiness.
-category: School Administration & Operations
-primary_keyword: generate affiliation audit reports
+title: "How to Generate Affiliation Audit Reports"
+slug: "49-generate-affiliation-audit-reports"
+meta_description: "Prepare CBSE affiliation audit reports that ensure school compliance and readiness."
+category: "School Administration & Operations"
+primary_keyword: "generate affiliation audit reports"
 secondary_keywords:
-  - Generate Affiliation Audit Reports
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Generate Affiliation Audit Reports"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## How to Generate Affiliation Audit Reports
 
 Generating affiliation audit reports is a critical operational area that impacts school compliance and stakeholder confidence. Schools that prepare CBSE affiliation audit reports with structured workflows report significant improvements in speed, consistency, and audit readiness.

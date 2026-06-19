@@ -1,18 +1,21 @@
 ---
 title: "Building Trust for Abuse Reporting: Why Students Don't Tell and How to Change That"
-slug: "building-trust-abuse-reporting-schools"
+slug: "51-building-trust-for-abuse-reporting"
 meta_description: "Most abused children do not tell anyone. Learn why, and what schools can do to build the trust and safety that makes reporting possible."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "abuse reporting trust schools"
-secondary_keywords: ["why children don't report abuse", "school reporting culture", "child disclosure abuse school", "building trust child safety"]
-intent: "informational"
+secondary_keywords:
+  - "why children don't report abuse"
+  - "school reporting culture"
+  - "child disclosure abuse school"
+  - "building trust child safety"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 Research on child sexual abuse consistently finds that most children do not disclose abuse while it is happening. Many do not disclose for years, if ever. For school child protection systems to work, schools must understand why children don't report and actively work to reduce those barriers.
 
 A school with a perfect POCSO policy that no child ever uses has not achieved child safety.

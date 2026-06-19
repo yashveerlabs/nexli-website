@@ -1,18 +1,20 @@
 ---
 title: "Coastal Region School Challenges"
-slug: "coastal-region-school-challenges"
+slug: "53-coastal-region-school-challenges"
 meta_description: "Coastal region school challenges in India: managing infrastructure in high-humidity areas, cyclone preparedness, and climate-adapted school operations with ERP."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "coastal region school challenges India ERP"
-secondary_keywords: ["coastal school management India", "school ERP coastal regions", "school challenges Kerala Goa coastal", "climate-adapted school operations ERP"]
+secondary_keywords:
+  - "coastal school management India"
+  - "school ERP coastal regions"
+  - "school challenges Kerala Goa coastal"
+  - "climate-adapted school operations ERP"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Coastal Region School Challenges
 

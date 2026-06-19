@@ -1,18 +1,20 @@
 ---
 title: "Karnataka School Regulations"
-slug: "karnataka-school-regulations"
+slug: "13-karnataka-school-regulations"
 meta_description: "Karnataka school regulations and ERP compliance: SSLC, CBSE, ICSE, and RTE requirements, Karnataka education department rules, and state board compliance."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "Karnataka school regulations ERP"
-secondary_keywords: ["Karnataka SSLC school compliance", "Karnataka school ERP", "CBSE ICSE Karnataka regulations", "school compliance Karnataka"]
+secondary_keywords:
+  - "Karnataka SSLC school compliance"
+  - "Karnataka school ERP"
+  - "CBSE ICSE Karnataka regulations"
+  - "school compliance Karnataka"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## Karnataka School Regulations
 

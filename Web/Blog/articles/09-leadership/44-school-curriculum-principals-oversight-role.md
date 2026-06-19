@@ -1,19 +1,22 @@
 ---
 title: "School Curriculum: Principal's Oversight Role"
-slug: school-curriculum-principals-oversight-role
-category: 9
-order: 44
-primary_keyword: "school curriculum principal oversight"
+slug: "44-school-curriculum-principals-oversight-role"
 meta_description: "How principals provide effective curriculum oversight, ensuring alignment to standards, coherence across grades, responsive differentiation, and accountability for learning outcomes."
-secondary_keywords: ["school curriculum management", "principal curriculum leadership", "curriculum alignment school", "school curriculum review"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "school curriculum principal oversight"
+secondary_keywords:
+  - "school curriculum management"
+  - "principal curriculum leadership"
+  - "curriculum alignment school"
+  - "school curriculum review"
 intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
+order: 44
 ---
-
 # School Curriculum: Principal's Oversight Role
 
 Your role isn't to teach every subject, but to ensure excellent, coherent curriculum across school.

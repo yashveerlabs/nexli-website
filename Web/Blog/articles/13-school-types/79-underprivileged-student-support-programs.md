@@ -1,18 +1,20 @@
 ---
 title: "Underprivileged Student Support Programs"
-slug: "underprivileged-student-support-programs"
+slug: "79-underprivileged-student-support-programs"
 meta_description: "How school ERPs support underprivileged student support programs for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "underprivileged student support ERP"
-secondary_keywords: ["EWS student support tracking India", "disadvantaged student management ERP", "social welfare school management", "inclusive school ERP India"]
+secondary_keywords:
+  - "EWS student support tracking India"
+  - "disadvantaged student management ERP"
+  - "social welfare school management"
+  - "inclusive school ERP India"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Underprivileged Student Support Programs
 

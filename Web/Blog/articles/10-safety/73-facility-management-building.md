@@ -1,22 +1,21 @@
-﻿---
-title: Facility Management: Building and Grounds
-slug: facility-management-building
-meta_description: Comprehensive guide to facility management: building and grounds for school administrators and leaders.
-category: School Safety, Transport, Hostel, Medical & Campus Operations
-primary_keyword: facility management
+---
+title: "Facility Management: Building and Grounds"
+slug: "73-facility-management-building"
+meta_description: "Comprehensive guide to facility management: building and grounds for school administrators and leaders."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "facility management"
 secondary_keywords:
-  - school safety
-  - facility management
-  - school operations
-  - campus safety
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school safety"
+  - "facility management"
+  - "school operations"
+  - "campus safety"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This comprehensive guide covers essential strategies and best practices for facility management: building and grounds.

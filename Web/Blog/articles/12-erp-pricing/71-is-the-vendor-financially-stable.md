@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Is the Vendor Financially Stable?"
-slug: "is-the-vendor-financially-stable"
+slug: "71-is-the-vendor-financially-stable"
 meta_description: "Is the Vendor Financially Stable?"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "is"
-secondary_keywords: ["the", "vendor", "financially", "stable?"]
+secondary_keywords:
+  - "the"
+  - "vendor"
+  - "financially"
+  - "stable?"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Is the Vendor Financially Stable?
 

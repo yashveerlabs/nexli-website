@@ -1,8 +1,8 @@
 ---
 title: "Allergies and Chronic Conditions: Student Profile"
-slug: allergies-and-chronic-conditions-student-profile
+slug: "37-allergies-and-chronic-conditions-student-profile"
 meta_description: "Build comprehensive allergy and chronic condition profiles for students: documentation, staff awareness, emergency medication access, and action plans in Indian schools."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "student allergy profile school India"
 secondary_keywords:
   - "chronic condition student management"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Allergies and Chronic Conditions: Student Profile
 
 Allergies and chronic conditions require careful management. Documentation ensures safe care.

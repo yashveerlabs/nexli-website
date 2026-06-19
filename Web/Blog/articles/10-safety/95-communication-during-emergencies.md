@@ -1,18 +1,21 @@
-﻿---
-title: Communication During Emergencies
-slug: communication-during-emergencies
-meta_description: Establish clear communication protocols for internal coordination and parent notification during crises.
-category: Safety & Operations
-primary_keyword: emergency communication
-secondary_keywords: ['parent notification', 'internal coordination', 'mass messaging', 'information flow']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "Communication During Emergencies"
+slug: "95-communication-during-emergencies"
+meta_description: "Establish clear communication protocols for internal coordination and parent notification during crises."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "emergency communication"
+secondary_keywords:
+  - "parent notification"
+  - "internal coordination"
+  - "mass messaging"
+  - "information flow"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Communication During Emergencies: Comprehensive Guide
 
 This guide provides comprehensive guidance on communication during emergencies.

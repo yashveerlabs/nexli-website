@@ -1,18 +1,20 @@
 ---
 title: "Punjab School Regulations"
-slug: "punjab-school-regulations"
+slug: "33-punjab-school-regulations"
 meta_description: "Punjab school regulations and ERP compliance: PSEB requirements, CBSE affiliate norms, RTE tracking, and state-specific education compliance."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "Punjab school regulations ERP"
-secondary_keywords: ["Punjab school compliance", "PSEB school ERP", "school regulation compliance Punjab", "Punjab CBSE school requirements"]
+secondary_keywords:
+  - "Punjab school compliance"
+  - "PSEB school ERP"
+  - "school regulation compliance Punjab"
+  - "Punjab CBSE school requirements"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Punjab School Regulations
 

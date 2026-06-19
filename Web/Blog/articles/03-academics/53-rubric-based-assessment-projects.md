@@ -1,22 +1,21 @@
 ---
-title: Rubric-Based Assessment
-slug: rubric-based-assessment-projects
-meta_description: Grade assignments fairly and consistently using detailed rubrics.
-category: Academic Management & Teaching Excellence
-primary_keyword: rubric based assessment projects
+title: "Rubric-Based Assessment"
+slug: "53-rubric-based-assessment-projects"
+meta_description: "Grade assignments fairly and consistently using detailed rubrics."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "rubric based assessment projects"
 secondary_keywords:
-  - Rubric Based Assessment Projects
-  - teaching effectiveness
-  - student learning
-  - academic excellence
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Rubric Based Assessment Projects"
+  - "teaching effectiveness"
+  - "student learning"
+  - "academic excellence"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 Rubric-Based Assessment is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process see measurable improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.

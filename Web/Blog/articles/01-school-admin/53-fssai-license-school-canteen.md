@@ -1,22 +1,21 @@
 ---
-title: FSSAI License for School Canteen
-slug: fssai-license-school-canteen
-meta_description: Navigate FSSAI food safety licensing and compliance for school food services.
-category: School Administration & Operations
-primary_keyword: fssai license school canteen
+title: "FSSAI License for School Canteen"
+slug: "53-fssai-license-school-canteen"
+meta_description: "Navigate FSSAI food safety licensing and compliance for school food services."
+category: "School Administration & Operations"
+primary_keyword: "fssai license school canteen"
 secondary_keywords:
-  - Fssai License School Canteen
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Fssai License School Canteen"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 An FSSAI license is a legal requirement for any school canteen that prepares or serves food to students. Schools that establish clear processes for FSSAI license renewal and food safety compliance avoid penalties, protect students, and maintain inspection readiness year-round. This article covers the key challenges, practical solutions, and implementation steps for managing FSSAI compliance effectively.
 
 ---

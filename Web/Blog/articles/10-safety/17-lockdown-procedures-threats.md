@@ -1,8 +1,8 @@
 ---
 title: "Lockdown Procedures: Responding to Threats and Ensuring Student Safety"
-slug: "lockdown-procedures-threats"
+slug: "17-lockdown-procedures-threats"
 meta_description: "Develop comprehensive lockdown procedures for schools. Protocols for responding to threats and protecting students and staff during lockdown scenarios."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school lockdown procedures"
 secondary_keywords:
   - "school safety protocols"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Lockdown Procedures: Responding to Threats and Ensuring Student Safety
 
 **Lockdown protocols protect students and staff when an external threat (intruder, civil unrest, armed individual) emerges. Every school needs a clear protocol, trained staff, and regular practice. This article provides a step-by-step lockdown procedure and guidelines for when to implement it.**

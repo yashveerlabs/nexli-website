@@ -1,18 +1,20 @@
 ---
 title: "School Competition in Metro Cities"
-slug: "school-competition-in-metro-cities"
+slug: "89-school-competition-in-metro-cities"
 meta_description: "School competition in metro cities: how cloud-based ERP helps schools in Mumbai, Delhi, and Bangalore compete through better admissions, academics, and transparency."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school competition metro cities India ERP"
-secondary_keywords: ["metro school competition ERP", "school differentiation software India", "school ERP admissions advantage metro", "school market competition Mumbai Delhi"]
+secondary_keywords:
+  - "metro school competition ERP"
+  - "school differentiation software India"
+  - "school ERP admissions advantage metro"
+  - "school market competition Mumbai Delhi"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## School Competition in Metro Cities
 

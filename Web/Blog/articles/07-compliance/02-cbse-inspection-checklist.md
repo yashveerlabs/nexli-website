@@ -1,18 +1,21 @@
 ---
 title: "CBSE Inspection Preparation: Checklist for Success"
-slug: "cbse-inspection-preparation-checklist"
+slug: "02-cbse-inspection-checklist"
 meta_description: "Prepare for CBSE inspection with a detailed checklist. Learn what inspectors evaluate, how to organize documentation, and best practices for passing inspection."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "CBSE inspection checklist"
-secondary_keywords: ["inspection preparation", "affiliation compliance", "school readiness", "documentation standards"]
-intent: "informational"
+secondary_keywords:
+  - "inspection preparation"
+  - "affiliation compliance"
+  - "school readiness"
+  - "documentation standards"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## The CBSE Inspection: What to Expect
 
 CBSE inspections are comprehensive evaluations that take 2-3 days and involve visiting classrooms, reviewing documents, and interviewing staff and students. The inspection team consists of education specialists who evaluate your school across four dimensions: infrastructure, staffing, academics, and governance. A passing score (70%+) means your affiliation is renewed for another 5 years.

@@ -1,22 +1,21 @@
 ---
-title: Scaling Rural Vs Urban School Comparison Across Your School
-slug: scaling-rural-vs-urban-school-comparison-across-your-school
-meta_description: Scaling Rural Vs Urban School Comparison Across Your School
-category: Research & Statistics
-primary_keyword: rural vs urban school comparison
+title: "Scaling Rural Vs Urban School Comparison Across Your School"
+slug: "068-scaling-rural-vs-urban-school-comparison-across-your-school"
+meta_description: "Scaling Rural Vs Urban School Comparison Across Your School"
+category: "School Research, Statistics & Reports"
+primary_keyword: "rural vs urban school comparison"
 secondary_keywords:
-  - rural vs urban school comparison schools
-  - best practices rural vs urban school comparison
-  - rural vs urban school comparison strategy
-  - how to implement rural vs urban school comparison
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "rural vs urban school comparison schools"
+  - "best practices rural vs urban school comparison"
+  - "rural vs urban school comparison strategy"
+  - "how to implement rural vs urban school comparison"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on rural vs urban school comparison for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

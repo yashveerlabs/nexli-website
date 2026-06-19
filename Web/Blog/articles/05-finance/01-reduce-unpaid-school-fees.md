@@ -1,18 +1,21 @@
-﻿---
+---
 title: "How to Reduce Unpaid School Fees by 50%"
-slug: "reduce-unpaid-school-fees-50-percent"
+slug: "01-reduce-unpaid-school-fees"
 meta_description: "Reduce unpaid school fees dramatically. Proven strategies for fee recovery and collection management in schools."
-category: "School Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "reduce unpaid school fees collection"
-secondary_keywords: ["fee recovery", "school fee collection", "defaulter management", "fee payment"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "fee recovery"
+  - "school fee collection"
+  - "defaulter management"
+  - "fee payment"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Mounting Unpaid Fees
 
 A school bills ₹100 lakhs in annual fees. By year-end:

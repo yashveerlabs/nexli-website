@@ -1,22 +1,21 @@
-﻿---
+---
 title: "How to Reduce Admissions Inquiries That Fall Through the Cracks"
-slug: how-to-reduce-admissions-inquiries-that-fall-through-the-cracks
-meta_description: how to reduce admissions inquiries that fall through the cracks. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: how to reduce admissions inquiries that fall through the cracks
+slug: "05-how-to-reduce-admissions-inquiries-that-fall-through-the-cracks"
+meta_description: "how to reduce admissions inquiries that fall through the cracks. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "how to reduce admissions inquiries that fall through the cracks"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article explores best practices for how to reduce admissions inquiries that fall through the cracks in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

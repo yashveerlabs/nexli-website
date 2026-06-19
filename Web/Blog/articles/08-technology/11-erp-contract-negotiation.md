@@ -1,18 +1,21 @@
 ---
 title: "ERP Contract Negotiation: What Indian Schools Must Review Before Signing"
-slug: "erp-contract-negotiation"
+slug: "11-erp-contract-negotiation"
 meta_description: "Key ERP contract terms Indian schools must negotiate: SLA, data ownership, lock-in period, support hours, customization costs, and price escalation clauses."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school ERP contract negotiation"
-secondary_keywords: ["ERP contract terms schools", "school software agreement", "ERP SLA schools India", "data ownership ERP contract"]
-intent: "informational"
+secondary_keywords:
+  - "ERP contract terms schools"
+  - "school software agreement"
+  - "ERP SLA schools India"
+  - "data ownership ERP contract"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## What Should Indian Schools Negotiate in an ERP Contract?
 
 An ERP contract is a multi-year financial and operational commitment. The key terms to negotiate are: uptime SLA with penalties, complete data ownership and export rights, lock-in period and early exit clauses, support hours and response times, customization scope and pricing, and annual price escalation caps. Schools that sign without reviewing these terms often face expensive surprises in year two and difficulty leaving a vendor whose system isn't working.

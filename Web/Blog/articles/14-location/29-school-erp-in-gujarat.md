@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Gujarat"
-slug: "school-erp-in-gujarat"
+slug: "29-school-erp-in-gujarat"
 meta_description: "School ERP in Gujarat: cloud-based school management for GSEB, CBSE, and ICSE schools with state board compliance, fee management, and analytics."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Gujarat"
-secondary_keywords: ["school management system Gujarat", "Gujarat school software", "GSEB school ERP", "school ERP Ahmedabad Surat Vadodara"]
+secondary_keywords:
+  - "school management system Gujarat"
+  - "Gujarat school software"
+  - "GSEB school ERP"
+  - "school ERP Ahmedabad Surat Vadodara"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## School ERP in Gujarat
 

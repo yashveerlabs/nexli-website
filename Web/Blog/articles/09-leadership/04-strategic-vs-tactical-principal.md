@@ -1,8 +1,8 @@
 ---
 title: "Strategic vs. Tactical: Knowing What a Principal Should Do"
-slug: "strategic-vs-tactical-principal-decisions"
+slug: "04-strategic-vs-tactical-principal"
 meta_description: "Learn the difference between strategic and tactical decisions as a principal. Master what to delegate, what to decide, and how to balance both for school success."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "principal strategic decisions"
 secondary_keywords:
   - "strategic leadership"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Strategic vs. Tactical: How Principals Decide What Matters Most
 
 **Every day, principals face hundreds of decisions. Should I personally attend that parent meeting? Do I approve the new lab equipment order? Should I change the timetable to add an extra sports period? The confusion isn't about capability, it's about clarity. Some decisions are strategic (shape the school's future). Others are tactical (keep operations running). This guide helps you know the difference, decide which battles deserve your time, and empower your team to handle the rest. Understanding this distinction is the single best investment in your leadership.**

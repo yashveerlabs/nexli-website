@@ -1,18 +1,20 @@
 ---
 title: "IB (International Baccalaureate) School Management"
-slug: "ib-international-baccalaureate-school-management"
+slug: "16-ib-international-baccalaureate-school-management"
 meta_description: "How school ERPs support ib (international baccalaureate) school management for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "IB school management"
-secondary_keywords: ["International Baccalaureate ERP India", "IB curriculum tracking", "IB assessment system", "school ERP India"]
+secondary_keywords:
+  - "International Baccalaureate ERP India"
+  - "IB curriculum tracking"
+  - "IB assessment system"
+  - "school ERP India"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## IB (International Baccalaureate) School Management
 

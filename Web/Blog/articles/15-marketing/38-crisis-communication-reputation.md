@@ -1,8 +1,8 @@
 ---
 title: "Crisis Communication: Managing Negative News and Reputation"
-slug: "crisis-communication-reputation"
+slug: "38-crisis-communication-reputation"
 meta_description: "Manage school crises with effective communication strategy. Learn how to respond to negative news, protect reputation, and rebuild trust with the school community."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school crisis communication"
 secondary_keywords:
   - "school reputation management"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Crisis Communication: Managing Negative News and Reputation
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

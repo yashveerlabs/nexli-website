@@ -1,22 +1,21 @@
-﻿---
-title: Scaling Contract Management Across Your School
-slug: scaling-contract-management-across-your-school
-meta_description: Scaling Contract Management Across Your School
-category: HR & Recruitment
-primary_keyword: contract management
+---
+title: "Scaling Contract Management Across Your School"
+slug: "038-scaling-contract-management-across-your-school"
+meta_description: "Scaling Contract Management Across Your School"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "contract management"
 secondary_keywords:
-  - contract management schools
-  - best practices contract management
-  - contract management strategy
-  - how to implement contract management
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "contract management schools"
+  - "best practices contract management"
+  - "contract management strategy"
+  - "how to implement contract management"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on contract management for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

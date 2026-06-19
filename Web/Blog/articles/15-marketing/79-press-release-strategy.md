@@ -1,8 +1,8 @@
 ---
 title: "Press Release: Writing and Distributing Press Releases"
-slug: "press-release-strategy-schools"
+slug: "79-press-release-strategy"
 meta_description: "Write and distribute press releases that get your school media coverage. Learn press release format, newsworthiness criteria, distribution channels, and media follow-up."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school press release"
 secondary_keywords:
   - "school media coverage"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Press Release: Writing and Distributing Press Releases
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

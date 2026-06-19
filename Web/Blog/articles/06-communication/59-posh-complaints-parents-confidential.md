@@ -1,18 +1,21 @@
-﻿---
+---
 title: "POSH Complaints From Parents: Sensitive and Confidential Communication"
-slug: "posh-complaints-parents-confidential"
+slug: "59-posh-complaints-parents-confidential"
 meta_description: "Effective communication policy strategies for Indian schools. Learn how sexual harassment or abuse complaints require the highest confidentiality and specialized communication protocols to protect victims."
-category: "Communication Policy"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication policy"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## POSH Complaints From Parents: Sensitive and Confidential Communication
 
 Sexual harassment or abuse complaints require the highest confidentiality and specialized communication protocols to protect victims.

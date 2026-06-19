@@ -1,18 +1,21 @@
 ---
 title: "Video Conferencing for Parent-Teacher Meetings: Tools, Scheduling, and DPDP Consent"
-slug: "video-conferencing"
+slug: "44-video-conferencing"
 meta_description: "Video conferencing for parent-teacher meetings offers accessibility and scheduling flexibility. Learn tool selection, consent for recording, and DPDP Act requirements."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "video conferencing parent teacher meetings"
-secondary_keywords: ["online PTM schools", "school video meeting parents", "DPDP recording consent schools", "parent teacher meeting tools India"]
-intent: "informational"
+secondary_keywords:
+  - "online PTM schools"
+  - "school video meeting parents"
+  - "DPDP recording consent schools"
+  - "parent teacher meeting tools India"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Why Schools Are Moving Parent-Teacher Meetings to Video
 
 Video conferencing for parent-teacher meetings has grown significantly in Indian schools, particularly since parents demonstrated willingness to engage online during the COVID-19 period. For many parents, a 20-minute video call at 7 pm is more accessible than taking half a day off work to visit the school campus during hours when they cannot easily leave the office.

@@ -1,20 +1,20 @@
-﻿---
+---
 title: "Mid-Year Enrollment Changes and Pro-Rata Pricing for School ERP"
-slug: "mid-year-enrollment-pro-rata-pricing"
+slug: "13-mid-year-enrollment-pro-rata-pricing"
 meta_description: "Pro-rata school ERP pricing for mid-year enrollment changes. How vendors adjust fees when students join/leave mid-year. Budget impact."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "pro-rata pricing school ERP"
-secondary_keywords: ["mid-year enrollment ERP", "pro-rata billing school software", "enrollment adjustment pricing"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "mid-year enrollment ERP"
+  - "pro-rata billing school software"
+  - "enrollment adjustment pricing"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 **Snippet:** Pro-rata ERP pricing adjusts fees when enrollment changes mid-year. A school budgeted ₹5,00,000 for 2,000 students, but enrollment drops to 1,500. Pro-rata vendors refund ₹1,50,000. Non-pro-rata vendors keep the full amount. Always clarify pro-rata terms upfront.
 
 ## The Mid-Year Enrollment Reality

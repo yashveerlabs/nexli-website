@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Rajasthan"
-slug: "school-erp-in-rajasthan"
+slug: "26-school-erp-in-rajasthan"
 meta_description: "School ERP in Rajasthan: cloud-based school management for state board and CBSE schools with Rajasthan education department compliance and analytics."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Rajasthan"
-secondary_keywords: ["school management system Rajasthan", "Rajasthan school software", "RBSE school ERP", "school ERP Jaipur Jodhpur Udaipur"]
+secondary_keywords:
+  - "school management system Rajasthan"
+  - "Rajasthan school software"
+  - "RBSE school ERP"
+  - "school ERP Jaipur Jodhpur Udaipur"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## School ERP in Rajasthan
 

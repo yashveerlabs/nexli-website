@@ -1,22 +1,21 @@
-﻿---
+---
 title: "When to Request Original vs. Attested Documents in School Admissions"
-slug: when-to-request-original-vs-attested-documents-in-school-admissions
-meta_description: when to request original vs. attested documents in school admissions. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: when to request original vs. attested documents in school admissions
+slug: "23-when-to-request-original-vs-attested-documents-in-school-admissions"
+meta_description: "when to request original vs. attested documents in school admissions. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "when to request original vs. attested documents in school admissions"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article explores best practices for when to request original vs. attested documents in school admissions in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

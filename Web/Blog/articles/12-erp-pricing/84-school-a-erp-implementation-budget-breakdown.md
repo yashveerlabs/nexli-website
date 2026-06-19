@@ -1,18 +1,20 @@
-﻿---
+---
 title: "School A: ERP Implementation Budget Breakdown"
-slug: "school-a-erp-implementation-budget-breakdown"
+slug: "84-school-a-erp-implementation-budget-breakdown"
 meta_description: "School A: ERP Implementation Budget Breakdown"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "school"
-secondary_keywords: ["a:", "erp", "implementation", "budget"]
+secondary_keywords:
+  - "a:"
+  - "erp"
+  - "implementation"
+  - "budget"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## School A: ERP Implementation Budget Breakdown
 

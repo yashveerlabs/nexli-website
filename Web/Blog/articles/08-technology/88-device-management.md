@@ -1,18 +1,21 @@
 ---
 title: "Device Management for School Computers: Imaging, Patching, Licensing, and End-of-Life"
-slug: "device-management"
+slug: "88-device-management"
 meta_description: "Device management for school computers: image management, patch deployment, software licensing, asset tracking, and end-of-life planning for Indian schools."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school device management"
-secondary_keywords: ["school computer management", "MDM schools India", "school software licensing", "IT asset management school"]
-intent: "informational"
+secondary_keywords:
+  - "school computer management"
+  - "MDM schools India"
+  - "school software licensing"
+  - "IT asset management school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Device Management for School Computers: What IT Coordinators Need to Know
 
 A school with 100 computers, 50 tablets, and a cluster of servers needs a structured approach to managing those devices. Without one, each computer becomes a unique configuration, software installations drift, security patches get missed, license compliance becomes unclear, and the IT coordinator spends most of their time manually fixing problems on individual machines instead of managing the fleet as a whole.

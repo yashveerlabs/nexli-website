@@ -1,18 +1,21 @@
 ---
 title: "Parent Involvement in Decision-Making: From Consultation to Collaboration"
-slug: "parent-decision-making-collaboration"
+slug: "26-parent-decision-making-collaboration"
 meta_description: "Effective parent engagement strategies for Indian schools. Learn how schools that involve parents in key decisions (curriculum changes, fee structures, disciplinary policies) build stronger community buy-in and trust."
-category: "Parent Engagement"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent engagement communication"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Parent Involvement in Decision-Making: From Consultation to Collaboration
 
 Schools that involve parents in key decisions (curriculum changes, fee structures, disciplinary policies) build stronger community buy-in and trust.

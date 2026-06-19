@@ -1,18 +1,21 @@
 ---
 title: "Learning Management Systems for Schools: What They Do and When You Need One"
-slug: "learning-management-systems"
+slug: "30-learning-management-systems"
 meta_description: "A learning management system (LMS) handles content delivery and student learning. Understand what an LMS does, the main types, and how it differs from a school ERP."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "learning management system for schools"
-secondary_keywords: ["LMS India schools", "Moodle for schools", "Google Classroom vs Moodle", "school online learning platform"]
-intent: "informational"
+secondary_keywords:
+  - "LMS India schools"
+  - "Moodle for schools"
+  - "Google Classroom vs Moodle"
+  - "school online learning platform"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## What a Learning Management System Actually Does
 
 A learning management system (LMS) for schools is software designed to deliver, track, and manage educational content. The core function of an LMS is teaching and learning: uploading course materials, assigning work, allowing students to submit assignments, enabling teachers to grade, and tracking whether students are completing their coursework.

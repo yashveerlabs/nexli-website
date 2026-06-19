@@ -1,18 +1,21 @@
 ---
 title: "TDS for Schools: Deduction, Filing, and Compliance Requirements"
-slug: "tds-deduction-filing-schools"
+slug: "68-tds-deduction-filing"
 meta_description: "Understand TDS obligations for school management. Covers salary TDS (Section 192), contract payments (194C), professional fees (194J), filing deadlines, and Form 26Q."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "TDS compliance schools India"
-secondary_keywords: ["school salary TDS", "TDS deduction school employees", "Form 26Q school", "TDS filing educational institution"]
-intent: "informational"
+secondary_keywords:
+  - "school salary TDS"
+  - "TDS deduction school employees"
+  - "Form 26Q school"
+  - "TDS filing educational institution"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 20
 branding_block_company: 20
 branding_block_nexli: 20
 ---
-
 Tax Deducted at Source (TDS) is a withholding tax mechanism under the Income Tax Act 1961. Schools, as employers and payers of contracted services, have TDS deduction and filing obligations. Non-compliance results in interest, penalties, and disallowance of the expenditure as a business deduction.
 
 ## TDS on Salaries (Section 192)

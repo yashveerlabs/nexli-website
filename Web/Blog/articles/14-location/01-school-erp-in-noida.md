@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Noida"
-slug: "school-erp-in-noida"
+slug: "01-school-erp-in-noida"
 meta_description: "School ERP in Noida: cloud-based school management for CBSE and ICSE schools in NCR. Admissions, attendance, fees, compliance, and 118+ roles."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Noida"
-secondary_keywords: ["school management system Noida", "Noida school software", "NCR school ERP", "best ERP for Noida schools"]
+secondary_keywords:
+  - "school management system Noida"
+  - "Noida school software"
+  - "NCR school ERP"
+  - "best ERP for Noida schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Noida
 

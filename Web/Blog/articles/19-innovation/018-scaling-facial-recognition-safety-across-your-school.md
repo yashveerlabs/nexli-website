@@ -1,22 +1,21 @@
-﻿---
-title: Scaling Facial Recognition Safety Across Your School
-slug: scaling-facial-recognition-safety-across-your-school
-meta_description: Scaling Facial Recognition Safety Across Your School
-category: Innovation & AI
-primary_keyword: facial recognition safety
+---
+title: "Scaling Facial Recognition Safety Across Your School"
+slug: "018-scaling-facial-recognition-safety-across-your-school"
+meta_description: "Scaling Facial Recognition Safety Across Your School"
+category: "Education Innovation, AI & Future"
+primary_keyword: "facial recognition safety"
 secondary_keywords:
-  - facial recognition safety schools
-  - best practices facial recognition safety
-  - facial recognition safety strategy
-  - how to implement facial recognition safety
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "facial recognition safety schools"
+  - "best practices facial recognition safety"
+  - "facial recognition safety strategy"
+  - "how to implement facial recognition safety"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on facial recognition safety for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,18 +1,21 @@
-﻿---
-title: Insurance Coverage for Schools
-slug: insurance-coverage-for-schools
-meta_description: Obtain comprehensive insurance coverage for property, liability, and risk protection.
-category: Safety & Operations
-primary_keyword: school insurance coverage
-secondary_keywords: ['liability insurance', 'property coverage', 'risk protection', 'financial security']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "Insurance Coverage for Schools"
+slug: "100-insurance-coverage-for-schools"
+meta_description: "Obtain comprehensive insurance coverage for property, liability, and risk protection."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "school insurance coverage"
+secondary_keywords:
+  - "liability insurance"
+  - "property coverage"
+  - "risk protection"
+  - "financial security"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Insurance Coverage for Schools: Comprehensive Guide
 
 This guide provides comprehensive guidance on insurance coverage for schools.

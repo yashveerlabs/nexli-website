@@ -1,18 +1,21 @@
 ---
-title: Health Screening Programs - Vision, Hearing, Dental
-slug: health-screening-vision-hearing-dental
-meta_description: Implement comprehensive school health screening programs for vision, hearing, and dental health following Indian guidelines.
-category: Safety & Operations
-primary_keyword: school health screening programs
-secondary_keywords: ["vision screening", "hearing tests", "dental checkups", "preventive health"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+title: "Health Screening Programs - Vision, Hearing, Dental"
+slug: "41-health-screening-vision-hearing-dental"
+meta_description: "Implement comprehensive school health screening programs for vision, hearing, and dental health following Indian guidelines."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "school health screening programs"
+secondary_keywords:
+  - "vision screening"
+  - "hearing tests"
+  - "dental checkups"
+  - "preventive health"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Health Screening Programs: Vision, Hearing, and Dental Care
 
 Many learning difficulties aren't behavioral or intellectual, they're sensory. A child who can't see the board clearly, hears high frequencies poorly, or has untreated tooth decay may appear unmotivated or disruptive. Regular health screenings identify these barriers to learning. This guide explains how to implement screenings compliant with Indian health policy.

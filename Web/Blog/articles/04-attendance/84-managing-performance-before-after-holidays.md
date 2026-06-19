@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Managing Student Performance Before and After Holidays"
-slug: "managing-performance-before-after-holidays"
+slug: "84-managing-performance-before-after-holidays"
 meta_description: "Learn about managing student performance before and after holidays in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "managing student performance before and after holidays"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with managing student performance before and after holidays:

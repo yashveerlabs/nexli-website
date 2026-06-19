@@ -1,22 +1,21 @@
 ---
 title: "Digital School Administration: From Manual Registers to Automated Workflows"
-slug: digital-school-admin-manual-to-automated
-meta_description: How schools transition from paper-based to digital administration. Complete roadmap including workflows, tools, and change management.
-category: School Administration & Operations
-primary_keyword: digital school administration
+slug: "04-digital-school-admin-workflows"
+meta_description: "How schools transition from paper-based to digital administration. Complete roadmap including workflows, tools, and change management."
+category: "School Administration & Operations"
+primary_keyword: "digital school administration"
 secondary_keywords:
-  - digital transformation schools
-  - automated workflows
-  - school operations management
-  - admin digitization
-intent: educational
-author: Yashveer Labs
-date: 2026-06-19
+  - "digital transformation schools"
+  - "automated workflows"
+  - "school operations management"
+  - "admin digitization"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 The transition from manual registers to digital workflows is not a one-week project. Schools that succeed plan a 3–6 month timeline with clear phases. This article outlines the exact roadmap: what to migrate first, how to train staff, when to go digital-only, and what to measure to ensure success.

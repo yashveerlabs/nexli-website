@@ -1,8 +1,8 @@
 ---
 title: "Daily Principal Dashboard: What to Monitor and Track"
-slug: "daily-principal-dashboard-kpi-monitoring"
+slug: "05-daily-principal-dashboard"
 meta_description: "Learn which KPIs every principal should monitor daily. Understand what to track, how to use dashboards, and how to spot problems early."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "principal dashboard KPI"
 secondary_keywords:
   - "principal metrics"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Daily Principal Dashboard: Which KPIs Should You Monitor?
 
 **Data drives good decisions. But most principals have no dashboard, they operate on anecdotes, rumors, and emails. "Attendance seems low this week." "Are fees coming in?" "Which students are struggling?" Without real-time visibility, you can't spot problems early or celebrate wins. This guide shows you which KPIs matter most, how often to check them, what to do when they trend wrong, and how a modern system (like Nexli) makes monitoring effortless.**

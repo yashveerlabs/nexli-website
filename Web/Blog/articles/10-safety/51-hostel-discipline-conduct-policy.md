@@ -1,22 +1,21 @@
-﻿---
-title: Hostel Discipline and Conduct Policy
-slug: hostel-discipline-conduct-policy
-meta_description: Comprehensive guide to hostel discipline and conduct policy for school administrators and leaders.
-category: School Safety, Transport, Hostel, Medical & Campus Operations
-primary_keyword: hostel policy
+---
+title: "Hostel Discipline and Conduct Policy"
+slug: "51-hostel-discipline-conduct-policy"
+meta_description: "Comprehensive guide to hostel discipline and conduct policy for school administrators and leaders."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "hostel policy"
 secondary_keywords:
-  - school safety
-  - hostel policy
-  - school operations
-  - campus safety
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school safety"
+  - "hostel policy"
+  - "school operations"
+  - "campus safety"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This comprehensive guide covers essential strategies and best practices for hostel discipline and conduct policy.

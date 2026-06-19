@@ -1,22 +1,21 @@
-﻿---
-title: Scaling Multilingual Ai Translation Across Your School
-slug: scaling-multilingual-ai-translation-across-your-school
-meta_description: Scaling Multilingual Ai Translation Across Your School
-category: Innovation & AI
-primary_keyword: multilingual AI translation
+---
+title: "Scaling Multilingual Ai Translation Across Your School"
+slug: "028-scaling-multilingual-ai-translation-across-your-school"
+meta_description: "Scaling Multilingual Ai Translation Across Your School"
+category: "Education Innovation, AI & Future"
+primary_keyword: "multilingual AI translation"
 secondary_keywords:
-  - multilingual AI translation schools
-  - best practices multilingual AI translation
-  - multilingual AI translation strategy
-  - how to implement multilingual AI translation
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "multilingual AI translation schools"
+  - "best practices multilingual AI translation"
+  - "multilingual AI translation strategy"
+  - "how to implement multilingual AI translation"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on multilingual ai translation for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

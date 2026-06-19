@@ -1,8 +1,8 @@
 ---
 title: "School Assembly for Marketing: Visible Events and Brand Building"
-slug: "school-assembly-marketing"
+slug: "85-school-assembly-marketing"
 meta_description: "Use school assembly events for marketing and brand building. Learn how to invite parents, capture content, get media coverage, and turn assemblies into admissions tools."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school assembly marketing"
 secondary_keywords:
   - "school events brand building"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # School Assembly for Marketing: Visible Events and Brand Building
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

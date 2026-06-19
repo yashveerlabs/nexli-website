@@ -1,18 +1,20 @@
 ---
 title: "Military Discipline in Schools"
-slug: "military-discipline-in-schools"
+slug: "88-military-discipline-in-schools"
 meta_description: "How school ERPs support military discipline in schools for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "military discipline school management ERP"
-secondary_keywords: ["sainik school discipline tracking", "military school conduct management India", "cadet discipline ERP", "structured school discipline system"]
+secondary_keywords:
+  - "sainik school discipline tracking"
+  - "military school conduct management India"
+  - "cadet discipline ERP"
+  - "structured school discipline system"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Military Discipline in Schools
 

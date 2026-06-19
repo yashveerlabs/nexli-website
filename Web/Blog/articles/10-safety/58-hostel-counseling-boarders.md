@@ -1,22 +1,21 @@
-﻿---
-title: Hostel Counseling: Supporting Boarders' Wellbeing
-slug: hostel-counseling-boarders
-meta_description: Comprehensive guide to hostel counseling: supporting boarders' wellbeing for school administrators and leaders.
-category: School Safety, Transport, Hostel, Medical & Campus Operations
-primary_keyword: hostel counseling
+---
+title: "Hostel Counseling: Supporting Boarders' Wellbeing"
+slug: "58-hostel-counseling-boarders"
+meta_description: "Comprehensive guide to hostel counseling: supporting boarders' wellbeing for school administrators and leaders."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "hostel counseling"
 secondary_keywords:
-  - school safety
-  - hostel counseling
-  - school operations
-  - campus safety
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school safety"
+  - "hostel counseling"
+  - "school operations"
+  - "campus safety"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This comprehensive guide covers essential strategies and best practices for hostel counseling: supporting boarders' wellbeing.

@@ -1,22 +1,21 @@
 ---
-title: Using Video Content in Lessons
-slug: video-content-curation-integration
-meta_description: Incorporate and curate video resources for classroom teaching.
-category: Academic Management & Teaching Excellence
-primary_keyword: video content curation integration
+title: "Using Video Content in Lessons"
+slug: "90-video-content-curation-integration"
+meta_description: "Incorporate and curate video resources for classroom teaching."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "video content curation integration"
 secondary_keywords:
-  - Video Content Curation Integration
-  - teaching effectiveness
-  - student learning
-  - academic excellence
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Video Content Curation Integration"
+  - "teaching effectiveness"
+  - "student learning"
+  - "academic excellence"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Executive Summary
 
 Using Video Content in Lessons is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process see measurable improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.

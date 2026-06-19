@@ -1,8 +1,8 @@
 ---
 title: "Visitor Management System for Schools: Digital Security"
-slug: "visitor-management-schools-digital"
+slug: "08-visitor-management-system"
 meta_description: "Implement a visitor management system for school security. Learn OTP verification, expected visitor pre-registration, and digital audit trails."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "visitor management system"
 secondary_keywords:
   - "school visitor control"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Visitor Management System for Schools: Digital Security
 
 **Controlling campus access is critical for student safety. A digital visitor management system automates the process: OTP verification, expected-visitor pre-registration, audit trails, and reports. This guide covers manual and digital approaches.**

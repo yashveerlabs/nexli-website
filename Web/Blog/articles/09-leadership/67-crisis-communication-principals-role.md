@@ -1,19 +1,22 @@
 ---
 title: "Crisis Communication: Principal's Role"
-slug: crisis-communication-principals-role
-category: 9
-order: 67
-primary_keyword: "school crisis communication principal"
+slug: "67-crisis-communication-principals-role"
 meta_description: "Lead effective school crisis communication that prevents panic and builds trust. A practical framework for principals covering pre-crisis planning to follow-up messaging."
-secondary_keywords: ["school emergency communication", "principal crisis response", "school crisis management", "school stakeholder communication crisis"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "school crisis communication principal"
+secondary_keywords:
+  - "school emergency communication"
+  - "principal crisis response"
+  - "school crisis management"
+  - "school stakeholder communication crisis"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
+order: 67
 ---
-
 # Crisis Communication: Principal's Role
 
 In crisis, communication prevents panic and misinformation. Clear, timely messaging is essential.

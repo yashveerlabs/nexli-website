@@ -1,22 +1,21 @@
-﻿---
-title: How to Improve Onboarding New Teachers: Best Practices
-slug: how-to-improve-onboarding-new-teachers-best-practices
-meta_description: How to Improve Onboarding New Teachers: Best Practices
-category: HR & Recruitment
-primary_keyword: onboarding new teachers
+---
+title: "How to Improve Onboarding New Teachers: Best Practices"
+slug: "002-how-to-improve-onboarding-new-teachers-best-practices"
+meta_description: "How to Improve Onboarding New Teachers: Best Practices"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "onboarding new teachers"
 secondary_keywords:
-  - onboarding new teachers schools
-  - best practices onboarding new teachers
-  - onboarding new teachers strategy
-  - how to implement onboarding new teachers
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "onboarding new teachers schools"
+  - "best practices onboarding new teachers"
+  - "onboarding new teachers strategy"
+  - "how to implement onboarding new teachers"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on onboarding new teachers for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

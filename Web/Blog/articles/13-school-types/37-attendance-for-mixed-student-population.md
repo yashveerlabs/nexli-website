@@ -1,18 +1,20 @@
 ---
 title: "Attendance for Mixed Student Population"
-slug: "attendance-for-mixed-student-population"
+slug: "37-attendance-for-mixed-student-population"
 meta_description: "How school ERPs support attendance for mixed student population for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "mixed student population attendance ERP"
-secondary_keywords: ["boarding day student attendance", "combined school attendance tracking", "student attendance management India", "school ERP attendance"]
+secondary_keywords:
+  - "boarding day student attendance"
+  - "combined school attendance tracking"
+  - "student attendance management India"
+  - "school ERP attendance"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Attendance for Mixed Student Population
 

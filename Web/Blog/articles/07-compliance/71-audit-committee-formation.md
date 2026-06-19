@@ -1,18 +1,21 @@
 ---
 title: "Audit Committee for Schools: Why It Matters and How to Form One"
-slug: "audit-committee-school-governance"
+slug: "71-audit-committee-formation"
 meta_description: "Learn why schools need an audit committee and how to form one. Covers committee functions, member selection, oversight of financial controls, and fraud prevention."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "audit committee school governance"
-secondary_keywords: ["school financial oversight committee", "school board audit committee", "educational institution governance", "school financial controls"]
-intent: "informational"
+secondary_keywords:
+  - "school financial oversight committee"
+  - "school board audit committee"
+  - "educational institution governance"
+  - "school financial controls"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 An audit committee is a subcommittee of the school's governing board with specific oversight responsibility for financial controls, internal audit, risk management, and external audit liaison. While not legally required for all school structures, an audit committee is a governance best practice that strengthens financial accountability.
 
 For school trusts and societies managing significant fee income, government grants, and development funds, an audit committee provides the oversight layer that protects the institution from financial mismanagement.

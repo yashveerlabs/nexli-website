@@ -1,18 +1,21 @@
 ---
 title: "ERP Implementation Roadmap for Indian Schools"
-slug: "erp-implementation-roadmap"
+slug: "03-erp-implementation-roadmap"
 meta_description: "Step-by-step ERP implementation roadmap for Indian schools. Assessment, planning, deployment, and stabilization phases with realistic timelines."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school ERP implementation roadmap"
-secondary_keywords: ["ERP deployment schools India", "ERP go-live schools", "school ERP phases", "ERP rollout plan"]
-intent: "informational"
+secondary_keywords:
+  - "ERP deployment schools India"
+  - "ERP go-live schools"
+  - "school ERP phases"
+  - "ERP rollout plan"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## What Does a School ERP Implementation Look Like, Phase by Phase?
 
 A school ERP implementation roadmap is a structured plan that takes a school from paper-based or fragmented operations to a unified digital system. For Indian schools, a realistic full-school rollout spans four to six months across four phases: Assessment, Planning, Deployment, and Stabilization. Rushing any phase, especially mid-academic-year, is the single most common reason ERP projects fail.

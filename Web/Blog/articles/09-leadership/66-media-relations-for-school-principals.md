@@ -1,19 +1,22 @@
 ---
 title: "Media Relations for School Principals"
-slug: media-relations-for-school-principals
-category: 9
-order: 66
-primary_keyword: "media relations for school principals"
+slug: "66-media-relations-for-school-principals"
 meta_description: "Build positive school media relations through proactive communication, press releases, and crisis messaging. A practical guide for principals managing school reputation."
-secondary_keywords: ["school public relations", "principal media communication", "school press relations", "school reputation management"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "media relations for school principals"
+secondary_keywords:
+  - "school public relations"
+  - "principal media communication"
+  - "school press relations"
+  - "school reputation management"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
+order: 66
 ---
-
 # Media Relations for School Principals
 
 Media coverage shapes school perception. Smart media relations build positive reputation.

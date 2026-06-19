@@ -1,22 +1,21 @@
-﻿---
-title: Why Sick Leave Procedures Matters for Schools
-slug: why-sick-leave-procedures-matters-for-schools
-meta_description: Why Sick Leave Procedures Matters for Schools
-category: HR & Recruitment
-primary_keyword: sick leave procedures
+---
+title: "Why Sick Leave Procedures Matters for Schools"
+slug: "093-why-sick-leave-procedures-matters-for-schools"
+meta_description: "Why Sick Leave Procedures Matters for Schools"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "sick leave procedures"
 secondary_keywords:
-  - sick leave procedures schools
-  - best practices sick leave procedures
-  - sick leave procedures strategy
-  - how to implement sick leave procedures
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "sick leave procedures schools"
+  - "best practices sick leave procedures"
+  - "sick leave procedures strategy"
+  - "how to implement sick leave procedures"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on sick leave procedures for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

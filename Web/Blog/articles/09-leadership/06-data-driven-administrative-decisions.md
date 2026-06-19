@@ -1,8 +1,8 @@
 ---
 title: "Data-Driven Administrative Decisions: Making Smart Choices"
-slug: "data-driven-administrative-decisions"
+slug: "06-data-driven-administrative-decisions"
 meta_description: "Learn how to use data to make better administrative decisions at your school. Understand what data to collect, how to analyze it, and when to trust your gut."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "data-driven decisions"
 secondary_keywords:
   - "school data analytics"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Data-Driven Administrative Decisions: How to Make Smarter Choices
 
 **Most principals make decisions based on hunches, conversations, or the loudest voice in the room. "I think attendance is low." "Parents seem unhappy about fees." "That teacher doesn't fit the culture." But hunches mislead. Data doesn't lie. This guide shows you how to collect the right data, analyze it properly, and make decisions backed by evidence instead of guesses. You'll learn when to trust data, when to combine it with judgment, and how a system like Nexli makes data-driven decision-making effortless.**

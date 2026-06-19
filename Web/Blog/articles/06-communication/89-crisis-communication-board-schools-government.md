@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Crisis Communication for Board Schools: Government Requirements"
-slug: "crisis-communication-board-schools-government"
+slug: "89-crisis-communication-board-schools-government"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how government schools face specific reporting requirements during emergencies. understanding district communication protocols ensures compliance."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Crisis Communication for Board Schools: Government Requirements
 
 Government schools face specific reporting requirements during emergencies. Understanding district communication protocols ensures compliance.

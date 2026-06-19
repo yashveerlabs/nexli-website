@@ -1,22 +1,21 @@
 ---
-title: Scaling Assessment Method Comparison Across Your School
-slug: scaling-assessment-method-comparison-across-your-school
-meta_description: Scaling Assessment Method Comparison Across Your School
-category: Research & Statistics
-primary_keyword: assessment method comparison
+title: "Scaling Assessment Method Comparison Across Your School"
+slug: "038-scaling-assessment-method-comparison-across-your-school"
+meta_description: "Scaling Assessment Method Comparison Across Your School"
+category: "School Research, Statistics & Reports"
+primary_keyword: "assessment method comparison"
 secondary_keywords:
-  - assessment method comparison schools
-  - best practices assessment method comparison
-  - assessment method comparison strategy
-  - how to implement assessment method comparison
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "assessment method comparison schools"
+  - "best practices assessment method comparison"
+  - "assessment method comparison strategy"
+  - "how to implement assessment method comparison"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on assessment method comparison for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

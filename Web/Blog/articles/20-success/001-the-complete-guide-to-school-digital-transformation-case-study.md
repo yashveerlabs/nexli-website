@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to School Digital Transformation Case Study
-slug: the-complete-guide-to-school-digital-transformation-case-study
-meta_description: The Complete Guide to School Digital Transformation Case ...
-category: Success Stories & Cases
-primary_keyword: school digital transformation case study
+title: "The Complete Guide to School Digital Transformation Case Study"
+slug: "001-the-complete-guide-to-school-digital-transformation-case-study"
+meta_description: "The Complete Guide to School Digital Transformation Case ..."
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "school digital transformation case study"
 secondary_keywords:
-  - school digital transformation case study schools
-  - best practices school digital transformation case study
-  - school digital transformation case study strategy
-  - how to implement school digital transformation case study
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "school digital transformation case study schools"
+  - "best practices school digital transformation case study"
+  - "school digital transformation case study strategy"
+  - "how to implement school digital transformation case study"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on school digital transformation case study for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

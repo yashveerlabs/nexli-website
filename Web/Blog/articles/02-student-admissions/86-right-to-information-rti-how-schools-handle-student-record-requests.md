@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Right to Information (RTI): How Schools Handle Student Record Requests"
-slug: right-to-information-rti-how-schools-handle-student-record-requests
-meta_description: right to information (rti): how schools handle student record requests. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: right to information (rti)
+slug: "86-right-to-information-rti-how-schools-handle-student-record-requests"
+meta_description: "right to information (rti): how schools handle student record requests. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "right to information (rti)"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article explores best practices for right to information (rti) in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

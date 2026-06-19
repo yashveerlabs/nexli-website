@@ -1,22 +1,21 @@
-﻿---
+---
 title: "New Student Onboarding: Making the Transition Smooth"
-slug: new-student-onboarding-making-the-transition-smooth
-meta_description: new student onboarding: making the transition smooth. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: new student onboarding
+slug: "35-new-student-onboarding-making-the-transition-smooth"
+meta_description: "new student onboarding: making the transition smooth. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "new student onboarding"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article explores best practices for new student onboarding in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

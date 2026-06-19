@@ -1,19 +1,22 @@
 ---
 title: "Work-Life Balance for Principals"
-slug: work-life-balance-for-principals
-category: 9
-order: 80
-primary_keyword: "work-life balance for school principals"
+slug: "80-work-life-balance-for-principals"
 meta_description: "Build sustainable work-life balance as a school principal. Practical strategies for boundary-setting, delegation, efficiency, and protecting personal time without guilt."
-secondary_keywords: ["principal wellbeing", "school leader work life balance", "principal boundary setting", "sustainable school leadership"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "work-life balance for school principals"
+secondary_keywords:
+  - "principal wellbeing"
+  - "school leader work life balance"
+  - "principal boundary setting"
+  - "sustainable school leadership"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 20
 branding_block_company: 20
 branding_block_nexli: 20
+order: 80
 ---
-
 # Work-Life Balance for Principals
 
 Sustainable leadership requires work-life balance. Protect personal time fiercely.

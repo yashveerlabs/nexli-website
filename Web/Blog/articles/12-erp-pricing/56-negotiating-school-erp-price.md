@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Negotiating School ERP Price"
-slug: "negotiating-school-erp-price"
+slug: "56-negotiating-school-erp-price"
 meta_description: "Negotiating School ERP Price"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "negotiating"
-secondary_keywords: ["school", "erp", "price", "school"]
+secondary_keywords:
+  - "school"
+  - "erp"
+  - "price"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Negotiating School ERP Price
 

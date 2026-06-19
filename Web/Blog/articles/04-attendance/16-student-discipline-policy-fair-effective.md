@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Student Discipline Policy: Creating Fair and Effective Rules"
-slug: "student-discipline-policy-fair-effective"
+slug: "16-student-discipline-policy-fair-effective"
 meta_description: "Learn about student discipline policy: creating fair and effective rules in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "student discipline policy: creating fair and effective rules"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with student discipline policy: creating fair and effective rules:

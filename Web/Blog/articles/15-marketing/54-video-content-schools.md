@@ -1,8 +1,8 @@
 ---
 title: "Video Content for Schools: Strategy and Production"
-slug: "video-content-schools"
+slug: "54-video-content-schools"
 meta_description: "Create compelling school video content that drives admissions. Learn video strategy, production on a budget, distribution channels, and measuring video impact."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school video content"
 secondary_keywords:
   - "school video marketing"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Video Content for Schools: Strategy and Production
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "School Audit Report: What External Auditors Look For"
-slug: "school-audit-report-external-auditors"
+slug: "60-school-audit-report-external-auditors"
 meta_description: "Learn about school audit report: what external auditors look for in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "school audit report: what external auditors look for"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with school audit report: what external auditors look for:

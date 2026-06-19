@@ -1,18 +1,21 @@
-﻿---
+---
 title: "School Fee vs. Government Support: Understanding Your Revenue Mix"
-slug: "school-fee-vs-government-support"
+slug: "95-school-fee-vs-government-support"
 meta_description: "Learn about school fee vs. government support: understanding your revenue mix in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "school fee vs. government support: understanding your revenue mix"
-secondary_keywords: ["school management", "school policy", "finance", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "finance"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Complex Financial Management Without Clear Systems
 
 Most schools struggle with school fee vs. government support: understanding your revenue mix:

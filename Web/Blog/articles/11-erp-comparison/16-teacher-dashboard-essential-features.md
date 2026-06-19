@@ -1,8 +1,8 @@
 ---
 title: "Teacher Dashboard: Essential Features in a School ERP"
-slug: "teacher-dashboard-essential-features"
+slug: "16-teacher-dashboard-essential-features"
 meta_description: "What teachers need from a school ERP dashboard: class attendance, homework tracking, at-risk student alerts, lesson plans, and marks entry workflow."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP teacher dashboard"
 secondary_keywords:
   - "teacher portal school ERP"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "teacher workflow school management"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 ## Teacher Dashboard: Essential Features in a School ERP
 
 **Teacher adoption determines whether an ERP succeeds or fails. If teachers find the dashboard difficult, slow, or irrelevant, they stop using it, and fall back to paper. The teacher dashboard must show teachers exactly what they need for their day's work, in a format that works on a phone, with minimal clicks. This guide explains what an effective teacher dashboard must include.**

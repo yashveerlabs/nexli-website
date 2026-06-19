@@ -1,18 +1,21 @@
 ---
 title: "CBSE SARAS Portal: How to Manage School Affiliation Online"
-slug: "cbse-saras-portal-school-affiliation"
+slug: "62-cbse-saras-portal"
 meta_description: "Complete guide to CBSE SARAS portal for schools. Covers affiliation renewal, document uploads, inspection scheduling, and keeping school information current."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "CBSE SARAS portal school affiliation"
-secondary_keywords: ["CBSE affiliation renewal portal", "SARAS CBSE online", "CBSE school compliance portal", "CBSE affiliation documents"]
-intent: "informational"
+secondary_keywords:
+  - "CBSE affiliation renewal portal"
+  - "SARAS CBSE online"
+  - "CBSE school compliance portal"
+  - "CBSE affiliation documents"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 The CBSE SARAS (School Affiliation Registration and Administration System) portal is the central online platform through which CBSE-affiliated schools manage their affiliation relationship with the Board. All affiliation applications, renewals, document submissions, and compliance communications now go through SARAS.
 
 Schools without an active SARAS account or with outdated information on the portal are operationally exposed: CBSE inspection schedules, affiliation status updates, and fee transactions all happen through this system.

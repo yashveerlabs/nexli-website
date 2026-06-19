@@ -1,18 +1,21 @@
-﻿---
+---
 title: "School Budget Planning: Creating a Realistic Annual Budget"
-slug: "school-budget-planning-annual"
+slug: "10-school-budget-planning-annual"
 meta_description: "Create a realistic annual school budget. Step-by-step guide to budget planning, forecasting, and variance management."
-category: "School Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "school budget planning annual realistic"
-secondary_keywords: ["budget management", "financial planning", "school finance", "expense forecasting"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "budget management"
+  - "financial planning"
+  - "school finance"
+  - "expense forecasting"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Why Annual Budgeting Matters
 
 **Without a Budget:**

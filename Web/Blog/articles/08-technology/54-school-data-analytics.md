@@ -1,18 +1,20 @@
 ---
 title: "Data Analytics in Schools: What to Track and How to Read It"
-slug: "school-data-analytics"
+slug: "54-school-data-analytics"
 meta_description: "School data analytics covers attendance trends, fee collection patterns, and academic performance. Learn which metrics matter and how to interpret them without drawing wrong conclusions."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school data analytics"
-secondary_keywords: ["attendance trend analysis", "fee collection analytics", "academic performance data"]
-intent: "informational"
+secondary_keywords:
+  - "attendance trend analysis"
+  - "fee collection analytics"
+  - "academic performance data"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## School Data Analytics: Starting With What Matters
 
 School data analytics begins with a simple question: what decisions do you need to make, and what data would help you make them better? Schools generate enormous amounts of data daily, but most of it sits unused in registers, spreadsheets, and disconnected software. The schools that benefit from analytics are not the ones collecting the most data; they are the ones consistently reading a small set of meaningful indicators.

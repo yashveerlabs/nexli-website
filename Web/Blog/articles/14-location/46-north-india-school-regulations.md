@@ -1,18 +1,20 @@
 ---
 title: "North India School Regulations"
-slug: "north-india-school-regulations"
+slug: "46-north-india-school-regulations"
 meta_description: "North India school regulations and ERP compliance: state-specific requirements for UP, Rajasthan, Punjab, Haryana, and CBSE affiliate schools."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "North India school regulations ERP"
-secondary_keywords: ["North India school compliance", "state board compliance North India", "CBSE school rules North India", "UP Punjab Rajasthan school regulations"]
+secondary_keywords:
+  - "North India school compliance"
+  - "state board compliance North India"
+  - "CBSE school rules North India"
+  - "UP Punjab Rajasthan school regulations"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## North India School Regulations
 

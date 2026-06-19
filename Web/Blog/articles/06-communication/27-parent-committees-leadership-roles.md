@@ -1,18 +1,21 @@
 ---
 title: "Parent Committees: Organizing Community Leadership Roles"
-slug: "parent-committees-leadership-roles"
+slug: "27-parent-committees-leadership-roles"
 meta_description: "Effective parent engagement strategies for Indian schools. Learn how specialized committees (academics, sports, cultural, discipline) distribute leadership responsibilities and ensure diverse parent perspectives guide school initiatives."
-category: "Parent Engagement"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent engagement communication"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Parent Committees: Organizing Community Leadership Roles
 
 Specialized committees (academics, sports, cultural, discipline) distribute leadership responsibilities and ensure diverse parent perspectives guide school initiatives.

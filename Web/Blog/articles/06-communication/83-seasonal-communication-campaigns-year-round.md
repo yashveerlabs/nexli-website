@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Seasonal Communication Campaigns: Planning Year-Round Messaging"
-slug: "seasonal-communication-campaigns-year-round"
+slug: "83-seasonal-communication-campaigns-year-round"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how different seasons and academic events call for different messaging themes: admission season, exam prep, holiday breaks, results announcements."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Seasonal Communication Campaigns: Planning Year-Round Messaging
 
 Different seasons and academic events call for different messaging themes: admission season, exam prep, holiday breaks, results announcements.

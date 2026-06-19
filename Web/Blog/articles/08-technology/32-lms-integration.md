@@ -1,18 +1,21 @@
 ---
 title: "Integrating an LMS with Your School ERP: Student Sync, Grades, and Single Sign-On"
-slug: "lms-integration"
+slug: "32-lms-integration"
 meta_description: "Connecting a school LMS to an ERP prevents duplicate data entry and roster errors. Learn how student sync, grade passback, and single sign-on work in practice."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "LMS ERP integration for schools"
-secondary_keywords: ["school LMS integration", "student roster sync", "Google Classroom ERP integration", "school single sign-on"]
-intent: "informational"
+secondary_keywords:
+  - "school LMS integration"
+  - "student roster sync"
+  - "Google Classroom ERP integration"
+  - "school single sign-on"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Why LMS and ERP Integration Matters
 
 LMS and ERP integration for schools addresses one of the most common pain points in school technology: two systems that both hold student data but do not talk to each other. When a new student enrolls in the ERP, someone has to manually add them to the LMS. When a student leaves, someone has to remove them from both systems separately. When class sections are reorganised after the first week, someone has to update both.

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Allowances and Deductions: Building the Salary Slip"
-slug: "allowances-deductions-salary-slip"
+slug: "84-allowances-deductions-salary-slip"
 meta_description: "Learn about allowances and deductions: building the salary slip in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "allowances and deductions: building the salary slip"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with allowances and deductions: building the salary slip:

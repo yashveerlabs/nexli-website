@@ -1,8 +1,8 @@
 ---
 title: "Phased School ERP Implementation: A 3-Phase Approach That Works"
-slug: "phased-implementation-phase-1,-2,-3"
+slug: "76-phased-implementation-phase-1,-2,-3"
 meta_description: "3-phase school ERP implementation plan: what to deploy first, second, and third, with milestones, timelines, and how to measure readiness before advancing each phase."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "phased school ERP implementation"
 secondary_keywords:
   - "school ERP implementation phases"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP phase plan India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Phased School ERP Implementation: A 3-Phase Approach That Works
 
 **Full ERP deployment in one go is the most common cause of failed implementations. Staff are overwhelmed, errors compound across modules, and the school loses confidence in the system before it has time to demonstrate value. A phased approach deploys high-value, low-complexity modules first, establishes confidence and competence, then adds complexity. This guide describes a tested 3-phase framework.**

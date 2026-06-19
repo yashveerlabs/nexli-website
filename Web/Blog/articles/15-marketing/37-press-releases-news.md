@@ -1,8 +1,8 @@
 ---
 title: "Press Release: Getting Your School in the News"
-slug: "press-releases-news-schools"
+slug: "37-press-releases-news"
 meta_description: "Get your school featured in the news with effective press releases. Learn how to write newsworthy content, target journalists, and build media relationships."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school press release"
 secondary_keywords:
   - "school media coverage"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Press Release: Getting Your School in the News
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

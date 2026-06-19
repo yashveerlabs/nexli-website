@@ -1,18 +1,20 @@
 ---
 title: "Day-Cum-Boarding: Dual Operation Challenges"
-slug: "day-cum-boarding-dual-operation-challenges"
+slug: "34-day-cum-boarding-dual-operation-challenges"
 meta_description: "How school ERPs support day-cum-boarding: dual operation challenges for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "day cum boarding school management ERP"
-secondary_keywords: ["dual school model management", "mixed boarding day school ERP", "combined school operations India", "day cum boarding software"]
+secondary_keywords:
+  - "dual school model management"
+  - "mixed boarding day school ERP"
+  - "combined school operations India"
+  - "day cum boarding software"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Day-Cum-Boarding: Dual Operation Challenges
 

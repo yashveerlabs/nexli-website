@@ -1,8 +1,8 @@
 ---
 title: "Female Leadership in Schools: Breaking Barriers, Building Strength"
-slug: "female-leadership-schools-india-breaking-barriers"
+slug: "11-female-leadership-schools-india"
 meta_description: "Explore how female leaders are transforming Indian schools. Learn practical strategies for women principals and boards to advance female leadership."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "female leadership schools"
 secondary_keywords:
   - "women principals India"
@@ -16,7 +16,6 @@ branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Female Leadership in Schools: Breaking Barriers and Building Strength
 
 **India has more female teachers than male teachers, yet only 15–20% of school principals are women. This gap is not about capability, it's about barriers: bias, lack of mentorship, family expectations, and systems not designed for women's careers. Female-led schools show better student outcomes, higher staff retention, and stronger community trust. This article reveals why female leadership matters, identifies specific barriers, and provides a playbook for boards and schools to accelerate female principal advancement. Schools with strong female leadership pipelines report 25% higher academic outcomes and significantly better workplace culture.**

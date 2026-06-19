@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Parent Communication Platform Selection: Evaluating Solutions"
-slug: "parent-communication-platform-selection"
+slug: "70-parent-communication-platform-selection"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how choosing the right platform (proprietary erp vs. whatsapp business api vs. third-party app) requires assessing cost, ease of use, and feature fit."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Parent Communication Platform Selection: Evaluating Solutions
 
 Choosing the right platform (proprietary ERP vs. WhatsApp Business API vs. third-party app) requires assessing cost, ease of use, and feature fit.

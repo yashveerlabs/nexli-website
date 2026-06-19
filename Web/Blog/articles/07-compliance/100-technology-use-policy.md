@@ -1,18 +1,21 @@
 ---
 title: "Technology Use Policy for Schools: Devices, Social Media, and AI"
-slug: "technology-use-policy-schools"
+slug: "100-technology-use-policy"
 meta_description: "Create a technology use policy for your school. Covers student devices, internet use, social media, AI tools, cyberbullying, staff conduct, and DPDP compliance."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "technology use policy schools India"
-secondary_keywords: ["school device policy", "school social media policy", "student internet policy school", "school AI use policy"]
-intent: "informational"
+secondary_keywords:
+  - "school device policy"
+  - "school social media policy"
+  - "student internet policy school"
+  - "school AI use policy"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 Technology use in schools has expanded rapidly: personal devices, school-provided tablets, learning management systems, social media, and AI tools are all part of the student and staff experience. A technology use policy defines what is acceptable, what is prohibited, and what happens when the rules are violated.
 
 Without a clear policy, schools face inconsistent enforcement, cyberbullying that goes unaddressed, inappropriate content access, and data privacy risks.

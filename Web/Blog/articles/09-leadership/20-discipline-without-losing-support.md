@@ -1,8 +1,8 @@
 ---
 title: "Discipline Without Losing Support: How Principals Take Action While Maintaining Trust"
-slug: "discipline-without-losing-support"
+slug: "20-discipline-without-losing-support"
 meta_description: "Learn to take disciplinary action as a principal while maintaining staff trust and parent confidence. Balance accountability with empathy and transparency."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "principal discipline strategy"
 secondary_keywords:
   - "school discipline policy"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Discipline Without Losing Support: How Principals Take Action While Maintaining Trust
 
 **Discipline is never popular. When you remove a teacher, suspend a student, or enforce a consequence, someone is unhappy. The challenge is to take action firmly while preserving respect and trust. This article teaches you how to maintain credibility through fair, transparent, and consistent discipline, and how to emerge stronger, not weaker.**

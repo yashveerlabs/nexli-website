@@ -1,18 +1,20 @@
 ---
 title: "Digital Library Management for Schools: Catalog, Circulation, and Reading Programs"
-slug: "digital-library-systems"
+slug: "68-digital-library-systems"
 meta_description: "Digital library management for schools covers catalog management, book circulation, OPAC access, digital resources, and reading programs. Learn what a school library system needs to do well."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "digital library management system for schools"
-secondary_keywords: ["school library catalog", "OPAC school library", "library circulation system"]
-intent: "informational"
+secondary_keywords:
+  - "school library catalog"
+  - "OPAC school library"
+  - "library circulation system"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Digital Library Management for Schools: What a System Needs to Do
 
 A digital library management system for schools automates the administrative work of running a school library: cataloging books, tracking which books are issued to which student, managing renewals, sending overdue alerts, and supporting reading programs. Without a system, librarians maintain paper registers that are difficult to search, impossible to generate reports from, and vulnerable to loss.

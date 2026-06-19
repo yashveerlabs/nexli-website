@@ -1,18 +1,21 @@
 ---
 title: "Trustee Duties in School Governance: Legal and Ethical Obligations"
-slug: "trustee-duties-school-governance"
+slug: "91-trustee-duties"
 meta_description: "Understand the legal and ethical duties of school trustees. Covers fiduciary obligations, conflict of interest, confidentiality, and personal liability for governance failures."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "trustee duties school governance India"
-secondary_keywords: ["school trustee legal obligations", "trust fiduciary duty school", "school managing trustee responsibilities", "educational trust governance"]
-intent: "informational"
+secondary_keywords:
+  - "school trustee legal obligations"
+  - "trust fiduciary duty school"
+  - "school managing trustee responsibilities"
+  - "educational trust governance"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 Serving as a trustee of a school trust is not an honorary role. Trustees have legal obligations that carry personal liability if breached. Many school trustees who take on the role as a mark of community standing do not fully understand what they have signed up for.
 
 ## Who Is a Trustee

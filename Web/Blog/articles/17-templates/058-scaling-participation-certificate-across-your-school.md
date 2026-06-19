@@ -1,22 +1,21 @@
 ---
-title: Scaling Participation Certificate Across Your School
-slug: scaling-participation-certificate-across-your-school
-meta_description: Scaling Participation Certificate Across Your School
-category: SOPs & Templates
-primary_keyword: participation certificate
+title: "Scaling Participation Certificate Across Your School"
+slug: "058-scaling-participation-certificate-across-your-school"
+meta_description: "Scaling Participation Certificate Across Your School"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "participation certificate"
 secondary_keywords:
-  - participation certificate schools
-  - best practices participation certificate
-  - participation certificate strategy
-  - how to implement participation certificate
-intent: informational
+  - "participation certificate schools"
+  - "best practices participation certificate"
+  - "participation certificate strategy"
+  - "how to implement participation certificate"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on participation certificate for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,22 +1,21 @@
-﻿---
+---
 title: "How to Conduct Fair and Objective Admissions Interviews"
-slug: how-to-conduct-fair-and-objective-admissions-interviews
-meta_description: how to conduct fair and objective admissions interviews. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: how to conduct fair and objective admissions interviews
+slug: "26-how-to-conduct-fair-and-objective-admissions-interviews"
+meta_description: "how to conduct fair and objective admissions interviews. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "how to conduct fair and objective admissions interviews"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article explores best practices for how to conduct fair and objective admissions interviews in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

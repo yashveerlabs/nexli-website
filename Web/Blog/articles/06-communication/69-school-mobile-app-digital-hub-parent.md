@@ -1,18 +1,21 @@
-﻿---
+---
 title: "School Mobile App: Digital Hub for Parent Communication"
-slug: "school-mobile-app-digital-hub-parent"
+slug: "69-school-mobile-app-digital-hub-parent"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how a branded mobile app centralizes announcements, schedules, fees, and grades in one place, reducing communication fragmentation."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Mobile App: Digital Hub for Parent Communication
 
 A branded mobile app centralizes announcements, schedules, fees, and grades in one place, reducing communication fragmentation.

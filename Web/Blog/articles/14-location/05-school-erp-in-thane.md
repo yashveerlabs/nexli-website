@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Thane"
-slug: "school-erp-in-thane"
+slug: "05-school-erp-in-thane"
 meta_description: "School ERP in Thane: cloud-based school management for CBSE, ICSE, and State Board schools in Thane district with admissions, fees, and compliance built-in."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Thane"
-secondary_keywords: ["school management system Thane", "Thane school software", "Maharashtra school ERP Thane", "best ERP Thane schools"]
+secondary_keywords:
+  - "school management system Thane"
+  - "Thane school software"
+  - "Maharashtra school ERP Thane"
+  - "best ERP Thane schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Thane
 

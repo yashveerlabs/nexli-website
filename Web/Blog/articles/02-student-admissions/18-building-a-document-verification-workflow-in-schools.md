@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Building a Document Verification Workflow in Schools"
-slug: building-a-document-verification-workflow-in-schools
-meta_description: building a document verification workflow in schools. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: building a document verification workflow in schools
+slug: "18-building-a-document-verification-workflow-in-schools"
+meta_description: "building a document verification workflow in schools. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "building a document verification workflow in schools"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: process
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article explores best practices for building a document verification workflow in schools in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

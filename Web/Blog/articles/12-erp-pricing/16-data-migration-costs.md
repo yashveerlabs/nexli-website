@@ -1,20 +1,20 @@
 ---
 title: "Data Migration Costs: What to Expect When Moving to School ERP"
-slug: "data-migration-costs"
+slug: "16-data-migration-costs"
 meta_description: "ERP data migration cost for schools. Extracting old data, cleaning, importing, validating. Budget ₹50,000-₹1,50,000 for typical school."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "data migration cost ERP"
-secondary_keywords: ["data import school ERP", "data cleansing cost", "moving school records to new system"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "data import school ERP"
+  - "data cleansing cost"
+  - "moving school records to new system"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 **Snippet:** ERP data migration (extracting old data, cleaning, importing) costs ₹50,000-₹1,50,000. Cost depends on data quality (clean vs. messy), volume (500 vs. 5,000 records), and source system (spreadsheet vs. old ERP). Budget 60-120 hours of vendor/internal team time.
 
 ## Why Data Migration Costs So Much

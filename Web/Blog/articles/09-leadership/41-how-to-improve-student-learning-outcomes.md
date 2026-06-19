@@ -1,19 +1,22 @@
 ---
 title: "How to Improve Student Learning Outcomes"
-slug: how-to-improve-student-learning-outcomes
-category: 9
-order: 41
-primary_keyword: "how to improve student learning outcomes"
+slug: "41-how-to-improve-student-learning-outcomes"
 meta_description: "A practical principal's guide to improving student learning outcomes through root cause analysis, teaching quality, early intervention, data use, and sustained focus on improvement."
-secondary_keywords: ["student achievement improvement", "school improvement strategies", "principal student outcomes", "learning outcome data school"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to improve student learning outcomes"
+secondary_keywords:
+  - "student achievement improvement"
+  - "school improvement strategies"
+  - "principal student outcomes"
+  - "learning outcome data school"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
+order: 41
 ---
-
 # How to Improve Student Learning Outcomes
 
 Improving outcomes requires systematic effort. A targeted approach covers multiple leverage points.

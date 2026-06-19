@@ -1,18 +1,21 @@
 ---
 title: "Board Meeting Minutes: What Schools Must Record and Maintain"
-slug: "board-meeting-minutes-schools"
+slug: "89-board-meeting-minutes"
 meta_description: "Learn what school board meeting minutes must contain, how to maintain them, and their legal significance. Covers quorum, decision recording, and document retention."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "school board meeting minutes"
-secondary_keywords: ["governing body minutes school", "trust meeting minutes school India", "board resolution school", "school management committee minutes"]
-intent: "informational"
+secondary_keywords:
+  - "governing body minutes school"
+  - "trust meeting minutes school India"
+  - "board resolution school"
+  - "school management committee minutes"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 Board meeting minutes are the official record of a school's highest governing body. They document decisions made, resolutions passed, and discussions held at board meetings. For school trusts and societies, these minutes are the primary evidence that the governing body is functioning and making decisions as required.
 
 ## Legal Significance of Minutes

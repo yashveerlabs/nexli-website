@@ -1,22 +1,21 @@
 ---
-title: How to Communicate Operational Decisions
-slug: communicate-operational-decisions
-meta_description: Share decisions with staff in ways that drive understanding and compliance.
-category: School Administration & Operations
-primary_keyword: communicate operational decisions
+title: "How to Communicate Operational Decisions"
+slug: "85-communicate-operational-decisions"
+meta_description: "Share decisions with staff in ways that drive understanding and compliance."
+category: "School Administration & Operations"
+primary_keyword: "communicate operational decisions"
 secondary_keywords:
-  - Communicate Operational Decisions
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Communicate Operational Decisions"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 How you communicate operational decisions determines whether staff act on them correctly or ignore them. Schools that build clear processes to communicate operational decisions report 30-50% improvements in speed, consistency, and stakeholder confidence. This article examines the core challenges, proven solutions, and practical implementation strategies.

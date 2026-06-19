@@ -1,18 +1,20 @@
 ---
 title: "School ERP in West Bengal"
-slug: "school-erp-in-west-bengal"
+slug: "23-school-erp-in-west-bengal"
 meta_description: "School ERP in West Bengal: cloud-based school management for state board, CBSE, and ICSE schools with West Bengal education department compliance."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP West Bengal"
-secondary_keywords: ["school management system West Bengal", "Bengal school software", "WBCHSE school ERP", "school ERP Kolkata Howrah"]
+secondary_keywords:
+  - "school management system West Bengal"
+  - "Bengal school software"
+  - "WBCHSE school ERP"
+  - "school ERP Kolkata Howrah"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## School ERP in West Bengal
 

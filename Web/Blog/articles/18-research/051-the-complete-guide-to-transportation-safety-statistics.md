@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Transportation Safety Statistics
-slug: the-complete-guide-to-transportation-safety-statistics
-meta_description: The Complete Guide to Transportation Safety Statistics
-category: Research & Statistics
-primary_keyword: transportation safety statistics
+title: "The Complete Guide to Transportation Safety Statistics"
+slug: "051-the-complete-guide-to-transportation-safety-statistics"
+meta_description: "The Complete Guide to Transportation Safety Statistics"
+category: "School Research, Statistics & Reports"
+primary_keyword: "transportation safety statistics"
 secondary_keywords:
-  - transportation safety statistics schools
-  - best practices transportation safety statistics
-  - transportation safety statistics strategy
-  - how to implement transportation safety statistics
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "transportation safety statistics schools"
+  - "best practices transportation safety statistics"
+  - "transportation safety statistics strategy"
+  - "how to implement transportation safety statistics"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on transportation safety statistics for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

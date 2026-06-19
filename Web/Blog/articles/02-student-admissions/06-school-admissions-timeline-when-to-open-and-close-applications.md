@@ -1,22 +1,21 @@
-﻿---
+---
 title: "School Admissions Timeline: When to Open and Close Applications"
-slug: school-admissions-timeline-when-to-open-and-close-applications
-meta_description: school admissions timeline: when to open and close applications. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: school admissions timeline
+slug: "06-school-admissions-timeline-when-to-open-and-close-applications"
+meta_description: "school admissions timeline: when to open and close applications. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "school admissions timeline"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article explores best practices for school admissions timeline in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

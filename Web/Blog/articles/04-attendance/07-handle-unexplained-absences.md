@@ -1,18 +1,20 @@
-﻿---
+---
 title: "How to Handle Unexplained Absences"
-slug: "handle-unexplained-absences"
+slug: "07-handle-unexplained-absences"
 meta_description: "Manage and investigate unexplained student absences. Process for documenting, investigating, and addressing unaccounted absences."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "unexplained absences student attendance"
-secondary_keywords: ["absence investigation", "truancy management", "attendance documentation"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "absence investigation"
+  - "truancy management"
+  - "attendance documentation"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Unexplained Absences & Truancy
 
 A student is absent for 3 days. The teacher marks "A (Absent)" but doesn't know why. No parent explanation. By day 4, school still doesn't know where the student is or why.

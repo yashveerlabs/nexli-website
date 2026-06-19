@@ -1,18 +1,20 @@
 ---
 title: "Total Cost of Ownership (TCO) for School ERP"
-slug: "total-cost-of-ownership-tco-for-school-erp"
+slug: "20-total-cost-of-ownership-tco-for-school-erp"
 meta_description: "Total Cost of Ownership (TCO) for School ERP"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "total"
-secondary_keywords: ["cost", "of", "ownership", "(tco)"]
+secondary_keywords:
+  - "cost"
+  - "of"
+  - "ownership"
+  - "(tco)"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## Total Cost of Ownership (TCO) for School ERP
 

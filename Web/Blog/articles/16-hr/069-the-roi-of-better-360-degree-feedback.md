@@ -1,22 +1,21 @@
-﻿---
-title: The ROI of Better 360 Degree Feedback
-slug: the-roi-of-better-360-degree-feedback
-meta_description: The ROI of Better 360 Degree Feedback
-category: HR & Recruitment
-primary_keyword: 360 degree feedback
+---
+title: "The ROI of Better 360 Degree Feedback"
+slug: "069-the-roi-of-better-360-degree-feedback"
+meta_description: "The ROI of Better 360 Degree Feedback"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "360 degree feedback"
 secondary_keywords:
-  - 360 degree feedback schools
-  - best practices 360 degree feedback
-  - 360 degree feedback strategy
-  - how to implement 360 degree feedback
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "360 degree feedback schools"
+  - "best practices 360 degree feedback"
+  - "360 degree feedback strategy"
+  - "how to implement 360 degree feedback"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on 360 degree feedback for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

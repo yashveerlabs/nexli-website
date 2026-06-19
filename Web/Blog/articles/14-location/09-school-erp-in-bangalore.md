@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Bangalore"
-slug: "school-erp-in-bangalore"
+slug: "09-school-erp-in-bangalore"
 meta_description: "School ERP in Bangalore: cloud-based school management for Karnataka's tech-hub schools. CBSE, ICSE, and IB compliance with mobile-first access and analytics."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Bangalore"
-secondary_keywords: ["school management system Bangalore", "Bangalore school software", "Karnataka school ERP", "best ERP for Bangalore schools"]
+secondary_keywords:
+  - "school management system Bangalore"
+  - "Bangalore school software"
+  - "Karnataka school ERP"
+  - "best ERP for Bangalore schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Bangalore
 

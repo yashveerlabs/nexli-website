@@ -1,22 +1,21 @@
-﻿---
+---
 title: "CWSN (Children with Special Needs) Admissions: Inclusive Practices"
-slug: cwsn-children-with-special-needs-admissions-inclusive-practices
-meta_description: cwsn (children with special needs) admissions: inclusive practices. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: cwsn (children with special needs) admissions
+slug: "47-cwsn-children-with-special-needs-admissions-inclusive-practices"
+meta_description: "cwsn (children with special needs) admissions: inclusive practices. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "cwsn (children with special needs) admissions"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article explores best practices for cwsn (children with special needs) admissions in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

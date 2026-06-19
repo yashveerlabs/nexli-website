@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Board Exam Results Analysis (And How to Fix Them)
-slug: common-mistakes-in-board-exam-results-analysis-and-how-to-fix-them
-meta_description: Common Mistakes in Board Exam Results Analysis (And How t...
-category: Research & Statistics
-primary_keyword: board exam results analysis
+title: "Common Mistakes in Board Exam Results Analysis (And How to Fix Them)"
+slug: "010-common-mistakes-in-board-exam-results-analysis-and-how-to-fix-them"
+meta_description: "Common Mistakes in Board Exam Results Analysis (And How t..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "board exam results analysis"
 secondary_keywords:
-  - board exam results analysis schools
-  - best practices board exam results analysis
-  - board exam results analysis strategy
-  - how to implement board exam results analysis
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "board exam results analysis schools"
+  - "best practices board exam results analysis"
+  - "board exam results analysis strategy"
+  - "how to implement board exam results analysis"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on board exam results analysis for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

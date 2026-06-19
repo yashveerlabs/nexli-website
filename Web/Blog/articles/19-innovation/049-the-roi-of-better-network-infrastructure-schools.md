@@ -1,22 +1,21 @@
-﻿---
-title: The ROI of Better Network Infrastructure Schools
-slug: the-roi-of-better-network-infrastructure-schools
-meta_description: The ROI of Better Network Infrastructure Schools
-category: Innovation & AI
-primary_keyword: network infrastructure schools
+---
+title: "The ROI of Better Network Infrastructure Schools"
+slug: "049-the-roi-of-better-network-infrastructure-schools"
+meta_description: "The ROI of Better Network Infrastructure Schools"
+category: "Education Innovation, AI & Future"
+primary_keyword: "network infrastructure schools"
 secondary_keywords:
-  - network infrastructure schools schools
-  - best practices network infrastructure schools
-  - network infrastructure schools strategy
-  - how to implement network infrastructure schools
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "network infrastructure schools schools"
+  - "best practices network infrastructure schools"
+  - "network infrastructure schools strategy"
+  - "how to implement network infrastructure schools"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on network infrastructure schools for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

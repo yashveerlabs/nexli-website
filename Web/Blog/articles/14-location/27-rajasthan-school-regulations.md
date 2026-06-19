@@ -1,18 +1,20 @@
 ---
 title: "Rajasthan School Regulations"
-slug: "rajasthan-school-regulations"
+slug: "27-rajasthan-school-regulations"
 meta_description: "Rajasthan school regulations and ERP compliance: RBSE requirements, CBSE affiliate norms, RTE tracking, and state-specific compliance in one platform."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "Rajasthan school regulations ERP"
-secondary_keywords: ["Rajasthan school compliance", "RBSE school ERP", "school regulation compliance Rajasthan", "Rajasthan CBSE school requirements"]
+secondary_keywords:
+  - "Rajasthan school compliance"
+  - "RBSE school ERP"
+  - "school regulation compliance Rajasthan"
+  - "Rajasthan CBSE school requirements"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Rajasthan School Regulations
 

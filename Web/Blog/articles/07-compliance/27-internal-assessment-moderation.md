@@ -1,18 +1,21 @@
 ---
 title: "Internal Assessment Moderation: Ensuring Fairness and Consistency in Schools"
-slug: "internal-assessment-moderation"
+slug: "27-internal-assessment-moderation"
 meta_description: "Implement internal assessment moderation in schools. Learn about moderation processes, consistency checks, CBSE requirements, and audit documentation."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "internal assessment moderation schools"
-secondary_keywords: ["assessment moderation", "CBSE internal marks", "marks consistency", "academic fairness"]
-intent: "informational"
+secondary_keywords:
+  - "assessment moderation"
+  - "CBSE internal marks"
+  - "marks consistency"
+  - "academic fairness"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 Internal assessment moderation ensures that marks given by different teachers within the same school are consistent and fair. Without moderation, a student taught by a strict teacher may receive significantly lower internal marks than an equally able student with a lenient teacher, affecting final grades and class rankings.
 
 ## Why Moderation Matters

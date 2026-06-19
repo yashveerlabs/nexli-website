@@ -1,18 +1,21 @@
 ---
 title: "School Intranet: What to Include, What to Avoid, and How to Keep It Useful"
-slug: "school-intranet"
+slug: "40-school-intranet"
 meta_description: "A school intranet centralises internal communication, document sharing, and staff resources. Learn what to include, what to avoid, and how to prevent it becoming a graveyard."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school intranet"
-secondary_keywords: ["school internal communication platform", "school document management", "staff intranet education", "school policy repository"]
-intent: "informational"
+secondary_keywords:
+  - "school internal communication platform"
+  - "school document management"
+  - "staff intranet education"
+  - "school policy repository"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## What a School Intranet Is and Whether You Need One
 
 A school intranet is an internal digital platform accessible only to school staff (and sometimes students) that serves as a central hub for documents, policies, announcements, and communication. Unlike the school's public website (which faces parents and the community) or the school ERP (which manages operations and data), an intranet is primarily for day-to-day staff information sharing.

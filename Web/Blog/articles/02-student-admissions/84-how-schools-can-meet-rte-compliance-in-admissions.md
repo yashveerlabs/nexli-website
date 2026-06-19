@@ -1,22 +1,21 @@
-﻿---
+---
 title: "How Schools Can Meet RTE Compliance in Admissions"
-slug: how-schools-can-meet-rte-compliance-in-admissions
-meta_description: how schools can meet rte compliance in admissions. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: how schools can meet rte compliance in admissions
+slug: "84-how-schools-can-meet-rte-compliance-in-admissions"
+meta_description: "how schools can meet rte compliance in admissions. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "how schools can meet rte compliance in admissions"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for how schools can meet rte compliance in admissions in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

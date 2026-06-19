@@ -1,22 +1,21 @@
 ---
-title: Parent Information Sheet for Modern Indian Schools
-slug: parent-information-sheet-for-modern-indian-schools
-meta_description: Parent Information Sheet for Modern Indian Schools
-category: SOPs & Templates
-primary_keyword: parent information sheet
+title: "Parent Information Sheet for Modern Indian Schools"
+slug: "044-parent-information-sheet-for-modern-indian-schools"
+meta_description: "Parent Information Sheet for Modern Indian Schools"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "parent information sheet"
 secondary_keywords:
-  - parent information sheet schools
-  - best practices parent information sheet
-  - parent information sheet strategy
-  - how to implement parent information sheet
-intent: informational
+  - "parent information sheet schools"
+  - "best practices parent information sheet"
+  - "parent information sheet strategy"
+  - "how to implement parent information sheet"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on parent information sheet for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

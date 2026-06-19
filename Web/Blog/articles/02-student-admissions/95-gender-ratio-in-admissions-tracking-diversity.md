@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Gender Ratio in Admissions: Tracking Diversity"
-slug: gender-ratio-in-admissions-tracking-diversity
-meta_description: gender ratio in admissions: tracking diversity. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: gender ratio in admissions
+slug: "95-gender-ratio-in-admissions-tracking-diversity"
+meta_description: "gender ratio in admissions: tracking diversity. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "gender ratio in admissions"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article explores best practices for gender ratio in admissions in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

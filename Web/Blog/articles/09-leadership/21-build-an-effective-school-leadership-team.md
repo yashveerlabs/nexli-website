@@ -1,19 +1,22 @@
 ---
 title: "Build an Effective School Leadership Team"
-slug: build-an-effective-school-leadership-team
-category: 9
-order: 21
-primary_keyword: "build an effective school leadership team"
+slug: "21-build-an-effective-school-leadership-team"
 meta_description: "How school principals can build, develop, and sustain an effective leadership team, covering team composition, distributed leadership, meeting structures, and succession planning."
-secondary_keywords: ["school leadership team structure", "principal team building", "distributed leadership in schools", "school leadership development"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "build an effective school leadership team"
+secondary_keywords:
+  - "school leadership team structure"
+  - "principal team building"
+  - "distributed leadership in schools"
+  - "school leadership development"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
+order: 21
 ---
-
 # Build an Effective School Leadership Team
 
 You can't lead a school alone. A strong leadership team multiplies your capacity, distributes workload, and creates succession pipeline. Building the right team is one of your most important decisions.

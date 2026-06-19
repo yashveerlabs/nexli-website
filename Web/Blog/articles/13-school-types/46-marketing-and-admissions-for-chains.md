@@ -1,18 +1,20 @@
 ---
 title: "Marketing and Admissions for Chains"
-slug: "marketing-and-admissions-for-chains"
+slug: "46-marketing-and-admissions-for-chains"
 meta_description: "How school ERPs support marketing and admissions for chains for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "school chain admissions marketing ERP"
-secondary_keywords: ["multi-campus admissions software", "school chain enrollment management", "school marketing ERP India", "chain school admissions system"]
+secondary_keywords:
+  - "multi-campus admissions software"
+  - "school chain enrollment management"
+  - "school marketing ERP India"
+  - "chain school admissions system"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Marketing and Admissions for Chains
 

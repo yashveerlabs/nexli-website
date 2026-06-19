@@ -1,22 +1,21 @@
-﻿---
-title: Excellence in Workplace Safety Hr: What Schools Must Know
-slug: excellence-in-workplace-safety-hr-what-schools-must-know
-meta_description: Excellence in Workplace Safety Hr: What Schools Must Know
-category: HR & Recruitment
-primary_keyword: workplace safety HR
+---
+title: "Excellence in Workplace Safety Hr: What Schools Must Know"
+slug: "077-excellence-in-workplace-safety-hr-what-schools-must-know"
+meta_description: "Excellence in Workplace Safety Hr: What Schools Must Know"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "workplace safety HR"
 secondary_keywords:
-  - workplace safety HR schools
-  - best practices workplace safety HR
-  - workplace safety HR strategy
-  - how to implement workplace safety HR
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "workplace safety HR schools"
+  - "best practices workplace safety HR"
+  - "workplace safety HR strategy"
+  - "how to implement workplace safety HR"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on workplace safety hr for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

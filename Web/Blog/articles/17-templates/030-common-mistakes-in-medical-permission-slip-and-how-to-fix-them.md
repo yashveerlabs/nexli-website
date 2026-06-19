@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Medical Permission Slip (And How to Fix Them)
-slug: common-mistakes-in-medical-permission-slip-and-how-to-fix-them
-meta_description: Common Mistakes in Medical Permission Slip (And How to Fi...
-category: SOPs & Templates
-primary_keyword: medical permission slip
+title: "Common Mistakes in Medical Permission Slip (And How to Fix Them)"
+slug: "030-common-mistakes-in-medical-permission-slip-and-how-to-fix-them"
+meta_description: "Common Mistakes in Medical Permission Slip (And How to Fi..."
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "medical permission slip"
 secondary_keywords:
-  - medical permission slip schools
-  - best practices medical permission slip
-  - medical permission slip strategy
-  - how to implement medical permission slip
-intent: informational
+  - "medical permission slip schools"
+  - "best practices medical permission slip"
+  - "medical permission slip strategy"
+  - "how to implement medical permission slip"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on medical permission slip for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

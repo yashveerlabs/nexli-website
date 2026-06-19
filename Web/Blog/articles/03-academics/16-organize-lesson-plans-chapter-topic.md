@@ -1,10 +1,14 @@
 ---
 title: "How Teachers Can Organize Lesson Plans by Chapter and Topic"
-slug: "organize-lesson-plans-chapter-topic"
+slug: "16-organize-lesson-plans-chapter-topic"
 meta_description: "Systematic approach to organizing lesson plans by curriculum structure."
-category: "3. Academic Management & Teaching Excellence"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "organize lesson plans"
-secondary_keywords: ["lesson organization", "curriculum structure", "lesson management", "teacher planning"]
+secondary_keywords:
+  - "lesson organization"
+  - "curriculum structure"
+  - "lesson management"
+  - "teacher planning"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
@@ -12,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 12
 branding_block_nexli: 10
 ---
-
 ## How Teachers Can Organize Lesson Plans by Chapter and Topic
 
 A teacher creates 180 lesson plans per year (one per school day). Without organization, they're scattered across documents, computers, and filing cabinets. The teacher needs to refer to last year's Class 9 Chapter 3 plan but can't find it. This wastes time and prevents continuous improvement.

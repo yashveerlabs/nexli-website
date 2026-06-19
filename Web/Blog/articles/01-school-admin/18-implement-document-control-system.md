@@ -1,10 +1,14 @@
 ---
 title: "How Schools Can Implement a Document Control System"
-slug: "implement-document-control-system"
+slug: "18-implement-document-control-system"
 meta_description: "Step-by-step guide to building a document control system that reduces delays and ensures compliance."
-category: "1. School Administration & Operations"
+category: "School Administration & Operations"
 primary_keyword: "document control system"
-secondary_keywords: ["document management", "version control", "file organization", "compliance documentation"]
+secondary_keywords:
+  - "document management"
+  - "version control"
+  - "file organization"
+  - "compliance documentation"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
@@ -12,7 +16,6 @@ branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## How Schools Can Implement a Document Control System
 
 Most schools manage documents through a combination of paper files, email attachments, and shared drives. The result: versions multiply, approvals get lost, and nobody is certain which document is the official version. A document control system changes this by creating a single source of truth for every critical file.

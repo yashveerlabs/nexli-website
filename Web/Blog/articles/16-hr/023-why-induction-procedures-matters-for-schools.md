@@ -1,22 +1,21 @@
-﻿---
-title: Why Induction Procedures Matters for Schools
-slug: why-induction-procedures-matters-for-schools
-meta_description: Why Induction Procedures Matters for Schools
-category: HR & Recruitment
-primary_keyword: induction procedures
+---
+title: "Why Induction Procedures Matters for Schools"
+slug: "023-why-induction-procedures-matters-for-schools"
+meta_description: "Why Induction Procedures Matters for Schools"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "induction procedures"
 secondary_keywords:
-  - induction procedures schools
-  - best practices induction procedures
-  - induction procedures strategy
-  - how to implement induction procedures
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "induction procedures schools"
+  - "best practices induction procedures"
+  - "induction procedures strategy"
+  - "how to implement induction procedures"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on induction procedures for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,22 +1,21 @@
-﻿---
-title: Excellence in Reference Checking Procedures: What Schools Must Know
-slug: excellence-in-reference-checking-procedures-what-schools-must-know
-meta_description: Excellence in Reference Checking Procedures: What Schools...
-category: HR & Recruitment
-primary_keyword: reference checking procedures
+---
+title: "Excellence in Reference Checking Procedures: What Schools Must Know"
+slug: "037-excellence-in-reference-checking-procedures-what-schools-must-know"
+meta_description: "Excellence in Reference Checking Procedures: What Schools..."
+category: "School HR, Recruitment & Staff"
+primary_keyword: "reference checking procedures"
 secondary_keywords:
-  - reference checking procedures schools
-  - best practices reference checking procedures
-  - reference checking procedures strategy
-  - how to implement reference checking procedures
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "reference checking procedures schools"
+  - "best practices reference checking procedures"
+  - "reference checking procedures strategy"
+  - "how to implement reference checking procedures"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on reference checking procedures for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,18 +1,20 @@
 ---
 title: "Tamil Nadu School Regulations"
-slug: "tamil-nadu-school-regulations"
+slug: "21-tamil-nadu-school-regulations"
 meta_description: "Tamil Nadu school regulations and ERP compliance: state board requirements, matriculation board rules, CBSE affiliate norms, and DPDP Act consent workflows."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "Tamil Nadu school regulations ERP"
-secondary_keywords: ["Tamil Nadu school compliance", "TN state board ERP", "school regulation compliance Tamil Nadu", "matriculation school compliance TN"]
+secondary_keywords:
+  - "Tamil Nadu school compliance"
+  - "TN state board ERP"
+  - "school regulation compliance Tamil Nadu"
+  - "matriculation school compliance TN"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Tamil Nadu School Regulations
 

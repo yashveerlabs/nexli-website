@@ -1,22 +1,21 @@
-﻿---
-title: Hr Documentation Systems for Modern Indian Schools
-slug: hr-documentation-systems-for-modern-indian-schools
-meta_description: Hr Documentation Systems for Modern Indian Schools
-category: HR & Recruitment
-primary_keyword: HR documentation systems
+---
+title: "Hr Documentation Systems for Modern Indian Schools"
+slug: "014-hr-documentation-systems-for-modern-indian-schools"
+meta_description: "Hr Documentation Systems for Modern Indian Schools"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "HR documentation systems"
 secondary_keywords:
-  - HR documentation systems schools
-  - best practices HR documentation systems
-  - HR documentation systems strategy
-  - how to implement HR documentation systems
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "HR documentation systems schools"
+  - "best practices HR documentation systems"
+  - "HR documentation systems strategy"
+  - "how to implement HR documentation systems"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on hr documentation systems for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

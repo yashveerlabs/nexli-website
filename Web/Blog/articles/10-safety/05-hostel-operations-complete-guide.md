@@ -1,8 +1,8 @@
 ---
 title: "Hostel Operations: Complete Management Guide for Boarding Schools"
-slug: "hostel-operations-management"
+slug: "05-hostel-operations-complete-guide"
 meta_description: "Complete guide to hostel operations management. Learn room allocation, roll-call procedures, medical care, and safety protocols for boarding schools."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "hostel operations"
 secondary_keywords:
   - "boarding school management"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Hostel Operations: Complete Management Guide for Boarding Schools
 
 **Hostel management is a 24/7 responsibility. Unlike day schools, hostels are responsible for student wellbeing round-the-clock: accommodation, meals, health, discipline, and pastoral care. This guide covers room allocation, roll-call procedures, medical protocols, safety, exeat (weekend leave) tracking, and best practices for a well-run hostel that prioritizes student safety and development.**

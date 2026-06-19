@@ -1,18 +1,20 @@
 ---
 title: "Employer-Sponsored School ERP"
-slug: "employer-sponsored-school-erp"
+slug: "81-employer-sponsored-school-erp"
 meta_description: "How school ERPs support employer-sponsored school erp for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "employer sponsored school ERP"
-secondary_keywords: ["corporate school management software India", "company school ERP", "employer school management system", "industry school ERP India"]
+secondary_keywords:
+  - "corporate school management software India"
+  - "company school ERP"
+  - "employer school management system"
+  - "industry school ERP India"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Employer-Sponsored School ERP
 

@@ -1,18 +1,21 @@
 ---
 title: "RTE Admission Process: Step-by-Step for Schools and Parents"
-slug: "rte-admission-process"
+slug: "13-rte-admission-process"
 meta_description: "Understand the RTE admission process for EWS students. Learn the application timeline, lottery system, school responsibilities, and documentation requirements."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "RTE admission process schools"
-secondary_keywords: ["EWS admission", "RTE lottery", "school admission compliance", "RTE documentation"]
-intent: "informational"
+secondary_keywords:
+  - "EWS admission"
+  - "RTE lottery"
+  - "school admission compliance"
+  - "RTE documentation"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 The RTE admission process is government-managed: parents apply to the district authority, a lottery allocates students to schools, and schools must accept the result. Understanding each step prevents compliance failures.
 
 ## Phase 1: Government Notification (January-February)

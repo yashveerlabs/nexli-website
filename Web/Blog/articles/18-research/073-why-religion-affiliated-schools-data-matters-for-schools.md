@@ -1,22 +1,21 @@
 ---
-title: Why Religion-Affiliated Schools Data Matters for Schools
-slug: why-religion-affiliated-schools-data-matters-for-schools
-meta_description: Why Religion-Affiliated Schools Data Matters for Schools
-category: Research & Statistics
-primary_keyword: religion-affiliated schools data
+title: "Why Religion-Affiliated Schools Data Matters for Schools"
+slug: "073-why-religion-affiliated-schools-data-matters-for-schools"
+meta_description: "Why Religion-Affiliated Schools Data Matters for Schools"
+category: "School Research, Statistics & Reports"
+primary_keyword: "religion-affiliated schools data"
 secondary_keywords:
-  - religion-affiliated schools data schools
-  - best practices religion-affiliated schools data
-  - religion-affiliated schools data strategy
-  - how to implement religion-affiliated schools data
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "religion-affiliated schools data schools"
+  - "best practices religion-affiliated schools data"
+  - "religion-affiliated schools data strategy"
+  - "how to implement religion-affiliated schools data"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on religion-affiliated schools data for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

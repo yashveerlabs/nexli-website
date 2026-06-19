@@ -1,18 +1,21 @@
 ---
 title: "Parent-School Association: Formalizing Community Leadership"
-slug: "parent-school-association-community-leadership"
+slug: "24-parent-school-association-community-leadership"
 meta_description: "Effective parent engagement strategies for Indian schools. Learn how a well-structured parent-school association (psa) gives parent voice a formal platform for collaboration, event planning, and school governance input."
-category: "Parent Engagement"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent engagement communication"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Parent-School Association: Formalizing Community Leadership
 
 A well-structured Parent-School Association (PSA) gives parent voice a formal platform for collaboration, event planning, and school governance input.

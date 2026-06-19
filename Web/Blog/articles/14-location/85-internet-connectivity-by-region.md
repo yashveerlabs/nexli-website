@@ -1,18 +1,20 @@
 ---
 title: "Internet Connectivity by Region"
-slug: "internet-connectivity-by-region"
+slug: "85-internet-connectivity-by-region"
 meta_description: "School ERP and internet connectivity by region: cloud-based school management that works with variable connectivity across Indian metro, Tier 2, and Tier 3 schools."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP internet connectivity India regions"
-secondary_keywords: ["school ERP offline capability India", "cloud ERP variable connectivity India", "school software low bandwidth India", "school ERP connectivity Tier 2 Tier 3"]
+secondary_keywords:
+  - "school ERP offline capability India"
+  - "cloud ERP variable connectivity India"
+  - "school software low bandwidth India"
+  - "school ERP connectivity Tier 2 Tier 3"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Internet Connectivity by Region
 

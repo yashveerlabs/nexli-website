@@ -1,8 +1,8 @@
 ---
 title: "ERP for Large Schools: What Changes at 1,000+ Students"
-slug: "erp-for-large-multi-campus-schools"
+slug: "71-erp-for-large-multi-campus-schools"
 meta_description: "ERP evaluation for large schools over 1,000 students: scale requirements, multi-section complexity, reporting depth, compliance burden, and what to prioritize."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "ERP for large schools India"
 secondary_keywords:
   - "large school management software India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "large school ERP evaluation"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## ERP for Large Schools: What Changes at 1,000+ Students
 
 **Large schools, 1,000 or more students, 80+ staff, 30+ sections, operate at a scale where ERP failures have significant consequences. An attendance report that takes 3 days to compile in a 200-student school takes 3 weeks in a 1,500-student school. A fee collection discrepancy that is manageable in a small school is a multi-lakh accounting problem at scale. Large schools have more to gain from ERP, and more to lose from poorly implemented ERP.**

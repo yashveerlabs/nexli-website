@@ -1,19 +1,22 @@
 ---
 title: "Discipline Without Losing Staff Support"
-slug: discipline-without-losing-staff-support
-category: 9
-order: 9
-primary_keyword: "staff discipline without losing morale"
+slug: "09-discipline-without-losing-staff-support"
 meta_description: "How school principals can take disciplinary action against staff members fairly and transparently, maintaining trust, school culture, and staff support throughout the process."
-secondary_keywords: ["school staff disciplinary process", "principal staff discipline", "managing staff misconduct in schools", "school discipline and morale"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "staff discipline without losing morale"
+secondary_keywords:
+  - "school staff disciplinary process"
+  - "principal staff discipline"
+  - "managing staff misconduct in schools"
+  - "school discipline and morale"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 9
 branding_block_company: 9
 branding_block_nexli: 9
+order: 9
 ---
-
 # Discipline Without Losing Staff Support
 
 Taking disciplinary action against a staff member is one of the hardest things you'll do as a principal. It tests your courage and judgment. Handle it well and you strengthen culture. Handle it poorly and you damage trust.

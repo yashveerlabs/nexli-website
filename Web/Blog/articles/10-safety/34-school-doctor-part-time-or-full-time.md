@@ -1,8 +1,8 @@
 ---
 title: "School Doctor: Part-Time or Full-Time"
-slug: school-doctor-part-time-or-full-time
+slug: "34-school-doctor-part-time-or-full-time"
 meta_description: "Decide between a part-time or full-time school doctor: responsibilities, staffing models, cost analysis, qualifications, and collaboration with the school nurse."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school doctor part-time full-time"
 secondary_keywords:
   - "school medical officer"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # School Doctor: Part-Time or Full-Time
 
 School doctors provide clinical expertise. Decision between part-time and full-time depends on needs.

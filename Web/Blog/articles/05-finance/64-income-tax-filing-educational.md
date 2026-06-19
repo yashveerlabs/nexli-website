@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Income Tax Filing for Educational Institutions"
-slug: "income-tax-filing-educational"
+slug: "64-income-tax-filing-educational"
 meta_description: "Learn about income tax filing for educational institutions in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "income tax filing for educational institutions"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with income tax filing for educational institutions:

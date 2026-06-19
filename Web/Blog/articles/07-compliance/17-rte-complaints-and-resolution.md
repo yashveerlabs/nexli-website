@@ -1,18 +1,21 @@
 ---
 title: "RTE Complaints: How Schools Handle Grievances and Resolutions"
-slug: "rte-complaints-and-resolution"
+slug: "17-rte-complaints-and-resolution"
 meta_description: "Handle RTE complaints correctly. Learn about the RTE grievance mechanism, complaint filing process, school response obligations, and resolution timelines."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "RTE complaints resolution schools"
-secondary_keywords: ["RTE grievance", "EWS student complaints", "school compliance dispute", "RTE enforcement"]
-intent: "informational"
+secondary_keywords:
+  - "RTE grievance"
+  - "EWS student complaints"
+  - "school compliance dispute"
+  - "RTE enforcement"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 Parents of EWS students can file RTE complaints with the district authority if they believe a school is violating the Act, charging fees, denying admission, segregating students, or discriminating. Schools must respond to complaints within statutory timelines.
 
 ## Grounds for RTE Complaints

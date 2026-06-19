@@ -1,18 +1,21 @@
 ---
 title: "Integration Architecture for Schools: Hub-and-Spoke, Point-to-Point, and Middleware"
-slug: "integration-architecture"
+slug: "96-integration-architecture"
 meta_description: "School integration architecture: hub-and-spoke ERP as hub, point-to-point integration, middleware/iPaaS. When to integrate vs. consolidate into one system."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school integration architecture"
-secondary_keywords: ["hub and spoke school ERP", "school middleware integration", "iPaaS school systems", "school system integration"]
-intent: "informational"
+secondary_keywords:
+  - "hub and spoke school ERP"
+  - "school middleware integration"
+  - "iPaaS school systems"
+  - "school system integration"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Integration Architecture for School Technology: Choosing the Right Approach
 
 As schools accumulate software systems over time, the question of how these systems share data becomes important. The collection of decisions about how systems connect, what data flows between them, and what technology manages those flows is integration architecture.

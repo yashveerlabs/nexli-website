@@ -1,18 +1,21 @@
 ---
 title: "ERP Training for School Staff: A Practical Guide"
-slug: "erp-training-for-staff"
+slug: "05-erp-training-for-staff"
 meta_description: "How to train school staff on a new ERP. Role-based sessions, train-the-trainer model, quick reference cards, and strategies for overcoming teacher resistance."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "ERP training school staff"
-secondary_keywords: ["school ERP training plan", "teacher ERP adoption", "ERP staff onboarding", "school digital training strategies"]
-intent: "informational"
+secondary_keywords:
+  - "school ERP training plan"
+  - "teacher ERP adoption"
+  - "ERP staff onboarding"
+  - "school digital training strategies"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## How Should Schools Train Staff on a New ERP System?
 
 ERP training for school staff is more than watching tutorial videos. Effective training is role-specific, practically focused on the five tasks each person does daily, and supported by printed reference materials for the first 60 days. Schools that run a single all-staff session get poor adoption. Schools that invest in structured role-based training see the ERP used consistently within four to six weeks.

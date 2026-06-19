@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Mental Health Initiative
-slug: the-complete-guide-to-mental-health-initiative
-meta_description: The Complete Guide to Mental Health Initiative
-category: Success Stories & Cases
-primary_keyword: mental health initiative
+title: "The Complete Guide to Mental Health Initiative"
+slug: "031-the-complete-guide-to-mental-health-initiative"
+meta_description: "The Complete Guide to Mental Health Initiative"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "mental health initiative"
 secondary_keywords:
-  - mental health initiative schools
-  - best practices mental health initiative
-  - mental health initiative strategy
-  - how to implement mental health initiative
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "mental health initiative schools"
+  - "best practices mental health initiative"
+  - "mental health initiative strategy"
+  - "how to implement mental health initiative"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on mental health initiative for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

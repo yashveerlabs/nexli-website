@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Attendance Alerts to Parents: Automatic Notifications"
-slug: "attendance-alerts-parents-automatic-notifications"
+slug: "06-attendance-alerts-parents-automatic"
 meta_description: "Implement automatic parent notifications for student absences. SMS, WhatsApp, and email alerts for real-time engagement."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "attendance alerts parents automatic notifications"
-secondary_keywords: ["absence notification system", "parent engagement", "real-time alerts"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "absence notification system"
+  - "parent engagement"
+  - "real-time alerts"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Why Automatic Alerts Matter
 
 When a student is absent, parents should know within hours, not days. Automatic alerts:

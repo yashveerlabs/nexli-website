@@ -1,18 +1,20 @@
 ---
 title: "Satellite Town Schools"
-slug: "satellite-town-schools"
+slug: "67-satellite-town-schools"
 meta_description: "School ERP for satellite towns: cloud-based school management for schools in Noida, Gurgaon, Navi Mumbai, and Thane with CBSE compliance and analytics."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP satellite towns India"
-secondary_keywords: ["satellite town school ERP", "school management Noida Gurgaon Navi Mumbai", "school software satellite cities", "school ERP planned towns India"]
+secondary_keywords:
+  - "satellite town school ERP"
+  - "school management Noida Gurgaon Navi Mumbai"
+  - "school software satellite cities"
+  - "school ERP planned towns India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Satellite Town Schools
 

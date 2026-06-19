@@ -1,8 +1,8 @@
 ---
 title: "Student Testimonials: Leveraging Real Success Stories on Your School Website"
-slug: "student-testimonials-leveraging-website"
+slug: "17-student-testimonials-leveraging-website"
 meta_description: "Use student testimonials to build trust and drive school admissions. Learn collection strategy, consent compliance, placement, and how to convert prospects."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "student testimonials school"
 secondary_keywords:
   - "school social proof"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Student Testimonials: Leveraging Real Success Stories on Your School Website
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 7 min

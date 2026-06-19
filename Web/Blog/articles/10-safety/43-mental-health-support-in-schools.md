@@ -1,18 +1,21 @@
 ---
-title: Mental Health Support in Schools
-slug: mental-health-support-in-schools
-meta_description: Establish school mental health programs with trained counselors, peer support, and early intervention frameworks.
-category: Safety & Operations
-primary_keyword: school mental health programs
-secondary_keywords: ["student counseling", "mental wellbeing", "suicide prevention", "stress management"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+title: "Mental Health Support in Schools"
+slug: "43-mental-health-support-in-schools"
+meta_description: "Establish school mental health programs with trained counselors, peer support, and early intervention frameworks."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "school mental health programs"
+secondary_keywords:
+  - "student counseling"
+  - "mental wellbeing"
+  - "suicide prevention"
+  - "stress management"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Mental Health Support in Schools: Building Resilient Communities
 
 Suicide is the second-leading cause of death among 15-29 year-olds in India. Anxiety, depression, and academic stress plague students increasingly. Schools aren't mental health hospitals, but they're positioned uniquely to identify struggling students and provide supportive frameworks. This guide outlines how to build school-based mental health infrastructure.

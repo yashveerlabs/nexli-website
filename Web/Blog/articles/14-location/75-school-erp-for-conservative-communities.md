@@ -1,18 +1,20 @@
 ---
 title: "School ERP for Conservative Communities"
-slug: "school-erp-for-conservative-communities"
+slug: "75-school-erp-for-conservative-communities"
 meta_description: "School ERP for conservative communities: privacy-first school management with strict data access controls, DPDP Act compliance, and POCSO safeguards."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP conservative communities India privacy"
-secondary_keywords: ["conservative school ERP India", "privacy-first school management", "school ERP minority institutions India", "strict access control school software"]
+secondary_keywords:
+  - "conservative school ERP India"
+  - "privacy-first school management"
+  - "school ERP minority institutions India"
+  - "strict access control school software"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## School ERP for Conservative Communities
 

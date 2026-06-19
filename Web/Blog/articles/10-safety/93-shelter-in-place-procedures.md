@@ -1,18 +1,21 @@
-﻿---
-title: Shelter-in-Place Procedures
-slug: shelter-in-place-procedures
-meta_description: Implement shelter-in-place procedures for threats that require internal safety rather than evacuation.
-category: Safety & Operations
-primary_keyword: shelter-in-place protocols
-secondary_keywords: ['lockdown procedures', 'safe zones', 'internal safety', 'external threats']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "Shelter-in-Place Procedures"
+slug: "93-shelter-in-place-procedures"
+meta_description: "Implement shelter-in-place procedures for threats that require internal safety rather than evacuation."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "shelter-in-place protocols"
+secondary_keywords:
+  - "lockdown procedures"
+  - "safe zones"
+  - "internal safety"
+  - "external threats"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Shelter-in-Place Procedures: Comprehensive Guide
 
 This guide provides comprehensive guidance on shelter-in-place procedures.

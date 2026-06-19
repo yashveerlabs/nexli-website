@@ -1,8 +1,8 @@
 ---
 title: "Data Ownership and Portability in School ERP: What Schools Need to Know"
-slug: "data-ownership-and-portability"
+slug: "90-data-ownership-and-portability"
 meta_description: "Who owns your school ERP data, what DPDP Act 2023 requires, how to ensure data portability, and what to verify in contracts before signing."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP data ownership"
 secondary_keywords:
   - "school ERP data portability"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP vendor data India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Data Ownership and Portability in School ERP: What Schools Need to Know
 
 **School ERP systems hold student records, fee history, health data, staff payroll records, and attendance, years of institutional data that belongs to the school and the families whose children are enrolled. Who legally owns this data, what the vendor can do with it, and whether the school can take it if the relationship ends are questions every school should understand before signing a contract.**

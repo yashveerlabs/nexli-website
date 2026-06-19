@@ -1,22 +1,21 @@
 ---
-title: How to Improve Behavioral Incident Report: Best Practices
-slug: how-to-improve-behavioral-incident-report-best-practices
-meta_description: How to Improve Behavioral Incident Report: Best Practices
-category: SOPs & Templates
-primary_keyword: behavioral incident report
+title: "How to Improve Behavioral Incident Report: Best Practices"
+slug: "032-how-to-improve-behavioral-incident-report-best-practices"
+meta_description: "How to Improve Behavioral Incident Report: Best Practices"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "behavioral incident report"
 secondary_keywords:
-  - behavioral incident report schools
-  - best practices behavioral incident report
-  - behavioral incident report strategy
-  - how to implement behavioral incident report
-intent: informational
+  - "behavioral incident report schools"
+  - "best practices behavioral incident report"
+  - "behavioral incident report strategy"
+  - "how to implement behavioral incident report"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on behavioral incident report for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

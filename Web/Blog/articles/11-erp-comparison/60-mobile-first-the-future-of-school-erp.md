@@ -1,8 +1,8 @@
 ---
 title: "Mobile-First School ERP: Why Design Philosophy Matters"
-slug: "mobile-first-the-future-of-school-erp"
+slug: "60-mobile-first-the-future-of-school-erp"
 meta_description: "Why mobile-first ERP design matters for Indian schools: teacher attendance on mobile, offline capability, parent portal on mobile browsers, and how to test a vendor's mobile experience."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "mobile-first school ERP"
 secondary_keywords:
   - "school ERP mobile app India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP offline capability"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Mobile-First School ERP: Why Design Philosophy Matters
 
 **In most Indian schools, the majority of school staff use smartphones as their primary computing device. Teachers mark attendance in classrooms without desktop computers. Principals review dashboards during walks around campus. Parents check fee balances on phones, not computers. An ERP designed primarily for desktop with a "mobile-friendly" version added later will always deliver a worse mobile experience than one designed mobile-first from the start.**

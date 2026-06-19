@@ -1,22 +1,21 @@
-﻿---
-title: The Complete Guide to Nft Credentials
-slug: the-complete-guide-to-nft-credentials
-meta_description: The Complete Guide to Nft Credentials
-category: Innovation & AI
-primary_keyword: NFT credentials
+---
+title: "The Complete Guide to Nft Credentials"
+slug: "041-the-complete-guide-to-nft-credentials"
+meta_description: "The Complete Guide to Nft Credentials"
+category: "Education Innovation, AI & Future"
+primary_keyword: "NFT credentials"
 secondary_keywords:
-  - NFT credentials schools
-  - best practices NFT credentials
-  - NFT credentials strategy
-  - how to implement NFT credentials
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "NFT credentials schools"
+  - "best practices NFT credentials"
+  - "NFT credentials strategy"
+  - "how to implement NFT credentials"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on nft credentials for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

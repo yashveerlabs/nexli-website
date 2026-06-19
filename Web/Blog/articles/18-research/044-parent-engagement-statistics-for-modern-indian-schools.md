@@ -1,22 +1,21 @@
 ---
-title: Parent Engagement Statistics for Modern Indian Schools
-slug: parent-engagement-statistics-for-modern-indian-schools
-meta_description: Parent Engagement Statistics for Modern Indian Schools
-category: Research & Statistics
-primary_keyword: parent engagement statistics
+title: "Parent Engagement Statistics for Modern Indian Schools"
+slug: "044-parent-engagement-statistics-for-modern-indian-schools"
+meta_description: "Parent Engagement Statistics for Modern Indian Schools"
+category: "School Research, Statistics & Reports"
+primary_keyword: "parent engagement statistics"
 secondary_keywords:
-  - parent engagement statistics schools
-  - best practices parent engagement statistics
-  - parent engagement statistics strategy
-  - how to implement parent engagement statistics
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "parent engagement statistics schools"
+  - "best practices parent engagement statistics"
+  - "parent engagement statistics strategy"
+  - "how to implement parent engagement statistics"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on parent engagement statistics for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

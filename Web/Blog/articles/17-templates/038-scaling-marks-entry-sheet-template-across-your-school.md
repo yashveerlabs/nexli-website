@@ -1,22 +1,21 @@
 ---
-title: Scaling Marks Entry Sheet Template Across Your School
-slug: scaling-marks-entry-sheet-template-across-your-school
-meta_description: Scaling Marks Entry Sheet Template Across Your School
-category: SOPs & Templates
-primary_keyword: marks entry sheet template
+title: "Scaling Marks Entry Sheet Template Across Your School"
+slug: "038-scaling-marks-entry-sheet-template-across-your-school"
+meta_description: "Scaling Marks Entry Sheet Template Across Your School"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "marks entry sheet template"
 secondary_keywords:
-  - marks entry sheet template schools
-  - best practices marks entry sheet template
-  - marks entry sheet template strategy
-  - how to implement marks entry sheet template
-intent: informational
+  - "marks entry sheet template schools"
+  - "best practices marks entry sheet template"
+  - "marks entry sheet template strategy"
+  - "how to implement marks entry sheet template"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on marks entry sheet template for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

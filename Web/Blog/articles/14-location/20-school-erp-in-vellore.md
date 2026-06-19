@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Vellore"
-slug: "school-erp-in-vellore"
+slug: "20-school-erp-in-vellore"
 meta_description: "School ERP in Vellore: cloud-based school management for Tamil Nadu schools with CBSE and state board compliance, fee management, and attendance tracking."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Vellore"
-secondary_keywords: ["school management system Vellore", "Vellore school software", "Tamil Nadu school ERP Vellore", "school ERP North Tamil Nadu"]
+secondary_keywords:
+  - "school management system Vellore"
+  - "Vellore school software"
+  - "Tamil Nadu school ERP Vellore"
+  - "school ERP North Tamil Nadu"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Vellore
 

@@ -1,18 +1,21 @@
 ---
 title: "RFID Card Systems for Schools: How They Work, Use Cases, Cost, and ERP Integration"
-slug: "rfid-card-systems"
+slug: "49-rfid-card-systems"
 meta_description: "RFID cards let schools automate attendance, library checkouts, and canteen payments. Learn how the technology works, implementation costs, and how RFID connects to a school ERP."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "RFID card system schools"
-secondary_keywords: ["school RFID attendance", "RFID library school", "school smart card", "RFID ERP integration school"]
-intent: "informational"
+secondary_keywords:
+  - "school RFID attendance"
+  - "RFID library school"
+  - "school smart card"
+  - "RFID ERP integration school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## What RFID Is and How It Works in a School
 
 RFID (Radio Frequency Identification) is a technology that uses radio waves to read data stored in a small chip embedded in a card, fob, or tag. In a school context, each student or staff member carries an RFID card. When the card is brought near an RFID reader (a device mounted at a gate, classroom door, library counter, or canteen terminal), the reader detects the card and reads the unique ID stored on the chip. The system then logs the event: who, where, and when.

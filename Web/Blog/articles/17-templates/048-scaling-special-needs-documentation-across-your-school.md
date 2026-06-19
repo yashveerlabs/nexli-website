@@ -1,22 +1,21 @@
 ---
-title: Scaling Special Needs Documentation Across Your School
-slug: scaling-special-needs-documentation-across-your-school
-meta_description: Scaling Special Needs Documentation Across Your School
-category: SOPs & Templates
-primary_keyword: special needs documentation
+title: "Scaling Special Needs Documentation Across Your School"
+slug: "048-scaling-special-needs-documentation-across-your-school"
+meta_description: "Scaling Special Needs Documentation Across Your School"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "special needs documentation"
 secondary_keywords:
-  - special needs documentation schools
-  - best practices special needs documentation
-  - special needs documentation strategy
-  - how to implement special needs documentation
-intent: informational
+  - "special needs documentation schools"
+  - "best practices special needs documentation"
+  - "special needs documentation strategy"
+  - "how to implement special needs documentation"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on special needs documentation for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

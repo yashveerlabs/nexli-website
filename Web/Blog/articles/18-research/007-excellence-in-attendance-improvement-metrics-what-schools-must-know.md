@@ -1,22 +1,21 @@
 ---
-title: Excellence in Attendance Improvement Metrics: What Schools Must Know
-slug: excellence-in-attendance-improvement-metrics-what-schools-must-know
-meta_description: Excellence in Attendance Improvement Metrics: What School...
-category: Research & Statistics
-primary_keyword: attendance improvement metrics
+title: "Excellence in Attendance Improvement Metrics: What Schools Must Know"
+slug: "007-excellence-in-attendance-improvement-metrics-what-schools-must-know"
+meta_description: "Excellence in Attendance Improvement Metrics: What School..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "attendance improvement metrics"
 secondary_keywords:
-  - attendance improvement metrics schools
-  - best practices attendance improvement metrics
-  - attendance improvement metrics strategy
-  - how to implement attendance improvement metrics
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "attendance improvement metrics schools"
+  - "best practices attendance improvement metrics"
+  - "attendance improvement metrics strategy"
+  - "how to implement attendance improvement metrics"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on attendance improvement metrics for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

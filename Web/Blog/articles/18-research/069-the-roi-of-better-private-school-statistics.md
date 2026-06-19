@@ -1,22 +1,21 @@
 ---
-title: The ROI of Better Private School Statistics
-slug: the-roi-of-better-private-school-statistics
-meta_description: The ROI of Better Private School Statistics
-category: Research & Statistics
-primary_keyword: private school statistics
+title: "The ROI of Better Private School Statistics"
+slug: "069-the-roi-of-better-private-school-statistics"
+meta_description: "The ROI of Better Private School Statistics"
+category: "School Research, Statistics & Reports"
+primary_keyword: "private school statistics"
 secondary_keywords:
-  - private school statistics schools
-  - best practices private school statistics
-  - private school statistics strategy
-  - how to implement private school statistics
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "private school statistics schools"
+  - "best practices private school statistics"
+  - "private school statistics strategy"
+  - "how to implement private school statistics"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on private school statistics for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

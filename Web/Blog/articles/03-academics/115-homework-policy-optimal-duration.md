@@ -1,22 +1,21 @@
 ---
-title: Homework Policy: Optimal Duration and Frequency by Grade
-slug: homework-policy-optimal-duration-frequency
-meta_description: Research-backed homework guidelines for different grades. Learn ideal homework duration, frequency, and quality standards to support learning without overload.
-category: Academic Management & Teaching Excellence
-primary_keyword: homework policy guidelines
+title: "Homework Policy: Optimal Duration and Frequency by Grade"
+slug: "115-homework-policy-optimal-duration"
+meta_description: "Research-backed homework guidelines for different grades. Learn ideal homework duration, frequency, and quality standards to support learning without overload."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "homework policy guidelines"
 secondary_keywords:
-  - homework load management
-  - homework frequency
-  - student wellbeing
-  - effective homework practices
-intent: reference
-author: Yashveer Labs
-date: 2026-06-19
+  - "homework load management"
+  - "homework frequency"
+  - "student wellbeing"
+  - "effective homework practices"
+intent: "reference"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 Excessive homework harms student wellbeing and learning. Schools with structured homework policies report better student health, higher engagement, and maintained academic performance. This article provides research-backed homework guidelines by grade level.

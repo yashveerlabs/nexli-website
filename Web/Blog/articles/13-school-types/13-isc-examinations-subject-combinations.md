@@ -1,18 +1,20 @@
 ---
 title: "ISC Examinations: Subject Combinations"
-slug: "isc-examinations-subject-combinations"
+slug: "13-isc-examinations-subject-combinations"
 meta_description: "How school ERPs support isc examinations: subject combinations for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "ISC examinations subject combinations"
-secondary_keywords: ["ISC Class 12 subjects", "ISC elective management ERP", "ISC exam tracking", "school ERP India"]
+secondary_keywords:
+  - "ISC Class 12 subjects"
+  - "ISC elective management ERP"
+  - "ISC exam tracking"
+  - "school ERP India"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## ISC Examinations: Subject Combinations
 

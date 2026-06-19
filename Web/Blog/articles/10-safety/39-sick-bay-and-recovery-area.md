@@ -1,18 +1,21 @@
 ---
-title: Sick Bay and Recovery Area Setup
-slug: sick-bay-and-recovery-area
-meta_description: Design and manage school sick bays to provide proper medical care, isolation, and recovery facilities for unwell students.
-category: Safety & Operations
-primary_keyword: school sick bay setup
-secondary_keywords: ["health facilities", "medical care", "student welfare", "isolation protocol"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+title: "Sick Bay and Recovery Area Setup"
+slug: "39-sick-bay-and-recovery-area"
+meta_description: "Design and manage school sick bays to provide proper medical care, isolation, and recovery facilities for unwell students."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "school sick bay setup"
+secondary_keywords:
+  - "health facilities"
+  - "medical care"
+  - "student welfare"
+  - "isolation protocol"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Sick Bay and Recovery Area Setup: Creating Safe Medical Spaces
 
 A well-equipped sick bay is often a student's first refuge when illness strikes at school. It's more than a room with a cot, it's a bridge between home care and hospital intervention. This guide outlines how to establish and operate a compliant, effective sick bay that meets Indian regulatory standards.

@@ -1,18 +1,21 @@
 ---
 title: "How to Map Your Curriculum to NCERT and Board Standards"
-slug: "map-curriculum-ncert-board-standards"
+slug: "01-map-curriculum-ncert-board-standards"
 meta_description: "Learn how to align your school curriculum with NCERT guidelines and board standards. Step-by-step guide for creating CBSE-compliant curriculum mapping."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "curriculum mapping NCERT board standards"
-secondary_keywords: ["CBSE curriculum alignment", "NCERT syllabus mapping", "board compliance", "curriculum design"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "CBSE curriculum alignment"
+  - "NCERT syllabus mapping"
+  - "board compliance"
+  - "curriculum design"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Curriculum Chaos in Indian Schools
 
 Many Indian schools struggle with a fundamental challenge: ensuring every class follows a cohesive, standards-aligned curriculum. Without proper mapping, teachers often teach in silos. Grade 6 English teachers may not know how Grade 5 covered grammar. Biology lessons in Class 9 might repeat topics from Class 8. The result is fragmented learning, wasted classroom time, and students unprepared for board exams.

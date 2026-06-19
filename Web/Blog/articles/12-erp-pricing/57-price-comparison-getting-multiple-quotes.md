@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Price Comparison: Getting Multiple Quotes"
-slug: "price-comparison-getting-multiple-quotes"
+slug: "57-price-comparison-getting-multiple-quotes"
 meta_description: "Price Comparison: Getting Multiple Quotes"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "price"
-secondary_keywords: ["comparison:", "getting", "multiple", "quotes"]
+secondary_keywords:
+  - "comparison:"
+  - "getting"
+  - "multiple"
+  - "quotes"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Price Comparison: Getting Multiple Quotes
 

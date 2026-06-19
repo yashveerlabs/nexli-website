@@ -1,22 +1,21 @@
 ---
 title: "How to Coordinate Between Academic and Administrative Departments"
-slug: coordinate-academic-admin-departments
-meta_description: Bridge the gap between academics and administration. Communication, workflows, and accountability across school departments.
-category: School Administration & Operations
-primary_keyword: coordinate academic administrative departments
+slug: "17-coordinate-academic-admin-departments"
+meta_description: "Bridge the gap between academics and administration. Communication, workflows, and accountability across school departments."
+category: "School Administration & Operations"
+primary_keyword: "coordinate academic administrative departments"
 secondary_keywords:
-  - interdepartmental coordination
-  - school operations
-  - communication systems
-  - collaboration
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "interdepartmental coordination"
+  - "school operations"
+  - "communication systems"
+  - "collaboration"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 Academic and administrative departments often work in silos. Teachers don't know admissions numbers until mid-year; Admin doesn't know about curriculum changes. This creates conflicts, delays, and missed opportunities. This article outlines how to build coordination across departments.

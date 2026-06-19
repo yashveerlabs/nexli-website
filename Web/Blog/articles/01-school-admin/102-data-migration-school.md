@@ -1,22 +1,21 @@
 ---
-title: School Data Migration: Planning a Smooth Transition
-slug: data-migration-school
-meta_description: A practical guide to school data migration, covering what to migrate, how to clean legacy data, sequencing the import, and verifying accuracy after go-live.
-category: School Administration & Operations
-primary_keyword: school data migration
+title: "School Data Migration: Planning a Smooth Transition"
+slug: "102-data-migration-school"
+meta_description: "A practical guide to school data migration, covering what to migrate, how to clean legacy data, sequencing the import, and verifying accuracy after go-live."
+category: "School Administration & Operations"
+primary_keyword: "school data migration"
 secondary_keywords:
-  - school management system migration
-  - student data migration India
-  - school software transition
-  - moving school records to new system
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school management system migration"
+  - "student data migration India"
+  - "school software transition"
+  - "moving school records to new system"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 School data migration is the process of moving existing student, staff, fee, and academic records from legacy systems or paper registers into a new school management system. When planned correctly, migration takes 2-4 weeks and produces a clean, accurate starting point. When rushed or skipped, it produces a system populated with errors that erode staff confidence and require months of remediation. This guide covers how to plan and execute a school data migration that goes right.
 
 ---

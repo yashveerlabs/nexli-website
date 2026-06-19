@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Timetable Creation Sop (And How to Fix Them)
-slug: common-mistakes-in-timetable-creation-sop-and-how-to-fix-them
-meta_description: Common Mistakes in Timetable Creation Sop (And How to Fix...
-category: SOPs & Templates
-primary_keyword: timetable creation SOP
+title: "Common Mistakes in Timetable Creation Sop (And How to Fix Them)"
+slug: "040-common-mistakes-in-timetable-creation-sop-and-how-to-fix-them"
+meta_description: "Common Mistakes in Timetable Creation Sop (And How to Fix..."
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "timetable creation SOP"
 secondary_keywords:
-  - timetable creation SOP schools
-  - best practices timetable creation SOP
-  - timetable creation SOP strategy
-  - how to implement timetable creation SOP
-intent: informational
+  - "timetable creation SOP schools"
+  - "best practices timetable creation SOP"
+  - "timetable creation SOP strategy"
+  - "how to implement timetable creation SOP"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on timetable creation sop for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

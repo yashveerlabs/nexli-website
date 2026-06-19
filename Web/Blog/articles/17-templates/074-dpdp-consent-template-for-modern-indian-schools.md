@@ -1,22 +1,21 @@
 ---
-title: Dpdp Consent Template for Modern Indian Schools
-slug: dpdp-consent-template-for-modern-indian-schools
-meta_description: Dpdp Consent Template for Modern Indian Schools
-category: SOPs & Templates
-primary_keyword: DPDP consent template
+title: "Dpdp Consent Template for Modern Indian Schools"
+slug: "074-dpdp-consent-template-for-modern-indian-schools"
+meta_description: "Dpdp Consent Template for Modern Indian Schools"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "DPDP consent template"
 secondary_keywords:
-  - DPDP consent template schools
-  - best practices DPDP consent template
-  - DPDP consent template strategy
-  - how to implement DPDP consent template
-intent: informational
+  - "DPDP consent template schools"
+  - "best practices DPDP consent template"
+  - "DPDP consent template strategy"
+  - "how to implement DPDP consent template"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on dpdp consent template for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

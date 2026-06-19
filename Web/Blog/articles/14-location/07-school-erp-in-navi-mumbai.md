@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Navi Mumbai"
-slug: "school-erp-in-navi-mumbai"
+slug: "07-school-erp-in-navi-mumbai"
 meta_description: "School ERP in Navi Mumbai: cloud-based school management for planned city schools with admissions, attendance, fees, and compliance for CBSE and ICSE boards."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Navi Mumbai"
-secondary_keywords: ["school management system Navi Mumbai", "Navi Mumbai school software", "Navi Mumbai CBSE ERP", "school ERP new Mumbai"]
+secondary_keywords:
+  - "school management system Navi Mumbai"
+  - "Navi Mumbai school software"
+  - "Navi Mumbai CBSE ERP"
+  - "school ERP new Mumbai"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Navi Mumbai
 

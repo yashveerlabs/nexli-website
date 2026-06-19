@@ -1,18 +1,21 @@
-﻿---
+---
 title: "How to Control School Spending and Reduce Waste"
-slug: "control-school-spending-reduce-waste"
+slug: "73-control-school-spending-reduce-waste"
 meta_description: "Learn about how to control school spending and reduce waste in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "how to control school spending and reduce waste"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with how to control school spending and reduce waste:

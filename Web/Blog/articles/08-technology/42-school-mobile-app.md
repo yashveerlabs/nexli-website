@@ -1,18 +1,21 @@
 ---
 title: "School Mobile App for Parents and Students: What to Include and What to Avoid"
-slug: "school-mobile-app"
+slug: "42-school-mobile-app"
 meta_description: "A school mobile app improves parent engagement when it focuses on the right features. Learn what to include, what to avoid, and how Nexli's parent and student portals work."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school mobile app for parents"
-secondary_keywords: ["school app India", "parent communication app school", "student app school", "school ERP mobile app"]
-intent: "informational"
+secondary_keywords:
+  - "school app India"
+  - "parent communication app school"
+  - "student app school"
+  - "school ERP mobile app"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## What a School Mobile App Is and What Parents Actually Want From It
 
 A school mobile app for parents is increasingly expected as a standard feature of school life. Parents want to check on their child's attendance, see upcoming homework, pay fees, and receive important notices without having to call the school office or wait for a paper circular.

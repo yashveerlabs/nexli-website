@@ -1,20 +1,20 @@
-﻿---
+---
 title: "Implementation Costs Beyond Software License: What Schools Miss"
-slug: "implementation-costs-beyond-software-license"
+slug: "14-implementation-costs-beyond-software"
 meta_description: "School ERP implementation costs beyond the software license. Setup, data migration, training, infrastructure. Budget realistically before you start."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "implementation costs beyond software license"
-secondary_keywords: ["ERP setup cost schools", "school ERP implementation budget", "data migration ERP cost"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "ERP setup cost schools"
+  - "school ERP implementation budget"
+  - "data migration ERP cost"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 # Implementation Costs Beyond Software License
 
 When a principal budgets for a new school ERP system, the first number they see is the software license fee. Rs. 50,000 annually, or perhaps Rs. 100,000 for a larger school. This appears to be the total cost. Then implementation begins. A technical team needs to be hired or deployed. The school's existing data, student records, financial histories, fee structures, must be migrated into the new system. Teachers need training. IT infrastructure may require upgrades. The principal realizes that **implementation costs beyond software license fees** often exceed the software cost itself.

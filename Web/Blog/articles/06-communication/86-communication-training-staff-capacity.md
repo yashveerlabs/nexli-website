@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Communication Training for Staff: Building Institutional Capacity"
-slug: "communication-training-staff-capacity"
+slug: "86-communication-training-staff-capacity"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how all staff who interact with parents benefit from training in clear writing, empathetic listening, and crisis communication."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Communication Training for Staff: Building Institutional Capacity
 
 All staff who interact with parents benefit from training in clear writing, empathetic listening, and crisis communication.

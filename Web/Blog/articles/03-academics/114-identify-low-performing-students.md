@@ -1,22 +1,21 @@
 ---
-title: How to Identify and Support Low-Performing Students Early
-slug: identify-support-low-performing-students
-meta_description: Early detection and intervention strategies for struggling students. Learn data-driven approaches to identify at-risk learners and provide targeted support.
-category: Academic Management & Teaching Excellence
-primary_keyword: low-performing students intervention
+title: "How to Identify and Support Low-Performing Students Early"
+slug: "114-identify-low-performing-students"
+meta_description: "Early detection and intervention strategies for struggling students. Learn data-driven approaches to identify at-risk learners and provide targeted support."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "low-performing students intervention"
 secondary_keywords:
-  - at-risk students
-  - student intervention
-  - early warning system
-  - remedial support
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "at-risk students"
+  - "student intervention"
+  - "early warning system"
+  - "remedial support"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 Early detection of struggling students is critical. Schools using data-driven early warning systems report 50% higher completion rates and 35% improvement in struggling students' scores. This article provides a systematic approach to identify at-risk students by month 2 of school year and provide targeted support.

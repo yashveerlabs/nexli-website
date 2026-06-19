@@ -1,22 +1,21 @@
-﻿---
-title: Excellence in Bereavement Leave: What Schools Must Know
-slug: excellence-in-bereavement-leave-what-schools-must-know
-meta_description: Excellence in Bereavement Leave: What Schools Must Know
-category: HR & Recruitment
-primary_keyword: bereavement leave
+---
+title: "Excellence in Bereavement Leave: What Schools Must Know"
+slug: "097-excellence-in-bereavement-leave-what-schools-must-know"
+meta_description: "Excellence in Bereavement Leave: What Schools Must Know"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "bereavement leave"
 secondary_keywords:
-  - bereavement leave schools
-  - best practices bereavement leave
-  - bereavement leave strategy
-  - how to implement bereavement leave
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "bereavement leave schools"
+  - "best practices bereavement leave"
+  - "bereavement leave strategy"
+  - "how to implement bereavement leave"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on bereavement leave for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

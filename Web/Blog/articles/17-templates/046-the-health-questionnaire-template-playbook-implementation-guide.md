@@ -1,22 +1,21 @@
 ---
-title: The Health Questionnaire Template Playbook: Implementation Guide
-slug: the-health-questionnaire-template-playbook-implementation-guide
-meta_description: The Health Questionnaire Template Playbook: Implementatio...
-category: SOPs & Templates
-primary_keyword: health questionnaire template
+title: "The Health Questionnaire Template Playbook: Implementation Guide"
+slug: "046-the-health-questionnaire-template-playbook-implementation-guide"
+meta_description: "The Health Questionnaire Template Playbook: Implementatio..."
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "health questionnaire template"
 secondary_keywords:
-  - health questionnaire template schools
-  - best practices health questionnaire template
-  - health questionnaire template strategy
-  - how to implement health questionnaire template
-intent: informational
+  - "health questionnaire template schools"
+  - "best practices health questionnaire template"
+  - "health questionnaire template strategy"
+  - "how to implement health questionnaire template"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on health questionnaire template for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

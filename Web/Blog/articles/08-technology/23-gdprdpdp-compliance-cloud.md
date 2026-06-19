@@ -1,18 +1,21 @@
 ---
 title: "DPDP Act 2023 and Cloud ERP: What Indian Schools Must Do"
-slug: "gdprdpdp-compliance-cloud"
+slug: "23-gdprdpdp-compliance-cloud"
 meta_description: "DPDP Act 2023 requirements for Indian schools using cloud ERP. Parental consent, data minimization, purpose limitation, breach notification, and what your ERP must support."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "DPDP Act schools cloud ERP compliance"
-secondary_keywords: ["India data protection schools", "DPDP Act 2023 education", "school student data privacy India", "DPDP compliance school ERP"]
-intent: "informational"
+secondary_keywords:
+  - "India data protection schools"
+  - "DPDP Act 2023 education"
+  - "school student data privacy India"
+  - "DPDP compliance school ERP"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## What Does the DPDP Act 2023 Require from Indian Schools Using Cloud ERP?
 
 The Digital Personal Data Protection Act 2023 (DPDP Act) requires Indian schools to: obtain verifiable parental consent before processing children's personal data for non-essential purposes, provide clear notice about data collection and use, minimize data collection to what is necessary, restrict processing to its stated purpose, and establish breach notification procedures. Cloud ERP systems used by schools must support all of these requirements through built-in functionality, not through manual processes that depend on individual staff vigilance.

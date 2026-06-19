@@ -1,10 +1,9 @@
 ---
 title: "Loneliness of Leadership: How to Cope"
-slug: loneliness-of-leadership-how-to-cope
-category: 9
-order: 85
-primary_keyword: "loneliness of school leadership"
+slug: "85-loneliness-of-leadership-how-to-cope"
 meta_description: "The principal role is inherently isolating. Explore practical strategies to cope with leadership loneliness, peer networks, professional support, self-care, and meaningful connection."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "loneliness of school leadership"
 secondary_keywords:
   - "principal isolation"
   - "coping with leadership stress"
@@ -16,8 +15,8 @@ date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
+order: 85
 ---
-
 # Loneliness of Leadership: How to Cope
 
 Principal role is inherently lonely. Strategies help manage the isolation.

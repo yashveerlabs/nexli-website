@@ -1,22 +1,21 @@
 ---
-title: Building a School Asset Register
-slug: school-asset-register
-meta_description: Track and manage all school equipment, furniture, and infrastructure.
-category: School Administration & Operations
-primary_keyword: school asset register
+title: "Building a School Asset Register"
+slug: "67-school-asset-register"
+meta_description: "Track and manage all school equipment, furniture, and infrastructure."
+category: "School Administration & Operations"
+primary_keyword: "school asset register"
 secondary_keywords:
-  - School Asset Register
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "School Asset Register"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 A school asset register is a complete, maintained inventory of every piece of equipment, furniture, and infrastructure the school owns, including purchase date, condition, and responsible custodian. Schools with an accurate asset register reduce losses, pass audits faster, and make better decisions about repair versus replacement. This article covers the key challenges, practical solutions, and implementation steps for building a school asset register.
 
 ---

@@ -1,22 +1,21 @@
 ---
-title: How to Build a School Excellence Framework
-slug: school-excellence-framework
-meta_description: Create performance metrics and accountability systems for continuous improvement.
-category: School Administration & Operations
-primary_keyword: school excellence framework
+title: "How to Build a School Excellence Framework"
+slug: "77-school-excellence-framework"
+meta_description: "Create performance metrics and accountability systems for continuous improvement."
+category: "School Administration & Operations"
+primary_keyword: "school excellence framework"
 secondary_keywords:
-  - School Excellence Framework
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "School Excellence Framework"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 A school excellence framework gives principals and administrators a structured way to measure, monitor, and improve performance across academics, operations, and compliance. Schools that build a formal excellence framework report 30-50% improvements in speed, consistency, and stakeholder confidence compared to those relying on informal judgment alone. This article covers the core challenges, proven solutions, and practical implementation strategies.
 
 ---

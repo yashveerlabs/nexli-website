@@ -1,18 +1,20 @@
 ---
 title: "CWSN Student Tracking and Support"
-slug: "cwsn-student-tracking-and-support"
+slug: "54-cwsn-student-tracking-and-support"
 meta_description: "How school ERPs support cwsn student tracking and support for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "CWSN student tracking ERP"
-secondary_keywords: ["children with special needs management India", "CWSN register software", "disability student tracking ERP", "special needs school management"]
+secondary_keywords:
+  - "children with special needs management India"
+  - "CWSN register software"
+  - "disability student tracking ERP"
+  - "special needs school management"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## CWSN Student Tracking and Support
 

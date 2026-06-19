@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Sibling Enrollment: How to Streamline Multi-Child Admissions"
-slug: sibling-enrollment-how-to-streamline-multi-child-admissions
-meta_description: sibling enrollment: how to streamline multi-child admissions. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: sibling enrollment
+slug: "41-sibling-enrollment-how-to-streamline-multi-child-admissions"
+meta_description: "sibling enrollment: how to streamline multi-child admissions. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "sibling enrollment"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article explores best practices for sibling enrollment in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

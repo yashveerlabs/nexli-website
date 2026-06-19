@@ -1,8 +1,8 @@
 ---
 title: "School ERP Rollout Strategy: How to Plan a Successful Launch"
-slug: "erp-rollout-strategy"
+slug: "75-erp-rollout-strategy"
 meta_description: "School ERP rollout strategy: choosing the right start date, sequencing modules, managing parallel systems, and the critical steps that determine whether go-live succeeds or fails."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP rollout strategy"
 secondary_keywords:
   - "school ERP go-live plan"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school software deployment India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## School ERP Rollout Strategy: How to Plan a Successful Launch
 
 **ERP rollout strategy determines whether implementation is smooth or chaotic. Schools that deploy ERP with a clear plan, right timing, sequenced modules, defined milestones, and a fallback approach, succeed. Schools that deploy without a strategy experience confusion, data problems, and staff resistance that can take months to overcome. This guide covers the strategic decisions that determine rollout success.**

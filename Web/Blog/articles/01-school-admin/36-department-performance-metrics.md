@@ -1,22 +1,21 @@
 ---
-title: Department Performance Metrics
-slug: department-performance-metrics
-meta_description: Track department effectiveness with KPIs and data-driven performance indicators.
-category: School Administration & Operations
-primary_keyword: department performance metrics
+title: "Department Performance Metrics"
+slug: "36-department-performance-metrics"
+meta_description: "Track department effectiveness with KPIs and data-driven performance indicators."
+category: "School Administration & Operations"
+primary_keyword: "department performance metrics"
 secondary_keywords:
-  - Department Performance Metrics
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Department Performance Metrics"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Department Performance Metrics
 
 Tracking department performance metrics is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that use KPIs to measure department effectiveness report significant improvements in speed, consistency, and stakeholder confidence.

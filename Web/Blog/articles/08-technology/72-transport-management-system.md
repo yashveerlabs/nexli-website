@@ -1,18 +1,20 @@
 ---
 title: "Transport Management System for Schools: Routes, Drivers, Vehicles, and GPS"
-slug: "transport-management-system"
+slug: "72-transport-management-system"
 meta_description: "A school transport management system covers route planning, student pickup assignment, driver records, vehicle maintenance, and GPS tracking. Learn what each module should include."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school transport management system"
-secondary_keywords: ["school bus route management", "transport ERP schools", "student pickup drop management"]
-intent: "informational"
+secondary_keywords:
+  - "school bus route management"
+  - "transport ERP schools"
+  - "student pickup drop management"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Transport Management: What the System Needs to Cover
 
 A school transport management system handles every aspect of running a student bus fleet: defining routes and stops, assigning students to pickups, managing drivers and conductors, scheduling vehicle maintenance, tracking fuel and operating costs, and monitoring GPS location. Without a system, transport coordinators manage all of this through spreadsheets and phone calls, which becomes unworkable as the fleet grows beyond a handful of vehicles.

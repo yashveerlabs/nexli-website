@@ -1,19 +1,22 @@
 ---
 title: "School Board Dynamics: Understanding Power"
-slug: school-board-dynamics-understanding-power
-category: 9
-order: 59
-primary_keyword: "school board dynamics"
+slug: "59-school-board-dynamics-understanding-power"
 meta_description: "Understand school board power dynamics, alliances, and influence patterns. A guide for principals to navigate governance relationships and build effective coalitions."
-secondary_keywords: ["school board politics", "principal board navigation", "board member relationships", "school governance dynamics"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "school board dynamics"
+secondary_keywords:
+  - "school board politics"
+  - "principal board navigation"
+  - "board member relationships"
+  - "school governance dynamics"
 intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 19
 branding_block_company: 19
 branding_block_nexli: 19
+order: 59
 ---
-
 # School Board Dynamics: Understanding Power
 
 Board dynamics affect school. Understand personalities, agendas, factions, influence patterns. Navigate skillfully.

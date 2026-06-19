@@ -1,18 +1,21 @@
 ---
 title: "Holistic Progress Card (HPC): NEP 2020 Implementation Guide for Schools"
-slug: "holistic-progress-card-implementation"
+slug: "23-holistic-progress-card-implementation"
 meta_description: "Implement NEP 2020 Holistic Progress Card correctly. Learn HPC domains, assessment sources, how to generate HPC reports, and CBSE requirements."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "Holistic Progress Card implementation"
-secondary_keywords: ["HPC schools", "NEP progress card", "holistic assessment", "multi-domain evaluation"]
-intent: "informational"
+secondary_keywords:
+  - "HPC schools"
+  - "NEP progress card"
+  - "holistic assessment"
+  - "multi-domain evaluation"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 The Holistic Progress Card (HPC) is NEP 2020's alternative to marks-only report cards. Instead of measuring only academic performance, the HPC assesses students across cognitive, social-emotional, physical, arts, vocational, and life skills domains, with input from teachers, students themselves, peers, and parents.
 
 ## HPC Assessment Domains

@@ -1,18 +1,21 @@
 ---
 title: "Internal Complaints Committee Formation: POSH Requirements for Schools"
-slug: "internal-complaints-committee-formation-schools"
+slug: "53-internal-complaints-committee-formation"
 meta_description: "Step-by-step guide to forming an Internal Complaints Committee (ICC) under the POSH Act 2013 for schools. Covers eligibility, composition, term, and documentation."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "internal complaints committee formation schools POSH"
-secondary_keywords: ["ICC POSH schools", "ICC formation requirements", "POSH committee constitution", "ICC members school India"]
-intent: "informational"
+secondary_keywords:
+  - "ICC POSH schools"
+  - "ICC formation requirements"
+  - "POSH committee constitution"
+  - "ICC members school India"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 Every school with 10 or more employees must constitute an Internal Complaints Committee (ICC) under the POSH Act 2013. The ICC is the body that receives, investigates, and recommends action on workplace sexual harassment complaints. Without a constituted ICC, the school is in non-compliance, even if no complaint has been filed.
 
 Forming the ICC is a straightforward process, but it must be done correctly or the committee's decisions can be challenged.

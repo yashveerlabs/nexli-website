@@ -1,22 +1,21 @@
 ---
-title: Academic Coordinator Responsibilities
-slug: academic-coordinator-responsibilities
-meta_description: Understand the day-to-day responsibilities and key functions of an academic coordinator in school management.
-category: School Administration & Operations
-primary_keyword: academic coordinator responsibilities
+title: "Academic Coordinator Responsibilities"
+slug: "29-academic-coordinator-responsibilities"
+meta_description: "Understand the day-to-day responsibilities and key functions of an academic coordinator in school management."
+category: "School Administration & Operations"
+primary_keyword: "academic coordinator responsibilities"
 secondary_keywords:
-  - Academic Coordinator Responsibilities
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Academic Coordinator Responsibilities"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Academic Coordinator Responsibilities
 
 An academic coordinator plays a central role in school operations, managing curriculum delivery, teacher accountability, and academic compliance. Schools that systematize academic coordination report significant improvements in speed, consistency, and stakeholder confidence.

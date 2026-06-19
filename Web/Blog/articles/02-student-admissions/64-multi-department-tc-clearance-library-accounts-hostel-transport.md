@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Multi-Department TC Clearance: Library, Accounts, Hostel, Transport"
-slug: multi-department-tc-clearance-library-accounts-hostel-transport
-meta_description: multi-department tc clearance: library, accounts, hostel, transport. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: multi-department tc clearance
+slug: "64-multi-department-tc-clearance-library-accounts-hostel-transport"
+meta_description: "multi-department tc clearance: library, accounts, hostel, transport. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "multi-department tc clearance"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for multi department tc clearance in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

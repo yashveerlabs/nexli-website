@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Verifying Parent Identity: Security in Communication Channels"
-slug: "verifying-parent-identity-security-communication"
+slug: "57-verifying-parent-identity-security-communication"
 meta_description: "Effective communication policy strategies for Indian schools. Learn how before sharing sensitive information, schools must verify they're communicating with actual parents. otp verification and contact confirmation are essential."
-category: "Communication Policy"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication policy"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Verifying Parent Identity: Security in Communication Channels
 
 Before sharing sensitive information, schools must verify they're communicating with actual parents. OTP verification and contact confirmation are essential.

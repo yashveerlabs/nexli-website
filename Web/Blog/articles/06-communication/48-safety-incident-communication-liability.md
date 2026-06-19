@@ -1,18 +1,21 @@
 ---
 title: "Safety Incident Communication: Transparency and Liability Considerations"
-slug: "safety-incident-communication-liability"
+slug: "48-safety-incident-communication-liability"
 meta_description: "Effective crisis communication strategies for Indian schools. Learn how after safety incidents, parents expect transparent communication. balancing transparency with legal considerations requires careful planning."
-category: "Crisis Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "crisis communication school emergency"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Safety Incident Communication: Transparency and Liability Considerations
 
 After safety incidents, parents expect transparent communication. Balancing transparency with legal considerations requires careful planning.

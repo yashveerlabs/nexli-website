@@ -1,8 +1,8 @@
 ---
 title: "Competitive Analysis: Understanding Your School's Market Position"
-slug: "competitor-analysis-school-marketing"
+slug: "27-competitor-analysis-school-marketing"
 meta_description: "Conduct competitive analysis for your school. Learn how to map competitors, identify market gaps, and position your school to win parent choice."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school competitive analysis"
 secondary_keywords:
   - "school market position"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Competitive Analysis: Understanding Your School's Market Position
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 6 min

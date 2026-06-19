@@ -1,18 +1,21 @@
 ---
 title: "Research Skills: Teaching Students How to Research and Investigate"
-slug: "research-skills-teaching-investigation"
+slug: "110-research-skills-teaching-investigation"
 meta_description: "Develop student research skills and investigative thinking. Teach literature review, data collection, and evidence-based learning methodologies."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "research skills student investigation"
-secondary_keywords: ["research methodology", "inquiry-based learning", "critical investigation", "academic research"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "research methodology"
+  - "inquiry-based learning"
+  - "critical investigation"
+  - "academic research"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Challenge: Ensuring Comprehensive Academic Excellence
 
 Most Indian schools recognize that a well-rounded education extends far beyond traditional classroom instruction. However, implementing specialized programs in research skills: teaching students how to research and investigate requires systematic planning, qualified instructors, proper resources, and clear learning outcomes. Without a structured approach, these programs become ad-hoc or inconsistent, failing to deliver measurable impact on student development.

@@ -1,22 +1,21 @@
 ---
-title: School Maintenance Request System
-slug: school-maintenance-request-system
-meta_description: Create workflows for staff to report and track maintenance issues.
-category: School Administration & Operations
-primary_keyword: school maintenance request system
+title: "School Maintenance Request System"
+slug: "73-school-maintenance-request-system"
+meta_description: "Create workflows for staff to report and track maintenance issues."
+category: "School Administration & Operations"
+primary_keyword: "school maintenance request system"
 secondary_keywords:
-  - School Maintenance Request System
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "School Maintenance Request System"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 A school maintenance request system gives staff a structured way to report issues, track repair status, and confirm completion, replacing informal WhatsApp messages and verbal complaints that often go unresolved. Schools with a formal maintenance request system resolve issues faster, maintain cleaner audit trails, and give principals visibility into infrastructure health. This article covers the key challenges, practical solutions, and implementation steps for a school maintenance request system.
 
 ---

@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Admissions Document Requests: How to Reduce Back-and-Forth"
-slug: admissions-document-requests-how-to-reduce-back-and-forth
-meta_description: admissions document requests: how to reduce back-and-forth. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: admissions document requests
+slug: "22-admissions-document-requests-how-to-reduce-back-and-forth"
+meta_description: "admissions document requests: how to reduce back-and-forth. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "admissions document requests"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article explores best practices for admissions document requests in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

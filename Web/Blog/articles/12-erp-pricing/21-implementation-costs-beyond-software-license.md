@@ -1,18 +1,20 @@
 ---
 title: "Implementation Costs Beyond Software License"
-slug: "implementation-costs-beyond-software-license"
+slug: "21-implementation-costs-beyond-software-license"
 meta_description: "Implementation Costs Beyond Software License"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "implementation"
-secondary_keywords: ["costs", "beyond", "software", "license"]
+secondary_keywords:
+  - "costs"
+  - "beyond"
+  - "software"
+  - "license"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Implementation Costs Beyond Software License
 

@@ -1,18 +1,21 @@
 ---
 title: "PM POSHAN Scheme: School Compliance Requirements"
-slug: "pm-poshan-school-compliance"
+slug: "63-pm-poshan-meal-scheme"
 meta_description: "Understand PM POSHAN (mid-day meal) compliance requirements for schools. Covers eligibility, food safety, records, inspection, and FSSAI obligations for school kitchens."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "PM POSHAN school compliance"
-secondary_keywords: ["mid-day meal school compliance", "PM POSHAN records", "school meal scheme India", "mid-day meal food safety"]
-intent: "informational"
+secondary_keywords:
+  - "mid-day meal school compliance"
+  - "PM POSHAN records"
+  - "school meal scheme India"
+  - "mid-day meal food safety"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 PM POSHAN (Pradhan Mantri Poshan Shakti Nirman), formerly the Mid-Day Meal Scheme, provides free nutritious meals to students in government and government-aided schools from Class 1 to 8. Schools participating in PM POSHAN have both entitlements (funds and food commodities) and obligations (food safety, records, compliance).
 
 Government-aided private schools that participate in PM POSHAN must meet the same compliance standards as government schools.

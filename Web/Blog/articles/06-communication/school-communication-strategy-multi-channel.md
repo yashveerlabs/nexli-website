@@ -1,20 +1,22 @@
-﻿---
+---
 title: "School Communication Strategy: Multi-Channel Approach"
 slug: "school-communication-strategy-multi-channel"
 meta_description: "Build effective school communication strategy using multiple channels for consistent parent engagement."
-category: "06"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication, parent engagement, communication channels"
 secondary_keywords:
   - "messaging strategy"
   - "parent outreach"
   - "announcement systems"
   - "feedback loops"
-intent: "best-practice"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
+branding_block_founder: 17
+branding_block_company: 17
+branding_block_nexli: 17
 branding_block: 20
 ---
-
 # School Communication Strategy: Multi-Channel Approach
 
 ## Problem

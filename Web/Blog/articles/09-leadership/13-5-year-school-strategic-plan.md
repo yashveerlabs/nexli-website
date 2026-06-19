@@ -1,19 +1,22 @@
 ---
 title: "5-Year School Strategic Plan Template"
-slug: 5-year-school-strategic-plan
-category: 9
-order: 13
-primary_keyword: "5-year school strategic plan template"
+slug: "13-5-year-school-strategic-plan"
 meta_description: "A ready-to-use 5-year school strategic plan template covering mission, SWOT assessment, strategic priorities, implementation timeline, budget, and accountability structures."
-secondary_keywords: ["school strategic plan template", "principal 5-year plan", "school planning document", "school goals and strategies template"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "5-year school strategic plan template"
+secondary_keywords:
+  - "school strategic plan template"
+  - "principal 5-year plan"
+  - "school planning document"
+  - "school goals and strategies template"
 intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
+order: 13
 ---
-
 # 5-Year School Strategic Plan Template
 
 Use this template to structure your school's strategic plan. Adapt it to your context and priorities.

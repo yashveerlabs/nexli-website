@@ -1,18 +1,20 @@
-﻿---
+---
 title: "ERP for Emergency Transition (Quick Deployment)"
-slug: "erp-for-emergency-transition-quick-deployment"
+slug: "89-erp-for-emergency-transition-quick-deployment"
 meta_description: "ERP for Emergency Transition (Quick Deployment)"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "erp"
-secondary_keywords: ["for", "emergency", "transition", "(quick"]
+secondary_keywords:
+  - "for"
+  - "emergency"
+  - "transition"
+  - "(quick"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## ERP for Emergency Transition (Quick Deployment)
 

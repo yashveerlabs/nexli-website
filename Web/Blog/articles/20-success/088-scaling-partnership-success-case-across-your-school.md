@@ -1,22 +1,21 @@
 ---
-title: Scaling Partnership Success Case Across Your School
-slug: scaling-partnership-success-case-across-your-school
-meta_description: Scaling Partnership Success Case Across Your School
-category: Success Stories & Cases
-primary_keyword: partnership success case
+title: "Scaling Partnership Success Case Across Your School"
+slug: "088-scaling-partnership-success-case-across-your-school"
+meta_description: "Scaling Partnership Success Case Across Your School"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "partnership success case"
 secondary_keywords:
-  - partnership success case schools
-  - best practices partnership success case
-  - partnership success case strategy
-  - how to implement partnership success case
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "partnership success case schools"
+  - "best practices partnership success case"
+  - "partnership success case strategy"
+  - "how to implement partnership success case"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on partnership success case for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

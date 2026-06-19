@@ -1,8 +1,8 @@
 ---
 title: "School Brand: Building Identity and Reputation"
-slug: "school-brand-building-identity-reputation"
+slug: "01-school-brand-building-identity"
 meta_description: "Build a strong school brand. Learn brand identity, positioning, consistency, and how to communicate your unique value to parents and students."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school brand"
 secondary_keywords:
   - "school branding strategy"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Brand: Building Identity and Reputation
 
 **A strong brand tells parents who you are, what you stand for, and why they should choose you. Without a clear brand, schools look interchangeable. This guide covers brand identity (mission, vision, values), positioning (what makes you unique), consistency (same message everywhere), and reputation management.**

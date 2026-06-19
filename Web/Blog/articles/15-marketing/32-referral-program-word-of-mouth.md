@@ -1,8 +1,8 @@
 ---
 title: "School Referral Program: Word-of-Mouth Marketing That Works"
-slug: "referral-program-word-of-mouth"
+slug: "32-referral-program-word-of-mouth"
 meta_description: "Build a school referral program that drives word-of-mouth admissions. Learn incentive structures, referral mechanics, and how to turn satisfied parents into advocates."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school referral program"
 secondary_keywords:
   - "word of mouth marketing school"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # School Referral Program: Word-of-Mouth Marketing That Works
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

@@ -1,8 +1,8 @@
 ---
 title: "Webinar Series for Parents: Building Community Online"
-slug: "webinar-series-parents-schools"
+slug: "55-webinar-series-parents"
 meta_description: "Build parent community through school webinars. Learn topic selection, promotion strategy, hosting platform setup, and how to convert webinar attendees to applicants."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school parent webinar"
 secondary_keywords:
   - "school online events"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Webinar Series for Parents: Building Community Online
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

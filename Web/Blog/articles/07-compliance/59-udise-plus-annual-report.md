@@ -1,18 +1,21 @@
 ---
 title: "UDISE+ Annual Report: What Schools Must Submit and When"
-slug: "udise-plus-annual-report-schools"
+slug: "59-udise-plus-annual-report"
 meta_description: "Complete guide to UDISE+ annual report submission for schools. Covers data categories, timelines, portal access, and how Nexli generates UDISE+ data exports."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "UDISE+ annual report schools"
-secondary_keywords: ["UDISE+ data submission", "school annual return government", "UDISE portal schools India", "DISE reporting requirements"]
-intent: "informational"
+secondary_keywords:
+  - "UDISE+ data submission"
+  - "school annual return government"
+  - "UDISE portal schools India"
+  - "DISE reporting requirements"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 11
 branding_block_company: 11
 branding_block_nexli: 11
 ---
-
 UDISE+ (Unified District Information System for Education Plus) is India's national database for school education statistics, maintained by the Ministry of Education. Every recognized school, government and private, must submit an annual report through the UDISE+ portal. The data is used for government planning, funding decisions, and regulatory oversight.
 
 Missing the UDISE+ annual submission affects the school's regulatory standing and, for government schools, funding. Private schools that skip submission risk recognition complications.

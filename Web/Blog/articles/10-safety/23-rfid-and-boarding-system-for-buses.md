@@ -1,8 +1,8 @@
 ---
 title: "RFID and Boarding System for Buses"
-slug: rfid-and-boarding-system-for-buses
+slug: "23-rfid-and-boarding-system-for-buses"
 meta_description: "Use RFID boarding systems on school buses to automate attendance, send parent notifications, and ensure every student is accounted for on every trip."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "RFID school bus boarding system"
 secondary_keywords:
   - "bus boarding tracking"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # RFID and Boarding System for Buses
 
 RFID systems track boarding/riding and ensure student safety and accountability.

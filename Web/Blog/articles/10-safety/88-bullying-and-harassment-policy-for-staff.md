@@ -1,18 +1,21 @@
-﻿---
-title: Bullying and Harassment Policy for Staff
-slug: bullying-and-harassment-policy-for-staff
-meta_description: Establish clear anti-bullying and harassment policies to protect staff with fair investigation and resolution.
-category: Safety & Operations
-primary_keyword: workplace harassment policy
-secondary_keywords: ['anti-bullying measures', 'complaint procedures', 'protective measures', 'fair investigation']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "Bullying and Harassment Policy for Staff"
+slug: "88-bullying-and-harassment-policy-for-staff"
+meta_description: "Establish clear anti-bullying and harassment policies to protect staff with fair investigation and resolution."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "workplace harassment policy"
+secondary_keywords:
+  - "anti-bullying measures"
+  - "complaint procedures"
+  - "protective measures"
+  - "fair investigation"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Bullying and Harassment Policy for Staff: Comprehensive Guide
 
 This guide provides comprehensive guidance on bullying and harassment policy for staff.

@@ -1,8 +1,8 @@
 ---
 title: "School ERP Implementation Timeline: What to Expect"
-slug: "erp-implementation-timeline"
+slug: "31-erp-implementation-timeline"
 meta_description: "Realistic school ERP implementation timeline: data migration, staff training, parallel running, go-live phases, and how long before ROI kicks in."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP implementation timeline"
 secondary_keywords:
   - "school management system implementation"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school software rollout plan"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## School ERP Implementation Timeline: What to Expect
 
 **School administrators often underestimate how long ERP implementation takes. Vendors sometimes oversell speed to close deals. The reality: a typical school takes 4-8 weeks from contract signing to confident day-to-day use, not 1-2 weeks as some demos suggest. Understanding the realistic timeline prevents rushed implementations, data quality problems, and staff frustration.**

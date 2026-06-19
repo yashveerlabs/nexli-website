@@ -1,18 +1,21 @@
 ---
 title: "Crisis Communication Plan: Preparation and Protocols"
-slug: "crisis-communication-plan-preparation-protocols"
+slug: "45-crisis-communication-plan-preparation-protocols"
 meta_description: "Effective crisis communication strategies for Indian schools. Learn how every school needs a documented crisis communication plan with clear chains of command, pre-drafted message templates, and stakeholder contact lists."
-category: "Crisis Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "crisis communication school emergency"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Crisis Communication Plan: Preparation and Protocols
 
 Every school needs a documented crisis communication plan with clear chains of command, pre-drafted message templates, and stakeholder contact lists.

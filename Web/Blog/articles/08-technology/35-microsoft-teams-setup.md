@@ -1,18 +1,21 @@
 ---
 title: "Microsoft Teams for Schools in India: Setup, Features, and Procurement"
-slug: "microsoft-teams-setup"
+slug: "35-microsoft-teams-setup"
 meta_description: "Microsoft Teams for Education offers class notebooks, assignments, and video meetings. Learn how to set it up, what it costs for Indian schools, and where it fits in your tech stack."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "Microsoft Teams for schools India"
-secondary_keywords: ["Teams for Education setup", "Microsoft 365 Education India", "Teams class notebook", "school video conferencing Microsoft"]
-intent: "informational"
+secondary_keywords:
+  - "Teams for Education setup"
+  - "Microsoft 365 Education India"
+  - "Teams class notebook"
+  - "school video conferencing Microsoft"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Microsoft Teams for Education: What It Offers Schools
 
 Microsoft Teams for Education is a collaboration and classroom management platform that combines video meetings, file sharing, assignments, and communication tools in a single interface. For schools already invested in the Microsoft ecosystem (Office applications, OneDrive, Outlook), Teams provides a natural classroom extension that avoids the need for a separate LMS.

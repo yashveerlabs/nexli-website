@@ -1,8 +1,8 @@
 ---
 title: "Getting Teacher Buy-In for School ERP: Practical Approaches That Work"
-slug: "staff-buy-in-getting-teachers-to-use-erp"
+slug: "81-staff-buy-in-getting-teachers-to-use-erp"
 meta_description: "How to get school teachers to actively use ERP: practical approaches for building buy-in, addressing resistance, and sustaining engagement beyond the first month."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "teacher buy-in school ERP"
 secondary_keywords:
   - "school ERP teacher engagement"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "teacher digital tools adoption India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Getting Teacher Buy-In for School ERP: Practical Approaches That Work
 
 **Teacher buy-in determines whether a school ERP is used or ignored. Without buy-in, attendance is marked on paper, marks are entered in personal notebooks, and the ERP generates incomplete data that no one trusts. With buy-in, the system becomes the school's operational backbone. The difference is not about technology, it is about whether teachers understand, trust, and see value in the ERP.**

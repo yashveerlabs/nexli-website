@@ -1,19 +1,22 @@
 ---
 title: "Principal Peer Learning Groups"
-slug: principal-peer-learning-groups
-category: 9
-order: 77
-primary_keyword: "principal peer learning groups"
+slug: "77-principal-peer-learning-groups"
 meta_description: "Build or join a principal peer learning group to combat isolation and accelerate professional growth. A guide to forming groups, structuring meetings, and sustaining engagement."
-secondary_keywords: ["school leader peer groups", "principal professional learning community", "principal collaboration network", "principal support groups"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "principal peer learning groups"
+secondary_keywords:
+  - "school leader peer groups"
+  - "principal professional learning community"
+  - "principal collaboration network"
+  - "principal support groups"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 17
 branding_block_company: 17
 branding_block_nexli: 17
+order: 77
 ---
-
 # Principal Peer Learning Groups
 
 Peer learning groups provide community, support, and professional growth for principals.

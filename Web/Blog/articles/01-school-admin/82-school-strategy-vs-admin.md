@@ -1,22 +1,21 @@
 ---
-title: School Strategy vs. Day-to-Day Admin
-slug: school-strategy-vs-admin
-meta_description: Balance long-term planning with daily firefighting and operational demands.
-category: School Administration & Operations
-primary_keyword: school strategy vs admin
+title: "School Strategy vs. Day-to-Day Admin"
+slug: "82-school-strategy-vs-admin"
+meta_description: "Balance long-term planning with daily firefighting and operational demands."
+category: "School Administration & Operations"
+primary_keyword: "school strategy vs admin"
 secondary_keywords:
-  - School Strategy Vs Admin
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "School Strategy Vs Admin"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 The tension between school strategy and day-to-day admin is one of the most common complaints from principals: long-term planning gets crowded out by daily approvals, parent calls, and compliance paperwork. Schools that create structured boundaries between strategic and operational work, and delegate or automate routine admin, report 30-50% improvements in leadership effectiveness and stakeholder confidence. This article examines how to build that separation in practice.
 
 ---

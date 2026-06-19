@@ -1,18 +1,21 @@
 ---
-title: Exeat and Weekend Leave Management
-slug: exeat-weekend-leave-management
-meta_description: Create transparent exeat and leave policies for boarding students with parent authorization and safety tracking systems.
-category: Safety & Operations
-primary_keyword: hostel exeat policy
-secondary_keywords: ["student leave management", "weekend passes", "parent coordination", "absence tracking"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+title: "Exeat and Weekend Leave Management"
+slug: "49-exeat-weekend-leave-management"
+meta_description: "Create transparent exeat and leave policies for boarding students with parent authorization and safety tracking systems."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "hostel exeat policy"
+secondary_keywords:
+  - "student leave management"
+  - "weekend passes"
+  - "parent coordination"
+  - "absence tracking"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Exeat and Weekend Leave Management: Balancing Freedom and Safety
 
 Boarding students need time away from hostel, to visit family, decompress, attend events. But uncontrolled absences create safety risks and disruption. Clear exeat (leave) policies balance student wellbeing with school responsibility. This guide establishes fair, transparent leave management frameworks.

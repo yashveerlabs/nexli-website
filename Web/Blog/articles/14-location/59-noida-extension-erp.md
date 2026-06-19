@@ -1,18 +1,20 @@
 ---
 title: "Noida Extension ERP"
-slug: "noida-extension-erp"
+slug: "59-noida-extension-erp"
 meta_description: "School ERP in Noida Extension and Greater Noida West: cloud-based school management for new township schools with CBSE compliance and parent portal."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Noida Extension Greater Noida West"
-secondary_keywords: ["school management Noida Extension", "Greater Noida West school ERP", "new township school software NCR", "school ERP Noida Expressway"]
+secondary_keywords:
+  - "school management Noida Extension"
+  - "Greater Noida West school ERP"
+  - "new township school software NCR"
+  - "school ERP Noida Expressway"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Noida Extension ERP
 

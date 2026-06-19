@@ -1,22 +1,21 @@
 ---
 title: "School Administrative Staff: Roles, Responsibilities, and Training"
-slug: school-admin-staff-roles-responsibilities
-meta_description: Define and organize school administrative roles. Clear job descriptions for office manager, coordinators, receptionists, and support staff.
-category: School Administration & Operations
-primary_keyword: school administrative staff roles
+slug: "07-school-admin-staff-roles"
+meta_description: "Define and organize school administrative roles. Clear job descriptions for office manager, coordinators, receptionists, and support staff."
+category: "School Administration & Operations"
+primary_keyword: "school administrative staff roles"
 secondary_keywords:
-  - administrative jobs
-  - staff responsibilities
-  - school office positions
-  - job descriptions
-intent: reference
-author: Yashveer Labs
-date: 2026-06-19
+  - "administrative jobs"
+  - "staff responsibilities"
+  - "school office positions"
+  - "job descriptions"
+intent: "reference"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 A school with 300+ students needs 3–5 dedicated administrative staff. Without clear role definitions, tasks overlap, overlap falls through cracks, and accountability is unclear. This article defines core administrative roles, responsibilities, skills, and training for each.

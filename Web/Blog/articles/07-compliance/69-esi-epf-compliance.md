@@ -1,18 +1,21 @@
 ---
 title: "ESI and EPF Compliance for Schools: What Employers Must Do"
-slug: "esi-epf-compliance-schools"
+slug: "69-esi-epf-compliance"
 meta_description: "Understand ESI and EPF obligations for schools as employers. Covers eligibility thresholds, contribution rates, registration, monthly filing, and employee benefits."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "ESI EPF compliance schools India"
-secondary_keywords: ["school employee provident fund", "ESI for teachers schools", "PF compliance school employer", "ESIC school registration"]
-intent: "informational"
+secondary_keywords:
+  - "school employee provident fund"
+  - "ESI for teachers schools"
+  - "PF compliance school employer"
+  - "ESIC school registration"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 Schools are employers. As employers, schools with 10 or more employees must comply with the Employees' State Insurance Act 1948 (ESI) and the Employees' Provident Funds and Miscellaneous Provisions Act 1952 (EPF). These laws apply to most private schools, regardless of their registration as trust, society, or company.
 
 Non-compliance with ESI and EPF is a significant labour law violation. It creates financial liability (arrears, interest, penalty) and can result in prosecution of the school management.

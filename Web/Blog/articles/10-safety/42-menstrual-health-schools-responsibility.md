@@ -1,18 +1,21 @@
 ---
-title: Menstrual Health - School's Responsibility
-slug: menstrual-health-schools-responsibility
-meta_description: Support student menstrual health with proper facilities, education, and stigma-free policies aligned with Indian standards.
-category: Safety & Operations
-primary_keyword: menstrual health in schools
-secondary_keywords: ["period poverty", "feminine hygiene", "menstrual leave", "student welfare"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+title: "Menstrual Health - School's Responsibility"
+slug: "42-menstrual-health-schools-responsibility"
+meta_description: "Support student menstrual health with proper facilities, education, and stigma-free policies aligned with Indian standards."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "menstrual health in schools"
+secondary_keywords:
+  - "period poverty"
+  - "feminine hygiene"
+  - "menstrual leave"
+  - "student welfare"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Menstrual Health: School's Responsibility to Students
 
 Menstruation is a natural biological process, yet shame and lack of infrastructure turn it into an obstacle to girls' education. One in three Indian girls miss school during their periods due to lack of facilities, inadequate knowledge, or social stigma. Schools can transform menstrual health into a matter-of-fact wellness issue. This guide outlines your school's role.

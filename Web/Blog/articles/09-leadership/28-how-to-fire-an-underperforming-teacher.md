@@ -1,19 +1,22 @@
 ---
 title: "How to Fire an Underperforming Teacher"
-slug: how-to-fire-an-underperforming-teacher
-category: 9
-order: 28
-primary_keyword: "how to fire an underperforming teacher"
+slug: "28-how-to-fire-an-underperforming-teacher"
 meta_description: "A principal's guide to terminating an underperforming teacher, legal steps, documentation, the meeting script, and how to support remaining staff through transition."
-secondary_keywords: ["teacher termination process", "firing a teacher legally", "school staff dismissal", "underperforming teacher procedure"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to fire an underperforming teacher"
+secondary_keywords:
+  - "teacher termination process"
+  - "firing a teacher legally"
+  - "school staff dismissal"
+  - "underperforming teacher procedure"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
+order: 28
 ---
-
 # How to Fire an Underperforming Teacher
 
 Terminating a teacher is one of the hardest decisions you'll make. It's also sometimes necessary. Approach it carefully, fairly, and with support.

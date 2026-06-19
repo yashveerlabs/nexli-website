@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to International School Metrics
-slug: the-complete-guide-to-international-school-metrics
-meta_description: The Complete Guide to International School Metrics
-category: Research & Statistics
-primary_keyword: international school metrics
+title: "The Complete Guide to International School Metrics"
+slug: "071-the-complete-guide-to-international-school-metrics"
+meta_description: "The Complete Guide to International School Metrics"
+category: "School Research, Statistics & Reports"
+primary_keyword: "international school metrics"
 secondary_keywords:
-  - international school metrics schools
-  - best practices international school metrics
-  - international school metrics strategy
-  - how to implement international school metrics
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "international school metrics schools"
+  - "best practices international school metrics"
+  - "international school metrics strategy"
+  - "how to implement international school metrics"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on international school metrics for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

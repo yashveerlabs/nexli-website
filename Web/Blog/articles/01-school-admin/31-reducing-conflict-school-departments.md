@@ -1,22 +1,21 @@
 ---
-title: Reducing Conflict Between School Departments
-slug: reducing-conflict-school-departments
-meta_description: Eliminate interdepartmental silos and build cooperative workflows in school operations.
-category: School Administration & Operations
-primary_keyword: reducing conflict school departments
+title: "Reducing Conflict Between School Departments"
+slug: "31-reducing-conflict-school-departments"
+meta_description: "Eliminate interdepartmental silos and build cooperative workflows in school operations."
+category: "School Administration & Operations"
+primary_keyword: "reducing conflict school departments"
 secondary_keywords:
-  - Reducing Conflict School Departments
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Reducing Conflict School Departments"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Reducing Conflict Between School Departments
 
 Reducing conflict between school departments is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process report significant improvements in speed, consistency, and stakeholder confidence.

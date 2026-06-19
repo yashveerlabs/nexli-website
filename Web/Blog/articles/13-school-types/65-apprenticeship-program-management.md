@@ -1,18 +1,20 @@
 ---
 title: "Apprenticeship Program Management"
-slug: "apprenticeship-program-management"
+slug: "65-apprenticeship-program-management"
 meta_description: "How school ERPs support apprenticeship program management for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "apprenticeship program management ERP"
-secondary_keywords: ["student apprenticeship tracking India", "school apprenticeship software", "vocational apprenticeship ERP", "trade apprenticeship management"]
+secondary_keywords:
+  - "student apprenticeship tracking India"
+  - "school apprenticeship software"
+  - "vocational apprenticeship ERP"
+  - "trade apprenticeship management"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Apprenticeship Program Management
 

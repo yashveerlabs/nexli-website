@@ -1,10 +1,14 @@
 ---
 title: "School Administrative Transparency: Building Trust with Stakeholders"
-slug: "school-admin-transparency"
+slug: "20-school-admin-transparency"
 meta_description: "How transparent administrative practices build stakeholder trust and improve school outcomes."
-category: "1. School Administration & Operations"
+category: "School Administration & Operations"
 primary_keyword: "school administrative transparency"
-secondary_keywords: ["transparency", "stakeholder trust", "governance", "accountability"]
+secondary_keywords:
+  - "transparency"
+  - "stakeholder trust"
+  - "governance"
+  - "accountability"
 intent: "thought-leadership"
 author: "Yashveer Labs"
 date: "2026-06-19"
@@ -12,7 +16,6 @@ branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## School Administrative Transparency: Building Trust with Stakeholders
 
 Trust is the foundation of school operations. Parents entrust principals with their children. Teachers entrust leadership with fair treatment. Staff entrust management with honest communication. But trust is fragile. It breaks when stakeholders don't understand how decisions are made or when information feels hidden.

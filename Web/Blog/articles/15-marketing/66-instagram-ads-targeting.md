@@ -1,8 +1,8 @@
 ---
 title: "Instagram Ads: Targeting Parents on Visual Platform"
-slug: "instagram-ads-targeting-schools"
+slug: "66-instagram-ads-targeting"
 meta_description: "Run Instagram Ads that target parents in your area and drive school admissions. Learn campaign setup, audience targeting, creative strategy, and budget management."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school Instagram ads"
 secondary_keywords:
   - "Instagram ads school admissions"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Instagram Ads: Targeting Parents on Visual Platform
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

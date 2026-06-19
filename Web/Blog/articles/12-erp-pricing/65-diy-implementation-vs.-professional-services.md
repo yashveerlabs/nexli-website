@@ -1,18 +1,20 @@
-﻿---
+---
 title: "DIY Implementation vs. Professional Services"
-slug: "diy-implementation-vs.-professional-services"
+slug: "65-diy-implementation-vs.-professional-services"
 meta_description: "DIY Implementation vs. Professional Services"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "diy"
-secondary_keywords: ["implementation", "vs.", "professional", "services"]
+secondary_keywords:
+  - "implementation"
+  - "vs."
+  - "professional"
+  - "services"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## DIY Implementation vs. Professional Services
 

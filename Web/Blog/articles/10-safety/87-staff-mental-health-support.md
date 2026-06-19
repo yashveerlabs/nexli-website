@@ -1,18 +1,21 @@
-﻿---
-title: Staff Mental Health Support
-slug: staff-mental-health-support
-meta_description: Support staff mental health through counseling, wellness programs, and supportive work environments.
-category: Safety & Operations
-primary_keyword: employee mental health support
-secondary_keywords: ['stress management', 'counseling services', 'wellbeing programs', 'burnout prevention']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "Staff Mental Health Support"
+slug: "87-staff-mental-health-support"
+meta_description: "Support staff mental health through counseling, wellness programs, and supportive work environments."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "employee mental health support"
+secondary_keywords:
+  - "stress management"
+  - "counseling services"
+  - "wellbeing programs"
+  - "burnout prevention"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Staff Mental Health Support: Comprehensive Guide
 
 This guide provides comprehensive guidance on staff mental health support.

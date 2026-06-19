@@ -1,18 +1,21 @@
 ---
 title: "Hybrid Learning in Schools: Scheduling, Equity Challenges, and Technology Needs"
-slug: "hybrid-learning-models"
+slug: "36-hybrid-learning-models"
 meta_description: "Hybrid learning means some students attend in-person while others join remotely at the same time. It creates scheduling, equity, and assessment challenges schools must address."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "hybrid learning schools India"
-secondary_keywords: ["hybrid classroom model", "blended learning schools", "in-person and remote learning", "hybrid teaching technology"]
-intent: "informational"
+secondary_keywords:
+  - "hybrid classroom model"
+  - "blended learning schools"
+  - "in-person and remote learning"
+  - "hybrid teaching technology"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## What Hybrid Learning Actually Means
 
 Hybrid learning for schools refers to a model where some students attend class physically in the classroom while others join the same session remotely, simultaneously. This is distinct from blended learning (where all students alternate between online and in-person, but not at the same time) and from fully online learning (where no students are physically present).

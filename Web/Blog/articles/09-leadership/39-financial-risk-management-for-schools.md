@@ -1,19 +1,22 @@
 ---
 title: "Financial Risk Management for Schools"
-slug: financial-risk-management-for-schools
-category: 9
-order: 39
-primary_keyword: "financial risk management for schools"
+slug: "39-financial-risk-management-for-schools"
 meta_description: "How school principals can identify, assess, and mitigate financial risks, from enrollment volatility to fraud prevention, to protect school viability and sustainability."
-secondary_keywords: ["school financial risk", "school risk management", "principal financial resilience", "school cash flow risk"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "financial risk management for schools"
+secondary_keywords:
+  - "school financial risk"
+  - "school risk management"
+  - "principal financial resilience"
+  - "school cash flow risk"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 19
 branding_block_company: 19
 branding_block_nexli: 19
+order: 39
 ---
-
 # Financial Risk Management for Schools
 
 Identifying and managing financial risks protects your school's viability. Proactive risk management prevents crises.

@@ -1,20 +1,20 @@
 ---
 title: "Annual Subscription vs. One-Time License: Which ERP Model is Right?"
-slug: "annual-subscription-vs-one-time-license"
+slug: "07-annual-subscription-vs-one-time-license"
 meta_description: "Compare subscription vs. perpetual licensing for school ERP. Pros, cons, total cost analysis. Which model provides better value long-term?"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "subscription vs perpetual license school ERP"
-secondary_keywords: ["annual subscription ERP", "perpetual license ERP", "SaaS vs on-premise ERP cost"]
-intent: "cost_comparison"
+secondary_keywords:
+  - "annual subscription ERP"
+  - "perpetual license ERP"
+  - "SaaS vs on-premise ERP cost"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 **Snippet:** Subscription models (annual, ₹30,000–₹5,00,000) offer flexibility, updates, support included. Perpetual licenses (₹2,00,000–₹20,00,000 upfront) require hardware maintenance but no ongoing license fees. Over 5 years, subscription typically costs 20–40% more but has lower risk.
 
 ## The Two Licensing Philosophies

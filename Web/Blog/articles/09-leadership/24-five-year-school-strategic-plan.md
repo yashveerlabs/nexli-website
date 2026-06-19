@@ -1,8 +1,8 @@
 ---
 title: "5-Year School Strategic Plan: Building Long-Term Excellence"
-slug: "five-year-school-strategic-plan"
+slug: "24-five-year-school-strategic-plan"
 meta_description: "Develop a comprehensive 5-year strategic plan for your school. Vision, goals, initiatives, and execution roadmap for sustainable growth and excellence."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "5-year school strategic plan"
 secondary_keywords:
   - "long-term school planning"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## 5-Year School Strategic Plan: Building Long-Term Excellence
 
 **A 5-year plan goes beyond annual goals. It's a transformation roadmap. It answers: Where is the school in 5 years? How do we get there? What capabilities do we need to build? This article guides you through creating an ambitious yet achievable 5-year vision that inspires staff and aligns resources.**

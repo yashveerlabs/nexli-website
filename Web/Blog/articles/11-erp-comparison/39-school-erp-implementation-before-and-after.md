@@ -1,8 +1,8 @@
 ---
 title: "School ERP Implementation: Before and After, A Realistic Picture"
-slug: "school-erp-implementation-before-and-after"
+slug: "39-school-erp-implementation-before-and-after"
 meta_description: "What school operations look like before and after ERP implementation: attendance workflows, fee tracking, compliance, and parent communication, honest before/after comparison."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP before and after implementation"
 secondary_keywords:
   - "school management system impact"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school digitalization benefits"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## School ERP Implementation: Before and After, A Realistic Picture
 
 **Schools considering ERP often want a realistic picture of what actually changes, not marketing claims about operational efficiency, but specific workflows that get better and some that take adjustment. This article describes the before and after for the most common school operations, honestly.**

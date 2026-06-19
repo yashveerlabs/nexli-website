@@ -1,18 +1,21 @@
 ---
 title: "Curriculum Alignment with NEP 2020: Practical Steps for Schools"
-slug: "curriculum-alignment-with-nep"
+slug: "28-curriculum-alignment-with-nep"
 meta_description: "Align your school curriculum with NEP 2020. Learn how to audit existing curriculum, implement NEP changes, and prepare for CBSE NEP-aligned textbook updates."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "curriculum alignment NEP 2020 schools"
-secondary_keywords: ["NEP curriculum changes", "NCERT NEP alignment", "school curriculum audit", "NEP implementation"]
-intent: "informational"
+secondary_keywords:
+  - "NEP curriculum changes"
+  - "NCERT NEP alignment"
+  - "school curriculum audit"
+  - "NEP implementation"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 Aligning curriculum with NEP 2020 is not a one-day exercise, it requires auditing existing syllabuses, updating lesson plans, introducing new assessment types, and preparing teachers for pedagogical shifts. Schools that begin now are better positioned as CBSE and NCERT complete their NEP-aligned revisions.
 
 ## Step 1: Audit Existing Curriculum Against NEP Principles

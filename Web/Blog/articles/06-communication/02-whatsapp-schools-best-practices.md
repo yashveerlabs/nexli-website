@@ -1,18 +1,21 @@
 ---
 title: "WhatsApp for Schools: Best Practices and Compliance Guidelines"
-slug: "whatsapp-schools-best-practices-compliance"
+slug: "02-whatsapp-schools-best-practices"
 meta_description: "Master WhatsApp communication for schools. Learn compliance requirements, group management, and best practices for using WhatsApp with parents and students."
-category: "Parent Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "WhatsApp for schools"
-secondary_keywords: ["school WhatsApp groups", "WhatsApp compliance", "parent communication", "school messaging"]
-intent: "informational"
+secondary_keywords:
+  - "school WhatsApp groups"
+  - "WhatsApp compliance"
+  - "parent communication"
+  - "school messaging"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## The Reality of WhatsApp in Indian Schools
 
 WhatsApp is ubiquitous in Indian schools. Class teachers maintain parent groups. Principals send urgent announcements through WhatsApp. Volunteers organize field trips in dedicated chats. Yet most schools use WhatsApp informally, without clear governance, leading to compliance gaps, privacy violations, and communication chaos.

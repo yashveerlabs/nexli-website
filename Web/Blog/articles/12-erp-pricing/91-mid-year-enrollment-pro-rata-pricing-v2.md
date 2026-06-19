@@ -1,20 +1,20 @@
-﻿---
+---
 title: "Mid-Year Enrollment and Pro-Rata ERP Pricing"
-slug: "mid-year-enrollment-pro-rata-pricing"
+slug: "91-mid-year-enrollment-pro-rata-pricing-v2"
 meta_description: "How school ERP handles mid-year student enrollment and pro-rata pricing. Understand billing models for schools with ongoing admissions."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "mid-year enrollment ERP pricing"
-secondary_keywords: ["pro-rata ERP pricing", "mid-year admissions ERP", "student enrollment billing"]
+secondary_keywords:
+  - "pro-rata ERP pricing"
+  - "mid-year admissions ERP"
+  - "student enrollment billing"
 intent: "reference"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 # Mid-Year Enrollment and Pro-Rata Pricing
 
 When a student enrolls mid-academic year, schools face a critical question: how do you charge for software licensing when the student won't use the system for the full year? This is the **mid-year enrollment pro-rata pricing challenge**, one many principals overlook until they're caught between contradictory commitments. Some vendors charge full-year fees regardless of enrollment timing. Others lack clarity on how they calculate partial-year costs. The result: unexpected invoices, budget overruns, and strained vendor relationships.

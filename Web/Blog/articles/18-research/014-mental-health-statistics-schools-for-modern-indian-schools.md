@@ -1,22 +1,21 @@
 ---
-title: Mental Health Statistics Schools for Modern Indian Schools
-slug: mental-health-statistics-schools-for-modern-indian-schools
-meta_description: Mental Health Statistics Schools for Modern Indian Schools
-category: Research & Statistics
-primary_keyword: mental health statistics schools
+title: "Mental Health Statistics Schools for Modern Indian Schools"
+slug: "014-mental-health-statistics-schools-for-modern-indian-schools"
+meta_description: "Mental Health Statistics Schools for Modern Indian Schools"
+category: "School Research, Statistics & Reports"
+primary_keyword: "mental health statistics schools"
 secondary_keywords:
-  - mental health statistics schools schools
-  - best practices mental health statistics schools
-  - mental health statistics schools strategy
-  - how to implement mental health statistics schools
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "mental health statistics schools schools"
+  - "best practices mental health statistics schools"
+  - "mental health statistics schools strategy"
+  - "how to implement mental health statistics schools"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on mental health statistics schools for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

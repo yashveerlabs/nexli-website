@@ -1,10 +1,14 @@
 ---
 title: "How to Audit School Administrative Processes"
-slug: "audit-school-admin-processes"
+slug: "21-audit-school-admin-processes"
 meta_description: "Guide to conducting internal audits of school operations for compliance and efficiency."
-category: "1. School Administration & Operations"
+category: "School Administration & Operations"
 primary_keyword: "audit school administrative processes"
-secondary_keywords: ["internal audit", "process audit", "compliance audit", "school operations"]
+secondary_keywords:
+  - "internal audit"
+  - "process audit"
+  - "compliance audit"
+  - "school operations"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
@@ -12,7 +16,6 @@ branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## How to Audit School Administrative Processes
 
 Audits might sound formal and intimidating, but they're simply structured checks to ensure that processes work as intended and comply with regulations. A school audit answers: Are we doing what we say we're doing? Are we following our own policies? Are we meeting legal requirements?

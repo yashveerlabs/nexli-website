@@ -1,8 +1,8 @@
 ---
 title: "Retargeting Ads: Following Up With Interested Families"
-slug: "retargeting-ads-school"
+slug: "41-retargeting-ads-school"
 meta_description: "Use retargeting ads to re-engage parents who visited your school website. Learn pixel setup, audience segments, ad creative, and budget allocation for schools."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "retargeting ads school"
 secondary_keywords:
   - "school remarketing"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Retargeting Ads: Following Up With Interested Families
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

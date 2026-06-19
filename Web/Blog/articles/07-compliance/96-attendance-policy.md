@@ -1,18 +1,21 @@
 ---
 title: "School Attendance Policy: Legal Requirements and Enforcement"
-slug: "school-attendance-policy"
+slug: "96-attendance-policy"
 meta_description: "Create a compliant school attendance policy. Covers RTE minimum attendance norms, 75% requirement for board exams, leave procedures, parental communication, and documentation."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "school attendance policy India"
-secondary_keywords: ["student attendance policy school", "75% attendance CBSE", "school absence policy", "RTE attendance requirements"]
-intent: "informational"
+secondary_keywords:
+  - "student attendance policy school"
+  - "75% attendance CBSE"
+  - "school absence policy"
+  - "RTE attendance requirements"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 Student attendance is a key indicator of educational engagement and a regulatory compliance requirement. CBSE requires 75% minimum attendance for students to be eligible for board examinations. The RTE Act 2009 has provisions related to continuous attendance and retention. Schools must have clear, written attendance policies that are communicated to parents and consistently enforced.
 
 ## Legal and Regulatory Basis

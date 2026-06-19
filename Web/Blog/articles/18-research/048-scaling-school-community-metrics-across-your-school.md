@@ -1,22 +1,21 @@
 ---
-title: Scaling School Community Metrics Across Your School
-slug: scaling-school-community-metrics-across-your-school
-meta_description: Scaling School Community Metrics Across Your School
-category: Research & Statistics
-primary_keyword: school community metrics
+title: "Scaling School Community Metrics Across Your School"
+slug: "048-scaling-school-community-metrics-across-your-school"
+meta_description: "Scaling School Community Metrics Across Your School"
+category: "School Research, Statistics & Reports"
+primary_keyword: "school community metrics"
 secondary_keywords:
-  - school community metrics schools
-  - best practices school community metrics
-  - school community metrics strategy
-  - how to implement school community metrics
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "school community metrics schools"
+  - "best practices school community metrics"
+  - "school community metrics strategy"
+  - "how to implement school community metrics"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on school community metrics for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

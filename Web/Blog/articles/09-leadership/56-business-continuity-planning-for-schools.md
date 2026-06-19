@@ -1,19 +1,22 @@
 ---
 title: "Business Continuity Planning for Schools"
-slug: business-continuity-planning-for-schools
-category: 9
-order: 56
-primary_keyword: "school business continuity planning"
+slug: "56-business-continuity-planning-for-schools"
 meta_description: "Build a school business continuity plan that keeps education running through disasters, pandemics, and crises. Practical steps for Indian school leaders."
-secondary_keywords: ["school crisis preparedness", "school emergency planning", "school operations resilience", "disaster recovery for schools"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "school business continuity planning"
+secondary_keywords:
+  - "school crisis preparedness"
+  - "school emergency planning"
+  - "school operations resilience"
+  - "disaster recovery for schools"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
+order: 56
 ---
-
 # Business Continuity Planning for Schools
 
 When operations are disrupted, a school must continue essential functions. A business continuity plan ensures resilience.

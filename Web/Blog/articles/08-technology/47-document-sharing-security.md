@@ -1,18 +1,21 @@
 ---
 title: "Secure Document Sharing in Schools: What to Send Where and How to Protect Sensitive Files"
-slug: "document-sharing-security"
+slug: "47-document-sharing-security"
 meta_description: "Schools share sensitive documents constantly, often through insecure channels. Learn what should and shouldn't go via email or WhatsApp, and how to share documents securely."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "secure document sharing schools"
-secondary_keywords: ["school document security", "sharing student records securely", "school file transfer", "DPDP document sharing schools"]
-intent: "informational"
+secondary_keywords:
+  - "school document security"
+  - "sharing student records securely"
+  - "school file transfer"
+  - "DPDP document sharing schools"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## The Document Sharing Problem in Schools
 
 Secure document sharing in schools is a persistent weak point in school data protection. Schools generate and share a large volume of sensitive documents daily: student report cards, health records, fee receipts, salary slips, disciplinary notices, examination results, and board submission data. In most schools, these travel through email attachments and WhatsApp messages without any access controls, expiry dates, or audit trail.

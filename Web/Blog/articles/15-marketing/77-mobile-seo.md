@@ -1,8 +1,8 @@
 ---
 title: "Mobile SEO: Mobile Search Ranking Optimization"
-slug: "mobile-seo-schools"
+slug: "77-mobile-seo"
 meta_description: "Optimize your school website for mobile search rankings. Learn Core Web Vitals, mobile-first indexing, page speed, and how to capture parents searching on phones."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school mobile SEO"
 secondary_keywords:
   - "school mobile search ranking"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Mobile SEO: Mobile Search Ranking Optimization
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

@@ -1,22 +1,21 @@
-﻿---
-title: The Complete Guide to Climate Tech Learning
-slug: the-complete-guide-to-climate-tech-learning
-meta_description: The Complete Guide to Climate Tech Learning
-category: Innovation & AI
-primary_keyword: climate tech learning
+---
+title: "The Complete Guide to Climate Tech Learning"
+slug: "091-the-complete-guide-to-climate-tech-learning"
+meta_description: "The Complete Guide to Climate Tech Learning"
+category: "Education Innovation, AI & Future"
+primary_keyword: "climate tech learning"
 secondary_keywords:
-  - climate tech learning schools
-  - best practices climate tech learning
-  - climate tech learning strategy
-  - how to implement climate tech learning
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "climate tech learning schools"
+  - "best practices climate tech learning"
+  - "climate tech learning strategy"
+  - "how to implement climate tech learning"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on climate tech learning for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,22 +1,21 @@
-﻿---
-title: Scaling Ai Bias Prevention Across Your School
-slug: scaling-ai-bias-prevention-across-your-school
-meta_description: Scaling Ai Bias Prevention Across Your School
-category: Innovation & AI
-primary_keyword: AI bias prevention
+---
+title: "Scaling Ai Bias Prevention Across Your School"
+slug: "068-scaling-ai-bias-prevention-across-your-school"
+meta_description: "Scaling Ai Bias Prevention Across Your School"
+category: "Education Innovation, AI & Future"
+primary_keyword: "AI bias prevention"
 secondary_keywords:
-  - AI bias prevention schools
-  - best practices AI bias prevention
-  - AI bias prevention strategy
-  - how to implement AI bias prevention
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "AI bias prevention schools"
+  - "best practices AI bias prevention"
+  - "AI bias prevention strategy"
+  - "how to implement AI bias prevention"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on ai bias prevention for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

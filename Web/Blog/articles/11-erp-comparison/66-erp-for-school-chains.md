@@ -1,8 +1,8 @@
 ---
 title: "ERP for School Chains: Managing Multiple Campuses on One Platform"
-slug: "erp-for-school-chains"
+slug: "66-erp-for-school-chains"
 meta_description: "ERP evaluation guide for school chains: chain-level visibility, per-campus isolation, standardized reporting, and what to prioritize when managing 5, 10, or 50 campuses."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "ERP for school chains India"
 secondary_keywords:
   - "multi-campus school ERP India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school chain ERP evaluation"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## ERP for School Chains: Managing Multiple Campuses on One Platform
 
 **A school chain running 10 campuses on 10 separate ERP subscriptions has fragmented its data, its compliance visibility, and its operational oversight just as badly as a single school using 10 spreadsheets. The value of a chain-level ERP is centralized visibility without sacrificing per-campus autonomy. This guide covers what chains need from ERP and how to evaluate platforms for chain-scale deployment.**

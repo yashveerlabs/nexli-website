@@ -1,8 +1,8 @@
 ---
 title: "Content Marketing Strategy: Building Authority and Trust"
-slug: "content-marketing-strategy-schools"
+slug: "51-content-marketing-strategy"
 meta_description: "Build a content marketing strategy for your school that establishes authority and drives admissions. Learn content pillars, formats, distribution, and measurement."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school content marketing"
 secondary_keywords:
   - "school content strategy"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Content Marketing Strategy: Building Authority and Trust
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

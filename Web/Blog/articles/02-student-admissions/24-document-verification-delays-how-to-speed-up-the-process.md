@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Document Verification Delays: How to Speed Up the Process"
-slug: document-verification-delays-how-to-speed-up-the-process
-meta_description: document verification delays: how to speed up the process. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: document verification delays
+slug: "24-document-verification-delays-how-to-speed-up-the-process"
+meta_description: "document verification delays: how to speed up the process. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "document verification delays"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for document verification delays in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

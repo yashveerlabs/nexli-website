@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Red Flags in Vendor Pricing"
-slug: "red-flags-in-vendor-pricing"
+slug: "75-red-flags-in-vendor-pricing"
 meta_description: "Red Flags in Vendor Pricing"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "red"
-secondary_keywords: ["flags", "in", "vendor", "pricing"]
+secondary_keywords:
+  - "flags"
+  - "in"
+  - "vendor"
+  - "pricing"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Red Flags in Vendor Pricing
 

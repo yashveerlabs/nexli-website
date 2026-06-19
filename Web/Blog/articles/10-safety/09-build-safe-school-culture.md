@@ -1,8 +1,8 @@
 ---
 title: "How to Build a Safe School Culture"
-slug: "build-safe-school-culture"
+slug: "09-build-safe-school-culture"
 meta_description: "Create a school culture where students and staff feel safe, respected, and supported. Learn about trust-building, reporting mechanisms, and community responsibility."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "safe school culture"
 secondary_keywords:
   - "student safety culture"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## How to Build a Safe School Culture
 
 **Physical security (gates, cameras, drills) is necessary but insufficient. Real safety comes from culture: students and staff who trust each other, report concerns honestly, and intervene when they see problems. This guide focuses on culture-building, not infrastructure.**

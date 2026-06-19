@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Lab Modernization Case Study
-slug: the-complete-guide-to-lab-modernization-case-study
-meta_description: The Complete Guide to Lab Modernization Case Study
-category: Success Stories & Cases
-primary_keyword: lab modernization case study
+title: "The Complete Guide to Lab Modernization Case Study"
+slug: "051-the-complete-guide-to-lab-modernization-case-study"
+meta_description: "The Complete Guide to Lab Modernization Case Study"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "lab modernization case study"
 secondary_keywords:
-  - lab modernization case study schools
-  - best practices lab modernization case study
-  - lab modernization case study strategy
-  - how to implement lab modernization case study
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "lab modernization case study schools"
+  - "best practices lab modernization case study"
+  - "lab modernization case study strategy"
+  - "how to implement lab modernization case study"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on lab modernization case study for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,18 +1,21 @@
 ---
 title: "Complaint Resolution Process: Structure and Transparency"
-slug: "complaint-resolution-process-transparency"
+slug: "37-complaint-resolution-process-transparency"
 meta_description: "Effective feedback & complaints strategies for Indian schools. Learn how clear complaint procedures with defined escalation paths and timelines build confidence that legitimate concerns will be fairly addressed."
-category: "Feedback & Complaints"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent feedback resolution"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Complaint Resolution Process: Structure and Transparency
 
 Clear complaint procedures with defined escalation paths and timelines build confidence that legitimate concerns will be fairly addressed.

@@ -1,18 +1,21 @@
 ---
 title: "RTI Requests for Schools: Obligations and Response Procedures"
-slug: "rti-requests-handling-schools"
+slug: "65-rti-requests-handling"
 meta_description: "Understand how the Right to Information Act 2005 applies to schools. Covers which schools are covered, what information must be disclosed, timelines, and how to respond."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "RTI requests schools India"
-secondary_keywords: ["Right to Information schools", "RTI Act school compliance", "government school RTI obligations", "school information disclosure RTI"]
-intent: "informational"
+secondary_keywords:
+  - "Right to Information schools"
+  - "RTI Act school compliance"
+  - "government school RTI obligations"
+  - "school information disclosure RTI"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 17
 branding_block_company: 17
 branding_block_nexli: 17
 ---
-
 The Right to Information Act 2005 (RTI Act) enables Indian citizens to request information from public authorities. Understanding which schools are covered by RTI and what that means operationally is essential for school compliance.
 
 ## Which Schools Are Covered by RTI

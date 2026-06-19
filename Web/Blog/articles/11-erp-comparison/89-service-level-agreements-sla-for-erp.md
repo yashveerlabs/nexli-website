@@ -1,8 +1,8 @@
 ---
 title: "Service Level Agreements for School ERP: What Schools Should Require"
-slug: "service-level-agreements-sla-for-erp"
+slug: "89-service-level-agreements-sla-for-erp"
 meta_description: "What school ERP SLAs should cover: uptime guarantees, response times, resolution times, maintenance windows, and remedies for SLA breach, with realistic benchmarks."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP service level agreement"
 secondary_keywords:
   - "school ERP SLA"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP vendor commitment India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Service Level Agreements for School ERP: What Schools Should Require
 
 **A Service Level Agreement (SLA) defines what the vendor commits to provide, uptime, support response times, resolution times, and what remedies apply if those commitments are not met. Most standard school ERP contracts contain minimal SLAs or none at all. Schools that negotiate SLAs into their contracts have a basis for holding vendors accountable. Schools that do not have no recourse when support is slow or the system is down during exams.**

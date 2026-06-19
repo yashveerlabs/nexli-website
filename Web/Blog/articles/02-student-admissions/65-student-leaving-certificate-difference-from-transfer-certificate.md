@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Student Leaving Certificate: Difference from Transfer Certificate"
-slug: student-leaving-certificate-difference-from-transfer-certificate
-meta_description: student leaving certificate: difference from transfer certificate. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: student leaving certificate
+slug: "65-student-leaving-certificate-difference-from-transfer-certificate"
+meta_description: "student leaving certificate: difference from transfer certificate. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "student leaving certificate"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article explores best practices for student leaving certificate in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

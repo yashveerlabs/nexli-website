@@ -1,22 +1,21 @@
 ---
-title: School Administrative Staff Training
-slug: administrative-staff-training
-meta_description: Build competency in your office, finance, and operations teams through structured training.
-category: School Administration & Operations
-primary_keyword: administrative staff training
+title: "School Administrative Staff Training"
+slug: "92-administrative-staff-training"
+meta_description: "Build competency in your office, finance, and operations teams through structured training."
+category: "School Administration & Operations"
+primary_keyword: "administrative staff training"
 secondary_keywords:
-  - Administrative Staff Training
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Administrative Staff Training"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Executive Summary
 
 Administrative staff training is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize training report 30-50% improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.

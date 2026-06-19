@@ -1,22 +1,21 @@
 ---
-title: Practical Strategies for Visually Impaired Enrollment
-slug: practical-strategies-for-visually-impaired-enrollment
-meta_description: Practical Strategies for Visually Impaired Enrollment
-category: Research & Statistics
-primary_keyword: visually impaired enrollment
+title: "Practical Strategies for Visually Impaired Enrollment"
+slug: "085-practical-strategies-for-visually-impaired-enrollment"
+meta_description: "Practical Strategies for Visually Impaired Enrollment"
+category: "School Research, Statistics & Reports"
+primary_keyword: "visually impaired enrollment"
 secondary_keywords:
-  - visually impaired enrollment schools
-  - best practices visually impaired enrollment
-  - visually impaired enrollment strategy
-  - how to implement visually impaired enrollment
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "visually impaired enrollment schools"
+  - "best practices visually impaired enrollment"
+  - "visually impaired enrollment strategy"
+  - "how to implement visually impaired enrollment"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on visually impaired enrollment for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

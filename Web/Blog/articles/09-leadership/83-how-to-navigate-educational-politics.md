@@ -1,10 +1,9 @@
 ---
 title: "How to Navigate Educational Politics"
-slug: how-to-navigate-educational-politics
-category: 9
-order: 83
-primary_keyword: "how to navigate educational politics"
+slug: "83-how-to-navigate-educational-politics"
 meta_description: "School principals face complex political dynamics. Learn how to map power, build coalitions, choose your battles, and maintain integrity while advancing your school's mission."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to navigate educational politics"
 secondary_keywords:
   - "school politics for principals"
   - "stakeholder management in education"
@@ -16,8 +15,8 @@ date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
+order: 83
 ---
-
 # How to Navigate Educational Politics
 
 Politics are part of education. Navigate skillfully to advance your mission.

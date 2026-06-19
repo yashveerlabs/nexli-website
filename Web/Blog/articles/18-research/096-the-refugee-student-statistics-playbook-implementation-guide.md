@@ -1,22 +1,21 @@
 ---
-title: The Refugee Student Statistics Playbook: Implementation Guide
-slug: the-refugee-student-statistics-playbook-implementation-guide
-meta_description: The Refugee Student Statistics Playbook: Implementation G...
-category: Research & Statistics
-primary_keyword: refugee student statistics
+title: "The Refugee Student Statistics Playbook: Implementation Guide"
+slug: "096-the-refugee-student-statistics-playbook-implementation-guide"
+meta_description: "The Refugee Student Statistics Playbook: Implementation G..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "refugee student statistics"
 secondary_keywords:
-  - refugee student statistics schools
-  - best practices refugee student statistics
-  - refugee student statistics strategy
-  - how to implement refugee student statistics
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "refugee student statistics schools"
+  - "best practices refugee student statistics"
+  - "refugee student statistics strategy"
+  - "how to implement refugee student statistics"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on refugee student statistics for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

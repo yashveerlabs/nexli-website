@@ -2,7 +2,7 @@
 title: "How to Integrate NEP 2020 Competencies into Your Curriculum"
 slug: "integrate-nep-2020-competencies-curriculum"
 meta_description: "Practical strategies to embed NEP 2020 competencies in lessons and assessments for holistic development."
-category: "03"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "NEP integration, competency-based teaching, skill development"
 secondary_keywords:
   - "learning outcomes"
@@ -12,9 +12,11 @@ secondary_keywords:
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
+branding_block_founder: 5
+branding_block_company: 5
+branding_block_nexli: 5
 branding_block: 20
 ---
-
 # How to Integrate NEP 2020 Competencies into Your Curriculum
 
 ## Problem

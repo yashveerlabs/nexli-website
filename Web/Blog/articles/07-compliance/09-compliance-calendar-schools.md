@@ -1,18 +1,21 @@
 ---
 title: "Building a Compliance Calendar for Your School"
-slug: "school-compliance-calendar"
+slug: "09-compliance-calendar-schools"
 meta_description: "Create a compliance calendar for schools. Track CBSE, DPDP, RTE, fire safety, and other regulatory deadlines throughout the year."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "compliance calendar schools"
-secondary_keywords: ["regulatory deadlines", "school compliance timeline", "audit calendar", "compliance tracking"]
-intent: "informational"
+secondary_keywords:
+  - "regulatory deadlines"
+  - "school compliance timeline"
+  - "audit calendar"
+  - "compliance tracking"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Why Schools Need a Compliance Calendar
 
 Schools must meet dozens of regulatory deadlines throughout the year: CBSE submissions, RTE reporting, fire safety audits, staff verifications, data protection checks, fee audits, FSSAI renewals, and more. Missing a single deadline can result in fines, penalties, or loss of affiliation.

@@ -1,22 +1,21 @@
-﻿---
+---
 title: "How Schools Can Automate Admissions Reminders and Notifications"
-slug: how-schools-can-automate-admissions-reminders-and-notifications
-meta_description: how schools can automate admissions reminders and notifications. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: how schools can automate admissions reminders and notifications
+slug: "11-how-schools-can-automate-admissions-reminders-and-notifications"
+meta_description: "how schools can automate admissions reminders and notifications. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "how schools can automate admissions reminders and notifications"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article explores best practices for how schools can automate admissions reminders and notifications in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

@@ -1,18 +1,21 @@
 ---
 title: "Child Protection Officer in Schools: Role, Duties, and Appointment"
-slug: "child-protection-officer-role-duties"
+slug: "44-child-protection-officer"
 meta_description: "Learn how to appoint a Child Protection Officer (CPO) in your school. Covers CPO duties under POCSO Act, required qualifications, training, and operational setup."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "Child Protection Officer school appointment"
-secondary_keywords: ["CPO school duties", "POCSO CPO requirements", "school child safeguarding officer", "child protection policy schools"]
-intent: "informational"
+secondary_keywords:
+  - "CPO school duties"
+  - "POCSO CPO requirements"
+  - "school child safeguarding officer"
+  - "child protection policy schools"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 Every school in India must designate a Child Protection Officer (CPO) under the POCSO Act 2012. The CPO is not a ceremonial title: the role carries legal responsibilities, and schools that fail to appoint an active, trained CPO are exposed to regulatory risk.
 
 This article focuses on how to structure the CPO appointment, define the role clearly, and give the CPO the operational support they need.

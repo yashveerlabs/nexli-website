@@ -1,18 +1,21 @@
 ---
 title: "Social Studies: Building Awareness of History, Geography, and Civics"
-slug: "social-studies-history-geography-civics"
+slug: "103-social-studies-history-geography-civics"
 meta_description: "Teach social studies with engaging methods for history, geography, and civics. Build student awareness of cultural heritage and citizenship."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "social studies history geography civics"
-secondary_keywords: ["history teaching", "geography education", "civics awareness", "social sciences"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "history teaching"
+  - "geography education"
+  - "civics awareness"
+  - "social sciences"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Challenge: Ensuring Comprehensive Academic Excellence
 
 Most Indian schools recognize that a well-rounded education extends far beyond traditional classroom instruction. However, implementing specialized programs in social studies: building awareness of history, geography, and civics requires systematic planning, qualified instructors, proper resources, and clear learning outcomes. Without a structured approach, these programs become ad-hoc or inconsistent, failing to deliver measurable impact on student development.

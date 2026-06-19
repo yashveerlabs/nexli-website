@@ -1,8 +1,8 @@
 ---
 title: "Transport Fee Collection and Concessions"
-slug: transport-fee-collection-and-concessions
+slug: "27-transport-fee-collection-and-concessions"
 meta_description: "Manage school transport fee collection fairly: fee structures, concessions for low-income families, payment plans, delinquency handling, and financial accountability."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school transport fee collection"
 secondary_keywords:
   - "bus fee concessions schools"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Transport Fee Collection and Concessions
 
 Transportation fees need fair collection policies and concessions for low-income families.

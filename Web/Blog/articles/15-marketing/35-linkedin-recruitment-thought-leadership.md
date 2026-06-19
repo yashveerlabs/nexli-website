@@ -1,8 +1,8 @@
 ---
 title: "LinkedIn for School Recruitment and Thought Leadership"
-slug: "linkedin-recruitment-thought-leadership"
+slug: "35-linkedin-recruitment-thought-leadership"
 meta_description: "Use LinkedIn for school staff recruitment and thought leadership. Learn how to build a school LinkedIn presence, attract talent, and establish educational authority."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school LinkedIn strategy"
 secondary_keywords:
   - "school teacher recruitment"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # LinkedIn for School Recruitment and Thought Leadership
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

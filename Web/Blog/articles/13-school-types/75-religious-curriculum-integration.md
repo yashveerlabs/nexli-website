@@ -1,18 +1,20 @@
 ---
 title: "Religious Curriculum Integration"
-slug: "religious-curriculum-integration"
+slug: "75-religious-curriculum-integration"
 meta_description: "How school ERPs support religious curriculum integration for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "religious curriculum integration school ERP"
-secondary_keywords: ["faith-based school management India", "religious education ERP", "madrasah management software", "church school ERP India"]
+secondary_keywords:
+  - "faith-based school management India"
+  - "religious education ERP"
+  - "madrasah management software"
+  - "church school ERP India"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Religious Curriculum Integration
 

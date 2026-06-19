@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Chain of 10 Schools: Cost and ROI"
-slug: "chain-of-10-schools-cost-and-roi"
+slug: "87-chain-of-10-schools-cost-and-roi"
 meta_description: "Chain of 10 Schools: Cost and ROI"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "chain"
-secondary_keywords: ["of", "10", "schools:", "cost"]
+secondary_keywords:
+  - "of"
+  - "10"
+  - "schools:"
+  - "cost"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Chain of 10 Schools: Cost and ROI
 

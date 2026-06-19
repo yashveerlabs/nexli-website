@@ -1,18 +1,20 @@
 ---
 title: "Multi-Board Schools: Regional Variations"
-slug: "multi-board-schools-regional-variations"
+slug: "71-multi-board-schools-regional-variations"
 meta_description: "Multi-board school management: how ERP handles schools running CBSE, ICSE, and state board simultaneously with different compliance calendars and report cards."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "multi-board school ERP regional variations India"
-secondary_keywords: ["multi-board school management ERP", "CBSE ICSE state board school ERP", "school running multiple boards", "mixed board school software India"]
+secondary_keywords:
+  - "multi-board school management ERP"
+  - "CBSE ICSE state board school ERP"
+  - "school running multiple boards"
+  - "mixed board school software India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Multi-Board Schools: Regional Variations
 

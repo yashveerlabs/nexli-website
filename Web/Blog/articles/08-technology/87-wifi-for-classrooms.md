@@ -1,18 +1,21 @@
 ---
 title: "WiFi in Classrooms: Access Points, Device Counts, QoS, and Budget Planning"
-slug: "wifi-for-classrooms"
+slug: "87-wifi-for-classrooms"
 meta_description: "WiFi for school classrooms: access point placement, device density planning, QoS for video, reducing dead zones, and budget-conscious options for Indian schools."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "WiFi for school classrooms"
-secondary_keywords: ["classroom access point placement", "school WiFi density planning", "QoS school network", "school WiFi India budget"]
-intent: "informational"
+secondary_keywords:
+  - "classroom access point placement"
+  - "school WiFi density planning"
+  - "QoS school network"
+  - "school WiFi India budget"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## WiFi in School Classrooms: Getting the Coverage and Capacity Right
 
 Poor classroom WiFi is one of the most common frustrations in technology-equipped schools. The internet connection is fast, the software works on individual devices tested in the IT room, but in the classroom with 35 students all connected simultaneously the experience is slow and unreliable. The reason is almost always under-provisioned WiFi, not the internet circuit itself.

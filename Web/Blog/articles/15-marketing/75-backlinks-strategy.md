@@ -1,8 +1,8 @@
 ---
 title: "Backlinks Strategy: Building Domain Authority for Schools"
-slug: "backlinks-strategy-schools"
+slug: "75-backlinks-strategy"
 meta_description: "Build backlinks to increase your school website's domain authority and Google rankings. Learn guest posting, local link building, and education directory submissions."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school backlinks strategy"
 secondary_keywords:
   - "school domain authority"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Backlinks Strategy: Building Domain Authority for Schools
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

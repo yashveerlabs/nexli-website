@@ -1,20 +1,22 @@
 ---
 title: "Montessori School ERP Requirements: Early Years and Child-Centered Assessment"
-slug: "montessori-school-erp-requirements"
+slug: "04-montessori-school-erp"
 meta_description: "Montessori schools require ERPs designed for developmental observation, play-based learning documentation, and parent communication. Learn how systems must support Montessori philosophy."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "Montessori school ERP"
-secondary_keywords: ["Montessori curriculum tracking", "developmental observation system", "play-based learning documentation", "early years assessment", "Montessori parent communication"]
+secondary_keywords:
+  - "Montessori curriculum tracking"
+  - "developmental observation system"
+  - "play-based learning documentation"
+  - "early years assessment"
+  - "Montessori parent communication"
 intent: "reference"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
-
 ## Overview
 
 **Snippet:** Montessori schools operate on fundamentally different assessment and learning principles than traditional schools. Children learn at their own pace through self-directed exploration and intrinsic motivation, not uniform curriculum pace and grades. An ERP for Montessori environments must support developmental observation (continuous tracking of child progress across multiple domains), play-based learning documentation (capturing evidence of learning through activity), and parent engagement (showing progress narratively, not through marks). Traditional ERPs built for marks-based grading fundamentally misalign with Montessori pedagogy.

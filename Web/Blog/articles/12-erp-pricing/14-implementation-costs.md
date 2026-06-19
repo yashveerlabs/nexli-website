@@ -1,20 +1,20 @@
 ---
 title: "Implementation Costs Beyond Software License: What to Budget"
-slug: "implementation-costs-beyond-software"
+slug: "14-implementation-costs"
 meta_description: "School ERP implementation costs explained. Setup, configuration, customization, testing, go-live support. Budget ₹1.5-5 lakhs for typical school."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "implementation costs school ERP"
-secondary_keywords: ["ERP setup cost", "system implementation school", "go-live support cost"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "ERP setup cost"
+  - "system implementation school"
+  - "go-live support cost"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 **Snippet:** School ERP implementation (setup, configuration, testing, go-live) costs ₹1,50,000-₹5,00,000 depending on school size and complexity. Small schools budget ₹1,50,000-₹2,50,000; large schools budget ₹5,00,000+. Implementation is often the largest cost component after software license.
 
 ## Why Implementation Costs So Much

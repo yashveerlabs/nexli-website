@@ -2,7 +2,7 @@
 title: "Vocational Integration in Schools: NEP 2020 Compliance"
 slug: "vocational-integration-schools-nep-2020"
 meta_description: "Implement vocational skill integration in schools to meet NEP 2020 requirements and enhance career readiness."
-category: "03"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "vocational education, NEP 2020, skill training"
 secondary_keywords:
   - "career pathways"
@@ -12,9 +12,11 @@ secondary_keywords:
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
+branding_block_founder: 11
+branding_block_company: 11
+branding_block_nexli: 11
 branding_block: 20
 ---
-
 # Vocational Integration in Schools: NEP 2020 Compliance
 
 ## Problem

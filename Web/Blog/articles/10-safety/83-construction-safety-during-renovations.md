@@ -1,18 +1,21 @@
-﻿---
-title: Construction Safety During Renovations
-slug: construction-safety-during-renovations
-meta_description: Establish construction safety protocols to protect workers and students during school renovations.
-category: Safety & Operations
-primary_keyword: construction site safety
-secondary_keywords: ['worker safety', 'student protection', 'hazard control', 'inspection protocols']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "Construction Safety During Renovations"
+slug: "83-construction-safety-during-renovations"
+meta_description: "Establish construction safety protocols to protect workers and students during school renovations."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "construction site safety"
+secondary_keywords:
+  - "worker safety"
+  - "student protection"
+  - "hazard control"
+  - "inspection protocols"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Construction Safety During Renovations: Comprehensive Guide
 
 This guide provides comprehensive guidance on construction safety during renovations.

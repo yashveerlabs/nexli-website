@@ -1,18 +1,21 @@
 ---
 title: "AI Attendance Prediction: What Schools Can Do Today vs. What Is Coming"
-slug: "ai-attendance-prediction"
+slug: "79-ai-attendance-prediction"
 meta_description: "Accurate attendance tracking and 75% threshold alerts exist now. AI-based attendance prediction that forecasts risk before it happens is in development. Here's the distinction."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "AI attendance prediction schools"
-secondary_keywords: ["attendance tracking school ERP", "75 percent attendance alert", "student attendance analytics", "dropout risk prediction"]
-intent: "informational"
+secondary_keywords:
+  - "attendance tracking school ERP"
+  - "75 percent attendance alert"
+  - "student attendance analytics"
+  - "dropout risk prediction"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## AI Attendance Prediction: What Exists Today and What Is Still Being Built
 
 Attendance prediction is one of the more discussed AI applications in education. The idea is straightforward: instead of waiting until a student has already missed enough school to breach the 75% threshold, could an algorithm predict that trajectory weeks in advance and trigger an intervention earlier?

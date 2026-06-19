@@ -1,18 +1,21 @@
-﻿---
+---
 title: "How to Prepare Financial Reports for the Board"
-slug: "prepare-financial-reports-board"
+slug: "65-prepare-financial-reports-board"
 meta_description: "Learn about how to prepare financial reports for the board in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "how to prepare financial reports for the board"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with how to prepare financial reports for the board:

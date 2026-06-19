@@ -1,18 +1,20 @@
 ---
 title: "Megacity Infrastructure"
-slug: "megacity-infrastructure"
+slug: "58-megacity-infrastructure"
 meta_description: "Megacity school infrastructure challenges: managing schools in Mumbai, Delhi, Kolkata, and Chennai with urban density, transport, compliance, and multi-campus ERP."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "megacity school infrastructure ERP India"
-secondary_keywords: ["megacity school management ERP", "school ERP Mumbai Delhi Kolkata", "urban school infrastructure India", "large city school management"]
+secondary_keywords:
+  - "megacity school management ERP"
+  - "school ERP Mumbai Delhi Kolkata"
+  - "urban school infrastructure India"
+  - "large city school management"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Megacity Infrastructure
 

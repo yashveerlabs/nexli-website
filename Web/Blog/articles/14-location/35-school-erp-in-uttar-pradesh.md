@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Uttar Pradesh"
-slug: "school-erp-in-uttar-pradesh"
+slug: "35-school-erp-in-uttar-pradesh"
 meta_description: "School ERP in Uttar Pradesh: cloud-based school management for UPMSP, CBSE, and ICSE schools across UP with state board compliance and fee management."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Uttar Pradesh"
-secondary_keywords: ["school management system UP", "Uttar Pradesh school software", "UPMSP school ERP", "school ERP Lucknow Kanpur Agra"]
+secondary_keywords:
+  - "school management system UP"
+  - "Uttar Pradesh school software"
+  - "UPMSP school ERP"
+  - "school ERP Lucknow Kanpur Agra"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## School ERP in Uttar Pradesh
 

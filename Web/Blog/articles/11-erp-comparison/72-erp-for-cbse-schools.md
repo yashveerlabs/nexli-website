@@ -1,8 +1,8 @@
 ---
 title: "ERP for CBSE Schools: Board-Specific Requirements and Features"
-slug: "erp-for-cbse-schools"
+slug: "72-erp-for-cbse-schools"
 meta_description: "School ERP for CBSE schools: List of Candidates (LOC) export, 9-point grading, NEP 2020 HPC, affiliation compliance, and what CBSE schools must verify in ERP selection."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "ERP for CBSE schools India"
 secondary_keywords:
   - "CBSE school management software"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "CBSE school ERP India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## ERP for CBSE Schools: Board-Specific Requirements and Features
 
 **CBSE is India's most common school board by affiliation count and student enrollment. CBSE schools have specific compliance requirements that a school ERP must support, List of Candidates submission, 9-point grading scale, NEP 2020 Holistic Progress Card, and affiliation-related reporting. This guide covers what CBSE schools must verify in ERP evaluation.**

@@ -1,22 +1,21 @@
 ---
-title: The ROI of Better Immunization Record Template
-slug: the-roi-of-better-immunization-record-template
-meta_description: The ROI of Better Immunization Record Template
-category: SOPs & Templates
-primary_keyword: immunization record template
+title: "The ROI of Better Immunization Record Template"
+slug: "029-the-roi-of-better-immunization-record-template"
+meta_description: "The ROI of Better Immunization Record Template"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "immunization record template"
 secondary_keywords:
-  - immunization record template schools
-  - best practices immunization record template
-  - immunization record template strategy
-  - how to implement immunization record template
-intent: informational
+  - "immunization record template schools"
+  - "best practices immunization record template"
+  - "immunization record template strategy"
+  - "how to implement immunization record template"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on immunization record template for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

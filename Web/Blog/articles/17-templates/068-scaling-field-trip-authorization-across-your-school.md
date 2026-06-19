@@ -1,22 +1,21 @@
 ---
-title: Scaling Field Trip Authorization Across Your School
-slug: scaling-field-trip-authorization-across-your-school
-meta_description: Scaling Field Trip Authorization Across Your School
-category: SOPs & Templates
-primary_keyword: field trip authorization
+title: "Scaling Field Trip Authorization Across Your School"
+slug: "068-scaling-field-trip-authorization-across-your-school"
+meta_description: "Scaling Field Trip Authorization Across Your School"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "field trip authorization"
 secondary_keywords:
-  - field trip authorization schools
-  - best practices field trip authorization
-  - field trip authorization strategy
-  - how to implement field trip authorization
-intent: informational
+  - "field trip authorization schools"
+  - "best practices field trip authorization"
+  - "field trip authorization strategy"
+  - "how to implement field trip authorization"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on field trip authorization for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

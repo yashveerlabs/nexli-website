@@ -1,8 +1,8 @@
 ---
 title: "Report Card Generation: What Your School ERP Should Do"
-slug: "report-card-generation-erp-capabilities"
+slug: "14-report-card-generation-erp-capabilities"
 meta_description: "Evaluate school ERP report card features: CBSE 9-point format, automatic grade calculation, co-scholastic fields, rankings, NEP 2020 HPC, and print-ready PDF."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP report card generation"
 secondary_keywords:
   - "CBSE report card ERP"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "report card auto-generation school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 ## Report Card Generation: What Your School ERP Should Do
 
 **Report card generation is one of the highest-stakes functions in a school ERP. Every error in a published report card damages trust with parents, students, and the board. A good ERP auto-populates report cards from marks already in the system, requires only teacher review, and produces print-ready PDFs. This guide explains what to evaluate.**

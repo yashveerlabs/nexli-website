@@ -1,18 +1,20 @@
 ---
 title: "School ERP for Tier 3 Towns"
-slug: "school-erp-for-tier-3-towns"
+slug: "43-school-erp-for-tier-3-towns"
 meta_description: "School ERP for Tier 3 towns: cloud-based school management for semi-urban and small-city schools with offline capability, simple workflows, and affordable pricing."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Tier 3 towns India"
-secondary_keywords: ["school management Tier 3 towns", "affordable school ERP small towns", "school ERP semi-urban India", "simple school software towns"]
+secondary_keywords:
+  - "school management Tier 3 towns"
+  - "affordable school ERP small towns"
+  - "school ERP semi-urban India"
+  - "simple school software towns"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## School ERP for Tier 3 Towns
 

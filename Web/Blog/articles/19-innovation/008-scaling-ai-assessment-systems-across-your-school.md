@@ -1,22 +1,21 @@
-﻿---
-title: Scaling Ai Assessment Systems Across Your School
-slug: scaling-ai-assessment-systems-across-your-school
-meta_description: Scaling Ai Assessment Systems Across Your School
-category: Innovation & AI
-primary_keyword: AI assessment systems
+---
+title: "Scaling Ai Assessment Systems Across Your School"
+slug: "008-scaling-ai-assessment-systems-across-your-school"
+meta_description: "Scaling Ai Assessment Systems Across Your School"
+category: "Education Innovation, AI & Future"
+primary_keyword: "AI assessment systems"
 secondary_keywords:
-  - AI assessment systems schools
-  - best practices AI assessment systems
-  - AI assessment systems strategy
-  - how to implement AI assessment systems
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "AI assessment systems schools"
+  - "best practices AI assessment systems"
+  - "AI assessment systems strategy"
+  - "how to implement AI assessment systems"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on ai assessment systems for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

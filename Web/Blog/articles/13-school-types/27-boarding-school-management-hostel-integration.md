@@ -1,18 +1,20 @@
 ---
 title: "Boarding School Management: Hostel Integration"
-slug: "boarding-school-management-hostel-integration"
+slug: "27-boarding-school-management-hostel-integration"
 meta_description: "How school ERPs support boarding school management: hostel integration for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "boarding school hostel management ERP"
-secondary_keywords: ["hostel management software India", "boarding school ERP integration", "residential school management", "hostel attendance tracking"]
+secondary_keywords:
+  - "hostel management software India"
+  - "boarding school ERP integration"
+  - "residential school management"
+  - "hostel attendance tracking"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Boarding School Management: Hostel Integration
 

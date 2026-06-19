@@ -1,22 +1,21 @@
 ---
-title: Digital Homework Submission: Building a Paperless System
-slug: digital-homework-submission-paperless
-meta_description: Implement digital homework submission to reduce paper, track completion automatically, and provide timely feedback. Learn platform setup and best practices.
-category: Academic Management & Teaching Excellence
-primary_keyword: digital homework submission
+title: "Digital Homework Submission: Building a Paperless System"
+slug: "120-digital-homework-submission"
+meta_description: "Implement digital homework submission to reduce paper, track completion automatically, and provide timely feedback. Learn platform setup and best practices."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "digital homework submission"
 secondary_keywords:
-  - paperless classroom
-  - homework tracking system
-  - online assignment platform
-  - student engagement tools
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "paperless classroom"
+  - "homework tracking system"
+  - "online assignment platform"
+  - "student engagement tools"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 Digital homework submission increases completion rates by 25% and reduces grading time by 30%. Schools with paperless homework systems report better tracking, faster feedback, and improved student accountability.

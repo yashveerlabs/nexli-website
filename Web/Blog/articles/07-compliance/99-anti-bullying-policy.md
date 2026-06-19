@@ -1,18 +1,21 @@
 ---
 title: "Anti-Bullying Policy for Schools: Requirements and Implementation"
-slug: "anti-bullying-policy-schools"
+slug: "99-anti-bullying-policy"
 meta_description: "Create an effective anti-bullying policy for your school. Covers definition of bullying, cyberbullying, reporting procedures, investigation, consequences, and CBSE requirements."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "anti-bullying policy schools India"
-secondary_keywords: ["school bullying prevention policy", "cyberbullying school policy", "CBSE anti-bullying", "school bullying complaint procedure"]
-intent: "informational"
+secondary_keywords:
+  - "school bullying prevention policy"
+  - "cyberbullying school policy"
+  - "CBSE anti-bullying"
+  - "school bullying complaint procedure"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 11
 branding_block_company: 11
 branding_block_nexli: 11
 ---
-
 Bullying is a serious welfare issue that causes lasting harm to students. CBSE has issued circulars requiring affiliated schools to have anti-bullying policies and mechanisms in place. Schools that ignore bullying or handle it inconsistently face parental complaints, student welfare failures, and regulatory scrutiny.
 
 An effective anti-bullying policy prevents bullying where possible, addresses it when it occurs, and protects both the victim and other students.

@@ -1,22 +1,21 @@
 ---
-title: Scaling Vendor Management Success Across Your School
-slug: scaling-vendor-management-success-across-your-school
-meta_description: Scaling Vendor Management Success Across Your School
-category: Success Stories & Cases
-primary_keyword: vendor management success
+title: "Scaling Vendor Management Success Across Your School"
+slug: "048-scaling-vendor-management-success-across-your-school"
+meta_description: "Scaling Vendor Management Success Across Your School"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "vendor management success"
 secondary_keywords:
-  - vendor management success schools
-  - best practices vendor management success
-  - vendor management success strategy
-  - how to implement vendor management success
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "vendor management success schools"
+  - "best practices vendor management success"
+  - "vendor management success strategy"
+  - "how to implement vendor management success"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on vendor management success for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

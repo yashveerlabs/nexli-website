@@ -1,8 +1,8 @@
 ---
 title: "School Admissions and ERP: How Digital Processes Improve Enrollment Management"
-slug: "admissions-growth-after-erp-implementation"
+slug: "42-admissions-growth-after-erp-implementation"
 meta_description: "How school ERP improves admissions management: inquiry tracking, application workflow, document collection, seat allocation, and parent experience during enrollment."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP admissions management"
 secondary_keywords:
   - "school admissions software India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP inquiry tracking"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## School Admissions and ERP: How Digital Processes Improve Enrollment Management
 
 **Admissions season in Indian schools is intense. Hundreds of inquiries arrive in a short window. Documents need to be collected and verified. Seats need to be allocated. Waitlists need to be managed. Parents need updates. Without a systematic approach, inquiries fall through, documents are lost, and good candidates end up at competing schools. An ERP with a proper admissions pipeline changes this from a reactive scramble to a managed process.**

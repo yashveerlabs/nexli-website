@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in School Safety Incident Data (And How to Fix Them)
-slug: common-mistakes-in-school-safety-incident-data-and-how-to-fix-them
-meta_description: Common Mistakes in School Safety Incident Data (And How t...
-category: Research & Statistics
-primary_keyword: school safety incident data
+title: "Common Mistakes in School Safety Incident Data (And How to Fix Them)"
+slug: "050-common-mistakes-in-school-safety-incident-data-and-how-to-fix-them"
+meta_description: "Common Mistakes in School Safety Incident Data (And How t..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "school safety incident data"
 secondary_keywords:
-  - school safety incident data schools
-  - best practices school safety incident data
-  - school safety incident data strategy
-  - how to implement school safety incident data
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "school safety incident data schools"
+  - "best practices school safety incident data"
+  - "school safety incident data strategy"
+  - "how to implement school safety incident data"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on school safety incident data for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

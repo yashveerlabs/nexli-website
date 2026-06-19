@@ -1,22 +1,21 @@
 ---
-title: Scaling Fee Collection Process Across Your School
-slug: scaling-fee-collection-process-across-your-school
-meta_description: Scaling Fee Collection Process Across Your School
-category: SOPs & Templates
-primary_keyword: fee collection process
+title: "Scaling Fee Collection Process Across Your School"
+slug: "098-scaling-fee-collection-process-across-your-school"
+meta_description: "Scaling Fee Collection Process Across Your School"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "fee collection process"
 secondary_keywords:
-  - fee collection process schools
-  - best practices fee collection process
-  - fee collection process strategy
-  - how to implement fee collection process
-intent: informational
+  - "fee collection process schools"
+  - "best practices fee collection process"
+  - "fee collection process strategy"
+  - "how to implement fee collection process"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on fee collection process for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

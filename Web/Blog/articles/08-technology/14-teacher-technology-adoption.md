@@ -1,18 +1,21 @@
 ---
 title: "Teacher Technology Adoption: Why Teachers Resist ERP and How to Win Them Over"
-slug: "teacher-technology-adoption"
+slug: "14-teacher-technology-adoption"
 meta_description: "Why Indian school teachers resist ERP adoption and how to win them over. Understand fear of judgment, extra work concerns, and proven strategies to drive technology adoption."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "teacher technology adoption ERP"
-secondary_keywords: ["teacher resistance ERP", "teachers ERP training India", "school technology adoption", "teacher digital skills schools"]
-intent: "informational"
+secondary_keywords:
+  - "teacher resistance ERP"
+  - "teachers ERP training India"
+  - "school technology adoption"
+  - "teacher digital skills schools"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Why Do Teachers Resist ERP Systems, and What Actually Works?
 
 Teachers resist ERP adoption most often because of three specific concerns: it feels like extra work on top of an already full day, they are afraid of making visible mistakes, and they distrust that the system will actually save time rather than just moving the paper burden to a screen burden. The strategies that work are: showing concrete time savings before mandating use, starting with the simplest task first, using peer champions instead of top-down mandates, and guaranteeing that mistakes are easy to fix.

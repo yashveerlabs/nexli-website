@@ -1,8 +1,8 @@
 ---
 title: "Decision-Making Framework for Principals: Decide Faster, Doubt Less"
-slug: "decision-making-framework-principals"
+slug: "22-decision-making-framework-principals"
 meta_description: "Master a proven decision-making framework as a principal. Make faster, better decisions with less second-guessing and more confidence."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "principal decision-making framework"
 secondary_keywords:
   - "how to make decisions"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Decision-Making Framework for Principals: Decide Faster, Doubt Less
 
 **Principals make dozens of decisions daily: hire or reject? Approve or deny? Change or maintain? Most principals rely on gut feel, which is inconsistent and leads to doubt. This article provides a simple framework to structure decisions, reduce second-guessing, and build a reputation for sound judgment.**

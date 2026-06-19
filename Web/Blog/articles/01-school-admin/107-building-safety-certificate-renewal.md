@@ -1,22 +1,21 @@
 ---
-title: Building Safety Certificate Renewal: Timeline and Procedures
-slug: building-safety-certificate-renewal-timeline
-meta_description: Step-by-step guide to school building safety certificate renewal, including inspection timeline, documentation requirements, and regulatory compliance.
-category: School Administration & Operations
-primary_keyword: building safety certificate renewal
+title: "Building Safety Certificate Renewal: Timeline and Procedures"
+slug: "107-building-safety-certificate-renewal"
+meta_description: "Step-by-step guide to school building safety certificate renewal, including inspection timeline, documentation requirements, and regulatory compliance."
+category: "School Administration & Operations"
+primary_keyword: "building safety certificate renewal"
 secondary_keywords:
-  - school building compliance
-  - safety inspection procedures
-  - structural safety certification
-  - school infrastructure renewal
-intent: reference
-author: Yashveer Labs
-date: 2026-06-19
+  - "school building compliance"
+  - "safety inspection procedures"
+  - "structural safety certification"
+  - "school infrastructure renewal"
+intent: "reference"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 Building safety certificate renewal is a mandatory compliance step for every school, required every 1-5 years depending on building age and local regulations. Schools that track renewal deadlines systematically and prepare documentation in advance report zero compliance delays. This article outlines the renewal timeline, inspection process, and documentation requirements so your school stays continuously compliant.

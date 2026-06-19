@@ -1,19 +1,22 @@
 ---
 title: "Principal's Role in Fee Collection"
-slug: principals-role-in-fee-collection
-category: 9
-order: 37
-primary_keyword: "principal's role in fee collection"
+slug: "37-principals-role-in-fee-collection"
 meta_description: "How school principals can lead effective fee collection, balancing financial sustainability with family inclusion through clear processes, payment options, and empathetic communication."
-secondary_keywords: ["school fee collection", "school fee management", "principal fee strategy", "fee recovery school"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "principal's role in fee collection"
+secondary_keywords:
+  - "school fee collection"
+  - "school fee management"
+  - "principal fee strategy"
+  - "fee recovery school"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 17
 branding_block_company: 17
 branding_block_nexli: 17
+order: 37
 ---
-
 # Principal's Role in Fee Collection
 
 Fee collection is critical for school cash flow. As principal, you're ultimately responsible for successful collection, though operations staff may manage day-to-day.

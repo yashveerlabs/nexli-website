@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Extra Classes and Tuition: When and How to Recommend"
-slug: "extra-classes-tuition-recommend"
+slug: "54-extra-classes-tuition-recommend"
 meta_description: "Learn about extra classes and tuition: when and how to recommend in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "extra classes and tuition: when and how to recommend"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with extra classes and tuition: when and how to recommend:

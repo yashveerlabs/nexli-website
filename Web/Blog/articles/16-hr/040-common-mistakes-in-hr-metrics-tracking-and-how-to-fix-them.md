@@ -1,22 +1,21 @@
-﻿---
-title: Common Mistakes in Hr Metrics Tracking (And How to Fix Them)
-slug: common-mistakes-in-hr-metrics-tracking-and-how-to-fix-them
-meta_description: Common Mistakes in Hr Metrics Tracking (And How to Fix Them)
-category: HR & Recruitment
-primary_keyword: HR metrics tracking
+---
+title: "Common Mistakes in Hr Metrics Tracking (And How to Fix Them)"
+slug: "040-common-mistakes-in-hr-metrics-tracking-and-how-to-fix-them"
+meta_description: "Common Mistakes in Hr Metrics Tracking (And How to Fix Them)"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "HR metrics tracking"
 secondary_keywords:
-  - HR metrics tracking schools
-  - best practices HR metrics tracking
-  - HR metrics tracking strategy
-  - how to implement HR metrics tracking
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "HR metrics tracking schools"
+  - "best practices HR metrics tracking"
+  - "HR metrics tracking strategy"
+  - "how to implement HR metrics tracking"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on hr metrics tracking for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

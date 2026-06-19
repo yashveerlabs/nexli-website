@@ -1,8 +1,8 @@
 ---
 title: "GPS Tracking for School Transport"
-slug: gps-tracking-for-school-transport
+slug: "22-gps-tracking-for-school-transport"
 meta_description: "Implement GPS tracking for school buses: real-time location monitoring, parent alerts, route optimization, and driver accountability for safer student transport."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "GPS tracking school transport"
 secondary_keywords:
   - "school bus tracking system"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # GPS Tracking for School Transport
 
 GPS tracking improves safety, efficiency, and accountability. Modern technology enhances transportation management.

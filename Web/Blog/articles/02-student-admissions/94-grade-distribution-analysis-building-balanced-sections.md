@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Grade Distribution Analysis: Building Balanced Sections"
-slug: grade-distribution-analysis-building-balanced-sections
-meta_description: grade distribution analysis: building balanced sections. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: grade distribution analysis
+slug: "94-grade-distribution-analysis-building-balanced-sections"
+meta_description: "grade distribution analysis: building balanced sections. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "grade distribution analysis"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: research
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "research"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article explores best practices for grade distribution analysis in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

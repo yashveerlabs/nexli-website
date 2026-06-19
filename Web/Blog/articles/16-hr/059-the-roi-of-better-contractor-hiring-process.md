@@ -1,22 +1,21 @@
-﻿---
-title: The ROI of Better Contractor Hiring Process
-slug: the-roi-of-better-contractor-hiring-process
-meta_description: The ROI of Better Contractor Hiring Process
-category: HR & Recruitment
-primary_keyword: contractor hiring process
+---
+title: "The ROI of Better Contractor Hiring Process"
+slug: "059-the-roi-of-better-contractor-hiring-process"
+meta_description: "The ROI of Better Contractor Hiring Process"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "contractor hiring process"
 secondary_keywords:
-  - contractor hiring process schools
-  - best practices contractor hiring process
-  - contractor hiring process strategy
-  - how to implement contractor hiring process
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "contractor hiring process schools"
+  - "best practices contractor hiring process"
+  - "contractor hiring process strategy"
+  - "how to implement contractor hiring process"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on contractor hiring process for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

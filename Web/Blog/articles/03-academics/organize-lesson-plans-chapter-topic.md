@@ -2,7 +2,7 @@
 title: "How Teachers Can Organize Lesson Plans by Chapter and Topic"
 slug: "organize-lesson-plans-chapter-topic"
 meta_description: "Organize lesson plans systematically by chapter and topic for easy access and curriculum coverage tracking."
-category: "03"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "lesson organization, curriculum coverage, teaching materials"
 secondary_keywords:
   - "planning system"
@@ -12,9 +12,11 @@ secondary_keywords:
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
+branding_block_founder: 10
+branding_block_company: 10
+branding_block_nexli: 10
 branding_block: 20
 ---
-
 # How Teachers Can Organize Lesson Plans by Chapter and Topic
 
 ## Problem

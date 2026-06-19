@@ -1,18 +1,21 @@
 ---
 title: "Technology Resistance Management in Schools: Diagnosing and Responding"
-slug: "technology-resistance-management"
+slug: "17-technology-resistance-management"
 meta_description: "How to diagnose technology resistance in school staff. Identify if resistance is fear-based, training gaps, or genuine usability problems, then apply targeted responses."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "technology resistance schools"
-secondary_keywords: ["ERP resistance staff schools India", "managing technology change schools", "overcoming ERP resistance", "digital adoption resistance schools"]
-intent: "informational"
+secondary_keywords:
+  - "ERP resistance staff schools India"
+  - "managing technology change schools"
+  - "overcoming ERP resistance"
+  - "digital adoption resistance schools"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## How Do You Diagnose and Manage Technology Resistance in School Staff?
 
 Technology resistance in school staff takes three distinct forms: fear-based resistance (afraid of making mistakes or being judged), training-gap resistance (genuinely doesn't know how to use the system), and usability resistance (the system is genuinely hard to use). Each type requires a different response. Applying the same intervention to all three wastes time and erodes trust. Diagnose the specific cause before designing a response.

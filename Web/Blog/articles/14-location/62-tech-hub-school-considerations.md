@@ -1,18 +1,20 @@
 ---
 title: "Tech Hub School Considerations"
-slug: "tech-hub-school-considerations"
+slug: "62-tech-hub-school-considerations"
 meta_description: "School ERP for tech hub cities: managing schools in Bangalore, Hyderabad, and Pune tech corridors where families expect digital transparency and mobile access."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP tech hub cities India"
-secondary_keywords: ["tech city school ERP", "school management Bangalore Hyderabad Pune tech hub", "digital school operations tech cities", "school software IT corridors India"]
+secondary_keywords:
+  - "tech city school ERP"
+  - "school management Bangalore Hyderabad Pune tech hub"
+  - "digital school operations tech cities"
+  - "school software IT corridors India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Tech Hub School Considerations
 

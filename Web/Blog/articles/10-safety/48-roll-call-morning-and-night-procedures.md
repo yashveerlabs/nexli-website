@@ -1,18 +1,21 @@
 ---
-title: Roll Call - Morning and Night Procedures
-slug: roll-call-morning-and-night-procedures
-meta_description: Implement systematic roll call procedures for hostel morning and night to ensure student safety and accountability.
-category: Safety & Operations
-primary_keyword: hostel roll call procedures
-secondary_keywords: ["attendance checking", "night supervision", "safety audit", "accountability system"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+title: "Roll Call - Morning and Night Procedures"
+slug: "48-roll-call-morning-and-night-procedures"
+meta_description: "Implement systematic roll call procedures for hostel morning and night to ensure student safety and accountability."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "hostel roll call procedures"
+secondary_keywords:
+  - "attendance checking"
+  - "night supervision"
+  - "safety audit"
+  - "accountability system"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Roll Call - Morning and Night Procedures: Safety Through Accountability
 
 Every student in hostel must be accounted for twice daily, morning and night. Systematic roll call is not bureaucracy; it's a safety net. Students who slip out for unauthorized activities, run away, or encounter trouble are caught through meticulous attendance checking. This guide establishes systematic roll call protocols.

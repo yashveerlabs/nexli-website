@@ -1,22 +1,21 @@
 ---
-title: School Strategic Planning
-slug: school-strategic-planning
-meta_description: Develop 3-5 year strategic plans that guide administrative and academic priorities.
-category: School Administration & Operations
-primary_keyword: school strategic planning
+title: "School Strategic Planning"
+slug: "75-school-strategic-planning"
+meta_description: "Develop 3-5 year strategic plans that guide administrative and academic priorities."
+category: "School Administration & Operations"
+primary_keyword: "school strategic planning"
 secondary_keywords:
-  - School Strategic Planning
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "School Strategic Planning"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 School strategic planning is the process of setting 3-5 year goals across academics, infrastructure, staffing, finance, and community engagement, then translating those goals into annual priorities with measurable targets. Schools with a maintained strategic plan make more consistent decisions, secure better board alignment, and build a culture of intentional progress rather than constant reaction. This article covers the key challenges, practical solutions, and a framework for effective school strategic planning.
 
 ---

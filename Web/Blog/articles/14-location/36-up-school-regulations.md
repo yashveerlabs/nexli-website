@@ -1,18 +1,20 @@
 ---
 title: "UP School Regulations"
-slug: "up-school-regulations"
+slug: "36-up-school-regulations"
 meta_description: "UP school regulations and ERP compliance: UPMSP requirements, CBSE affiliate norms, RTE tracking, Madrasah board rules, and state education compliance."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "UP school regulations ERP compliance"
-secondary_keywords: ["Uttar Pradesh school compliance", "UPMSP school ERP", "school regulation compliance UP", "UP CBSE school requirements"]
+secondary_keywords:
+  - "Uttar Pradesh school compliance"
+  - "UPMSP school ERP"
+  - "school regulation compliance UP"
+  - "UP CBSE school requirements"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## UP School Regulations
 

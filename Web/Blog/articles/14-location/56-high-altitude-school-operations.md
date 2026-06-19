@@ -1,18 +1,20 @@
 ---
 title: "High-Altitude School Operations"
-slug: "high-altitude-school-operations"
+slug: "56-high-altitude-school-operations"
 meta_description: "High-altitude school operations: managing boarding schools in Himachal Pradesh, Uttarakhand, and Ladakh with cloud ERP, hostel management, and offline capability."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "high-altitude school operations ERP India"
-secondary_keywords: ["high altitude school ERP", "Himachal Pradesh Uttarakhand school management", "boarding school ERP mountains India", "remote school management India"]
+secondary_keywords:
+  - "high altitude school ERP"
+  - "Himachal Pradesh Uttarakhand school management"
+  - "boarding school ERP mountains India"
+  - "remote school management India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## High-Altitude School Operations
 

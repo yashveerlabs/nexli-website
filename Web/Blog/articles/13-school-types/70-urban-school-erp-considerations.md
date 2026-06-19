@@ -1,18 +1,20 @@
 ---
 title: "Urban School ERP Considerations"
-slug: "urban-school-erp-considerations"
+slug: "70-urban-school-erp-considerations"
 meta_description: "How school ERPs support urban school erp considerations for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "urban school ERP considerations"
-secondary_keywords: ["city school management software India", "urban private school ERP", "metropolitan school management system", "urban school technology India"]
+secondary_keywords:
+  - "city school management software India"
+  - "urban private school ERP"
+  - "metropolitan school management system"
+  - "urban school technology India"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Urban School ERP Considerations
 

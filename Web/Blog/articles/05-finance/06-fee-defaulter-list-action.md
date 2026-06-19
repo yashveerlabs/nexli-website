@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Fee Defaulter List: Creating and Acting On It"
-slug: "fee-defaulter-list-creating-acting"
+slug: "06-fee-defaulter-list-action"
 meta_description: "Create and manage a fee defaulter list. Process for identifying, tracking, and collecting from defaulting parents."
-category: "School Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "fee defaulter list management collection"
-secondary_keywords: ["defaulter tracking", "fee recovery", "delinquent accounts"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "defaulter tracking"
+  - "fee recovery"
+  - "delinquent accounts"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Generating the Defaulter List
 
 **Frequency:**

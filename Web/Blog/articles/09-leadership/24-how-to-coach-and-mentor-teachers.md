@@ -1,19 +1,22 @@
 ---
 title: "How to Coach and Mentor Teachers"
-slug: how-to-coach-and-mentor-teachers
-category: 9
-order: 24
-primary_keyword: "how to coach and mentor teachers"
+slug: "24-how-to-coach-and-mentor-teachers"
 meta_description: "A guide for school principals on coaching and mentoring teachers, covering the full coaching process, effective techniques, mentoring program structure, and how to make coaching a school-wide culture."
-secondary_keywords: ["teacher coaching in schools", "instructional coaching", "teacher mentoring program", "principal teacher development"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to coach and mentor teachers"
+secondary_keywords:
+  - "teacher coaching in schools"
+  - "instructional coaching"
+  - "teacher mentoring program"
+  - "principal teacher development"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
+order: 24
 ---
-
 # How to Coach and Mentor Teachers
 
 Coaching and mentoring are your most powerful tools for improving teaching and supporting teacher growth. They're also among the highest-impact uses of your time.

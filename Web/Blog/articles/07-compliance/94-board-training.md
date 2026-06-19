@@ -1,18 +1,21 @@
 ---
 title: "School Board Training: What Trustees Must Know to Govern Effectively"
-slug: "school-board-training-trustees"
+slug: "94-board-training"
 meta_description: "Design effective board training for school trustees. Covers fiduciary duties, financial literacy, compliance obligations, child safeguarding, and strategic governance."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "school board training trustees"
-secondary_keywords: ["trustee training school India", "school governance training", "board orientation school", "managing committee training school"]
-intent: "informational"
+secondary_keywords:
+  - "trustee training school India"
+  - "school governance training"
+  - "board orientation school"
+  - "managing committee training school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 Many school board members, even experienced professionals, are not familiar with the specific legal, financial, and operational context of governing a school. A trustee who is a successful business person brings valuable experience but may not know trust law, CBSE affiliation conditions, or child protection obligations. Board training bridges this gap.
 
 Board training is not just for new members. Regulations change, and even experienced board members benefit from updates and refreshers.

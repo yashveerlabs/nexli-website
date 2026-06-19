@@ -1,19 +1,22 @@
 ---
 title: "How Principals Make Tough Decisions"
-slug: how-principals-make-tough-decisions
-category: 9
-order: 3
-primary_keyword: "how principals make tough decisions"
+slug: "03-how-principals-make-tough-decisions"
 meta_description: "A structured framework for school principals to make tough decisions with clarity, confidence, and values-alignment across staff, budget, and discipline matters."
-secondary_keywords: ["school principal decision-making", "tough decisions in schools", "principal leadership framework", "school leadership decisions"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how principals make tough decisions"
+secondary_keywords:
+  - "school principal decision-making"
+  - "tough decisions in schools"
+  - "principal leadership framework"
+  - "school leadership decisions"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
+order: 3
 ---
-
 # How Principals Make Tough Decisions
 
 Principals face decisions that impact hundreds of people, students, staff, and families. Learning to make tough decisions with clarity and confidence is essential to effective school leadership.

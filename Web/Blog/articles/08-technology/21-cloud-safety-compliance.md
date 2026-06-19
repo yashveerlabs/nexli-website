@@ -1,18 +1,21 @@
 ---
 title: "Cloud Safety and Compliance for Indian Schools: What You Need to Know"
-slug: "cloud-safety-compliance"
+slug: "21-cloud-safety-compliance"
 meta_description: "Cloud compliance for Indian schools: DPDP Act data requirements, data residency in India, vendor certifications, and contractual obligations every school must verify."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "cloud compliance Indian schools"
-secondary_keywords: ["school cloud DPDP compliance", "data residency schools India", "cloud ERP safety schools", "school software compliance India"]
-intent: "informational"
+secondary_keywords:
+  - "school cloud DPDP compliance"
+  - "data residency schools India"
+  - "cloud ERP safety schools"
+  - "school software compliance India"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## What Compliance Requirements Apply When Indian Schools Use Cloud Software?
 
 When Indian schools use cloud software that processes student and staff personal data, the primary compliance requirement is India's Digital Personal Data Protection Act 2023 (DPDP Act). Schools must verify: lawful basis for processing personal data, parental consent for processing children's data, data residency in India for sensitive data, contractual data processing obligations with the vendor, and breach notification procedures. A school that uses a cloud ERP without verifying these requirements is taking on compliance risk that can result in regulatory action under the DPDP Act.

@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Comparing ROI Across Different School Types"
-slug: "comparing-roi-across-different-school-types"
+slug: "39-comparing-roi-across-different-school-types"
 meta_description: "Comparing ROI Across Different School Types"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "comparing"
-secondary_keywords: ["roi", "across", "different", "school"]
+secondary_keywords:
+  - "roi"
+  - "across"
+  - "different"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Comparing ROI Across Different School Types
 

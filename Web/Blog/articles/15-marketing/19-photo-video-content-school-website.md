@@ -1,8 +1,8 @@
 ---
 title: "Photo and Video Content for School Website: Best Practices"
-slug: "photo-video-content-school-website"
+slug: "19-photo-video-content-school-website"
 meta_description: "Create compelling photo and video content for your school website. Learn shot lists, video strategy, consent compliance, and optimization for conversions."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school website photos videos"
 secondary_keywords:
   - "school visual content"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Photo and Video Content for School Website: Best Practices
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 7 min

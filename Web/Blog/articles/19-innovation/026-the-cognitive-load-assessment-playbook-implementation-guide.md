@@ -1,22 +1,21 @@
-﻿---
-title: The Cognitive Load Assessment Playbook: Implementation Guide
-slug: the-cognitive-load-assessment-playbook-implementation-guide
-meta_description: The Cognitive Load Assessment Playbook: Implementation Guide
-category: Innovation & AI
-primary_keyword: cognitive load assessment
+---
+title: "The Cognitive Load Assessment Playbook: Implementation Guide"
+slug: "026-the-cognitive-load-assessment-playbook-implementation-guide"
+meta_description: "The Cognitive Load Assessment Playbook: Implementation Guide"
+category: "Education Innovation, AI & Future"
+primary_keyword: "cognitive load assessment"
 secondary_keywords:
-  - cognitive load assessment schools
-  - best practices cognitive load assessment
-  - cognitive load assessment strategy
-  - how to implement cognitive load assessment
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "cognitive load assessment schools"
+  - "best practices cognitive load assessment"
+  - "cognitive load assessment strategy"
+  - "how to implement cognitive load assessment"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on cognitive load assessment for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

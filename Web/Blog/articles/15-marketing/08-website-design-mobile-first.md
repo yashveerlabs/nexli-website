@@ -1,8 +1,8 @@
 ---
 title: "Website Design for Schools: Mobile-First Approach"
-slug: "school-website-design-mobile-first"
+slug: "08-website-design-mobile-first"
 meta_description: "Design an effective school website with mobile-first approach. Learn best practices for user experience, page speed, and design that converts."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school website design"
 secondary_keywords:
   - "mobile responsive design"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Website Design for Schools: Mobile-First Approach
 
 **60% of parent searches happen on mobile phones. If your website is not mobile-optimized, you lose admissions. This guide covers mobile design, page speed, user experience, and conversion optimization.**

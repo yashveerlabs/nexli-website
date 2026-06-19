@@ -1,20 +1,23 @@
-﻿---
+---
 title: "Total Cost of Ownership (TCO) for School ERP: Beyond the Software Price"
-slug: "total-cost-ownership-school-erp"
+slug: "03-total-cost-ownership-school-erp"
 meta_description: "Calculate true TCO for school ERPs. Understand all hidden costs: implementation, training, integration, support, infrastructure. Make informed financial decisions."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "total cost of ownership school ERP"
-secondary_keywords: ["TCO calculation", "implementation cost", "hidden costs", "5-year cost", "ERP budget planning", "operational expenses"]
-intent: "analysis"
+secondary_keywords:
+  - "TCO calculation"
+  - "implementation cost"
+  - "hidden costs"
+  - "5-year cost"
+  - "ERP budget planning"
+  - "operational expenses"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 **A school board reads a vendor proposal: "School ERP system for ₹3,50,000 per year."**
 
 The board approves the budget. The board meeting adjourns. Six weeks later, the finance manager gets unexpected invoices:

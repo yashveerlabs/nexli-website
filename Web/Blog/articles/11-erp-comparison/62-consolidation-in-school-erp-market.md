@@ -1,24 +1,21 @@
 ---
 title: "School ERP Market Consolidation: What It Means for Schools"
-slug: "consolidation-in-school-erp-market"
+slug: "62-consolidation-in-school-erp-market"
 meta_description: "School ERP market consolidation: why smaller vendors are exiting, what happens to schools when their vendor is acquired, and how to evaluate vendor stability before signing."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP market consolidation"
 secondary_keywords:
   - "school ERP vendor stability India"
   - "school management software vendor acquisition"
   - "school ERP vendor risk"
   - "school software market India"
-intent: "informational"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## School ERP Market Consolidation: What It Means for Schools
 
 **The Indian school ERP market has hundreds of vendors. The vast majority are small companies with fewer than 20 employees. As DPDP Act compliance requirements, cloud infrastructure costs, and customer service expectations rise, many of these small vendors will exit the market, either closing operations or being acquired by larger players. This consolidation affects schools that chose smaller vendors for lower price, and it creates both risk and opportunity.**

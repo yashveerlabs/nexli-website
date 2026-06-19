@@ -1,22 +1,21 @@
-﻿---
-title: Common Mistakes in Adhd Support Ai (And How to Fix Them)
-slug: common-mistakes-in-adhd-support-ai-and-how-to-fix-them
-meta_description: Common Mistakes in Adhd Support Ai (And How to Fix Them)
-category: Innovation & AI
-primary_keyword: ADHD support AI
+---
+title: "Common Mistakes in Adhd Support Ai (And How to Fix Them)"
+slug: "030-common-mistakes-in-adhd-support-ai-and-how-to-fix-them"
+meta_description: "Common Mistakes in Adhd Support Ai (And How to Fix Them)"
+category: "Education Innovation, AI & Future"
+primary_keyword: "ADHD support AI"
 secondary_keywords:
-  - ADHD support AI schools
-  - best practices ADHD support AI
-  - ADHD support AI strategy
-  - how to implement ADHD support AI
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "ADHD support AI schools"
+  - "best practices ADHD support AI"
+  - "ADHD support AI strategy"
+  - "how to implement ADHD support AI"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on adhd support ai for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

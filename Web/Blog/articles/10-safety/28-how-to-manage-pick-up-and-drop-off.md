@@ -1,8 +1,8 @@
 ---
 title: "How to Manage Pick-Up and Drop-Off"
-slug: how-to-manage-pick-up-and-drop-off
+slug: "28-how-to-manage-pick-up-and-drop-off"
 meta_description: "Design safe and efficient school pick-up and drop-off procedures: traffic flow, staff coordination, student accountability, and special needs accommodation."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school pick-up drop-off management"
 secondary_keywords:
   - "school dismissal procedures"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # How to Manage Pick-Up and Drop-Off
 
 Safe, efficient pickup/drop-off requires clear procedures and staff coordination.

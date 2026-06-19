@@ -1,8 +1,8 @@
 ---
 title: "School ERP in Mumbai: Managing India's Education Hub"
-slug: school-erp-mumbai
+slug: "103-mumbai-school-erp"
 meta_description: "School ERP solutions for Mumbai schools. Manage diverse curricula, complex operations, and rapid growth across India's largest education market."
-category: "14-location"
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Mumbai"
 secondary_keywords:
   - "school management system Mumbai"
@@ -11,15 +11,12 @@ secondary_keywords:
   - "best ERP for Mumbai schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 snippet: "Mumbai schools operate in India's most competitive education market. With 3,000+ schools educating 1.2 million students, and facing unique challenges, sea-level concerns, dense urban operations, ultra-diverse student populations, schools need systems that handle complexity, scale rapidly, and maintain quality at speed."
 ---
-
 ## The Challenge: Managing Complexity in India's Largest Education Market
 
 Mumbai is India's education capital. The city has 3,000+ schools educating 1.2 million students across every conceivable combination: government, private, government-aided; CBSE, ICSE, State Board, IB, IGCSE; day schools, boarding schools, day-cum-boarding; English medium, regional medium, multilingual.

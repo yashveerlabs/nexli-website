@@ -1,8 +1,8 @@
 ---
 title: "Root Cause Analysis for School Problems: Solve Problems, Not Symptoms"
-slug: "root-cause-analysis-school-problems"
+slug: "21-root-cause-analysis-school-problems"
 meta_description: "Learn root cause analysis techniques to identify and solve underlying problems in schools. Move beyond symptom management to lasting solutions."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "root cause analysis school problems"
 secondary_keywords:
   - "problem-solving framework schools"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Root Cause Analysis for School Problems: Solve Problems, Not Symptoms
 
 **Schools often treat symptoms instead of causes. Student attendance is low, so you mandate attendance. Grades are poor, so you give more homework. Staff turnover is high, so you hire faster. Six months later, the same problem returns because you never addressed the root cause. This article teaches you the 5-Why Analysis, a simple framework to dig deep, find real causes, and implement lasting solutions.**

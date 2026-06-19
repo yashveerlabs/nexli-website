@@ -1,22 +1,21 @@
 ---
-title: Scaling Career Readiness Assessment Across Your School
-slug: scaling-career-readiness-assessment-across-your-school
-meta_description: Scaling Career Readiness Assessment Across Your School
-category: Research & Statistics
-primary_keyword: career readiness assessment
+title: "Scaling Career Readiness Assessment Across Your School"
+slug: "028-scaling-career-readiness-assessment-across-your-school"
+meta_description: "Scaling Career Readiness Assessment Across Your School"
+category: "School Research, Statistics & Reports"
+primary_keyword: "career readiness assessment"
 secondary_keywords:
-  - career readiness assessment schools
-  - best practices career readiness assessment
-  - career readiness assessment strategy
-  - how to implement career readiness assessment
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "career readiness assessment schools"
+  - "best practices career readiness assessment"
+  - "career readiness assessment strategy"
+  - "how to implement career readiness assessment"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on career readiness assessment for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

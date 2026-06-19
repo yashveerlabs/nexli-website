@@ -1,8 +1,8 @@
 ---
 title: "ERP Scalability: How to Choose a School ERP That Grows With You"
-slug: "erp-scalability-growing-with-your-school"
+slug: "06-erp-scalability-growing-with-your-school"
 meta_description: "Learn what ERP scalability means for Indian schools: how to evaluate if a system can handle growth from 200 to 2,000 students without a costly replacement."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP scalability"
 secondary_keywords:
   - "growing school ERP"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "scalable school ERP India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 ## ERP Scalability: How to Choose a School ERP That Grows With You
 
 **Scalability is one of the most underestimated factors in school ERP selection. A system that handles 200 students today may buckle when you reach 800. A role structure built for a single campus may not extend to three. This guide explains what genuine ERP scalability means for Indian schools, what questions to ask vendors, and what warning signs to watch for before you commit.**

@@ -1,22 +1,21 @@
 ---
-title: The Evacuation Plan Template Playbook: Implementation Guide
-slug: the-evacuation-plan-template-playbook-implementation-guide
-meta_description: The Evacuation Plan Template Playbook: Implementation Guide
-category: SOPs & Templates
-primary_keyword: evacuation plan template
+title: "The Evacuation Plan Template Playbook: Implementation Guide"
+slug: "026-the-evacuation-plan-template-playbook-implementation-guide"
+meta_description: "The Evacuation Plan Template Playbook: Implementation Guide"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "evacuation plan template"
 secondary_keywords:
-  - evacuation plan template schools
-  - best practices evacuation plan template
-  - evacuation plan template strategy
-  - how to implement evacuation plan template
-intent: informational
+  - "evacuation plan template schools"
+  - "best practices evacuation plan template"
+  - "evacuation plan template strategy"
+  - "how to implement evacuation plan template"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on evacuation plan template for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

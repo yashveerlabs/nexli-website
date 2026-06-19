@@ -1,18 +1,20 @@
 ---
 title: "Hostel for Boarding Students"
-slug: "hostel-for-boarding-students"
+slug: "36-hostel-for-boarding-students"
 meta_description: "How school ERPs support hostel for boarding students for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "hostel management boarding students"
-secondary_keywords: ["student accommodation ERP", "hostel allocation software India", "boarding student hostel system", "school hostel management"]
+secondary_keywords:
+  - "student accommodation ERP"
+  - "hostel allocation software India"
+  - "boarding student hostel system"
+  - "school hostel management"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Hostel for Boarding Students
 

@@ -1,18 +1,20 @@
 ---
 title: "Connecting School ERP with Tally: What to Sync, What to Keep Separate"
-slug: "accounting-erp-integration"
+slug: "67-accounting-erp-integration"
 meta_description: "Integrating school ERP with Tally requires syncing invoices, receipts, and payroll as journal entries. Learn what data to sync, the common challenges, and what to keep in each system."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school ERP Tally integration"
-secondary_keywords: ["ERP accounting integration", "Tally school integration", "journal entry export ERP"]
-intent: "informational"
+secondary_keywords:
+  - "ERP accounting integration"
+  - "Tally school integration"
+  - "journal entry export ERP"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## ERP and Tally Integration for Schools: The Practical Approach
 
 Integrating school ERP with Tally is a common requirement for schools that want the student-level detail of a purpose-built ERP combined with the statutory accounting strength of Tally. Most schools arrive at this question after discovering that one system alone cannot do everything well: the ERP manages per-student fee ledgers with precision, but Tally produces the audit-ready financial statements.

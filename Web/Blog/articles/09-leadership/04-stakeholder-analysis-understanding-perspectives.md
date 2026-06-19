@@ -1,19 +1,22 @@
 ---
 title: "Stakeholder Analysis: Understanding Perspectives"
-slug: stakeholder-analysis-understanding-perspectives
-category: 9
-order: 4
-primary_keyword: "stakeholder analysis for schools"
+slug: "04-stakeholder-analysis-understanding-perspectives"
 meta_description: "Learn how school principals can conduct a stakeholder analysis to understand diverse perspectives and make better-informed decisions that serve the whole school community."
-secondary_keywords: ["school stakeholder management", "principal stakeholder engagement", "school decision-making process", "understanding school community perspectives"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "stakeholder analysis for schools"
+secondary_keywords:
+  - "school stakeholder management"
+  - "principal stakeholder engagement"
+  - "school decision-making process"
+  - "understanding school community perspectives"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
+order: 4
 ---
-
 # Stakeholder Analysis: Understanding Perspectives
 
 Every school decision affects multiple groups of people. Conducting a stakeholder analysis helps you understand these perspectives and make decisions that account for diverse needs.

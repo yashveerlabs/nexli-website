@@ -1,18 +1,21 @@
 ---
 title: "Electrical Safety Compliance for Schools: Inspections and Standards"
-slug: "electrical-safety-compliance-schools"
+slug: "80-electricity-safety"
 meta_description: "Ensure electrical safety in schools. Covers annual electrical inspection requirements, earthing, overload protection, lab safety, and compliance records for CBSE schools."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "electrical safety compliance schools India"
-secondary_keywords: ["school electrical inspection", "school earthing requirements", "electrical safety school India", "CBSE electrical safety"]
-intent: "informational"
+secondary_keywords:
+  - "school electrical inspection"
+  - "school earthing requirements"
+  - "electrical safety school India"
+  - "CBSE electrical safety"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 Electrical safety failures in schools cause fires, electrocution, and equipment damage. Schools are high-density occupancy buildings with diverse electrical loads, classrooms, laboratories, computer rooms, kitchen equipment, generators. An annual electrical safety inspection by a qualified electrical contractor or government inspector is the minimum standard.
 
 ## Legal Basis

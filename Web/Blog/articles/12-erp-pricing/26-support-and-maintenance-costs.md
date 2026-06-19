@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Support and Maintenance Costs"
-slug: "support-and-maintenance-costs"
+slug: "26-support-and-maintenance-costs"
 meta_description: "Support and Maintenance Costs"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "support"
-secondary_keywords: ["and", "maintenance", "costs", "school"]
+secondary_keywords:
+  - "and"
+  - "maintenance"
+  - "costs"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Support and Maintenance Costs
 

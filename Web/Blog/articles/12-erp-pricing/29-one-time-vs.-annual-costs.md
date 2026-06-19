@@ -1,18 +1,20 @@
-﻿---
+---
 title: "One-Time vs. Annual Costs"
-slug: "one-time-vs.-annual-costs"
+slug: "29-one-time-vs.-annual-costs"
 meta_description: "One-Time vs. Annual Costs"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "one-time"
-secondary_keywords: ["vs.", "annual", "costs", "school"]
+secondary_keywords:
+  - "vs."
+  - "annual"
+  - "costs"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## One-Time vs. Annual Costs
 

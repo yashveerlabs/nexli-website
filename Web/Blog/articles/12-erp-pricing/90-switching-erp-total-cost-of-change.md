@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Switching ERP: Total Cost of Change"
-slug: "switching-erp-total-cost-of-change"
+slug: "90-switching-erp-total-cost-of-change"
 meta_description: "Switching ERP: Total Cost of Change"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "switching"
-secondary_keywords: ["erp:", "total", "cost", "of"]
+secondary_keywords:
+  - "erp:"
+  - "total"
+  - "cost"
+  - "of"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Switching ERP: Total Cost of Change
 

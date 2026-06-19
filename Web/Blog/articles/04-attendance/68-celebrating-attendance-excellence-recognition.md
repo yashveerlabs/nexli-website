@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Celebrating Attendance Excellence: Recognition Programs"
-slug: "celebrating-attendance-excellence-recognition"
+slug: "68-celebrating-attendance-excellence-recognition"
 meta_description: "Learn about celebrating attendance excellence: recognition programs in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "celebrating attendance excellence: recognition programs"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with celebrating attendance excellence: recognition programs:

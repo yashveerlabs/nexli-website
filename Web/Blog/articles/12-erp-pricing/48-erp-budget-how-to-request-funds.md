@@ -1,18 +1,20 @@
-﻿---
+---
 title: "ERP Budget: How to Request Funds"
-slug: "erp-budget-how-to-request-funds"
+slug: "48-erp-budget-how-to-request-funds"
 meta_description: "ERP Budget: How to Request Funds"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "erp"
-secondary_keywords: ["budget:", "how", "to", "request"]
+secondary_keywords:
+  - "budget:"
+  - "how"
+  - "to"
+  - "request"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## ERP Budget: How to Request Funds
 

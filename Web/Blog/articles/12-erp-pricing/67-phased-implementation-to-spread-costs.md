@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Phased Implementation to Spread Costs"
-slug: "phased-implementation-to-spread-costs"
+slug: "67-phased-implementation-to-spread-costs"
 meta_description: "Phased Implementation to Spread Costs"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "phased"
-secondary_keywords: ["implementation", "to", "spread", "costs"]
+secondary_keywords:
+  - "implementation"
+  - "to"
+  - "spread"
+  - "costs"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Phased Implementation to Spread Costs
 

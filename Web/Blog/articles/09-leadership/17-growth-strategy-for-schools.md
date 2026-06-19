@@ -1,19 +1,22 @@
 ---
 title: "Growth Strategy for Schools"
-slug: growth-strategy-for-schools
-category: 9
-order: 17
-primary_keyword: "school growth strategy"
+slug: "17-growth-strategy-for-schools"
 meta_description: "A practical guide to building a school growth strategy, covering enrollment growth, program expansion, geographic expansion, and how to grow without losing quality or culture."
-secondary_keywords: ["school enrollment growth", "school expansion planning", "principal growth strategy", "sustainable school growth"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "school growth strategy"
+secondary_keywords:
+  - "school enrollment growth"
+  - "school expansion planning"
+  - "principal growth strategy"
+  - "sustainable school growth"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 17
 branding_block_company: 17
 branding_block_nexli: 17
+order: 17
 ---
-
 # Growth Strategy for Schools
 
 Growing enrollment, expanding programs, or increasing impact, these require strategic thinking. A growth strategy ensures expansion strengthens your school rather than diluting it.

@@ -1,8 +1,8 @@
 ---
 title: "Website Conversion Optimization: Turning Visitors Into Applicants"
-slug: "website-conversion-optimization-school"
+slug: "39-website-conversion-optimization"
 meta_description: "Optimize your school website to convert visitors into applicants. Learn A/B testing, CTA placement, form optimization, and user experience improvements."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school website conversion"
 secondary_keywords:
   - "website optimization schools"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Website Conversion Optimization: Turning Visitors Into Applicants
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

@@ -1,8 +1,8 @@
 ---
 title: "Principal Responsibilities: Complete Role Guide for Indian Schools"
-slug: "principal-responsibilities-complete-role-guide"
+slug: "01-principal-responsibilities-complete-role-guide"
 meta_description: "Comprehensive guide to principal responsibilities in Indian schools. Learn academic, administrative, financial, and compliance duties, and how to balance them effectively."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "principal responsibilities"
 secondary_keywords:
   - "school principal role"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Principal Responsibilities: What Every School Leader Must Master
 
 **A principal is not just an administrator, they are an educational leader, financial steward, compliance officer, and community ambassador rolled into one. This complete guide breaks down the principal's role across five critical dimensions, helping you understand what it takes to lead a modern Indian school. Whether you are a first-time principal or seeking to refine your leadership approach, this roadmap clarifies the duties, priorities, and tools that successful school leaders use.**

@@ -1,19 +1,22 @@
 ---
 title: "How to Present to the Board"
-slug: how-to-present-to-the-board
-category: 9
-order: 58
-primary_keyword: "how to present to school board"
+slug: "58-how-to-present-to-the-board"
 meta_description: "Master school board presentations with preparation, clear structure, and confident delivery. Practical tips for principals to communicate effectively with trustees."
-secondary_keywords: ["school board presentation tips", "principal board communication", "board meeting preparation", "school governance presentations"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to present to school board"
+secondary_keywords:
+  - "school board presentation tips"
+  - "principal board communication"
+  - "board meeting preparation"
+  - "school governance presentations"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 18
 branding_block_company: 18
 branding_block_nexli: 18
+order: 58
 ---
-
 # How to Present to the Board
 
 Board presentations demonstrate competence and build confidence. Preparation is key.

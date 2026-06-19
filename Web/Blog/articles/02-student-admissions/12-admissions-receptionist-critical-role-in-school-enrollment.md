@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Admissions Receptionist: Critical Role in School Enrollment"
-slug: admissions-receptionist-critical-role-in-school-enrollment
-meta_description: admissions receptionist: critical role in school enrollment. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: admissions receptionist
+slug: "12-admissions-receptionist-critical-role-in-school-enrollment"
+meta_description: "admissions receptionist: critical role in school enrollment. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "admissions receptionist"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for admissions receptionist in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

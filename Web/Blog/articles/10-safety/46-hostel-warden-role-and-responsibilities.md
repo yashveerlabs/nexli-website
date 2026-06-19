@@ -1,18 +1,21 @@
 ---
-title: Hostel Warden - Role and Responsibilities
-slug: hostel-warden-role-and-responsibilities
-meta_description: Define hostel warden roles and create accountability frameworks for student welfare and safety in boarding facilities.
-category: Safety & Operations
-primary_keyword: hostel warden responsibilities
-secondary_keywords: ["boarding house management", "student supervision", "duty roster", "welfare officer"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+title: "Hostel Warden - Role and Responsibilities"
+slug: "46-hostel-warden-role-and-responsibilities"
+meta_description: "Define hostel warden roles and create accountability frameworks for student welfare and safety in boarding facilities."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "hostel warden responsibilities"
+secondary_keywords:
+  - "boarding house management"
+  - "student supervision"
+  - "duty roster"
+  - "welfare officer"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Hostel Warden: Role and Responsibilities
 
 The hostel warden is a boarding school's backbone, part parent, part disciplinarian, part counselor, part administrator. 24/7 responsibility for 50-100 students' safety, wellness, and development. This guide defines the warden role, establishes accountability, and creates sustainable responsibility frameworks.

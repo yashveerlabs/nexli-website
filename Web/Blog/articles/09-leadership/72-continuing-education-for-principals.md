@@ -1,19 +1,22 @@
 ---
 title: "Continuing Education for Principals"
-slug: continuing-education-for-principals
-category: 9
-order: 72
-primary_keyword: "continuing education for school principals"
+slug: "72-continuing-education-for-principals"
 meta_description: "Stay effective as a principal through continuous professional learning. Explore workshops, coaching, peer networks, and study strategies that keep school leaders current."
-secondary_keywords: ["principal professional development", "school leadership learning", "principal continuing learning", "principal coaching programs"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "continuing education for school principals"
+secondary_keywords:
+  - "principal professional development"
+  - "school leadership learning"
+  - "principal continuing learning"
+  - "principal coaching programs"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
+order: 72
 ---
-
 # Continuing Education for Principals
 
 Leadership evolves. Continuous learning keeps principals current and effective.

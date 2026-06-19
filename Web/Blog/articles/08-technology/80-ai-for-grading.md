@@ -1,18 +1,21 @@
 ---
 title: "AI-Assisted Grading in Schools: What It Can and Cannot Do"
-slug: "ai-for-grading"
+slug: "80-ai-for-grading"
 meta_description: "MCQ auto-scoring works well. AI essay grading is imprecise. This guide explains where AI grading helps teachers and where human judgment remains essential."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "AI grading schools"
-secondary_keywords: ["automated grading system", "MCQ auto-scoring", "AI essay evaluation", "assessment automation schools"]
-intent: "informational"
+secondary_keywords:
+  - "automated grading system"
+  - "MCQ auto-scoring"
+  - "AI essay evaluation"
+  - "assessment automation schools"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## AI-Assisted Grading: A Realistic Guide for School Leaders
 
 AI-assisted grading means using software to evaluate student work. The range of what this covers is wide. At one end is automatic MCQ scoring, which is simple, accurate, and has been in use for decades. At the other end is AI evaluation of argumentative essays, which is possible but imprecise. Understanding what actually works, and why, saves schools from expensive experiments that disappoint teachers and students.

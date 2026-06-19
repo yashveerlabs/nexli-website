@@ -1,19 +1,22 @@
 ---
 title: "Building a Personal Development Plan"
-slug: building-a-personal-development-plan
-category: 9
-order: 75
-primary_keyword: "principal personal development plan"
+slug: "75-building-a-personal-development-plan"
 meta_description: "Create an intentional personal development plan as a school principal. A step-by-step guide to self-assessment, goal-setting, learning activities, and measuring growth."
-secondary_keywords: ["school leader growth plan", "principal self-improvement", "principal development goals", "educational leader professional growth"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "principal personal development plan"
+secondary_keywords:
+  - "school leader growth plan"
+  - "principal self-improvement"
+  - "principal development goals"
+  - "educational leader professional growth"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
+order: 75
 ---
-
 # Building a Personal Development Plan
 
 Personal growth as principal directly impacts school. Intentional development ensures growth.

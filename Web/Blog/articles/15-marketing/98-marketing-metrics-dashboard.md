@@ -1,8 +1,8 @@
 ---
 title: "Marketing Metrics Dashboard: Tracking Performance and ROI"
-slug: "marketing-metrics-dashboard-schools"
+slug: "98-marketing-metrics-dashboard"
 meta_description: "Build a school marketing metrics dashboard to track performance and ROI. Learn which metrics matter, how to set up tracking, and what to review in monthly marketing reviews."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school marketing metrics dashboard"
 secondary_keywords:
   - "school marketing ROI tracking"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Marketing Metrics Dashboard: Tracking Performance and ROI
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

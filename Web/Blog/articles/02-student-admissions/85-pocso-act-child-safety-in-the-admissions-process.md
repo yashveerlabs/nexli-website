@@ -1,22 +1,21 @@
-﻿---
+---
 title: "POCSO Act: Child Safety in the Admissions Process"
-slug: pocso-act-child-safety-in-the-admissions-process
-meta_description: pocso act: child safety in the admissions process. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: pocso act
+slug: "85-pocso-act-child-safety-in-the-admissions-process"
+meta_description: "pocso act: child safety in the admissions process. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "pocso act"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: process
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article explores best practices for pocso act in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

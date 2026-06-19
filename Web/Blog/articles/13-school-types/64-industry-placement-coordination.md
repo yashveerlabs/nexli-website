@@ -1,18 +1,20 @@
 ---
 title: "Industry Placement Coordination"
-slug: "industry-placement-coordination"
+slug: "64-industry-placement-coordination"
 meta_description: "How school ERPs support industry placement coordination for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "industry placement coordination ERP"
-secondary_keywords: ["student placement tracking software India", "school internship management", "vocational placement ERP", "industry partnership school ERP"]
+secondary_keywords:
+  - "student placement tracking software India"
+  - "school internship management"
+  - "vocational placement ERP"
+  - "industry partnership school ERP"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Industry Placement Coordination
 

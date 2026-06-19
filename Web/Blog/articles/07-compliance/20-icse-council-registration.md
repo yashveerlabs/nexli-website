@@ -1,18 +1,21 @@
 ---
 title: "ICSE Council Registration: Steps to Apply for CISCE Affiliation"
-slug: "icse-council-registration"
+slug: "20-icse-council-registration"
 meta_description: "Apply for ICSE council registration. Learn CISCE affiliation steps, eligibility requirements, application documents, and common approval challenges."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "ICSE council registration CISCE affiliation"
-secondary_keywords: ["CISCE application", "ICSE affiliation process", "new school registration", "school board registration"]
-intent: "informational"
+secondary_keywords:
+  - "CISCE application"
+  - "ICSE affiliation process"
+  - "new school registration"
+  - "school board registration"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 New schools seeking ICSE affiliation must register with the Council for the Indian School Certificate Examinations (CISCE). The process involves submitting an application with infrastructure proof, faculty credentials, and governance documents, followed by a CISCE site visit.
 
 ## Eligibility to Apply for CISCE Affiliation

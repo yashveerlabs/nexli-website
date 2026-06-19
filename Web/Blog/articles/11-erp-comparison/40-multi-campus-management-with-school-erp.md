@@ -1,8 +1,8 @@
 ---
 title: "Multi-Campus School Management with ERP: What to Look For"
-slug: "multi-campus-management-with-school-erp"
+slug: "40-multi-campus-management-with-school-erp"
 meta_description: "Multi-campus school ERP guide: centralized admin visibility, per-campus data isolation, chain-level reporting, and what features distinguish capable multi-campus platforms."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "multi-campus school ERP management"
 secondary_keywords:
   - "school chain ERP India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "centralized school administration ERP"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Multi-Campus School Management with ERP: What to Look For
 
 **School chains and multi-campus groups face a dual challenge: maintain each campus's autonomy while giving central administrators visibility across all campuses. An ERP that only supports single-campus use creates fragmentation as chains grow. An ERP built for multi-campus management provides chain-level KPIs, per-campus isolation, and consistent workflows across all locations.**

@@ -1,18 +1,21 @@
 ---
 title: "How Often Should Schools Communicate with Parents?"
-slug: "school-communication-frequency-cadence"
+slug: "11-school-communication-frequency"
 meta_description: "Determine the right communication frequency for your school. Learn how to avoid parent fatigue while keeping families informed about their child's progress."
-category: "Parent Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication frequency"
-secondary_keywords: ["parent engagement", "communication cadence", "parent-school partnership", "notification strategy"]
-intent: "informational"
+secondary_keywords:
+  - "parent engagement"
+  - "communication cadence"
+  - "parent-school partnership"
+  - "notification strategy"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## The Communication Paradox
 
 Schools face a tension: parents want to know what's happening with their children, but they don't want to be overwhelmed with messages. Send too many updates and parents ignore them all (alert fatigue). Send too few and parents feel uninformed. The sweet spot is different for each school, depending on parent preferences, school priorities, and communication channels used.

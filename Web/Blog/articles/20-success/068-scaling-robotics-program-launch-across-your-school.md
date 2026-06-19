@@ -1,22 +1,21 @@
 ---
-title: Scaling Robotics Program Launch Across Your School
-slug: scaling-robotics-program-launch-across-your-school
-meta_description: Scaling Robotics Program Launch Across Your School
-category: Success Stories & Cases
-primary_keyword: robotics program launch
+title: "Scaling Robotics Program Launch Across Your School"
+slug: "068-scaling-robotics-program-launch-across-your-school"
+meta_description: "Scaling Robotics Program Launch Across Your School"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "robotics program launch"
 secondary_keywords:
-  - robotics program launch schools
-  - best practices robotics program launch
-  - robotics program launch strategy
-  - how to implement robotics program launch
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "robotics program launch schools"
+  - "best practices robotics program launch"
+  - "robotics program launch strategy"
+  - "how to implement robotics program launch"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on robotics program launch for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

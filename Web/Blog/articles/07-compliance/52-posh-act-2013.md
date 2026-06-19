@@ -1,18 +1,21 @@
 ---
 title: "POSH Act 2013 in Schools: Protecting Staff from Sexual Harassment"
-slug: "posh-act-2013-schools"
+slug: "52-posh-act-2013"
 meta_description: "Understand how the POSH Act 2013 applies to schools. Covers Internal Complaints Committee formation, prohibited conduct, timelines, and employer obligations."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "POSH Act 2013 schools"
-secondary_keywords: ["workplace sexual harassment schools", "ICC formation school", "POSH compliance school India", "sexual harassment teacher school"]
-intent: "informational"
+secondary_keywords:
+  - "workplace sexual harassment schools"
+  - "ICC formation school"
+  - "POSH compliance school India"
+  - "sexual harassment teacher school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act 2013, known as the POSH Act, applies to all workplaces in India with 10 or more employees. Schools are workplaces. The POSH Act protects female employees (teachers, administrative staff, support staff) from sexual harassment by colleagues, management, contractors, and visitors.
 
 Schools that have not constituted an Internal Complaints Committee (ICC) or do not have a functional POSH policy are non-compliant, regardless of whether a complaint has ever been filed.

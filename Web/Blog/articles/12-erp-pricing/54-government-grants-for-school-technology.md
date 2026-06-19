@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Government Grants for School Technology"
-slug: "government-grants-for-school-technology"
+slug: "54-government-grants-for-school-technology"
 meta_description: "Government Grants for School Technology"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "government"
-secondary_keywords: ["grants", "for", "school", "technology"]
+secondary_keywords:
+  - "grants"
+  - "for"
+  - "school"
+  - "technology"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Government Grants for School Technology
 

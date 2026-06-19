@@ -1,18 +1,21 @@
 ---
 title: "How to Collect Parent Feedback: Methods and Tools"
-slug: "collect-parent-feedback-methods-tools"
+slug: "35-collect-parent-feedback-methods-tools"
 meta_description: "Effective feedback & complaints strategies for Indian schools. Learn how schools can collect feedback through surveys, focus groups, suggestion boxes, and digital platforms. multiple channels ensure diverse voices are heard."
-category: "Feedback & Complaints"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent feedback resolution"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## How to Collect Parent Feedback: Methods and Tools
 
 Schools can collect feedback through surveys, focus groups, suggestion boxes, and digital platforms. Multiple channels ensure diverse voices are heard.

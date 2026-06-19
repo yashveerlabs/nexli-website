@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Discipline Committee: Setting Up and Running Effective Meetings"
-slug: "discipline-committee-setting-running"
+slug: "19-discipline-committee-setting-running"
 meta_description: "Learn about discipline committee: setting up and running effective meetings in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "discipline committee: setting up and running effective meetings"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with discipline committee: setting up and running effective meetings:

@@ -1,18 +1,21 @@
 ---
-title: Hostel Discipline and Conduct Policy
-slug: hostel-discipline-and-conduct-policy
-meta_description: Establish fair, consistent hostel discipline policies with clear expectations, progressive consequences, and appeal processes.
-category: Safety & Operations
-primary_keyword: hostel discipline policy
-secondary_keywords: ["student conduct", "disciplinary action", "rule enforcement", "fairness and transparency"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+title: "Hostel Discipline and Conduct Policy"
+slug: "50-hostel-discipline-and-conduct-policy"
+meta_description: "Establish fair, consistent hostel discipline policies with clear expectations, progressive consequences, and appeal processes."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "hostel discipline policy"
+secondary_keywords:
+  - "student conduct"
+  - "disciplinary action"
+  - "rule enforcement"
+  - "fairness and transparency"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Hostel Discipline and Conduct Policy: Fair Rules, Consistent Enforcement
 
 Hostel discipline isn't punishment, it's teaching boundaries and responsibility. Students live in community; rules enable coexistence. Without clear, fairly-enforced policies, hostel becomes chaotic. With fair policies, hostel becomes a functioning society where students learn accountability. This guide establishes balanced discipline frameworks.

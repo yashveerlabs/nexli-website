@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Building a Student Profile from Admissions Data"
-slug: building-a-student-profile-from-admissions-data
-meta_description: building a student profile from admissions data. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: building a student profile from admissions data
+slug: "40-building-a-student-profile-from-admissions-data"
+meta_description: "building a student profile from admissions data. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "building a student profile from admissions data"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for building a student profile from admissions data in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

@@ -1,22 +1,21 @@
 ---
-title: Data Analytics for Academic Performance
-slug: data-analytics-academic-performance
-meta_description: Use dashboards and analytics to track student progress at scale.
-category: Academic Management & Teaching Excellence
-primary_keyword: data analytics academic performance
+title: "Data Analytics for Academic Performance"
+slug: "94-data-analytics-academic-performance"
+meta_description: "Use dashboards and analytics to track student progress at scale."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "data analytics academic performance"
 secondary_keywords:
-  - Data Analytics Academic Performance
-  - teaching effectiveness
-  - student learning
-  - academic excellence
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Data Analytics Academic Performance"
+  - "teaching effectiveness"
+  - "student learning"
+  - "academic excellence"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Executive Summary
 
 Data Analytics for Academic Performance is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process see measurable improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.

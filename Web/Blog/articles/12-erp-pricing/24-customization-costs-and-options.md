@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Customization Costs and Options"
-slug: "customization-costs-and-options"
+slug: "24-customization-costs-and-options"
 meta_description: "Customization Costs and Options"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "customization"
-secondary_keywords: ["costs", "and", "options", "school"]
+secondary_keywords:
+  - "costs"
+  - "and"
+  - "options"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Customization Costs and Options
 

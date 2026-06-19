@@ -1,19 +1,22 @@
 ---
 title: "Selecting and Developing Vice Principals"
-slug: selecting-and-developing-vice-principals
-category: 9
-order: 22
-primary_keyword: "selecting and developing vice principals"
+slug: "22-selecting-and-developing-vice-principals"
 meta_description: "How school principals can select the right vice principal, structure their onboarding, develop them into future school leaders, and build a productive long-term partnership."
-secondary_keywords: ["vice principal selection", "assistant principal development", "principal deputy selection", "school leadership succession"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "selecting and developing vice principals"
+secondary_keywords:
+  - "vice principal selection"
+  - "assistant principal development"
+  - "principal deputy selection"
+  - "school leadership succession"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
+order: 22
 ---
-
 # Selecting and Developing Vice Principals
 
 Your assistant/vice principal is your most important hire. They need to complement your strengths, share your vision, and be capable of eventually leading their own school.

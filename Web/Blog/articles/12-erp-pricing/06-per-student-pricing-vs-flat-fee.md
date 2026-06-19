@@ -1,20 +1,20 @@
-﻿---
+---
 title: "Per-Student Pricing vs. Flat Fee: Which Model Saves Schools More?"
-slug: "per-student-pricing-vs-flat-fee"
+slug: "06-per-student-pricing-vs-flat-fee"
 meta_description: "Compare per-student and flat-fee ERP pricing models. Which saves small, medium, and large schools more money? Cost analysis and ROI breakdown."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "per-student pricing vs flat fee"
-secondary_keywords: ["school ERP per-student cost", "flat-fee school ERP", "ERP pricing models comparison"]
-intent: "cost_comparison"
+secondary_keywords:
+  - "school ERP per-student cost"
+  - "flat-fee school ERP"
+  - "ERP pricing models comparison"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 **Snippet:** Per-student pricing (₹100–500/student/year) scales with enrollment; flat-fee (₹30,000–₹2,00,000/year) stays constant. Small schools save more with per-student; large schools benefit from flat-fee. The right model depends on your enrollment stability and growth trajectory.
 
 ## Why Pricing Model Matters

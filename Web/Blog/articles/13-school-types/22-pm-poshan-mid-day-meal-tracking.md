@@ -1,18 +1,20 @@
 ---
 title: "PM POSHAN (Mid-Day Meal) Tracking"
-slug: "pm-poshan-mid-day-meal-tracking"
+slug: "22-pm-poshan-mid-day-meal-tracking"
 meta_description: "How school ERPs support pm poshan (mid-day meal) tracking for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "PM POSHAN mid-day meal tracking"
-secondary_keywords: ["midday meal ERP India", "PM POSHAN compliance software", "school nutrition tracking", "government school management"]
+secondary_keywords:
+  - "midday meal ERP India"
+  - "PM POSHAN compliance software"
+  - "school nutrition tracking"
+  - "government school management"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## PM POSHAN (Mid-Day Meal) Tracking
 

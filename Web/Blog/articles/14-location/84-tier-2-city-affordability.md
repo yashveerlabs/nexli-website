@@ -1,18 +1,20 @@
 ---
 title: "Tier 2 City Affordability"
-slug: "tier-2-city-affordability"
+slug: "84-tier-2-city-affordability"
 meta_description: "Affordable school ERP for Tier 2 cities: cloud-based school management that fits Tier 2 budgets while delivering admissions, compliance, and fee management."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "affordable school ERP Tier 2 cities India"
-secondary_keywords: ["school ERP affordability Tier 2", "cost-effective school management India", "Tier 2 school software budget", "school ERP Jaipur Chandigarh affordable"]
+secondary_keywords:
+  - "school ERP affordability Tier 2"
+  - "cost-effective school management India"
+  - "Tier 2 school software budget"
+  - "school ERP Jaipur Chandigarh affordable"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Tier 2 City Affordability
 

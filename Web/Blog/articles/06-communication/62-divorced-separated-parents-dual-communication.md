@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Divorced/Separated Parents: Managing Dual-Parent Communication"
-slug: "divorced-separated-parents-dual-communication"
+slug: "62-divorced-separated-parents-dual-communication"
 meta_description: "Effective special circumstances strategies for Indian schools. Learn how schools must manage communication with separated parents while respecting custody arrangements and preventing information use for conflict."
-category: "Special Circumstances"
+category: "Parent Communication & Engagement"
 primary_keyword: "specialized parent communication"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Divorced/Separated Parents: Managing Dual-Parent Communication
 
 Schools must manage communication with separated parents while respecting custody arrangements and preventing information use for conflict.

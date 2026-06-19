@@ -1,20 +1,21 @@
 ---
 title: "Expanding School Chains Across India: Regional Success Strategies"
-slug: "expanding-school-chains-across-india-regional-success"
+slug: "100-expanding-school-chains-across-india"
 meta_description: "School chains expanding across regions need ERP systems that support diversity. Learn multi-region strategies."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school chain expansion india"
-secondary_keywords: ["multi-campus management", "regional growth", "school scaling", "chain operations"]
+secondary_keywords:
+  - "multi-campus management"
+  - "regional growth"
+  - "school scaling"
+  - "chain operations"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
-date: "2026-06-19"
 ---
-
 ## Expanding School Chains Across India: Regional Success Strategies
 
 School chains expanding across India face a unique challenge: each region operates differently, yet the chain needs unified systems and control. This article explores how ERP systems enable that balance.

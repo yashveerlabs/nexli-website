@@ -1,10 +1,14 @@
 ---
 title: "How to Delegate Authority Effectively in Schools"
-slug: "delegate-authority-schools"
+slug: "24-delegate-authority-schools"
 meta_description: "Guide to empowering staff through effective delegation while maintaining oversight."
-category: "1. School Administration & Operations"
+category: "School Administration & Operations"
 primary_keyword: "how to delegate authority in schools"
-secondary_keywords: ["delegation", "staff empowerment", "authority delegation", "leadership"]
+secondary_keywords:
+  - "delegation"
+  - "staff empowerment"
+  - "authority delegation"
+  - "leadership"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
@@ -12,7 +16,6 @@ branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## How to Delegate Authority Effectively in Schools
 
 Many principals try to make every decision themselves, from approving leave to purchasing pens. The result: bottlenecks form, staff feel disempowered, and the principal burns out. Effective delegation transfers appropriate decisions to the right people, freeing leadership to focus on strategy while empowering staff.

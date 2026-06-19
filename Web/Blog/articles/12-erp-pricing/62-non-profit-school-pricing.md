@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Non-Profit School Pricing"
-slug: "non-profit-school-pricing"
+slug: "62-non-profit-school-pricing"
 meta_description: "Non-Profit School Pricing"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "non-profit"
-secondary_keywords: ["school", "pricing", "implementation", "school"]
+secondary_keywords:
+  - "school"
+  - "pricing"
+  - "implementation"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Non-Profit School Pricing
 

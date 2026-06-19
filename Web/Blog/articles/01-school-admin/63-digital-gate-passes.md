@@ -1,22 +1,21 @@
 ---
-title: Digital Gate Passes
-slug: digital-gate-passes
-meta_description: Replace paper gate passes with OTP-verified digital visitor passes.
-category: School Administration & Operations
-primary_keyword: digital gate passes
+title: "Digital Gate Passes"
+slug: "63-digital-gate-passes"
+meta_description: "Replace paper gate passes with OTP-verified digital visitor passes."
+category: "School Administration & Operations"
+primary_keyword: "digital gate passes"
 secondary_keywords:
-  - Digital Gate Passes
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Digital Gate Passes"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 Digital gate passes replace handwritten paper slips with OTP-verified, timestamped electronic passes that create an auditable visitor record. Schools using digital gate passes reduce tailgating, eliminate lost paper slips, and have a real-time view of who is currently on campus. This article covers the key challenges, practical solutions, and implementation steps for moving to digital gate passes.
 
 ---

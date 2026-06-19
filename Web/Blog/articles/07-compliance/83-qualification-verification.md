@@ -1,18 +1,21 @@
 ---
 title: "Teacher Qualification Verification: What Schools Must Check"
-slug: "teacher-qualification-verification-schools"
+slug: "83-qualification-verification"
 meta_description: "Verify teacher qualifications before hiring. Covers B.Ed. verification, CTET/TET certificate checks, RTE qualification norms, CBSE requirements, and fake certificate risks."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "teacher qualification verification schools"
-secondary_keywords: ["B.Ed verification school", "teacher eligibility test certificate", "RTE teacher qualification", "CBSE teacher qualification requirements"]
-intent: "informational"
+secondary_keywords:
+  - "B.Ed verification school"
+  - "teacher eligibility test certificate"
+  - "RTE teacher qualification"
+  - "CBSE teacher qualification requirements"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 Schools are required to hire teachers who meet the qualification norms specified under the RTE Act 2009, CBSE affiliation conditions, and applicable state education rules. Employing unqualified teachers is a compliance violation, and employing teachers with fake qualifications is a serious legal exposure.
 
 Qualification verification is not just checking whether a certificate exists, it is confirming with the issuing authority that the certificate is genuine.

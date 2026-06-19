@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Contingency Planning: Budget Overruns"
-slug: "contingency-planning-budget-overruns"
+slug: "28-contingency-planning-budget-overruns"
 meta_description: "Contingency Planning: Budget Overruns"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "contingency"
-secondary_keywords: ["planning:", "budget", "overruns", "school"]
+secondary_keywords:
+  - "planning:"
+  - "budget"
+  - "overruns"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Contingency Planning: Budget Overruns
 

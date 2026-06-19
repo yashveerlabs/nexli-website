@@ -1,8 +1,8 @@
 ---
 title: "School Nurse: Role and Responsibilities"
-slug: school-nurse-role-and-responsibilities
+slug: "33-school-nurse-role-and-responsibilities"
 meta_description: "Define the school nurse role in Indian K-12 schools: clinical duties, health education, special needs support, medication management, and compliance responsibilities."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school nurse role responsibilities"
 secondary_keywords:
   - "school nurse duties India"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # School Nurse: Role and Responsibilities
 
 School nurses provide essential healthcare and health promotion. Clear role definition ensures effective service.

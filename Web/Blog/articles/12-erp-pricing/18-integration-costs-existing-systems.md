@@ -1,20 +1,20 @@
-﻿---
+---
 title: "Integration Costs with Existing Systems: Bank, Transport, Accounting"
-slug: "integration-costs-existing-systems"
+slug: "18-integration-costs-existing-systems"
 meta_description: "School ERP integration costs with existing systems. Bank, transport, accounting, library integrations. Budget options from pre-built to custom APIs."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "integration costs school ERP existing systems"
-secondary_keywords: ["bank integration ERP", "transport integration school", "accounting software ERP integration"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "bank integration ERP"
+  - "transport integration school"
+  - "accounting software ERP integration"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 # Integration Costs with Existing Systems
 
 A school in Mumbai chose an ERP for academic management. But they already had separate systems for transport, canteen, and payroll. The principal asked the ERP vendor: "Can you integrate with these existing systems?" The vendor said: "Technically, yes, but it requires custom development." The integration cost quote: Rs. 1,50,000 for transport integration, Rs. 80,000 for canteen, and Rs. 60,000 for payroll. Total: Rs. 2,90,000. The principal was shocked. "We're already paying Rs. 50,000 annually for the ERP. Now integration costs nearly Rs. 3 lakhs?"

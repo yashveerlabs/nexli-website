@@ -1,19 +1,22 @@
 ---
 title: "School Community Partnerships"
-slug: school-community-partnerships
-category: 9
-order: 68
-primary_keyword: "school community partnerships"
+slug: "68-school-community-partnerships"
 meta_description: "Build strategic school community partnerships that expand resources and strengthen your mission. A practical guide for principals to identify, develop, and sustain partnerships."
-secondary_keywords: ["school business partnerships", "school nonprofit collaboration", "community engagement schools", "school partnership programs"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "school community partnerships"
+secondary_keywords:
+  - "school business partnerships"
+  - "school nonprofit collaboration"
+  - "community engagement schools"
+  - "school partnership programs"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
+order: 68
 ---
-
 # School Community Partnerships
 
 Partnerships expand school's reach and resources. Strategic partnerships enhance mission.

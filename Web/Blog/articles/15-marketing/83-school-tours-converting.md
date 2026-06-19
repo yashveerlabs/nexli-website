@@ -1,8 +1,8 @@
 ---
 title: "School Tours: Converting Prospects to Applications"
-slug: "school-tours-converting-prospects"
+slug: "83-school-tours-converting"
 meta_description: "Convert school tour visitors into applicants. Learn tour flow design, who should give tours, what to show, common objections, and follow-up after the campus visit."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school campus tours"
 secondary_keywords:
   - "school tour conversion"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # School Tours: Converting Prospects to Applications
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

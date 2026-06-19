@@ -1,18 +1,21 @@
 ---
 title: "Personal Data Under DPDP Act: School's Complete Definition Guide"
-slug: "personal-data-definition"
+slug: "30-personal-data-definition"
 meta_description: "Define personal data under DPDP Act for schools. Learn what student information is protected, sensitive categories, and how to handle each data type."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "personal data definition DPDP Act schools"
-secondary_keywords: ["student data privacy", "DPDP personal data", "sensitive data schools", "data classification"]
-intent: "informational"
+secondary_keywords:
+  - "student data privacy"
+  - "DPDP personal data"
+  - "sensitive data schools"
+  - "data classification"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
 ---
-
 Under India's DPDP Act 2023, personal data means any information that identifies or can identify a person. For schools, this covers almost everything: student names, grades, medical records, photographs, attendance data, and even IP addresses from the school portal.
 
 ## What Qualifies as Personal Data in Schools

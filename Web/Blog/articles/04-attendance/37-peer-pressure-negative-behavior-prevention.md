@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Peer Pressure and Negative Behavior: Prevention in Schools"
-slug: "peer-pressure-negative-behavior-prevention"
+slug: "37-peer-pressure-negative-behavior-prevention"
 meta_description: "Learn about peer pressure and negative behavior: prevention in schools in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "peer pressure and negative behavior: prevention in schools"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with peer pressure and negative behavior: prevention in schools:

@@ -1,18 +1,21 @@
 ---
 title: "Data Portability for Schools: Exporting Your Data When You Need It"
-slug: "data-portability"
+slug: "94-data-portability"
 meta_description: "Data portability for schools: which formats matter (CSV, JSON, XML), what to demand in vendor contracts, and why schools must never accept lock-in on their own data."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school data portability"
-secondary_keywords: ["school data export", "ERP data migration", "school vendor contract data", "DPDP data portability"]
-intent: "informational"
+secondary_keywords:
+  - "school data export"
+  - "ERP data migration"
+  - "school vendor contract data"
+  - "DPDP data portability"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Data Portability for Schools: Your Data Should Always Be Yours
 
 Data portability is the ability to export your own data from a software system in a usable format, at any time, without restriction. For schools, this means being able to extract all student records, attendance history, fee transactions, examination results, and operational data from their ERP or any other school software when they need it.

@@ -1,18 +1,21 @@
 ---
 title: "Anonymous Feedback Channels: Safe Spaces for Honest Input"
-slug: "anonymous-feedback-safe-spaces"
+slug: "43-anonymous-feedback-safe-spaces"
 meta_description: "Effective feedback & complaints strategies for Indian schools. Learn how anonymous feedback mechanisms encourage honest input without fear of retaliation. schools must act on anonymous feedback to prove they're taking it seriously."
-category: "Feedback & Complaints"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent feedback resolution"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Anonymous Feedback Channels: Safe Spaces for Honest Input
 
 Anonymous feedback mechanisms encourage honest input without fear of retaliation. Schools must act on anonymous feedback to prove they're taking it seriously.

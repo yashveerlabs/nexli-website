@@ -1,8 +1,8 @@
 ---
 title: "ERP for Small Schools: Is It Worth It Under 300 Students?"
-slug: "erp-for-small-schools"
+slug: "70-erp-for-small-schools"
 meta_description: "Is school ERP cost-effective for small schools under 300 students? What to look for, what to avoid, and how small schools can get ERP value without overpaying."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "ERP for small schools India"
 secondary_keywords:
   - "small school management software India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "budget school ERP small school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## ERP for Small Schools: Is It Worth It Under 300 Students?
 
 **Small schools, under 300 students, are the largest segment of Indian private schools by count. For these schools, the ERP question is often about affordability and proportionality. A ₹2 lakh ERP subscription is a much larger proportion of a small school's budget than a large school's. But small schools face the same DPDP Act obligations, the same compliance requirements, and the same parent communication expectations. This guide explains when ERP makes sense for small schools and what to look for.**

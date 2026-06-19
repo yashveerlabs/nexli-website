@@ -1,8 +1,8 @@
 ---
 title: "Earthquake and Natural Disaster Preparedness: Protect Students and Staff"
-slug: "earthquake-natural-disaster-preparedness"
+slug: "16-earthquake-natural-disaster-preparedness"
 meta_description: "Comprehensive guide to earthquake and natural disaster preparedness for schools. Drills, protocols, and safety measures to protect students and staff."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "earthquake preparedness schools"
 secondary_keywords:
   - "disaster preparedness schools"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Earthquake and Natural Disaster Preparedness: Protect Students and Staff
 
 **Natural disasters strike without warning. Earthquakes, floods, cyclones, fires, all pose existential threats to schools. Your job is to prepare, practice, and respond. This article provides a comprehensive framework for disaster preparedness: from building structural safety to emergency protocols to regular drills.**

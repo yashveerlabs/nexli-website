@@ -2,7 +2,7 @@
 title: "How to Map Your Curriculum to NCERT and Board Standards"
 slug: "map-curriculum-ncert-board-standards"
 meta_description: "Step-by-step guide to align your school curriculum with NCERT and board requirements for compliance."
-category: "03"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "curriculum mapping, NCERT alignment, board standards"
 secondary_keywords:
   - "curriculum design"
@@ -12,9 +12,11 @@ secondary_keywords:
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
+branding_block_founder: 7
+branding_block_company: 7
+branding_block_nexli: 7
 branding_block: 20
 ---
-
 # How to Map Your Curriculum to NCERT and Board Standards
 
 ## Problem

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Maintenance Budget Allocation: Planned vs. Emergency"
-slug: "maintenance-budget-planned-emergency"
+slug: "75-maintenance-budget-planned-emergency"
 meta_description: "Learn about maintenance budget allocation: planned vs. emergency in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "maintenance budget allocation: planned vs. emergency"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with maintenance budget allocation: planned vs. emergency:

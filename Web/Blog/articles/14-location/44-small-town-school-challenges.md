@@ -1,18 +1,20 @@
 ---
 title: "Small Town School Challenges"
-slug: "small-town-school-challenges"
+slug: "44-small-town-school-challenges"
 meta_description: "Small-town school challenges in India: connectivity gaps, limited IT resources, tight budgets, and how cloud-based ERP addresses each without complexity."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "small town school challenges India ERP"
-secondary_keywords: ["school challenges small towns India", "Tier 3 school management", "rural school ERP India", "small-town school software"]
+secondary_keywords:
+  - "school challenges small towns India"
+  - "Tier 3 school management"
+  - "rural school ERP India"
+  - "small-town school software"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Small Town School Challenges
 

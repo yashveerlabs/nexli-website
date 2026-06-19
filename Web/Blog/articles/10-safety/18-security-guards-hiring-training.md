@@ -1,8 +1,8 @@
 ---
 title: "Security Guards: Hiring, Training, and Managing Your Security Team"
-slug: "security-guards-hiring-training"
+slug: "18-security-guards-hiring-training"
 meta_description: "Comprehensive guide to hiring, training, and managing school security guards. Build an effective security team to protect students and staff."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school security guards"
 secondary_keywords:
   - "hiring security staff"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Security Guards: Hiring, Training, and Managing Your Security Team
 
 **Security guards are your first line of defense. A good guard prevents problems; a weak one creates liability. This article teaches you how to hire qualified guards, train them properly, and manage them effectively.**

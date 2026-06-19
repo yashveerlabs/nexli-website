@@ -1,18 +1,21 @@
 ---
 title: "Building School IT Infrastructure: Network, Devices, Connectivity, and Cloud"
-slug: "it-infrastructure-building"
+slug: "85-it-infrastructure-building"
 meta_description: "How to build school IT infrastructure: network design, cloud-first vs. on-premise, device procurement, internet connectivity with redundancy, and AV equipment planning."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school IT infrastructure"
-secondary_keywords: ["school network setup India", "cloud-first school ERP", "school device procurement", "internet connectivity school"]
-intent: "informational"
+secondary_keywords:
+  - "school network setup India"
+  - "cloud-first school ERP"
+  - "school device procurement"
+  - "internet connectivity school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Building School IT Infrastructure: A Practical Guide
 
 School IT infrastructure is the physical and logical foundation on which all digital systems run. It includes the network that connects devices, the devices themselves, the internet connection, and the server or cloud environment where software and data live. Getting this right before deploying software systems avoids the frustrating situation where a school has invested in good software that runs poorly because the infrastructure under it is inadequate.

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Delivering Bad News to Parents: Difficult Conversations and Support"
-slug: "delivering-bad-news-parents-difficult-conversations"
+slug: "67-delivering-bad-news-parents-difficult-conversations"
 meta_description: "Effective special circumstances strategies for Indian schools. Learn how news of academic failure, behavioral problems, or safety incidents requires empathy, clarity, and support resources for families."
-category: "Special Circumstances"
+category: "Parent Communication & Engagement"
 primary_keyword: "specialized parent communication"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Delivering Bad News to Parents: Difficult Conversations and Support
 
 News of academic failure, behavioral problems, or safety incidents requires empathy, clarity, and support resources for families.

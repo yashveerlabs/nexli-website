@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Peer Assessment Effectiveness (And How to Fix Them)
-slug: common-mistakes-in-peer-assessment-effectiveness-and-how-to-fix-them
-meta_description: Common Mistakes in Peer Assessment Effectiveness (And How...
-category: Research & Statistics
-primary_keyword: peer assessment effectiveness
+title: "Common Mistakes in Peer Assessment Effectiveness (And How to Fix Them)"
+slug: "040-common-mistakes-in-peer-assessment-effectiveness-and-how-to-fix-them"
+meta_description: "Common Mistakes in Peer Assessment Effectiveness (And How..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "peer assessment effectiveness"
 secondary_keywords:
-  - peer assessment effectiveness schools
-  - best practices peer assessment effectiveness
-  - peer assessment effectiveness strategy
-  - how to implement peer assessment effectiveness
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "peer assessment effectiveness schools"
+  - "best practices peer assessment effectiveness"
+  - "peer assessment effectiveness strategy"
+  - "how to implement peer assessment effectiveness"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on peer assessment effectiveness for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

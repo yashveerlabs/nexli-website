@@ -1,19 +1,22 @@
 ---
 title: "Principal Accountability: Reporting to Board"
-slug: principal-accountability-reporting-to-board
-category: 9
-order: 61
-primary_keyword: "principal accountability reporting to board"
+slug: "61-principal-accountability-reporting-to-board"
 meta_description: "Build transparent accountability systems that demonstrate your effectiveness to the school board. Monthly reports, annual evaluations, and financial accountability frameworks."
-secondary_keywords: ["principal performance reporting", "school board accountability", "principal evaluation criteria", "school governance accountability"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "principal accountability reporting to board"
+secondary_keywords:
+  - "principal performance reporting"
+  - "school board accountability"
+  - "principal evaluation criteria"
+  - "school governance accountability"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
+order: 61
 ---
-
 # Principal Accountability: Reporting to Board
 
 Clear accountability demonstrates leadership effectiveness and builds board confidence.

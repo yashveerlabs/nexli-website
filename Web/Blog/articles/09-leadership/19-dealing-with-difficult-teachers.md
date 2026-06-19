@@ -1,8 +1,8 @@
 ---
 title: "Dealing with Difficult Teachers: How Principals Support or Remove Underperformers"
-slug: "dealing-with-difficult-teachers"
+slug: "19-dealing-with-difficult-teachers"
 meta_description: "Learn to manage difficult teachers professionally. Strategies for coaching improvement, setting boundaries, and when to remove an underperforming teacher."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "dealing with difficult teachers"
 secondary_keywords:
   - "managing underperforming teachers"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Dealing with Difficult Teachers: How Principals Support or Remove Underperformers
 
 **Every principal faces difficult teachers: the one who chronically arrives late, the one whose teaching methods are outdated, the one who's disrespectful to parents, the one who doesn't follow school policies. Ignoring these issues damages school culture, student learning, and staff morale. But confronting them is uncomfortable, emotionally draining, and legally risky if not handled properly. This article teaches you how to distinguish between performance issues (fixable with coaching) and conduct issues (requiring formal action), and provides a clear framework for managing both.**

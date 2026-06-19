@@ -1,22 +1,21 @@
-﻿---
-title: Excellence in Sabbatical Programs: What Schools Must Know
-slug: excellence-in-sabbatical-programs-what-schools-must-know
-meta_description: Excellence in Sabbatical Programs: What Schools Must Know
-category: HR & Recruitment
-primary_keyword: sabbatical programs
+---
+title: "Excellence in Sabbatical Programs: What Schools Must Know"
+slug: "057-excellence-in-sabbatical-programs-what-schools-must-know"
+meta_description: "Excellence in Sabbatical Programs: What Schools Must Know"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "sabbatical programs"
 secondary_keywords:
-  - sabbatical programs schools
-  - best practices sabbatical programs
-  - sabbatical programs strategy
-  - how to implement sabbatical programs
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "sabbatical programs schools"
+  - "best practices sabbatical programs"
+  - "sabbatical programs strategy"
+  - "how to implement sabbatical programs"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on sabbatical programs for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

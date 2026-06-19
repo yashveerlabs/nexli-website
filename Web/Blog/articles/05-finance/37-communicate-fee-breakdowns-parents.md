@@ -1,18 +1,21 @@
-﻿---
+---
 title: "How to Communicate Fee Breakdowns to Parents"
-slug: "communicate-fee-breakdowns-parents"
+slug: "37-communicate-fee-breakdowns-parents"
 meta_description: "Learn about how to communicate fee breakdowns to parents in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "how to communicate fee breakdowns to parents"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with how to communicate fee breakdowns to parents:

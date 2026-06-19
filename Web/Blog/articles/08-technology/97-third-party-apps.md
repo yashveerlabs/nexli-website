@@ -1,18 +1,21 @@
 ---
 title: "Using Third-Party Apps with Your School ERP: Benefits, Risks, and Governance"
-slug: "third-party-apps"
+slug: "97-third-party-apps"
 meta_description: "Third-party apps with school ERP: benefits of best-of-breed tools, data fragmentation risks, integration requirements, and governance policies schools should have."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "third-party apps school ERP"
-secondary_keywords: ["school app integration", "school EdTech governance", "best of breed school software", "school data security third party"]
-intent: "informational"
+secondary_keywords:
+  - "school app integration"
+  - "school EdTech governance"
+  - "best of breed school software"
+  - "school data security third party"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Third-Party Apps and Your School ERP: Making the Right Choices
 
 As EdTech has grown, the number of applications available to schools has expanded rapidly. There are tools specifically designed for gamified learning, adaptive practice, coding education, art portfolio management, mental health check-ins, parent communication, and dozens of other purposes. Many of these tools offer capabilities that a school ERP would not include as built-in features.

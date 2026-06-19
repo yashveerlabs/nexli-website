@@ -1,8 +1,8 @@
 ---
 title: "Stakeholder Analysis for School Principals: Map Influence and Align Your Leadership"
-slug: "stakeholder-analysis-school-leaders"
+slug: "15-stakeholder-analysis-school-leaders"
 meta_description: "Learn how to identify, map, and engage stakeholders effectively as a principal. Use stakeholder analysis to build coalitions and navigate school politics."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "stakeholder analysis school principals"
 secondary_keywords:
   - "school stakeholder mapping"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Stakeholder Analysis for School Principals: Map Influence and Align Your Leadership
 
 **Most principals fail not because their ideas are bad, but because they misread the power dynamics in their school community. You push a curriculum change and face unexpected resistance. You announce a fee hike and hear backlash you didn't anticipate. You try to remove an underperforming teacher and face coalition-building from parents and staff. The root cause? You didn't map your stakeholders. This article teaches you how to identify who matters, understand their motivations, and build the support you need to lead effectively.**

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Building a Capital Expenditure Plan for Infrastructure"
-slug: "building-capital-expenditure-plan"
+slug: "98-building-capital-expenditure-plan"
 meta_description: "Learn about building a capital expenditure plan for infrastructure in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "building a capital expenditure plan for infrastructure"
-secondary_keywords: ["school management", "school policy", "finance", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "finance"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Complex Financial Management Without Clear Systems
 
 Most schools struggle with building a capital expenditure plan for infrastructure:

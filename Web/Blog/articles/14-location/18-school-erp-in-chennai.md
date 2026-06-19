@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Chennai"
-slug: "school-erp-in-chennai"
+slug: "18-school-erp-in-chennai"
 meta_description: "School ERP in Chennai: cloud-based school management for Tamil Nadu schools with CBSE, State Board, and matriculation compliance plus parent portal and analytics."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Chennai"
-secondary_keywords: ["school management system Chennai", "Chennai school software", "Tamil Nadu school ERP", "best ERP for Chennai schools"]
+secondary_keywords:
+  - "school management system Chennai"
+  - "Chennai school software"
+  - "Tamil Nadu school ERP"
+  - "best ERP for Chennai schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Chennai
 

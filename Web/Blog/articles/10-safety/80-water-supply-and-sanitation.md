@@ -1,18 +1,21 @@
-﻿---
-title: Water Supply and Sanitation
-slug: water-supply-and-sanitation
-meta_description: Establish reliable water supply systems with quality testing, backup supply, and contamination prevention.
-category: Safety & Operations
-primary_keyword: school water supply management
-secondary_keywords: ['water quality testing', 'distribution systems', 'backup supply', 'contamination prevention']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "Water Supply and Sanitation"
+slug: "80-water-supply-and-sanitation"
+meta_description: "Establish reliable water supply systems with quality testing, backup supply, and contamination prevention."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "school water supply management"
+secondary_keywords:
+  - "water quality testing"
+  - "distribution systems"
+  - "backup supply"
+  - "contamination prevention"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Water Supply and Sanitation: Comprehensive Guide
 
 This guide provides comprehensive guidance on water supply and sanitation.

@@ -1,18 +1,20 @@
 ---
 title: "School ERP Pricing Adjustment by City"
-slug: "school-erp-pricing-adjustment-by-city"
+slug: "82-school-erp-pricing-adjustment-by-city"
 meta_description: "School ERP value by city: how cloud-based school management delivers ROI in metro, Tier 2, and Tier 3 school markets with different operational priorities."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP value by city India"
-secondary_keywords: ["school ERP ROI by city India", "school management cost tier 2 tier 3", "affordable school ERP India cities", "school software value metro Tier 2"]
+secondary_keywords:
+  - "school ERP ROI by city India"
+  - "school management cost tier 2 tier 3"
+  - "affordable school ERP India cities"
+  - "school software value metro Tier 2"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## School ERP Pricing Adjustment by City
 

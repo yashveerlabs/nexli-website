@@ -1,18 +1,20 @@
 ---
 title: "Kerala School Regulations"
-slug: "kerala-school-regulations"
+slug: "41-kerala-school-regulations"
 meta_description: "Kerala school regulations and ERP compliance: KBPE requirements, CBSE affiliate norms, RTE tracking, and Kerala-specific education compliance."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "Kerala school regulations ERP"
-secondary_keywords: ["Kerala school compliance", "KBPE school ERP", "school regulation compliance Kerala", "Kerala CBSE school requirements"]
+secondary_keywords:
+  - "Kerala school compliance"
+  - "KBPE school ERP"
+  - "school regulation compliance Kerala"
+  - "Kerala CBSE school requirements"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Kerala School Regulations
 

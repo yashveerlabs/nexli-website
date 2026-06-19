@@ -1,8 +1,8 @@
 ---
 title: "Email A/B Testing: Optimizing Newsletter Performance"
-slug: "email-ab-testing-schools"
+slug: "61-email-ab-testing"
 meta_description: "Optimize school newsletter performance through A/B testing. Learn how to test subject lines, send times, content formats, and analyze results to improve open rates."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school email A/B testing"
 secondary_keywords:
   - "school newsletter optimization"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Email A/B Testing: Optimizing Newsletter Performance
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

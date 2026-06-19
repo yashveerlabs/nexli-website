@@ -1,18 +1,21 @@
 ---
 title: "Chatbots for School Parent Queries: What Works and What to Expect"
-slug: "chatbots"
+slug: "81-chatbots"
 meta_description: "FAQ chatbots can handle routine school queries about fees, schedules, and events. WhatsApp chatbots require Business API approval. Here is an honest guide for schools."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school chatbot parent queries"
-secondary_keywords: ["WhatsApp chatbot school", "school FAQ automation", "parent communication automation", "school ERP chatbot"]
-intent: "informational"
+secondary_keywords:
+  - "WhatsApp chatbot school"
+  - "school FAQ automation"
+  - "parent communication automation"
+  - "school ERP chatbot"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Chatbots for School Parent Queries: A Practical Guide
 
 A chatbot for school parents is software that answers common questions automatically, without a human operator. The questions that come to school front desks, phone lines, and email inboxes follow predictable patterns: What are the school timings? When is the next fee due date? What is the holiday list for this year? What documents are needed for admission? Is there a parent-teacher meeting this month?

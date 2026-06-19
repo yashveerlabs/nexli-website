@@ -1,18 +1,20 @@
-﻿---
+---
 title: "75% Attendance Rule in CBSE Schools: What You Need to Know"
-slug: "75-percent-attendance-rule-cbse"
+slug: "03-75-percent-attendance-rule-cbse"
 meta_description: "CBSE 75% attendance rule explained. Compliance requirements, exceptions, and strategies for schools to meet standards."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "CBSE 75 percent attendance rule"
-secondary_keywords: ["board exam attendance requirement", "attendance compliance", "CBSE regulations"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "board exam attendance requirement"
+  - "attendance compliance"
+  - "CBSE regulations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Rule: What CBSE Requires
 
 **The Requirement:**

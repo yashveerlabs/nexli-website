@@ -1,20 +1,21 @@
 ---
 title: "School ERP: What It Is and Why You Need One"
-slug: "school-erp-what-why-need"
+slug: "01-school-erp-what-is"
 meta_description: "Understand what a school ERP is. Learn how enterprise resource planning software helps schools manage academics, finance, HR, and operations efficiently."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school ERP software"
-secondary_keywords: ["enterprise resource planning schools", "school management system", "digital school management", "ERP benefits schools"]
-intent: "informational"
+secondary_keywords:
+  - "enterprise resource planning schools"
+  - "school management system"
+  - "digital school management"
+  - "ERP benefits schools"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## What is a School ERP?
 
 An Enterprise Resource Planning (ERP) system is software that consolidates all school operations into a single platform. Instead of using separate tools for academics (Gradebook, LMS), finance (fee tracking, invoicing), HR (payroll, attendance), and operations (transport, inventory), an ERP integrates all functions into one database.

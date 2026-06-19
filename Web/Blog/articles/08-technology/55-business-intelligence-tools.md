@@ -1,18 +1,20 @@
 ---
 title: "Business Intelligence for Schools: Dashboards, Reports, and What Principals Actually Need"
-slug: "business-intelligence-tools"
+slug: "55-business-intelligence-tools"
 meta_description: "BI tools for schools show dashboards, trend reports, and strategic analytics. Learn the difference between operational reports and BI, and what a principal's dashboard should include."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "business intelligence for schools"
-secondary_keywords: ["school principal dashboard", "school reporting tools", "strategic school analytics"]
-intent: "informational"
+secondary_keywords:
+  - "school principal dashboard"
+  - "school reporting tools"
+  - "strategic school analytics"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Business Intelligence for Schools: What It Is and Why It Differs From Reports
 
 Business intelligence for schools refers to the layer above raw reports that helps school leaders see trends, compare periods, and make strategic decisions. Most school software produces operational reports: this week's attendance, last month's fee collection, the exam marks for Class 10. BI tools take those numbers and present them in ways that make patterns visible: a chart showing attendance dropping every November, a trend line showing fee collection improving since SMS reminders were added, a scatter plot showing which students are at risk across three dimensions simultaneously.

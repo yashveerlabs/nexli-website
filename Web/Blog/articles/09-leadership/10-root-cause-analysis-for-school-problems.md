@@ -1,19 +1,22 @@
 ---
 title: "Root Cause Analysis for School Problems"
-slug: root-cause-analysis-for-school-problems
-category: 9
-order: 10
-primary_keyword: "root cause analysis for school problems"
+slug: "10-root-cause-analysis-for-school-problems"
 meta_description: "Learn how school principals can use root cause analysis, 5 Whys, fishbone diagrams, and systems thinking, to solve recurring problems and drive lasting school improvement."
-secondary_keywords: ["school problem solving techniques", "principal root cause analysis", "school improvement strategies", "diagnosing school challenges"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "root cause analysis for school problems"
+secondary_keywords:
+  - "school problem solving techniques"
+  - "principal root cause analysis"
+  - "school improvement strategies"
+  - "diagnosing school challenges"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
+order: 10
 ---
-
 # Root Cause Analysis for School Problems
 
 Principals often treat symptoms instead of causes. A teacher leaves mid-year and you rush to find a replacement instead of asking why good teachers are leaving. Test scores drop and you blame students instead of examining teaching quality. Learning to dig deeper saves time and actually solves problems.

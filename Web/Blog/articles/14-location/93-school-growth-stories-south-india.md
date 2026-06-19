@@ -1,18 +1,20 @@
 ---
 title: "School Growth Stories: South India"
-slug: "school-growth-stories-south-india"
+slug: "93-school-growth-stories-south-india"
 meta_description: "School growth in South India: how schools in Karnataka, Tamil Nadu, Telangana, and Kerala scaled admissions, operations, and compliance with cloud-based ERP."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school growth South India ERP"
-secondary_keywords: ["South India school growth ERP", "school scaling Tamil Nadu Karnataka Kerala", "school ERP South India success", "growing school management South India"]
+secondary_keywords:
+  - "South India school growth ERP"
+  - "school scaling Tamil Nadu Karnataka Kerala"
+  - "school ERP South India success"
+  - "growing school management South India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## School Growth Stories: South India
 

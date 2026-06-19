@@ -1,22 +1,21 @@
 ---
-title: Blended Learning Implementation for Modern Indian Schools
-slug: blended-learning-implementation-for-modern-indian-schools
-meta_description: Blended Learning Implementation for Modern Indian Schools
-category: Success Stories & Cases
-primary_keyword: blended learning implementation
+title: "Blended Learning Implementation for Modern Indian Schools"
+slug: "064-blended-learning-implementation-for-modern-indian-schools"
+meta_description: "Blended Learning Implementation for Modern Indian Schools"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "blended learning implementation"
 secondary_keywords:
-  - blended learning implementation schools
-  - best practices blended learning implementation
-  - blended learning implementation strategy
-  - how to implement blended learning implementation
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "blended learning implementation schools"
+  - "best practices blended learning implementation"
+  - "blended learning implementation strategy"
+  - "how to implement blended learning implementation"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on blended learning implementation for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

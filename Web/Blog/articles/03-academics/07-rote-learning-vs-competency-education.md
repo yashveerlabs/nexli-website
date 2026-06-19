@@ -1,18 +1,21 @@
 ---
 title: "Balancing Rote Learning and Competency-Based Education"
-slug: "rote-learning-competency-based-education"
+slug: "07-rote-learning-vs-competency-education"
 meta_description: "Balance rote learning and competency-based education in Indian schools. Practical strategies for teaching both foundational knowledge and critical skills."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "rote learning competency-based education balance"
-secondary_keywords: ["memorization vs understanding", "conceptual learning", "NEP 2020 implementation", "teaching methodology"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "memorization vs understanding"
+  - "conceptual learning"
+  - "NEP 2020 implementation"
+  - "teaching methodology"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: The False Dichotomy
 
 The debate is often framed as binary: either teach students to memorize facts (rote learning) or teach them to think critically (competency-based education). Schools must choose.

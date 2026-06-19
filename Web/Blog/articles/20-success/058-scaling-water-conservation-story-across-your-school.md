@@ -1,22 +1,21 @@
 ---
-title: Scaling Water Conservation Story Across Your School
-slug: scaling-water-conservation-story-across-your-school
-meta_description: Scaling Water Conservation Story Across Your School
-category: Success Stories & Cases
-primary_keyword: water conservation story
+title: "Scaling Water Conservation Story Across Your School"
+slug: "058-scaling-water-conservation-story-across-your-school"
+meta_description: "Scaling Water Conservation Story Across Your School"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "water conservation story"
 secondary_keywords:
-  - water conservation story schools
-  - best practices water conservation story
-  - water conservation story strategy
-  - how to implement water conservation story
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "water conservation story schools"
+  - "best practices water conservation story"
+  - "water conservation story strategy"
+  - "how to implement water conservation story"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on water conservation story for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,18 +1,21 @@
-﻿---
-title: Classroom Safety: Furniture and Equipment
-slug: classroom-safety-furniture-and-equipment
-meta_description: Ensure classroom furniture and equipment meet safety standards with proper inspection and maintenance protocols.
-category: Safety & Operations
-primary_keyword: classroom furniture safety
-secondary_keywords: ['equipment inspection', 'student safety', 'hazard removal', 'age-appropriate setup']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "Classroom Safety: Furniture and Equipment"
+slug: "76-classroom-safety-furniture-and-equipment"
+meta_description: "Ensure classroom furniture and equipment meet safety standards with proper inspection and maintenance protocols."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "classroom furniture safety"
+secondary_keywords:
+  - "equipment inspection"
+  - "student safety"
+  - "hazard removal"
+  - "age-appropriate setup"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Classroom Safety: Furniture and Equipment: Comprehensive Guide
 
 Classrooms are designed for learning, but hazardous furniture and equipment can injure students instantly. Wobbly desks, broken chair legs, sharp edges, and expired electrical equipment create preventable accidents. This guide ensures classroom safety through furniture assessment and maintenance.

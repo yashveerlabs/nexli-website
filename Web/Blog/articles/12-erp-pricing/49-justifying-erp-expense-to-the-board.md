@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Justifying ERP Expense to the Board"
-slug: "justifying-erp-expense-to-the-board"
+slug: "49-justifying-erp-expense-to-the-board"
 meta_description: "Justifying ERP Expense to the Board"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "justifying"
-secondary_keywords: ["erp", "expense", "to", "the"]
+secondary_keywords:
+  - "erp"
+  - "expense"
+  - "to"
+  - "the"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Justifying ERP Expense to the Board
 

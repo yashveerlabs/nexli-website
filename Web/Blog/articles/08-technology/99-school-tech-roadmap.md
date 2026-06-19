@@ -1,18 +1,21 @@
 ---
 title: "Building a 3-5 Year Technology Roadmap for Your School"
-slug: "school-tech-roadmap"
+slug: "99-school-tech-roadmap"
 meta_description: "How to build a school technology roadmap: assess current state, prioritize investments, sequence implementations, spread budget across years, and review annually."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school technology roadmap"
-secondary_keywords: ["school IT planning", "EdTech strategy India", "school digital transformation plan", "school technology budget planning"]
-intent: "informational"
+secondary_keywords:
+  - "school IT planning"
+  - "EdTech strategy India"
+  - "school digital transformation plan"
+  - "school technology budget planning"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Building a 3-5 Year Technology Roadmap for Your School
 
 A technology roadmap is a structured plan that shows what technology investments a school will make, in what sequence, over a multi-year period. Without a roadmap, technology decisions happen reactively: a problem appears, a vendor presents a solution, the school buys it, and three years later the school has a collection of disconnected systems with no coherent direction.

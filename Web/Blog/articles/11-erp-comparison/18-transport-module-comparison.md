@@ -1,8 +1,8 @@
 ---
 title: "Transport Module Comparison: What a School ERP Should Offer"
-slug: "transport-module-comparison"
+slug: "18-transport-module-comparison"
 meta_description: "Compare school ERP transport modules: GPS tracking, RFID boarding alerts, route management, driver records, vehicle maintenance, and parent notifications."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP transport module"
 secondary_keywords:
   - "school bus tracking ERP"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school transport route management"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 ## Transport Module Comparison: What a School ERP Should Offer
 
 **School transport is a daily safety concern. Parents want to know their child boarded the bus and arrived safely. School management wants to know where every bus is and which students are aboard. The transport module in a school ERP must connect GPS data, RFID boarding, route management, and parent notifications into a single operational picture.**

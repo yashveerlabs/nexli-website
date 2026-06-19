@@ -1,18 +1,21 @@
 ---
 title: "Setting Up a DPO Office in Schools: Practical Implementation Guide"
-slug: "dpo-office-setup"
+slug: "33-dpo-office-setup"
 meta_description: "Set up a functional DPO office in your school. Learn the systems, documentation, workflows, and tools a school DPO needs for DPDP Act compliance."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "DPO office setup schools"
-secondary_keywords: ["DPO implementation", "data privacy office", "school privacy setup", "DPDP implementation"]
-intent: "informational"
+secondary_keywords:
+  - "DPO implementation"
+  - "data privacy office"
+  - "school privacy setup"
+  - "DPDP implementation"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
 ---
-
 A DPO office is not a physical room, it is a set of systems, documents, and workflows that ensure student and parent data is protected, consent is tracked, and breaches are handled correctly. Setting it up takes 30-40 hours in Year 1 but reduces compliance risk significantly.
 
 ## Step 1: Formal DPO Appointment

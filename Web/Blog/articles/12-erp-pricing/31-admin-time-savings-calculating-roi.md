@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Admin Time Savings: Calculating ROI"
-slug: "admin-time-savings-calculating-roi"
+slug: "31-admin-time-savings-calculating-roi"
 meta_description: "Admin Time Savings: Calculating ROI"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "admin"
-secondary_keywords: ["time", "savings:", "calculating", "roi"]
+secondary_keywords:
+  - "time"
+  - "savings:"
+  - "calculating"
+  - "roi"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Admin Time Savings: Calculating ROI
 

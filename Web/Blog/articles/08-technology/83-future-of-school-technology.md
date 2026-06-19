@@ -1,18 +1,21 @@
 ---
 title: "The Future of School Technology: Near-Term Realities and Longer-Term Possibilities"
-slug: "future-of-school-technology"
+slug: "83-future-of-school-technology"
 meta_description: "Where school technology is heading: what will arrive in 3-5 years vs. what is further out. AI tutors, adaptive assessments, IoT campus safety, AR/VR labs, and more."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "future of school technology"
-secondary_keywords: ["EdTech trends India", "school technology roadmap", "AI tutors schools", "adaptive assessment technology"]
-intent: "informational"
+secondary_keywords:
+  - "EdTech trends India"
+  - "school technology roadmap"
+  - "AI tutors schools"
+  - "adaptive assessment technology"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## The Future of School Technology: What Is Coming and When
 
 School technology is moving faster than most institutions can absorb, but not as fast as vendor marketing suggests. This article looks at specific developments, distinguishes between what is arriving in the next three to five years versus what is further out, and discusses what Indian schools should prioritize in their planning.

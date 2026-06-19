@@ -1,22 +1,21 @@
 ---
-title: Practical Strategies for Emergency Contact Form
-slug: practical-strategies-for-emergency-contact-form
-meta_description: Practical Strategies for Emergency Contact Form
-category: SOPs & Templates
-primary_keyword: emergency contact form
+title: "Practical Strategies for Emergency Contact Form"
+slug: "045-practical-strategies-for-emergency-contact-form"
+meta_description: "Practical Strategies for Emergency Contact Form"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "emergency contact form"
 secondary_keywords:
-  - emergency contact form schools
-  - best practices emergency contact form
-  - emergency contact form strategy
-  - how to implement emergency contact form
-intent: informational
+  - "emergency contact form schools"
+  - "best practices emergency contact form"
+  - "emergency contact form strategy"
+  - "how to implement emergency contact form"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on emergency contact form for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

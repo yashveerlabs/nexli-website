@@ -1,22 +1,21 @@
 ---
-title: The Mobility Impaired Accommodations Playbook: Implementation Guide
-slug: the-mobility-impaired-accommodations-playbook-implementation-guide
-meta_description: The Mobility Impaired Accommodations Playbook: Implementa...
-category: Research & Statistics
-primary_keyword: mobility impaired accommodations
+title: "The Mobility Impaired Accommodations Playbook: Implementation Guide"
+slug: "086-the-mobility-impaired-accommodations-playbook-implementation-guide"
+meta_description: "The Mobility Impaired Accommodations Playbook: Implementa..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "mobility impaired accommodations"
 secondary_keywords:
-  - mobility impaired accommodations schools
-  - best practices mobility impaired accommodations
-  - mobility impaired accommodations strategy
-  - how to implement mobility impaired accommodations
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "mobility impaired accommodations schools"
+  - "best practices mobility impaired accommodations"
+  - "mobility impaired accommodations strategy"
+  - "how to implement mobility impaired accommodations"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on mobility impaired accommodations for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

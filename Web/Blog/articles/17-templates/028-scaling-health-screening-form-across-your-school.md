@@ -1,22 +1,21 @@
 ---
-title: Scaling Health Screening Form Across Your School
-slug: scaling-health-screening-form-across-your-school
-meta_description: Scaling Health Screening Form Across Your School
-category: SOPs & Templates
-primary_keyword: health screening form
+title: "Scaling Health Screening Form Across Your School"
+slug: "028-scaling-health-screening-form-across-your-school"
+meta_description: "Scaling Health Screening Form Across Your School"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "health screening form"
 secondary_keywords:
-  - health screening form schools
-  - best practices health screening form
-  - health screening form strategy
-  - how to implement health screening form
-intent: informational
+  - "health screening form schools"
+  - "best practices health screening form"
+  - "health screening form strategy"
+  - "how to implement health screening form"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on health screening form for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

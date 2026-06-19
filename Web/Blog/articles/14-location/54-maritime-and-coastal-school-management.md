@@ -1,18 +1,20 @@
 ---
 title: "Maritime and Coastal School Management"
-slug: "maritime-and-coastal-school-management"
+slug: "54-maritime-and-coastal-school-management"
 meta_description: "Maritime and coastal school management: ERP solutions for schools in India's coastal zones handling environmental compliance, hostel management, and transport."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "maritime coastal school management ERP"
-secondary_keywords: ["coastal school ERP India", "maritime school management", "school software coastal India", "school operations coastal states India"]
+secondary_keywords:
+  - "coastal school ERP India"
+  - "maritime school management"
+  - "school software coastal India"
+  - "school operations coastal states India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Maritime and Coastal School Management
 

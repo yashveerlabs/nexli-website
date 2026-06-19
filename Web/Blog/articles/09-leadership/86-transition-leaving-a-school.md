@@ -1,10 +1,9 @@
 ---
 title: "Transition: Leaving a School"
-slug: transition-leaving-a-school
-category: 9
-order: 86
-primary_keyword: "how to leave a school as a principal"
+slug: "86-transition-leaving-a-school"
 meta_description: "Leaving a school well protects your legacy and ensures continuity. Learn how to time your exit, document systems, transfer knowledge, and support your successor professionally."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to leave a school as a principal"
 secondary_keywords:
   - "principal transition planning"
   - "school leadership succession"
@@ -16,8 +15,8 @@ date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
+order: 86
 ---
-
 # Transition: Leaving a School
 
 When you leave a school, manage transition professionally to protect school and legacy.

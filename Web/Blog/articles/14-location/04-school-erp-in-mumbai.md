@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Mumbai"
-slug: "school-erp-in-mumbai"
+slug: "04-school-erp-in-mumbai"
 meta_description: "School ERP in Mumbai: manage complex multi-curriculum operations, hostel management, and diverse student populations across India's largest education market."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Mumbai"
-secondary_keywords: ["school management system Mumbai", "Mumbai school software", "Maharashtra school ERP", "best ERP for Mumbai schools"]
+secondary_keywords:
+  - "school management system Mumbai"
+  - "Mumbai school software"
+  - "Maharashtra school ERP"
+  - "best ERP for Mumbai schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Mumbai
 

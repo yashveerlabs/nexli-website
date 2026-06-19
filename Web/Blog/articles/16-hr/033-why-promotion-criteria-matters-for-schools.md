@@ -1,22 +1,21 @@
-﻿---
-title: Why Promotion Criteria Matters for Schools
-slug: why-promotion-criteria-matters-for-schools
-meta_description: Why Promotion Criteria Matters for Schools
-category: HR & Recruitment
-primary_keyword: promotion criteria
+---
+title: "Why Promotion Criteria Matters for Schools"
+slug: "033-why-promotion-criteria-matters-for-schools"
+meta_description: "Why Promotion Criteria Matters for Schools"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "promotion criteria"
 secondary_keywords:
-  - promotion criteria schools
-  - best practices promotion criteria
-  - promotion criteria strategy
-  - how to implement promotion criteria
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "promotion criteria schools"
+  - "best practices promotion criteria"
+  - "promotion criteria strategy"
+  - "how to implement promotion criteria"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on promotion criteria for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,22 +1,21 @@
-﻿---
-title: The Overtime Management Playbook: Implementation Guide
-slug: the-overtime-management-playbook-implementation-guide
-meta_description: The Overtime Management Playbook: Implementation Guide
-category: HR & Recruitment
-primary_keyword: overtime management
+---
+title: "The Overtime Management Playbook: Implementation Guide"
+slug: "086-the-overtime-management-playbook-implementation-guide"
+meta_description: "The Overtime Management Playbook: Implementation Guide"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "overtime management"
 secondary_keywords:
-  - overtime management schools
-  - best practices overtime management
-  - overtime management strategy
-  - how to implement overtime management
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "overtime management schools"
+  - "best practices overtime management"
+  - "overtime management strategy"
+  - "how to implement overtime management"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on overtime management for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

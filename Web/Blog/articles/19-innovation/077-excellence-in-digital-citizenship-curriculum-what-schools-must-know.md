@@ -1,22 +1,21 @@
-﻿---
-title: Excellence in Digital Citizenship Curriculum: What Schools Must Know
-slug: excellence-in-digital-citizenship-curriculum-what-schools-must-know
-meta_description: Excellence in Digital Citizenship Curriculum: What School...
-category: Innovation & AI
-primary_keyword: digital citizenship curriculum
+---
+title: "Excellence in Digital Citizenship Curriculum: What Schools Must Know"
+slug: "077-excellence-in-digital-citizenship-curriculum-what-schools-must-know"
+meta_description: "Excellence in Digital Citizenship Curriculum: What School..."
+category: "Education Innovation, AI & Future"
+primary_keyword: "digital citizenship curriculum"
 secondary_keywords:
-  - digital citizenship curriculum schools
-  - best practices digital citizenship curriculum
-  - digital citizenship curriculum strategy
-  - how to implement digital citizenship curriculum
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "digital citizenship curriculum schools"
+  - "best practices digital citizenship curriculum"
+  - "digital citizenship curriculum strategy"
+  - "how to implement digital citizenship curriculum"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on digital citizenship curriculum for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

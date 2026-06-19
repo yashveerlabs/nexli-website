@@ -1,18 +1,21 @@
 ---
 title: "Medical Fitness Certification for School Staff: Requirements and Process"
-slug: "medical-fitness-certification-school-staff"
+slug: "85-medical-fitness-certification"
 meta_description: "Understand medical fitness certification requirements for school staff. Covers who needs medical clearance, what is tested, certificate validity, and CBSE requirements."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "medical fitness certificate school staff India"
-secondary_keywords: ["school staff health certificate", "teacher medical fitness India", "pre-employment medical school", "school staff medical clearance"]
-intent: "informational"
+secondary_keywords:
+  - "school staff health certificate"
+  - "teacher medical fitness India"
+  - "pre-employment medical school"
+  - "school staff medical clearance"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 17
 branding_block_company: 17
 branding_block_nexli: 17
 ---
-
 Many schools require a medical fitness certificate as part of the staff appointment process. CBSE affiliation conditions and state education regulations in several states specify that teachers and other staff must hold a medical fitness certificate. The certificate demonstrates that the employee has no communicable disease that would pose a risk to students and is physically capable of performing their role.
 
 ## Who Needs Medical Fitness Certification

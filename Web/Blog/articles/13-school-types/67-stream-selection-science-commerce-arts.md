@@ -1,18 +1,20 @@
 ---
 title: "Stream Selection (Science/Commerce/Arts)"
-slug: "stream-selection-science-commerce-arts"
+slug: "67-stream-selection-science-commerce-arts"
 meta_description: "How school ERPs support stream selection (science/commerce/arts) for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "stream selection ERP science commerce arts"
-secondary_keywords: ["Class 11 stream selection software India", "subject combination management ERP", "science commerce arts school management", "senior secondary stream ERP"]
+secondary_keywords:
+  - "Class 11 stream selection software India"
+  - "subject combination management ERP"
+  - "science commerce arts school management"
+  - "senior secondary stream ERP"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Stream Selection (Science/Commerce/Arts)
 

@@ -1,18 +1,21 @@
 ---
 title: "Mathematics: Teaching Problem-Solving and Logical Reasoning"
-slug: "mathematics-problem-solving-logical-reasoning"
+slug: "101-mathematics-problem-solving-logical-reasoning"
 meta_description: "Develop mathematical thinking through problem-solving strategies and logical reasoning. Evidence-based methods for teaching advanced math concepts."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "mathematics problem-solving logical reasoning"
-secondary_keywords: ["math teaching strategies", "problem-solving skills", "logical thinking", "mathematical reasoning"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "math teaching strategies"
+  - "problem-solving skills"
+  - "logical thinking"
+  - "mathematical reasoning"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Challenge: Ensuring Comprehensive Academic Excellence
 
 Most Indian schools recognize that a well-rounded education extends far beyond traditional classroom instruction. However, implementing specialized programs in mathematics: teaching problem-solving and logical reasoning requires systematic planning, qualified instructors, proper resources, and clear learning outcomes. Without a structured approach, these programs become ad-hoc or inconsistent, failing to deliver measurable impact on student development.

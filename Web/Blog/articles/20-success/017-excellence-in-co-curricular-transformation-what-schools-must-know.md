@@ -1,22 +1,21 @@
 ---
-title: Excellence in Co-Curricular Transformation: What Schools Must Know
-slug: excellence-in-co-curricular-transformation-what-schools-must-know
-meta_description: Excellence in Co-Curricular Transformation: What Schools ...
-category: Success Stories & Cases
-primary_keyword: co-curricular transformation
+title: "Excellence in Co-Curricular Transformation: What Schools Must Know"
+slug: "017-excellence-in-co-curricular-transformation-what-schools-must-know"
+meta_description: "Excellence in Co-Curricular Transformation: What Schools ..."
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "co-curricular transformation"
 secondary_keywords:
-  - co-curricular transformation schools
-  - best practices co-curricular transformation
-  - co-curricular transformation strategy
-  - how to implement co-curricular transformation
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "co-curricular transformation schools"
+  - "best practices co-curricular transformation"
+  - "co-curricular transformation strategy"
+  - "how to implement co-curricular transformation"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on co-curricular transformation for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

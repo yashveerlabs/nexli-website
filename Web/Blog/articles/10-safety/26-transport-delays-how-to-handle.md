@@ -1,8 +1,8 @@
 ---
 title: "Transport Delays: How to Handle"
-slug: transport-delays-how-to-handle
+slug: "26-transport-delays-how-to-handle"
 meta_description: "Handle school bus delays systematically: quick parent notifications, GPS monitoring, contingency plans, and post-delay analysis to prevent recurring issues."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school bus delay management"
 secondary_keywords:
   - "transport delay procedures"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Transport Delays: How to Handle
 
 Transportation delays are inevitable. Proper handling minimizes frustration and confusion.

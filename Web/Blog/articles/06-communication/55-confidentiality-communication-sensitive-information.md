@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Confidentiality in Communication: Protecting Sensitive Information"
-slug: "confidentiality-communication-sensitive-information"
+slug: "55-confidentiality-communication-sensitive-information"
 meta_description: "Effective communication policy strategies for Indian schools. Learn how schools must balance transparency with confidentiality. clear guidelines prevent oversharing while building trust through appropriate discretion."
-category: "Communication Policy"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication policy"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Confidentiality in Communication: Protecting Sensitive Information
 
 Schools must balance transparency with confidentiality. Clear guidelines prevent oversharing while building trust through appropriate discretion.

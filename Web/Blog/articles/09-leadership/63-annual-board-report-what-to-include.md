@@ -1,19 +1,22 @@
 ---
 title: "Annual Board Report: What to Include"
-slug: annual-board-report-what-to-include
-category: 9
-order: 63
-primary_keyword: "annual school board report"
+slug: "63-annual-board-report-what-to-include"
 meta_description: "Write an annual board report that builds confidence and demonstrates school progress. Key sections, data to include, and presentation tips for school principals."
-secondary_keywords: ["school annual report sections", "principal board reporting", "school performance report", "board report best practices"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "annual school board report"
+secondary_keywords:
+  - "school annual report sections"
+  - "principal board reporting"
+  - "school performance report"
+  - "board report best practices"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
+order: 63
 ---
-
 # Annual Board Report: What to Include
 
 Annual reports demonstrate school's progress and principal's effectiveness. Include key information clearly.

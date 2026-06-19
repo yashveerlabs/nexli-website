@@ -1,22 +1,21 @@
 ---
-title: Sanitation Standards Compliance for Modern Indian Schools
-slug: sanitation-standards-compliance-for-modern-indian-schools
-meta_description: Sanitation Standards Compliance for Modern Indian Schools
-category: Research & Statistics
-primary_keyword: sanitation standards compliance
+title: "Sanitation Standards Compliance for Modern Indian Schools"
+slug: "054-sanitation-standards-compliance-for-modern-indian-schools"
+meta_description: "Sanitation Standards Compliance for Modern Indian Schools"
+category: "School Research, Statistics & Reports"
+primary_keyword: "sanitation standards compliance"
 secondary_keywords:
-  - sanitation standards compliance schools
-  - best practices sanitation standards compliance
-  - sanitation standards compliance strategy
-  - how to implement sanitation standards compliance
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "sanitation standards compliance schools"
+  - "best practices sanitation standards compliance"
+  - "sanitation standards compliance strategy"
+  - "how to implement sanitation standards compliance"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on sanitation standards compliance for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

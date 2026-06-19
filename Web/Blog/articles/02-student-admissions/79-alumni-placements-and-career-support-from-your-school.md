@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Alumni Placements and Career Support from Your School"
-slug: alumni-placements-and-career-support-from-your-school
-meta_description: alumni placements and career support from your school. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: alumni placements and career support from your school
+slug: "79-alumni-placements-and-career-support-from-your-school"
+meta_description: "alumni placements and career support from your school. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "alumni placements and career support from your school"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article explores best practices for alumni placements and career support from your school in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

@@ -1,22 +1,21 @@
 ---
-title: The ROI of Better Workflow Document Templates
-slug: the-roi-of-better-workflow-document-templates
-meta_description: The ROI of Better Workflow Document Templates
-category: SOPs & Templates
-primary_keyword: workflow document templates
+title: "The ROI of Better Workflow Document Templates"
+slug: "009-the-roi-of-better-workflow-document-templates"
+meta_description: "The ROI of Better Workflow Document Templates"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "workflow document templates"
 secondary_keywords:
-  - workflow document templates schools
-  - best practices workflow document templates
-  - workflow document templates strategy
-  - how to implement workflow document templates
-intent: informational
+  - "workflow document templates schools"
+  - "best practices workflow document templates"
+  - "workflow document templates strategy"
+  - "how to implement workflow document templates"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on workflow document templates for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

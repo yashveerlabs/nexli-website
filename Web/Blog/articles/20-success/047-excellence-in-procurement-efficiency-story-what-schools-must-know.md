@@ -1,22 +1,21 @@
 ---
-title: Excellence in Procurement Efficiency Story: What Schools Must Know
-slug: excellence-in-procurement-efficiency-story-what-schools-must-know
-meta_description: Excellence in Procurement Efficiency Story: What Schools ...
-category: Success Stories & Cases
-primary_keyword: procurement efficiency story
+title: "Excellence in Procurement Efficiency Story: What Schools Must Know"
+slug: "047-excellence-in-procurement-efficiency-story-what-schools-must-know"
+meta_description: "Excellence in Procurement Efficiency Story: What Schools ..."
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "procurement efficiency story"
 secondary_keywords:
-  - procurement efficiency story schools
-  - best practices procurement efficiency story
-  - procurement efficiency story strategy
-  - how to implement procurement efficiency story
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "procurement efficiency story schools"
+  - "best practices procurement efficiency story"
+  - "procurement efficiency story strategy"
+  - "how to implement procurement efficiency story"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on procurement efficiency story for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

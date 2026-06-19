@@ -2,7 +2,7 @@
 title: "Multilingualism in School Curriculum: Medium of Instruction Policy"
 slug: "multilingualism-medium-instruction-policy"
 meta_description: "Design effective multilingual curriculum and medium of instruction policies aligned with NEP 2020."
-category: "03"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "multilingual education, medium of instruction, language policy"
 secondary_keywords:
   - "language learning"
@@ -12,9 +12,11 @@ secondary_keywords:
 intent: "reference"
 author: "Yashveer Labs"
 date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
 branding_block: 20
 ---
-
 # Multilingualism in School Curriculum: Medium of Instruction Policy
 
 ## Problem

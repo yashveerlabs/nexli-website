@@ -1,8 +1,8 @@
 ---
 title: "Teacher Spotlight: Building Employee Brand Through Staff Stories"
-slug: "teacher-spotlight-employee-brand"
+slug: "29-teacher-spotlight-employee-brand"
 meta_description: "Use teacher spotlights to build your school's employer brand and attract parents. Learn how to showcase staff expertise and humanize your school's identity."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "teacher spotlight school"
 secondary_keywords:
   - "school employer brand"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Teacher Spotlight: Building Employee Brand Through Staff Stories
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

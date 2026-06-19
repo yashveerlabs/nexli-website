@@ -1,18 +1,21 @@
 ---
-title: Hostel Block Assignment and Room Allocation
-slug: hostel-block-assignment-and-room-allocation
-meta_description: Develop fair, safety-focused systems for hostel block and room allocation that support student adjustment and welfare.
-category: Safety & Operations
-primary_keyword: hostel room allocation system
-secondary_keywords: ["block assignment", "roommate compatibility", "residential placement", "occupancy management"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+title: "Hostel Block Assignment and Room Allocation"
+slug: "47-hostel-block-assignment-and-room-allocation"
+meta_description: "Develop fair, safety-focused systems for hostel block and room allocation that support student adjustment and welfare."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "hostel room allocation system"
+secondary_keywords:
+  - "block assignment"
+  - "roommate compatibility"
+  - "residential placement"
+  - "occupancy management"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Hostel Block Assignment and Room Allocation: Strategic Placement for Wellbeing
 
 How students are placed in hostel blocks and rooms shapes their entire boarding experience. A mismatch, aggressive roommate, incompatible peers, wrong age group, can make hostel years miserable. Strategic allocation, informed by data and careful consideration, promotes belonging, adjustment, and safety. This guide outlines allocation frameworks.

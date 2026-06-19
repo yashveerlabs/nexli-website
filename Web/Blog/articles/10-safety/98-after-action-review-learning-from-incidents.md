@@ -1,18 +1,21 @@
-﻿---
-title: After-Action Review: Learning from Incidents
-slug: after-action-review-learning-from-incidents
-meta_description: Conduct after-action reviews to learn from incidents and improve emergency response protocols.
-category: Safety & Operations
-primary_keyword: incident review and learning
-secondary_keywords: ['post-incident analysis', 'process improvement', 'documentation', 'prevention updates']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "After-Action Review: Learning from Incidents"
+slug: "98-after-action-review-learning-from-incidents"
+meta_description: "Conduct after-action reviews to learn from incidents and improve emergency response protocols."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "incident review and learning"
+secondary_keywords:
+  - "post-incident analysis"
+  - "process improvement"
+  - "documentation"
+  - "prevention updates"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # After-Action Review: Learning from Incidents: Comprehensive Guide
 
 This guide provides comprehensive guidance on after-action review: learning from incidents.

@@ -1,22 +1,21 @@
-﻿---
-title: How to Improve Casual Leave Management: Best Practices
-slug: how-to-improve-casual-leave-management-best-practices
-meta_description: How to Improve Casual Leave Management: Best Practices
-category: HR & Recruitment
-primary_keyword: casual leave management
+---
+title: "How to Improve Casual Leave Management: Best Practices"
+slug: "092-how-to-improve-casual-leave-management-best-practices"
+meta_description: "How to Improve Casual Leave Management: Best Practices"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "casual leave management"
 secondary_keywords:
-  - casual leave management schools
-  - best practices casual leave management
-  - casual leave management strategy
-  - how to implement casual leave management
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "casual leave management schools"
+  - "best practices casual leave management"
+  - "casual leave management strategy"
+  - "how to implement casual leave management"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on casual leave management for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,18 +1,21 @@
 ---
 title: "Child Protection Officer: Mandatory Role and Responsibilities"
-slug: "child-protection-officer-schools"
+slug: "11-child-protection-officer"
 meta_description: "Understand the Child Protection Officer role in schools. Learn CPO responsibilities, qualifications, and how to set up a child protection program."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "Child Protection Officer schools"
-secondary_keywords: ["child safety", "CPO role schools", "POCSO compliance", "school safeguarding"]
-intent: "informational"
+secondary_keywords:
+  - "child safety"
+  - "CPO role schools"
+  - "POCSO compliance"
+  - "school safeguarding"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Who is the Child Protection Officer?
 
 The Child Protection Officer (CPO) is a designated staff member responsible for ensuring children's safety from abuse, harassment, and exploitation at school. The CPO is the point of contact for students, parents, and staff who suspect or report child abuse.

@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Faridabad"
-slug: "school-erp-in-faridabad"
+slug: "02-school-erp-in-faridabad"
 meta_description: "School ERP in Faridabad: streamline admissions, attendance, fees, and compliance for Haryana schools with a cloud-based platform built for Indian K-12."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Faridabad"
-secondary_keywords: ["school management system Faridabad", "Faridabad school software", "Haryana school ERP", "best ERP Faridabad schools"]
+secondary_keywords:
+  - "school management system Faridabad"
+  - "Faridabad school software"
+  - "Haryana school ERP"
+  - "best ERP Faridabad schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Faridabad
 

@@ -2,7 +2,7 @@
 title: "Lesson Plan Template: What Every Teacher Should Include"
 slug: "lesson-plan-template-what-to-include"
 meta_description: "Download and learn what essential components every effective lesson plan must include for better teaching."
-category: "03"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "lesson plan template, lesson planning, teaching guidelines"
 secondary_keywords:
   - "learning objectives"
@@ -12,9 +12,11 @@ secondary_keywords:
 intent: "reference"
 author: "Yashveer Labs"
 date: "2026-06-19"
+branding_block_founder: 6
+branding_block_company: 6
+branding_block_nexli: 6
 branding_block: 20
 ---
-
 # Lesson Plan Template: What Every Teacher Should Include
 
 ## Problem

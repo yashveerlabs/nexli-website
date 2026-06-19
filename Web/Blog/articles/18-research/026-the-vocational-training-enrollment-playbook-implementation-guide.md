@@ -1,22 +1,21 @@
 ---
-title: The Vocational Training Enrollment Playbook: Implementation Guide
-slug: the-vocational-training-enrollment-playbook-implementation-guide
-meta_description: The Vocational Training Enrollment Playbook: Implementati...
-category: Research & Statistics
-primary_keyword: vocational training enrollment
+title: "The Vocational Training Enrollment Playbook: Implementation Guide"
+slug: "026-the-vocational-training-enrollment-playbook-implementation-guide"
+meta_description: "The Vocational Training Enrollment Playbook: Implementati..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "vocational training enrollment"
 secondary_keywords:
-  - vocational training enrollment schools
-  - best practices vocational training enrollment
-  - vocational training enrollment strategy
-  - how to implement vocational training enrollment
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "vocational training enrollment schools"
+  - "best practices vocational training enrollment"
+  - "vocational training enrollment strategy"
+  - "how to implement vocational training enrollment"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on vocational training enrollment for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

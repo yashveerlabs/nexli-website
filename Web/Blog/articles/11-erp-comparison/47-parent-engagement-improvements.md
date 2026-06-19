@@ -1,8 +1,8 @@
 ---
 title: "Parent Engagement and School ERP: What Changes, What Stays the Same"
-slug: "parent-engagement-improvements"
+slug: "47-parent-engagement-improvements"
 meta_description: "How school ERP changes parent engagement: parent portal access, attendance alerts, fee notifications, what parents actually want to see, and realistic adoption expectations."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP parent engagement"
 secondary_keywords:
   - "school parent portal features"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP parent notifications"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Parent Engagement and School ERP: What Changes, What Stays the Same
 
 **Schools often want ERP to improve parent engagement. The question is which kind of engagement. ERP improves information-based engagement, parents getting data about their child's attendance, fees, and performance without calling the school. It does not replace relationship-based engagement, parents feeling connected to the school community, understanding the school's vision, participating in events. Both matter, but ERP mainly affects the first.**

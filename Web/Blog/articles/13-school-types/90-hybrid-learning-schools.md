@@ -1,18 +1,20 @@
 ---
 title: "Hybrid Learning Schools"
-slug: "hybrid-learning-schools"
+slug: "90-hybrid-learning-schools"
 meta_description: "How school ERPs support hybrid learning schools for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "hybrid learning school ERP"
-secondary_keywords: ["blended learning school management India", "online offline school ERP", "hybrid school management system", "flipped classroom ERP India"]
+secondary_keywords:
+  - "blended learning school management India"
+  - "online offline school ERP"
+  - "hybrid school management system"
+  - "flipped classroom ERP India"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Hybrid Learning Schools
 

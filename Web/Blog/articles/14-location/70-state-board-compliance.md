@@ -1,18 +1,20 @@
 ---
 title: "State Board Compliance"
-slug: "state-board-compliance"
+slug: "70-state-board-compliance"
 meta_description: "State board compliance for Indian schools: how school ERP handles GSEB, RBSE, UPMSP, PSEB, KBPE, and other state board requirements in one platform."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "state board compliance school ERP India"
-secondary_keywords: ["state board school ERP India", "school compliance management state boards", "GSEB RBSE UPMSP PSEB school ERP", "state education board compliance"]
+secondary_keywords:
+  - "state board school ERP India"
+  - "school compliance management state boards"
+  - "GSEB RBSE UPMSP PSEB school ERP"
+  - "state education board compliance"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## State Board Compliance
 

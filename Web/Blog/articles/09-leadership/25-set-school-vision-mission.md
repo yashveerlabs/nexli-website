@@ -1,8 +1,8 @@
 ---
 title: "Set School Vision and Mission: Define Your School's Purpose and Direction"
-slug: "set-school-vision-mission"
+slug: "25-set-school-vision-mission"
 meta_description: "Learn how to craft a compelling school vision and mission statement. Align your school community around shared purpose and direction."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "school vision and mission"
 secondary_keywords:
   - "define school purpose"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Set School Vision and Mission: Define Your School's Purpose and Direction
 
 **Your school's vision and mission are its north star. They guide daily decisions, hiring, curriculum, and culture. Without clarity on purpose, schools drift. This article teaches you how to craft a vision and mission that inspires staff, aligns parents, and defines what makes your school unique.**

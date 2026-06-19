@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Communication System Integration: Unified Data Flow"
-slug: "communication-system-integration-unified-data"
+slug: "94-communication-system-integration-unified-data"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how when erp, email, sms, whatsapp, and parent portals are integrated, communication becomes consistent and effort reduces significantly."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Communication System Integration: Unified Data Flow
 
 When ERP, email, SMS, WhatsApp, and parent portals are integrated, communication becomes consistent and effort reduces significantly.

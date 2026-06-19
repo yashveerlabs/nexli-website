@@ -1,18 +1,21 @@
 ---
 title: "Digital Citizenship Education: Teaching Safe Online Behavior"
-slug: "digital-citizenship-safe-online-behavior"
+slug: "32-digital-citizenship-safe-online-behavior"
 meta_description: "Effective workshops & programs strategies for Indian schools. Learn how schools must teach digital citizenship, responsible online behavior, privacy protection, cyberbullying prevention. parent communication ensures home-school alignment."
-category: "Workshops & Programs"
+category: "Parent Communication & Engagement"
 primary_keyword: "school workshops parent training"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Digital Citizenship Education: Teaching Safe Online Behavior
 
 Schools must teach digital citizenship, responsible online behavior, privacy protection, cyberbullying prevention. Parent communication ensures home-school alignment.

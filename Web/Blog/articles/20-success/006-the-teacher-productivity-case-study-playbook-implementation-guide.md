@@ -1,22 +1,21 @@
 ---
-title: The Teacher Productivity Case Study Playbook: Implementation Guide
-slug: the-teacher-productivity-case-study-playbook-implementation-guide
-meta_description: The Teacher Productivity Case Study Playbook: Implementat...
-category: Success Stories & Cases
-primary_keyword: teacher productivity case study
+title: "The Teacher Productivity Case Study Playbook: Implementation Guide"
+slug: "006-the-teacher-productivity-case-study-playbook-implementation-guide"
+meta_description: "The Teacher Productivity Case Study Playbook: Implementat..."
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "teacher productivity case study"
 secondary_keywords:
-  - teacher productivity case study schools
-  - best practices teacher productivity case study
-  - teacher productivity case study strategy
-  - how to implement teacher productivity case study
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "teacher productivity case study schools"
+  - "best practices teacher productivity case study"
+  - "teacher productivity case study strategy"
+  - "how to implement teacher productivity case study"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on teacher productivity case study for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

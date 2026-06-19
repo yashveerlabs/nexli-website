@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Parent Communication Policy: Setting Clear Expectations"
-slug: "parent-communication-policy-expectations"
+slug: "54-parent-communication-policy-expectations"
 meta_description: "Effective communication policy strategies for Indian schools. Learn how a documented communication policy clarifies what parents can expect: channels, frequency, response times, and privacy protections."
-category: "Communication Policy"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication policy"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Parent Communication Policy: Setting Clear Expectations
 
 A documented communication policy clarifies what parents can expect: channels, frequency, response times, and privacy protections.

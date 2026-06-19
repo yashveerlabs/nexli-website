@@ -1,8 +1,8 @@
 ---
 title: "School Awards: Submitting for Recognition"
-slug: "awards-submission-schools"
+slug: "81-awards-submission"
 meta_description: "Win school awards that build reputation and trust. Learn which awards matter, how to identify submission criteria, write compelling applications, and use wins in marketing."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school awards submission"
 secondary_keywords:
   - "school recognition awards"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # School Awards: Submitting for Recognition
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "How to Track Student Attendance Accurately and Efficiently"
-slug: "track-student-attendance-accurately-efficiently"
+slug: "01-track-attendance-accurately-efficiently"
 meta_description: "Build an accurate attendance tracking system for schools. Manual and digital methods to reduce errors and improve compliance reporting."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "track student attendance accurately system"
-secondary_keywords: ["attendance management", "digital attendance", "biometric attendance", "attendance accuracy"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "attendance management"
+  - "digital attendance"
+  - "biometric attendance"
+  - "attendance accuracy"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Scattered, Inaccurate Attendance Records
 
 Attendance is taken daily, often haphazardly:

@@ -1,8 +1,8 @@
 ---
 title: "Email Newsletter for School Community: Keeping Families Engaged"
-slug: "email-newsletter-school-community"
+slug: "22-email-newsletter-school-community"
 meta_description: "Create effective school email newsletters that keep families engaged. Learn content strategy, segmentation, frequency, and how to grow your subscriber list."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school email newsletter"
 secondary_keywords:
   - "parent email marketing"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Email Newsletter for School Community: Keeping Families Engaged
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 6 min

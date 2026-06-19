@@ -1,18 +1,21 @@
 ---
 title: "Two-Way Communication: Building Parent Feedback Channels for Schools"
-slug: "two-way-parent-communication-feedback"
+slug: "07-two-way-parent-feedback"
 meta_description: "Build two-way communication channels in schools. Learn how to gather parent feedback, respond to concerns, and improve school operations through parent input."
-category: "Parent Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent feedback channels"
-secondary_keywords: ["school communication", "parent engagement", "feedback systems", "parent involvement"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "feedback systems"
+  - "parent involvement"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Why One-Way Communication Fails Schools
 
 Schools historically broadcast information TO parents: exam dates, fee amounts, holiday schedules. Parents receive information; schools move on. But this one-way model creates an accountability vacuum. Parents feel unheard. Complaints fester silently until they explode on social media. The school misses early warnings of serious problems (bullying, safety hazards, teaching quality concerns).

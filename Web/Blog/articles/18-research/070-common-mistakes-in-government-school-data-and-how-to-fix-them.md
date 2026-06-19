@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Government School Data (And How to Fix Them)
-slug: common-mistakes-in-government-school-data-and-how-to-fix-them
-meta_description: Common Mistakes in Government School Data (And How to Fix...
-category: Research & Statistics
-primary_keyword: government school data
+title: "Common Mistakes in Government School Data (And How to Fix Them)"
+slug: "070-common-mistakes-in-government-school-data-and-how-to-fix-them"
+meta_description: "Common Mistakes in Government School Data (And How to Fix..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "government school data"
 secondary_keywords:
-  - government school data schools
-  - best practices government school data
-  - government school data strategy
-  - how to implement government school data
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "government school data schools"
+  - "best practices government school data"
+  - "government school data strategy"
+  - "how to implement government school data"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on government school data for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

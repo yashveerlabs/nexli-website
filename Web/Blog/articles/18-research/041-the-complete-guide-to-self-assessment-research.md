@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Self Assessment Research
-slug: the-complete-guide-to-self-assessment-research
-meta_description: The Complete Guide to Self Assessment Research
-category: Research & Statistics
-primary_keyword: self assessment research
+title: "The Complete Guide to Self Assessment Research"
+slug: "041-the-complete-guide-to-self-assessment-research"
+meta_description: "The Complete Guide to Self Assessment Research"
+category: "School Research, Statistics & Reports"
+primary_keyword: "self assessment research"
 secondary_keywords:
-  - self assessment research schools
-  - best practices self assessment research
-  - self assessment research strategy
-  - how to implement self assessment research
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "self assessment research schools"
+  - "best practices self assessment research"
+  - "self assessment research strategy"
+  - "how to implement self assessment research"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on self assessment research for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

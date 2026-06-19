@@ -1,22 +1,21 @@
 ---
-title: The Girls Education Outcomes Playbook: Implementation Guide
-slug: the-girls-education-outcomes-playbook-implementation-guide
-meta_description: The Girls Education Outcomes Playbook: Implementation Guide
-category: Research & Statistics
-primary_keyword: girls education outcomes
+title: "The Girls Education Outcomes Playbook: Implementation Guide"
+slug: "076-the-girls-education-outcomes-playbook-implementation-guide"
+meta_description: "The Girls Education Outcomes Playbook: Implementation Guide"
+category: "School Research, Statistics & Reports"
+primary_keyword: "girls education outcomes"
 secondary_keywords:
-  - girls education outcomes schools
-  - best practices girls education outcomes
-  - girls education outcomes strategy
-  - how to implement girls education outcomes
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "girls education outcomes schools"
+  - "best practices girls education outcomes"
+  - "girls education outcomes strategy"
+  - "how to implement girls education outcomes"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on girls education outcomes for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

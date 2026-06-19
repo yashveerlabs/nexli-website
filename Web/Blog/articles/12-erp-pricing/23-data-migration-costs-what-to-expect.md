@@ -1,18 +1,20 @@
 ---
 title: "Data Migration Costs: What to Expect"
-slug: "data-migration-costs-what-to-expect"
+slug: "23-data-migration-costs-what-to-expect"
 meta_description: "Data Migration Costs: What to Expect"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "data"
-secondary_keywords: ["migration", "costs:", "what", "to"]
+secondary_keywords:
+  - "migration"
+  - "costs:"
+  - "what"
+  - "to"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Data Migration Costs: What to Expect
 

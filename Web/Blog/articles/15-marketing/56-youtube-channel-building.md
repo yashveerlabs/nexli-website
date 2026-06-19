@@ -1,8 +1,8 @@
 ---
 title: "Building YouTube Presence: Long-Form Video Strategy"
-slug: "youtube-channel-building-schools"
+slug: "56-youtube-channel-building"
 meta_description: "Build a YouTube channel for your school that drives admissions and community. Learn content strategy, optimization, consistency, and growth tactics."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school YouTube presence"
 secondary_keywords:
   - "school YouTube channel"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Building YouTube Presence: Long-Form Video Strategy
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

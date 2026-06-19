@@ -1,18 +1,21 @@
 ---
 title: "POCSO Act 2012: What Schools Must Know and Do"
-slug: "pocso-act-2012-schools"
+slug: "43-pocso-act-2012"
 meta_description: "Complete guide to POCSO Act 2012 for schools. Covers mandatory reporting, school obligations, CPO requirements, complaint procedures, and what constitutes an offence."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "POCSO Act 2012 schools"
-secondary_keywords: ["child sexual abuse school", "mandatory reporting POCSO", "school POCSO compliance", "Protection of Children from Sexual Offences"]
-intent: "informational"
+secondary_keywords:
+  - "child sexual abuse school"
+  - "mandatory reporting POCSO"
+  - "school POCSO compliance"
+  - "Protection of Children from Sexual Offences"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 The Protection of Children from Sexual Offences (POCSO) Act 2012 is India's primary law protecting children from sexual abuse, harassment, and exploitation. For schools, the Act creates mandatory reporting obligations, requires designated child protection infrastructure, and defines offences that apply to staff as well as outsiders.
 
 Non-compliance is not a technical matter. Failure to report a known case of child sexual abuse is itself a criminal offence under POCSO.

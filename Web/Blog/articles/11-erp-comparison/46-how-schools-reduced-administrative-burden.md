@@ -1,8 +1,8 @@
 ---
 title: "Reducing School Administrative Burden with ERP"
-slug: "how-schools-reduced-administrative-burden"
+slug: "46-how-schools-reduced-administrative-burden"
 meta_description: "How school ERP reduces administrative burden: which tasks get automated, which roles benefit most, and the practical steps schools take to move from paper to digital."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP reduce administrative burden"
 secondary_keywords:
   - "school administration automation India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school digital administration"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Reducing School Administrative Burden with ERP
 
 **School administrative burden, the accumulated weight of paperwork, manual data entry, compilation work, and information retrieval, consumes time that could go to students. Understanding which tasks drive the most burden and how ERP addresses them helps school leaders focus implementation priorities for maximum impact.**

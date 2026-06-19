@@ -1,22 +1,21 @@
 ---
-title: Grading Scale Design
-slug: grading-scale-design-systems
-meta_description: Choose and implement 5-point, 9-point, or 100-point grading systems.
-category: Academic Management & Teaching Excellence
-primary_keyword: grading scale design systems
+title: "Grading Scale Design"
+slug: "55-grading-scale-design-systems"
+meta_description: "Choose and implement 5-point, 9-point, or 100-point grading systems."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "grading scale design systems"
 secondary_keywords:
-  - Grading Scale Design Systems
-  - teaching effectiveness
-  - student learning
-  - academic excellence
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Grading Scale Design Systems"
+  - "teaching effectiveness"
+  - "student learning"
+  - "academic excellence"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 Grading Scale Design is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process see measurable improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.

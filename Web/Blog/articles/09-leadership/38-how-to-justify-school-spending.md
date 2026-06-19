@@ -1,19 +1,22 @@
 ---
 title: "How to Justify School Spending"
-slug: how-to-justify-school-spending
-category: 9
-order: 38
-primary_keyword: "how to justify school spending"
+slug: "38-how-to-justify-school-spending"
 meta_description: "A guide for school principals on building compelling justification for major spending decisions, connecting every rupee to mission, data, and measurable student outcomes."
-secondary_keywords: ["school spending justification", "school budget transparency", "principal spending decisions", "school ROI education"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to justify school spending"
+secondary_keywords:
+  - "school spending justification"
+  - "school budget transparency"
+  - "principal spending decisions"
+  - "school ROI education"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 18
 branding_block_company: 18
 branding_block_nexli: 18
+order: 38
 ---
-
 # How to Justify School Spending
 
 Stakeholders want to know their money is being spent wisely. Clear justification for spending builds trust and support.

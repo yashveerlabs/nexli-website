@@ -1,22 +1,21 @@
 ---
-title: Practical Strategies for Blended Learning Outcomes
-slug: practical-strategies-for-blended-learning-outcomes
-meta_description: Practical Strategies for Blended Learning Outcomes
-category: Research & Statistics
-primary_keyword: blended learning outcomes
+title: "Practical Strategies for Blended Learning Outcomes"
+slug: "035-practical-strategies-for-blended-learning-outcomes"
+meta_description: "Practical Strategies for Blended Learning Outcomes"
+category: "School Research, Statistics & Reports"
+primary_keyword: "blended learning outcomes"
 secondary_keywords:
-  - blended learning outcomes schools
-  - best practices blended learning outcomes
-  - blended learning outcomes strategy
-  - how to implement blended learning outcomes
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "blended learning outcomes schools"
+  - "best practices blended learning outcomes"
+  - "blended learning outcomes strategy"
+  - "how to implement blended learning outcomes"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on blended learning outcomes for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

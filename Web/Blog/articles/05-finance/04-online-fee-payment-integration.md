@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Online Fee Payment: Integration with Payment Gateways"
-slug: "online-fee-payment-gateway-integration"
+slug: "04-online-fee-payment-integration"
 meta_description: "Integrate online payment gateways for school fees. UPI, net banking, cards, and digital wallet payment solutions."
-category: "School Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "online fee payment gateway integration"
-secondary_keywords: ["digital payment", "payment gateway", "online fee collection"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "digital payment"
+  - "payment gateway"
+  - "online fee collection"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Why Online Payment Matters
 
 **Parent Perspective:**

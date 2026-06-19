@@ -1,18 +1,21 @@
 ---
 title: "School WiFi Security: Separate Networks, WPA3, Guest Access, and Monitoring"
-slug: "wifi-security"
+slug: "29-wifi-security"
 meta_description: "An unsecured school WiFi network creates serious risks for student data and school systems. Learn how to segment networks, configure WPA3, and monitor for threats."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school WiFi security"
-secondary_keywords: ["WPA3 school network", "school network segmentation", "guest WiFi schools", "school IoT network security"]
-intent: "informational"
+secondary_keywords:
+  - "WPA3 school network"
+  - "school network segmentation"
+  - "guest WiFi schools"
+  - "school IoT network security"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Why School WiFi Security Deserves Serious Attention
 
 School WiFi security is often treated as a low-priority IT task: install an access point, set a password, and move on. This approach creates real risks. A school network carries ERP traffic, student devices, CCTV cameras, smart projectors, and visitor phones all at once. Without proper segmentation and access controls, a compromised visitor phone can potentially reach the same network segment as the principal's login session.

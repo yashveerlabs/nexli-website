@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Annual Price Increases: What's Normal?"
-slug: "annual-price-increases-what's-normal"
+slug: "73-annual-price-increases-what's-normal"
 meta_description: "Annual Price Increases: What's Normal?"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "annual"
-secondary_keywords: ["price", "increases:", "what's", "normal?"]
+secondary_keywords:
+  - "price"
+  - "increases:"
+  - "what's"
+  - "normal?"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Annual Price Increases: What's Normal?
 

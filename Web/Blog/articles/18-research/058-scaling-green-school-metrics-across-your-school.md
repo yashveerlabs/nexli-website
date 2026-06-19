@@ -1,22 +1,21 @@
 ---
-title: Scaling Green School Metrics Across Your School
-slug: scaling-green-school-metrics-across-your-school
-meta_description: Scaling Green School Metrics Across Your School
-category: Research & Statistics
-primary_keyword: green school metrics
+title: "Scaling Green School Metrics Across Your School"
+slug: "058-scaling-green-school-metrics-across-your-school"
+meta_description: "Scaling Green School Metrics Across Your School"
+category: "School Research, Statistics & Reports"
+primary_keyword: "green school metrics"
 secondary_keywords:
-  - green school metrics schools
-  - best practices green school metrics
-  - green school metrics strategy
-  - how to implement green school metrics
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "green school metrics schools"
+  - "best practices green school metrics"
+  - "green school metrics strategy"
+  - "how to implement green school metrics"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on green school metrics for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

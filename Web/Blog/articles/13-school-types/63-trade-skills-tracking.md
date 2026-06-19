@@ -1,18 +1,20 @@
 ---
 title: "Trade Skills Tracking"
-slug: "trade-skills-tracking"
+slug: "63-trade-skills-tracking"
 meta_description: "How school ERPs support trade skills tracking for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "trade skills tracking ERP"
-secondary_keywords: ["vocational skills management India", "trade skill assessment ERP", "student skills tracking software", "vocational school management"]
+secondary_keywords:
+  - "vocational skills management India"
+  - "trade skill assessment ERP"
+  - "student skills tracking software"
+  - "vocational school management"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Trade Skills Tracking
 

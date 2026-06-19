@@ -1,18 +1,21 @@
 ---
 title: "Engagement Programs: Building Community Connection"
-slug: "engagement-programs-community-connection"
+slug: "23-engagement-programs-community-connection"
 meta_description: "Effective parent engagement strategies for Indian schools. Learn how from class fetes to interschool competitions, engagement programs create shared experiences that strengthen community bonds and school spirit."
-category: "Parent Engagement"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent engagement communication"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Engagement Programs: Building Community Connection
 
 From class fetes to interschool competitions, engagement programs create shared experiences that strengthen community bonds and school spirit.

@@ -1,18 +1,21 @@
 ---
 title: "Phishing Attacks Targeting Schools: How to Spot, Report, and Train Staff"
-slug: "phishing-threats"
+slug: "27-phishing-threats"
 meta_description: "Phishing emails targeting school staff are increasingly convincing. Learn to identify spoofed emails, credential harvesting, and how to train your team to respond."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "phishing attacks on schools"
-secondary_keywords: ["school email security", "phishing awareness training", "credential harvesting education", "cybersecurity for teachers"]
-intent: "informational"
+secondary_keywords:
+  - "school email security"
+  - "phishing awareness training"
+  - "credential harvesting education"
+  - "cybersecurity for teachers"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Schools Are a Primary Target for Phishing Attacks
 
 Phishing attacks on schools have increased sharply because schools combine high-value personal data with limited security awareness. A well-crafted phishing email can trick a teacher into handing over their login credentials, allowing an attacker to access student records, fee data, and parent contact details within minutes.

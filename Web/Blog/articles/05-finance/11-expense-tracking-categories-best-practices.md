@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Expense Tracking: Categories and Best Practices"
-slug: "expense-tracking-categories-best-practices"
+slug: "11-expense-tracking-categories-best-practices"
 meta_description: "Implement effective expense tracking for schools. Categories, documentation, and best practices for financial control."
-category: "School Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "expense tracking categories school best practices"
-secondary_keywords: ["financial management", "budget control", "expense documentation", "accounting"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "financial management"
+  - "budget control"
+  - "expense documentation"
+  - "accounting"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Standard Expense Categories
 
 ### Personnel (50–60% of budget)

@@ -1,18 +1,21 @@
 ---
 title: "Annual POSH Report: What Schools Must Submit and When"
-slug: "annual-posh-report-schools"
+slug: "57-annual-posh-report"
 meta_description: "Complete guide to the annual POSH report for schools. Covers what the report must include, submission deadline (January 31), authority to submit to, and record-keeping."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "annual POSH report schools"
-secondary_keywords: ["POSH annual report submission", "District Officer POSH report", "ICC annual return India", "POSH compliance reporting deadline"]
-intent: "informational"
+secondary_keywords:
+  - "POSH annual report submission"
+  - "District Officer POSH report"
+  - "ICC annual return India"
+  - "POSH compliance reporting deadline"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 9
 branding_block_company: 9
 branding_block_nexli: 9
 ---
-
 Every school with 10 or more employees that has constituted an Internal Complaints Committee (ICC) must submit an Annual Report to the designated District Officer under the POSH Act 2013. The deadline is January 31 each year, covering the previous calendar year.
 
 Missing the annual report deadline is a compliance failure. Schools that do not submit the report are non-compliant even if no complaints were received during the year.

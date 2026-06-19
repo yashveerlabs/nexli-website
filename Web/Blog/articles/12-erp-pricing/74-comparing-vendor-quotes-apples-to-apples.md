@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Comparing Vendor Quotes: Apples to Apples"
-slug: "comparing-vendor-quotes-apples-to-apples"
+slug: "74-comparing-vendor-quotes-apples-to-apples"
 meta_description: "Comparing Vendor Quotes: Apples to Apples"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "comparing"
-secondary_keywords: ["vendor", "quotes:", "apples", "to"]
+secondary_keywords:
+  - "vendor"
+  - "quotes:"
+  - "apples"
+  - "to"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Comparing Vendor Quotes: Apples to Apples
 

@@ -1,20 +1,20 @@
-﻿---
+---
 title: "Teacher Productivity Gains from School ERP"
-slug: "teacher-productivity-gains-school-erp"
+slug: "27-teacher-productivity-gains"
 meta_description: "How school ERP saves teachers time on administrative tasks. Quantified productivity gains and ROI calculations for Indian schools."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "teacher productivity school ERP"
-secondary_keywords: ["teacher time savings ERP", "school ERP benefits teachers", "admin burden reduction"]
+secondary_keywords:
+  - "teacher time savings ERP"
+  - "school ERP benefits teachers"
+  - "admin burden reduction"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 # Teacher Productivity Gains
 
 A class teacher in Delhi spent her evenings on routine administrative work: manually calculating cumulative attendance percentages for 45 students, compiling homework completion data, organizing test scores into a spreadsheet, and creating a summary email to parents each Friday. This work consumed 3–4 hours weekly, after-hours. With a family to manage, this was a burden. She often postponed updates, falling behind on reporting.

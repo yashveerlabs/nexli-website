@@ -1,18 +1,21 @@
 ---
 title: "Parental Consent: Collecting and Managing DPDP Consent for Schools"
-slug: "parental-consent-dpdp-management"
+slug: "06-parental-consent-dpdp"
 meta_description: "Learn how to collect parental consent under DPDP Act. Understand consent requirements, digital vs. paper consent, and managing consent withdrawal."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "parental consent DPDP Act"
-secondary_keywords: ["consent management schools", "digital consent", "permission slips", "data privacy consent"]
-intent: "informational"
+secondary_keywords:
+  - "consent management schools"
+  - "digital consent"
+  - "permission slips"
+  - "data privacy consent"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## What DPDP Says About Consent
 
 Under the Digital Personal Data Protection Act, schools cannot collect personal data without the data principal's (parent/guardian's) consent. Consent must be:

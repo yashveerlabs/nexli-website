@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Payback Period Calculation"
-slug: "payback-period-calculation"
+slug: "36-payback-period-calculation"
 meta_description: "Payback Period Calculation"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "payback"
-secondary_keywords: ["period", "calculation", "implementation", "school"]
+secondary_keywords:
+  - "period"
+  - "calculation"
+  - "implementation"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Payback Period Calculation
 

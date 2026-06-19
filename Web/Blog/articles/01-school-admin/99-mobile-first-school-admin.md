@@ -1,22 +1,21 @@
 ---
-title: Mobile-First School Administration: Managing on the Go
-slug: mobile-first-school-admin
-meta_description: How mobile-first school administration gives principals, teachers, and parents real-time access to attendance, fees, and academic data from any device.
-category: School Administration & Operations
-primary_keyword: mobile school administration
+title: "Mobile-First School Administration: Managing on the Go"
+slug: "99-mobile-first-school-admin"
+meta_description: "How mobile-first school administration gives principals, teachers, and parents real-time access to attendance, fees, and academic data from any device."
+category: "School Administration & Operations"
+primary_keyword: "mobile school administration"
 secondary_keywords:
-  - school management mobile app
-  - principal mobile dashboard
-  - teacher attendance mobile
-  - parent school app India
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school management mobile app"
+  - "principal mobile dashboard"
+  - "teacher attendance mobile"
+  - "parent school app India"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 Mobile-first school administration means school operations work fully from a smartphone, not just from a desktop browser. For Indian schools, where principals travel, teachers often lack desk access, and parents primarily use WhatsApp, mobile-first is not optional, it is the only design that matches how school stakeholders actually live. This article covers what mobile-first means in practice, how it changes workflows for each role, and what to look for when evaluating a school management system's mobile capabilities.
 
 ---

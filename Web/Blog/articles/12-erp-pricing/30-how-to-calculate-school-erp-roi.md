@@ -1,18 +1,20 @@
-﻿---
+---
 title: "How to Calculate School ERP ROI"
-slug: "how-to-calculate-school-erp-roi"
+slug: "30-how-to-calculate-school-erp-roi"
 meta_description: "How to Calculate School ERP ROI"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "how"
-secondary_keywords: ["to", "calculate", "school", "erp"]
+secondary_keywords:
+  - "to"
+  - "calculate"
+  - "school"
+  - "erp"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## How to Calculate School ERP ROI
 

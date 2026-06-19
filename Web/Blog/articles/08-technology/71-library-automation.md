@@ -1,18 +1,20 @@
 ---
 title: "Automating School Library Workflows: Overdue Alerts, Reservations, and Reading Programs"
-slug: "library-automation"
+slug: "71-library-automation"
 meta_description: "Library automation for schools covers overdue alerts, self-checkout, reservation queues, and reading program tracking. Learn which workflows to automate first and what still needs a librarian."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school library automation"
-secondary_keywords: ["library overdue alerts", "book reservation system school", "reading program tracking"]
-intent: "informational"
+secondary_keywords:
+  - "library overdue alerts"
+  - "book reservation system school"
+  - "reading program tracking"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Automating School Library Workflows: Where to Start
 
 School library automation refers to using software to handle repetitive library tasks: sending overdue alerts, managing the reservation queue, tracking reading program progress, and generating circulation reports. A well-automated library workflow reduces the administrative burden on the librarian and creates a better experience for students.

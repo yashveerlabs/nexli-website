@@ -1,18 +1,21 @@
 ---
 title: "Technology Training for School Staff: Building Digital Confidence That Lasts"
-slug: "technical-training"
+slug: "89-technical-training"
 meta_description: "Technology training for school staff: basic digital literacy, ERP training, training calendar design, competency assessment, and certification for Indian schools."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "technology training school staff"
-secondary_keywords: ["digital literacy teachers India", "school ERP staff training", "EdTech training program", "school digital skills"]
-intent: "informational"
+secondary_keywords:
+  - "digital literacy teachers India"
+  - "school ERP staff training"
+  - "EdTech training program"
+  - "school digital skills"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Technology Training for School Staff: What Works and What Does Not
 
 Technology training is the most frequently underestimated part of any school technology implementation. Hardware and software get the budget. Training gets the leftover afternoon. Then schools wonder why adoption is low and usage is inconsistent.

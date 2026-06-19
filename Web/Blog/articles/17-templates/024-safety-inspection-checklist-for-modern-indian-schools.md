@@ -1,22 +1,21 @@
 ---
-title: Safety Inspection Checklist for Modern Indian Schools
-slug: safety-inspection-checklist-for-modern-indian-schools
-meta_description: Safety Inspection Checklist for Modern Indian Schools
-category: SOPs & Templates
-primary_keyword: safety inspection checklist
+title: "Safety Inspection Checklist for Modern Indian Schools"
+slug: "024-safety-inspection-checklist-for-modern-indian-schools"
+meta_description: "Safety Inspection Checklist for Modern Indian Schools"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "safety inspection checklist"
 secondary_keywords:
-  - safety inspection checklist schools
-  - best practices safety inspection checklist
-  - safety inspection checklist strategy
-  - how to implement safety inspection checklist
-intent: informational
+  - "safety inspection checklist schools"
+  - "best practices safety inspection checklist"
+  - "safety inspection checklist strategy"
+  - "how to implement safety inspection checklist"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on safety inspection checklist for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

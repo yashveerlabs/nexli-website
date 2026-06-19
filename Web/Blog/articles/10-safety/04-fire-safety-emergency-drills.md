@@ -1,8 +1,8 @@
 ---
 title: "Fire Safety and Emergency Drills: Preparation and Response"
-slug: "fire-safety-emergency-drills"
+slug: "04-fire-safety-emergency-drills"
 meta_description: "Complete fire safety guide for schools. Learn evacuation procedures, emergency drill best practices, and how to ensure student and staff safety."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "fire safety schools"
 secondary_keywords:
   - "emergency evacuation"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Fire Safety and Emergency Drills: Preparation and Response
 
 **Fire is one of the most immediate threats to a school. Every principal must have a fire evacuation plan, conduct regular drills, maintain equipment, and train staff. This guide covers fire prevention, detection, evacuation procedures, emergency drills, and post-incident response. Implementation of these practices significantly reduces fire risk and ensures rapid, safe evacuation if fire does occur.**

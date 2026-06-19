@@ -1,22 +1,21 @@
 ---
-title: Confidentiality Agreement for Modern Indian Schools
-slug: confidentiality-agreement-for-modern-indian-schools
-meta_description: Confidentiality Agreement for Modern Indian Schools
-category: SOPs & Templates
-primary_keyword: confidentiality agreement
+title: "Confidentiality Agreement for Modern Indian Schools"
+slug: "064-confidentiality-agreement-for-modern-indian-schools"
+meta_description: "Confidentiality Agreement for Modern Indian Schools"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "confidentiality agreement"
 secondary_keywords:
-  - confidentiality agreement schools
-  - best practices confidentiality agreement
-  - confidentiality agreement strategy
-  - how to implement confidentiality agreement
-intent: informational
+  - "confidentiality agreement schools"
+  - "best practices confidentiality agreement"
+  - "confidentiality agreement strategy"
+  - "how to implement confidentiality agreement"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on confidentiality agreement for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

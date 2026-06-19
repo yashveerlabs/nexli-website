@@ -1,18 +1,21 @@
 ---
 title: "Speech and Debate: Building Confidence and Communication Skills"
-slug: "speech-debate-confidence-communication"
+slug: "100-speech-debate-confidence-communication"
 meta_description: "Establish a speech and debate program to develop student confidence, public speaking, and communication skills. Structured approach for schools."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "speech debate communication skills"
-secondary_keywords: ["public speaking", "confidence building", "debate program", "student communication"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "public speaking"
+  - "confidence building"
+  - "debate program"
+  - "student communication"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Challenge: Ensuring Comprehensive Academic Excellence
 
 Most Indian schools recognize that a well-rounded education extends far beyond traditional classroom instruction. However, implementing specialized programs in speech and debate: building confidence and communication skills requires systematic planning, qualified instructors, proper resources, and clear learning outcomes. Without a structured approach, these programs become ad-hoc or inconsistent, failing to deliver measurable impact on student development.

@@ -1,8 +1,8 @@
 ---
 title: "School ERP Product Roadmap: Questions That Reveal the Real Plan"
-slug: "school-erp-roadmap-questions-to-ask"
+slug: "93-school-erp-roadmap-questions-to-ask"
 meta_description: "What to ask school ERP vendors about their product roadmap: how to evaluate delivery history, verify regulatory update commitments, and distinguish genuine plans from vaporware."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP product roadmap"
 secondary_keywords:
   - "school ERP future features"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "evaluate school ERP development India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## School ERP Product Roadmap: Questions That Reveal the Real Plan
 
 **Every school ERP vendor has a roadmap. Vendors will tell you about planned features to make the product more attractive during sales. The question is not what they plan to build, it is whether they actually build what they commit to, on a timeline that matters to you. Evaluating a vendor's roadmap requires looking backward (at their delivery history) as much as forward (at their stated plans).**

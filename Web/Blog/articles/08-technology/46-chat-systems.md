@@ -1,18 +1,21 @@
 ---
 title: "Internal Chat for School Staff: Appropriate Use, Group Chat Risks, and Policy Considerations"
-slug: "chat-systems"
+slug: "46-chat-systems"
 meta_description: "Instant messaging can improve school staff communication but also creates information overload and policy risks. Learn what works, what to avoid, and how to set boundaries."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "internal chat system schools"
-secondary_keywords: ["school staff messaging", "school communication policy", "WhatsApp school staff group", "Microsoft Teams chat schools"]
-intent: "informational"
+secondary_keywords:
+  - "school staff messaging"
+  - "school communication policy"
+  - "WhatsApp school staff group"
+  - "Microsoft Teams chat schools"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Reality of School Staff Communication Today
 
 Internal chat for school staff is already happening, whether the school has a formal system or not. The majority of Indian schools rely on WhatsApp groups for internal staff communication. A typical school has multiple overlapping WhatsApp groups: a main staff group, a management group, a subject department group, a sports team coordinator group, and sometimes a group for each grade level.

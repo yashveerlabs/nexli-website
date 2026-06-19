@@ -1,8 +1,8 @@
 ---
 title: "School Pricing Psychology: Strategic Fee Positioning"
-slug: "school-pricing-psychology"
+slug: "91-school-pricing-psychology"
 meta_description: "Position your school fees to attract more enrollments. Learn pricing psychology, value communication, fee anchoring, scholarship messaging, and how to compete on value not price."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school pricing strategy"
 secondary_keywords:
   - "school fee positioning"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # School Pricing Psychology: Strategic Fee Positioning
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

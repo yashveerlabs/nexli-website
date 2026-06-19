@@ -1,18 +1,21 @@
-﻿---
+---
 title: "How to Hold Fair Disciplinary Hearings"
-slug: "hold-fair-disciplinary-hearings"
+slug: "22-hold-fair-disciplinary-hearings"
 meta_description: "Learn about how to hold fair disciplinary hearings in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "how to hold fair disciplinary hearings"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with how to hold fair disciplinary hearings:

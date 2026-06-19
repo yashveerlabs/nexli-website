@@ -1,18 +1,21 @@
 ---
 title: "POCSO Complaint Reporting: Step-by-Step for Schools"
-slug: "pocso-complaint-reporting-schools"
+slug: "45-pocso-complaint-reporting"
 meta_description: "Step-by-step guide to POCSO complaint reporting for schools. From receiving a disclosure to filing an FIR, supporting the child, and cooperating with investigation."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "POCSO complaint reporting schools"
-secondary_keywords: ["how to file POCSO complaint", "FIR for child abuse school", "POCSO disclosure procedure", "child abuse reporting India schools"]
-intent: "informational"
+secondary_keywords:
+  - "how to file POCSO complaint"
+  - "FIR for child abuse school"
+  - "POCSO disclosure procedure"
+  - "child abuse reporting India schools"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 17
 branding_block_company: 17
 branding_block_nexli: 17
 ---
-
 When a student discloses sexual abuse, harassment, or exploitation, the school's response in the first few hours determines the quality of support the child receives and whether POCSO's mandatory reporting requirements are met. Schools need a documented procedure that staff can follow without having to make judgment calls under pressure.
 
 ## Step 1: Receiving the Disclosure

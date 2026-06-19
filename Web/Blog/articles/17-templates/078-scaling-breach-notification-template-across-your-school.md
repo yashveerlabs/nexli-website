@@ -1,22 +1,21 @@
 ---
-title: Scaling Breach Notification Template Across Your School
-slug: scaling-breach-notification-template-across-your-school
-meta_description: Scaling Breach Notification Template Across Your School
-category: SOPs & Templates
-primary_keyword: breach notification template
+title: "Scaling Breach Notification Template Across Your School"
+slug: "078-scaling-breach-notification-template-across-your-school"
+meta_description: "Scaling Breach Notification Template Across Your School"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "breach notification template"
 secondary_keywords:
-  - breach notification template schools
-  - best practices breach notification template
-  - breach notification template strategy
-  - how to implement breach notification template
-intent: informational
+  - "breach notification template schools"
+  - "best practices breach notification template"
+  - "breach notification template strategy"
+  - "how to implement breach notification template"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on breach notification template for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

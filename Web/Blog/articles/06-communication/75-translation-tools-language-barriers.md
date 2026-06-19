@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Translation Tools: Breaking Language Barriers"
-slug: "translation-tools-language-barriers"
+slug: "75-translation-tools-language-barriers"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how automated translation tools (google translate, microsoft translator) can extend reach to non-english-speaking families affordably."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Translation Tools: Breaking Language Barriers
 
 Automated translation tools (Google Translate, Microsoft Translator) can extend reach to non-English-speaking families affordably.

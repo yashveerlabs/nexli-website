@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Staff-Related Crisis Communication: Managing Sensitive Issues"
-slug: "staff-crisis-communication-sensitive-issues"
+slug: "51-staff-crisis-communication-sensitive-issues"
 meta_description: "Effective crisis communication strategies for Indian schools. Learn how staff misconduct or sudden departures raise concerns among parents and students. appropriate communication maintains confidence while respecting privacy."
-category: "Crisis Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "crisis communication school emergency"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Staff-Related Crisis Communication: Managing Sensitive Issues
 
 Staff misconduct or sudden departures raise concerns among parents and students. Appropriate communication maintains confidence while respecting privacy.

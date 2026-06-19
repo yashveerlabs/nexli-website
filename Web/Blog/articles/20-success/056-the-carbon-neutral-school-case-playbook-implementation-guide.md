@@ -1,22 +1,21 @@
 ---
-title: The Carbon Neutral School Case Playbook: Implementation Guide
-slug: the-carbon-neutral-school-case-playbook-implementation-guide
-meta_description: The Carbon Neutral School Case Playbook: Implementation G...
-category: Success Stories & Cases
-primary_keyword: carbon neutral school case
+title: "The Carbon Neutral School Case Playbook: Implementation Guide"
+slug: "056-the-carbon-neutral-school-case-playbook-implementation-guide"
+meta_description: "The Carbon Neutral School Case Playbook: Implementation G..."
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "carbon neutral school case"
 secondary_keywords:
-  - carbon neutral school case schools
-  - best practices carbon neutral school case
-  - carbon neutral school case strategy
-  - how to implement carbon neutral school case
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "carbon neutral school case schools"
+  - "best practices carbon neutral school case"
+  - "carbon neutral school case strategy"
+  - "how to implement carbon neutral school case"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on carbon neutral school case for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

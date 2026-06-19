@@ -1,18 +1,21 @@
 ---
 title: "SMS Alerts for Schools: What to Send and When"
-slug: "sms-alerts-schools-strategy"
+slug: "03-sms-alerts-schools"
 meta_description: "Guide to SMS alerts for schools. Learn when to use SMS, compliance requirements, and how to create effective SMS communication for parents and staff."
-category: "Parent Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "SMS alerts for schools"
-secondary_keywords: ["school notifications", "SMS communication", "parent alerts", "school announcements"]
-intent: "informational"
+secondary_keywords:
+  - "school notifications"
+  - "SMS communication"
+  - "parent alerts"
+  - "school announcements"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Why SMS Remains Critical for School Communication
 
 In a world of apps and email, SMS is often overlooked. Yet SMS remains the most reliable channel for reaching parents, especially in India. SMS doesn't require smartphones, internet connectivity, or app installations. A simple text message reaches parents who lack email access, are offline, or have outdated phones. For urgent, time-sensitive information, SMS has the highest read rate: over 98% of SMS messages are read within 3 minutes.

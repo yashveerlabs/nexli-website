@@ -1,8 +1,8 @@
 ---
 title: "Google Ads for School Admissions: Paid Marketing Strategy"
-slug: "google-ads-school-admissions"
+slug: "09-google-ads-school-admissions"
 meta_description: "Use Google Ads to drive school admissions. Learn campaign setup, keyword bidding, budget allocation, and ROI tracking for educational institutions."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "Google Ads schools"
 secondary_keywords:
   - "paid search advertising"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Google Ads for School Admissions: Paid Marketing Strategy
 
 **Google Ads puts your school in front of parents searching for schools. Unlike SEO (3–6 month wait), Google Ads drives immediate traffic. This guide covers campaign setup, keyword selection, budget, and ROI.**

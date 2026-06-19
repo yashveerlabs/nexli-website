@@ -1,18 +1,21 @@
 ---
 title: "Laboratory Safety in Schools: Compliance Requirements and Best Practices"
-slug: "laboratory-safety-schools-compliance"
+slug: "77-laboratory-safety"
 meta_description: "Ensure laboratory safety compliance in schools. Covers science lab safety rules, chemical storage, first aid, ventilation requirements, and inspection standards."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "laboratory safety schools India compliance"
-secondary_keywords: ["school science lab safety", "chemical storage school lab", "school lab safety rules", "CBSE lab requirements school"]
-intent: "informational"
+secondary_keywords:
+  - "school science lab safety"
+  - "chemical storage school lab"
+  - "school lab safety rules"
+  - "CBSE lab requirements school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 9
 branding_block_company: 9
 branding_block_nexli: 9
 ---
-
 School science laboratories are environments where students handle chemicals, biological materials, heat sources, and electrical equipment. Laboratory accidents, chemical burns, fire, glass injuries, are real risks when safety protocols are absent. Schools have a duty of care obligation for laboratory safety, and CBSE affiliation conditions specify minimum laboratory safety standards.
 
 ## Legal and Regulatory Basis

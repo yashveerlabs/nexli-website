@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Mid-Year Enrollment and Pro-Rata Pricing"
-slug: "mid-year-enrollment-and-pro-rata-pricing"
+slug: "19-mid-year-enrollment-and-pro-rata-pricing"
 meta_description: "Mid-Year Enrollment and Pro-Rata Pricing"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "mid-year"
-secondary_keywords: ["enrollment", "and", "pro-rata", "pricing"]
+secondary_keywords:
+  - "enrollment"
+  - "and"
+  - "pro-rata"
+  - "pricing"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## Mid-Year Enrollment and Pro-Rata Pricing
 

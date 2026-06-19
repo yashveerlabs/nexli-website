@@ -1,20 +1,20 @@
-﻿---
+---
 title: "Customization Costs and Options for School ERP"
-slug: "customization-costs-options"
+slug: "17-customization-costs-options"
 meta_description: "School ERP customization costs explained. When to configure vs. develop. Budget options from simple configuration to full custom development."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "ERP customization costs schools"
-secondary_keywords: ["custom development school ERP", "ERP configuration cost", "school ERP customization options"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "custom development school ERP"
+  - "ERP configuration cost"
+  - "school ERP customization options"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 # Customization Costs and Options for School ERP
 
 A school in Pune implemented a standard ERP system. The vendor said, "Our system handles all standard school workflows." But the school's fee structure was unique, discounts varied by class, sponsorship, and sibling enrollment. The standard system couldn't model this. The vendor quoted Rs. 80,000 to customize the fee logic. The school also wanted to automatically generate and print hostel passes with student photos and QR codes, another Rs. 30,000 customization. Integration with their existing transport system required Rs. 50,000 more. What started as a Rs. 50,000 annual software license became a Rs. 210,000 total project. The principal realized: **customization costs** often exceed software licensing costs.

@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Class Routine Document
-slug: the-complete-guide-to-class-routine-document
-meta_description: The Complete Guide to Class Routine Document
-category: SOPs & Templates
-primary_keyword: class routine document
+title: "The Complete Guide to Class Routine Document"
+slug: "041-the-complete-guide-to-class-routine-document"
+meta_description: "The Complete Guide to Class Routine Document"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "class routine document"
 secondary_keywords:
-  - class routine document schools
-  - best practices class routine document
-  - class routine document strategy
-  - how to implement class routine document
-intent: informational
+  - "class routine document schools"
+  - "best practices class routine document"
+  - "class routine document strategy"
+  - "how to implement class routine document"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on class routine document for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

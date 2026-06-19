@@ -1,18 +1,21 @@
 ---
 title: "School Staff Leave Policy: Categories, Entitlements, and Compliance"
-slug: "school-staff-leave-policy"
+slug: "97-leave-policy"
 meta_description: "Design a compliant school staff leave policy. Covers casual leave, earned leave, medical leave, maternity and paternity leave, ESIC sick leave, and policy documentation."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "school staff leave policy India"
-secondary_keywords: ["teacher leave entitlement India", "school maternity leave policy", "school casual leave rules", "staff leave management school"]
-intent: "informational"
+secondary_keywords:
+  - "teacher leave entitlement India"
+  - "school maternity leave policy"
+  - "school casual leave rules"
+  - "staff leave management school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 9
 branding_block_company: 9
 branding_block_nexli: 9
 ---
-
 A leave policy for school staff specifies the types of leave available, entitlement per year, application procedure, and carry-forward or encashment rules. Without a written leave policy, staff have inconsistent expectations, managers make ad hoc decisions, and the school faces disputes when leave is denied or when staff claim more leave than they are entitled to.
 
 ## Statutory Leave Entitlements

@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Financing Options for School ERP"
-slug: "financing-options-for-school-erp"
+slug: "52-financing-options-for-school-erp"
 meta_description: "Financing Options for School ERP"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "financing"
-secondary_keywords: ["options", "for", "school", "erp"]
+secondary_keywords:
+  - "options"
+  - "for"
+  - "school"
+  - "erp"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Financing Options for School ERP
 

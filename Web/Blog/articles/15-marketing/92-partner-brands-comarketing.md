@@ -1,8 +1,8 @@
 ---
 title: "Partner Brands: Co-Marketing Collaborations"
-slug: "partner-brands-comarketing-schools"
+slug: "92-partner-brands-comarketing"
 meta_description: "Build co-marketing partnerships that grow your school's reach and admissions. Learn partner selection, collaboration formats, joint events, and measuring partnership ROI."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school co-marketing partnerships"
 secondary_keywords:
   - "school brand partnerships"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Partner Brands: Co-Marketing Collaborations
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

@@ -1,22 +1,21 @@
-﻿---
-title: School Canteen: Setup and Management
-slug: school-canteen-setup-management
-meta_description: Comprehensive guide to school canteen: setup and management for school administrators and leaders.
-category: School Safety, Transport, Hostel, Medical & Campus Operations
-primary_keyword: canteen operations
+---
+title: "School Canteen: Setup and Management"
+slug: "61-school-canteen-setup-management"
+meta_description: "Comprehensive guide to school canteen: setup and management for school administrators and leaders."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "canteen operations"
 secondary_keywords:
-  - school safety
-  - canteen operations
-  - school operations
-  - campus safety
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school safety"
+  - "canteen operations"
+  - "school operations"
+  - "campus safety"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This comprehensive guide covers essential strategies and best practices for school canteen: setup and management.

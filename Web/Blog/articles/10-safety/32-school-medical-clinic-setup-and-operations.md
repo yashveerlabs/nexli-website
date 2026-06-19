@@ -1,8 +1,8 @@
 ---
 title: "School Medical Clinic: Setup and Operations"
-slug: school-medical-clinic-setup-and-operations
+slug: "32-school-medical-clinic-setup-and-operations"
 meta_description: "Set up and operate a school medical clinic: facility standards, staffing, services, equipment, record-keeping, and compliance for Indian K-12 schools."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school medical clinic setup"
 secondary_keywords:
   - "school sick bay operations"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # School Medical Clinic: Setup and Operations
 
 School medical clinic provides essential healthcare. Proper setup and operations ensure quality care.

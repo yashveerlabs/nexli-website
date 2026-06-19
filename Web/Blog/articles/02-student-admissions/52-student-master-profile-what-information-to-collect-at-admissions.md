@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Student Master Profile: What Information to Collect at Admissions"
-slug: student-master-profile-what-information-to-collect-at-admissions
-meta_description: student master profile: what information to collect at admissions. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: student master profile
+slug: "52-student-master-profile-what-information-to-collect-at-admissions"
+meta_description: "student master profile: what information to collect at admissions. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "student master profile"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for student master profile in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

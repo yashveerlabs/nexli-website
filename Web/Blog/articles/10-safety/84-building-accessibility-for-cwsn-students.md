@@ -1,18 +1,21 @@
-﻿---
-title: Building Accessibility for CWSN Students
-slug: building-accessibility-for-cwsn-students
-meta_description: Design and maintain accessible facilities for children with special needs through inclusive infrastructure.
-category: Safety & Operations
-primary_keyword: accessibility for disabled students
-secondary_keywords: ['wheelchair access', 'inclusive design', 'adaptive facilities', 'barrier-free campus']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "Building Accessibility for CWSN Students"
+slug: "84-building-accessibility-for-cwsn-students"
+meta_description: "Design and maintain accessible facilities for children with special needs through inclusive infrastructure."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "accessibility for disabled students"
+secondary_keywords:
+  - "wheelchair access"
+  - "inclusive design"
+  - "adaptive facilities"
+  - "barrier-free campus"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Building Accessibility for CWSN Students: Comprehensive Guide
 
 This guide provides comprehensive guidance on building accessibility for cwsn students.

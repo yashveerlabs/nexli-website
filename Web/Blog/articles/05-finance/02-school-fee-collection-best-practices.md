@@ -1,18 +1,21 @@
-﻿---
+---
 title: "School Fee Collection: Best Practices for Maximum Recovery"
-slug: "school-fee-collection-best-practices"
+slug: "02-school-fee-collection-best-practices"
 meta_description: "Best practices for school fee collection and maximum recovery. Proven methods to improve payment rates and reduce defaults."
-category: "School Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "school fee collection best practices recovery"
-secondary_keywords: ["fee management", "payment collection", "financial management", "fee recovery"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "fee management"
+  - "payment collection"
+  - "financial management"
+  - "fee recovery"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Core Best Practices
 
 ### Practice 1: Clear Policy at Admission

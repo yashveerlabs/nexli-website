@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Admissions Performance Dashboard: KPIs Every Principal Should Monitor"
-slug: admissions-performance-dashboard-kpis-every-principal-should-monitor
-meta_description: admissions performance dashboard: kpis every principal should monitor. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: admissions performance dashboard
+slug: "96-admissions-performance-dashboard-kpis-every-principal-should-monitor"
+meta_description: "admissions performance dashboard: kpis every principal should monitor. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "admissions performance dashboard"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for admissions performance dashboard in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

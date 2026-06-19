@@ -1,18 +1,20 @@
 ---
 title: "Social Impact Reporting"
-slug: "social-impact-reporting"
+slug: "80-social-impact-reporting"
 meta_description: "How school ERPs support social impact reporting for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "social impact reporting school ERP"
-secondary_keywords: ["NGO school impact measurement India", "school social reporting software", "education impact tracking ERP", "school outcome reporting India"]
+secondary_keywords:
+  - "NGO school impact measurement India"
+  - "school social reporting software"
+  - "education impact tracking ERP"
+  - "school outcome reporting India"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Social Impact Reporting
 

@@ -1,18 +1,21 @@
 ---
 title: "FSSAI License for Schools: Do Schools Need One and How to Get It"
-slug: "fssai-license-schools-india"
+slug: "78-fssai-license"
 meta_description: "Determine if your school needs an FSSAI license or registration. Covers applicability for school canteens, hostel mess, caterers, PM POSHAN kitchens, and how to apply."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "FSSAI license schools India"
-secondary_keywords: ["school canteen FSSAI", "food safety school India", "FSSAI registration school", "school kitchen food license"]
-intent: "informational"
+secondary_keywords:
+  - "school canteen FSSAI"
+  - "food safety school India"
+  - "FSSAI registration school"
+  - "school kitchen food license"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
 ---
-
 The Food Safety and Standards Authority of India (FSSAI) regulates food businesses in India under the Food Safety and Standards Act 2006. Schools that operate canteens, hostel mess facilities, midday meal kitchens, or sell food to students are engaged in food business activities and may require FSSAI registration or licensing.
 
 ## Who Needs FSSAI Registration or License

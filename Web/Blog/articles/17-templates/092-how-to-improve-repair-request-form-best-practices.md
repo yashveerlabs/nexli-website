@@ -1,22 +1,21 @@
 ---
-title: How to Improve Repair Request Form: Best Practices
-slug: how-to-improve-repair-request-form-best-practices
-meta_description: How to Improve Repair Request Form: Best Practices
-category: SOPs & Templates
-primary_keyword: repair request form
+title: "How to Improve Repair Request Form: Best Practices"
+slug: "092-how-to-improve-repair-request-form-best-practices"
+meta_description: "How to Improve Repair Request Form: Best Practices"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "repair request form"
 secondary_keywords:
-  - repair request form schools
-  - best practices repair request form
-  - repair request form strategy
-  - how to implement repair request form
-intent: informational
+  - "repair request form schools"
+  - "best practices repair request form"
+  - "repair request form strategy"
+  - "how to implement repair request form"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on repair request form for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

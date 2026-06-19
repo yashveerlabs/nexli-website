@@ -1,10 +1,9 @@
 ---
 title: "Building Resilience as School Leader"
-slug: building-resilience-as-school-leader
-category: 9
-order: 84
-primary_keyword: "building resilience as a school leader"
+slug: "84-building-resilience-as-school-leader"
 meta_description: "School leadership is demanding. Discover evidence-based strategies for building resilience, from physical health and support systems to reframing and growth mindset."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "building resilience as a school leader"
 secondary_keywords:
   - "principal wellbeing"
   - "resilience in educational leadership"
@@ -16,8 +15,8 @@ date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
+order: 84
 ---
-
 # Building Resilience as School Leader
 
 Leadership is hard. Resilience enables you to weather challenges and bounce back.

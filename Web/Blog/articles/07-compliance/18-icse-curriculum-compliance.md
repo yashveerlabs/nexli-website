@@ -1,18 +1,21 @@
 ---
 title: "ICSE Curriculum Compliance: Standards and Requirements for Schools"
-slug: "icse-curriculum-compliance"
+slug: "18-icse-curriculum-compliance"
 meta_description: "Understand ICSE curriculum compliance requirements. Learn about CISCE standards, curriculum implementation, and maintaining ICSE affiliation."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "ICSE curriculum compliance"
-secondary_keywords: ["CISCE standards", "ICSE affiliation", "school curriculum compliance", "ICSE requirements"]
-intent: "informational"
+secondary_keywords:
+  - "CISCE standards"
+  - "ICSE affiliation"
+  - "school curriculum compliance"
+  - "ICSE requirements"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ICSE (Indian Certificate of Secondary Education) schools are affiliated with the Council for the Indian School Certificate Examinations (CISCE). Curriculum compliance means following CISCE's prescribed syllabuses, assessment patterns, and academic calendar, annually verified through inspection and affiliation renewal.
 
 ## CISCE Curriculum Framework

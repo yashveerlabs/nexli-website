@@ -1,20 +1,22 @@
-﻿---
+---
 title: "How Much Does a School ERP Cost? A Complete Pricing Guide"
-slug: "school-erp-cost-pricing-guide"
+slug: "01-how-much-does-school-erp-cost"
 meta_description: "Understand school ERP pricing in India. Learn cost factors, pricing models, and how to budget for implementation. Make an informed financial decision."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "school ERP pricing"
-secondary_keywords: ["ERP cost", "school management system price", "implementation cost", "total cost of ownership", "subscription pricing"]
+secondary_keywords:
+  - "ERP cost"
+  - "school management system price"
+  - "implementation cost"
+  - "total cost of ownership"
+  - "subscription pricing"
 intent: "reference"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 **Can a school ERP cost $50,000, $5,000, or $500 per month? Yes to all three.** The price of a school management system depends entirely on what's included, how it's delivered, and what your school actually needs.
 
 ## What You'll Learn

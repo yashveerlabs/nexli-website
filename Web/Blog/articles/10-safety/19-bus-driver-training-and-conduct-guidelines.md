@@ -1,8 +1,8 @@
 ---
 title: "Bus Driver Training and Conduct Guidelines"
-slug: bus-driver-training-and-conduct-guidelines
+slug: "19-bus-driver-training-and-conduct-guidelines"
 meta_description: "Establish comprehensive bus driver training and conduct standards for Indian schools, covering safety, student management, and ongoing accountability."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school bus driver training"
 secondary_keywords:
   - "bus driver conduct guidelines"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Bus Driver Training and Conduct Guidelines
 
 Professional bus drivers ensure safe transportation. Training and conduct standards are essential.

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Fee Structure for Different Grades: Equal or Progressive?"
-slug: "fee-structure-grades-equal-progressive"
+slug: "33-fee-structure-grades-equal-progressive"
 meta_description: "Learn about fee structure for different grades: equal or progressive? in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "fee structure for different grades: equal or progressive?"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with fee structure for different grades: equal or progressive?:

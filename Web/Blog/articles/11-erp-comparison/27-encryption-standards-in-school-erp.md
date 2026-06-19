@@ -1,8 +1,8 @@
 ---
 title: "Encryption Standards in School ERP: What Schools Should Know"
-slug: "encryption-standards-in-school-erp"
+slug: "27-encryption-standards-in-school-erp"
 meta_description: "School ERP encryption: TLS in transit, AES-256 at rest, field-level encryption for Aadhaar and medical data, and how to verify vendor claims."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP encryption"
 secondary_keywords:
   - "school data encryption India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "DPDP encryption school software"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Encryption Standards in School ERP: What Schools Should Know
 
 **Encryption protects data from being read by unauthorized parties, whether that is a hacker who steals a database file, an employee who accesses data they should not, or a cloud provider employee with server access. This guide explains what encryption standards a school ERP should meet and how to verify vendor claims.**

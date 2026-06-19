@@ -1,8 +1,8 @@
 ---
 title: "Communication Strategy for School ERP Launch"
-slug: "communication-strategy-for-erp-launch"
+slug: "80-communication-strategy-for-erp-launch"
 meta_description: "How to communicate the school ERP launch to staff, parents, and students: sequencing, messaging, what to explain and what to avoid, and how to handle anxiety."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP launch communication"
 secondary_keywords:
   - "school ERP announcement staff parents"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school digital transition communication India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Communication Strategy for School ERP Launch
 
 **How you communicate the ERP launch shapes the school community's reception. A launch that is poorly announced creates anxiety ("Are they tracking us?"), confusion ("Is this mandatory?"), and resistance ("More technology to learn"). A well-planned communication strategy creates understanding, sets correct expectations, and builds adoption momentum before the system even goes live.**

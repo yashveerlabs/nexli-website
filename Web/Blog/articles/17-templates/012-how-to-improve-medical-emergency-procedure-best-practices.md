@@ -1,22 +1,21 @@
 ---
-title: How to Improve Medical Emergency Procedure: Best Practices
-slug: how-to-improve-medical-emergency-procedure-best-practices
-meta_description: How to Improve Medical Emergency Procedure: Best Practices
-category: SOPs & Templates
-primary_keyword: medical emergency procedure
+title: "How to Improve Medical Emergency Procedure: Best Practices"
+slug: "012-how-to-improve-medical-emergency-procedure-best-practices"
+meta_description: "How to Improve Medical Emergency Procedure: Best Practices"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "medical emergency procedure"
 secondary_keywords:
-  - medical emergency procedure schools
-  - best practices medical emergency procedure
-  - medical emergency procedure strategy
-  - how to implement medical emergency procedure
-intent: informational
+  - "medical emergency procedure schools"
+  - "best practices medical emergency procedure"
+  - "medical emergency procedure strategy"
+  - "how to implement medical emergency procedure"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on medical emergency procedure for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

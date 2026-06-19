@@ -1,19 +1,22 @@
 ---
 title: "Dealing with Poor Performance"
-slug: dealing-with-poor-performance
-category: 9
-order: 27
-primary_keyword: "dealing with poor performance"
+slug: "27-dealing-with-poor-performance"
 meta_description: "A practical guide for school principals on addressing poor teacher performance, from initial conversations to PIPs and formal processes, with compassion and clarity."
-secondary_keywords: ["teacher performance improvement plan", "managing underperforming staff", "school performance management", "principal performance review"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "dealing with poor performance"
+secondary_keywords:
+  - "teacher performance improvement plan"
+  - "managing underperforming staff"
+  - "school performance management"
+  - "principal performance review"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
+order: 27
 ---
-
 # Dealing with Poor Performance
 
 Addressing poor performance is difficult but necessary. Avoiding it hurts your school and ultimately doesn't help the struggling person either.

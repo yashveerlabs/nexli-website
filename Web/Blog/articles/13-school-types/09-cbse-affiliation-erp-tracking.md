@@ -1,20 +1,22 @@
 ---
 title: "CBSE Affiliation: What the ERP Should Track and Report"
-slug: "cbse-affiliation-erp-tracking"
+slug: "09-cbse-affiliation-erp-tracking"
 meta_description: "Learn what CBSE affiliation compliance requirements your ERP must track: staff qualifications, infrastructure standards, curriculum delivery, internal assessments, and audit readiness."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "CBSE affiliation compliance ERP"
-secondary_keywords: ["CBSE staff verification", "CBSE infrastructure standards tracking", "CBSE audit trail documentation", "CBSE affiliation audit readiness", "CBSE compliance monitoring"]
+secondary_keywords:
+  - "CBSE staff verification"
+  - "CBSE infrastructure standards tracking"
+  - "CBSE audit trail documentation"
+  - "CBSE affiliation audit readiness"
+  - "CBSE compliance monitoring"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
-date: "2026-06-19"
 ---
-
 ## The CBSE Affiliation Mandate: More Than a Certificate
 
 CBSE affiliation is not a one-time certification. It's a continuous compliance obligation. CBSE maintains detailed bylaws covering staff qualifications, infrastructure standards, curriculum delivery, assessment practices, and student safety. Schools must continuously prove they meet these standards.

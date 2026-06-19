@@ -1,22 +1,21 @@
 ---
-title: Role Definition Template for Modern Indian Schools
-slug: role-definition-template-for-modern-indian-schools
-meta_description: Role Definition Template for Modern Indian Schools
-category: SOPs & Templates
-primary_keyword: role definition template
+title: "Role Definition Template for Modern Indian Schools"
+slug: "084-role-definition-template-for-modern-indian-schools"
+meta_description: "Role Definition Template for Modern Indian Schools"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "role definition template"
 secondary_keywords:
-  - role definition template schools
-  - best practices role definition template
-  - role definition template strategy
-  - how to implement role definition template
-intent: informational
+  - "role definition template schools"
+  - "best practices role definition template"
+  - "role definition template strategy"
+  - "how to implement role definition template"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on role definition template for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

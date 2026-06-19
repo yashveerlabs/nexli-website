@@ -1,8 +1,8 @@
 ---
 title: "Target Student Profile: Recruitment Strategy and Messaging"
-slug: "target-student-profile-schools"
+slug: "89-target-student-profile"
 meta_description: "Define your school's target student profile to sharpen recruitment messaging. Learn how to segment prospects, tailor messaging, and attract families who are the best fit."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school target student profile"
 secondary_keywords:
   - "school student recruitment"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Target Student Profile: Recruitment Strategy and Messaging
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

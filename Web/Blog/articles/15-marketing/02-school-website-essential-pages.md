@@ -1,8 +1,8 @@
 ---
 title: "School Website: Essential Pages and Content"
-slug: "school-website-essential-pages"
+slug: "02-school-website-essential-pages"
 meta_description: "Build an effective school website. Learn which pages every school needs, what content goes on each, and how to optimize for parent decision-making."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school website content"
 secondary_keywords:
   - "school website pages"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Website: Essential Pages and Content
 
 **Your website is often a parent's first impression of your school. It should answer key questions: Who are you? What's your education philosophy? What are your results? How do I enroll? This guide lists essential pages, what content each needs, and SEO best practices.**

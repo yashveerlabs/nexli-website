@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Teacher Productivity Gains"
-slug: "teacher-productivity-gains"
+slug: "34-teacher-productivity-gains"
 meta_description: "Teacher Productivity Gains"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "teacher"
-secondary_keywords: ["productivity", "gains", "implementation", "school"]
+secondary_keywords:
+  - "productivity"
+  - "gains"
+  - "implementation"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Teacher Productivity Gains
 

@@ -1,22 +1,21 @@
-﻿---
-title: The Sexual Harassment Prevention Playbook: Implementation Guide
-slug: the-sexual-harassment-prevention-playbook-implementation-guide
-meta_description: The Sexual Harassment Prevention Playbook: Implementation...
-category: HR & Recruitment
-primary_keyword: sexual harassment prevention
+---
+title: "The Sexual Harassment Prevention Playbook: Implementation Guide"
+slug: "076-the-sexual-harassment-prevention-playbook-implementation-guide"
+meta_description: "The Sexual Harassment Prevention Playbook: Implementation..."
+category: "School HR, Recruitment & Staff"
+primary_keyword: "sexual harassment prevention"
 secondary_keywords:
-  - sexual harassment prevention schools
-  - best practices sexual harassment prevention
-  - sexual harassment prevention strategy
-  - how to implement sexual harassment prevention
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "sexual harassment prevention schools"
+  - "best practices sexual harassment prevention"
+  - "sexual harassment prevention strategy"
+  - "how to implement sexual harassment prevention"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on sexual harassment prevention for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

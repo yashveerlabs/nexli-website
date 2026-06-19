@@ -1,18 +1,20 @@
 ---
 title: "Payroll Software for Schools: Salary Structures, EPF/ESI/TDS, and Form 16"
-slug: "payroll-software"
+slug: "65-payroll-software"
 meta_description: "School payroll requires salary structures with HRA, DA, and TA allowances, EPF/ESI/TDS deductions, salary slip generation, and Form 16. Learn how payroll works in Indian school context."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "payroll software for schools"
-secondary_keywords: ["school salary structure", "EPF ESI TDS school", "Form 16 school staff"]
-intent: "informational"
+secondary_keywords:
+  - "school salary structure"
+  - "EPF ESI TDS school"
+  - "Form 16 school staff"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Payroll for Schools: What Is Different from Commercial Payroll
 
 Payroll software for schools handles a salary structure that differs from corporate payroll in several ways: teaching staff may be governed by state pay commission recommendations, contractual staff have different benefit structures, and schools often have unique allowances not found in commercial workplaces. Understanding the structure before choosing software saves significant configuration time.

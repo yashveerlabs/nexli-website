@@ -1,20 +1,20 @@
-﻿---
+---
 title: "Fee Collection Improvement: Impact on Cash Flow with School ERP"
-slug: "fee-collection-improvement-school-erp"
+slug: "25-fee-collection-improvement"
 meta_description: "How school ERP improves fee collection rates and cash flow. Real examples and calculation methods for Indian schools."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "fee collection improvement school ERP"
-secondary_keywords: ["school fee management", "ERP cash flow", "online fee collection"]
+secondary_keywords:
+  - "school fee management"
+  - "ERP cash flow"
+  - "online fee collection"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 # Fee Collection Improvement: Impact on Cash Flow
 
 A principal in Pune faced a recurring problem: fee collection was slow and unpredictable. Some parents paid on time; others delayed for weeks. The finance team manually sent reminder letters, made follow-up calls, and pursued outstanding fees through tedious back-and-forth. Each reminder required staff time. Some fees were never collected. By year-end, the school had collected 92% of fees, 4% written off as bad debt.

@@ -1,8 +1,8 @@
 ---
 title: "Parent Association as Marketing Asset: Leveraging Community Power"
-slug: "parent-association-marketing-schools"
+slug: "94-parent-association-marketing"
 meta_description: "Turn your parent association into a school marketing asset. Learn how to engage parent volunteers in referrals, events, testimonials, and community-driven admissions."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school parent association marketing"
 secondary_keywords:
   - "parent volunteer marketing"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Parent Association as Marketing Asset: Leveraging Community Power
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

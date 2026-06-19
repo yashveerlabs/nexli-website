@@ -1,19 +1,22 @@
 ---
 title: "Staff Recognition and Appreciation Programs"
-slug: staff-recognition-and-appreciation-programs
-category: 9
-order: 30
-primary_keyword: "staff recognition and appreciation programs"
+slug: "30-staff-recognition-and-appreciation-programs"
 meta_description: "Build effective staff recognition programs in your school. Practical strategies for principals to boost morale, improve retention, and create a culture of appreciation."
-secondary_keywords: ["school staff appreciation", "teacher recognition ideas", "employee recognition programs education", "principal recognition strategies"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "staff recognition and appreciation programs"
+secondary_keywords:
+  - "school staff appreciation"
+  - "teacher recognition ideas"
+  - "employee recognition programs education"
+  - "principal recognition strategies"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
+order: 30
 ---
-
 # Staff Recognition and Appreciation Programs
 
 Recognizing and appreciating staff isn't just nice, it's essential. Recognition programs build culture, boost morale, and improve retention.

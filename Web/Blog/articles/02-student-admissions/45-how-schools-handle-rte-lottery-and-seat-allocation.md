@@ -1,22 +1,21 @@
-﻿---
+---
 title: "How Schools Handle RTE Lottery and Seat Allocation"
-slug: how-schools-handle-rte-lottery-and-seat-allocation
-meta_description: how schools handle rte lottery and seat allocation. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: how schools handle rte lottery and seat allocation
+slug: "45-how-schools-handle-rte-lottery-and-seat-allocation"
+meta_description: "how schools handle rte lottery and seat allocation. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "how schools handle rte lottery and seat allocation"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article explores best practices for how schools handle rte lottery and seat allocation in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

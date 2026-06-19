@@ -1,18 +1,21 @@
 ---
 title: "Parent Mentoring: Peer Learning and Support Networks"
-slug: "parent-mentoring-peer-learning-networks"
+slug: "30-parent-mentoring-peer-learning-networks"
 meta_description: "Effective community partnership strategies for Indian schools. Learn how parent mentoring programs connect experienced families with new parents, creating peer support networks that ease transitions and build belonging."
-category: "Community Partnership"
+category: "Parent Communication & Engagement"
 primary_keyword: "school community involvement"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Parent Mentoring: Peer Learning and Support Networks
 
 Parent mentoring programs connect experienced families with new parents, creating peer support networks that ease transitions and build belonging.

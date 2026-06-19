@@ -1,22 +1,21 @@
-﻿---
-title: Excellence in Interview Process Design: What Schools Must Know
-slug: excellence-in-interview-process-design-what-schools-must-know
-meta_description: Excellence in Interview Process Design: What Schools Must...
-category: HR & Recruitment
-primary_keyword: interview process design
+---
+title: "Excellence in Interview Process Design: What Schools Must Know"
+slug: "027-excellence-in-interview-process-design-what-schools-must-know"
+meta_description: "Excellence in Interview Process Design: What Schools Must..."
+category: "School HR, Recruitment & Staff"
+primary_keyword: "interview process design"
 secondary_keywords:
-  - interview process design schools
-  - best practices interview process design
-  - interview process design strategy
-  - how to implement interview process design
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "interview process design schools"
+  - "best practices interview process design"
+  - "interview process design strategy"
+  - "how to implement interview process design"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on interview process design for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

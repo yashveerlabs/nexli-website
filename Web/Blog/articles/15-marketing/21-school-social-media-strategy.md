@@ -1,8 +1,8 @@
 ---
 title: "School Social Media Strategy: Building Community and Driving Admissions"
-slug: "school-social-media-strategy-community"
+slug: "21-school-social-media-strategy"
 meta_description: "Build a social media strategy for your school that grows community and drives admissions. Learn platform selection, content calendar, and engagement tactics."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school social media strategy"
 secondary_keywords:
   - "Instagram schools"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # School Social Media Strategy: Building Community and Driving Admissions
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 7 min

@@ -1,19 +1,22 @@
 ---
 title: "How to Prepare for School Inspections"
-slug: how-to-prepare-for-school-inspections
-category: 9
-order: 53
-primary_keyword: "how to prepare for school inspections"
+slug: "53-how-to-prepare-for-school-inspections"
 meta_description: "A practical checklist for school principals preparing for inspections, self-assessment, documentation, staff briefing, facilities readiness, and turning inspections into opportunities."
-secondary_keywords: ["school inspection preparation", "school accreditation readiness", "principal inspection checklist", "school compliance inspection"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to prepare for school inspections"
+secondary_keywords:
+  - "school inspection preparation"
+  - "school accreditation readiness"
+  - "principal inspection checklist"
+  - "school compliance inspection"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
+order: 53
 ---
-
 # How to Prepare for School Inspections
 
 Inspections assess compliance and quality. Preparation shows readiness and professionalism.

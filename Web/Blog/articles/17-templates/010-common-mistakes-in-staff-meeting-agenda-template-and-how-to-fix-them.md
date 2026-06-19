@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Staff Meeting Agenda Template (And How to Fix Them)
-slug: common-mistakes-in-staff-meeting-agenda-template-and-how-to-fix-them
-meta_description: Common Mistakes in Staff Meeting Agenda Template (And How...
-category: SOPs & Templates
-primary_keyword: staff meeting agenda template
+title: "Common Mistakes in Staff Meeting Agenda Template (And How to Fix Them)"
+slug: "010-common-mistakes-in-staff-meeting-agenda-template-and-how-to-fix-them"
+meta_description: "Common Mistakes in Staff Meeting Agenda Template (And How..."
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "staff meeting agenda template"
 secondary_keywords:
-  - staff meeting agenda template schools
-  - best practices staff meeting agenda template
-  - staff meeting agenda template strategy
-  - how to implement staff meeting agenda template
-intent: informational
+  - "staff meeting agenda template schools"
+  - "best practices staff meeting agenda template"
+  - "staff meeting agenda template strategy"
+  - "how to implement staff meeting agenda template"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on staff meeting agenda template for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

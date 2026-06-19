@@ -1,8 +1,8 @@
 ---
 title: "School ERP and Academic Performance: What the Connection Is"
-slug: "academic-performance-improvements"
+slug: "48-academic-performance-improvements"
 meta_description: "How school ERP supports academic performance: at-risk student identification, marks analytics, attendance correlation, NEP 2020 HPC tracking, and realistic expectations."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP academic performance"
 secondary_keywords:
   - "school ERP student performance tracking"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP NEP 2020 HPC"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## School ERP and Academic Performance: What the Connection Is
 
 **ERP vendors sometimes claim that their software improves academic performance. This deserves scrutiny. ERP does not directly improve learning. But it provides better information to teachers and administrators about which students are falling behind, earlier, which gives the school an opportunity to intervene before the problem deepens. The connection to academic outcomes is real but indirect.**

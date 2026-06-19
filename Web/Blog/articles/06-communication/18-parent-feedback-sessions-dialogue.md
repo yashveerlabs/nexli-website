@@ -1,18 +1,21 @@
 ---
 title: "Parent Feedback Sessions: Creating Dialogue Around Student Progress"
-slug: "parent-feedback-sessions-dialogue"
+slug: "18-parent-feedback-sessions-dialogue"
 meta_description: "Effective parent engagement strategies for Indian schools. Learn how parent feedback sessions transform parent-teacher meetings into two-way conversations about student growth, challenges, and opportunities. structured feedback improves school-home alignment."
-category: "Parent Engagement"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent engagement communication"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Parent Feedback Sessions: Creating Dialogue Around Student Progress
 
 Parent feedback sessions transform parent-teacher meetings into two-way conversations about student growth, challenges, and opportunities. Structured feedback improves school-home alignment.

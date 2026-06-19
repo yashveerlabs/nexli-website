@@ -1,18 +1,21 @@
-﻿---
+---
 title: "How to Control School Spending and Reduce Waste"
-slug: "control-school-spending-reduce-waste"
+slug: "12-control-school-spending-reduce-waste"
 meta_description: "Reduce school spending without compromising quality. Cost control strategies and waste reduction practices."
-category: "School Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "control school spending reduce waste"
-secondary_keywords: ["cost control", "budget reduction", "financial efficiency", "waste management"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "cost control"
+  - "budget reduction"
+  - "financial efficiency"
+  - "waste management"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Common Areas of School Waste
 
 ### 1. **Utilities (10–15% of budget)**

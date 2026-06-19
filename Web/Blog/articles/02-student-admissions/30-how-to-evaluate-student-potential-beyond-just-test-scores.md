@@ -1,22 +1,21 @@
-﻿---
+---
 title: "How to Evaluate Student Potential Beyond Just Test Scores"
-slug: how-to-evaluate-student-potential-beyond-just-test-scores
-meta_description: how to evaluate student potential beyond just test scores. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: how to evaluate student potential beyond just test scores
+slug: "30-how-to-evaluate-student-potential-beyond-just-test-scores"
+meta_description: "how to evaluate student potential beyond just test scores. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "how to evaluate student potential beyond just test scores"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article explores best practices for how to evaluate student potential beyond just test scores in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

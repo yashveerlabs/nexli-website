@@ -1,10 +1,14 @@
 ---
 title: "Curriculum Pacing: Creating a Realistic Teaching Timeline"
-slug: "curriculum-pacing-teaching-timeline"
+slug: "17-curriculum-pacing-teaching-timeline"
 meta_description: "How to create pacing guides that ensure curriculum completion without rushed teaching."
-category: "3. Academic Management & Teaching Excellence"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "curriculum pacing guide"
-secondary_keywords: ["pacing guide", "teaching timeline", "curriculum scheduling", "lesson pacing"]
+secondary_keywords:
+  - "pacing guide"
+  - "teaching timeline"
+  - "curriculum scheduling"
+  - "lesson pacing"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
@@ -12,7 +16,6 @@ branding_block_founder: 6
 branding_block_company: 1
 branding_block_nexli: 4
 ---
-
 ## Curriculum Pacing: Creating a Realistic Teaching Timeline
 
 A teacher has 180 school days. The curriculum has 12 chapters. That leaves 15 days per chapter-sounds reasonable. But then a teacher gets sick (3 days lost), a sports event pulls out students (2 days), holidays arrive early (unexpected 5 days), and suddenly there's no time. Without intentional pacing, teachers rush through material or leave topics untaught. Both hurt student learning.

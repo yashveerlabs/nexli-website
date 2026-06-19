@@ -1,22 +1,21 @@
 ---
-title: Cloud-Based School Administration: Security and Compliance
-slug: cloud-school-admin-security
-meta_description: What school administrators need to know about cloud security, data privacy, DPDP compliance, and access controls when running school operations on a cloud platform.
-category: School Administration & Operations
-primary_keyword: cloud school administration security
+title: "Cloud-Based School Administration: Security and Compliance"
+slug: "98-cloud-school-admin-security"
+meta_description: "What school administrators need to know about cloud security, data privacy, DPDP compliance, and access controls when running school operations on a cloud platform."
+category: "School Administration & Operations"
+primary_keyword: "cloud school administration security"
 secondary_keywords:
-  - school data security
-  - DPDP compliance schools India
-  - cloud school management system
-  - school data privacy
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school data security"
+  - "DPDP compliance schools India"
+  - "cloud school management system"
+  - "school data privacy"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 Cloud-based school administration gives schools real-time access to operational data from anywhere, with automatic backups and no on-premises server maintenance. The security and compliance questions that accompany this shift are genuine and deserve direct answers. This article covers what school leaders need to understand about cloud security, who is responsible for what, and how to verify that your school's data is protected.
 
 ---

@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Where Do Your Best-Performing Students Come From? Admissions Source Analysis"
-slug: where-do-your-best-performing-students-come-from-admissions-source-analysis
-meta_description: where do your best-performing students come from? admissions source analysis. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: where do your best-performing students come from? admissions source analysis
+slug: "90-where-do-your-best-performing-students-come-from-admissions-source-analysis"
+meta_description: "where do your best-performing students come from? admissions source analysis. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "where do your best-performing students come from? admissions source analysis"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: research
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "research"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article explores best practices for where do your best performing students come from? admissions source analysis in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

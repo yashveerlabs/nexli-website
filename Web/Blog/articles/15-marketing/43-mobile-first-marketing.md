@@ -1,8 +1,8 @@
 ---
 title: "Mobile-First Marketing: Reaching Parents on Their Phones"
-slug: "mobile-first-marketing-schools"
+slug: "43-mobile-first-marketing"
 meta_description: "Reach parents on mobile with optimized school marketing. Learn mobile website design, mobile ads, WhatsApp marketing, and mobile-first content strategy."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "mobile marketing schools"
 secondary_keywords:
   - "mobile website school"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Mobile-First Marketing: Reaching Parents on Their Phones
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

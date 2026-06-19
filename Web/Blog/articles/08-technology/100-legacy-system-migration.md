@@ -1,18 +1,21 @@
 ---
 title: "Migrating from Legacy School Systems: Extract, Clean, Map, Validate, Cut Over"
-slug: "legacy-system-migration"
+slug: "100-legacy-system-migration"
 meta_description: "Migrating from a legacy school system: how to extract data, clean it, map to the new schema, validate, run parallel systems, and cut over with confidence."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school legacy system migration"
-secondary_keywords: ["school ERP data migration", "school system cutover", "legacy school software replacement", "school data cleanup migration"]
-intent: "informational"
+secondary_keywords:
+  - "school ERP data migration"
+  - "school system cutover"
+  - "legacy school software replacement"
+  - "school data cleanup migration"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Migrating from a Legacy School System: A Practical Guide
 
 Migrating from an old school system to a new one is one of the most complex operational projects a school undertakes. It is not just a software change. It is a data operation that requires extracting years of records from a system that may not cooperate, cleaning data that has accumulated inconsistencies over time, mapping old data structures to new ones, validating that nothing was lost or corrupted, running two systems in parallel long enough to build confidence, and then cutting over to the new system with minimal disruption to school operations.

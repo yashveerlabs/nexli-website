@@ -1,18 +1,21 @@
 ---
 title: "School IT Help Desk: Ticketing, Priority Levels, SLAs, and Knowledge Base"
-slug: "it-help-desk"
+slug: "90-it-help-desk"
 meta_description: "How to run a school IT help desk: ticketing system setup, priority levels based on class impact, response time SLAs, and a knowledge base for common issues."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school IT help desk"
-secondary_keywords: ["school ticketing system", "IT support SLA school", "help desk school India", "IT knowledge base school"]
-intent: "informational"
+secondary_keywords:
+  - "school ticketing system"
+  - "IT support SLA school"
+  - "help desk school India"
+  - "IT knowledge base school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Running a School IT Help Desk: Structure, Priority, and Response
 
 A school IT help desk is the organized system through which staff report technology problems and receive help. Without a structured help desk, problems are reported verbally, forgotten, or deprioritized based on who asked loudest rather than which issue matters most. A structured approach ensures no request is lost and that the most impactful issues get addressed first.

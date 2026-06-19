@@ -1,8 +1,8 @@
 ---
 title: "Justifying School ERP Investment to the Management Committee"
-slug: "erp-investment-justification"
+slug: "53-erp-investment-justification"
 meta_description: "How to build the investment case for school ERP: time savings, fee collection improvement, compliance risk, and how to present to the school management committee or trust."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP investment justification"
 secondary_keywords:
   - "school ERP board approval"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP budget approval"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Justifying School ERP Investment to the Management Committee
 
 **Getting ERP investment approved requires making the case to people who control the budget, school trustees, management committee members, or a managing director. These stakeholders care about financial return, risk management, and operational improvement. They do not care about feature lists. The investment case must be framed in their terms.**

@@ -1,18 +1,21 @@
 ---
 title: "Parent Volunteer Programs: Structure and Support"
-slug: "parent-volunteer-programs-structure-support"
+slug: "29-parent-volunteer-programs-structure-support"
 meta_description: "Effective community partnership strategies for Indian schools. Learn how structured volunteer programs with clear roles, training, and recognition keep parents engaged and ensure quality contribution to school operations."
-category: "Community Partnership"
+category: "Parent Communication & Engagement"
 primary_keyword: "school community involvement"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Parent Volunteer Programs: Structure and Support
 
 Structured volunteer programs with clear roles, training, and recognition keep parents engaged and ensure quality contribution to school operations.

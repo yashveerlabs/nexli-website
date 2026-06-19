@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Rte Enrollment Data (And How to Fix Them)
-slug: common-mistakes-in-rte-enrollment-data-and-how-to-fix-them
-meta_description: Common Mistakes in Rte Enrollment Data (And How to Fix Them)
-category: Research & Statistics
-primary_keyword: RTE enrollment data
+title: "Common Mistakes in Rte Enrollment Data (And How to Fix Them)"
+slug: "090-common-mistakes-in-rte-enrollment-data-and-how-to-fix-them"
+meta_description: "Common Mistakes in Rte Enrollment Data (And How to Fix Them)"
+category: "School Research, Statistics & Reports"
+primary_keyword: "RTE enrollment data"
 secondary_keywords:
-  - RTE enrollment data schools
-  - best practices RTE enrollment data
-  - RTE enrollment data strategy
-  - how to implement RTE enrollment data
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "RTE enrollment data schools"
+  - "best practices RTE enrollment data"
+  - "RTE enrollment data strategy"
+  - "how to implement RTE enrollment data"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on rte enrollment data for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

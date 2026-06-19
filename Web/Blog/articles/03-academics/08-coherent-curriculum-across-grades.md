@@ -1,18 +1,21 @@
 ---
 title: "How to Create a Coherent Curriculum Across All Grades"
-slug: "coherent-curriculum-across-grades"
+slug: "08-coherent-curriculum-across-grades"
 meta_description: "Build a vertically aligned curriculum framework across all grades. Ensure learning progressions and eliminate redundancy."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "coherent curriculum vertical alignment grades"
-secondary_keywords: ["curriculum alignment", "learning progression", "cross-grade coordination", "educational continuity"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "curriculum alignment"
+  - "learning progression"
+  - "cross-grade coordination"
+  - "educational continuity"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Fragmented Learning Across Grades
 
 A student finishes Grade 7 with basic English skills. Enters Grade 8, and the English teacher assumes students know something they don't. Confusion. The Grade 8 teacher reteaches Grade 7 concepts, wasting time.

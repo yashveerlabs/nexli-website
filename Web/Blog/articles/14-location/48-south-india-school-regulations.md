@@ -1,18 +1,20 @@
 ---
 title: "South India School Regulations"
-slug: "south-india-school-regulations"
+slug: "48-south-india-school-regulations"
 meta_description: "South India school regulations and ERP compliance: state-specific requirements for Tamil Nadu, Karnataka, Telangana, AP, and Kerala schools."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "South India school regulations ERP"
-secondary_keywords: ["South India school compliance", "state board compliance South India", "CBSE school rules South India", "Tamil Nadu Karnataka Kerala regulations"]
+secondary_keywords:
+  - "South India school compliance"
+  - "state board compliance South India"
+  - "CBSE school rules South India"
+  - "Tamil Nadu Karnataka Kerala regulations"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## South India School Regulations
 

@@ -1,22 +1,21 @@
 ---
-title: The ROI of Better Asset Register Template
-slug: the-roi-of-better-asset-register-template
-meta_description: The ROI of Better Asset Register Template
-category: SOPs & Templates
-primary_keyword: asset register template
+title: "The ROI of Better Asset Register Template"
+slug: "019-the-roi-of-better-asset-register-template"
+meta_description: "The ROI of Better Asset Register Template"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "asset register template"
 secondary_keywords:
-  - asset register template schools
-  - best practices asset register template
-  - asset register template strategy
-  - how to implement asset register template
-intent: informational
+  - "asset register template schools"
+  - "best practices asset register template"
+  - "asset register template strategy"
+  - "how to implement asset register template"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on asset register template for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

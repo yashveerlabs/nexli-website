@@ -1,18 +1,20 @@
 ---
 title: "Flexible Enrollment and Scheduling"
-slug: "flexible-enrollment-and-scheduling"
+slug: "61-flexible-enrollment-and-scheduling"
 meta_description: "How school ERPs support flexible enrollment and scheduling for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "flexible enrollment scheduling ERP"
-secondary_keywords: ["non-standard school enrollment ERP India", "flexible school schedule management", "open enrollment software", "school ERP flexible scheduling"]
+secondary_keywords:
+  - "non-standard school enrollment ERP India"
+  - "flexible school schedule management"
+  - "open enrollment software"
+  - "school ERP flexible scheduling"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Flexible Enrollment and Scheduling
 

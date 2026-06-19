@@ -1,18 +1,21 @@
-﻿---
-title: Evacuation Procedures
-slug: evacuation-procedures
-meta_description: Establish clear evacuation procedures with regular drills, designated assembly points, and accountability measures.
-category: Safety & Operations
-primary_keyword: school evacuation procedures
-secondary_keywords: ['emergency drills', 'assembly points', 'accountability measures', 'safe exit routes']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "Evacuation Procedures"
+slug: "92-evacuation-procedures"
+meta_description: "Establish clear evacuation procedures with regular drills, designated assembly points, and accountability measures."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "school evacuation procedures"
+secondary_keywords:
+  - "emergency drills"
+  - "assembly points"
+  - "accountability measures"
+  - "safe exit routes"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Evacuation Procedures: Comprehensive Guide
 
 This guide provides comprehensive guidance on evacuation procedures.

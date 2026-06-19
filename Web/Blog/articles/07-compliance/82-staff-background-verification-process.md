@@ -1,18 +1,21 @@
 ---
 title: "Staff Background Verification Process: Step-by-Step for Schools"
-slug: "staff-background-verification-process-schools"
+slug: "82-staff-background-verification-process"
 meta_description: "Run a thorough staff background verification process at your school. Step-by-step guide covering police verification, qualification checks, reference checks, and record-keeping."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "staff background verification process schools"
-secondary_keywords: ["teacher hiring verification", "school staff police check", "pre-employment screening process school", "background check new teacher India"]
-intent: "informational"
+secondary_keywords:
+  - "teacher hiring verification"
+  - "school staff police check"
+  - "pre-employment screening process school"
+  - "background check new teacher India"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 A background verification process for school staff is not one check but a series of checks that together build a picture of whether a candidate is suitable for working with children. POCSO Act guidelines, CBSE affiliation conditions, and basic duty of care all require schools to conduct background verification before allowing staff to work with students.
 
 This article covers the step-by-step process from offer letter to verification completion.

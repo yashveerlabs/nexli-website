@@ -1,18 +1,21 @@
 ---
 title: "Building Safety Certificate for Schools: Requirements and Process"
-slug: "building-safety-certificate-schools"
+slug: "73-building-safety-certificate"
 meta_description: "Understand building safety certificate requirements for schools. Covers structural safety inspection, certificate validity, renewal process, and CBSE affiliation requirements."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "building safety certificate schools India"
-secondary_keywords: ["school structural safety certificate", "CBSE building safety requirement", "school building inspection India", "structural fitness certificate school"]
-intent: "informational"
+secondary_keywords:
+  - "school structural safety certificate"
+  - "CBSE building safety requirement"
+  - "school building inspection India"
+  - "structural fitness certificate school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 A Building Safety Certificate (also called a Structural Fitness Certificate or Structural Stability Certificate) is a document issued by a licensed structural engineer or government authority certifying that a school building is structurally sound and safe for occupation. CBSE affiliation conditions, state education regulations, and basic duty of care all require this certificate.
 
 Operating a school in a building without a current safety certificate creates serious legal exposure if any structural incident occurs.

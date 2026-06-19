@@ -1,22 +1,21 @@
-﻿---
-title: The Complete Guide to Capability Procedures
-slug: the-complete-guide-to-capability-procedures
-meta_description: The Complete Guide to Capability Procedures
-category: HR & Recruitment
-primary_keyword: capability procedures
+---
+title: "The Complete Guide to Capability Procedures"
+slug: "071-the-complete-guide-to-capability-procedures"
+meta_description: "The Complete Guide to Capability Procedures"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "capability procedures"
 secondary_keywords:
-  - capability procedures schools
-  - best practices capability procedures
-  - capability procedures strategy
-  - how to implement capability procedures
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "capability procedures schools"
+  - "best practices capability procedures"
+  - "capability procedures strategy"
+  - "how to implement capability procedures"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on capability procedures for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

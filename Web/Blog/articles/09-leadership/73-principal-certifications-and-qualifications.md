@@ -1,19 +1,22 @@
 ---
 title: "Principal Certifications and Qualifications"
-slug: principal-certifications-and-qualifications
-category: 9
-order: 73
-primary_keyword: "principal certifications and qualifications"
+slug: "73-principal-certifications-and-qualifications"
 meta_description: "Understand the certifications, degrees, and credentials that strengthen a principal's career. A guide to educational leadership qualifications and how to maintain them."
-secondary_keywords: ["school principal credentials", "educational leadership certification", "principal license requirements", "school administrator qualifications"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "principal certifications and qualifications"
+secondary_keywords:
+  - "school principal credentials"
+  - "educational leadership certification"
+  - "principal license requirements"
+  - "school administrator qualifications"
 intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
+order: 73
 ---
-
 # Principal Certifications and Qualifications
 
 Quality principals require education and certification. Invest in your qualifications.

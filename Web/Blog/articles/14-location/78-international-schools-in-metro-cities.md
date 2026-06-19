@@ -1,18 +1,20 @@
 ---
 title: "International Schools in Metro Cities"
-slug: "international-schools-in-metro-cities"
+slug: "78-international-schools-in-metro-cities"
 meta_description: "International school ERP in metro cities: cloud-based school management for IB, IGCSE, and Cambridge schools in Mumbai, Delhi, Bangalore, and Chennai."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "international school ERP metro cities India"
-secondary_keywords: ["IB IGCSE school ERP India", "international school software Mumbai Delhi Bangalore", "Cambridge school management India", "school ERP international curriculum"]
+secondary_keywords:
+  - "IB IGCSE school ERP India"
+  - "international school software Mumbai Delhi Bangalore"
+  - "Cambridge school management India"
+  - "school ERP international curriculum"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## International Schools in Metro Cities
 

@@ -1,22 +1,21 @@
-﻿---
-title: Real-Time Analytics for Modern Indian Schools
-slug: real-time-analytics-for-modern-indian-schools
-meta_description: Real-Time Analytics for Modern Indian Schools
-category: Innovation & AI
-primary_keyword: real-time analytics
+---
+title: "Real-Time Analytics for Modern Indian Schools"
+slug: "054-real-time-analytics-for-modern-indian-schools"
+meta_description: "Real-Time Analytics for Modern Indian Schools"
+category: "Education Innovation, AI & Future"
+primary_keyword: "real-time analytics"
 secondary_keywords:
-  - real-time analytics schools
-  - best practices real-time analytics
-  - real-time analytics strategy
-  - how to implement real-time analytics
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "real-time analytics schools"
+  - "best practices real-time analytics"
+  - "real-time analytics strategy"
+  - "how to implement real-time analytics"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on real-time analytics for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

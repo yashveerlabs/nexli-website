@@ -1,22 +1,21 @@
-﻿---
-title: Scaling Staff Insurance Policies Across Your School
-slug: scaling-staff-insurance-policies-across-your-school
-meta_description: Scaling Staff Insurance Policies Across Your School
-category: HR & Recruitment
-primary_keyword: staff insurance policies
+---
+title: "Scaling Staff Insurance Policies Across Your School"
+slug: "078-scaling-staff-insurance-policies-across-your-school"
+meta_description: "Scaling Staff Insurance Policies Across Your School"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "staff insurance policies"
 secondary_keywords:
-  - staff insurance policies schools
-  - best practices staff insurance policies
-  - staff insurance policies strategy
-  - how to implement staff insurance policies
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "staff insurance policies schools"
+  - "best practices staff insurance policies"
+  - "staff insurance policies strategy"
+  - "how to implement staff insurance policies"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on staff insurance policies for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

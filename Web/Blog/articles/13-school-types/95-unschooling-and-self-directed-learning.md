@@ -1,18 +1,20 @@
 ---
 title: "Unschooling and Self-Directed Learning"
-slug: "unschooling-and-self-directed-learning"
+slug: "95-unschooling-and-self-directed-learning"
 meta_description: "How school ERPs support unschooling and self-directed learning for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "unschooling self-directed learning ERP"
-secondary_keywords: ["homeschool management software India", "self-directed learning ERP", "alternative education management India", "unschooling tracking system"]
+secondary_keywords:
+  - "homeschool management software India"
+  - "self-directed learning ERP"
+  - "alternative education management India"
+  - "unschooling tracking system"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Unschooling and Self-Directed Learning
 

@@ -1,8 +1,8 @@
 ---
 title: "School ERP in Delhi: Best Solutions 2026"
-slug: school-erp-delhi-2026
+slug: "101-delhi-school-erp-2026"
 meta_description: "Discover the best school ERP solutions for Delhi schools in 2026. Compare systems designed for NCR regulations, metropolitan operations, and modern administration."
-category: "14-location"
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Delhi"
 secondary_keywords:
   - "school management system Delhi"
@@ -11,15 +11,12 @@ secondary_keywords:
   - "best ERP for Delhi schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 snippet: "Delhi's schools face unique challenges: regulatory complexity, high student diversity, infrastructure variability, and pressure to balance quality with affordability. A proper ERP isn't a luxury, it's how modern schools in India's capital operate. Here's what Delhi schools should know when choosing an ERP in 2026."
 ---
-
 ## The Challenge: Why Delhi Schools Need More Than Spreadsheets
 
 Delhi is India's education capital. With over 50,000 schools across the NCR region, from elite international schools in South Delhi to neighborhood government schools in the periphery, the diversity of challenges is as vast as the student population. Yet almost all of them face the same core problem: fragmentation.

@@ -1,8 +1,8 @@
 ---
 title: "Student Information System: What to Look for in a School ERP"
-slug: "student-information-system-what-to-look-for"
+slug: "09-student-information-system-what-to-look-for"
 meta_description: "Evaluate a school ERP's student information system: master profiles, admissions pipeline, transfer certificates, document lockers, and RTE compliance for Indian schools."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "student information system school ERP"
 secondary_keywords:
   - "school student data management"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school management student records"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 ## Student Information System: What to Look for in a School ERP
 
 **The student information system (SIS) is the foundation of any school ERP. Every other module, attendance, marks, fees, counselling, depends on accurate student master data. A weak SIS creates cascading errors across the school. This guide explains what a strong SIS must include for Indian K-12 schools.**

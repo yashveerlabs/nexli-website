@@ -2,7 +2,7 @@
 title: "First Aid Training for School Staff: Essential Skills and Certification"
 slug: "first-aid-training-school-staff"
 meta_description: "Comprehensive guide to first aid training programs for school staff to handle medical emergencies effectively."
-category: "10"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "first aid training, medical emergencies, staff certification"
 secondary_keywords:
   - "emergency response"
@@ -12,9 +12,11 @@ secondary_keywords:
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
+branding_block_founder: 9
+branding_block_company: 9
+branding_block_nexli: 9
 branding_block: 20
 ---
-
 # First Aid Training for School Staff: Essential Skills and Certification
 
 ## Problem

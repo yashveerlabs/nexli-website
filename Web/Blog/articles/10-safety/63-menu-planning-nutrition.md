@@ -1,22 +1,21 @@
-﻿---
-title: Menu Planning: Balanced Nutrition
-slug: menu-planning-nutrition
-meta_description: Comprehensive guide to menu planning: balanced nutrition for school administrators and leaders.
-category: School Safety, Transport, Hostel, Medical & Campus Operations
-primary_keyword: nutrition planning
+---
+title: "Menu Planning: Balanced Nutrition"
+slug: "63-menu-planning-nutrition"
+meta_description: "Comprehensive guide to menu planning: balanced nutrition for school administrators and leaders."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "nutrition planning"
 secondary_keywords:
-  - school safety
-  - nutrition planning
-  - school operations
-  - campus safety
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school safety"
+  - "nutrition planning"
+  - "school operations"
+  - "campus safety"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This comprehensive guide covers essential strategies and best practices for menu planning: balanced nutrition.

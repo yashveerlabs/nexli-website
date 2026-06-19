@@ -1,18 +1,21 @@
 ---
 title: "What Parents Want to Hear: Understanding Effective Parent Communication"
-slug: "what-parents-want-hear-communication"
+slug: "22-what-parents-want-hear-communication"
 meta_description: "Effective parent engagement strategies for Indian schools. Learn how research shows parents want timely updates on student well-being, academic progress, and school decisions. understanding these priorities shapes communication strategy."
-category: "Parent Engagement"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent engagement communication"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## What Parents Want to Hear: Understanding Effective Parent Communication
 
 Research shows parents want timely updates on student well-being, academic progress, and school decisions. Understanding these priorities shapes communication strategy.

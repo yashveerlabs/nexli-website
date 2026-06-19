@@ -1,8 +1,8 @@
 ---
 title: "Alumni Newsletter: Staying Connected After Graduation"
-slug: "alumni-newsletter-schools"
+slug: "65-alumni-newsletter"
 meta_description: "Build an alumni newsletter that keeps graduates connected and drives referrals. Learn alumni engagement strategy, content ideas, and how to reactivate lapsed alumni."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school alumni newsletter"
 secondary_keywords:
   - "alumni engagement school"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Alumni Newsletter: Staying Connected After Graduation
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

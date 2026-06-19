@@ -1,18 +1,20 @@
 ---
 title: "Gurgaon Education Hub: Best Schools and ERP"
-slug: "gurgaon-education-hub-best-schools-and-erp"
+slug: "63-gurgaon-education-hub-best-schools-and-erp"
 meta_description: "School ERP in Gurgaon: cloud-based school management for Gurugram's education hub with CBSE compliance, multi-campus support, and parent portal."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Gurgaon Gurugram"
-secondary_keywords: ["school management system Gurgaon", "Gurugram school software", "NCR Gurgaon school ERP", "best ERP for Gurgaon schools"]
+secondary_keywords:
+  - "school management system Gurgaon"
+  - "Gurugram school software"
+  - "NCR Gurgaon school ERP"
+  - "best ERP for Gurgaon schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Gurgaon Education Hub: Best Schools and ERP
 

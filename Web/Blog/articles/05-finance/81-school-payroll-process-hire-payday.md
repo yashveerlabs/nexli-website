@@ -1,18 +1,21 @@
-﻿---
+---
 title: "School Payroll Process: From Hire to Payday"
-slug: "school-payroll-process-hire-payday"
+slug: "81-school-payroll-process-hire-payday"
 meta_description: "Learn about school payroll process: from hire to payday in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "school payroll process: from hire to payday"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with school payroll process: from hire to payday:

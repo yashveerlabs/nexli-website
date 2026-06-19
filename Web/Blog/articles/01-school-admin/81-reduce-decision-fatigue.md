@@ -1,22 +1,21 @@
 ---
-title: How to Reduce Administrative Decision Fatigue
-slug: reduce-decision-fatigue
-meta_description: Cut decision load through automation, delegation, and batch processing.
-category: School Administration & Operations
-primary_keyword: reduce decision fatigue
+title: "How to Reduce Administrative Decision Fatigue"
+slug: "81-reduce-decision-fatigue"
+meta_description: "Cut decision load through automation, delegation, and batch processing."
+category: "School Administration & Operations"
+primary_keyword: "reduce decision fatigue"
 secondary_keywords:
-  - Reduce Decision Fatigue
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Reduce Decision Fatigue"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 Administrative decision fatigue in schools occurs when principals must make dozens of minor decisions daily, leaving less mental energy for the strategic choices that require their judgment. The solution is to reduce decision fatigue through automation, clear delegation frameworks, and batch-processing of routine approvals. Schools that systematize this approach report 30-50% improvements in operational speed and leadership effectiveness.
 
 ---

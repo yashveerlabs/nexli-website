@@ -1,18 +1,21 @@
 ---
 title: "Single Sign-On for Schools: Benefits, SAML vs OAuth, and What to Know"
-slug: "single-sign-on"
+slug: "93-single-sign-on"
 meta_description: "SSO for schools: one login for all systems, reduced password fatigue, SAML vs OAuth 2.0 explained, Google Workspace as identity provider. Nexli SSO is planned, not yet built."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "single sign-on schools"
-secondary_keywords: ["SSO school ERP", "SAML school system", "Google Workspace school login", "school identity provider"]
-intent: "informational"
+secondary_keywords:
+  - "SSO school ERP"
+  - "SAML school system"
+  - "Google Workspace school login"
+  - "school identity provider"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Single Sign-On for Schools: What It Is and Whether You Need It
 
 Single Sign-On (SSO) is authentication infrastructure that allows a user to log in once and access multiple systems without logging in again to each one separately. In a school context, a teacher who signs in to their Google Workspace account in the morning could then access the school ERP, the LMS, and the library system without entering separate usernames and passwords for each.

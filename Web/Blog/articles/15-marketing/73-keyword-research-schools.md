@@ -1,8 +1,8 @@
 ---
 title: "Keyword Research for School Marketing: Finding Parent Queries"
-slug: "keyword-research-schools"
+slug: "73-keyword-research-schools"
 meta_description: "Find the keywords parents search when looking for schools. Learn keyword research tools, query intent, long-tail opportunities, and how to prioritize for admissions impact."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "keyword research school marketing"
 secondary_keywords:
   - "parent search keywords"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Keyword Research for School Marketing: Finding Parent Queries
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

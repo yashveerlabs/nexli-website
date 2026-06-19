@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Chatbots for Parents: 24/7 FAQ and Support"
-slug: "chatbots-parents-24-7-support"
+slug: "74-chatbots-parents-24-7-support"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how chatbots can answer common questions about fees, schedules, policies, and enrollment around the clock, reducing support burden."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Chatbots for Parents: 24/7 FAQ and Support
 
 Chatbots can answer common questions about fees, schedules, policies, and enrollment around the clock, reducing support burden.

@@ -1,18 +1,21 @@
-﻿---
-title: School Risk Assessment and Management
-slug: school-risk-assessment-and-management
-meta_description: Perform comprehensive risk assessments to identify hazards and implement mitigation strategies.
-category: Safety & Operations
-primary_keyword: school risk assessment
-secondary_keywords: ['hazard identification', 'risk mitigation', 'vulnerability assessment', 'risk registers']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "School Risk Assessment and Management"
+slug: "99-school-risk-assessment-and-management"
+meta_description: "Perform comprehensive risk assessments to identify hazards and implement mitigation strategies."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "school risk assessment"
+secondary_keywords:
+  - "hazard identification"
+  - "risk mitigation"
+  - "vulnerability assessment"
+  - "risk registers"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # School Risk Assessment and Management: Comprehensive Guide
 
 This guide provides comprehensive guidance on school risk assessment and management.

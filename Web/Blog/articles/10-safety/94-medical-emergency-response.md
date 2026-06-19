@@ -1,18 +1,21 @@
-﻿---
-title: Medical Emergency Response
-slug: medical-emergency-response
-meta_description: Develop medical emergency response procedures with trained responders and hospital coordination.
-category: Safety & Operations
-primary_keyword: medical emergency procedures
-secondary_keywords: ['first aid response', 'ambulance coordination', 'medical protocols', 'staff training']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "Medical Emergency Response"
+slug: "94-medical-emergency-response"
+meta_description: "Develop medical emergency response procedures with trained responders and hospital coordination."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "medical emergency procedures"
+secondary_keywords:
+  - "first aid response"
+  - "ambulance coordination"
+  - "medical protocols"
+  - "staff training"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Medical Emergency Response: Comprehensive Guide
 
 This guide provides comprehensive guidance on medical emergency response.

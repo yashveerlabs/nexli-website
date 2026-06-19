@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Communication During Inspection: Preparing for Auditors and Regulators"
-slug: "communication-inspection-auditors-regulators"
+slug: "90-communication-inspection-auditors-regulators"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how board inspections, compliance audits, and government visits require prepared communication about policies, records, and achievements."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Communication During Inspection: Preparing for Auditors and Regulators
 
 Board inspections, compliance audits, and government visits require prepared communication about policies, records, and achievements.

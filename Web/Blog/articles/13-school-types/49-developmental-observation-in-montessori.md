@@ -1,18 +1,20 @@
 ---
 title: "Developmental Observation in Montessori"
-slug: "developmental-observation-in-montessori"
+slug: "49-developmental-observation-in-montessori"
 meta_description: "How school ERPs support developmental observation in montessori for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "developmental observation Montessori ERP"
-secondary_keywords: ["Montessori observation software", "child development tracking India", "early childhood assessment ERP", "Montessori teacher tools"]
+secondary_keywords:
+  - "Montessori observation software"
+  - "child development tracking India"
+  - "early childhood assessment ERP"
+  - "Montessori teacher tools"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Developmental Observation in Montessori
 

@@ -1,8 +1,8 @@
 ---
 title: "Customer Support Quality in School ERP: What to Look For"
-slug: "customer-support-quality"
+slug: "34-customer-support-quality"
 meta_description: "How to evaluate school ERP vendor support quality: response times, support channels, escalation paths, SLAs, and questions to ask before signing."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP customer support"
 secondary_keywords:
   - "school ERP vendor support India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school software after-sales support"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Customer Support Quality in School ERP: What to Look For
 
 **Schools make ERP selection decisions based on features and demos. They live with vendor support for years. A vendor with excellent features and poor support creates daily frustration. A vendor with good features and responsive support builds a functional long-term relationship. Evaluating support quality before purchase is as important as evaluating the software itself.**

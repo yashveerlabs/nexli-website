@@ -1,22 +1,21 @@
 ---
-title: How to Generate School Affiliation Audit Reports
-slug: generate-school-affiliation-audit-reports
-meta_description: Learn step-by-step process to generate and submit school affiliation audit reports for CBSE compliance. Includes data collection, verification, and submission timelines.
-category: School Administration & Operations
-primary_keyword: school affiliation audit reports
+title: "How to Generate School Affiliation Audit Reports"
+slug: "105-school-affiliation-audit-reports"
+meta_description: "Learn step-by-step process to generate and submit school affiliation audit reports for CBSE compliance. Includes data collection, verification, and submission timelines."
+category: "School Administration & Operations"
+primary_keyword: "school affiliation audit reports"
 secondary_keywords:
-  - CBSE compliance reporting
-  - school audit process
-  - affiliation documentation
-  - audit data collection
-intent: process
-author: Yashveer Labs
-date: 2026-06-19
+  - "CBSE compliance reporting"
+  - "school audit process"
+  - "affiliation documentation"
+  - "audit data collection"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 School affiliation audit reports are mandatory compliance documents required by CBSE and state boards every 3-5 years. Schools that prepare audit reports systematically report 90% faster approval timelines and zero compliance rejections. This article walks through the data collection, verification, and submission process step-by-step, so your school enters every audit cycle ready.

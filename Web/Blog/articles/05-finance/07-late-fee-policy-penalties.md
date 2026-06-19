@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Late Fee Policy: When to Apply Penalties"
-slug: "late-fee-policy-when-apply-penalties"
+slug: "07-late-fee-policy-penalties"
 meta_description: "Design a fair late fee policy for schools. Guidelines on when and how to charge late fees for overdue payments."
-category: "School Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "late fee policy school penalties"
-secondary_keywords: ["payment penalties", "fee management policy", "collection enforcement"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "payment penalties"
+  - "fee management policy"
+  - "collection enforcement"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Why a Late Fee Policy Matters
 
 **Incentivizes Timely Payment:**

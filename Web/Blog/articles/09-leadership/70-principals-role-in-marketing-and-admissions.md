@@ -1,19 +1,22 @@
 ---
 title: "Principal's Role in Marketing and Admissions"
-slug: principals-role-in-marketing-and-admissions
-category: 9
-order: 70
-primary_keyword: "principal role in school marketing and admissions"
+slug: "70-principals-role-in-marketing-and-admissions"
 meta_description: "Learn how principals drive school enrollment through brand strategy, admissions process leadership, and family retention. A guide for school leaders growing their institution."
-secondary_keywords: ["school enrollment growth", "school admissions strategy", "principal school marketing", "school brand and enrollment"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "principal role in school marketing and admissions"
+secondary_keywords:
+  - "school enrollment growth"
+  - "school admissions strategy"
+  - "principal school marketing"
+  - "school brand and enrollment"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
+order: 70
 ---
-
 # Principal's Role in Marketing and Admissions
 
 Enrollment depends on effective marketing and admissions. Principals lead enrollment growth strategy.

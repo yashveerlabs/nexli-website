@@ -1,18 +1,20 @@
-﻿---
+---
 title: "How to Build a School Fee Collection Dashboard"
-slug: "build-school-fee-collection-dashboard"
+slug: "08-school-fee-collection-dashboard"
 meta_description: "Create a comprehensive fee collection dashboard. Real-time metrics and visualizations for school finance management."
-category: "School Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "school fee collection dashboard metrics"
-secondary_keywords: ["financial dashboard", "collection tracking", "real-time reporting"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "financial dashboard"
+  - "collection tracking"
+  - "real-time reporting"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Key Metrics for Your Dashboard
 
 ### 1. **Collection Overview**

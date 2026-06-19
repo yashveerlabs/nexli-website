@@ -1,10 +1,14 @@
 ---
 title: "How to Identify and Support Low-Performing Students Early"
-slug: "identify-support-low-performing-students"
+slug: "19-identify-support-low-performing-students"
 meta_description: "Early identification and intervention strategies for struggling students."
-category: "3. Academic Management & Teaching Excellence"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "support low-performing students"
-secondary_keywords: ["student support", "early intervention", "struggling students", "academic support"]
+secondary_keywords:
+  - "student support"
+  - "early intervention"
+  - "struggling students"
+  - "academic support"
 intent: "problem-solving"
 author: "Yashveer Labs"
 date: "2026-06-19"
@@ -12,7 +16,6 @@ branding_block_founder: 2
 branding_block_company: 8
 branding_block_nexli: 3
 ---
-
 ## How to Identify and Support Low-Performing Students Early
 
 Early intervention is the most effective approach to supporting struggling students. Identifying problems in October (not December) gives months to intervene before year-end exams. Without systematic identification, struggling students fall further behind.

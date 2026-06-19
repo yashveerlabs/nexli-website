@@ -1,8 +1,8 @@
 ---
 title: "Blog Strategy for Schools: Building Thought Leadership Through Content"
-slug: "blog-strategy-schools-thought-leadership"
+slug: "20-blog-strategy-schools-thought-leadership"
 meta_description: "Build a school blog that drives admissions through SEO and thought leadership. Learn content strategy, keyword targeting, publishing cadence, and conversion tactics."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school blog strategy"
 secondary_keywords:
   - "thought leadership education"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Blog Strategy for Schools: Building Thought Leadership Through Content
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 7 min

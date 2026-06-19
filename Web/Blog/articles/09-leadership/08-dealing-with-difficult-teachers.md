@@ -1,19 +1,22 @@
 ---
 title: "Dealing with Difficult Teachers"
-slug: dealing-with-difficult-teachers
-category: 9
-order: 8
-primary_keyword: "dealing with difficult teachers as a principal"
+slug: "08-dealing-with-difficult-teachers"
 meta_description: "How school principals can manage difficult teachers, from chronic complainers to underperformers, with practical strategies for setting expectations and protecting school culture."
-secondary_keywords: ["managing difficult staff in schools", "principal teacher management", "underperforming teacher strategies", "school culture and difficult employees"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "dealing with difficult teachers as a principal"
+secondary_keywords:
+  - "managing difficult staff in schools"
+  - "principal teacher management"
+  - "underperforming teacher strategies"
+  - "school culture and difficult employees"
 intent: "problem-solving"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
+order: 8
 ---
-
 # Dealing with Difficult Teachers
 
 Every school has at least one teacher who is talented but challenging to work with. Managing these relationships while maintaining school culture is one of your toughest leadership tasks.

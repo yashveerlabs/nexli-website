@@ -1,22 +1,21 @@
 ---
-title: NEP 2020 Competency Framework: Aligning Your School Curriculum
-slug: nep-2020-competency-framework-alignment
-meta_description: Understand NEP 2020 competency framework and how to align your school curriculum to develop 21st-century skills in students.
-category: Academic Management & Teaching Excellence
-primary_keyword: NEP 2020 competency framework
+title: "NEP 2020 Competency Framework: Aligning Your School Curriculum"
+slug: "112-nep-2020-competency-framework"
+meta_description: "Understand NEP 2020 competency framework and how to align your school curriculum to develop 21st-century skills in students."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "NEP 2020 competency framework"
 secondary_keywords:
-  - 21st century skills
-  - competency-based learning
-  - NEP implementation
-  - student learning outcomes
-intent: educational
-author: Yashveer Labs
-date: 2026-06-19
+  - "21st century skills"
+  - "competency-based learning"
+  - "NEP implementation"
+  - "student learning outcomes"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 NEP 2020 shifts education focus from rote learning to competency development. Schools implementing NEP competency frameworks report 45% improvement in student problem-solving, 40% increase in student engagement, and 30% better board exam scores. This article explains the five core competencies and how to integrate them into your school curriculum.

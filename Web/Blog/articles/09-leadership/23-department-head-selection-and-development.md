@@ -1,19 +1,22 @@
 ---
 title: "Department Head Selection and Development"
-slug: department-head-selection-and-development
-category: 9
-order: 23
-primary_keyword: "department head selection and development in schools"
+slug: "23-department-head-selection-and-development"
 meta_description: "How school principals can select strong department heads, structure their onboarding, develop their academic and leadership skills, and build effective department cultures."
-secondary_keywords: ["school department head role", "academic leader development", "department head selection process", "school middle leadership"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "department head selection and development in schools"
+secondary_keywords:
+  - "school department head role"
+  - "academic leader development"
+  - "department head selection process"
+  - "school middle leadership"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
+order: 23
 ---
-
 # Department Head Selection and Development
 
 Department heads are the backbone of academic leadership. They translate school vision to classroom practice and lead professional growth within their departments.

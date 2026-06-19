@@ -1,18 +1,21 @@
 ---
 title: "UDISE+ Data Collection: How to Gather School Data Accurately"
-slug: "udise-plus-data-collection-accuracy"
+slug: "60-udise-plus-data-collection"
 meta_description: "Build a reliable UDISE+ data collection process for your school. Covers which departments own which data, collection timelines, and verification procedures."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "UDISE+ data collection schools"
-secondary_keywords: ["school data collection UDISE", "UDISE+ enrollment data", "school statistics collection", "UDISE data accuracy"]
-intent: "informational"
+secondary_keywords:
+  - "school data collection UDISE"
+  - "UDISE+ enrollment data"
+  - "school statistics collection"
+  - "UDISE data accuracy"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 Accurate UDISE+ submission requires accurate underlying data. Many schools struggle with UDISE+ not because the portal is complex, but because their internal data collection is fragmented across departments, maintained in different formats, and not reconciled before submission.
 
 Building a reliable data collection process internally is the prerequisite for accurate government reporting.

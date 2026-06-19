@@ -1,22 +1,21 @@
 ---
-title: How to Improve Financial Sustainability Case: Best Practices
-slug: how-to-improve-financial-sustainability-case-best-practices
-meta_description: How to Improve Financial Sustainability Case: Best Practices
-category: Success Stories & Cases
-primary_keyword: financial sustainability case
+title: "How to Improve Financial Sustainability Case: Best Practices"
+slug: "042-how-to-improve-financial-sustainability-case-best-practices"
+meta_description: "How to Improve Financial Sustainability Case: Best Practices"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "financial sustainability case"
 secondary_keywords:
-  - financial sustainability case schools
-  - best practices financial sustainability case
-  - financial sustainability case strategy
-  - how to implement financial sustainability case
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "financial sustainability case schools"
+  - "best practices financial sustainability case"
+  - "financial sustainability case strategy"
+  - "how to implement financial sustainability case"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on financial sustainability case for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,18 +1,21 @@
 ---
 title: "Staff Data Protection Training: What Schools Must Cover Under DPDP"
-slug: "staff-data-protection-training"
+slug: "41-staff-data-protection-training"
 meta_description: "Design effective data protection training for school staff. Covers DPDP Act obligations, consent, breach reporting, and record-keeping for teachers and administrators."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "staff data protection training DPDP schools"
-secondary_keywords: ["teacher data privacy training", "DPDP staff awareness", "school data training program", "data protection compliance training"]
-intent: "informational"
+secondary_keywords:
+  - "teacher data privacy training"
+  - "DPDP staff awareness"
+  - "school data training program"
+  - "data protection compliance training"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 Every school staff member who accesses student personal data has obligations under the DPDP Act 2023. Training is not optional: staff who handle data without understanding the rules create compliance risk for the school. A data breach caused by an untrained staff member is the school's legal exposure, not just an individual mistake.
 
 Training must be practical, role-specific, and repeated at least annually.

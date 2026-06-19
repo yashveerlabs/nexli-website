@@ -1,22 +1,21 @@
 ---
 title: "How to Build an Admin Dashboard for Your Principal"
-slug: build-admin-dashboard-principal
-meta_description: Design an executive dashboard for principals. KPIs, real-time metrics, and decision-support data at a glance.
-category: School Administration & Operations
-primary_keyword: admin dashboard principal
+slug: "15-build-admin-dashboard"
+meta_description: "Design an executive dashboard for principals. KPIs, real-time metrics, and decision-support data at a glance."
+category: "School Administration & Operations"
+primary_keyword: "admin dashboard principal"
 secondary_keywords:
-  - school dashboard
-  - KPI tracking
-  - analytics
-  - school management
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school dashboard"
+  - "KPI tracking"
+  - "analytics"
+  - "school management"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 A principal needs visibility into school operations at a glance: attendance today, fees collected, pending approvals, at-risk students. Instead of hunting through emails and spreadsheets, a dashboard shows everything instantly. This article outlines what goes on a principal's dashboard and how to build it.

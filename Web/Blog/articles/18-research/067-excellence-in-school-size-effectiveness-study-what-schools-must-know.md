@@ -1,22 +1,21 @@
 ---
-title: Excellence in School Size Effectiveness Study: What Schools Must Know
-slug: excellence-in-school-size-effectiveness-study-what-schools-must-know
-meta_description: Excellence in School Size Effectiveness Study: What Schoo...
-category: Research & Statistics
-primary_keyword: school size effectiveness study
+title: "Excellence in School Size Effectiveness Study: What Schools Must Know"
+slug: "067-excellence-in-school-size-effectiveness-study-what-schools-must-know"
+meta_description: "Excellence in School Size Effectiveness Study: What Schoo..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "school size effectiveness study"
 secondary_keywords:
-  - school size effectiveness study schools
-  - best practices school size effectiveness study
-  - school size effectiveness study strategy
-  - how to implement school size effectiveness study
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "school size effectiveness study schools"
+  - "best practices school size effectiveness study"
+  - "school size effectiveness study strategy"
+  - "how to implement school size effectiveness study"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on school size effectiveness study for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

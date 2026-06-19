@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Indiranagar"
-slug: "school-erp-in-indiranagar"
+slug: "12-school-erp-in-indiranagar"
 meta_description: "School ERP in Indiranagar: cloud-based school management for Bangalore schools with tech-savvy families, CBSE compliance, and real-time parent communication."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Indiranagar Bangalore"
-secondary_keywords: ["school management system Indiranagar", "Indiranagar school software", "North Bangalore school ERP", "school ERP Indiranagar"]
+secondary_keywords:
+  - "school management system Indiranagar"
+  - "Indiranagar school software"
+  - "North Bangalore school ERP"
+  - "school ERP Indiranagar"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Indiranagar
 

@@ -1,22 +1,21 @@
 ---
-title: How to Conduct a School Infrastructure Audit
-slug: conduct-infrastructure-audit
-meta_description: Systematically assess school physical infrastructure and identify maintenance needs.
-category: School Administration & Operations
-primary_keyword: conduct infrastructure audit
+title: "How to Conduct a School Infrastructure Audit"
+slug: "68-conduct-infrastructure-audit"
+meta_description: "Systematically assess school physical infrastructure and identify maintenance needs."
+category: "School Administration & Operations"
+primary_keyword: "conduct infrastructure audit"
 secondary_keywords:
-  - Conduct Infrastructure Audit
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Conduct Infrastructure Audit"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 Conducting a school infrastructure audit means systematically inspecting every building, utility system, lab, and safety installation against a documented checklist to identify gaps, risks, and maintenance needs. Schools that conduct regular infrastructure audits reduce emergency repair costs, stay ahead of compliance requirements, and demonstrate responsible stewardship to boards and parents. This article covers the key challenges, practical solutions, and a step-by-step audit framework.
 
 ---

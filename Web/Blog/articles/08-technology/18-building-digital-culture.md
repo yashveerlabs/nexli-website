@@ -1,18 +1,21 @@
 ---
 title: "Building a Digital Culture in Schools: How Leadership Creates the Conditions for Technology Adoption"
-slug: "building-digital-culture"
+slug: "18-building-digital-culture"
 meta_description: "How school leadership builds a digital culture. Visible principal use, recognizing digital champions, making data-driven decisions public, and normalizing technology."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "building digital culture schools"
-secondary_keywords: ["school digital transformation culture", "principal technology leadership", "digital champion schools", "data driven school culture"]
-intent: "informational"
+secondary_keywords:
+  - "school digital transformation culture"
+  - "principal technology leadership"
+  - "digital champion schools"
+  - "data driven school culture"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## What Does a Digital Culture in a School Actually Look Like?
 
 A digital culture in a school is one where using technology for daily operations is the default, not the exception. It exists when: the principal visibly uses the ERP to make decisions in meetings rather than relying on manual reports, when teachers refer to attendance data in the ERP instead of calling the office to ask, when the accounts department's first instinct is to generate a system report rather than build a new spreadsheet. Building this culture is primarily a leadership task, not a technology task.

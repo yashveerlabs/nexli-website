@@ -1,18 +1,20 @@
 ---
 title: "Tier 2 City School Success"
-slug: "tier-2-city-school-success"
+slug: "94-tier-2-city-school-success"
 meta_description: "Tier 2 city school success with ERP: how schools in Jaipur, Chandigarh, Coimbatore, and Vadodara improved admissions and fee collection with cloud-based management."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "Tier 2 city school success ERP India"
-secondary_keywords: ["Tier 2 school ERP success India", "school management success Jaipur Chandigarh", "Tier 2 school digital transformation", "school ERP ROI Tier 2 cities"]
+secondary_keywords:
+  - "Tier 2 school ERP success India"
+  - "school management success Jaipur Chandigarh"
+  - "Tier 2 school digital transformation"
+  - "school ERP ROI Tier 2 cities"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Tier 2 City School Success
 

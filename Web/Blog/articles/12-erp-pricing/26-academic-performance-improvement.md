@@ -1,20 +1,20 @@
-﻿---
+---
 title: "Academic Performance Improvement with School ERP"
-slug: "academic-performance-improvement-school-erp"
+slug: "26-academic-performance-improvement"
 meta_description: "How school ERP analytics improve academic performance. Data-driven teaching, early intervention, and measurable outcomes."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "academic performance school ERP"
-secondary_keywords: ["ERP analytics education", "student performance tracking", "school data analytics"]
+secondary_keywords:
+  - "ERP analytics education"
+  - "student performance tracking"
+  - "school data analytics"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 # Academic Performance Improvement
 
 A principal in Chennai wanted to understand why Class 9B had an average exam score of 68% while Class 9A averaged 72%. Without data visibility, she couldn't diagnose the problem. Was it teacher quality? Student aptitude? Study resources? She couldn't isolate variables.

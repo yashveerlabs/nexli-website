@@ -1,8 +1,8 @@
 ---
 title: "School Website SEO Checklist: Complete Optimization"
-slug: "school-seo-checklist"
+slug: "72-school-seo-checklist"
 meta_description: "Complete SEO checklist for your school website. Audit technical SEO, on-page optimization, local SEO, and content gaps to rank higher and drive admissions inquiries."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school website SEO checklist"
 secondary_keywords:
   - "school SEO audit"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # School Website SEO Checklist: Complete Optimization
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

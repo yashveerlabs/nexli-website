@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Longitudinal Student Data: Tracking Progress Over Grades"
-slug: "longitudinal-student-data-tracking-progress"
+slug: "46-longitudinal-student-data-tracking-progress"
 meta_description: "Learn about longitudinal student data: tracking progress over grades in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "longitudinal student data: tracking progress over grades"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with longitudinal student data: tracking progress over grades:

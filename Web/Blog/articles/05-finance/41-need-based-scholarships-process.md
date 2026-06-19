@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Need-Based Scholarships: Process and Transparency"
-slug: "need-based-scholarships-process"
+slug: "41-need-based-scholarships-process"
 meta_description: "Learn about need-based scholarships: process and transparency in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "need-based scholarships: process and transparency"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with need-based scholarships: process and transparency:

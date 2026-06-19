@@ -1,8 +1,8 @@
 ---
 title: "How to Respond to Transport Incidents"
-slug: how-to-respond-to-transport-incidents
+slug: "24-how-to-respond-to-transport-incidents"
 meta_description: "Build a school transport incident response plan: immediate actions, parent communication, documentation, investigation, and prevention for Indian schools."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school transport incident response"
 secondary_keywords:
   - "bus accident protocol schools"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # How to Respond to Transport Incidents
 
 Incident response is critical. Clear procedures minimize harm and ensure proper investigation.

@@ -1,8 +1,8 @@
 ---
 title: "Podcast: Building Loyal Audience Through Audio Content"
-slug: "podcast-audio-content-schools"
+slug: "49-podcast-audio-content"
 meta_description: "Build a school podcast that creates loyal parent audiences and drives admissions. Learn topic selection, production, distribution, and how audio builds authority."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school podcast"
 secondary_keywords:
   - "school audio content"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Podcast: Building Loyal Audience Through Audio Content
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

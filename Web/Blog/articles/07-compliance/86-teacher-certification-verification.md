@@ -1,18 +1,21 @@
 ---
 title: "Teacher Certification Verification: CTET, TET, and Specialized Certifications"
-slug: "teacher-certification-verification-schools"
+slug: "86-teacher-certification-verification"
 meta_description: "Verify teacher eligibility certificates under RTE Act. Covers CTET verification, state TET checks, B.Ed. validation, and how to handle certification gaps."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "teacher certification verification CTET TET schools"
-secondary_keywords: ["CTET certificate verification", "state TET verification school", "teacher eligibility test compliance", "RTE teacher certification schools"]
-intent: "informational"
+secondary_keywords:
+  - "CTET certificate verification"
+  - "state TET verification school"
+  - "teacher eligibility test compliance"
+  - "RTE teacher certification schools"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 18
 branding_block_company: 18
 branding_block_nexli: 18
 ---
-
 Teacher eligibility certification, CTET for CBSE schools, state TET for state board schools, is a mandatory qualification for teachers in primary and upper primary classes under the RTE Act 2009. Schools must verify that teachers possess valid eligibility certificates before appointing them to positions covered by the mandate.
 
 ## CTET: Central Teacher Eligibility Test

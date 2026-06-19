@@ -1,18 +1,20 @@
 ---
 title: "GPS Tracking for School Buses: What It Shows, What It Doesn't, and How It Helps"
-slug: "transport-gps-tracking"
+slug: "53-transport-gps-tracking"
 meta_description: "GPS tracking for school buses shows route progress, delays, and driver behavior. Learn how OpenStreetMap integration works and what schools can realistically expect from bus tracking."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "GPS tracking for school buses"
-secondary_keywords: ["school bus tracking system", "transport GPS ERP", "OpenStreetMap school transport"]
-intent: "informational"
+secondary_keywords:
+  - "school bus tracking system"
+  - "transport GPS ERP"
+  - "OpenStreetMap school transport"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## GPS Tracking for School Buses: What It Actually Shows
 
 GPS tracking for school buses is one of the most visible safety features a school can add to its transport operations. A GPS device fitted to each vehicle transmits the vehicle's coordinates at regular intervals. Those coordinates get plotted on a map, giving the transport manager a view of where every bus is at any moment.

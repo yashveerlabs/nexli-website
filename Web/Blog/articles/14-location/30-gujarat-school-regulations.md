@@ -1,18 +1,20 @@
 ---
 title: "Gujarat School Regulations"
-slug: "gujarat-school-regulations"
+slug: "30-gujarat-school-regulations"
 meta_description: "Gujarat school regulations and ERP compliance: GSEB requirements, CBSE affiliate norms, RTE obligations, and state-specific education compliance."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "Gujarat school regulations ERP"
-secondary_keywords: ["Gujarat school compliance", "GSEB school ERP", "school regulation compliance Gujarat", "Gujarat CBSE school requirements"]
+secondary_keywords:
+  - "Gujarat school compliance"
+  - "GSEB school ERP"
+  - "school regulation compliance Gujarat"
+  - "Gujarat CBSE school requirements"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Gujarat School Regulations
 

@@ -1,18 +1,20 @@
 ---
 title: "Predictive Analytics in Schools: What Is Realistic and What Is Not Yet Built"
-slug: "predictive-analytics"
+slug: "57-predictive-analytics"
 meta_description: "Predictive analytics in education can flag at-risk students from attendance and marks trends. Learn what schools can do today vs. what AI-based prediction still requires."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "predictive analytics in education"
-secondary_keywords: ["at-risk student identification", "school analytics prediction", "student performance forecasting"]
-intent: "informational"
+secondary_keywords:
+  - "at-risk student identification"
+  - "school analytics prediction"
+  - "student performance forecasting"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Predictive Analytics in Education: What Schools Can Actually Do Today
 
 Predictive analytics in education refers to using historical data to identify patterns that signal a future outcome, most commonly identifying students who are at risk of poor academic performance, exam failure, or dropout before those outcomes occur. The concept is straightforward; the practical implementation ranges from "already built into most good ERPs" to "requires dedicated data science infrastructure." Understanding where your school is on that spectrum prevents both underinvestment and overclaiming.

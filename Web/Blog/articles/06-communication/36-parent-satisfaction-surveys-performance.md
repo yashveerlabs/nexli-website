@@ -1,18 +1,21 @@
 ---
 title: "Parent Satisfaction Surveys: Measuring School Performance"
-slug: "parent-satisfaction-surveys-performance"
+slug: "36-parent-satisfaction-surveys-performance"
 meta_description: "Effective feedback & complaints strategies for Indian schools. Learn how regular satisfaction surveys gauge parent perception across academics, safety, communication, and facilities. results guide improvement initiatives."
-category: "Feedback & Complaints"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent feedback resolution"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Parent Satisfaction Surveys: Measuring School Performance
 
 Regular satisfaction surveys gauge parent perception across academics, safety, communication, and facilities. Results guide improvement initiatives.

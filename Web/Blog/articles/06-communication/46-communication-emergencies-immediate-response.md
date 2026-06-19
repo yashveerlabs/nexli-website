@@ -1,18 +1,21 @@
 ---
 title: "Communication During School Emergencies: Immediate Response"
-slug: "communication-emergencies-immediate-response"
+slug: "46-communication-emergencies-immediate-response"
 meta_description: "Effective crisis communication strategies for Indian schools. Learn how during emergencies, speed and clarity are critical. pre-established communication protocols ensure accurate information reaches all stakeholders quickly."
-category: "Crisis Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "crisis communication school emergency"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Communication During School Emergencies: Immediate Response
 
 During emergencies, speed and clarity are critical. Pre-established communication protocols ensure accurate information reaches all stakeholders quickly.

@@ -1,18 +1,21 @@
 ---
 title: "Documentation of Complaints: Record-Keeping and Compliance"
-slug: "documentation-complaints-record-keeping"
+slug: "40-documentation-complaints-record-keeping"
 meta_description: "Effective feedback & complaints strategies for Indian schools. Learn how proper documentation of complaints creates institutional memory, demonstrates due diligence, and supports compliance with regulatory requirements."
-category: "Feedback & Complaints"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent feedback resolution"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Documentation of Complaints: Record-Keeping and Compliance
 
 Proper documentation of complaints creates institutional memory, demonstrates due diligence, and supports compliance with regulatory requirements.

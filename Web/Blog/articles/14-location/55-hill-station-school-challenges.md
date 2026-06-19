@@ -1,18 +1,20 @@
 ---
 title: "Hill Station School Challenges"
-slug: "hill-station-school-challenges"
+slug: "55-hill-station-school-challenges"
 meta_description: "Hill station school challenges in India: boarding school operations in Shimla, Mussoorie, Ooty, and Darjeeling with remote management and hostel ERP."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "hill station school challenges India ERP"
-secondary_keywords: ["hill station boarding school ERP", "school management Shimla Mussoorie Ooty", "boarding school ERP remote India", "hill school hostel management"]
+secondary_keywords:
+  - "hill station boarding school ERP"
+  - "school management Shimla Mussoorie Ooty"
+  - "boarding school ERP remote India"
+  - "hill school hostel management"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Hill Station School Challenges
 

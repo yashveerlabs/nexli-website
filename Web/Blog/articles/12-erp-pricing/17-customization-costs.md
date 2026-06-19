@@ -1,20 +1,20 @@
 ---
 title: "Customization Costs for School ERP: When to Configure vs. Develop"
-slug: "customization-costs-options"
+slug: "17-customization-costs"
 meta_description: "School ERP customization costs explained. Configuration vs. custom development. Budget ₹50,000-₹10,00,000 depending on customization scope."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "ERP customization costs"
-secondary_keywords: ["custom development school software", "ERP configuration cost", "custom workflows ERP"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "custom development school software"
+  - "ERP configuration cost"
+  - "custom workflows ERP"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 **Snippet:** School ERP customization ranges from configuration (₹50,000-₹2,00,000, adjusting defaults) to custom development (₹2,00,000-₹10,00,000+, building new features). Most schools need limited customization. Extensive customization signals a bad product-market fit.
 
 ## Configuration vs. Customization: Know the Difference

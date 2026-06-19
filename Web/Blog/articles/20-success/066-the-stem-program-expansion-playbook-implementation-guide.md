@@ -1,22 +1,21 @@
 ---
-title: The Stem Program Expansion Playbook: Implementation Guide
-slug: the-stem-program-expansion-playbook-implementation-guide
-meta_description: The Stem Program Expansion Playbook: Implementation Guide
-category: Success Stories & Cases
-primary_keyword: STEM program expansion
+title: "The Stem Program Expansion Playbook: Implementation Guide"
+slug: "066-the-stem-program-expansion-playbook-implementation-guide"
+meta_description: "The Stem Program Expansion Playbook: Implementation Guide"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "STEM program expansion"
 secondary_keywords:
-  - STEM program expansion schools
-  - best practices STEM program expansion
-  - STEM program expansion strategy
-  - how to implement STEM program expansion
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "STEM program expansion schools"
+  - "best practices STEM program expansion"
+  - "STEM program expansion strategy"
+  - "how to implement STEM program expansion"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on stem program expansion for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

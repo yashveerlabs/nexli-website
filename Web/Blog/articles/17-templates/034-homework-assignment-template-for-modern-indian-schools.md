@@ -1,22 +1,21 @@
 ---
-title: Homework Assignment Template for Modern Indian Schools
-slug: homework-assignment-template-for-modern-indian-schools
-meta_description: Homework Assignment Template for Modern Indian Schools
-category: SOPs & Templates
-primary_keyword: homework assignment template
+title: "Homework Assignment Template for Modern Indian Schools"
+slug: "034-homework-assignment-template-for-modern-indian-schools"
+meta_description: "Homework Assignment Template for Modern Indian Schools"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "homework assignment template"
 secondary_keywords:
-  - homework assignment template schools
-  - best practices homework assignment template
-  - homework assignment template strategy
-  - how to implement homework assignment template
-intent: informational
+  - "homework assignment template schools"
+  - "best practices homework assignment template"
+  - "homework assignment template strategy"
+  - "how to implement homework assignment template"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on homework assignment template for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

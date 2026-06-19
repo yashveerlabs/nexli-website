@@ -1,18 +1,21 @@
 ---
 title: "Police Verification for School Staff: Process, Timeline, and Requirements"
-slug: "police-verification-school-staff"
+slug: "84-police-verification"
 meta_description: "Complete guide to police verification for school staff. Covers how to submit verification requests, timelines, character certificate requirements, and POCSO compliance."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "police verification school staff India"
-secondary_keywords: ["character certificate school teacher", "police check school employee", "antecedent verification school staff", "POCSO police verification requirement"]
-intent: "informational"
-author: "Yashveer Singh Rajpoot"
+secondary_keywords:
+  - "character certificate school teacher"
+  - "police check school employee"
+  - "antecedent verification school staff"
+  - "POCSO police verification requirement"
+intent: "educational"
+author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 Police verification for school staff, obtaining a character certificate from police confirming a staff member has no criminal antecedents, is a mandatory requirement under POCSO Act guidelines and CBSE affiliation conditions. Schools that hire staff without police verification are exposed to legal liability if a staff member with a prior offence harms a student.
 
 ## What Police Verification Checks

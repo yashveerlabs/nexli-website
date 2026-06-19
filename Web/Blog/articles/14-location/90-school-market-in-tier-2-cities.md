@@ -1,18 +1,20 @@
 ---
 title: "School Market in Tier 2 Cities"
-slug: "school-market-in-tier-2-cities"
+slug: "90-school-market-in-tier-2-cities"
 meta_description: "School market in Tier 2 cities: how cloud-based ERP positions schools for growth in India's emerging education markets like Jaipur, Chandigarh, and Lucknow."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school market Tier 2 cities India ERP"
-secondary_keywords: ["Tier 2 school market ERP India", "school growth Jaipur Chandigarh Lucknow", "school ERP emerging markets India", "Tier 2 education market school software"]
+secondary_keywords:
+  - "Tier 2 school market ERP India"
+  - "school growth Jaipur Chandigarh Lucknow"
+  - "school ERP emerging markets India"
+  - "Tier 2 education market school software"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## School Market in Tier 2 Cities
 

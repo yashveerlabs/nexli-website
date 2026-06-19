@@ -1,8 +1,8 @@
 ---
 title: "Parent Communication on Transport Issues"
-slug: parent-communication-on-transport-issues
+slug: "25-parent-communication-on-transport-issues"
 meta_description: "Build effective parent communication systems for school transport: delay alerts, incident notifications, schedule changes, and feedback channels for Indian schools."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school transport parent communication"
 secondary_keywords:
   - "bus delay notifications"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Parent Communication on Transport Issues
 
 Clear communication with parents about transportation builds trust and manages concerns.

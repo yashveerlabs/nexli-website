@@ -1,8 +1,8 @@
 ---
 title: "ERP for International Schools in India: What Is Different"
-slug: "erp-for-international-schools"
+slug: "68-erp-for-international-schools"
 meta_description: "ERP evaluation guide for international schools in India: IB/Cambridge curriculum support, multi-currency fees, visa compliance, GDPR considerations, and localization needs."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "ERP for international schools India"
 secondary_keywords:
   - "international school management software India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "international school ERP evaluation"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## ERP for International Schools in India: What Is Different
 
 **International schools in India, those following IB (International Baccalaureate), Cambridge (CAIE), or other international curricula, have specific operational requirements that diverge from mainstream Indian CBSE/ICSE schools. Some of these requirements are met by India-focused ERP; others require international platforms or specialized configuration. This guide explains the key differences.**

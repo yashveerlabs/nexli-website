@@ -1,19 +1,22 @@
 ---
 title: "How to Present Budget to Board"
-slug: how-to-present-budget-to-board
-category: 9
-order: 34
-primary_keyword: "how to present budget to board"
+slug: "34-how-to-present-budget-to-board"
 meta_description: "A principal's step-by-step guide to presenting the school budget to the board, preparation, visual aids, handling tough questions, and building long-term financial trust."
-secondary_keywords: ["school board budget presentation", "principal board presentation", "presenting school finances", "budget approval school"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to present budget to board"
+secondary_keywords:
+  - "school board budget presentation"
+  - "principal board presentation"
+  - "presenting school finances"
+  - "budget approval school"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
+order: 34
 ---
-
 # How to Present Budget to Board
 
 Presenting budget to the board is about building trust and getting approval for your priorities. A well-prepared presentation shows competence and confidence.

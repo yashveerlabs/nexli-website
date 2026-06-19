@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Parent Portal Design: UX Principles for Information Access"
-slug: "parent-portal-design-ux-information-access"
+slug: "78-parent-portal-design-ux-information-access"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how parent portals must be intuitive, load quickly on mobile, display only authorized data, and allow easy action (paying fees, confirming documents)."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Parent Portal Design: UX Principles for Information Access
 
 Parent portals must be intuitive, load quickly on mobile, display only authorized data, and allow easy action (paying fees, confirming documents).

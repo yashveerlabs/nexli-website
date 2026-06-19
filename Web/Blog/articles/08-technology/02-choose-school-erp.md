@@ -1,20 +1,21 @@
 ---
 title: "How to Choose the Right School ERP for Your School"
-slug: "choose-right-school-erp-guide"
+slug: "02-choose-school-erp"
 meta_description: "Guide to selecting the best school ERP. Learn evaluation criteria, questions to ask vendors, and implementation considerations."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "choose school ERP"
-secondary_keywords: ["ERP selection criteria", "school management system comparison", "ERP vendors", "ERP implementation"]
-intent: "informational"
+secondary_keywords:
+  - "ERP selection criteria"
+  - "school management system comparison"
+  - "ERP vendors"
+  - "ERP implementation"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Why Choosing the Right ERP Matters
 
 Selecting a school ERP is a significant decision. The wrong choice wastes money, frustrates staff, and fails to improve efficiency. The right ERP transforms school operations, improves compliance, and increases parent satisfaction. Most schools implement an ERP once every 5-10 years, so getting it right is crucial.

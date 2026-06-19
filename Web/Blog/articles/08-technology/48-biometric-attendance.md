@@ -1,18 +1,21 @@
 ---
 title: "Biometric Attendance Systems for Schools: Fingerprint, RFID, Accuracy, and DPDP Privacy"
-slug: "biometric-attendance"
+slug: "48-biometric-attendance"
 meta_description: "Biometric attendance systems improve accuracy but raise hygiene and privacy concerns. Understand fingerprint vs RFID options, accuracy limitations, maintenance, and DPDP implications."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "biometric attendance system schools"
-secondary_keywords: ["school fingerprint attendance", "DPDP biometric privacy schools", "school attendance system India", "biometric vs RFID school"]
-intent: "informational"
+secondary_keywords:
+  - "school fingerprint attendance"
+  - "DPDP biometric privacy schools"
+  - "school attendance system India"
+  - "biometric vs RFID school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## What Biometric Attendance Systems Actually Do in Schools
 
 A biometric attendance system for schools uses a physical characteristic, most commonly a fingerprint, to identify a student or staff member and record their presence. When a person places their finger on a scanner, the system matches the fingerprint against a stored template and logs the time and date of the check-in.

@@ -1,22 +1,21 @@
 ---
-title: School Reimbursement Approval Process
-slug: school-reimbursement-approval-process
-meta_description: Create transparent approval workflows for staff reimbursements and expense claims.
-category: School Administration & Operations
-primary_keyword: school reimbursement approval process
+title: "School Reimbursement Approval Process"
+slug: "44-school-reimbursement-approval-process"
+meta_description: "Create transparent approval workflows for staff reimbursements and expense claims."
+category: "School Administration & Operations"
+primary_keyword: "school reimbursement approval process"
 secondary_keywords:
-  - School Reimbursement Approval Process
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "School Reimbursement Approval Process"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## School Reimbursement Approval Process
 
 The school reimbursement approval process is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that create transparent approval workflows for staff reimbursements report significant improvements in speed, consistency, and stakeholder confidence.

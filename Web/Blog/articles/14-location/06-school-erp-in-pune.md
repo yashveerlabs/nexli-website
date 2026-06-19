@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Pune"
-slug: "school-erp-in-pune"
+slug: "06-school-erp-in-pune"
 meta_description: "School ERP in Pune: cloud-based school management for Pune's growing education market, CBSE, ICSE, and State Board schools with compliance and analytics."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Pune"
-secondary_keywords: ["school management system Pune", "Pune school software", "Maharashtra school ERP Pune", "best ERP for Pune schools"]
+secondary_keywords:
+  - "school management system Pune"
+  - "Pune school software"
+  - "Maharashtra school ERP Pune"
+  - "best ERP for Pune schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Pune
 

@@ -1,20 +1,22 @@
 ---
 title: "CBSE School Management: Unique Requirements and System Solutions"
-slug: "cbse-school-management-unique-requirements"
+slug: "06-cbse-school-management-unique-requirements"
 meta_description: "Explore CBSE-specific compliance, curriculum pacing, internal assessments, and NEP 2020 requirements. Learn how a modern ERP handles LOC submission, transfer certificates, and board exam readiness."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "CBSE school management ERP"
-secondary_keywords: ["CBSE affiliation compliance", "internal assessment moderation", "NEP 2020 holistic progress card", "CBSE List of Candidates submission", "CBSE transfer certificate workflow"]
+secondary_keywords:
+  - "CBSE affiliation compliance"
+  - "internal assessment moderation"
+  - "NEP 2020 holistic progress card"
+  - "CBSE List of Candidates submission"
+  - "CBSE transfer certificate workflow"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
-date: "2026-06-19"
 ---
-
 ## The CBSE Challenge: Beyond Basic School Management
 
 CBSE schools operate within a regulatory framework that demands far more than attendance tracking and fee collection. The Central Board of Secondary Education maintains detailed bylaws covering curriculum delivery, internal assessment moderation, examination conduct, staff qualifications, and infrastructure standards. Schools cannot simply run operations efficiently and hope compliance follows; compliance must be embedded into every workflow.

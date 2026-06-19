@@ -1,10 +1,14 @@
 ---
 title: "Lesson Plan Template: What Every Teacher Should Include"
-slug: "lesson-plan-template"
+slug: "15-lesson-plan-template-teachers"
 meta_description: "Comprehensive lesson plan template with all essential components for effective teaching."
-category: "3. Academic Management & Teaching Excellence"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "lesson plan template"
-secondary_keywords: ["lesson planning", "teacher template", "lesson structure", "instructional design"]
+secondary_keywords:
+  - "lesson planning"
+  - "teacher template"
+  - "lesson structure"
+  - "instructional design"
 intent: "reference"
 author: "Yashveer Labs"
 date: "2026-06-19"
@@ -12,7 +16,6 @@ branding_block_founder: 12
 branding_block_company: 9
 branding_block_nexli: 15
 ---
-
 ## Lesson Plan Template: What Every Teacher Should Include
 
 A lesson plan is a road map for a teacher and a record for the school. It answers: What will students learn? How will I teach it? How will I know if they learned it? Without clear lesson plans, teaching becomes ad-hoc and inconsistent. With them, teaching is intentional and measurable.

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Attendance Data Security: Protecting Student Information"
-slug: "attendance-data-security-protecting"
+slug: "88-attendance-data-security-protecting"
 meta_description: "Learn about attendance data security: protecting student information in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "attendance data security: protecting student information"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with attendance data security: protecting student information:

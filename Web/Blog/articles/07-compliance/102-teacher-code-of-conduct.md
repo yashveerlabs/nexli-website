@@ -1,18 +1,21 @@
 ---
 title: "Teacher Code of Conduct: Professional Standards and Compliance"
-slug: "teacher-code-of-conduct-schools"
+slug: "102-teacher-code-of-conduct"
 meta_description: "Establish a teacher code of conduct at your school. Covers professional boundaries, academic integrity, student privacy, social media conduct, and disciplinary procedure."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "teacher code of conduct schools India"
-secondary_keywords: ["teacher professional conduct school", "teacher standards India", "school staff conduct policy", "teacher behavior policy school"]
-intent: "informational"
+secondary_keywords:
+  - "teacher professional conduct school"
+  - "teacher standards India"
+  - "school staff conduct policy"
+  - "teacher behavior policy school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 A teacher code of conduct defines the professional standards expected of teaching staff. It establishes clear boundaries, provides guidance on gray areas, and forms the basis for disciplinary action when teachers violate professional norms. Schools that lack a teacher code of conduct rely on individual judgment in situations where clarity protects both the teacher and the students.
 
 ## Why a Teacher Code of Conduct Is Necessary

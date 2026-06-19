@@ -1,18 +1,21 @@
 ---
 title: "Community Building Through Events: From Fetes to Competitions"
-slug: "community-building-events-fetes-competitions"
+slug: "34-community-building-events-fetes-competitions"
 meta_description: "Effective workshops & programs strategies for Indian schools. Learn how school events create shared identity and experience. strategic event communication builds excitement and ensures broad family participation."
-category: "Workshops & Programs"
+category: "Parent Communication & Engagement"
 primary_keyword: "school workshops parent training"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Community Building Through Events: From Fetes to Competitions
 
 School events create shared identity and experience. Strategic event communication builds excitement and ensures broad family participation.

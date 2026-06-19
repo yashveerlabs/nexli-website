@@ -1,18 +1,20 @@
 ---
 title: "College Counseling and Placement"
-slug: "college-counseling-and-placement"
+slug: "68-college-counseling-and-placement"
 meta_description: "How school ERPs support college counseling and placement for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "college counseling placement ERP school"
-secondary_keywords: ["school college placement software India", "student career counseling ERP", "college admission guidance system", "school counseling management"]
+secondary_keywords:
+  - "school college placement software India"
+  - "student career counseling ERP"
+  - "college admission guidance system"
+  - "school counseling management"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## College Counseling and Placement
 

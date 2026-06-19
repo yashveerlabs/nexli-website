@@ -1,18 +1,21 @@
 ---
 title: "Building Volunteer Programs: Engaging Parents in School Operations"
-slug: "volunteer-programs-parent-engagement"
+slug: "19-volunteer-programs-parent-engagement"
 meta_description: "Effective parent engagement strategies for Indian schools. Learn how parent volunteer programs harness community energy for school events, maintenance, and student support. well-organized programs build school pride and extend institutional capacity."
-category: "Parent Engagement"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent engagement communication"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Building Volunteer Programs: Engaging Parents in School Operations
 
 Parent volunteer programs harness community energy for school events, maintenance, and student support. Well-organized programs build school pride and extend institutional capacity.

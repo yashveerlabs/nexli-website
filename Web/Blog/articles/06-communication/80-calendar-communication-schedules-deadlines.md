@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Calendar Communication: Managing Schedules and Deadlines"
-slug: "calendar-communication-schedules-deadlines"
+slug: "80-calendar-communication-schedules-deadlines"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how academic calendars, exam schedules, event dates, and submission deadlines must be communicated clearly and far enough in advance."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Calendar Communication: Managing Schedules and Deadlines
 
 Academic calendars, exam schedules, event dates, and submission deadlines must be communicated clearly and far enough in advance.

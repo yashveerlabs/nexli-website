@@ -1,22 +1,21 @@
 ---
-title: Boarding School Efficiency Case for Modern Indian Schools
-slug: boarding-school-efficiency-case-for-modern-indian-schools
-meta_description: Boarding School Efficiency Case for Modern Indian Schools
-category: Success Stories & Cases
-primary_keyword: boarding school efficiency case
+title: "Boarding School Efficiency Case for Modern Indian Schools"
+slug: "024-boarding-school-efficiency-case-for-modern-indian-schools"
+meta_description: "Boarding School Efficiency Case for Modern Indian Schools"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "boarding school efficiency case"
 secondary_keywords:
-  - boarding school efficiency case schools
-  - best practices boarding school efficiency case
-  - boarding school efficiency case strategy
-  - how to implement boarding school efficiency case
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "boarding school efficiency case schools"
+  - "best practices boarding school efficiency case"
+  - "boarding school efficiency case strategy"
+  - "how to implement boarding school efficiency case"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on boarding school efficiency case for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

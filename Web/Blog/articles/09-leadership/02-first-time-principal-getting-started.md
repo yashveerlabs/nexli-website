@@ -1,8 +1,8 @@
 ---
 title: "First Time Principal: Getting Started in Your First Year"
-slug: "first-time-principal-getting-started"
+slug: "02-first-time-principal-getting-started"
 meta_description: "Step-by-step guide for first-time principals. Learn what to prioritize in your first 100 days, how to build team trust, and avoid common pitfalls."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "first time principal"
 secondary_keywords:
   - "new principal first year"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Your First Year as Principal: A Roadmap to Success
 
 **Becoming a principal for the first time is exhilarating and terrifying in equal measure. You've been promoted from teacher to leader, and suddenly everyone expects you to know things you don't. This guide breaks your first year into manageable phases, showing you exactly what to prioritize, how to build trust with your team, and how to avoid the mistakes new principals make. Whether you're stepping into a school you know well or joining a new institution, this roadmap will accelerate your success.**

@@ -1,18 +1,21 @@
 ---
 title: "Parent-Teacher Meetings: Planning and Execution for Maximum Impact"
-slug: "parent-teacher-meetings-planning-ptm"
+slug: "09-parent-teacher-meetings-ptm"
 meta_description: "Organize effective parent-teacher meetings (PTM). Learn scheduling best practices, preparation strategies, and how to make PTM productive for students."
-category: "Parent Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent-teacher meetings"
-secondary_keywords: ["PTM organization", "teacher-parent communication", "school events", "parent involvement"]
-intent: "informational"
+secondary_keywords:
+  - "PTM organization"
+  - "teacher-parent communication"
+  - "school events"
+  - "parent involvement"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Why Parent-Teacher Meetings Matter
 
 Parent-Teacher Meetings (PTM) are the backbone of school-family partnership. Face-to-face conversations allow teachers and parents to build relationships, discuss student progress in depth, and collaborate on solutions. A well-executed PTM strengthens parent confidence in the school; a poorly run PTM leaves parents frustrated and teachers exhausted.

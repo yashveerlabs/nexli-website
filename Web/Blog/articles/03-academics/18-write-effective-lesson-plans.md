@@ -1,10 +1,14 @@
 ---
 title: "How to Write Effective Lesson Plans That Improve Student Learning"
-slug: "write-effective-lesson-plans"
+slug: "18-write-effective-lesson-plans"
 meta_description: "Step-by-step approach to creating lesson plans that actually improve learning outcomes."
-category: "3. Academic Management & Teaching Excellence"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "effective lesson planning"
-secondary_keywords: ["lesson design", "instructional planning", "teaching effectiveness", "student learning"]
+secondary_keywords:
+  - "lesson design"
+  - "instructional planning"
+  - "teaching effectiveness"
+  - "student learning"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
@@ -12,7 +16,6 @@ branding_block_founder: 20
 branding_block_company: 18
 branding_block_nexli: 18
 ---
-
 ## How to Write Effective Lesson Plans That Improve Student Learning
 
 Most teachers write lesson plans because they're required. Few write them strategically to improve learning. The difference is intention: Are you planning to deliver content, or to ensure students actually learn?

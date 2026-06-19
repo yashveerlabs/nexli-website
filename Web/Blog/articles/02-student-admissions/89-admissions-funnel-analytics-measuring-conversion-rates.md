@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Admissions Funnel Analytics: Measuring Conversion Rates"
-slug: admissions-funnel-analytics-measuring-conversion-rates
-meta_description: admissions funnel analytics: measuring conversion rates. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: admissions funnel analytics
+slug: "89-admissions-funnel-analytics-measuring-conversion-rates"
+meta_description: "admissions funnel analytics: measuring conversion rates. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "admissions funnel analytics"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article explores best practices for admissions funnel analytics in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

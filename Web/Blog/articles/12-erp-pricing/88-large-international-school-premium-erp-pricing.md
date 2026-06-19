@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Large International School: Premium ERP Pricing"
-slug: "large-international-school-premium-erp-pricing"
+slug: "88-large-international-school-premium-erp-pricing"
 meta_description: "Large International School: Premium ERP Pricing"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "large"
-secondary_keywords: ["international", "school:", "premium", "erp"]
+secondary_keywords:
+  - "international"
+  - "school:"
+  - "premium"
+  - "erp"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Large International School: Premium ERP Pricing
 

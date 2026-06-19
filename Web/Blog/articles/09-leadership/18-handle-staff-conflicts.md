@@ -1,8 +1,8 @@
 ---
 title: "Handle Staff Conflicts: Strategies for Managing Difficult Relationships in Schools"
-slug: "handle-staff-conflicts-schools"
+slug: "18-handle-staff-conflicts"
 meta_description: "Learn to manage and resolve staff conflicts professionally. Navigate personality clashes, territorial disputes, and performance issues with proven strategies."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "handle staff conflicts"
 secondary_keywords:
   - "staff conflict resolution"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Handle Staff Conflicts: Strategies for Managing Difficult Relationships in Schools
 
 **Staff conflicts are workplace dynamics that affect school culture, student learning, and your job satisfaction. Two teachers can't work together. A department head resents a colleague's success. An old staff member undermines a newer hire. Left unmanaged, these conflicts poison the workplace, reduce collaboration, and create factions. This article provides a proven framework for diagnosing staff conflicts, mediating disputes, and rebuilding professionalism, even when people don't like each other.**

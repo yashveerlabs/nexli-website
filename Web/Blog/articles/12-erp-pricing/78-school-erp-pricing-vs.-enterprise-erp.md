@@ -1,18 +1,20 @@
-﻿---
+---
 title: "School ERP Pricing vs. Enterprise ERP"
-slug: "school-erp-pricing-vs.-enterprise-erp"
+slug: "78-school-erp-pricing-vs.-enterprise-erp"
 meta_description: "School ERP Pricing vs. Enterprise ERP"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "school"
-secondary_keywords: ["erp", "pricing", "vs.", "enterprise"]
+secondary_keywords:
+  - "erp"
+  - "pricing"
+  - "vs."
+  - "enterprise"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## School ERP Pricing vs. Enterprise ERP
 

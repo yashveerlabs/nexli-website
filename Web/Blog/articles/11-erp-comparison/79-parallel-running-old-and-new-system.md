@@ -1,8 +1,8 @@
 ---
 title: "Parallel Running Old and New ERP: How to Do It Without Making It Permanent"
-slug: "parallel-running-old-and-new-system"
+slug: "79-parallel-running-old-and-new-system"
 meta_description: "How to run old and new school ERP systems in parallel: what to compare, how long to run parallel, reconciliation process, and when it is safe to retire the old system."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP parallel running"
 secondary_keywords:
   - "school system transition parallel run"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP migration parallel"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Parallel Running Old and New ERP: How to Do It Without Making It Permanent
 
 **Parallel running, maintaining both the old system and the new ERP simultaneously, is a safety net during implementation. It provides confidence that the new system matches the old one before the old one is retired. Done well, parallel running lasts 4-6 weeks and ends cleanly. Done badly, it becomes permanent, double entry forever, which is worse than not implementing the ERP at all.**

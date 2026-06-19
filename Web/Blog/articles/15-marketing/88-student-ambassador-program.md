@@ -1,8 +1,8 @@
 ---
 title: "Student Ambassador Program: Peer-to-Peer Marketing"
-slug: "student-ambassador-program-schools"
+slug: "88-student-ambassador-program"
 meta_description: "Build a student ambassador program that drives peer-to-peer school marketing. Learn selection criteria, training, activities, and how student voices outperform all other marketing."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school student ambassador program"
 secondary_keywords:
   - "peer-to-peer school marketing"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Student Ambassador Program: Peer-to-Peer Marketing
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

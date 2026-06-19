@@ -1,18 +1,21 @@
 ---
 title: "Third-Party Data Sharing: DPDP Compliance for School Vendors and Partners"
-slug: "third-party-data-sharing"
+slug: "37-third-party-data-sharing"
 meta_description: "Manage third-party data sharing under DPDP Act. Learn vendor data agreements, what schools must check, and how to limit data exposure with external partners."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "third-party data sharing schools DPDP"
-secondary_keywords: ["vendor data sharing", "school data vendors", "DPDP third party", "data processing agreement"]
-intent: "informational"
+secondary_keywords:
+  - "vendor data sharing"
+  - "school data vendors"
+  - "DPDP third party"
+  - "data processing agreement"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
 ---
-
 Every time a school shares student data with a vendor, a transport app, a payment gateway, a school management system, or an assessment platform, the school remains legally responsible for that data under DPDP Act 2023. Vendor data sharing requires due diligence and formal data processing agreements.
 
 ## Common Third-Party Data Sharing in Schools

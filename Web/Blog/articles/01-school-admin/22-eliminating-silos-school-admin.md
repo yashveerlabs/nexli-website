@@ -1,10 +1,14 @@
 ---
 title: "Eliminating Silos in School Administration"
-slug: "eliminating-silos-school-admin"
+slug: "22-eliminating-silos-school-admin"
 meta_description: "Break down departmental silos to create seamless school operations and better outcomes."
-category: "1. School Administration & Operations"
+category: "School Administration & Operations"
 primary_keyword: "eliminating silos in school administration"
-secondary_keywords: ["departmental silos", "cross-department communication", "school coordination", "organizational silos"]
+secondary_keywords:
+  - "departmental silos"
+  - "cross-department communication"
+  - "school coordination"
+  - "organizational silos"
 intent: "problem-solving"
 author: "Yashveer Labs"
 date: "2026-06-19"
@@ -12,7 +16,6 @@ branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Eliminating Silos in School Administration
 
 A student is absent. The teacher marks the student absent. The parent isn't notified. Transport doesn't know the student wasn't on the bus. Finance doesn't adjust attendance-linked scholarships. Each department operates independently, unaware of what the others know. This fragmentation is a silo, and it costs schools dearly.

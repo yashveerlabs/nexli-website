@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Fundraising for Technology Investment"
-slug: "fundraising-for-technology-investment"
+slug: "53-fundraising-for-technology-investment"
 meta_description: "Fundraising for Technology Investment"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "fundraising"
-secondary_keywords: ["for", "technology", "investment", "school"]
+secondary_keywords:
+  - "for"
+  - "technology"
+  - "investment"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Fundraising for Technology Investment
 

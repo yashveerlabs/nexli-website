@@ -1,8 +1,8 @@
 ---
 title: "School Digital Transformation: What Changes and What Does Not"
-slug: "digital-transformation-success-story"
+slug: "41-digital-transformation-success-story"
 meta_description: "What school digital transformation actually means in practice: which workflows change, what gets easier, what requires adjustment, and how to measure whether it worked."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school digital transformation ERP"
 secondary_keywords:
   - "school management digitalization India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school technology adoption"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## School Digital Transformation: What Changes and What Does Not
 
 **"Digital transformation" is used to describe everything from buying a new printer to complete operational overhaul. For schools, meaningful digital transformation through ERP implementation changes specific workflows in measurable ways, while leaving the fundamentals of school life (teaching, relationships, learning) unchanged. Understanding which is which sets realistic expectations.**

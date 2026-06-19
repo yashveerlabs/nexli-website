@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Central India"
-slug: "school-erp-in-central-india"
+slug: "38-school-erp-in-central-india"
 meta_description: "School ERP in Central India: cloud-based school management for MP and Chhattisgarh schools with state board compliance, admissions pipeline, and analytics."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Central India Madhya Pradesh"
-secondary_keywords: ["school management system Central India", "MP school ERP", "Chhattisgarh school software", "school ERP Indore Bhopal Raipur"]
+secondary_keywords:
+  - "school management system Central India"
+  - "MP school ERP"
+  - "Chhattisgarh school software"
+  - "school ERP Indore Bhopal Raipur"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## School ERP in Central India
 

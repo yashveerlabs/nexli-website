@@ -1,8 +1,8 @@
 ---
 title: "How to Build Confidence as a Principal: Leadership Self-Mastery"
-slug: "build-principal-confidence-leadership-self-mastery"
+slug: "09-build-principal-confidence-leadership"
 meta_description: "Learn evidence-based strategies to build leadership confidence, overcome imposter syndrome, and lead schools with conviction. For new and experienced principals."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "build principal confidence"
 secondary_keywords:
   - "principal imposter syndrome"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## How to Build Confidence as a Principal: From Self-Doubt to Decisive Leadership
 
 **Confidence is not a personality trait you're born with, it's a skill you build through deliberate practice, small wins, and systematic reflection. Most principals struggle with doubt at some point: "Am I making the right decision?" "Do staff respect my leadership?" "Could a better principal do this differently?" This article reveals the neuroscience behind confidence, identifies the root causes of principal self-doubt, and provides a 12-week framework to move from hesitation to conviction. Real principals using these methods report 60–70% improvement in decision-making speed and team perception.**

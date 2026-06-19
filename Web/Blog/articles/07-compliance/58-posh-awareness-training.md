@@ -1,18 +1,21 @@
 ---
 title: "POSH Awareness Training for School Staff: What It Must Cover"
-slug: "posh-awareness-training-schools"
+slug: "58-posh-awareness-training"
 meta_description: "Design effective POSH awareness training for school staff. Covers mandatory content, frequency, delivery format, and what employees must understand about their rights."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "POSH awareness training schools"
-secondary_keywords: ["sexual harassment training school staff", "POSH employee training India", "ICC awareness program school", "POSH workplace training"]
-intent: "informational"
+secondary_keywords:
+  - "sexual harassment training school staff"
+  - "POSH employee training India"
+  - "ICC awareness program school"
+  - "POSH workplace training"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
 ---
-
 The POSH Act 2013 requires employers to organize workshops and awareness programs for employees. For schools, this means training that reaches teachers, administrative staff, support staff, and management. One poster on a notice board is not sufficient.
 
 Annual POSH awareness training is both a legal requirement and a practical necessity: employees who understand their rights are more likely to report harassment, and employees who understand prohibited conduct are less likely to engage in it.

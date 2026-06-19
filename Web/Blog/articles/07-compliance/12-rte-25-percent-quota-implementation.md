@@ -1,18 +1,21 @@
 ---
 title: "RTE 25% Quota: How Schools Implement EWS Seat Reservation"
-slug: "rte-25-percent-quota-implementation"
+slug: "12-rte-25-percent-quota-implementation"
 meta_description: "Implement RTE 25% EWS quota correctly. Learn seat calculation, admission steps, government lottery process, and record-keeping for Right to Education compliance."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "RTE 25 percent quota implementation"
-secondary_keywords: ["EWS seat reservation", "RTE seat calculation", "EWS lottery", "school quota compliance"]
-intent: "informational"
+secondary_keywords:
+  - "EWS seat reservation"
+  - "RTE seat calculation"
+  - "EWS lottery"
+  - "school quota compliance"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 The Right to Education Act 2009 requires every private school to reserve 25% of Class I seats for economically weaker section (EWS) students. For a class of 40, that means 10 mandatory EWS seats filled through a government lottery, not school discretion.
 
 ## How EWS Seat Calculation Works

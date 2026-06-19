@@ -1,18 +1,21 @@
 ---
 title: "Mandatory Reporter Training for Schools: Who Must Report and What"
-slug: "mandatory-reporter-training-schools"
+slug: "49-mandatory-reporter-training"
 meta_description: "Train school staff as mandatory reporters under POCSO Act 2012. Learn what events trigger reporting, who must report, how to report, and penalties for non-reporting."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "mandatory reporter training schools POCSO"
-secondary_keywords: ["POCSO mandatory reporting", "school staff mandatory reporter", "child abuse reporting training India", "Section 19 POCSO reporting"]
-intent: "informational"
+secondary_keywords:
+  - "POCSO mandatory reporting"
+  - "school staff mandatory reporter"
+  - "child abuse reporting training India"
+  - "Section 19 POCSO reporting"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 Under Section 19 of POCSO Act 2012, every person who has knowledge or reasonable suspicion that a child has been sexually abused must report it to the police or Special Juvenile Police Unit. This is mandatory. Failure to report is a criminal offence under Section 21 of POCSO, punishable with imprisonment of up to 6 months and/or a fine.
 
 Every school staff member is a mandatory reporter. This is not limited to the CPO, counselor, or management. Every teacher, support staff member, and administrator who learns of possible abuse has a legal obligation to report.

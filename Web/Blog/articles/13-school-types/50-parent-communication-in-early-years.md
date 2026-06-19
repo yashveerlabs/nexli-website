@@ -1,18 +1,20 @@
 ---
 title: "Parent Communication in Early Years"
-slug: "parent-communication-in-early-years"
+slug: "50-parent-communication-in-early-years"
 meta_description: "How school ERPs support parent communication in early years for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "early years parent communication ERP"
-secondary_keywords: ["Montessori parent portal", "preschool parent communication software", "early childhood parent updates", "school ERP early years"]
+secondary_keywords:
+  - "Montessori parent portal"
+  - "preschool parent communication software"
+  - "early childhood parent updates"
+  - "school ERP early years"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Parent Communication in Early Years
 

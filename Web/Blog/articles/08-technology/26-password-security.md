@@ -1,18 +1,21 @@
 ---
 title: "Password Security for School Staff: Policies, MFA, and Password Managers"
-slug: "password-security"
+slug: "26-password-security"
 meta_description: "School systems hold sensitive student data and are active targets for credential attacks. Learn password hygiene, MFA, and manager tools for school staff."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "password security for schools"
-secondary_keywords: ["school cybersecurity", "MFA for schools", "password manager education", "school data protection"]
-intent: "informational"
+secondary_keywords:
+  - "school cybersecurity"
+  - "MFA for schools"
+  - "password manager education"
+  - "school data protection"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Why Password Security Matters More in Schools Than Most People Realise
 
 Password security for schools is not a niche IT concern. School systems store sensitive personal data for thousands of students, including health records, disciplinary files, home addresses, and fee transaction histories. Attackers know this. According to reported incidents tracked by CERT-In, educational institutions saw a sharp rise in credential-based attacks between 2022 and 2024. Weak or shared passwords remain the most common entry point.

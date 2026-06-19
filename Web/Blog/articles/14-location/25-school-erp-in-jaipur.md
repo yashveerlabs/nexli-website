@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Jaipur"
-slug: "school-erp-in-jaipur"
+slug: "25-school-erp-in-jaipur"
 meta_description: "School ERP in Jaipur: cloud-based school management for Rajasthan schools with CBSE and state board compliance, fee management, and mobile-first access."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Jaipur"
-secondary_keywords: ["school management system Jaipur", "Jaipur school software", "Rajasthan school ERP", "best ERP for Jaipur schools"]
+secondary_keywords:
+  - "school management system Jaipur"
+  - "Jaipur school software"
+  - "Rajasthan school ERP"
+  - "best ERP for Jaipur schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## School ERP in Jaipur
 

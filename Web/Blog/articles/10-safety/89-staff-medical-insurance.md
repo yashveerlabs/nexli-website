@@ -1,18 +1,21 @@
-﻿---
-title: Staff Medical Insurance
-slug: staff-medical-insurance
-meta_description: Provide comprehensive staff medical insurance covering hospitalization, treatment, and health protection.
-category: Safety & Operations
-primary_keyword: employee medical insurance
-secondary_keywords: ['health coverage', 'insurance benefits', 'medical claims', 'health protection']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "Staff Medical Insurance"
+slug: "89-staff-medical-insurance"
+meta_description: "Provide comprehensive staff medical insurance covering hospitalization, treatment, and health protection."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "employee medical insurance"
+secondary_keywords:
+  - "health coverage"
+  - "insurance benefits"
+  - "medical claims"
+  - "health protection"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Staff Medical Insurance: Comprehensive Guide
 
 This guide provides comprehensive guidance on staff medical insurance.

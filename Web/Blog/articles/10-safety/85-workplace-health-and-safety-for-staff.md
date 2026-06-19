@@ -1,18 +1,21 @@
-﻿---
-title: Workplace Health and Safety for Staff
-slug: workplace-health-and-safety-for-staff
-meta_description: Ensure staff safety with proper protocols, protective equipment, and hazard management systems.
-category: Safety & Operations
-primary_keyword: staff workplace safety
-secondary_keywords: ['occupational hazards', 'protective measures', 'safe practices', 'injury prevention']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "Workplace Health and Safety for Staff"
+slug: "85-workplace-health-and-safety-for-staff"
+meta_description: "Ensure staff safety with proper protocols, protective equipment, and hazard management systems."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "staff workplace safety"
+secondary_keywords:
+  - "occupational hazards"
+  - "protective measures"
+  - "safe practices"
+  - "injury prevention"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Workplace Health and Safety for Staff: Comprehensive Guide
 
 This guide provides comprehensive guidance on workplace health and safety for staff.

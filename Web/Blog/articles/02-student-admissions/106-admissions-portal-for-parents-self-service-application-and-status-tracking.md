@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Admissions Portal for Parents: Self-Service Application and Status Tracking"
-slug: admissions-portal-for-parents-self-service-application-and-status-tracking
-meta_description: admissions portal for parents: self-service application and status tracking. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: admissions portal for parents
+slug: "106-admissions-portal-for-parents-self-service-application-and-status-tracking"
+meta_description: "admissions portal for parents: self-service application and status tracking. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "admissions portal for parents"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article explores best practices for admissions portal for parents in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

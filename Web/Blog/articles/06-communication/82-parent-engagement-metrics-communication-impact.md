@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Parent Engagement Metrics: Measuring Communication Impact"
-slug: "parent-engagement-metrics-communication-impact"
+slug: "82-parent-engagement-metrics-communication-impact"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how metrics like attendance at events, survey response rates, volunteer participation, and fee collection reflect communication effectiveness."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Parent Engagement Metrics: Measuring Communication Impact
 
 Metrics like attendance at events, survey response rates, volunteer participation, and fee collection reflect communication effectiveness.

@@ -1,18 +1,21 @@
 ---
 title: "What Parents Actually Want to Hear From Schools"
-slug: "what-parents-want-hear-from-schools"
+slug: "12-what-parents-want-hear"
 meta_description: "Understand parent preferences for school communication. Learn what information parents value most and how to frame school messages effectively."
-category: "Parent Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent communication preferences"
-secondary_keywords: ["parent engagement", "school messaging", "parent satisfaction", "school communication strategy"]
-intent: "informational"
+secondary_keywords:
+  - "parent engagement"
+  - "school messaging"
+  - "parent satisfaction"
+  - "school communication strategy"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## The Gap Between What Schools Send and What Parents Want
 
 Schools communicate a lot, but often not what parents want to hear. Schools send:

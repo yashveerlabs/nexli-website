@@ -1,18 +1,20 @@
 ---
 title: "Vocational School ERP Requirements"
-slug: "vocational-school-erp-requirements"
+slug: "62-vocational-school-erp-requirements"
 meta_description: "How school ERPs support vocational school erp requirements for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "vocational school ERP requirements"
-secondary_keywords: ["vocational training management software India", "skill school ERP", "trade school management system", "ITI school management ERP"]
+secondary_keywords:
+  - "vocational training management software India"
+  - "skill school ERP"
+  - "trade school management system"
+  - "ITI school management ERP"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Vocational School ERP Requirements
 

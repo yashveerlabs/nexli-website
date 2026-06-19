@@ -1,19 +1,22 @@
 ---
 title: "Decision-Making Framework for School Leaders"
-slug: decision-making-framework-for-school-leaders
-category: 9
-order: 11
-primary_keyword: "decision-making framework for school leaders"
+slug: "11-decision-making-framework-for-school-leaders"
 meta_description: "A practical decision-making framework for school principals covering strategic, tactical, operational, and crisis decisions, with the RAPID model and a full decision checklist."
-secondary_keywords: ["school principal decision framework", "RAPID decision model schools", "principal decision-making process", "school leadership decisions"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "decision-making framework for school leaders"
+secondary_keywords:
+  - "school principal decision framework"
+  - "RAPID decision model schools"
+  - "principal decision-making process"
+  - "school leadership decisions"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 11
 branding_block_company: 11
 branding_block_nexli: 11
+order: 11
 ---
-
 # Decision-Making Framework for School Leaders
 
 Principals make hundreds of decisions daily. Without a framework, you'll be inconsistent, reactive, and exhausted. A clear framework improves decisions and saves mental energy.

@@ -1,18 +1,21 @@
 ---
 title: "School Network Architecture: VLANs, Switches, Firewalls, and Redundancy"
-slug: "network-architecture"
+slug: "86-network-architecture"
 meta_description: "School network design guide: core switch, distribution layer, VLAN segmentation for staff and students, firewall configuration, and internet circuit redundancy."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school network architecture"
-secondary_keywords: ["school VLAN design", "campus network setup India", "school firewall configuration", "managed switch school"]
-intent: "informational"
+secondary_keywords:
+  - "school VLAN design"
+  - "campus network setup India"
+  - "school firewall configuration"
+  - "managed switch school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## School Network Architecture: Designing a Network That Supports Modern School Operations
 
 The network is what connects every device in the school to the applications, internet resources, and each other. A poorly designed network causes problems that are difficult to diagnose: the ERP times out at peak periods, video calls stutter, students can access content they should not, and one compromised device affects the whole school. A well-designed network runs quietly and reliably in the background.

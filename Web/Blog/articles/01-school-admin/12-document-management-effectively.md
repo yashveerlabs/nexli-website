@@ -1,22 +1,21 @@
 ---
 title: "How to Handle School Document Management Effectively"
-slug: school-document-management-effectively
-meta_description: Complete guide to school document management. Filing, retrieval, retention, security, and compliance for school documents.
-category: School Administration & Operations
-primary_keyword: school document management
+slug: "12-document-management-effectively"
+meta_description: "Complete guide to school document management. Filing, retrieval, retention, security, and compliance for school documents."
+category: "School Administration & Operations"
+primary_keyword: "school document management"
 secondary_keywords:
-  - document organization
-  - file management
-  - school operations
-  - compliance documentation
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "document organization"
+  - "file management"
+  - "school operations"
+  - "compliance documentation"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 School documents are everywhere: paper files, email attachments, Google Drive folders, WhatsApp images. When you need a document, it takes hours to find (if you find it at all). A systematic document management system ensures documents are findable, secure, and compliant. This article outlines the exact approach.

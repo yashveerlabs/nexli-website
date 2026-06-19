@@ -1,18 +1,20 @@
 ---
 title: "Communication with Day and Boarding Parents"
-slug: "communication-with-day-and-boarding-parents"
+slug: "38-communication-with-day-and-boarding-parents"
 meta_description: "How school ERPs support communication with day and boarding parents for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "school parent communication ERP day boarding"
-secondary_keywords: ["parent portal ERP India", "school communication software", "parent engagement system", "boarding day school communication"]
+secondary_keywords:
+  - "parent portal ERP India"
+  - "school communication software"
+  - "parent engagement system"
+  - "boarding day school communication"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Communication with Day and Boarding Parents
 

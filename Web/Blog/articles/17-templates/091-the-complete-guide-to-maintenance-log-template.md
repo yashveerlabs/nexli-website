@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Maintenance Log Template
-slug: the-complete-guide-to-maintenance-log-template
-meta_description: The Complete Guide to Maintenance Log Template
-category: SOPs & Templates
-primary_keyword: maintenance log template
+title: "The Complete Guide to Maintenance Log Template"
+slug: "091-the-complete-guide-to-maintenance-log-template"
+meta_description: "The Complete Guide to Maintenance Log Template"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "maintenance log template"
 secondary_keywords:
-  - maintenance log template schools
-  - best practices maintenance log template
-  - maintenance log template strategy
-  - how to implement maintenance log template
-intent: informational
+  - "maintenance log template schools"
+  - "best practices maintenance log template"
+  - "maintenance log template strategy"
+  - "how to implement maintenance log template"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on maintenance log template for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,10 +1,14 @@
 ---
 title: "Lesson Plan Review: How HODs Provide Meaningful Feedback"
-slug: "lesson-review-hod-feedback"
+slug: "20-lesson-review-hod-feedback"
 meta_description: "How heads of department review and improve lesson plans through constructive feedback."
-category: "3. Academic Management & Teaching Excellence"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "HOD lesson plan feedback"
-secondary_keywords: ["lesson review", "HOD responsibilities", "teacher feedback", "academic coaching"]
+secondary_keywords:
+  - "lesson review"
+  - "HOD responsibilities"
+  - "teacher feedback"
+  - "academic coaching"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
@@ -12,7 +16,6 @@ branding_block_founder: 3
 branding_block_company: 12
 branding_block_nexli: 3
 ---
-
 ## Lesson Plan Review: How HODs Provide Meaningful Feedback
 
 HODs (Heads of Department) review teachers' lesson plans to ensure quality and alignment to curriculum. Good feedback improves teaching. Poor feedback wastes time or demoralizes teachers. Effective feedback is specific, actionable, and growth-focused.

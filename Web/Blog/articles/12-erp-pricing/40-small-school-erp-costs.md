@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Small School ERP Costs"
-slug: "small-school-erp-costs"
+slug: "40-small-school-erp-costs"
 meta_description: "Small School ERP Costs"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "small"
-secondary_keywords: ["school", "erp", "costs", "school"]
+secondary_keywords:
+  - "school"
+  - "erp"
+  - "costs"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Small School ERP Costs
 

@@ -1,20 +1,22 @@
 ---
 title: "CBSE School Management: Unique Requirements and System Solutions"
-slug: "cbse-school-management-unique-requirements"
+slug: "01-cbse-school-management"
 meta_description: "Discover the unique CBSE compliance, curriculum, and assessment requirements that school ERPs must support. Learn how Nexli handles NEP 2020, List of Candidates, and holistic progress tracking."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "CBSE school management"
-secondary_keywords: ["CBSE ERP requirements", "List of Candidates", "NEP 2020 holistic progress card", "CBSE affiliation compliance", "CBSE transfer certificate format"]
+secondary_keywords:
+  - "CBSE ERP requirements"
+  - "List of Candidates"
+  - "NEP 2020 holistic progress card"
+  - "CBSE affiliation compliance"
+  - "CBSE transfer certificate format"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
-
 ## Overview
 
 **Snippet:** CBSE schools operate within a structured regulatory framework that goes beyond basic attendance and fees. Schools must manage curriculum alignment, internal assessments, board examinations, and emerging competency frameworks, all while maintaining compliance with CBSE bylaws and NEP 2020 mandates. A school ERP built for CBSE environments must handle these requirements natively, not as afterthoughts.

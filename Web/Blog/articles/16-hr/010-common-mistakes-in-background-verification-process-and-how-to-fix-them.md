@@ -1,22 +1,21 @@
-﻿---
-title: Common Mistakes in Background Verification Process (And How to Fix Them)
-slug: common-mistakes-in-background-verification-process-and-how-to-fix-them
-meta_description: Common Mistakes in Background Verification Process (And H...
-category: HR & Recruitment
-primary_keyword: background verification process
+---
+title: "Common Mistakes in Background Verification Process (And How to Fix Them)"
+slug: "010-common-mistakes-in-background-verification-process-and-how-to-fix-them"
+meta_description: "Common Mistakes in Background Verification Process (And H..."
+category: "School HR, Recruitment & Staff"
+primary_keyword: "background verification process"
 secondary_keywords:
-  - background verification process schools
-  - best practices background verification process
-  - background verification process strategy
-  - how to implement background verification process
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "background verification process schools"
+  - "best practices background verification process"
+  - "background verification process strategy"
+  - "how to implement background verification process"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on background verification process for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

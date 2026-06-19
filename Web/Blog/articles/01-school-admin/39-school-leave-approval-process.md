@@ -1,22 +1,21 @@
 ---
-title: School Leave Approval Process
-slug: school-leave-approval-process
-meta_description: Streamline leave requests with clear workflows, approval chains, and digital tracking.
-category: School Administration & Operations
-primary_keyword: school leave approval process
+title: "School Leave Approval Process"
+slug: "39-school-leave-approval-process"
+meta_description: "Streamline leave requests with clear workflows, approval chains, and digital tracking."
+category: "School Administration & Operations"
+primary_keyword: "school leave approval process"
 secondary_keywords:
-  - School Leave Approval Process
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "School Leave Approval Process"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## School Leave Approval Process
 
 The school leave approval process is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize leave requests with clear workflows and digital tracking report significant improvements in speed, consistency, and stakeholder confidence.

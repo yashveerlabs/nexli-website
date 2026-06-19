@@ -1,18 +1,21 @@
 ---
 title: "Sanitation Compliance in Schools: Toilets, Hygiene, and RTE Requirements"
-slug: "sanitation-compliance-schools-rte"
+slug: "76-sanitation-compliance"
 meta_description: "Meet school sanitation compliance requirements under RTE Act. Covers toilet ratios, separate facilities for girls, handwashing, maintenance standards, and inspection requirements."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "sanitation compliance schools RTE India"
-secondary_keywords: ["school toilet requirements RTE", "school hygiene compliance", "girls toilet school India", "school sanitation standards"]
-intent: "informational"
+secondary_keywords:
+  - "school toilet requirements RTE"
+  - "school hygiene compliance"
+  - "girls toilet school India"
+  - "school sanitation standards"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 Sanitation infrastructure in schools, toilets, handwashing facilities, and menstrual hygiene management, is a compliance requirement under the RTE Act 2009 and a significant factor in student attendance, particularly for girls. Schools with inadequate sanitation facilities face both regulatory non-compliance and real student welfare consequences.
 
 ## RTE Act Sanitation Requirements

@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Shared Services: ERP for Multiple Schools"
-slug: "shared-services-erp-for-multiple-schools"
+slug: "70-shared-services-erp-for-multiple-schools"
 meta_description: "Shared Services: ERP for Multiple Schools"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "shared"
-secondary_keywords: ["services:", "erp", "for", "multiple"]
+secondary_keywords:
+  - "services:"
+  - "erp"
+  - "for"
+  - "multiple"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Shared Services: ERP for Multiple Schools
 

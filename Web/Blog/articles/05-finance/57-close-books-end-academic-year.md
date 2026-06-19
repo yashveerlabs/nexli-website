@@ -1,18 +1,21 @@
-﻿---
+---
 title: "How to Close Books at the End of the Academic Year"
-slug: "close-books-end-academic-year"
+slug: "57-close-books-end-academic-year"
 meta_description: "Learn about how to close books at the end of the academic year in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "how to close books at the end of the academic year"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with how to close books at the end of the academic year:

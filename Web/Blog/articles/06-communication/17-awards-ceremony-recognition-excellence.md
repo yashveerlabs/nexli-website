@@ -1,18 +1,21 @@
 ---
 title: "Awards Ceremony: Recognizing Excellence Across Categories"
-slug: "awards-ceremony-recognition-excellence"
+slug: "17-awards-ceremony-recognition-excellence"
 meta_description: "Effective school events strategies for Indian schools. Learn how awards ceremonies acknowledge student and staff achievements in academics, sports, arts, and character. structured recognition builds motivation and celebrates the full spectrum of school life."
-category: "School Events"
+category: "Parent Communication & Engagement"
 primary_keyword: "school awards ceremony"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Awards Ceremony: Recognizing Excellence Across Categories
 
 Awards ceremonies acknowledge student and staff achievements in academics, sports, arts, and character. Structured recognition builds motivation and celebrates the full spectrum of school life.

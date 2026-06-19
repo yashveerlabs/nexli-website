@@ -1,8 +1,8 @@
 ---
 title: "School ERP Vendor Stability: Will They Still Be in Business When You Need Support?"
-slug: "vendor-stability-will-they-stay-in-business"
+slug: "87-vendor-stability-will-they-stay-in-business"
 meta_description: "How to evaluate school ERP vendor stability before signing: signs of financial health, red flags, what happens if a vendor shuts down, and how to protect your school's data."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP vendor stability"
 secondary_keywords:
   - "school ERP vendor risk"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP vendor continuity India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## School ERP Vendor Stability: Will They Still Be in Business When You Need Support?
 
 **A school ERP is a long-term commitment. The vendor who sells you the system today needs to still be operating, investing in the product, and responsive to support requests in Year 3. Vendor instability, financial difficulty, acquisition, abandonment of the school ERP segment, is a real risk. Understanding how to evaluate it before signing is as important as evaluating the product itself.**

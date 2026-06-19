@@ -1,18 +1,20 @@
 ---
 title: "Regional Market Dominance Story"
-slug: "regional-market-dominance-story"
+slug: "98-regional-market-dominance-story"
 meta_description: "Regional market dominance for Indian schools: how data-driven ERP helps schools become the preferred choice in their city or district through operational excellence."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "regional market dominance school ERP India"
-secondary_keywords: ["school market leadership ERP India", "regional school ERP dominance", "school competitive advantage ERP", "school ERP market success India"]
+secondary_keywords:
+  - "school market leadership ERP India"
+  - "regional school ERP dominance"
+  - "school competitive advantage ERP"
+  - "school ERP market success India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Regional Market Dominance Story
 

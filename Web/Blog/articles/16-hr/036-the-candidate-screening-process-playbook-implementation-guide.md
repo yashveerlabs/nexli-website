@@ -1,22 +1,21 @@
-﻿---
-title: The Candidate Screening Process Playbook: Implementation Guide
-slug: the-candidate-screening-process-playbook-implementation-guide
-meta_description: The Candidate Screening Process Playbook: Implementation ...
-category: HR & Recruitment
-primary_keyword: candidate screening process
+---
+title: "The Candidate Screening Process Playbook: Implementation Guide"
+slug: "036-the-candidate-screening-process-playbook-implementation-guide"
+meta_description: "The Candidate Screening Process Playbook: Implementation ..."
+category: "School HR, Recruitment & Staff"
+primary_keyword: "candidate screening process"
 secondary_keywords:
-  - candidate screening process schools
-  - best practices candidate screening process
-  - candidate screening process strategy
-  - how to implement candidate screening process
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "candidate screening process schools"
+  - "best practices candidate screening process"
+  - "candidate screening process strategy"
+  - "how to implement candidate screening process"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on candidate screening process for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

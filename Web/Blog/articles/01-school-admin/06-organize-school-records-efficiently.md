@@ -1,22 +1,21 @@
 ---
-title: How to Organize School Records Efficiently
-slug: organize-school-records-efficiently
-meta_description: Master system for school record organization, both physical and digital. Storage, filing, retrieval, and compliance guidelines.
-category: School Administration & Operations
-primary_keyword: school records organization
+title: "How to Organize School Records Efficiently"
+slug: "06-organize-school-records-efficiently"
+meta_description: "Master system for school record organization, both physical and digital. Storage, filing, retrieval, and compliance guidelines."
+category: "School Administration & Operations"
+primary_keyword: "school records organization"
 secondary_keywords:
-  - document filing system
-  - record management
-  - school administration
-  - compliance documentation
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "document filing system"
+  - "record management"
+  - "school administration"
+  - "compliance documentation"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 School records are everywhere: student files in cabinets, digital files in email, scattered PDFs on desktops, documents in Google Drive. When you need something, it takes hours to find. A systematic approach to records organization cuts search time by 80% and ensures compliance. This article outlines the exact system.

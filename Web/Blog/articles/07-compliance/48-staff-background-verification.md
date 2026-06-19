@@ -1,18 +1,21 @@
 ---
 title: "Staff Background Verification in Schools: What POCSO Requires"
-slug: "staff-background-verification-schools"
+slug: "48-staff-background-verification"
 meta_description: "Learn what background verification schools must conduct for staff under POCSO Act. Covers police verification, qualification checks, and pre-employment screening procedures."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "staff background verification schools POCSO"
-secondary_keywords: ["police verification school staff", "teacher background check India", "pre-employment screening school", "POCSO staff hiring"]
-intent: "informational"
+secondary_keywords:
+  - "police verification school staff"
+  - "teacher background check India"
+  - "pre-employment screening school"
+  - "POCSO staff hiring"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 20
 branding_block_company: 20
 branding_block_nexli: 20
 ---
-
 Schools have a duty of care obligation when hiring staff who will work with children. POCSO Act 2012 guidelines and CBSE affiliation requirements both specify that schools must conduct background verification for all staff with access to students. Hiring a person with prior offences against children without adequate screening is a significant legal and ethical failure.
 
 Background verification is not just a compliance checkbox, it is the school's first line of defense against known risks.

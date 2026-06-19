@@ -1,18 +1,21 @@
 ---
 title: "School Performance Report: What Schools Must Track and Disclose"
-slug: "school-performance-report-requirements"
+slug: "64-school-performance-report"
 meta_description: "Understand school performance reporting requirements for Indian schools. Covers CBSE disclosure norms, state board requirements, fee disclosure, and annual report obligations."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "school performance report compliance India"
-secondary_keywords: ["school annual report disclosure", "CBSE fee disclosure", "school transparency requirements", "school report card India"]
-intent: "informational"
+secondary_keywords:
+  - "school annual report disclosure"
+  - "CBSE fee disclosure"
+  - "school transparency requirements"
+  - "school report card India"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 Schools in India have disclosure and reporting obligations that go beyond government data submissions. CBSE affiliation conditions, state regulations, and consumer protection principles all require schools to make certain information publicly available and to maintain internal performance records.
 
 Schools that treat disclosure as optional risk regulatory action and, increasingly, parent-initiated legal challenges.

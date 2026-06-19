@@ -1,22 +1,21 @@
-﻿---
-title: Why Employment Equity Matters for Schools
-slug: why-employment-equity-matters-for-schools
-meta_description: Why Employment Equity Matters for Schools
-category: HR & Recruitment
-primary_keyword: employment equity
+---
+title: "Why Employment Equity Matters for Schools"
+slug: "073-why-employment-equity-matters-for-schools"
+meta_description: "Why Employment Equity Matters for Schools"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "employment equity"
 secondary_keywords:
-  - employment equity schools
-  - best practices employment equity
-  - employment equity strategy
-  - how to implement employment equity
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "employment equity schools"
+  - "best practices employment equity"
+  - "employment equity strategy"
+  - "how to implement employment equity"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on employment equity for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

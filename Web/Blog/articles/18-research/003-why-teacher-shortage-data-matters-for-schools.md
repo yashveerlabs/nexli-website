@@ -1,22 +1,21 @@
 ---
-title: Why Teacher Shortage Data Matters for Schools
-slug: why-teacher-shortage-data-matters-for-schools
-meta_description: Why Teacher Shortage Data Matters for Schools
-category: Research & Statistics
-primary_keyword: teacher shortage data
+title: "Why Teacher Shortage Data Matters for Schools"
+slug: "003-why-teacher-shortage-data-matters-for-schools"
+meta_description: "Why Teacher Shortage Data Matters for Schools"
+category: "School Research, Statistics & Reports"
+primary_keyword: "teacher shortage data"
 secondary_keywords:
-  - teacher shortage data schools
-  - best practices teacher shortage data
-  - teacher shortage data strategy
-  - how to implement teacher shortage data
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "teacher shortage data schools"
+  - "best practices teacher shortage data"
+  - "teacher shortage data strategy"
+  - "how to implement teacher shortage data"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on teacher shortage data for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

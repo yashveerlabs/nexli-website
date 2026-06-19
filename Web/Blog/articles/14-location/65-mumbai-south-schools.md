@@ -1,18 +1,20 @@
 ---
 title: "Mumbai South Schools"
-slug: "mumbai-south-schools"
+slug: "65-mumbai-south-schools"
 meta_description: "School ERP for South Mumbai schools: cloud-based school management for CST and Colaba area schools with ICSE, CBSE, and SSC compliance and parent portal."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP South Mumbai"
-secondary_keywords: ["school management South Mumbai", "South Mumbai school software", "CST Colaba school ERP", "Mumbai ICSE CBSE school management"]
+secondary_keywords:
+  - "school management South Mumbai"
+  - "South Mumbai school software"
+  - "CST Colaba school ERP"
+  - "Mumbai ICSE CBSE school management"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Mumbai South Schools
 

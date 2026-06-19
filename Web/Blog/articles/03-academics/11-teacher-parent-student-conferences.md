@@ -1,18 +1,21 @@
 ---
 title: "How to Conduct Meaningful Teacher-Parent-Student Conferences"
-slug: "teacher-parent-student-conferences"
+slug: "11-teacher-parent-student-conferences"
 meta_description: "Conduct effective parent-teacher-student conferences. Framework for productive conversations about progress, challenges, and next steps."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "teacher parent student conferences framework"
-secondary_keywords: ["parent-teacher meetings", "student progress discussions", "parent engagement", "conference structure"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "parent-teacher meetings"
+  - "student progress discussions"
+  - "parent engagement"
+  - "conference structure"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Unproductive Parent-Teacher Meetings
 
 It's conference day. A teacher spends 10 minutes with each parent:

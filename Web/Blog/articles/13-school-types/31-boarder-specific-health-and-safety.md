@@ -1,18 +1,20 @@
 ---
 title: "Boarder-Specific Health and Safety"
-slug: "boarder-specific-health-and-safety"
+slug: "31-boarder-specific-health-and-safety"
 meta_description: "How school ERPs support boarder-specific health and safety for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "boarding school student health safety ERP"
-secondary_keywords: ["hostel health management software", "boarding student medical records", "residential school safety system", "school clinic ERP India"]
+secondary_keywords:
+  - "hostel health management software"
+  - "boarding student medical records"
+  - "residential school safety system"
+  - "school clinic ERP India"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Boarder-Specific Health and Safety
 

@@ -1,18 +1,21 @@
 ---
 title: "Data Access Audit Logs: How Schools Track Who Accesses Student Data"
-slug: "data-access-audit-logs"
+slug: "34-data-access-audit-logs"
 meta_description: "Implement data access audit logs in schools. Learn what to track, how long to retain logs, how to investigate anomalies, and DPDP compliance requirements."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "data access audit logs schools"
-secondary_keywords: ["audit trail schools", "data access tracking", "DPDP audit compliance", "student data security"]
-intent: "informational"
+secondary_keywords:
+  - "audit trail schools"
+  - "data access tracking"
+  - "DPDP audit compliance"
+  - "student data security"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
 ---
-
 Audit logs record every instance of access to student personal data: who accessed which record, when, and from where. Under DPDP Act 2023, schools must maintain audit trails to demonstrate that data is accessed only by authorized staff for legitimate purposes.
 
 ## What Audit Logs Must Capture

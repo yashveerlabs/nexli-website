@@ -1,18 +1,20 @@
 ---
 title: "Managing E-Books and Digital Resources in School Libraries"
-slug: "e-books-management"
+slug: "70-e-books-management"
 meta_description: "Managing e-books in school libraries requires licensing decisions, access control, student device compatibility, and usage tracking. Learn the practical considerations for adding digital resources."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "e-books management school library"
-secondary_keywords: ["school digital library resources", "e-book licensing schools", "digital reading program school"]
-intent: "informational"
+secondary_keywords:
+  - "school digital library resources"
+  - "e-book licensing schools"
+  - "digital reading program school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Managing E-Books in School Libraries: What You Need to Know Before You Start
 
 E-books management in school libraries is more complex than it appears. The challenge is not the technology itself: most e-book platforms are straightforward to access. The challenge is licensing, access control, device requirements, and the question of how you prove to yourself and your management that the digital resources are actually being used.

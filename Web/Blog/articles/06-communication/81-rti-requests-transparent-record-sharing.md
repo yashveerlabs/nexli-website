@@ -1,18 +1,21 @@
-﻿---
+---
 title: "RTI (Right to Information) Requests: Transparent Record Sharing"
-slug: "rti-requests-transparent-record-sharing"
+slug: "81-rti-requests-transparent-record-sharing"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how schools may receive rti requests for information. clear procedures ensure timely, appropriate disclosure while protecting privacy."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## RTI (Right to Information) Requests: Transparent Record Sharing
 
 Schools may receive RTI requests for information. Clear procedures ensure timely, appropriate disclosure while protecting privacy.

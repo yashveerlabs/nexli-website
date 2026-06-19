@@ -1,8 +1,8 @@
 ---
 title: "Integration Services for School ERP: Payment, Biometric, and Beyond"
-slug: "integration-services"
+slug: "36-integration-services"
 meta_description: "School ERP integration guide: payment gateway connections, biometric attendance, RFID, SMS, accounting software, and what questions to ask before committing."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP integration services"
 secondary_keywords:
   - "school ERP payment gateway integration"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP SMS integration India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Integration Services for School ERP: Payment, Biometric, and Beyond
 
 **A school ERP does not exist in isolation. It needs to connect with payment gateways for online fee collection, biometric devices for attendance, SMS providers for parent notifications, and sometimes accounting software for finance teams. Understanding which integrations are built-in, which require extra work, and which simply do not exist helps avoid expensive surprises after purchase.**

@@ -2,7 +2,7 @@
 title: "Curriculum Pacing: Creating a Realistic Teaching Timeline"
 slug: "curriculum-pacing-realistic-teaching-timeline"
 meta_description: "Develop realistic curriculum pacing guides that allow time for teaching, practice, and assessment."
-category: "03"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "curriculum pacing, teaching timeline, schedule planning"
 secondary_keywords:
   - "time management"
@@ -12,9 +12,11 @@ secondary_keywords:
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
+branding_block_founder: 4
+branding_block_company: 4
+branding_block_nexli: 4
 branding_block: 20
 ---
-
 # Curriculum Pacing: Creating a Realistic Teaching Timeline
 
 ## Problem

@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Vendor Pricing Changes Over Time"
-slug: "vendor-pricing-changes-over-time"
+slug: "72-vendor-pricing-changes-over-time"
 meta_description: "Vendor Pricing Changes Over Time"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "vendor"
-secondary_keywords: ["pricing", "changes", "over", "time"]
+secondary_keywords:
+  - "pricing"
+  - "changes"
+  - "over"
+  - "time"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Vendor Pricing Changes Over Time
 

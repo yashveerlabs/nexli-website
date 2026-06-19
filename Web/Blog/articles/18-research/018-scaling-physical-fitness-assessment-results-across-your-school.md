@@ -1,22 +1,21 @@
 ---
-title: Scaling Physical Fitness Assessment Results Across Your School
-slug: scaling-physical-fitness-assessment-results-across-your-school
-meta_description: Scaling Physical Fitness Assessment Results Across Your S...
-category: Research & Statistics
-primary_keyword: physical fitness assessment results
+title: "Scaling Physical Fitness Assessment Results Across Your School"
+slug: "018-scaling-physical-fitness-assessment-results-across-your-school"
+meta_description: "Scaling Physical Fitness Assessment Results Across Your S..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "physical fitness assessment results"
 secondary_keywords:
-  - physical fitness assessment results schools
-  - best practices physical fitness assessment results
-  - physical fitness assessment results strategy
-  - how to implement physical fitness assessment results
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "physical fitness assessment results schools"
+  - "best practices physical fitness assessment results"
+  - "physical fitness assessment results strategy"
+  - "how to implement physical fitness assessment results"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on physical fitness assessment results for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

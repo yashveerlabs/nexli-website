@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Data-Driven Decision Making (And How to Fix Them)
-slug: common-mistakes-in-data-driven-decision-making-and-how-to-fix-them
-meta_description: Common Mistakes in Data-Driven Decision Making (And How t...
-category: Success Stories & Cases
-primary_keyword: data-driven decision making
+title: "Common Mistakes in Data-Driven Decision Making (And How to Fix Them)"
+slug: "070-common-mistakes-in-data-driven-decision-making-and-how-to-fix-them"
+meta_description: "Common Mistakes in Data-Driven Decision Making (And How t..."
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "data-driven decision making"
 secondary_keywords:
-  - data-driven decision making schools
-  - best practices data-driven decision making
-  - data-driven decision making strategy
-  - how to implement data-driven decision making
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "data-driven decision making schools"
+  - "best practices data-driven decision making"
+  - "data-driven decision making strategy"
+  - "how to implement data-driven decision making"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on data-driven decision making for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

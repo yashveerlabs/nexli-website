@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Contract Lock-In and Price Caps"
-slug: "contract-lock-in-and-price-caps"
+slug: "76-contract-lock-in-and-price-caps"
 meta_description: "Contract Lock-In and Price Caps"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "contract"
-secondary_keywords: ["lock-in", "and", "price", "caps"]
+secondary_keywords:
+  - "lock-in"
+  - "and"
+  - "price"
+  - "caps"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Contract Lock-In and Price Caps
 

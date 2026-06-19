@@ -1,8 +1,8 @@
 ---
 title: "School ERP Innovation Roadmap: Questions to Ask About Future Development"
-slug: "school-erp-innovation-roadmap"
+slug: "64-school-erp-innovation-roadmap"
 meta_description: "How to evaluate a school ERP vendor's innovation roadmap: what questions to ask, how to assess commitment to future development, and red flags in roadmap discussions."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP product roadmap"
 secondary_keywords:
   - "school ERP future features India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school software future updates"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## School ERP Innovation Roadmap: Questions to Ask About Future Development
 
 **You are not just buying software for today's needs. You are entering a multi-year relationship with a vendor whose product will need to evolve with regulatory changes, new technology, and your school's growing requirements. Evaluating a vendor's commitment to product innovation is as important as evaluating current features.**

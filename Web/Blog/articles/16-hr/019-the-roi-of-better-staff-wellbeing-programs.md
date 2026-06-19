@@ -1,22 +1,21 @@
-﻿---
-title: The ROI of Better Staff Wellbeing Programs
-slug: the-roi-of-better-staff-wellbeing-programs
-meta_description: The ROI of Better Staff Wellbeing Programs
-category: HR & Recruitment
-primary_keyword: staff wellbeing programs
+---
+title: "The ROI of Better Staff Wellbeing Programs"
+slug: "019-the-roi-of-better-staff-wellbeing-programs"
+meta_description: "The ROI of Better Staff Wellbeing Programs"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "staff wellbeing programs"
 secondary_keywords:
-  - staff wellbeing programs schools
-  - best practices staff wellbeing programs
-  - staff wellbeing programs strategy
-  - how to implement staff wellbeing programs
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "staff wellbeing programs schools"
+  - "best practices staff wellbeing programs"
+  - "staff wellbeing programs strategy"
+  - "how to implement staff wellbeing programs"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on staff wellbeing programs for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

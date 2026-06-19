@@ -1,18 +1,21 @@
 ---
 title: "Backup and Disaster Recovery for Schools: Why Your Data Needs a Plan"
-slug: "backup-disaster-recovery"
+slug: "24-backup-disaster-recovery"
 meta_description: "Why Indian schools need a backup and disaster recovery strategy. Fire, flood, ransomware, accidental deletion, cloud backup, RTO, and how to test your backup actually works."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school data backup disaster recovery"
-secondary_keywords: ["school ERP backup India", "school data recovery plan", "cloud backup schools", "school data loss prevention"]
-intent: "informational"
+secondary_keywords:
+  - "school ERP backup India"
+  - "school data recovery plan"
+  - "cloud backup schools"
+  - "school data loss prevention"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Why Do Indian Schools Need a Backup and Disaster Recovery Strategy?
 
 Indian schools need backup and disaster recovery plans because data loss events are real and occur without warning: fires destroy server rooms, floods damage hardware, ransomware encrypts school databases, and accidental deletions remove years of student records. A school without a tested backup strategy can lose all student records, fee history, and staff data permanently. The consequences include: inability to produce student TCs and migration certificates, inability to recover fee payment disputes, and loss of years of academic records.

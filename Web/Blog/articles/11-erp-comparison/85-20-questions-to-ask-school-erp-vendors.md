@@ -1,8 +1,8 @@
 ---
 title: "20 Questions to Ask School ERP Vendors Before Signing"
-slug: "20-questions-to-ask-school-erp-vendors"
+slug: "85-20-questions-to-ask-school-erp-vendors"
 meta_description: "20 essential questions to ask school ERP vendors before signing a contract, covering product depth, implementation, support, pricing, compliance, and data ownership."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP vendor questions"
 secondary_keywords:
   - "what to ask school ERP vendor"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP due diligence India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## 20 Questions to Ask School ERP Vendors Before Signing
 
 **The quality of your ERP vendor relationship over 3-5 years depends significantly on questions asked before signing. Vendors are highly capable communicators during sales. The questions below are designed to surface information vendors might not volunteer, about implementation quality, support responsiveness, data ownership, pricing escalation, and regulatory compliance.**

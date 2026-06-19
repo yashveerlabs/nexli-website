@@ -1,22 +1,21 @@
 ---
-title: Bloom's Taxonomy in Assessment
-slug: blooms-taxonomy-assessment-questions
-meta_description: Write test questions at different cognitive levels using Bloom's framework.
-category: Academic Management & Teaching Excellence
-primary_keyword: blooms taxonomy assessment questions
+title: "Bloom's Taxonomy in Assessment"
+slug: "50-blooms-taxonomy-assessment-questions"
+meta_description: "Write test questions at different cognitive levels using Bloom's framework."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "blooms taxonomy assessment questions"
 secondary_keywords:
-  - Blooms Taxonomy Assessment Questions
-  - teaching effectiveness
-  - student learning
-  - academic excellence
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Blooms Taxonomy Assessment Questions"
+  - "teaching effectiveness"
+  - "student learning"
+  - "academic excellence"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Executive Summary
 
 Bloom's Taxonomy in Assessment is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process see measurable improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.

@@ -1,22 +1,21 @@
 ---
-title: The Child Protection Case Study Playbook: Implementation Guide
-slug: the-child-protection-case-study-playbook-implementation-guide
-meta_description: The Child Protection Case Study Playbook: Implementation ...
-category: Success Stories & Cases
-primary_keyword: child protection case study
+title: "The Child Protection Case Study Playbook: Implementation Guide"
+slug: "036-the-child-protection-case-study-playbook-implementation-guide"
+meta_description: "The Child Protection Case Study Playbook: Implementation ..."
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "child protection case study"
 secondary_keywords:
-  - child protection case study schools
-  - best practices child protection case study
-  - child protection case study strategy
-  - how to implement child protection case study
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "child protection case study schools"
+  - "best practices child protection case study"
+  - "child protection case study strategy"
+  - "how to implement child protection case study"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on child protection case study for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

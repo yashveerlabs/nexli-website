@@ -1,22 +1,21 @@
 ---
-title: The ROI of Better Solar Adoption In Schools
-slug: the-roi-of-better-solar-adoption-in-schools
-meta_description: The ROI of Better Solar Adoption In Schools
-category: Research & Statistics
-primary_keyword: solar adoption in schools
+title: "The ROI of Better Solar Adoption In Schools"
+slug: "059-the-roi-of-better-solar-adoption-in-schools"
+meta_description: "The ROI of Better Solar Adoption In Schools"
+category: "School Research, Statistics & Reports"
+primary_keyword: "solar adoption in schools"
 secondary_keywords:
-  - solar adoption in schools schools
-  - best practices solar adoption in schools
-  - solar adoption in schools strategy
-  - how to implement solar adoption in schools
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "solar adoption in schools schools"
+  - "best practices solar adoption in schools"
+  - "solar adoption in schools strategy"
+  - "how to implement solar adoption in schools"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on solar adoption in schools for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

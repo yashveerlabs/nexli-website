@@ -1,18 +1,20 @@
 ---
 title: "Schools in Industrial Corridors"
-slug: "schools-in-industrial-corridors"
+slug: "68-schools-in-industrial-corridors"
 meta_description: "School ERP for industrial corridor schools: cloud-based school management for schools near DMIC, DMIDC zones, and SEZs serving diverse staff families."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP industrial corridors India"
-secondary_keywords: ["school ERP industrial areas India", "school management DMIC corridor", "school software SEZ areas", "industrial area school ERP India"]
+secondary_keywords:
+  - "school ERP industrial areas India"
+  - "school management DMIC corridor"
+  - "school software SEZ areas"
+  - "industrial area school ERP India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Schools in Industrial Corridors
 

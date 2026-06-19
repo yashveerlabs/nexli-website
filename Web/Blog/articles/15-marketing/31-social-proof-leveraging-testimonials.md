@@ -1,8 +1,8 @@
 ---
 title: "Leveraging Social Proof: Turning Parents Into Brand Advocates"
-slug: "social-proof-leveraging-testimonials"
+slug: "31-social-proof-leveraging-testimonials"
 meta_description: "Use social proof to convert hesitant parents into enrolled families. Learn how to collect testimonials, display reviews, and build advocacy programs."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school social proof"
 secondary_keywords:
   - "parent testimonials"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Leveraging Social Proof: Turning Parents Into Brand Advocates
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

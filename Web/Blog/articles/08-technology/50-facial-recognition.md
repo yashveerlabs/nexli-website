@@ -1,18 +1,21 @@
 ---
 title: "Facial Recognition in Schools: Privacy Risks, DPDP Act Concerns, and Why Caution Is Warranted"
-slug: "facial-recognition"
+slug: "50-facial-recognition"
 meta_description: "Facial recognition in schools promises contactless attendance but carries serious privacy risks for minors under the DPDP Act 2023. Understand the technology, risks, and what regulators expect."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "facial recognition schools India"
-secondary_keywords: ["facial recognition DPDP Act schools", "school attendance facial recognition", "biometric surveillance minors India", "school privacy technology"]
-intent: "informational"
+secondary_keywords:
+  - "facial recognition DPDP Act schools"
+  - "school attendance facial recognition"
+  - "biometric surveillance minors India"
+  - "school privacy technology"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Facial Recognition in Schools: A Technology That Demands Careful Scrutiny
 
 Facial recognition in schools is an increasingly discussed technology in India. Vendors promise contactless attendance, enhanced security at school gates, and automated identification of students. The appeal is real: no cards to lose, no fingers to place on scanners, no proxy attendance.

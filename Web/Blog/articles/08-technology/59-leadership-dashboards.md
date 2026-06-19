@@ -1,18 +1,20 @@
 ---
 title: "Leadership Dashboards for Schools: What Principals and Chairmen Need to See in 2 Minutes"
-slug: "leadership-dashboards"
+slug: "59-leadership-dashboards"
 meta_description: "Principal and Chairman dashboards should show KPI bands, trend charts, and exception alerts. Learn what school leaders need to see daily vs. monthly, and how Nexli's dashboards are built."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school leadership dashboard"
-secondary_keywords: ["principal dashboard", "chairman school dashboard", "school KPI monitoring"]
-intent: "informational"
+secondary_keywords:
+  - "principal dashboard"
+  - "chairman school dashboard"
+  - "school KPI monitoring"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## What School Leaders Need to See, and How Fast
 
 A school leadership dashboard should answer the most important questions in under two minutes without any navigation. If a principal has to click through five screens to find out whether today's attendance is normal, the dashboard is not serving its purpose. If a chairman has to call the bursar to find out the current outstanding fee balance, the reporting structure is not working.

@@ -1,8 +1,8 @@
 ---
 title: "HR and Staff Management Features in School ERP"
-slug: "hr-and-staff-management-features"
+slug: "20-hr-and-staff-management-features"
 meta_description: "Evaluate school ERP HR features: staff directory, attendance, leave management, recruitment pipeline, probation tracking, and background verification."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP HR management"
 secondary_keywords:
   - "school staff management software"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "staff attendance school ERP"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 ## HR and Staff Management Features in School ERP
 
 **Schools are people-intensive organizations. A 500-student school typically has 40-60 staff members across teaching, administrative, operational, and support roles. HR management, tracking qualifications, attendance, leaves, appraisals, and compliance, is a significant operational burden without a system. This guide explains what a school ERP's HR module must do.**

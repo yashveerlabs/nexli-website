@@ -1,18 +1,21 @@
 ---
 title: "Why Mobile-First ERP Matters for Indian Schools"
-slug: "mobile-first-erp-importance"
+slug: "09-mobile-first-erp-importance"
 meta_description: "Mobile-first ERP enables teachers to mark attendance on phones, principals to approve on-the-go, and parents to check fees anywhere. Why mobile design matters for Indian schools."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "mobile-first school ERP"
-secondary_keywords: ["school ERP mobile app India", "teacher attendance mobile", "parent portal mobile", "school management system smartphone"]
-intent: "informational"
+secondary_keywords:
+  - "school ERP mobile app India"
+  - "teacher attendance mobile"
+  - "parent portal mobile"
+  - "school management system smartphone"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Why Does Mobile Access Matter for a School ERP?
 
 A mobile-first school ERP means the system is designed to work on a smartphone first, with the desktop version being secondary. For Indian schools, this matters because most teachers, parents, and school administrators primarily interact with technology through a smartphone, not a desktop computer. A school ERP that works only on desktop will be abandoned by the moment a teacher needs to mark attendance in the classroom at 8 AM with no laptop in sight.

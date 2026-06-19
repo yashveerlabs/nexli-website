@@ -1,18 +1,21 @@
 ---
 title: "Language Arts: Teaching Reading Comprehension and Critical Thinking"
-slug: "language-arts-reading-comprehension-critical-thinking"
+slug: "99-language-arts-reading-comprehension-critical-thinking"
 meta_description: "Master language arts instruction with evidence-based strategies for teaching reading comprehension, critical thinking, and analytical skills to students across grades."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "language arts reading comprehension critical thinking"
-secondary_keywords: ["English teaching strategies", "comprehension skills", "critical reading", "analytical thinking"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "English teaching strategies"
+  - "comprehension skills"
+  - "critical reading"
+  - "analytical thinking"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Challenge: Ensuring Comprehensive Academic Excellence
 
 Most Indian schools recognize that a well-rounded education extends far beyond traditional classroom instruction. However, implementing specialized programs in language arts: teaching reading comprehension and critical thinking requires systematic planning, qualified instructors, proper resources, and clear learning outcomes. Without a structured approach, these programs become ad-hoc or inconsistent, failing to deliver measurable impact on student development.

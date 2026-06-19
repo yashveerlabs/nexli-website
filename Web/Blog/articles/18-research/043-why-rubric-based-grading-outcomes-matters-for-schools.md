@@ -1,22 +1,21 @@
 ---
-title: Why Rubric-Based Grading Outcomes Matters for Schools
-slug: why-rubric-based-grading-outcomes-matters-for-schools
-meta_description: Why Rubric-Based Grading Outcomes Matters for Schools
-category: Research & Statistics
-primary_keyword: rubric-based grading outcomes
+title: "Why Rubric-Based Grading Outcomes Matters for Schools"
+slug: "043-why-rubric-based-grading-outcomes-matters-for-schools"
+meta_description: "Why Rubric-Based Grading Outcomes Matters for Schools"
+category: "School Research, Statistics & Reports"
+primary_keyword: "rubric-based grading outcomes"
 secondary_keywords:
-  - rubric-based grading outcomes schools
-  - best practices rubric-based grading outcomes
-  - rubric-based grading outcomes strategy
-  - how to implement rubric-based grading outcomes
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "rubric-based grading outcomes schools"
+  - "best practices rubric-based grading outcomes"
+  - "rubric-based grading outcomes strategy"
+  - "how to implement rubric-based grading outcomes"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on rubric-based grading outcomes for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

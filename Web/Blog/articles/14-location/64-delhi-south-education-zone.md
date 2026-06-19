@@ -1,18 +1,20 @@
 ---
 title: "Delhi South Education Zone"
-slug: "delhi-south-education-zone"
+slug: "64-delhi-south-education-zone"
 meta_description: "School ERP in South Delhi: cloud-based school management for South Delhi's education zone with CBSE compliance, admissions pipeline, and 118+ staff roles."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP South Delhi education zone"
-secondary_keywords: ["school management South Delhi", "South Delhi school software", "Delhi school ERP Vasant Vihar Hauz Khas", "CBSE school ERP South Delhi"]
+secondary_keywords:
+  - "school management South Delhi"
+  - "South Delhi school software"
+  - "Delhi school ERP Vasant Vihar Hauz Khas"
+  - "CBSE school ERP South Delhi"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Delhi South Education Zone
 

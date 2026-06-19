@@ -1,8 +1,8 @@
 ---
 title: "How to Identify and Remove Unsafe Areas in Schools"
-slug: how-to-identify-and-remove-unsafe-areas
+slug: "14-how-to-identify-and-remove-unsafe-areas"
 meta_description: "Learn how to identify and remove unsafe areas in your school through systematic inspections, hazard documentation, and corrective action plans."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school unsafe areas inspection"
 secondary_keywords:
   - "school hazard identification"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # How to Identify and Remove Unsafe Areas
 
 Physical environment must be safe. Regular inspection identifies and removes hazards.

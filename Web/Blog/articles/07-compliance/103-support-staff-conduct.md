@@ -1,18 +1,21 @@
 ---
 title: "Support Staff Code of Conduct: Non-Teaching Staff Standards in Schools"
-slug: "support-staff-code-of-conduct-schools"
+slug: "103-support-staff-conduct"
 meta_description: "Establish conduct standards for school support staff. Covers non-teaching staff behavior expectations, student interaction limits, confidentiality, and disciplinary procedure."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "support staff code of conduct schools"
-secondary_keywords: ["school non-teaching staff conduct", "school support staff policy", "housekeeping staff school conduct", "school maintenance staff standards"]
-intent: "informational"
+secondary_keywords:
+  - "school non-teaching staff conduct"
+  - "school support staff policy"
+  - "housekeeping staff school conduct"
+  - "school maintenance staff standards"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 Support staff, including administrative staff, maintenance workers, security personnel, canteen staff, drivers, and hostel wardens, have direct or indirect contact with students. POCSO Act obligations, DPDP Act data protection requirements, and basic duty of care all apply to support staff interactions with students.
 
 Schools often focus conduct codes on teaching staff. A support staff code of conduct addresses the distinct situations and responsibilities of non-teaching staff.

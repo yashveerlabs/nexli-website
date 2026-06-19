@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Gratuity for School Staff: Calculation and Provision"
-slug: "gratuity-school-staff-calculation"
+slug: "87-gratuity-school-staff-calculation"
 meta_description: "Learn about gratuity for school staff: calculation and provision in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "gratuity for school staff: calculation and provision"
-secondary_keywords: ["school management", "school policy", "finance", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "finance"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Complex Financial Management Without Clear Systems
 
 Most schools struggle with gratuity for school staff: calculation and provision:

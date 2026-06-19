@@ -1,20 +1,23 @@
-﻿---
+---
 title: "Hidden Costs in School ERP Pricing: What Vendors Don't Tell You"
-slug: "hidden-costs-school-erp-pricing"
+slug: "05-hidden-costs-school-erp"
 meta_description: "Uncover hidden ERP costs: change orders, training delays, infrastructure upgrades, ongoing customization, and more. Protect your school's budget."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "hidden costs ERP"
-secondary_keywords: ["surprise costs", "cost overruns", "ERP budgeting", "vendor costs", "implementation overages", "support costs"]
+secondary_keywords:
+  - "surprise costs"
+  - "cost overruns"
+  - "ERP budgeting"
+  - "vendor costs"
+  - "implementation overages"
+  - "support costs"
 intent: "problem-solving"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 **A school finance manager receives an email from the ERP vendor:** 
 
 *"Your implementation hit some unexpected issues. We need 3 additional weeks and ₹40,000 more in consulting fees. Also, we found your student data has quality issues; we'll need ₹25,000 for cleanup. And since implementation is running long, your go-live is pushed from March to June, which means we'll charge you for premium support during the transition: ₹15,000 extra. Total additional cost: ₹80,000."*

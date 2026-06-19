@@ -1,8 +1,8 @@
 ---
 title: "Transport Enrollment: Managing Student Pickup and Drop-Off"
-slug: transport-enrollment-managing-student-pickup
+slug: "17-transport-enrollment-managing-student-pickup"
 meta_description: "Manage student transport enrollment, pickup locations, and drop-off coordination. Learn processes for equitable, safe, and efficient student transportation."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "student transport enrollment"
 secondary_keywords:
   - "school bus pickup management"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Transport Enrollment: Managing Student Pickup
 
 Transportation enrollment affects operations. Manage carefully for efficiency and equity.

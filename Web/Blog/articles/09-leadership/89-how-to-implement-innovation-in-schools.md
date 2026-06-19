@@ -1,10 +1,9 @@
 ---
 title: "How to Implement Innovation in Schools"
-slug: how-to-implement-innovation-in-schools
-category: 9
-order: 89
-primary_keyword: "how to implement innovation in schools"
+slug: "89-how-to-implement-innovation-in-schools"
 meta_description: "Innovation moves schools forward but requires smart implementation. Learn how principals can pilot new ideas, engage staff, measure impact, and scale what works sustainably."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to implement innovation in schools"
 secondary_keywords:
   - "school innovation strategy"
   - "piloting new programs in schools"
@@ -16,8 +15,8 @@ date: "2026-06-19"
 branding_block_founder: 9
 branding_block_company: 9
 branding_block_nexli: 9
+order: 89
 ---
-
 # How to Implement Innovation in Schools
 
 Innovation moves schools forward. Smart implementation increases adoption and success.

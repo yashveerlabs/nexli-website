@@ -1,22 +1,21 @@
 ---
-title: Quality Improvement Case for Modern Indian Schools
-slug: quality-improvement-case-for-modern-indian-schools
-meta_description: Quality Improvement Case for Modern Indian Schools
-category: Success Stories & Cases
-primary_keyword: quality improvement case
+title: "Quality Improvement Case for Modern Indian Schools"
+slug: "074-quality-improvement-case-for-modern-indian-schools"
+meta_description: "Quality Improvement Case for Modern Indian Schools"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "quality improvement case"
 secondary_keywords:
-  - quality improvement case schools
-  - best practices quality improvement case
-  - quality improvement case strategy
-  - how to implement quality improvement case
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "quality improvement case schools"
+  - "best practices quality improvement case"
+  - "quality improvement case strategy"
+  - "how to implement quality improvement case"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on quality improvement case for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,19 +1,22 @@
 ---
 title: "How to Build Efficient School Operations"
-slug: how-to-build-efficient-school-operations
-category: 9
-order: 50
-primary_keyword: "how to build efficient school operations"
+slug: "50-how-to-build-efficient-school-operations"
 meta_description: "How school principals can build efficient operations through process mapping, lean principles, automation, standard procedures, and continuous improvement, freeing time for learning."
-secondary_keywords: ["school operational efficiency", "school systems improvement", "principal operations strategy", "school process management"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to build efficient school operations"
+secondary_keywords:
+  - "school operational efficiency"
+  - "school systems improvement"
+  - "principal operations strategy"
+  - "school process management"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
+order: 50
 ---
-
 # How to Build Efficient School Operations
 
 Efficient operations free resources for learning. Streamline processes to maximize effectiveness.

@@ -1,18 +1,21 @@
 ---
 title: "School Board Elections and Appointments: Governance Requirements"
-slug: "school-board-elections-appointments"
+slug: "92-board-elections"
 meta_description: "Understand school board election and appointment requirements for trusts and societies. Covers election procedures, term limits, quorum rules, and Registrar compliance."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "school board elections appointments India"
-secondary_keywords: ["trust election school India", "society managing committee election", "school board member selection", "governing body appointment school"]
-intent: "informational"
+secondary_keywords:
+  - "trust election school India"
+  - "society managing committee election"
+  - "school board member selection"
+  - "governing body appointment school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 How board members are appointed or elected, and how long they serve, is specified in the school's trust deed (for trusts) or bye-laws (for registered societies). Following the prescribed process is a legal requirement, boards constituted in violation of the trust deed or bye-laws can be challenged as improperly constituted, and their decisions can be invalidated.
 
 ## Trust vs. Society Governance Structures

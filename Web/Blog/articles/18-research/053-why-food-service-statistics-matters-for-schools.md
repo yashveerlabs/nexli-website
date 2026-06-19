@@ -1,22 +1,21 @@
 ---
-title: Why Food Service Statistics Matters for Schools
-slug: why-food-service-statistics-matters-for-schools
-meta_description: Why Food Service Statistics Matters for Schools
-category: Research & Statistics
-primary_keyword: food service statistics
+title: "Why Food Service Statistics Matters for Schools"
+slug: "053-why-food-service-statistics-matters-for-schools"
+meta_description: "Why Food Service Statistics Matters for Schools"
+category: "School Research, Statistics & Reports"
+primary_keyword: "food service statistics"
 secondary_keywords:
-  - food service statistics schools
-  - best practices food service statistics
-  - food service statistics strategy
-  - how to implement food service statistics
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "food service statistics schools"
+  - "best practices food service statistics"
+  - "food service statistics strategy"
+  - "how to implement food service statistics"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on food service statistics for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

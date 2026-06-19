@@ -1,18 +1,21 @@
 ---
 title: "UDISE+ Inspection Preparation: What Education Inspectors Check"
-slug: "udise-plus-inspection-preparation-schools"
+slug: "61-udise-plus-inspection-preparation"
 meta_description: "Prepare for UDISE+ inspection by education authorities. Learn what inspectors verify on-site, common discrepancy findings, and how to maintain inspection-ready records."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "UDISE+ inspection preparation schools"
-secondary_keywords: ["education inspector school visit", "UDISE data verification", "school inspection checklist", "inspection ready school records"]
-intent: "informational"
+secondary_keywords:
+  - "education inspector school visit"
+  - "UDISE data verification"
+  - "school inspection checklist"
+  - "inspection ready school records"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 After schools submit UDISE+ data, education authorities conduct physical verification visits to ensure submitted data matches actual conditions. These inspections are not rare events, they are a standard mechanism for data quality assurance. Schools that have submitted accurate data have nothing to fear; schools that inflated figures face real consequences.
 
 ## What Inspectors Verify

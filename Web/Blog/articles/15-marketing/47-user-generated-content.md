@@ -1,8 +1,8 @@
 ---
 title: "User-Generated Content: Parents as Content Creators"
-slug: "user-generated-content-schools"
+slug: "47-user-generated-content"
 meta_description: "Turn parents into content creators for your school. Learn how to encourage user-generated content, manage permissions, and build authentic social proof."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "user generated content school"
 secondary_keywords:
   - "parent content creation"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # User-Generated Content: Parents as Content Creators
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

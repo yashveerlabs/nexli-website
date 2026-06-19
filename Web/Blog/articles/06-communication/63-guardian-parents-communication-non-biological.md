@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Guardian Parents: Communication When Guardians Aren't Biological Parents"
-slug: "guardian-parents-communication-non-biological"
+slug: "63-guardian-parents-communication-non-biological"
 meta_description: "Effective special circumstances strategies for Indian schools. Learn how communication with guardians (grandparents, aunts, uncles, state-appointed) follows the same principles but may have unique needs."
-category: "Special Circumstances"
+category: "Parent Communication & Engagement"
 primary_keyword: "specialized parent communication"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Guardian Parents: Communication When Guardians Aren't Biological Parents
 
 Communication with guardians (grandparents, aunts, uncles, state-appointed) follows the same principles but may have unique needs.

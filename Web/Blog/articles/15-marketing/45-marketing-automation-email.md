@@ -1,8 +1,8 @@
 ---
 title: "Marketing Automation: Scaling Personalized Parent Communication"
-slug: "marketing-automation-email-schools"
+slug: "45-marketing-automation-email"
 meta_description: "Automate school marketing with email sequences and workflows. Learn how to set up marketing automation for admissions, parent engagement, and lead nurturing."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school marketing automation"
 secondary_keywords:
   - "school email automation"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Marketing Automation: Scaling Personalized Parent Communication
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

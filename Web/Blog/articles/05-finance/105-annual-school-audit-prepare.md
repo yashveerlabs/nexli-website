@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Annual School Audit: What to Prepare"
-slug: "annual-school-audit-prepare"
+slug: "105-annual-school-audit-prepare"
 meta_description: "Learn about annual school audit: what to prepare in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "annual school audit: what to prepare"
-secondary_keywords: ["school management", "school policy", "finance", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "finance"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Complex Financial Management Without Clear Systems
 
 Most schools struggle with annual school audit: what to prepare:

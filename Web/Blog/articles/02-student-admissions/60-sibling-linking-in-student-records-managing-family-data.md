@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Sibling Linking in Student Records: Managing Family Data"
-slug: sibling-linking-in-student-records-managing-family-data
-meta_description: sibling linking in student records: managing family data. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: sibling linking in student records
+slug: "60-sibling-linking-in-student-records-managing-family-data"
+meta_description: "sibling linking in student records: managing family data. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "sibling linking in student records"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for sibling linking in student records in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

@@ -1,18 +1,21 @@
 ---
 title: "How to Calculate ROI on a School ERP Investment"
-slug: "roi-calculation-for-erp"
+slug: "10-roi-calculation-for-erp"
 meta_description: "Calculate the real ROI of a school ERP. Learn to quantify staff time savings, fee collection improvement, error reduction, and compliance cost avoidance with a sample calculation."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school ERP ROI calculation"
-secondary_keywords: ["ERP return on investment schools", "school ERP cost benefit", "school management software savings", "ERP business case school"]
-intent: "informational"
+secondary_keywords:
+  - "ERP return on investment schools"
+  - "school ERP cost benefit"
+  - "school management software savings"
+  - "ERP business case school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## How Do Schools Calculate the Return on Investment for an ERP?
 
 The ROI of a school ERP is calculated by comparing the total annual benefit (staff time savings, revenue improvement, error cost avoidance, compliance savings) against the total annual cost (subscription fees, implementation cost amortized, training time). For most Indian schools with 300-800 students, the payback period is 12-24 months. The four major benefit categories are: staff time savings, fee collection improvement, error reduction, and compliance cost avoidance.

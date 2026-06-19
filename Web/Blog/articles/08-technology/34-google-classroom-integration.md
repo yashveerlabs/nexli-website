@@ -1,18 +1,21 @@
 ---
 title: "Using Google Classroom in Indian Schools: Setup, Workflows, and ERP Integration"
-slug: "google-classroom-integration"
+slug: "34-google-classroom-integration"
 meta_description: "Google Classroom is free for Indian schools and easy to set up. Learn teacher workflows, assignment management, parent visibility, and how to connect it to your school ERP."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "Google Classroom for Indian schools"
-secondary_keywords: ["Google Workspace Education India", "Google Classroom setup", "Google Classroom parent access", "school LMS India free"]
-intent: "informational"
+secondary_keywords:
+  - "Google Workspace Education India"
+  - "Google Classroom setup"
+  - "Google Classroom parent access"
+  - "school LMS India free"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Why Google Classroom Has Become the Default LMS for Indian Schools
 
 Google Classroom has become the most widely used learning management system in Indian schools primarily because it is free. Schools that register for Google Workspace for Education Fundamentals get Google Classroom, Google Meet, Gmail for students and staff, and Google Drive storage at no cost. For schools operating on constrained IT budgets, this makes Google Classroom the natural starting point.

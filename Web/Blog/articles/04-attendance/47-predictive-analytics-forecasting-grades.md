@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Predictive Analytics: Forecasting Final Grades from Early Performance"
-slug: "predictive-analytics-forecasting-grades"
+slug: "47-predictive-analytics-forecasting-grades"
 meta_description: "Learn about predictive analytics: forecasting final grades from early performance in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "predictive analytics: forecasting final grades from early performance"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with predictive analytics: forecasting final grades from early performance:

@@ -1,22 +1,21 @@
 ---
-title: The ROI of Better Energy Efficiency Case Study
-slug: the-roi-of-better-energy-efficiency-case-study
-meta_description: The ROI of Better Energy Efficiency Case Study
-category: Success Stories & Cases
-primary_keyword: energy efficiency case study
+title: "The ROI of Better Energy Efficiency Case Study"
+slug: "059-the-roi-of-better-energy-efficiency-case-study"
+meta_description: "The ROI of Better Energy Efficiency Case Study"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "energy efficiency case study"
 secondary_keywords:
-  - energy efficiency case study schools
-  - best practices energy efficiency case study
-  - energy efficiency case study strategy
-  - how to implement energy efficiency case study
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "energy efficiency case study schools"
+  - "best practices energy efficiency case study"
+  - "energy efficiency case study strategy"
+  - "how to implement energy efficiency case study"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on energy efficiency case study for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

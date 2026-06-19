@@ -1,22 +1,21 @@
 ---
-title: The Class Size Effectiveness Research Playbook: Implementation Guide
-slug: the-class-size-effectiveness-research-playbook-implementation-guide
-meta_description: The Class Size Effectiveness Research Playbook: Implement...
-category: Research & Statistics
-primary_keyword: class size effectiveness research
+title: "The Class Size Effectiveness Research Playbook: Implementation Guide"
+slug: "066-the-class-size-effectiveness-research-playbook-implementation-guide"
+meta_description: "The Class Size Effectiveness Research Playbook: Implement..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "class size effectiveness research"
 secondary_keywords:
-  - class size effectiveness research schools
-  - best practices class size effectiveness research
-  - class size effectiveness research strategy
-  - how to implement class size effectiveness research
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "class size effectiveness research schools"
+  - "best practices class size effectiveness research"
+  - "class size effectiveness research strategy"
+  - "how to implement class size effectiveness research"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on class size effectiveness research for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

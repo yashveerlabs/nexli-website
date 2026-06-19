@@ -1,18 +1,21 @@
 ---
 title: "NEP 5+3+3+4 Structure: Understanding the New School Stages"
-slug: "nep-5-3-3-4-structure"
+slug: "22-nep-5-3-3-4-structure"
 meta_description: "Understand NEP 2020 5+3+3+4 school structure. Learn about Foundational, Preparatory, Middle, and Secondary stages, age groups, and curriculum changes."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "NEP 5-3-3-4 structure schools"
-secondary_keywords: ["NEP school structure", "Foundational stage", "Preparatory stage", "Secondary stage NEP"]
-intent: "informational"
+secondary_keywords:
+  - "NEP school structure"
+  - "Foundational stage"
+  - "Preparatory stage"
+  - "Secondary stage NEP"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 NEP 2020 replaces India's traditional 10+2 school structure with a 5+3+3+4 model that aligns school stages with child developmental psychology. Each stage has distinct learning goals, pedagogical approaches, and assessment methods.
 
 ## The Four Stages Explained

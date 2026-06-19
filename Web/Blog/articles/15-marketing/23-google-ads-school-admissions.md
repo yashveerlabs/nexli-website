@@ -1,8 +1,8 @@
 ---
 title: "Google Ads for School Admissions: Paid Search Strategy That Works"
-slug: "google-ads-school-admissions-strategy"
+slug: "23-google-ads-school-admissions"
 meta_description: "Use Google Ads to drive school admissions at measurable ROI. Learn campaign setup, keyword bidding, landing page optimization, and conversion tracking."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "Google Ads school admissions"
 secondary_keywords:
   - "paid search schools"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Google Ads for School Admissions: Paid Search Strategy That Works
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 6 min

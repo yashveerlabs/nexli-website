@@ -1,20 +1,23 @@
 ---
 title: "Special Education School ERP: IEP Management and Inclusive Practices"
-slug: "special-education-school-erp-requirements"
+slug: "05-special-education-school-erp"
 meta_description: "Special education schools require ERPs that support Individualized Education Programs (IEPs), therapy tracking, CWSN documentation, and inclusive classroom management."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "special education school ERP"
-secondary_keywords: ["IEP management system", "CWSN student tracking", "therapy session tracking", "special needs documentation", "inclusive education ERP", "disability-inclusive curriculum"]
+secondary_keywords:
+  - "IEP management system"
+  - "CWSN student tracking"
+  - "therapy session tracking"
+  - "special needs documentation"
+  - "inclusive education ERP"
+  - "disability-inclusive curriculum"
 intent: "reference"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
-
 ## Overview
 
 **Snippet:** Special education schools serve students with diverse learning disabilities, developmental delays, autism spectrum conditions, and physical impairments. Each student requires an Individualized Education Program (IEP), a legally binding document that customizes curriculum, accommodations, and support. An ERP for special education must track IEPs, link curriculum to individual goals, monitor therapy progress, manage multi-disciplinary team coordination, and maintain confidential documentation. General ERPs lack the granularity to support genuinely personalized education; special education requires specialized systems.

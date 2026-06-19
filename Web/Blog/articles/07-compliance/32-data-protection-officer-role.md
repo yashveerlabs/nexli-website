@@ -1,18 +1,21 @@
 ---
 title: "Data Protection Officer Role in Schools: Responsibilities and Setup"
-slug: "data-protection-officer-role"
+slug: "32-data-protection-officer-role"
 meta_description: "Set up a school Data Protection Officer under DPDP Act. Learn DPO responsibilities, required qualifications, time commitment, and tools for success."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "data protection officer school DPDP"
-secondary_keywords: ["DPO schools", "data privacy officer", "DPDP officer role", "school data compliance"]
-intent: "informational"
+secondary_keywords:
+  - "DPO schools"
+  - "data privacy officer"
+  - "DPDP officer role"
+  - "school data compliance"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
 ---
-
 The Data Protection Officer (DPO) is the person responsible for ensuring a school's DPDP Act compliance. For most schools, this is not a new hire, it is an existing staff member (office manager, IT head, or senior administrator) formally designated with defined responsibilities.
 
 ## DPO Core Responsibilities

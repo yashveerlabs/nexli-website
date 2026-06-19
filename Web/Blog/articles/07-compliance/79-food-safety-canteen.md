@@ -1,18 +1,21 @@
 ---
 title: "School Canteen Food Safety: Standards, Junk Food Ban, and FSSAI Compliance"
-slug: "food-safety-school-canteen"
+slug: "79-food-safety-canteen"
 meta_description: "Manage school canteen food safety under FSSAI and CBSE guidelines. Covers junk food restrictions, nutrition standards, hygiene requirements, and model canteen policy."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "school canteen food safety FSSAI"
-secondary_keywords: ["junk food ban school India", "school canteen nutrition standards", "CBSE canteen guidelines", "school food safety policy"]
-intent: "informational"
+secondary_keywords:
+  - "junk food ban school India"
+  - "school canteen nutrition standards"
+  - "CBSE canteen guidelines"
+  - "school food safety policy"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 11
 branding_block_company: 11
 branding_block_nexli: 11
 ---
-
 School canteens serve hundreds to thousands of students daily. Food safety in the canteen is both a health issue and a compliance issue. FSSAI has issued specific guidelines for school canteens, and CBSE has issued directions on restricting junk food in schools. Schools that operate canteens without following these standards face health risks, parental complaints, and regulatory action.
 
 ## FSSAI Guidelines for School Canteens

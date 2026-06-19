@@ -1,18 +1,21 @@
 ---
 title: "Turning Complaints Into Improvement: Systems Thinking"
-slug: "turning-complaints-improvement-systems-thinking"
+slug: "44-turning-complaints-improvement-systems-thinking"
 meta_description: "Effective feedback & complaints strategies for Indian schools. Learn how rather than dismissing complaints, schools can use them as data points to identify systemic issues and drive continuous improvement."
-category: "Feedback & Complaints"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent feedback resolution"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Turning Complaints Into Improvement: Systems Thinking
 
 Rather than dismissing complaints, schools can use them as data points to identify systemic issues and drive continuous improvement.

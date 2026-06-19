@@ -1,19 +1,22 @@
 ---
 title: "Principal's Operational Responsibilities"
-slug: principals-operational-responsibilities
-category: 9
-order: 49
-primary_keyword: "principal's operational responsibilities"
+slug: "49-principals-operational-responsibilities"
 meta_description: "A complete overview of a school principal's operational responsibilities, daily management, facilities, administrative systems, compliance, delegation, and continuous improvement."
-secondary_keywords: ["school operations management", "principal daily operations", "school administration responsibilities", "school facilities principal"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "principal's operational responsibilities"
+secondary_keywords:
+  - "school operations management"
+  - "principal daily operations"
+  - "school administration responsibilities"
+  - "school facilities principal"
 intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 9
 branding_block_company: 9
 branding_block_nexli: 9
+order: 49
 ---
-
 # Principal's Operational Responsibilities
 
 Operations keep school running. Daily management, facilities, systems, and logistics fall under your responsibility.

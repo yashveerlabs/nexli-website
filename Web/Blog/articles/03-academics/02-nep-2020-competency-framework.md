@@ -1,18 +1,21 @@
 ---
 title: "NEP 2020 Competency Framework: Aligning Your School Curriculum"
-slug: "nep-2020-competency-framework-curriculum"
+slug: "02-nep-2020-competency-framework"
 meta_description: "Align your school curriculum with NEP 2020 competency framework. Complete guide to implementing competency-based learning in Indian schools."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "NEP 2020 competency framework curriculum alignment"
-secondary_keywords: ["competency-based education", "NEP 2020 implementation", "learning outcomes", "21st century skills"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "competency-based education"
+  - "NEP 2020 implementation"
+  - "learning outcomes"
+  - "21st century skills"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Traditional Content vs. Competency Gaps
 
 India's National Education Policy 2020 (NEP 2020) marks a fundamental shift from rote learning to competency-based education. Yet many schools still teach the old way: memorize facts for exams, forget them after. This approach fails to build skills students actually need-critical thinking, collaboration, creativity, communication.

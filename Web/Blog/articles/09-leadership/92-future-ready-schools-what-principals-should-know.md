@@ -1,10 +1,9 @@
 ---
 title: "Future-Ready Schools: What Principals Should Know"
-slug: future-ready-schools-what-principals-should-know
-category: 9
-order: 92
-primary_keyword: "future-ready schools for principals"
+slug: "92-future-ready-schools-what-principals-should-know"
 meta_description: "The world is changing rapidly. Discover what future-ready schools look like and what principals need to know, from critical thinking and digital literacy to sustainability and purpose."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "future-ready schools for principals"
 secondary_keywords:
   - "21st century skills in schools"
   - "school leadership for the future"
@@ -16,8 +15,8 @@ date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
+order: 92
 ---
-
 # Future-Ready Schools: What Principals Should Know
 
 World changing rapidly. Future-ready principals prepare schools for unknown future.

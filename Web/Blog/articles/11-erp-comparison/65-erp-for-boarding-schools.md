@@ -1,8 +1,8 @@
 ---
 title: "ERP for Boarding Schools: What Residential Schools Need That Day Schools Do Not"
-slug: "erp-for-boarding-schools"
+slug: "65-erp-for-boarding-schools"
 meta_description: "School ERP for boarding schools: hostel management, roll call, exeat tracking, welfare checks, medical records, POCSO compliance, and what day school ERP misses."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "ERP for boarding schools India"
 secondary_keywords:
   - "residential school ERP India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "boarding school ERP POCSO"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## ERP for Boarding Schools: What Residential Schools Need That Day Schools Do Not
 
 **Boarding schools manage more than academics and fees. Residential students live at school full-time, eating, sleeping, studying, and spending their formative years in the school's physical care. This creates operational, compliance, and welfare requirements that day school ERP systems were not designed for. An ERP built for day schools will handle a boarding school's academic and fee needs but will leave significant operational gaps.**

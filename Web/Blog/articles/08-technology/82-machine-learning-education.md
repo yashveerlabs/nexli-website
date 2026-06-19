@@ -1,18 +1,21 @@
 ---
 title: "Machine Learning Applications in Education: What Schools Should Know"
-slug: "machine-learning-education"
+slug: "82-machine-learning-education"
 meta_description: "Machine learning in education: student performance prediction, dropout risk modeling, curriculum gap analysis. What data is needed and what results are realistic."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "machine learning in education"
-secondary_keywords: ["student performance prediction", "dropout risk modeling", "ML education analytics", "predictive analytics schools India"]
-intent: "informational"
+secondary_keywords:
+  - "student performance prediction"
+  - "dropout risk modeling"
+  - "ML education analytics"
+  - "predictive analytics schools India"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Machine Learning in Education: Applications, Data Requirements, and Realistic Expectations
 
 Machine learning (ML) refers to algorithms that find patterns in data and use those patterns to make predictions or decisions without being explicitly programmed for each case. In education, ML is being applied to questions like: which students are likely to fall behind, what is causing score differences between sections, which topics in the curriculum are producing consistent gaps in student understanding?

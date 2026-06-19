@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Telangana"
-slug: "school-erp-in-telangana"
+slug: "15-school-erp-in-telangana"
 meta_description: "School ERP in Telangana: cloud-based school management for state and CBSE schools with Telangana state board compliance, RTE tracking, and fee management."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Telangana"
-secondary_keywords: ["school management system Telangana", "Telangana school software", "TS state board school ERP", "school ERP Hyderabad Warangal"]
+secondary_keywords:
+  - "school management system Telangana"
+  - "Telangana school software"
+  - "TS state board school ERP"
+  - "school ERP Hyderabad Warangal"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Telangana
 

@@ -1,8 +1,8 @@
 ---
 title: "Principal's Role in Student Mental Health: Detection, Support, and Safeguarding"
-slug: "principal-mental-health-support-students-india"
+slug: "11-principal-mental-health-support-students"
 meta_description: "Learn how principals can identify at-risk students, implement mental health support systems, and create psychologically safe schools. Includes frameworks and resources."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "student mental health principal support"
 secondary_keywords:
   - "identifying at-risk students"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Principal's Role in Student Mental Health: Detection, Support, and Safeguarding
 
 **Student mental health crises are increasing: depression, anxiety, and suicidal ideation in high school students have doubled in the past 5 years. Schools often don't see it coming. When a crisis happens (a student attempts suicide, severe depression, behavioral breakdown), the school is unprepared. This article reveals what principals need to know about student mental health, how to build early-detection systems, and how to create psychologically safe schools where students feel supported. Schools with strong mental health frameworks report 35% reduction in behavioral incidents, 18% improvement in academic engagement, and significantly better parent trust.**

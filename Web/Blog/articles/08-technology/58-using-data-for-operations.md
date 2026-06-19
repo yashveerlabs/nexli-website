@@ -1,18 +1,20 @@
 ---
 title: "Using Operational Data to Improve School Efficiency"
-slug: "using-data-for-operations"
+slug: "58-using-data-for-operations"
 meta_description: "Schools can use bus ridership data, meal preference data, and attendance patterns to optimize routes, canteen menus, and staffing. Learn practical approaches to data-driven school operations."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "data-driven school operations"
-secondary_keywords: ["school operational efficiency", "bus route optimization", "canteen data school"]
-intent: "informational"
+secondary_keywords:
+  - "school operational efficiency"
+  - "bus route optimization"
+  - "canteen data school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Using Operational Data to Run a School More Efficiently
 
 Data-driven school operations means using information your school already generates to make better day-to-day decisions. This is not about building a data warehouse or hiring a data analyst. It is about reading the numbers your ERP produces and asking what they imply for how you run the school.

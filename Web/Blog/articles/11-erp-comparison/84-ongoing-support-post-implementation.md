@@ -1,8 +1,8 @@
 ---
 title: "Ongoing School ERP Support After Go-Live: What Good Looks Like"
-slug: "ongoing-support-post-implementation"
+slug: "84-ongoing-support-post-implementation"
 meta_description: "What good school ERP post-implementation support looks like: response times, support channels, proactive check-ins, product updates, and escalation paths."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP post-implementation support"
 secondary_keywords:
   - "school ERP ongoing support"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP customer success"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Ongoing School ERP Support After Go-Live: What Good Looks Like
 
 **Most vendors are attentive during sales and during implementation. The quality of vendor relationship after go-live, 6 months, 12 months, 2 years in, is what actually determines whether the ERP investment delivers sustained value. Understanding what good ongoing support looks like helps schools set expectations, hold vendors accountable, and recognize when a relationship has deteriorated.**

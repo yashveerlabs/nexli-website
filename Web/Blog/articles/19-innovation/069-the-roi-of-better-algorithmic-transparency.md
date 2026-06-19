@@ -1,22 +1,21 @@
-﻿---
-title: The ROI of Better Algorithmic Transparency
-slug: the-roi-of-better-algorithmic-transparency
-meta_description: The ROI of Better Algorithmic Transparency
-category: Innovation & AI
-primary_keyword: algorithmic transparency
+---
+title: "The ROI of Better Algorithmic Transparency"
+slug: "069-the-roi-of-better-algorithmic-transparency"
+meta_description: "The ROI of Better Algorithmic Transparency"
+category: "Education Innovation, AI & Future"
+primary_keyword: "algorithmic transparency"
 secondary_keywords:
-  - algorithmic transparency schools
-  - best practices algorithmic transparency
-  - algorithmic transparency strategy
-  - how to implement algorithmic transparency
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "algorithmic transparency schools"
+  - "best practices algorithmic transparency"
+  - "algorithmic transparency strategy"
+  - "how to implement algorithmic transparency"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on algorithmic transparency for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Facility Costs: Planning for Long-Term Maintenance"
-slug: "facility-costs-long-term-maintenance"
+slug: "78-facility-costs-long-term-maintenance"
 meta_description: "Learn about facility costs: planning for long-term maintenance in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "facility costs: planning for long-term maintenance"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with facility costs: planning for long-term maintenance:

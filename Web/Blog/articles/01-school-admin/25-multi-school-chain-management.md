@@ -1,10 +1,14 @@
 ---
 title: "Multi-School Chain Management: Coordinating Across Campuses"
-slug: "multi-school-chain-management"
+slug: "25-multi-school-chain-management"
 meta_description: "Best practices for managing multiple school campuses while maintaining quality and consistency."
-category: "1. School Administration & Operations"
+category: "School Administration & Operations"
 primary_keyword: "multi-school chain management"
-secondary_keywords: ["school chain management", "multi-campus coordination", "branch management", "education management"]
+secondary_keywords:
+  - "school chain management"
+  - "multi-campus coordination"
+  - "branch management"
+  - "education management"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
@@ -12,7 +16,6 @@ branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Multi-School Chain Management: Coordinating Across Campuses
 
 Managing one school is complex. Managing five schools across different cities while maintaining consistent quality and a unified brand is exponentially harder. Each campus operates independently but must also align with group standards. This balancing act, branch autonomy with central oversight, defines multi-campus management.

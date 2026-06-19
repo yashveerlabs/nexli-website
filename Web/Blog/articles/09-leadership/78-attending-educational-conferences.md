@@ -1,19 +1,22 @@
 ---
 title: "Attending Educational Conferences"
-slug: attending-educational-conferences
-category: 9
-order: 78
-primary_keyword: "attending educational conferences principals"
+slug: "78-attending-educational-conferences"
 meta_description: "Make the most of educational conferences as a school leader. From selecting the right events to sharing learning with staff and following up on connections made."
-secondary_keywords: ["school leadership conferences", "principal conference networking", "professional development conferences", "education conference strategy"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "attending educational conferences principals"
+secondary_keywords:
+  - "school leadership conferences"
+  - "principal conference networking"
+  - "professional development conferences"
+  - "education conference strategy"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 18
 branding_block_company: 18
 branding_block_nexli: 18
+order: 78
 ---
-
 # Attending Educational Conferences
 
 Conferences provide learning, networking, and inspiration. Make them worthwhile.

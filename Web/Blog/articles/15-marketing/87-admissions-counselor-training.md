@@ -1,8 +1,8 @@
 ---
 title: "Admissions Counselor Training: Building Staff Capability"
-slug: "admissions-counselor-training-schools"
+slug: "87-admissions-counselor-training"
 meta_description: "Train admissions counselors to convert more school inquiries to enrollments. Learn what to teach, how to roleplay objections, performance tracking, and counselor development."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school admissions counselor training"
 secondary_keywords:
   - "school admissions staff"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Admissions Counselor Training: Building Staff Capability
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

@@ -1,22 +1,21 @@
 ---
-title: Excellence in Student Performance Improvement: What Schools Must Know
-slug: excellence-in-student-performance-improvement-what-schools-must-know
-meta_description: Excellence in Student Performance Improvement: What Schoo...
-category: Success Stories & Cases
-primary_keyword: student performance improvement
+title: "Excellence in Student Performance Improvement: What Schools Must Know"
+slug: "007-excellence-in-student-performance-improvement-what-schools-must-know"
+meta_description: "Excellence in Student Performance Improvement: What Schoo..."
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "student performance improvement"
 secondary_keywords:
-  - student performance improvement schools
-  - best practices student performance improvement
-  - student performance improvement strategy
-  - how to implement student performance improvement
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "student performance improvement schools"
+  - "best practices student performance improvement"
+  - "student performance improvement strategy"
+  - "how to implement student performance improvement"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on student performance improvement for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

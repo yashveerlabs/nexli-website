@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Paying for Scalability You May Never Use"
-slug: "paying-for-scalability-you-may-never-use"
+slug: "81-paying-for-scalability-you-may-never-use"
 meta_description: "Paying for Scalability You May Never Use"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "paying"
-secondary_keywords: ["for", "scalability", "you", "may"]
+secondary_keywords:
+  - "for"
+  - "scalability"
+  - "you"
+  - "may"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Paying for Scalability You May Never Use
 

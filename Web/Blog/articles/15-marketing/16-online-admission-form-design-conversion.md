@@ -1,8 +1,8 @@
 ---
 title: "Online Admission Form: Design and Conversion Optimization for Schools"
-slug: "online-admission-form-design-conversion"
+slug: "16-online-admission-form-design-conversion"
 meta_description: "Design high-converting online admission forms for schools. Learn progressive profiling, mobile-first UX, trust signals, and how to triple your completion rate."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "online admission form school"
 secondary_keywords:
   - "admissions conversion"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Online Admission Form: Design and Conversion Optimization for Schools
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 7 min

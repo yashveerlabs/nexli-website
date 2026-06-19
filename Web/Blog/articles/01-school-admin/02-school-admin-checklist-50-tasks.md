@@ -1,22 +1,21 @@
 ---
-title: School Administration Checklist - 50 Tasks Every Principal Must Do
-slug: school-admin-checklist-50-tasks-principal
-meta_description: A detailed checklist of 50 essential administrative tasks principals must manage. Organized by frequency, deadline, and impact.
-category: School Administration & Operations
-primary_keyword: school administration checklist
+title: "School Administration Checklist - 50 Tasks Every Principal Must Do"
+slug: "02-school-admin-checklist-50-tasks"
+meta_description: "A detailed checklist of 50 essential administrative tasks principals must manage. Organized by frequency, deadline, and impact."
+category: "School Administration & Operations"
+primary_keyword: "school administration checklist"
 secondary_keywords:
-  - principal tasks
-  - school admin duties
-  - administrative workflow
-  - school management
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "principal tasks"
+  - "school admin duties"
+  - "administrative workflow"
+  - "school management"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 A principal juggles 50+ distinct administrative tasks every year. Without a checklist, critical items slip through cracks: compliance deadlines pass, approvals delay, and strategic priorities get buried. This article provides a master checklist organized by frequency and season, so principals can systematically manage everything without burning out.

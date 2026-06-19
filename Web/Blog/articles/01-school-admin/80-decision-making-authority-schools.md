@@ -1,22 +1,21 @@
 ---
-title: Decision-Making Authority in Schools
-slug: decision-making-authority-schools
-meta_description: Clarify who decides what in school governance and approval structures.
-category: School Administration & Operations
-primary_keyword: decision making authority schools
+title: "Decision-Making Authority in Schools"
+slug: "80-decision-making-authority-schools"
+meta_description: "Clarify who decides what in school governance and approval structures."
+category: "School Administration & Operations"
+primary_keyword: "decision making authority schools"
 secondary_keywords:
-  - Decision Making Authority Schools
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Decision Making Authority Schools"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 Decision-making authority in schools is often unclear, with principals expected to approve everything from leave requests to vendor payments while teachers wait on decisions that could have been delegated. Clarifying who decides what, at which level, and with what supporting information reduces delays, prevents bottlenecks, and gives every role the autonomy to act within defined limits. Schools that formalize decision-making authority structures report 30-50% improvements in operational speed and consistency.
 
 ---

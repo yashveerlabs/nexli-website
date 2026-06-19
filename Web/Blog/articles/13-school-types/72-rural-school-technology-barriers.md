@@ -1,18 +1,20 @@
 ---
 title: "Rural School Technology Barriers"
-slug: "rural-school-technology-barriers"
+slug: "72-rural-school-technology-barriers"
 meta_description: "How school ERPs support rural school technology barriers for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "rural school technology ERP barriers"
-secondary_keywords: ["rural school management software India", "low connectivity school ERP", "rural education technology India", "school ERP offline rural"]
+secondary_keywords:
+  - "rural school management software India"
+  - "low connectivity school ERP"
+  - "rural education technology India"
+  - "school ERP offline rural"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Rural School Technology Barriers
 

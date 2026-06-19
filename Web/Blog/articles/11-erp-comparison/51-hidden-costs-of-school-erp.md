@@ -1,8 +1,8 @@
 ---
 title: "Hidden Costs of School ERP: What Vendors Do Not Tell You Upfront"
-slug: "hidden-costs-of-school-erp"
+slug: "51-hidden-costs-of-school-erp"
 meta_description: "School ERP hidden costs: add-on modules, SMS charges, storage limits, training extras, customization fees, renewal escalation, and how to find these before signing."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP hidden costs"
 secondary_keywords:
   - "school ERP extra charges India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school software hidden fees"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Hidden Costs of School ERP: What Vendors Do Not Tell You Upfront
 
 **School ERP vendors lead with subscription price. The total cost of ownership often includes charges for items that seem like they should be included, SMS notifications, additional storage, extra modules, premium support, annual training refreshers, customization for standard Indian requirements. Identifying these before signing prevents Year 1 budget surprises.**

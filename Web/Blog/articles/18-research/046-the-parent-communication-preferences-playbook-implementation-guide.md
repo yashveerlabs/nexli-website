@@ -1,22 +1,21 @@
 ---
-title: The Parent Communication Preferences Playbook: Implementation Guide
-slug: the-parent-communication-preferences-playbook-implementation-guide
-meta_description: The Parent Communication Preferences Playbook: Implementa...
-category: Research & Statistics
-primary_keyword: parent communication preferences
+title: "The Parent Communication Preferences Playbook: Implementation Guide"
+slug: "046-the-parent-communication-preferences-playbook-implementation-guide"
+meta_description: "The Parent Communication Preferences Playbook: Implementa..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "parent communication preferences"
 secondary_keywords:
-  - parent communication preferences schools
-  - best practices parent communication preferences
-  - parent communication preferences strategy
-  - how to implement parent communication preferences
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "parent communication preferences schools"
+  - "best practices parent communication preferences"
+  - "parent communication preferences strategy"
+  - "how to implement parent communication preferences"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on parent communication preferences for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,18 +1,20 @@
 ---
 title: "Project-Based Learning Schools"
-slug: "project-based-learning-schools"
+slug: "91-project-based-learning-schools"
 meta_description: "How school ERPs support project-based learning schools for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "project-based learning school ERP"
-secondary_keywords: ["PBL school management software India", "project learning tracking ERP", "experiential learning school system", "school project management ERP"]
+secondary_keywords:
+  - "PBL school management software India"
+  - "project learning tracking ERP"
+  - "experiential learning school system"
+  - "school project management ERP"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Project-Based Learning Schools
 

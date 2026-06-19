@@ -1,22 +1,21 @@
 ---
-title: The Transportation Safety Success Playbook: Implementation Guide
-slug: the-transportation-safety-success-playbook-implementation-guide
-meta_description: The Transportation Safety Success Playbook: Implementatio...
-category: Success Stories & Cases
-primary_keyword: transportation safety success
+title: "The Transportation Safety Success Playbook: Implementation Guide"
+slug: "026-the-transportation-safety-success-playbook-implementation-guide"
+meta_description: "The Transportation Safety Success Playbook: Implementatio..."
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "transportation safety success"
 secondary_keywords:
-  - transportation safety success schools
-  - best practices transportation safety success
-  - transportation safety success strategy
-  - how to implement transportation safety success
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "transportation safety success schools"
+  - "best practices transportation safety success"
+  - "transportation safety success strategy"
+  - "how to implement transportation safety success"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on transportation safety success for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

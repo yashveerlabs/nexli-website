@@ -1,22 +1,21 @@
 ---
-title: Why Absence Notification Form Matters for Schools
-slug: why-absence-notification-form-matters-for-schools
-meta_description: Why Absence Notification Form Matters for Schools
-category: SOPs & Templates
-primary_keyword: absence notification form
+title: "Why Absence Notification Form Matters for Schools"
+slug: "013-why-absence-notification-form-matters-for-schools"
+meta_description: "Why Absence Notification Form Matters for Schools"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "absence notification form"
 secondary_keywords:
-  - absence notification form schools
-  - best practices absence notification form
-  - absence notification form strategy
-  - how to implement absence notification form
-intent: informational
+  - "absence notification form schools"
+  - "best practices absence notification form"
+  - "absence notification form strategy"
+  - "how to implement absence notification form"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on absence notification form for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

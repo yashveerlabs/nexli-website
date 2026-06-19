@@ -1,19 +1,22 @@
 ---
 title: "School Strategic Plan: Building Your School's Future"
-slug: school-strategic-plan-building-future
-category: 9
-order: 12
-primary_keyword: "school strategic plan"
+slug: "12-school-strategic-plan-building-future"
 meta_description: "A complete guide to building a school strategic plan, covering the five-phase planning process, strategic priorities, stakeholder engagement, and accountability systems."
-secondary_keywords: ["school strategic planning process", "principal strategic plan", "school long-term planning", "school vision and goals"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "school strategic plan"
+secondary_keywords:
+  - "school strategic planning process"
+  - "principal strategic plan"
+  - "school long-term planning"
+  - "school vision and goals"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
+order: 12
 ---
-
 # School Strategic Plan: Building Your School's Future
 
 A strategic plan is your roadmap for the next 3-5 years. Without it, you react to daily pressures rather than building toward a vision. With it, every decision serves a greater purpose.

@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Secunderabad"
-slug: "school-erp-in-secunderabad"
+slug: "16-school-erp-in-secunderabad"
 meta_description: "School ERP in Secunderabad: cloud-based school management for twin-city schools with CBSE compliance, admissions pipeline, and 118+ configurable staff roles."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Secunderabad"
-secondary_keywords: ["school management system Secunderabad", "Secunderabad school software", "Hyderabad-Secunderabad school ERP", "school ERP twin cities"]
+secondary_keywords:
+  - "school management system Secunderabad"
+  - "Secunderabad school software"
+  - "Hyderabad-Secunderabad school ERP"
+  - "school ERP twin cities"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Secunderabad
 

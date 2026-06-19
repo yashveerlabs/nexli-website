@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Admissions Channel ROI: Which Marketing Efforts Actually Work"
-slug: admissions-channel-roi-which-marketing-efforts-actually-work
-meta_description: admissions channel roi: which marketing efforts actually work. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: admissions channel roi
+slug: "92-admissions-channel-roi-which-marketing-efforts-actually-work"
+meta_description: "admissions channel roi: which marketing efforts actually work. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "admissions channel roi"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for admissions channel roi in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

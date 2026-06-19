@@ -1,8 +1,8 @@
 ---
 title: "School ERP Total Cost of Ownership: A 3-Year Calculation Framework"
-slug: "total-cost-of-ownership-tco"
+slug: "52-total-cost-of-ownership-tco"
 meta_description: "School ERP total cost of ownership: 3-year framework including subscription, implementation, training, SMS, storage, customization, and renewal. How to compare vendors fairly."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP total cost of ownership"
 secondary_keywords:
   - "school ERP TCO calculation"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school software lifetime cost"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## School ERP Total Cost of Ownership: A 3-Year Calculation Framework
 
 **Total Cost of Ownership (TCO) is the complete cost of an ERP over its useful life, not just the subscription price. For school ERP decisions, a 3-year TCO comparison is typically the most useful horizon: long enough to capture ongoing costs and benefits, short enough to remain realistic. This framework helps compare vendors on a complete cost basis.**

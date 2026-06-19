@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Award-Winning School Case
-slug: the-complete-guide-to-award-winning-school-case
-meta_description: The Complete Guide to Award-Winning School Case
-category: Success Stories & Cases
-primary_keyword: award-winning school case
+title: "The Complete Guide to Award-Winning School Case"
+slug: "081-the-complete-guide-to-award-winning-school-case"
+meta_description: "The Complete Guide to Award-Winning School Case"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "award-winning school case"
 secondary_keywords:
-  - award-winning school case schools
-  - best practices award-winning school case
-  - award-winning school case strategy
-  - how to implement award-winning school case
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "award-winning school case schools"
+  - "best practices award-winning school case"
+  - "award-winning school case strategy"
+  - "how to implement award-winning school case"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on award-winning school case for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

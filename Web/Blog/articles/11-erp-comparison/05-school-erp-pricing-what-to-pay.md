@@ -1,8 +1,8 @@
 ---
 title: "School ERP Pricing: What You Should Actually Pay in 2026"
-slug: "school-erp-pricing-what-to-pay"
+slug: "05-school-erp-pricing-what-to-pay"
 meta_description: "School ERP pricing guide: cost breakdown, TCO analysis, pricing models, ROI calculations, and how to negotiate the best deal for your school."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP pricing"
 secondary_keywords:
   - "school management system cost"
@@ -16,7 +16,6 @@ branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## School ERP Pricing: What You Should Actually Pay in 2026
 
 **School principals and finance managers dread the ERP pricing conversation. Vendors quote wildly different numbers. Some say ₹50,000/year; others say ₹5,00,000. Which is real? What's included? What are the hidden costs? This guide breaks down ERP pricing models, cost components, ROI calculations, and negotiation strategies, so you invest smartly and know exactly what you're paying for.**

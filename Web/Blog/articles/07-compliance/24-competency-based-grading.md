@@ -1,18 +1,21 @@
 ---
 title: "Competency-Based Grading: Implementing NEP 2020 Assessment in Schools"
-slug: "competency-based-grading"
+slug: "24-competency-based-grading"
 meta_description: "Implement competency-based grading under NEP 2020. Learn how to move from marks-only to outcome-based assessment, grade calibration, and CBSE requirements."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "competency-based grading schools NEP 2020"
-secondary_keywords: ["competency assessment", "NEP grading system", "outcome based education", "formative assessment"]
-intent: "informational"
+secondary_keywords:
+  - "competency assessment"
+  - "NEP grading system"
+  - "outcome based education"
+  - "formative assessment"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 Competency-based grading shifts from measuring what students memorize to measuring what they can do. Under NEP 2020 and updated CBSE frameworks, schools must incorporate competency indicators alongside or instead of pure marks-based grading for Classes 1-8.
 
 ## What Is Competency-Based Grading?

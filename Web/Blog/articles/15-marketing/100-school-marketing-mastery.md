@@ -1,22 +1,21 @@
 ---
 title: "School Marketing Mastery: Complete Guide to 100% Admissions Growth"
-slug: "school-marketing-mastery"
+slug: "100-school-marketing-mastery"
 meta_description: "Master school marketing with this complete guide to 100% admissions growth. Covers branding, SEO, social media, email, ads, content, PR, events, and measuring ROI."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school marketing mastery"
 secondary_keywords:
   - "school admissions growth"
   - "complete school marketing guide"
   - "school marketing strategy"
   - "how to market a school"
-intent: "informational"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # School Marketing Mastery: Complete Guide to 100% Admissions Growth
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 7 min

@@ -1,18 +1,21 @@
 ---
 title: "7 Common ERP Mistakes Indian Schools Make (and How to Avoid Them)"
-slug: "common-erp-mistakes-schools-make"
+slug: "04-common-erp-mistakes-schools-make"
 meta_description: "Indian schools repeatedly make the same ERP implementation mistakes. Learn about underestimating data migration, skipping pilots, and going live mid-year before you commit."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "ERP mistakes schools"
-secondary_keywords: ["school ERP implementation failure", "ERP rollout problems India", "ERP go-live mistakes", "school digital transformation mistakes"]
-intent: "informational"
+secondary_keywords:
+  - "school ERP implementation failure"
+  - "ERP rollout problems India"
+  - "ERP go-live mistakes"
+  - "school digital transformation mistakes"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Why Do School ERP Projects Fail?
 
 School ERP implementations fail far more often than vendors admit. The reasons are rarely technical. They are almost always organizational: the wrong timing, missing internal ownership, underestimated data problems, or insufficient training. Understanding these ERP mistakes before you sign a contract could save your school months of frustration and significant money.

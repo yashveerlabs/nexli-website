@@ -1,8 +1,8 @@
 ---
 title: "School Reputation Management: Building Trust and Credibility"
-slug: "school-reputation-management"
+slug: "15-school-reputation-management"
 meta_description: "Manage your school's online reputation. Learn review management, crisis communication, and how to build lasting trust with parents."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school reputation management"
 secondary_keywords:
   - "online reviews"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Reputation Management: Building Trust and Credibility
 
 **Your school's reputation is your most valuable asset. A strong reputation attracts students, builds staff pride, and increases revenue. A damaged reputation is hard to recover. This guide covers reputation building, review management, and crisis response.**

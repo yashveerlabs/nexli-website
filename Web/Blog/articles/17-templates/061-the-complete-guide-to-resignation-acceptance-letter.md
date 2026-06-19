@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Resignation Acceptance Letter
-slug: the-complete-guide-to-resignation-acceptance-letter
-meta_description: The Complete Guide to Resignation Acceptance Letter
-category: SOPs & Templates
-primary_keyword: resignation acceptance letter
+title: "The Complete Guide to Resignation Acceptance Letter"
+slug: "061-the-complete-guide-to-resignation-acceptance-letter"
+meta_description: "The Complete Guide to Resignation Acceptance Letter"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "resignation acceptance letter"
 secondary_keywords:
-  - resignation acceptance letter schools
-  - best practices resignation acceptance letter
-  - resignation acceptance letter strategy
-  - how to implement resignation acceptance letter
-intent: informational
+  - "resignation acceptance letter schools"
+  - "best practices resignation acceptance letter"
+  - "resignation acceptance letter strategy"
+  - "how to implement resignation acceptance letter"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on resignation acceptance letter for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

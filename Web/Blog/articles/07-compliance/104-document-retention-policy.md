@@ -1,18 +1,21 @@
 ---
 title: "Document Retention Policy for Schools: What to Keep and for How Long"
-slug: "document-retention-policy-schools"
+slug: "104-document-retention-policy"
 meta_description: "Create a document retention policy for your school. Covers student academic records, financial records, staff files, compliance documents, and minimum retention periods."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "document retention policy schools India"
-secondary_keywords: ["school records retention period", "how long to keep school records", "school document management policy", "student records retention India"]
-intent: "informational"
+secondary_keywords:
+  - "school records retention period"
+  - "how long to keep school records"
+  - "school document management policy"
+  - "student records retention India"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 A document retention policy specifies which records a school must keep, for how long, in what format, and when they can be destroyed. Schools that keep everything forever accumulate unnecessary storage burden. Schools that destroy records prematurely face regulatory non-compliance, inability to respond to legal claims, and inability to produce records when required by authorities.
 
 ## Legal Basis for Retention Requirements

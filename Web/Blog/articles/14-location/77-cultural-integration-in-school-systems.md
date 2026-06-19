@@ -1,18 +1,20 @@
 ---
 title: "Cultural Integration in School Systems"
-slug: "cultural-integration-in-school-systems"
+slug: "77-cultural-integration-in-school-systems"
 meta_description: "Cultural integration in school ERP systems: supporting diverse student populations across language, religion, and socio-economic backgrounds in Indian schools."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "cultural integration school ERP India"
-secondary_keywords: ["diverse school management ERP", "cultural inclusion school software India", "minority school ERP India", "school ERP diverse communities"]
+secondary_keywords:
+  - "diverse school management ERP"
+  - "cultural inclusion school software India"
+  - "minority school ERP India"
+  - "school ERP diverse communities"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Cultural Integration in School Systems
 

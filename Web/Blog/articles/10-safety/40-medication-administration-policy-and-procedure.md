@@ -1,18 +1,21 @@
 ---
-title: Medication Administration Policy and Procedure
-slug: medication-administration-policy-and-procedure
-meta_description: Establish safe medication administration protocols in schools with proper documentation, consent, and tracking systems.
-category: Safety & Operations
-primary_keyword: school medication administration policy
-secondary_keywords: ["drug administration", "medication safety", "parental consent", "record keeping"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+title: "Medication Administration Policy and Procedure"
+slug: "40-medication-administration-policy-and-procedure"
+meta_description: "Establish safe medication administration protocols in schools with proper documentation, consent, and tracking systems."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "school medication administration policy"
+secondary_keywords:
+  - "drug administration"
+  - "medication safety"
+  - "parental consent"
+  - "record keeping"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Medication Administration Policy and Procedure: Ensuring Safe Drug Delivery
 
 Schools increasingly manage student medications, from insulin for diabetic students to rescue inhalers for asthma. Without clear protocols, medication errors can lead to serious harm and legal liability. This guide provides a comprehensive framework for safe medication administration in Indian schools.

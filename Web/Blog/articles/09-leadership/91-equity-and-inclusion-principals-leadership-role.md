@@ -1,10 +1,9 @@
 ---
 title: "Equity and Inclusion: Principal's Leadership Role"
-slug: equity-and-inclusion-principals-leadership-role
-category: 9
-order: 91
-primary_keyword: "equity and inclusion in school leadership"
+slug: "91-equity-and-inclusion-principals-leadership-role"
 meta_description: "Equity and inclusion are moral imperatives for school leaders. Learn how principals can examine data, address biases, diversify staff, and build schools where every student succeeds."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "equity and inclusion in school leadership"
 secondary_keywords:
   - "inclusive school leadership"
   - "achievement gap in schools"
@@ -16,8 +15,8 @@ date: "2026-06-19"
 branding_block_founder: 11
 branding_block_company: 11
 branding_block_nexli: 11
+order: 91
 ---
-
 # Equity and Inclusion: Principal's Leadership Role
 
 Equity and inclusion are moral imperatives and academic necessities. Leaders champion both.

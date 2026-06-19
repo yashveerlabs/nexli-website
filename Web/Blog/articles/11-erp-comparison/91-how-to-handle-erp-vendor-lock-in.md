@@ -1,8 +1,8 @@
 ---
 title: "School ERP Vendor Lock-In: How to Recognize and Avoid It"
-slug: "how-to-handle-erp-vendor-lock-in"
+slug: "91-how-to-handle-erp-vendor-lock-in"
 meta_description: "What school ERP vendor lock-in looks like, how it happens, and specific strategies to avoid or escape it, contract terms, data exports, and evaluation at renewal."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP vendor lock-in"
 secondary_keywords:
   - "avoid school ERP lock-in"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP exit strategy India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## School ERP Vendor Lock-In: How to Recognize and Avoid It
 
 **Vendor lock-in is the situation where switching ERP vendors becomes so expensive, complex, or risky that a school feels unable to leave even when the vendor's quality, pricing, or support has deteriorated. Lock-in is partly natural (all data migrations cost time) and partly manufactured (vendors who design systems to make export difficult and import impossible). Understanding the difference helps schools negotiate better contracts and maintain leverage throughout the relationship.**

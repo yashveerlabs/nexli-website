@@ -1,20 +1,20 @@
-﻿---
+---
 title: "One-Time vs. Annual Costs for School ERP"
-slug: "one-time-vs-annual-costs"
+slug: "22-one-time-vs-annual-costs"
 meta_description: "School ERP one-time vs. annual cost comparison. How to calculate total cost of ownership over 5 years. Framework for accurate vendor comparison."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "one-time vs annual costs school ERP"
-secondary_keywords: ["ERP total cost of ownership schools", "school ERP five year cost", "vendor cost comparison ERP"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "ERP total cost of ownership schools"
+  - "school ERP five year cost"
+  - "vendor cost comparison ERP"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 # One-Time vs. Annual Costs
 
 A CFO at a school reviewed two ERP vendors. Vendor A quoted Rs. 50,000 annually. Vendor B quoted Rs. 30,000 annual plus Rs. 60,000 one-time implementation. The CFO's instinct: "Vendor A is cheaper, just Rs. 50,000 yearly." They signed with Vendor A. Over five years, they paid Rs. 2,50,000 (Rs. 50,000 × 5 years). Meanwhile, at a similar school, Vendor B's five-year cost was Rs. 2,10,000 (Rs. 60,000 one-time + Rs. 30,000 × 5 years). Vendor B was actually cheaper long-term, but the CFO's short-term thinking missed it. Understanding the distinction between **one-time and annual costs** is critical for informed ERP budgeting.

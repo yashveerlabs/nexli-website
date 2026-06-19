@@ -1,19 +1,22 @@
 ---
 title: "Health and Safety: Principal's Responsibility"
-slug: health-and-safety-principals-responsibility
-category: 9
-order: 52
-primary_keyword: "health and safety principal responsibility"
+slug: "52-health-and-safety-principals-responsibility"
 meta_description: "A complete overview of a school principal's health and safety responsibilities, emergency procedures, mental health, bullying prevention, substance abuse, and physical safety systems."
-secondary_keywords: ["school health safety", "principal safety responsibility", "school emergency procedures", "student wellbeing school"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "health and safety principal responsibility"
+secondary_keywords:
+  - "school health safety"
+  - "principal safety responsibility"
+  - "school emergency procedures"
+  - "student wellbeing school"
 intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
+order: 52
 ---
-
 # Health and Safety: Principal's Responsibility
 
 Safe, healthy school environment is non-negotiable. You ensure systems protect everyone.

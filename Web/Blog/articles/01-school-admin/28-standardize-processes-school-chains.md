@@ -1,18 +1,21 @@
 ---
 title: "Standardizing Processes Across School Chains"
-slug: "standardize-processes-school-chains"
+slug: "28-standardize-processes-school-chains"
 meta_description: "How to maintain consistent operations across multiple school branches."
-category: "1. School Administration & Operations"
+category: "School Administration & Operations"
 primary_keyword: "standardize school processes"
-secondary_keywords: ["process standardization", "school chain operations", "consistent procedures", "operational efficiency"]
-intent: "best-practice"
+secondary_keywords:
+  - "process standardization"
+  - "school chain operations"
+  - "consistent procedures"
+  - "operational efficiency"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Standardizing Processes Across School Chains
 
 School chains have 3-10+ campuses. Without standardization, each operates differently: different admission processes, different fee structures, different disciplinary procedures. This creates confusion for parents, inconsistency in quality, and inefficiency in group operations.

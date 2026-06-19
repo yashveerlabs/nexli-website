@@ -1,18 +1,20 @@
-﻿---
+---
 title: "School C: Cost Overruns and How They Happened"
-slug: "school-c-cost-overruns-and-how-they-happened"
+slug: "86-school-c-cost-overruns-and-how-they-happened"
 meta_description: "School C: Cost Overruns and How They Happened"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "school"
-secondary_keywords: ["c:", "cost", "overruns", "and"]
+secondary_keywords:
+  - "c:"
+  - "cost"
+  - "overruns"
+  - "and"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## School C: Cost Overruns and How They Happened
 

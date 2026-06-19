@@ -1,8 +1,8 @@
 ---
 title: "School Strategic Plan: Building for the Future"
-slug: "school-strategic-plan-building-future"
+slug: "08-school-strategic-plan-building-future"
 meta_description: "How to create a school strategic plan that drives growth and improvement. Learn the process, templates, and how to ensure your plan actually executes."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "school strategic plan"
 secondary_keywords:
   - "school improvement plan"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Strategic Plan: Building for the Future
 
 **A strategic plan is the difference between a school that drifts and a school that soars. Without it, you react to today's crisis and miss tomorrow's opportunity. With it, you build intentionally toward a vision. This guide walks you through creating a realistic, executable 3–5-year strategic plan: defining your vision, analyzing your current state, setting goals, and ensuring your whole team commits to execution. By the end, you'll have a plan that is ambitious but achievable, inspiring but grounded in data.**

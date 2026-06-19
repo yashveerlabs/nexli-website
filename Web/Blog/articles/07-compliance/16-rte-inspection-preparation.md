@@ -1,18 +1,21 @@
 ---
 title: "RTE Inspection: How Schools Prepare for Government Review"
-slug: "rte-inspection-preparation"
+slug: "16-rte-inspection-preparation"
 meta_description: "Prepare for RTE inspection visits. Learn what inspectors check, required documentation, common deficiencies, and how to pass RTE compliance reviews."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "RTE inspection preparation"
-secondary_keywords: ["RTE compliance review", "school inspection checklist", "EWS compliance", "government school audit"]
-intent: "informational"
+secondary_keywords:
+  - "RTE compliance review"
+  - "school inspection checklist"
+  - "EWS compliance"
+  - "government school audit"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 District education officials conduct RTE inspection visits, announced or unannounced, to verify that schools are implementing EWS reservations correctly. Failing an RTE inspection can result in fines, public censure, or loss of recognition.
 
 ## What Inspectors Check

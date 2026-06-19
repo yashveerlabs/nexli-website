@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Ahmedabad"
-slug: "school-erp-in-ahmedabad"
+slug: "28-school-erp-in-ahmedabad"
 meta_description: "School ERP in Ahmedabad: cloud-based school management for Gujarat schools with CBSE, GSEB, and ICSE compliance, admissions pipeline, and parent portal."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Ahmedabad"
-secondary_keywords: ["school management system Ahmedabad", "Ahmedabad school software", "Gujarat school ERP", "best ERP for Ahmedabad schools"]
+secondary_keywords:
+  - "school management system Ahmedabad"
+  - "Ahmedabad school software"
+  - "Gujarat school ERP"
+  - "best ERP for Ahmedabad schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## School ERP in Ahmedabad
 

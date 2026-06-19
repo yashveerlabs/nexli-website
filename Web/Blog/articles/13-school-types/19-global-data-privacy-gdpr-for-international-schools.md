@@ -1,18 +1,20 @@
 ---
 title: "Global Data Privacy: GDPR for International Schools"
-slug: "global-data-privacy-gdpr-for-international-schools"
+slug: "19-global-data-privacy-gdpr-for-international-schools"
 meta_description: "How school ERPs support global data privacy: gdpr for international schools for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "GDPR data privacy international schools India"
-secondary_keywords: ["DPDP GDPR compliance schools", "student data privacy ERP", "international school compliance", "data protection school India"]
+secondary_keywords:
+  - "DPDP GDPR compliance schools"
+  - "student data privacy ERP"
+  - "international school compliance"
+  - "data protection school India"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## Global Data Privacy: GDPR for International Schools
 

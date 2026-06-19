@@ -1,18 +1,20 @@
 ---
 title: "International School Accreditation: ERP Support"
-slug: "international-school-accreditation-erp-support"
+slug: "20-international-school-accreditation-erp-support"
 meta_description: "How school ERPs support international school accreditation: erp support for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "international school accreditation ERP"
-secondary_keywords: ["CIS accreditation tracking", "school quality assurance ERP", "international accreditation compliance", "school management software"]
+secondary_keywords:
+  - "CIS accreditation tracking"
+  - "school quality assurance ERP"
+  - "international accreditation compliance"
+  - "school management software"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## International School Accreditation: ERP Support
 

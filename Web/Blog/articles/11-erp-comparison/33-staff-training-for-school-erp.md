@@ -1,8 +1,8 @@
 ---
 title: "Staff Training for School ERP: How to Do It Right"
-slug: "staff-training-for-school-erp"
+slug: "33-staff-training-for-school-erp"
 meta_description: "School ERP staff training guide: role-based training sessions, what principals, teachers, and accounts staff need to learn, and how to sustain adoption post-launch."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP staff training"
 secondary_keywords:
   - "school ERP teacher training"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school software adoption training"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Staff Training for School ERP: How to Do It Right
 
 **The most common reason school ERP implementations fail is not poor software, it is poor training. Staff who do not understand the system avoid it. Teachers mark attendance in notebooks because the app seems complicated. Accounts staff use Excel because they never learned the fee module. Training is not a nice-to-have; it determines whether the investment succeeds.**

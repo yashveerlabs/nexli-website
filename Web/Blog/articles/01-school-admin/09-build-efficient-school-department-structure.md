@@ -1,22 +1,21 @@
 ---
 title: "How to Build an Efficient School Department Structure"
-slug: build-efficient-school-department-structure
-meta_description: Design organizational structure for schools. Department roles, hierarchy, span of control, and cross-functional coordination.
-category: School Administration & Operations
-primary_keyword: school department structure
+slug: "09-build-efficient-school-department-structure"
+meta_description: "Design organizational structure for schools. Department roles, hierarchy, span of control, and cross-functional coordination."
+category: "School Administration & Operations"
+primary_keyword: "school department structure"
 secondary_keywords:
-  - organizational design
-  - department hierarchy
-  - school operations
-  - administrative structure
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "organizational design"
+  - "department hierarchy"
+  - "school operations"
+  - "administrative structure"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 Many schools grow organically: new teachers hired, new roles added, with no clear structure. The result: overlapping responsibilities, communication gaps, and unclear authority. This article outlines how to design a clear, scalable department structure.

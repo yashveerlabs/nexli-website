@@ -1,22 +1,21 @@
-﻿---
-title: Ai Dropout Prevention for Modern Indian Schools
-slug: ai-dropout-prevention-for-modern-indian-schools
-meta_description: Ai Dropout Prevention for Modern Indian Schools
-category: Innovation & AI
-primary_keyword: AI dropout prevention
+---
+title: "Ai Dropout Prevention for Modern Indian Schools"
+slug: "004-ai-dropout-prevention-for-modern-indian-schools"
+meta_description: "Ai Dropout Prevention for Modern Indian Schools"
+category: "Education Innovation, AI & Future"
+primary_keyword: "AI dropout prevention"
 secondary_keywords:
-  - AI dropout prevention schools
-  - best practices AI dropout prevention
-  - AI dropout prevention strategy
-  - how to implement AI dropout prevention
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "AI dropout prevention schools"
+  - "best practices AI dropout prevention"
+  - "AI dropout prevention strategy"
+  - "how to implement AI dropout prevention"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on ai dropout prevention for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

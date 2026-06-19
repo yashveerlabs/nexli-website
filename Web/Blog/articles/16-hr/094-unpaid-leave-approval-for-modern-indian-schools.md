@@ -1,22 +1,21 @@
-﻿---
-title: Unpaid Leave Approval for Modern Indian Schools
-slug: unpaid-leave-approval-for-modern-indian-schools
-meta_description: Unpaid Leave Approval for Modern Indian Schools
-category: HR & Recruitment
-primary_keyword: unpaid leave approval
+---
+title: "Unpaid Leave Approval for Modern Indian Schools"
+slug: "094-unpaid-leave-approval-for-modern-indian-schools"
+meta_description: "Unpaid Leave Approval for Modern Indian Schools"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "unpaid leave approval"
 secondary_keywords:
-  - unpaid leave approval schools
-  - best practices unpaid leave approval
-  - unpaid leave approval strategy
-  - how to implement unpaid leave approval
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "unpaid leave approval schools"
+  - "best practices unpaid leave approval"
+  - "unpaid leave approval strategy"
+  - "how to implement unpaid leave approval"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on unpaid leave approval for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,22 +1,21 @@
 ---
-title: The ROI of Better Discipline Problem Solution
-slug: the-roi-of-better-discipline-problem-solution
-meta_description: The ROI of Better Discipline Problem Solution
-category: Success Stories & Cases
-primary_keyword: discipline problem solution
+title: "The ROI of Better Discipline Problem Solution"
+slug: "009-the-roi-of-better-discipline-problem-solution"
+meta_description: "The ROI of Better Discipline Problem Solution"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "discipline problem solution"
 secondary_keywords:
-  - discipline problem solution schools
-  - best practices discipline problem solution
-  - discipline problem solution strategy
-  - how to implement discipline problem solution
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "discipline problem solution schools"
+  - "best practices discipline problem solution"
+  - "discipline problem solution strategy"
+  - "how to implement discipline problem solution"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on discipline problem solution for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

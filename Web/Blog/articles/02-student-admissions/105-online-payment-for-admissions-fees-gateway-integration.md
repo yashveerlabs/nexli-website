@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Online Payment for Admissions Fees: Gateway Integration"
-slug: online-payment-for-admissions-fees-gateway-integration
-meta_description: online payment for admissions fees: gateway integration. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: online payment for admissions fees
+slug: "105-online-payment-for-admissions-fees-gateway-integration"
+meta_description: "online payment for admissions fees: gateway integration. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "online payment for admissions fees"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article explores best practices for online payment for admissions fees in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

@@ -1,22 +1,21 @@
 ---
-title: The Electricity Consumption Data Playbook: Implementation Guide
-slug: the-electricity-consumption-data-playbook-implementation-guide
-meta_description: The Electricity Consumption Data Playbook: Implementation...
-category: Research & Statistics
-primary_keyword: electricity consumption data
+title: "The Electricity Consumption Data Playbook: Implementation Guide"
+slug: "056-the-electricity-consumption-data-playbook-implementation-guide"
+meta_description: "The Electricity Consumption Data Playbook: Implementation..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "electricity consumption data"
 secondary_keywords:
-  - electricity consumption data schools
-  - best practices electricity consumption data
-  - electricity consumption data strategy
-  - how to implement electricity consumption data
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "electricity consumption data schools"
+  - "best practices electricity consumption data"
+  - "electricity consumption data strategy"
+  - "how to implement electricity consumption data"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on electricity consumption data for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

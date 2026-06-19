@@ -1,18 +1,21 @@
 ---
 title: "Digital Transformation Roadmap for Indian Schools: A 3-Year Plan"
-slug: "digital-transformation-roadmap"
+slug: "12-digital-transformation-roadmap"
 meta_description: "A practical 3-year digital transformation roadmap for Indian schools. Assess current state, achieve quick wins in year 1, build capability in year 2, and scale in year 3."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "digital transformation roadmap schools India"
-secondary_keywords: ["school digitisation plan", "school technology roadmap", "digital school India", "school ERP transformation strategy"]
-intent: "informational"
+secondary_keywords:
+  - "school digitisation plan"
+  - "school technology roadmap"
+  - "digital school India"
+  - "school ERP transformation strategy"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## What Does a School Digital Transformation Roadmap Look Like?
 
 A school digital transformation roadmap is a structured, multi-year plan that moves an institution from paper-based and fragmented operations to integrated digital systems. For Indian schools, a practical roadmap spans three years: Year 1 focuses on core operations (admissions, fee collection, attendance, parent communication), Year 2 on academic integration and staff capability building, and Year 3 on advanced analytics and optimization. Schools that try to transform everything in year one typically fail; schools with a phased roadmap succeed.

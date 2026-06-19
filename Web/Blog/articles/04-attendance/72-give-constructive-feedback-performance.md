@@ -1,18 +1,21 @@
-﻿---
+---
 title: "How to Give Constructive Feedback on Performance"
-slug: "give-constructive-feedback-performance"
+slug: "72-give-constructive-feedback-performance"
 meta_description: "Learn about how to give constructive feedback on performance in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "how to give constructive feedback on performance"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with how to give constructive feedback on performance:

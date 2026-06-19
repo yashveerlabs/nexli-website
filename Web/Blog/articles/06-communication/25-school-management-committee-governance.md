@@ -1,18 +1,21 @@
 ---
 title: "School Management Committee: Governance and Accountability"
-slug: "school-management-committee-governance"
+slug: "25-school-management-committee-governance"
 meta_description: "Effective parent engagement strategies for Indian schools. Learn how smcs ensure school accountability and governance transparency. clear communication about smc decisions and processes builds confidence in school leadership."
-category: "Parent Engagement"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent engagement communication"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Management Committee: Governance and Accountability
 
 SMCs ensure school accountability and governance transparency. Clear communication about SMC decisions and processes builds confidence in school leadership.

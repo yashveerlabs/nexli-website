@@ -1,18 +1,21 @@
 ---
 title: "Data Security in the Cloud: What Indian Schools Should Ask Their ERP Vendor"
-slug: "data-security-in-cloud"
+slug: "22-data-security-in-cloud"
 meta_description: "Data security in cloud ERP for schools. Understand encryption, access control, audit logs, and breach response. Questions every Indian school must ask their ERP vendor."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "cloud data security school ERP"
-secondary_keywords: ["school ERP data security India", "student data encryption cloud", "ERP security schools", "cloud school data protection"]
-intent: "informational"
+secondary_keywords:
+  - "school ERP data security India"
+  - "student data encryption cloud"
+  - "ERP security schools"
+  - "cloud school data protection"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## What Data Security Layers Should a School Expect from a Cloud ERP?
 
 A school's cloud ERP should provide four layers of data security: encryption at rest and in transit, access control through role-based permissions, comprehensive audit logging, and a documented breach response procedure. Schools that don't verify these protections before signing an ERP contract are entrusting sensitive student and financial data to systems they haven't evaluated. This guide explains what each layer means and the specific questions to ask every vendor.

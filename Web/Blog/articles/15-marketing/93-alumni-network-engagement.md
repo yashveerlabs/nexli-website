@@ -1,8 +1,8 @@
 ---
 title: "Alumni Network Engagement: Lifelong Advocacy"
-slug: "alumni-network-engagement-schools"
+slug: "93-alumni-network-engagement"
 meta_description: "Build an alumni network that drives school marketing through lifelong advocacy. Learn alumni engagement strategy, reunion events, mentorship programs, and alumni referrals."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school alumni network"
 secondary_keywords:
   - "school alumni engagement"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Alumni Network Engagement: Lifelong Advocacy
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

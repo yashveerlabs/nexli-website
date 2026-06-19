@@ -1,22 +1,21 @@
-﻿---
-title: Practical Strategies for Mixed Reality Labs
-slug: practical-strategies-for-mixed-reality-labs
-meta_description: Practical Strategies for Mixed Reality Labs
-category: Innovation & AI
-primary_keyword: mixed reality labs
+---
+title: "Practical Strategies for Mixed Reality Labs"
+slug: "035-practical-strategies-for-mixed-reality-labs"
+meta_description: "Practical Strategies for Mixed Reality Labs"
+category: "Education Innovation, AI & Future"
+primary_keyword: "mixed reality labs"
 secondary_keywords:
-  - mixed reality labs schools
-  - best practices mixed reality labs
-  - mixed reality labs strategy
-  - how to implement mixed reality labs
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "mixed reality labs schools"
+  - "best practices mixed reality labs"
+  - "mixed reality labs strategy"
+  - "how to implement mixed reality labs"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on mixed reality labs for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

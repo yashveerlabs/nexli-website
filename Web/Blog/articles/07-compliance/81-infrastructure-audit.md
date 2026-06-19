@@ -1,18 +1,21 @@
 ---
 title: "School Infrastructure Audit: Annual Compliance Review Checklist"
-slug: "school-infrastructure-audit-checklist"
+slug: "81-infrastructure-audit"
 meta_description: "Conduct an annual school infrastructure audit. Complete checklist covering building safety, fire safety, electrical safety, water, sanitation, labs, and CBSE inspection readiness."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "school infrastructure audit checklist"
-secondary_keywords: ["school compliance inspection checklist", "CBSE infrastructure requirements", "school building audit India", "school safety audit"]
-intent: "informational"
+secondary_keywords:
+  - "school compliance inspection checklist"
+  - "CBSE infrastructure requirements"
+  - "school building audit India"
+  - "school safety audit"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 An annual infrastructure audit brings together all physical compliance requirements in one structured review. Rather than managing building safety, fire safety, electrical compliance, water safety, and sanitation as separate activities, an annual audit provides a comprehensive view of the school's physical compliance status.
 
 This audit is best conducted before the start of the academic year and before any CBSE inspection.

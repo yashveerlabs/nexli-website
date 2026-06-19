@@ -1,24 +1,21 @@
 ---
 title: "AI in School ERP: What Is Real and What Is Not"
-slug: "ai-in-school-erp"
+slug: "59-ai-in-school-erp"
 meta_description: "AI in school ERP: what AI features actually exist today, what is genuinely useful, what is premature hype, and what questions to ask vendors who claim AI capabilities."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "AI in school ERP"
 secondary_keywords:
   - "artificial intelligence school management India"
   - "school ERP AI features"
   - "school AI student analytics"
   - "school ERP predictive analytics"
-intent: "informational"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## AI in School ERP: What Is Real and What Is Not
 
 **"AI-powered" has become a checkbox in software marketing. Every vendor claims AI. For school leaders evaluating ERP, distinguishing between meaningful AI features and marketing language requires understanding what AI can actually do in a school context, and what the limitations are. This article separates the genuine from the premature.**

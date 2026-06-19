@@ -1,22 +1,21 @@
 ---
-title: How to Identify and Support Low-Performing Students Early
-slug: identify-low-performing-students
-meta_description: Spot at-risk students early with data and provide targeted intervention.
-category: Academic Management & Teaching Excellence
-primary_keyword: identify low performing students
+title: "How to Identify and Support Low-Performing Students Early"
+slug: "26-identify-low-performing-students"
+meta_description: "Spot at-risk students early with data and provide targeted intervention."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "identify low performing students"
 secondary_keywords:
-  - Identify Low Performing Students
-  - teaching effectiveness
-  - student learning
-  - academic excellence
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Identify Low Performing Students"
+  - "teaching effectiveness"
+  - "student learning"
+  - "academic excellence"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Executive Summary
 
 How to Identify and Support Low-Performing Students Early is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process see measurable improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.

@@ -1,18 +1,21 @@
 ---
 title: "Avoiding Vendor Lock-In: How Schools Protect Their Technology Independence"
-slug: "vendor-lock-in-prevention"
+slug: "95-vendor-lock-in-prevention"
 meta_description: "How schools avoid vendor lock-in: data export rights in contracts, open API requirements, avoiding proprietary file formats, and multi-vendor architecture principles."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "vendor lock-in schools"
-secondary_keywords: ["school software contract", "open data export school", "ERP vendor independence", "school technology procurement"]
-intent: "informational"
+secondary_keywords:
+  - "school software contract"
+  - "open data export school"
+  - "ERP vendor independence"
+  - "school technology procurement"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Avoiding Vendor Lock-In: A School Leadership Guide
 
 Vendor lock-in occurs when a school becomes so dependent on a specific software vendor's systems, formats, and proprietary structures that switching away becomes prohibitively expensive or practically impossible. This gives the vendor significant pricing power at renewal time and leaves the school vulnerable to service degradation, price increases, or vendor failure.

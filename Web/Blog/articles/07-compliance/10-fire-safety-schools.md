@@ -1,18 +1,21 @@
 ---
 title: "Fire Safety Compliance in Schools: Checklists and Documentation"
-slug: "fire-safety-compliance-schools"
+slug: "10-fire-safety-schools"
 meta_description: "Ensure fire safety compliance in schools. Learn fire safety standards, evacuation drills, documentation requirements, and NOC procedures."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "fire safety schools compliance"
-secondary_keywords: ["fire safety standards", "evacuation drills", "fire NOC schools", "school emergency preparedness"]
-intent: "informational"
+secondary_keywords:
+  - "fire safety standards"
+  - "evacuation drills"
+  - "fire NOC schools"
+  - "school emergency preparedness"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Why Fire Safety Compliance Matters
 
 School fires are rare but catastrophic. A school fire without proper safety measures can result in loss of lives, injuries, trauma, and permanent closure. Fire safety compliance is not optional; it's a legal requirement under building codes and CBSE affiliation standards.

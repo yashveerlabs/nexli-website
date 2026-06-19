@@ -1,18 +1,21 @@
 ---
 title: "Conflict of Interest Policy for Schools: Why It Matters and What It Must Cover"
-slug: "conflict-of-interest-policy-schools"
+slug: "93-conflict-of-interest-policy"
 meta_description: "Develop a conflict of interest policy for your school board. Covers what constitutes a conflict, disclosure obligations, recusal procedures, and enforcement."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "conflict of interest policy school board"
-secondary_keywords: ["school trustee conflict of interest", "school board self-dealing", "governing body conflict policy", "trust conflict of interest school"]
-intent: "informational"
+secondary_keywords:
+  - "school trustee conflict of interest"
+  - "school board self-dealing"
+  - "governing body conflict policy"
+  - "trust conflict of interest school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 A conflict of interest policy is a formal document that defines what constitutes a conflict of interest for school board members, requires disclosure of conflicts, and specifies how conflicted transactions are managed. This policy protects the school from decisions driven by board members' personal interests and protects board members from accusations of impropriety.
 
 ## Why Schools Need a Conflict of Interest Policy

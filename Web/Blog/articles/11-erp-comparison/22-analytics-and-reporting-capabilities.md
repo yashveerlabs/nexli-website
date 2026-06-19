@@ -1,8 +1,8 @@
 ---
 title: "Analytics and Reporting Capabilities in School ERP"
-slug: "analytics-and-reporting-capabilities"
+slug: "22-analytics-and-reporting-capabilities"
 meta_description: "Evaluate school ERP analytics: principal KPI dashboards, attendance trends, fee collection reports, academic performance analytics, and at-risk student identification."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP analytics"
 secondary_keywords:
   - "school reporting software"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school KPI dashboard"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Analytics and Reporting Capabilities in School ERP
 
 **Analytics is where data becomes decisions. A school ERP that only stores data without analysis makes administrators do the work manually, exporting to Excel, building pivot tables, writing formulas. A school ERP with real analytics surfaces insights automatically, so principals and teachers spend time acting on information rather than extracting it.**

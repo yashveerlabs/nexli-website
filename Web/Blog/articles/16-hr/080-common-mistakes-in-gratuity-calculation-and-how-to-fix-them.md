@@ -1,22 +1,21 @@
-﻿---
-title: Common Mistakes in Gratuity Calculation (And How to Fix Them)
-slug: common-mistakes-in-gratuity-calculation-and-how-to-fix-them
-meta_description: Common Mistakes in Gratuity Calculation (And How to Fix T...
-category: HR & Recruitment
-primary_keyword: gratuity calculation
+---
+title: "Common Mistakes in Gratuity Calculation (And How to Fix Them)"
+slug: "080-common-mistakes-in-gratuity-calculation-and-how-to-fix-them"
+meta_description: "Common Mistakes in Gratuity Calculation (And How to Fix T..."
+category: "School HR, Recruitment & Staff"
+primary_keyword: "gratuity calculation"
 secondary_keywords:
-  - gratuity calculation schools
-  - best practices gratuity calculation
-  - gratuity calculation strategy
-  - how to implement gratuity calculation
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "gratuity calculation schools"
+  - "best practices gratuity calculation"
+  - "gratuity calculation strategy"
+  - "how to implement gratuity calculation"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on gratuity calculation for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

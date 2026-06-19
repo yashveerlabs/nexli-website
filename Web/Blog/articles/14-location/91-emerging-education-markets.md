@@ -1,18 +1,20 @@
 ---
 title: "Emerging Education Markets"
-slug: "emerging-education-markets"
+slug: "91-emerging-education-markets"
 meta_description: "Emerging education markets in India: how cloud-based ERP enables schools to scale in Tier 2 and Tier 3 cities with growing student populations."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "emerging education markets India school ERP"
-secondary_keywords: ["emerging school markets India ERP", "Tier 3 education market India", "school ERP growing cities India", "new education market school software India"]
+secondary_keywords:
+  - "emerging school markets India ERP"
+  - "Tier 3 education market India"
+  - "school ERP growing cities India"
+  - "new education market school software India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Emerging Education Markets
 

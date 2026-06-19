@@ -1,22 +1,21 @@
-﻿---
-title: Common Mistakes in Ai Generated Lesson Plans (And How to Fix Them)
-slug: common-mistakes-in-ai-generated-lesson-plans-and-how-to-fix-them
-meta_description: Common Mistakes in Ai Generated Lesson Plans (And How to ...
-category: Innovation & AI
-primary_keyword: AI generated lesson plans
+---
+title: "Common Mistakes in Ai Generated Lesson Plans (And How to Fix Them)"
+slug: "010-common-mistakes-in-ai-generated-lesson-plans-and-how-to-fix-them"
+meta_description: "Common Mistakes in Ai Generated Lesson Plans (And How to ..."
+category: "Education Innovation, AI & Future"
+primary_keyword: "AI generated lesson plans"
 secondary_keywords:
-  - AI generated lesson plans schools
-  - best practices AI generated lesson plans
-  - AI generated lesson plans strategy
-  - how to implement AI generated lesson plans
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "AI generated lesson plans schools"
+  - "best practices AI generated lesson plans"
+  - "AI generated lesson plans strategy"
+  - "how to implement AI generated lesson plans"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on ai generated lesson plans for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

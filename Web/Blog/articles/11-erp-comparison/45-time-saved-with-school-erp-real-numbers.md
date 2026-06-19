@@ -1,8 +1,8 @@
 ---
 title: "Time Saved with School ERP: Where Hours Go Back to People"
-slug: "time-saved-with-school-erp-real-numbers"
+slug: "45-time-saved-with-school-erp-real-numbers"
 meta_description: "Realistic breakdown of time saved by school ERP: attendance compilation, report cards, defaulter reports, CBSE LOC, UDISE+, and parent information queries."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP time savings"
 secondary_keywords:
   - "school ERP efficiency India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school management automation benefits"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Time Saved with School ERP: Where Hours Go Back to People
 
 **The time savings from school ERP are real but specific. Not every task becomes faster. Some tasks become dramatically faster. Understanding where the hours go back to people, and where they do not, helps set honest expectations and identify which workflows to prioritize in implementation.**

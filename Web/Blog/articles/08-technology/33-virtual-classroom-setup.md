@@ -1,18 +1,21 @@
 ---
 title: "Setting Up Virtual Classrooms: Platform Choice, Scheduling, and Student Engagement"
-slug: "virtual-classroom-setup"
+slug: "33-virtual-classroom-setup"
 meta_description: "Setting up a virtual classroom requires choosing the right video platform, establishing scheduling and attendance procedures, and addressing student engagement challenges."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "virtual classroom setup for schools"
-secondary_keywords: ["online classroom India", "virtual teaching tools", "school video class setup", "online attendance tracking schools"]
-intent: "informational"
+secondary_keywords:
+  - "online classroom India"
+  - "virtual teaching tools"
+  - "school video class setup"
+  - "online attendance tracking schools"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## What a Virtual Classroom Actually Requires
 
 Setting up a virtual classroom for schools is more than installing a video conferencing app. A functioning virtual classroom needs: a reliable video platform that teachers can use without technical support, a scheduling system that students and parents can follow, a way to track attendance, a policy on recording, and strategies to keep students engaged when the teacher cannot see their faces.

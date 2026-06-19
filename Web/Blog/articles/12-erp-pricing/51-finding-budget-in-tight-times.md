@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Finding Budget in Tight Times"
-slug: "finding-budget-in-tight-times"
+slug: "51-finding-budget-in-tight-times"
 meta_description: "Finding Budget in Tight Times"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "finding"
-secondary_keywords: ["budget", "in", "tight", "times"]
+secondary_keywords:
+  - "budget"
+  - "in"
+  - "tight"
+  - "times"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Finding Budget in Tight Times
 

@@ -1,22 +1,21 @@
-﻿---
-title: Scaling Robotics In Schools Across Your School
-slug: scaling-robotics-in-schools-across-your-school
-meta_description: Scaling Robotics In Schools Across Your School
-category: Innovation & AI
-primary_keyword: robotics in schools
+---
+title: "Scaling Robotics In Schools Across Your School"
+slug: "078-scaling-robotics-in-schools-across-your-school"
+meta_description: "Scaling Robotics In Schools Across Your School"
+category: "Education Innovation, AI & Future"
+primary_keyword: "robotics in schools"
 secondary_keywords:
-  - robotics in schools schools
-  - best practices robotics in schools
-  - robotics in schools strategy
-  - how to implement robotics in schools
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "robotics in schools schools"
+  - "best practices robotics in schools"
+  - "robotics in schools strategy"
+  - "how to implement robotics in schools"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on robotics in schools for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

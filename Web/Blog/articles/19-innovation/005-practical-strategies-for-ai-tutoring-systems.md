@@ -1,22 +1,21 @@
-﻿---
-title: Practical Strategies for Ai Tutoring Systems
-slug: practical-strategies-for-ai-tutoring-systems
-meta_description: Practical Strategies for Ai Tutoring Systems
-category: Innovation & AI
-primary_keyword: AI tutoring systems
+---
+title: "Practical Strategies for Ai Tutoring Systems"
+slug: "005-practical-strategies-for-ai-tutoring-systems"
+meta_description: "Practical Strategies for Ai Tutoring Systems"
+category: "Education Innovation, AI & Future"
+primary_keyword: "AI tutoring systems"
 secondary_keywords:
-  - AI tutoring systems schools
-  - best practices AI tutoring systems
-  - AI tutoring systems strategy
-  - how to implement AI tutoring systems
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "AI tutoring systems schools"
+  - "best practices AI tutoring systems"
+  - "AI tutoring systems strategy"
+  - "how to implement AI tutoring systems"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on ai tutoring systems for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

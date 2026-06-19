@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Mid-Size School ERP Costs"
-slug: "mid-size-school-erp-costs"
+slug: "41-mid-size-school-erp-costs"
 meta_description: "Mid-Size School ERP Costs"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "mid-size"
-secondary_keywords: ["school", "erp", "costs", "school"]
+secondary_keywords:
+  - "school"
+  - "erp"
+  - "costs"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Mid-Size School ERP Costs
 

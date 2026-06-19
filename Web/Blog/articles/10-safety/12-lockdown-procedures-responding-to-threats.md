@@ -1,8 +1,8 @@
 ---
 title: "Lockdown Procedures: Responding to Threats at School"
-slug: lockdown-procedures-responding-to-threats
+slug: "12-lockdown-procedures-responding-to-threats"
 meta_description: "Establish clear lockdown procedures for school threat response. Learn staff roles, communication protocols, and how to practice effective drills."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school lockdown procedures"
 secondary_keywords:
   - "threat response schools"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Lockdown Procedures: Responding to Threats
 
 Lockdown procedures protect students and staff from threats. Clear procedures and training are essential.

@@ -1,10 +1,9 @@
 ---
 title: "How to Handle Criticism and Feedback"
-slug: how-to-handle-criticism-and-feedback
-category: 9
-order: 81
-primary_keyword: "how to handle criticism as a school leader"
+slug: "81-how-to-handle-criticism-and-feedback"
 meta_description: "Learn how school principals can handle criticism and feedback professionally, listening, assessing validity, responding gracefully, and turning feedback into growth."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to handle criticism as a school leader"
 secondary_keywords:
   - "receiving feedback as a principal"
   - "constructive criticism in schools"
@@ -16,8 +15,8 @@ date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
+order: 81
 ---
-
 # How to Handle Criticism and Feedback
 
 Criticism is inevitable. How you handle it determines your growth and effectiveness.

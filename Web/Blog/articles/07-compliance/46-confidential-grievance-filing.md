@@ -1,18 +1,21 @@
 ---
 title: "Confidential Grievance Filing: How Schools Protect Student Complainants"
-slug: "confidential-grievance-filing-schools"
+slug: "46-confidential-grievance-filing"
 meta_description: "Learn how schools must protect the confidentiality of student complainants in child protection and harassment cases. Systems, procedures, and legal obligations."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "confidential grievance filing schools"
-secondary_keywords: ["student complainant protection", "school grievance confidentiality", "anonymous complaint school", "child protection confidentiality"]
-intent: "informational"
+secondary_keywords:
+  - "student complainant protection"
+  - "school grievance confidentiality"
+  - "anonymous complaint school"
+  - "child protection confidentiality"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 18
 branding_block_company: 18
 branding_block_nexli: 18
 ---
-
 When a student or parent files a complaint about abuse, harassment, or misconduct, the school's first obligation is to protect the complainant. Confidentiality is not a courtesy; it is a legal requirement under POCSO (for child abuse) and POSH (for workplace sexual harassment), and a basic condition for creating an environment where complaints are made at all.
 
 Schools that fail to maintain confidentiality, through gossip, visible investigation activity, or inadvertent disclosure, deter future complaints and potentially cause additional harm to the complainant.

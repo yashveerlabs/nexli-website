@@ -1,18 +1,20 @@
 ---
 title: "UDISE+ Reporting for Government Schools"
-slug: "udise+-reporting-for-government-schools"
+slug: "23-udise+-reporting-for-government-schools"
 meta_description: "How school ERPs support udise+ reporting for government schools for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "UDISE+ reporting government schools"
-secondary_keywords: ["UDISE+ data export ERP", "government school data reporting", "annual school survey India", "school ERP compliance"]
+secondary_keywords:
+  - "UDISE+ data export ERP"
+  - "government school data reporting"
+  - "annual school survey India"
+  - "school ERP compliance"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## UDISE+ Reporting for Government Schools
 

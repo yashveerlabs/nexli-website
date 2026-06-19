@@ -1,8 +1,8 @@
 ---
 title: "Outdoor Advertising: Billboards, Transit Ads, Community Visibility"
-slug: "outdoor-advertising-schools"
+slug: "71-outdoor-advertising"
 meta_description: "Build school brand visibility with outdoor advertising. Learn billboard selection, transit ad strategy, auto-rickshaw branding, and measuring outdoor advertising ROI."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school outdoor advertising"
 secondary_keywords:
   - "school billboard"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Outdoor Advertising: Billboards, Transit Ads, Community Visibility
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

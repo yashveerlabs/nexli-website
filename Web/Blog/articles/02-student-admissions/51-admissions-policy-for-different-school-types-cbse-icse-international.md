@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Admissions Policy for Different School Types (CBSE, ICSE, International)"
-slug: admissions-policy-for-different-school-types-cbse-icse-international
-meta_description: admissions policy for different school types (cbse, icse, international). Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: admissions policy for different school types (cbse, icse, international)
+slug: "51-admissions-policy-for-different-school-types-cbse-icse-international"
+meta_description: "admissions policy for different school types (cbse, icse, international). Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "admissions policy for different school types (cbse, icse, international)"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article explores best practices for admissions policy for different school types (cbse, icse, international) in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

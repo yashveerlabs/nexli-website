@@ -1,18 +1,20 @@
 ---
 title: "Cambridge Assessment International Education (CAIE)"
-slug: "cambridge-assessment-international-education-caie"
+slug: "17-cambridge-assessment-international-education-caie"
 meta_description: "How school ERPs support cambridge assessment international education (caie) for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "Cambridge CAIE school management"
-secondary_keywords: ["Cambridge IGCSE ERP India", "CAIE curriculum tracking", "Cambridge A Level management", "international school ERP"]
+secondary_keywords:
+  - "Cambridge IGCSE ERP India"
+  - "CAIE curriculum tracking"
+  - "Cambridge A Level management"
+  - "international school ERP"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## Cambridge Assessment International Education (CAIE)
 

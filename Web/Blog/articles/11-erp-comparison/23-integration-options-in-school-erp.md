@@ -1,8 +1,8 @@
 ---
 title: "Integration Options in School ERP: What to Ask Vendors"
-slug: "integration-options-in-school-erp"
+slug: "23-integration-options-in-school-erp"
 meta_description: "School ERP integration guide: payment gateways, biometric devices, RFID, accounting software, SMS gateways, and third-party tool connectivity for Indian schools."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP integrations"
 secondary_keywords:
   - "school ERP payment gateway"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school management system API"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Integration Options in School ERP: What to Ask Vendors
 
 **No school ERP operates in isolation. Schools use payment gateways for fee collection, biometric devices for attendance, accounting software for financial reporting, and SMS gateways for parent communication. Understanding how a school ERP integrates with these external systems, and what the cost is, is critical before signing a contract.**

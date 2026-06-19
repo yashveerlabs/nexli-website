@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Chandigarh"
-slug: "school-erp-in-chandigarh"
+slug: "31-school-erp-in-chandigarh"
 meta_description: "School ERP in Chandigarh: cloud-based school management for UT schools with CBSE compliance, admissions pipeline, fee management, and 118+ staff roles."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Chandigarh"
-secondary_keywords: ["school management system Chandigarh", "Chandigarh school software", "Punjab Haryana school ERP", "best ERP for Chandigarh schools"]
+secondary_keywords:
+  - "school management system Chandigarh"
+  - "Chandigarh school software"
+  - "Punjab Haryana school ERP"
+  - "best ERP for Chandigarh schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## School ERP in Chandigarh
 

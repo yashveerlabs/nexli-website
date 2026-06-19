@@ -1,8 +1,8 @@
 ---
 title: "School Website SEO: Getting Found Online"
-slug: "school-website-seo"
+slug: "04-school-website-seo"
 meta_description: "Improve school website SEO. Learn keyword research, technical optimization, content best practices, and how to rank higher in Google searches."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school website SEO"
 secondary_keywords:
   - "school Google ranking"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Website SEO: Getting Found Online
 
 **When parents search "schools near me" or "best CBSE schools in [city]", can they find you? SEO (search engine optimization) makes your website visible in Google. This guide covers keyword research, on-page optimization, technical SEO, and local SEO.**

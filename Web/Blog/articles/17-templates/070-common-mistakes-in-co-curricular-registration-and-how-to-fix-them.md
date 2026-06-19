@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Co-Curricular Registration (And How to Fix Them)
-slug: common-mistakes-in-co-curricular-registration-and-how-to-fix-them
-meta_description: Common Mistakes in Co-Curricular Registration (And How to...
-category: SOPs & Templates
-primary_keyword: co-curricular registration
+title: "Common Mistakes in Co-Curricular Registration (And How to Fix Them)"
+slug: "070-common-mistakes-in-co-curricular-registration-and-how-to-fix-them"
+meta_description: "Common Mistakes in Co-Curricular Registration (And How to..."
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "co-curricular registration"
 secondary_keywords:
-  - co-curricular registration schools
-  - best practices co-curricular registration
-  - co-curricular registration strategy
-  - how to implement co-curricular registration
-intent: informational
+  - "co-curricular registration schools"
+  - "best practices co-curricular registration"
+  - "co-curricular registration strategy"
+  - "how to implement co-curricular registration"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on co-curricular registration for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

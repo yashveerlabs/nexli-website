@@ -1,22 +1,21 @@
-﻿---
-title: Ai Teaching Assistant for Modern Indian Schools
-slug: ai-teaching-assistant-for-modern-indian-schools
-meta_description: Ai Teaching Assistant for Modern Indian Schools
-category: Innovation & AI
-primary_keyword: AI teaching assistant
+---
+title: "Ai Teaching Assistant for Modern Indian Schools"
+slug: "014-ai-teaching-assistant-for-modern-indian-schools"
+meta_description: "Ai Teaching Assistant for Modern Indian Schools"
+category: "Education Innovation, AI & Future"
+primary_keyword: "AI teaching assistant"
 secondary_keywords:
-  - AI teaching assistant schools
-  - best practices AI teaching assistant
-  - AI teaching assistant strategy
-  - how to implement AI teaching assistant
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "AI teaching assistant schools"
+  - "best practices AI teaching assistant"
+  - "AI teaching assistant strategy"
+  - "how to implement AI teaching assistant"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on ai teaching assistant for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

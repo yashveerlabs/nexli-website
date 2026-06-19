@@ -1,22 +1,21 @@
 ---
-title: Fire Safety Compliance in Schools: Checklists and Documentation
-slug: fire-safety-compliance-schools-checklists
-meta_description: Complete guide to school fire safety compliance, including NOC requirements, fire drills, equipment maintenance, and documentation standards.
-category: School Administration & Operations
-primary_keyword: fire safety compliance schools
+title: "Fire Safety Compliance in Schools: Checklists and Documentation"
+slug: "106-fire-safety-compliance-schools"
+meta_description: "Complete guide to school fire safety compliance, including NOC requirements, fire drills, equipment maintenance, and documentation standards."
+category: "School Administration & Operations"
+primary_keyword: "fire safety compliance schools"
 secondary_keywords:
-  - fire NOC for schools
-  - fire drills procedures
-  - school safety checklist
-  - fire equipment maintenance
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "fire NOC for schools"
+  - "fire drills procedures"
+  - "school safety checklist"
+  - "fire equipment maintenance"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 Fire safety compliance in schools requires a valid NOC (No Objection Certificate) from the Fire Department, maintained equipment, documented drills, and trained staff. Schools with systematic fire safety programs report zero fire-related incidents and faster compliance approvals. This article covers NOC requirements, fire drills, equipment checks, and documentation to ensure your school is audit-ready year-round.

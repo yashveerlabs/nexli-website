@@ -1,8 +1,8 @@
 ---
 title: "Vehicle Maintenance Schedule: School Buses"
-slug: vehicle-maintenance-schedule-school-buses
+slug: "21-vehicle-maintenance-schedule-school-buses"
 meta_description: "Build a preventive maintenance schedule for school buses: daily checks, monthly servicing, annual inspections, and documentation to keep fleets road-safe."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school bus maintenance schedule"
 secondary_keywords:
   - "vehicle maintenance schools"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Vehicle Maintenance Schedule: School Buses
 
 Regular maintenance ensures bus safety and longevity. Preventive maintenance saves money and prevents breakdowns.

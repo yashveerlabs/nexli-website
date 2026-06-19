@@ -1,18 +1,21 @@
 ---
 title: "Multilingual Education Under NEP 2020: What Schools Must Know"
-slug: "multilingual-education-policy"
+slug: "25-multilingual-education-policy"
 meta_description: "Understand NEP 2020 multilingual education requirements. Learn about mother tongue medium instruction, three-language formula, and implementation for schools."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "NEP 2020 multilingual education schools"
-secondary_keywords: ["mother tongue medium", "three language formula", "regional language instruction", "NEP language policy"]
-intent: "informational"
+secondary_keywords:
+  - "mother tongue medium"
+  - "three language formula"
+  - "regional language instruction"
+  - "NEP language policy"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 NEP 2020 emphasizes mother tongue or home language as the medium of instruction through Class 5, and encourages it through Class 8. For schools, this means rethinking the assumption that English-medium instruction is always superior, and building bridges between home language and school learning.
 
 ## The Three-Language Formula

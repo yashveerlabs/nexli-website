@@ -1,10 +1,14 @@
 ---
 title: "Regional Director Challenges: Managing Multiple Schools"
-slug: "regional-director-managing-schools"
+slug: "26-regional-director-challenges-managing-schools"
 meta_description: "Guide to regional director role overseeing multiple school campuses."
-category: "1. School Administration & Operations"
+category: "School Administration & Operations"
 primary_keyword: "regional director managing schools"
-secondary_keywords: ["regional management", "multi-campus oversight", "cluster management", "school coordination"]
+secondary_keywords:
+  - "regional management"
+  - "multi-campus oversight"
+  - "cluster management"
+  - "school coordination"
 intent: "problem-solving"
 author: "Yashveer Labs"
 date: "2026-06-19"
@@ -12,7 +16,6 @@ branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Regional Director Challenges: Managing Multiple Schools
 
 A Regional Director oversees 3-5 schools across a geographic region. They must ensure each campus maintains standards, meets compliance, and performs academically, while each campus operates somewhat independently. This role bridges the gap between group headquarters and individual campuses.

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "At-Risk Student Parent Communication: Addressing Challenges Sensitively"
-slug: "at-risk-student-communication-sensitive-challenges"
+slug: "66-at-risk-student-communication-sensitive-challenges"
 meta_description: "Effective special circumstances strategies for Indian schools. Learn how communicating about struggling students requires sensitivity, actionable suggestions, and partnership approach rather than blame."
-category: "Special Circumstances"
+category: "Parent Communication & Engagement"
 primary_keyword: "specialized parent communication"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## At-Risk Student Parent Communication: Addressing Challenges Sensitively
 
 Communicating about struggling students requires sensitivity, actionable suggestions, and partnership approach rather than blame.

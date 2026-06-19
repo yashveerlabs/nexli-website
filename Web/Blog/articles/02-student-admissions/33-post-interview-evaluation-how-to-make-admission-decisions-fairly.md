@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Post-Interview Evaluation: How to Make Admission Decisions Fairly"
-slug: post-interview-evaluation-how-to-make-admission-decisions-fairly
-meta_description: post-interview evaluation: how to make admission decisions fairly. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: post-interview evaluation
+slug: "33-post-interview-evaluation-how-to-make-admission-decisions-fairly"
+meta_description: "post-interview evaluation: how to make admission decisions fairly. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "post-interview evaluation"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article explores best practices for post interview evaluation in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

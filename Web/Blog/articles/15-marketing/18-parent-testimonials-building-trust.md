@@ -1,8 +1,8 @@
 ---
 title: "Parent Testimonials: Building Trust Online"
-slug: "parent-testimonials-building-trust"
+slug: "18-parent-testimonials-building-trust"
 meta_description: "Build school reputation through parent testimonials and reviews. Learn review collection strategy, responding to feedback, and DPDP-compliant consent management."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "parent testimonials school"
 secondary_keywords:
   - "school reviews"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Parent Testimonials: Building Trust Online
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 7 min

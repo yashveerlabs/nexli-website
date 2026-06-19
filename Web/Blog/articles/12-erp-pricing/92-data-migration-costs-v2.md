@@ -1,20 +1,20 @@
-﻿---
+---
 title: "Data Migration Costs: What Schools Should Expect"
-slug: "data-migration-costs-school-erp"
+slug: "92-data-migration-costs-v2"
 meta_description: "Complete guide to school ERP data migration costs. What's included, what's extra, and how to plan your budget for a smooth transition."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "school ERP data migration costs"
-secondary_keywords: ["data migration school", "ERP data transfer", "school data import"]
+secondary_keywords:
+  - "data migration school"
+  - "ERP data transfer"
+  - "school data import"
 intent: "reference"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 # Data Migration Costs: What to Expect
 
 A principal in Delhi migrated from a legacy student management system to a modern ERP. The vendor quoted Rs. 30,000 for data migration. The principal agreed, expecting the vendor to handle everything. Three weeks before go-live, the vendor asked: "Do you have your data in a structured format?" The principal provided ten folders of Excel spreadsheets, each named inconsistently, with missing values and duplicate records. The vendor then revealed the real work: cleaning, validating, and mapping this data would take an additional 60 hours, costing Rs. 60,000 more. The principal felt misled. The vendor's original quote was technically accurate for clean data, but real-world data is messy.

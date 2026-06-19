@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Creating Bulk Letters and Certificates During Admissions"
-slug: creating-bulk-letters-and-certificates-during-admissions
-meta_description: creating bulk letters and certificates during admissions. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: creating bulk letters and certificates during admissions
+slug: "108-creating-bulk-letters-and-certificates-during-admissions"
+meta_description: "creating bulk letters and certificates during admissions. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "creating bulk letters and certificates during admissions"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for creating bulk letters and certificates during admissions in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

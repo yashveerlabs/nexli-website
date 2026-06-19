@@ -1,22 +1,21 @@
 ---
-title: The Question Paper Template Playbook: Implementation Guide
-slug: the-question-paper-template-playbook-implementation-guide
-meta_description: The Question Paper Template Playbook: Implementation Guide
-category: SOPs & Templates
-primary_keyword: question paper template
+title: "The Question Paper Template Playbook: Implementation Guide"
+slug: "036-the-question-paper-template-playbook-implementation-guide"
+meta_description: "The Question Paper Template Playbook: Implementation Guide"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "question paper template"
 secondary_keywords:
-  - question paper template schools
-  - best practices question paper template
-  - question paper template strategy
-  - how to implement question paper template
-intent: informational
+  - "question paper template schools"
+  - "best practices question paper template"
+  - "question paper template strategy"
+  - "how to implement question paper template"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on question paper template for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,18 +1,21 @@
 ---
 title: "Student Consent Forms Under DPDP Act: What Schools Need"
-slug: "student-consent-forms"
+slug: "38-student-consent-forms"
 meta_description: "Design student consent forms for DPDP compliance. Learn which data types need separate consent, how to write compliant consent language, and digital consent options."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "student consent forms DPDP schools"
-secondary_keywords: ["consent form design", "school data consent", "parental permission form", "DPDP consent templates"]
-intent: "informational"
+secondary_keywords:
+  - "consent form design"
+  - "school data consent"
+  - "parental permission form"
+  - "DPDP consent templates"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
 ---
-
 Under DPDP Act 2023, 'consent forms' for students really means parental consent forms, since most school students are minors, their parents or legal guardians are the data principals. The school must collect specific, documented consent from parents before collecting any personal data about the student.
 
 ## Why General Admission Forms Are Insufficient

@@ -1,10 +1,9 @@
 ---
 title: "Transformational Leadership in Schools"
-slug: transformational-leadership-in-schools
-category: 9
-order: 88
-primary_keyword: "transformational leadership in schools"
+slug: "88-transformational-leadership-in-schools"
 meta_description: "Transformational leaders inspire staff to pursue shared vision and exceed expectations. Learn the core principles of transformational leadership and how to apply them in schools."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "transformational leadership in schools"
 secondary_keywords:
   - "inspirational school leadership"
   - "distributed leadership in education"
@@ -16,8 +15,8 @@ date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
+order: 88
 ---
-
 # Transformational Leadership in Schools
 
 Transformational leaders inspire others to pursue shared vision and exceed expectations.

@@ -1,18 +1,20 @@
 ---
 title: "Senior Secondary School ERP Requirements"
-slug: "senior-secondary-school-erp-requirements"
+slug: "66-senior-secondary-school-erp-requirements"
 meta_description: "How school ERPs support senior secondary school erp requirements for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "senior secondary school ERP"
-secondary_keywords: ["Class 11 12 school management software", "senior secondary management India", "higher secondary school ERP", "Class 12 school management system"]
+secondary_keywords:
+  - "Class 11 12 school management software"
+  - "senior secondary management India"
+  - "higher secondary school ERP"
+  - "Class 12 school management system"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Senior Secondary School ERP Requirements
 

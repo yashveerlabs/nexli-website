@@ -1,22 +1,21 @@
 ---
-title: School Department Handbooks
-slug: school-department-handbooks
-meta_description: Build standardized department handbooks to guide staff and ensure consistent operations.
-category: School Administration & Operations
-primary_keyword: school department handbooks
+title: "School Department Handbooks"
+slug: "35-school-department-handbooks"
+meta_description: "Build standardized department handbooks to guide staff and ensure consistent operations."
+category: "School Administration & Operations"
+primary_keyword: "school department handbooks"
 secondary_keywords:
-  - School Department Handbooks
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "School Department Handbooks"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## School Department Handbooks
 
 School department handbooks are a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that maintain documented handbooks report significant improvements in speed, consistency, and stakeholder confidence.

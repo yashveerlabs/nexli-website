@@ -1,19 +1,22 @@
 ---
 title: "School SWOT Analysis"
-slug: school-swot-analysis
-category: 9
-order: 15
-primary_keyword: "school SWOT analysis"
+slug: "15-school-swot-analysis"
 meta_description: "How to conduct a school SWOT analysis, identifying strengths, weaknesses, opportunities, and threats to inform strategic planning and improve school performance."
-secondary_keywords: ["school strategic assessment", "SWOT analysis education", "principal planning tools", "school strengths and weaknesses"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "school SWOT analysis"
+secondary_keywords:
+  - "school strategic assessment"
+  - "SWOT analysis education"
+  - "principal planning tools"
+  - "school strengths and weaknesses"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
+order: 15
 ---
-
 # School SWOT Analysis
 
 SWOT analysis (Strengths, Weaknesses, Opportunities, Threats) is a foundational planning tool. It gives you a realistic view of your current position and helps you plan strategically.

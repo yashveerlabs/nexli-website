@@ -1,18 +1,21 @@
 ---
 title: "PWD Recruitment in Schools: Rights of Persons with Disabilities Act Compliance"
-slug: "pwd-recruitment-schools-compliance"
+slug: "87-pwd-recruitment"
 meta_description: "Ensure PWD-compliant recruitment practices at your school. Covers Rights of Persons with Disabilities Act 2016, reservation requirements, reasonable accommodation, and non-discrimination."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "PWD recruitment schools India"
-secondary_keywords: ["disability reservation school employment", "Rights of Persons with Disabilities school", "PwD staff school India", "reasonable accommodation school employee"]
-intent: "informational"
+secondary_keywords:
+  - "disability reservation school employment"
+  - "Rights of Persons with Disabilities school"
+  - "PwD staff school India"
+  - "reasonable accommodation school employee"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 19
 branding_block_company: 19
 branding_block_nexli: 19
 ---
-
 The Rights of Persons with Disabilities Act 2016 (RPWD Act) protects persons with disabilities from employment discrimination and mandates reasonable accommodation in the workplace. Schools, as employers, have obligations under RPWD Act that apply to both staff recruitment and the employment experience of disabled staff.
 
 ## RPWD Act Coverage

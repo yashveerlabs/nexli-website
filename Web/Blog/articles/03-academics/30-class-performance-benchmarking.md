@@ -1,22 +1,21 @@
 ---
-title: Class-Wise Academic Performance Benchmarking
-slug: class-performance-benchmarking
-meta_description: Compare class performance against standards and peer groups.
-category: Academic Management & Teaching Excellence
-primary_keyword: class performance benchmarking
+title: "Class-Wise Academic Performance Benchmarking"
+slug: "30-class-performance-benchmarking"
+meta_description: "Compare class performance against standards and peer groups."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "class performance benchmarking"
 secondary_keywords:
-  - Class Performance Benchmarking
-  - teaching effectiveness
-  - student learning
-  - academic excellence
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Class Performance Benchmarking"
+  - "teaching effectiveness"
+  - "student learning"
+  - "academic excellence"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Executive Summary
 
 Class-Wise Academic Performance Benchmarking is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process see measurable improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.

@@ -1,18 +1,21 @@
 ---
-title: Health and Hygiene - Handwashing and Sanitation
-slug: health-and-hygiene-handwashing-sanitation
-meta_description: Establish comprehensive school hygiene standards with handwashing stations, sanitation practices, and staff training.
-category: Safety & Operations
-primary_keyword: school hygiene and sanitation
-secondary_keywords: ["handwashing practices", "sanitation standards", "disease prevention", "hygiene education"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+title: "Health and Hygiene - Handwashing and Sanitation"
+slug: "45-health-and-hygiene-handwashing-sanitation"
+meta_description: "Establish comprehensive school hygiene standards with handwashing stations, sanitation practices, and staff training."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "school hygiene and sanitation"
+secondary_keywords:
+  - "handwashing practices"
+  - "sanitation standards"
+  - "disease prevention"
+  - "hygiene education"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Health and Hygiene: Handwashing and Sanitation Standards
 
 Hygiene infrastructure is invisible until it fails. A school without adequate handwashing facilities or sanitation becomes a petri dish for disease. Conversely, schools with reliable hygiene practices see fewer illness-related absences, better learning outcomes, and healthier communities. This guide establishes practical hygiene standards for Indian schools.

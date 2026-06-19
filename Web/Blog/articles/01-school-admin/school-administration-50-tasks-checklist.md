@@ -2,7 +2,7 @@
 title: "School Administration Checklist: 50 Tasks Every Principal Must Do"
 slug: "school-administration-50-tasks-checklist"
 meta_description: "Complete admin checklist covering all essential tasks principals must handle daily, weekly, and monthly."
-category: "01"
+category: "School Administration & Operations"
 primary_keyword: "admin checklist, principal tasks, school operations"
 secondary_keywords:
   - "daily tasks"
@@ -16,7 +16,6 @@ branding_block_founder: 20
 branding_block_company: 20
 branding_block_nexli: 20
 ---
-
 # School Administration Checklist: 50 Tasks Every Principal Must Do
 
 A school principal's admin checklist spans attendance monitoring, fee collection oversight, compliance deadlines, staff management, and parent communication. Without a structured list organized by daily, weekly, and monthly cadence, critical tasks get missed during busy periods. This 50-task checklist covers the principal's core operational responsibilities across all major school functions, with notes on which tasks benefit most from digital tracking tools.

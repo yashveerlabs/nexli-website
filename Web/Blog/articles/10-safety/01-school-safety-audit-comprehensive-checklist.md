@@ -1,8 +1,8 @@
 ---
 title: "School Safety Audit: Comprehensive Checklist for Principals"
-slug: "school-safety-audit-checklist"
+slug: "01-school-safety-audit-comprehensive-checklist"
 meta_description: "Complete safety audit checklist for schools. Learn what to inspect, what to document, and how to ensure your school is secure and compliant."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school safety audit"
 secondary_keywords:
   - "school safety checklist"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Safety Audit: Comprehensive Checklist
 
 **A school safety audit is not optional, it's a legal requirement and a moral imperative. Every principal must know: Are our buildings physically safe? Is our campus secure? Do we have emergency procedures in place? Are staff trained? This comprehensive checklist walks you through every category of safety: physical infrastructure, security protocols, emergency preparedness, medical readiness, and compliance. Use this checklist annually (at minimum) to audit your school, document findings, and close gaps.**

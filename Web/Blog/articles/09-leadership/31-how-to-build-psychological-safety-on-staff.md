@@ -1,19 +1,22 @@
 ---
 title: "How to Build Psychological Safety on Staff"
-slug: how-to-build-psychological-safety-on-staff
-category: 9
-order: 31
-primary_keyword: "how to build psychological safety on staff"
+slug: "31-how-to-build-psychological-safety-on-staff"
 meta_description: "Learn how school principals can build psychological safety among staff, enabling honest feedback, innovation, and high performance without fear of humiliation or blame."
-secondary_keywords: ["psychological safety in schools", "staff trust building", "school culture improvement", "principal leadership culture"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to build psychological safety on staff"
+secondary_keywords:
+  - "psychological safety in schools"
+  - "staff trust building"
+  - "school culture improvement"
+  - "principal leadership culture"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 11
 branding_block_company: 11
 branding_block_nexli: 11
+order: 31
 ---
-
 # How to Build Psychological Safety on Staff
 
 Psychological safety, the belief that you can take interpersonal risks without fear, is foundational to high-performing schools. Without it, people hide problems, avoid innovation, and disengage.

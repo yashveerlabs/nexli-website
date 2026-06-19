@@ -1,19 +1,22 @@
 ---
 title: "Crisis Management: Principal as Command Center"
-slug: crisis-management-principal-as-command-center
-category: 9
-order: 55
-primary_keyword: "crisis management principal command center"
+slug: "55-crisis-management-principal-as-command-center"
 meta_description: "How school principals lead crisis management, from emergency operations setup to first response, investigation, community communication, and building organizational resilience."
-secondary_keywords: ["school crisis management", "principal emergency response", "school incident management", "crisis communication school"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "crisis management principal command center"
+secondary_keywords:
+  - "school crisis management"
+  - "principal emergency response"
+  - "school incident management"
+  - "crisis communication school"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
+order: 55
 ---
-
 # Crisis Management: Principal as Command Center
 
 When crisis strikes, principal leads. Preparation and clear command center structure enable effective response.

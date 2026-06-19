@@ -1,18 +1,20 @@
 ---
 title: "Regional Language UI for Schools"
-slug: "regional-language-ui-for-schools"
+slug: "73-regional-language-ui-for-schools"
 meta_description: "Regional language UI for school ERP: managing Indian schools with Marathi, Tamil, Telugu, Kannada, and Bengali interfaces for teachers and parent portals."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "regional language school ERP India"
-secondary_keywords: ["regional language school software India", "vernacular school ERP India", "Marathi Tamil Telugu school ERP", "multilingual school management India"]
+secondary_keywords:
+  - "regional language school software India"
+  - "vernacular school ERP India"
+  - "Marathi Tamil Telugu school ERP"
+  - "multilingual school management India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Regional Language UI for Schools
 

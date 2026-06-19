@@ -1,8 +1,8 @@
 ---
 title: "How Principals Make Tough Decisions: A Framework for Complex Leadership Choices"
-slug: "how-principals-make-tough-decisions-framework"
+slug: "14-how-principals-make-tough-decisions"
 meta_description: "Learn how to make difficult decisions as a principal using a proven framework. Navigate budget cuts, staff conflicts, and strategic choices with confidence."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "how principals make tough decisions"
 secondary_keywords:
   - "principal decision-making framework"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## How Principals Make Tough Decisions: A Framework for Complex Leadership Choices
 
 **Tough decisions are the defining moments of a principal's tenure. Whether you're cutting costs during a fiscal crisis, removing a beloved but underperforming teacher, merging departments, or choosing between competing visions for the school's future, these choices shape your school's identity and your leadership reputation. This article provides a battle-tested framework for navigating complexity, managing stakeholder expectations, and emerging from tough decisions with staff trust intact.**

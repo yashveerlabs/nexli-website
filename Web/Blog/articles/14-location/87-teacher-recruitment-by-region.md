@@ -1,18 +1,20 @@
 ---
 title: "Teacher Recruitment by Region"
-slug: "teacher-recruitment-by-region"
+slug: "87-teacher-recruitment-by-region"
 meta_description: "Teacher recruitment by region with school ERP: how cloud-based HR and recruitment modules support schools hiring in metro, Tier 2, and Tier 3 markets."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "teacher recruitment school ERP India region"
-secondary_keywords: ["school ERP teacher recruitment", "school HR module India", "staff recruitment school software India", "school ERP hiring pipeline India"]
+secondary_keywords:
+  - "school ERP teacher recruitment"
+  - "school HR module India"
+  - "staff recruitment school software India"
+  - "school ERP hiring pipeline India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Teacher Recruitment by Region
 

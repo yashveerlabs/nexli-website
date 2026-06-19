@@ -1,22 +1,21 @@
 ---
-title: How Schools Can Transition from Paper to Digital Records
-slug: paper-to-digital-transition
-meta_description: A step-by-step guide for schools transitioning from paper to digital records, covering data cleaning, staff training, migration sequencing, and common pitfalls.
-category: School Administration & Operations
-primary_keyword: digitization of school records
+title: "How Schools Can Transition from Paper to Digital Records"
+slug: "97-paper-to-digital-transition"
+meta_description: "A step-by-step guide for schools transitioning from paper to digital records, covering data cleaning, staff training, migration sequencing, and common pitfalls."
+category: "School Administration & Operations"
+primary_keyword: "digitization of school records"
 secondary_keywords:
-  - paper to digital school transition
-  - school record digitization
-  - digital student records India
-  - school management system migration
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "paper to digital school transition"
+  - "school record digitization"
+  - "digital student records India"
+  - "school management system migration"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 Transitioning from paper to digital records is one of the highest-impact operational changes a school can make. When done correctly, it eliminates duplicate data entry, gives all authorized staff instant access to accurate records, and produces audit trails that paper never could. This guide covers exactly how to plan and execute that transition, including what to do with existing paper records.
 
 ---

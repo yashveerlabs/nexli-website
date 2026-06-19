@@ -1,18 +1,21 @@
 ---
 title: "Data Processing Register: What Schools Must Record Under DPDP Act"
-slug: "data-processing-register"
+slug: "36-data-processing-register"
 meta_description: "Create a school data processing register under DPDP Act. Learn what to document, how to maintain the register, and why it is central to compliance."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "data processing register schools DPDP"
-secondary_keywords: ["DPDP data register", "school data inventory", "data mapping schools", "personal data register"]
-intent: "informational"
+secondary_keywords:
+  - "DPDP data register"
+  - "school data inventory"
+  - "data mapping schools"
+  - "personal data register"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
 ---
-
 A data processing register (also called a data inventory or Record of Processing Activities) documents every type of personal data a school collects, why it is collected, who processes it, how long it is kept, and how it is protected. Under DPDP Act 2023, this register is the foundation of the school's compliance framework.
 
 ## What the Data Processing Register Must Include

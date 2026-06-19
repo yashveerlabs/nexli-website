@@ -1,18 +1,21 @@
 ---
 title: "Student Success & Parent Involvement: The Research Evidence"
-slug: "student-success-parent-involvement-evidence"
+slug: "31-student-success-parent-involvement-evidence"
 meta_description: "Effective community partnership strategies for Indian schools. Learn how decades of research shows parent involvement correlates with student achievement. the question for schools is how to harness this powerful dynamic."
-category: "Community Partnership"
+category: "Parent Communication & Engagement"
 primary_keyword: "school community involvement"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Student Success & Parent Involvement: The Research Evidence
 
 Decades of research shows parent involvement correlates with student achievement. The question for schools is how to harness this powerful dynamic.

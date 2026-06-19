@@ -1,8 +1,8 @@
 ---
 title: "Enrollment Forecasting: Predicting School Demand and Capacity Planning"
-slug: "enrollment-forecasting-model-schools"
+slug: "97-enrollment-forecasting-model"
 meta_description: "Forecast school enrollment to plan capacity and drive targeted marketing. Learn forecasting models, demand signals, historical patterns, and data-driven planning."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school enrollment forecasting"
 secondary_keywords:
   - "school capacity planning"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Enrollment Forecasting: Predicting School Demand and Capacity Planning
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

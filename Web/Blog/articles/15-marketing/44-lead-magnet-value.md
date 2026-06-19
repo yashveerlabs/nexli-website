@@ -1,8 +1,8 @@
 ---
 title: "Lead Magnet: Offering Value to Capture Parent Contact"
-slug: "lead-magnet-value-schools"
+slug: "44-lead-magnet-value"
 meta_description: "Create lead magnets that capture parent contact information for school admissions. Learn what offers convert parents, landing page design, and follow-up sequences."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school lead magnet"
 secondary_keywords:
   - "parent lead generation"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Lead Magnet: Offering Value to Capture Parent Contact
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

@@ -1,18 +1,20 @@
 ---
 title: "State Board Inspection Process"
-slug: "state-board-inspection-process"
+slug: "81-state-board-inspection-process"
 meta_description: "State board inspection process for Indian schools: how school ERP maintains compliance records, staff documentation, and infrastructure readiness for inspections."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "state board inspection process school ERP India"
-secondary_keywords: ["state board inspection ERP", "school inspection readiness ERP", "state education inspection compliance", "school ERP inspection documentation India"]
+secondary_keywords:
+  - "state board inspection ERP"
+  - "school inspection readiness ERP"
+  - "state education inspection compliance"
+  - "school ERP inspection documentation India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## State Board Inspection Process
 

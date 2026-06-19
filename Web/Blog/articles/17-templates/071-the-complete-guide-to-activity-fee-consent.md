@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Activity Fee Consent
-slug: the-complete-guide-to-activity-fee-consent
-meta_description: The Complete Guide to Activity Fee Consent
-category: SOPs & Templates
-primary_keyword: activity fee consent
+title: "The Complete Guide to Activity Fee Consent"
+slug: "071-the-complete-guide-to-activity-fee-consent"
+meta_description: "The Complete Guide to Activity Fee Consent"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "activity fee consent"
 secondary_keywords:
-  - activity fee consent schools
-  - best practices activity fee consent
-  - activity fee consent strategy
-  - how to implement activity fee consent
-intent: informational
+  - "activity fee consent schools"
+  - "best practices activity fee consent"
+  - "activity fee consent strategy"
+  - "how to implement activity fee consent"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on activity fee consent for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

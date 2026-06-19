@@ -1,8 +1,8 @@
 ---
 title: "Social Media Content Calendar: Planning and Execution"
-slug: "social-media-calendar-schools"
+slug: "59-social-media-calendar"
 meta_description: "Create a social media content calendar for your school. Learn planning methodology, content batching, scheduling tools, and how to stay consistent year-round."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school social media calendar"
 secondary_keywords:
   - "school content planning"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Social Media Content Calendar: Planning and Execution
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

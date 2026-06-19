@@ -1,18 +1,21 @@
-﻿---
+---
 title: "DPDP Act & Parent Consent: Legal Compliance in Communication"
-slug: "dpdp-act-parent-consent-legal-compliance"
+slug: "56-dpdp-act-parent-consent-legal-compliance"
 meta_description: "Effective communication policy strategies for Indian schools. Learn how the dpdp act requires explicit parental consent for data collection and use. communication must explain consent requirements clearly."
-category: "Communication Policy"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication policy"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## DPDP Act & Parent Consent: Legal Compliance in Communication
 
 The DPDP Act requires explicit parental consent for data collection and use. Communication must explain consent requirements clearly.

@@ -1,20 +1,20 @@
 ---
 title: "Discounts for Multi-Campus Schools: Negotiating ERP Pricing"
-slug: "discounts-multi-campus-schools"
+slug: "10-discounts-multi-campus"
 meta_description: "Multi-campus school ERP discounts and volume pricing. How to negotiate pricing for school chains. Cost savings strategies."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "multi-campus school ERP discounts"
-secondary_keywords: ["school chain ERP pricing", "volume discounts school software", "multi-branch school management"]
-intent: "cost_comparison"
+secondary_keywords:
+  - "school chain ERP pricing"
+  - "volume discounts school software"
+  - "multi-branch school management"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 **Snippet:** Multi-campus schools typically receive 15–40% discounts on ERP licensing. Discounts depend on total student enrollment across campuses and willingness to standardize workflows. Chains with 5+ schools often negotiate to ₹1,50,000–₹3,00,000 annual cost across all branches.
 
 ## Why Chains Get Discounts

@@ -1,18 +1,21 @@
 ---
 title: "How to File a Sexual Harassment Complaint Under POSH Act in Schools"
-slug: "sexual-harassment-complaint-filing-schools"
+slug: "55-sexual-harassment-filing"
 meta_description: "Complete guide to filing a sexual harassment complaint under POSH Act 2013 in schools. Covers who can file, timelines, what to include, and what to expect after filing."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "sexual harassment complaint filing POSH schools"
-secondary_keywords: ["how to file POSH complaint school", "ICC complaint procedure", "sexual harassment school staff", "POSH complaint process India"]
-intent: "informational"
+secondary_keywords:
+  - "how to file POSH complaint school"
+  - "ICC complaint procedure"
+  - "sexual harassment school staff"
+  - "POSH complaint process India"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 A female employee at a school who experiences sexual harassment at work has the right to file a complaint with the school's Internal Complaints Committee (ICC) under the POSH Act 2013. The process is designed to be accessible and confidential.
 
 Schools must ensure every female employee knows this process and can access it without fear of retaliation.

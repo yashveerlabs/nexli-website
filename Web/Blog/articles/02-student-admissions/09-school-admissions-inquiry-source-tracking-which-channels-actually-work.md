@@ -1,22 +1,21 @@
-﻿---
+---
 title: "School Admissions Inquiry Source Tracking: Which Channels Actually Work"
-slug: school-admissions-inquiry-source-tracking-which-channels-actually-work
-meta_description: school admissions inquiry source tracking: which channels actually work. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: school admissions inquiry source tracking
+slug: "09-school-admissions-inquiry-source-tracking-which-channels-actually-work"
+meta_description: "school admissions inquiry source tracking: which channels actually work. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "school admissions inquiry source tracking"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article explores best practices for school admissions inquiry source tracking in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

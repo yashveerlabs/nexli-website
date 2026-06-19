@@ -1,18 +1,21 @@
 ---
 title: "Confidential Communication with Parents: Secure Channels and Protocols"
-slug: "confidential-parent-communication-secure"
+slug: "06-confidential-communication-secure"
 meta_description: "Manage confidential school-parent communication securely. Learn best practices for sensitive topics like discipline, medical issues, and financial matters."
-category: "Parent Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "confidential communication schools"
-secondary_keywords: ["secure parent communication", "sensitive school communications", "privacy protocols", "DPDP compliance"]
-intent: "informational"
+secondary_keywords:
+  - "secure parent communication"
+  - "sensitive school communications"
+  - "privacy protocols"
+  - "DPDP compliance"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Why Confidential Communication Requires Special Handling
 
 Schools frequently need to communicate sensitive information to parents: disciplinary action, medical concerns, financial hardship, learning disabilities, or behavioral issues. These conversations require secure channels, careful documentation, and strict confidentiality. A single breach, such as a sensitive email forwarded to others or a WhatsApp screenshot shared widely, can damage a student's reputation, violate privacy laws, and create legal liability.

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "How to Build a School Fee Collection Dashboard"
-slug: "build-school-fee-collection-dashboard"
+slug: "15-build-school-fee-collection-dashboard"
 meta_description: "Learn about how to build a school fee collection dashboard in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "how to build a school fee collection dashboard"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with how to build a school fee collection dashboard:

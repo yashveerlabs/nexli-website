@@ -1,19 +1,22 @@
 ---
 title: "Mentoring Programs for New Principals"
-slug: mentoring-programs-for-new-principals
-category: 9
-order: 76
-primary_keyword: "mentoring programs for new principals"
+slug: "76-mentoring-programs-for-new-principals"
 meta_description: "Design effective mentoring programs that accelerate new principal effectiveness and reduce isolation. A guide to mentor selection, program structure, and measuring impact."
-secondary_keywords: ["new principal support programs", "school leadership mentoring", "principal induction program", "first year principal mentoring"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "mentoring programs for new principals"
+secondary_keywords:
+  - "new principal support programs"
+  - "school leadership mentoring"
+  - "principal induction program"
+  - "first year principal mentoring"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
+order: 76
 ---
-
 # Mentoring Programs for New Principals
 
 Mentoring new principals accelerates their effectiveness. Formal programs ensure quality support.

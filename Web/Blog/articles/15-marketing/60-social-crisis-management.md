@@ -1,8 +1,8 @@
 ---
 title: "Social Media Crisis Management: Handling Negative Comments"
-slug: "social-media-crisis-management-schools"
+slug: "60-social-crisis-management"
 meta_description: "Handle social media crises and negative comments for your school. Learn response protocols, tone guidelines, and how to protect your school reputation online."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school social media crisis"
 secondary_keywords:
   - "school negative comments"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Social Media Crisis Management: Handling Negative Comments
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

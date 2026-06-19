@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Digital TC Verification: How Receiving Schools Can Verify Authenticity"
-slug: digital-tc-verification-how-receiving-schools-can-verify-authenticity
-meta_description: digital tc verification: how receiving schools can verify authenticity. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: digital tc verification
+slug: "67-digital-tc-verification-how-receiving-schools-can-verify-authenticity"
+meta_description: "digital tc verification: how receiving schools can verify authenticity. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "digital tc verification"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article explores best practices for digital tc verification in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

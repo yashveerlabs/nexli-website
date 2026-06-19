@@ -1,8 +1,8 @@
 ---
 title: "Gradebook and Marks Management: What to Evaluate in a School ERP"
-slug: "gradebook-and-marks-management"
+slug: "11-gradebook-and-marks-management"
 meta_description: "Evaluate school ERP gradebook features: multiple assessment types, auto-calculation, CBSE 9-point grades, NEP 2020 HPC, and marks aggregation accuracy."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP gradebook"
 secondary_keywords:
   - "marks management school ERP"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "NEP 2020 assessment ERP"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 ## Gradebook and Marks Management: What to Evaluate in a School ERP
 
 **A school ERP's gradebook is where academic data lives or dies. Poor marks management, incorrect aggregation, grade calculation errors, missed board-format requirements, creates report card crises at the end of every term. This guide explains what to evaluate before committing to any system.**

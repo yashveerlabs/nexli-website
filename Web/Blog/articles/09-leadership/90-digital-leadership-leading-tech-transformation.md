@@ -1,10 +1,9 @@
 ---
 title: "Digital Leadership: Leading Tech Transformation"
-slug: digital-leadership-leading-tech-transformation
-category: 9
-order: 90
-primary_keyword: "digital leadership in schools"
+slug: "90-digital-leadership-leading-tech-transformation"
 meta_description: "Technology is reshaping education. Learn how school principals can lead digital transformation strategically, from infrastructure and equity to cyber security and digital citizenship."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "digital leadership in schools"
 secondary_keywords:
   - "technology leadership for principals"
   - "edtech implementation in schools"
@@ -16,8 +15,8 @@ date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
+order: 90
 ---
-
 # Digital Leadership: Leading Tech Transformation
 
 Technology is reshaping education. Digital leaders navigate transformation strategically.

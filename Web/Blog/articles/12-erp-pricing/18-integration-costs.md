@@ -1,20 +1,20 @@
 ---
 title: "Integration Costs with Existing Systems: Bank, Accounting, Transport"
-slug: "integration-costs-existing-systems"
+slug: "18-integration-costs"
 meta_description: "ERP integration costs with bank, accounting software, transport systems. API integration expenses. Budget ₹50,000-₹2,00,000 per integration."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "integration costs school ERP"
-secondary_keywords: ["ERP system integration cost", "API integration school software", "third-party integration expenses"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "ERP system integration cost"
+  - "API integration school software"
+  - "third-party integration expenses"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 **Snippet:** ERP integration with existing systems (bank gateways, accounting software, transport apps) costs ₹50,000-₹2,00,000 per integration. Many schools have 3-5 integrations, totaling ₹2-8 lakhs. Choose ERPs with pre-built integrations to minimize custom development.
 
 ## Why Integrations Cost Money

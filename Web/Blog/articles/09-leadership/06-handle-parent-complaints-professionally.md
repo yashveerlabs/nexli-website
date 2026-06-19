@@ -1,19 +1,22 @@
 ---
 title: "Handle Parent Complaints Professionally"
-slug: handle-parent-complaints-professionally
-category: 9
-order: 6
-primary_keyword: "how to handle parent complaints in schools"
+slug: "06-handle-parent-complaints-professionally"
 meta_description: "A step-by-step guide for school principals to handle parent complaints professionally, from first response and investigation to resolution and follow-up documentation."
-secondary_keywords: ["parent complaint management schools", "principal parent communication", "school parent conflict resolution", "responding to parent grievances"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to handle parent complaints in schools"
+secondary_keywords:
+  - "parent complaint management schools"
+  - "principal parent communication"
+  - "school parent conflict resolution"
+  - "responding to parent grievances"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
+order: 6
 ---
-
 # Handle Parent Complaints Professionally
 
 Parent complaints are inevitable in school leadership. How you respond determines whether complaints become learning opportunities or grow into major conflicts.

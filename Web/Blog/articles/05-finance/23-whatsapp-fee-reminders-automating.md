@@ -1,18 +1,21 @@
-﻿---
+---
 title: "WhatsApp Fee Reminders: Automating Parent Notifications"
-slug: "whatsapp-fee-reminders-automating"
+slug: "23-whatsapp-fee-reminders-automating"
 meta_description: "Learn about whatsapp fee reminders: automating parent notifications in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "whatsapp fee reminders: automating parent notifications"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with whatsapp fee reminders: automating parent notifications:

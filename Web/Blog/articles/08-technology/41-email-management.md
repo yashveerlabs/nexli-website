@@ -1,18 +1,21 @@
 ---
 title: "School Email Management: Domain Setup, Staff Policies, Retention, and DPDP Compliance"
-slug: "email-management"
+slug: "41-email-management"
 meta_description: "A school email system with a verified domain projects professionalism and enables better security controls. Learn setup, staff policies, spam filtering, and DPDP Act compliance."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school email management"
-secondary_keywords: ["school email domain setup", "staff email policy school", "school email retention policy", "DPDP email compliance school"]
-intent: "informational"
+secondary_keywords:
+  - "school email domain setup"
+  - "staff email policy school"
+  - "school email retention policy"
+  - "DPDP email compliance school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Why School Email Management Deserves a Formal Approach
 
 School email management is frequently informal: teachers use personal Gmail or Yahoo accounts for school communications, the principal's email is admin@gmail.com, and school notices go out from whichever staff member's phone had signal that day. This approach creates security risks, professionalism gaps, and compliance problems.

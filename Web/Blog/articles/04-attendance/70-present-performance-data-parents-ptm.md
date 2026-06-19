@@ -1,18 +1,21 @@
-﻿---
+---
 title: "How to Present Performance Data to Parents at PTM"
-slug: "present-performance-data-parents-ptm"
+slug: "70-present-performance-data-parents-ptm"
 meta_description: "Learn about how to present performance data to parents at ptm in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "how to present performance data to parents at ptm"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with how to present performance data to parents at ptm:

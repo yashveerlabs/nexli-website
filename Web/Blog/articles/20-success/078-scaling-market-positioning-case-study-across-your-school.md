@@ -1,22 +1,21 @@
 ---
-title: Scaling Market Positioning Case Study Across Your School
-slug: scaling-market-positioning-case-study-across-your-school
-meta_description: Scaling Market Positioning Case Study Across Your School
-category: Success Stories & Cases
-primary_keyword: market positioning case study
+title: "Scaling Market Positioning Case Study Across Your School"
+slug: "078-scaling-market-positioning-case-study-across-your-school"
+meta_description: "Scaling Market Positioning Case Study Across Your School"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "market positioning case study"
 secondary_keywords:
-  - market positioning case study schools
-  - best practices market positioning case study
-  - market positioning case study strategy
-  - how to implement market positioning case study
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "market positioning case study schools"
+  - "best practices market positioning case study"
+  - "market positioning case study strategy"
+  - "how to implement market positioning case study"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on market positioning case study for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

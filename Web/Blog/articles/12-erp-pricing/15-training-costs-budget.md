@@ -1,20 +1,20 @@
-﻿---
+---
 title: "Training Costs: What to Budget for Staff and Leadership"
-slug: "training-costs-budget"
+slug: "15-training-costs-budget"
 meta_description: "School ERP training costs for staff and leadership. Role-based training budgets, timelines, and strategies to improve adoption."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "ERP training costs schools"
-secondary_keywords: ["staff training school software", "teacher training ERP", "change management training cost"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "staff training school software"
+  - "teacher training ERP"
+  - "change management training cost"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 # Training Costs: What to Budget for Staff and Leadership
 
 A principal at a 600-student school in Bangalore received a new ERP system on July 15th. The vendor provided a two-day training for IT staff and administrators. Teachers returned two weeks later for a four-hour in-service training. By August 20th, when the system went live, most teachers had used it for four hours total. When the first week of school began, confusion erupted. Teachers couldn't find attendance records. Administrators couldn't generate fee receipts. Students received incorrect report cards. The principal's first thought: "The system is broken." The reality: the system was fine, but **training costs** were inadequate. Staff lacked hands-on practice, role-specific guidance, and ongoing support.

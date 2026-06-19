@@ -1,18 +1,21 @@
 ---
 title: "CBSE Affiliation: Complete Compliance Guide for Schools"
-slug: "cbse-affiliation-compliance-guide"
+slug: "01-cbse-affiliation-guide"
 meta_description: "Master CBSE affiliation requirements and compliance. Learn inspection checklists, documentation standards, and how to maintain affiliation status."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "CBSE affiliation compliance"
-secondary_keywords: ["CBSE inspection", "school affiliation requirements", "CBSE bylaws", "compliance documentation"]
-intent: "informational"
+secondary_keywords:
+  - "CBSE inspection"
+  - "school affiliation requirements"
+  - "CBSE bylaws"
+  - "compliance documentation"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## What CBSE Affiliation Means
 
 Central Board of Secondary Education (CBSE) affiliation is a credential that legitimizes a school and provides access to CBSE curriculum, exams, and certification. Without affiliation, schools cannot conduct Board Exams (Class 10 and 12), and their certificates have limited value. CBSE affiliation is not a one-time approval; it's an ongoing compliance status that requires schools to meet strict standards in infrastructure, curriculum, staffing, and documentation.

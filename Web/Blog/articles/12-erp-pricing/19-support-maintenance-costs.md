@@ -1,20 +1,20 @@
-﻿---
+---
 title: "Support and Maintenance Costs for School ERP"
-slug: "support-maintenance-costs"
+slug: "19-support-maintenance-costs"
 meta_description: "School ERP support and maintenance costs. Support tiers, response times, maintenance budgets. What's included vs. extra in your annual fee."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "support maintenance costs school ERP"
-secondary_keywords: ["ERP support tiers schools", "school software maintenance cost", "ERP annual support budget"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "ERP support tiers schools"
+  - "school software maintenance cost"
+  - "ERP annual support budget"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 # Support and Maintenance Costs
 
 A principal asked their ERP vendor: "What's included in the Rs. 50,000 annual license fee?" The vendor said: "Licensing, bug fixes, and technical support during business hours." The principal assumed unlimited support was included. During the first month of school, when critical issues arose, attendance reports weren't generating correctly, fee receipts had formatting errors, the principal called support repeatedly. The vendor responded: "Premium support includes unlimited calls. Your license includes 10 support tickets per month." The principal hadn't budgeted for premium support (Rs. 20,000 annually). When exam time arrived and the gradebook crashed, they needed emergency support (Rs. 5,000 for after-hours assistance). The principal realized: **support and maintenance costs** aren't always included in the headline licensing fee.

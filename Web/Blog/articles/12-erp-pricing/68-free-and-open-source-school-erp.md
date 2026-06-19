@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Free and Open-Source School ERP"
-slug: "free-and-open-source-school-erp"
+slug: "68-free-and-open-source-school-erp"
 meta_description: "Free and Open-Source School ERP"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "free"
-secondary_keywords: ["and", "open-source", "school", "erp"]
+secondary_keywords:
+  - "and"
+  - "open-source"
+  - "school"
+  - "erp"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Free and Open-Source School ERP
 

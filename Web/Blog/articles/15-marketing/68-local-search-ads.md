@@ -1,8 +1,8 @@
 ---
-title: "Local Search Ads: \"School Near Me\" Optimization"
-slug: "local-search-ads-schools"
+title: "Local Search Ads: \\"School Near Me\\" Optimization"
+slug: "68-local-search-ads"
 meta_description: "Win local search ads for 'school near me' queries and drive admissions inquiries. Learn Google Local Search Ads setup, optimization, and budget management for schools."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "local search ads school"
 secondary_keywords:
   - "school near me ads"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Local Search Ads: "School Near Me" Optimization
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

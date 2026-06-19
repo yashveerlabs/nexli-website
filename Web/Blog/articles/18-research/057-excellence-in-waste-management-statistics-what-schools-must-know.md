@@ -1,22 +1,21 @@
 ---
-title: Excellence in Waste Management Statistics: What Schools Must Know
-slug: excellence-in-waste-management-statistics-what-schools-must-know
-meta_description: Excellence in Waste Management Statistics: What Schools M...
-category: Research & Statistics
-primary_keyword: waste management statistics
+title: "Excellence in Waste Management Statistics: What Schools Must Know"
+slug: "057-excellence-in-waste-management-statistics-what-schools-must-know"
+meta_description: "Excellence in Waste Management Statistics: What Schools M..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "waste management statistics"
 secondary_keywords:
-  - waste management statistics schools
-  - best practices waste management statistics
-  - waste management statistics strategy
-  - how to implement waste management statistics
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "waste management statistics schools"
+  - "best practices waste management statistics"
+  - "waste management statistics strategy"
+  - "how to implement waste management statistics"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on waste management statistics for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

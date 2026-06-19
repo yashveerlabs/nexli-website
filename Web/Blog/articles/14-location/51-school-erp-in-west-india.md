@@ -1,18 +1,20 @@
 ---
 title: "School ERP in West India"
-slug: "school-erp-in-west-india"
+slug: "51-school-erp-in-west-india"
 meta_description: "School ERP in West India: cloud-based school management for Gujarat, Maharashtra, Goa, and Rajasthan schools with state board and CBSE compliance."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP West India"
-secondary_keywords: ["school management West India", "West India GSEB Maharashtra ERP", "school software Gujarat Rajasthan Goa", "school ERP Ahmedabad Mumbai Pune"]
+secondary_keywords:
+  - "school management West India"
+  - "West India GSEB Maharashtra ERP"
+  - "school software Gujarat Rajasthan Goa"
+  - "school ERP Ahmedabad Mumbai Pune"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## School ERP in West India
 

@@ -1,18 +1,20 @@
 ---
 title: "UPI Integration for School Fee Collection: How It Works and How to Reconcile It"
-slug: "upi-integration"
+slug: "64-upi-integration"
 meta_description: "UPI integration for school fees lets parents pay via QR codes and payment links. Learn how UPI works, how to reconcile payments, handle refunds, and what net banking adds."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "UPI integration for school fees"
-secondary_keywords: ["school UPI payment", "fee collection QR code", "online school fee payment"]
-intent: "informational"
+secondary_keywords:
+  - "school UPI payment"
+  - "fee collection QR code"
+  - "online school fee payment"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## UPI for School Fee Collection: A Practical Guide
 
 UPI integration for school fee collection is now standard practice for most Indian schools that have moved to digital payments. Parents are already using UPI (Google Pay, PhonePe, Paytm, BHIM) for everyday transactions; accepting school fees through the same channel reduces friction significantly compared to cheque or cash payment.

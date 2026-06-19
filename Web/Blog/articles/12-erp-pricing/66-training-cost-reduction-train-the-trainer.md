@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Training Cost Reduction: Train-the-Trainer"
-slug: "training-cost-reduction-train-the-trainer"
+slug: "66-training-cost-reduction-train-the-trainer"
 meta_description: "Training Cost Reduction: Train-the-Trainer"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "training"
-secondary_keywords: ["cost", "reduction:", "train-the-trainer", "school"]
+secondary_keywords:
+  - "cost"
+  - "reduction:"
+  - "train-the-trainer"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Training Cost Reduction: Train-the-Trainer
 

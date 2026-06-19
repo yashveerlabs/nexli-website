@@ -1,18 +1,20 @@
-﻿---
+---
 title: "How to Reduce Chronic Absenteeism in Your School"
-slug: "reduce-chronic-absenteeism-strategy"
+slug: "04-reduce-chronic-absenteeism"
 meta_description: "Reduce chronic absenteeism through targeted strategies. Identify root causes and implement interventions to improve student attendance."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "reduce chronic absenteeism students"
-secondary_keywords: ["absenteeism intervention", "attendance improvement", "truancy prevention"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "absenteeism intervention"
+  - "attendance improvement"
+  - "truancy prevention"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Chronic Absenteeism Crisis
 
 While most students attend regularly, a small subset chronically absent (missing 20%+ of school year). These students:

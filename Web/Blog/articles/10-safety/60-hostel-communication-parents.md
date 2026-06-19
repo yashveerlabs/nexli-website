@@ -1,22 +1,21 @@
-﻿---
-title: Hostel Communication with Parents
-slug: hostel-communication-parents
-meta_description: Comprehensive guide to hostel communication with parents for school administrators and leaders.
-category: School Safety, Transport, Hostel, Medical & Campus Operations
-primary_keyword: parent communication
+---
+title: "Hostel Communication with Parents"
+slug: "60-hostel-communication-parents"
+meta_description: "Comprehensive guide to hostel communication with parents for school administrators and leaders."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "parent communication"
 secondary_keywords:
-  - school safety
-  - parent communication
-  - school operations
-  - campus safety
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school safety"
+  - "parent communication"
+  - "school operations"
+  - "campus safety"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This comprehensive guide covers essential strategies and best practices for hostel communication with parents.

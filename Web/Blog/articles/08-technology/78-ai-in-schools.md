@@ -1,18 +1,21 @@
 ---
 title: "AI in Schools: What Is Working, What Is Hype"
-slug: "ai-in-schools"
+slug: "78-ai-in-schools"
 meta_description: "A clear-eyed look at AI applications in education: what works today (MCQ grading, anomaly detection), what is overpromised, and how school leaders should evaluate AI claims."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "AI in schools India"
-secondary_keywords: ["artificial intelligence education", "EdTech AI tools", "AI school management", "adaptive learning technology"]
-intent: "informational"
+secondary_keywords:
+  - "artificial intelligence education"
+  - "EdTech AI tools"
+  - "AI school management"
+  - "adaptive learning technology"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## AI in Schools: Separating What Works from What Does Not
 
 Artificial intelligence has entered education at every level, from marketing pitches on EdTech brochures to actual tools teachers use daily. School leaders need a clear picture of what AI can reliably do in educational settings today, what remains experimental, and what is being oversold.

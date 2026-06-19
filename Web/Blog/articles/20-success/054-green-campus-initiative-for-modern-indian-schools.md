@@ -1,22 +1,21 @@
 ---
-title: Green Campus Initiative for Modern Indian Schools
-slug: green-campus-initiative-for-modern-indian-schools
-meta_description: Green Campus Initiative for Modern Indian Schools
-category: Success Stories & Cases
-primary_keyword: green campus initiative
+title: "Green Campus Initiative for Modern Indian Schools"
+slug: "054-green-campus-initiative-for-modern-indian-schools"
+meta_description: "Green Campus Initiative for Modern Indian Schools"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "green campus initiative"
 secondary_keywords:
-  - green campus initiative schools
-  - best practices green campus initiative
-  - green campus initiative strategy
-  - how to implement green campus initiative
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "green campus initiative schools"
+  - "best practices green campus initiative"
+  - "green campus initiative strategy"
+  - "how to implement green campus initiative"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on green campus initiative for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,18 +1,21 @@
 ---
 title: "Policy Updates in Schools: How to Review, Revise, and Communicate Changes"
-slug: "policy-updates-schools"
+slug: "105-policy-updates"
 meta_description: "Manage policy updates in your school effectively. Covers policy review triggers, approval process, version control, communication to staff and parents, and documentation."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "school policy updates management"
-secondary_keywords: ["school policy review process", "updating school policies", "policy version control school", "communicating policy changes school"]
-intent: "informational"
+secondary_keywords:
+  - "school policy review process"
+  - "updating school policies"
+  - "policy version control school"
+  - "communicating policy changes school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 17
 branding_block_company: 17
 branding_block_nexli: 17
 ---
-
 School policies are not permanent documents. They must be updated when laws change, when inspections find gaps, when incidents reveal policy failures, or when the school's context changes significantly. A school with outdated policies is exposed to regulatory non-compliance and liability. A school with policies that are updated but not communicated is in only marginally better shape.
 
 Policy management is an ongoing cycle: draft, approve, communicate, implement, review, update.

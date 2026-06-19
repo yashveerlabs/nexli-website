@@ -1,18 +1,21 @@
 ---
 title: "Board Secretary in Schools: Responsibilities and Governance Functions"
-slug: "board-secretary-school-governance"
+slug: "90-board-secretary-role"
 meta_description: "Understand the Board Secretary's role in school governance. Covers statutory filing, meeting management, minutes, trustee records, and compliance support functions."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "board secretary school governance India"
-secondary_keywords: ["school secretary governance", "trust secretary school India", "school management secretary duties", "governance secretary school"]
-intent: "informational"
+secondary_keywords:
+  - "school secretary governance"
+  - "trust secretary school India"
+  - "school management secretary duties"
+  - "governance secretary school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 The Board Secretary (also called the School Secretary, Trust Secretary, or Society Secretary) is the officer responsible for the administrative and governance functions of the school's managing body. This is a different role from the school's administrative manager, the Board Secretary serves the governing board, not the school's operational management.
 
 ## Key Responsibilities

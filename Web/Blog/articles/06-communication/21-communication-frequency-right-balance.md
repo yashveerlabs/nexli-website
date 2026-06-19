@@ -1,18 +1,21 @@
 ---
 title: "Communication Frequency: Finding the Right Balance"
-slug: "communication-frequency-right-balance"
+slug: "21-communication-frequency-right-balance"
 meta_description: "Effective parent engagement strategies for Indian schools. Learn how too much communication overwhelms parents; too little leaves them uninformed. strategic frequency planning ensures parents feel connected without message fatigue."
-category: "Parent Engagement"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent engagement communication"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Communication Frequency: Finding the Right Balance
 
 Too much communication overwhelms parents; too little leaves them uninformed. Strategic frequency planning ensures parents feel connected without message fatigue.

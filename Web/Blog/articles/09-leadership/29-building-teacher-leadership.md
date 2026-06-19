@@ -1,19 +1,22 @@
 ---
 title: "Building Teacher Leadership"
-slug: building-teacher-leadership
-category: 9
-order: 29
-primary_keyword: "building teacher leadership"
+slug: "29-building-teacher-leadership"
 meta_description: "How school principals can identify, develop, and sustain teacher leaders who multiply impact, improve retention, and build a lasting pipeline of school improvement."
-secondary_keywords: ["teacher leadership development", "distributed leadership in schools", "teacher leader roles", "school leadership pipeline"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "building teacher leadership"
+secondary_keywords:
+  - "teacher leadership development"
+  - "distributed leadership in schools"
+  - "teacher leader roles"
+  - "school leadership pipeline"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 9
 branding_block_company: 9
 branding_block_nexli: 9
+order: 29
 ---
-
 # Building Teacher Leadership
 
 Teacher leaders multiply your leadership capacity and create sustainable improvement. Building leadership throughout your school is essential to school excellence.

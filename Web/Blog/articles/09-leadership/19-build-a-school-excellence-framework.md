@@ -1,19 +1,22 @@
 ---
 title: "Build a School Excellence Framework"
-slug: build-a-school-excellence-framework
-category: 9
-order: 19
-primary_keyword: "school excellence framework"
+slug: "19-build-a-school-excellence-framework"
 meta_description: "How to build a school excellence framework that defines what great teaching, leadership, and operations look like, guiding hiring, evaluation, and professional development."
-secondary_keywords: ["school performance framework", "teaching excellence standards", "principal leadership competencies", "school quality framework"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "school excellence framework"
+secondary_keywords:
+  - "school performance framework"
+  - "teaching excellence standards"
+  - "principal leadership competencies"
+  - "school quality framework"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 19
 branding_block_company: 19
 branding_block_nexli: 19
+order: 19
 ---
-
 # Build a School Excellence Framework
 
 An excellence framework defines what great looks like at your school. It guides hiring, evaluation, professional development, and decision-making. Without it, "excellence" is subjective and inconsistently applied.

@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Building an Alumni Mentorship Program"
-slug: building-an-alumni-mentorship-program
-meta_description: building an alumni mentorship program. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: building an alumni mentorship program
+slug: "76-building-an-alumni-mentorship-program"
+meta_description: "building an alumni mentorship program. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "building an alumni mentorship program"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for building an alumni mentorship program in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

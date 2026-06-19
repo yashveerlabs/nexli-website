@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Intangible Benefits: How to Quantify"
-slug: "intangible-benefits-how-to-quantify"
+slug: "38-intangible-benefits-how-to-quantify"
 meta_description: "Intangible Benefits: How to Quantify"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "intangible"
-secondary_keywords: ["benefits:", "how", "to", "quantify"]
+secondary_keywords:
+  - "benefits:"
+  - "how"
+  - "to"
+  - "quantify"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Intangible Benefits: How to Quantify
 

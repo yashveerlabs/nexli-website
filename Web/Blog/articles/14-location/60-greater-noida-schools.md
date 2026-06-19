@@ -1,18 +1,20 @@
 ---
 title: "Greater Noida Schools"
-slug: "greater-noida-schools"
+slug: "60-greater-noida-schools"
 meta_description: "School ERP in Greater Noida: cloud-based school management for planned township schools in Uttar Pradesh with CBSE compliance and parent digital access."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Greater Noida"
-secondary_keywords: ["school management system Greater Noida", "Greater Noida school software", "NCR school ERP Greater Noida", "best ERP Greater Noida schools"]
+secondary_keywords:
+  - "school management system Greater Noida"
+  - "Greater Noida school software"
+  - "NCR school ERP Greater Noida"
+  - "best ERP Greater Noida schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Greater Noida Schools
 

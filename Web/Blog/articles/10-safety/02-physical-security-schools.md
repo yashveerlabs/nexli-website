@@ -1,8 +1,8 @@
 ---
 title: "Physical Security for Schools: Access Control and Perimeter Protection"
-slug: "physical-security-schools-access-control"
+slug: "02-physical-security-schools"
 meta_description: "Build effective physical security for your school. Learn about access control, perimeter protection, and visitor management strategies."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school physical security"
 secondary_keywords:
   - "school access control"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Physical Security for Schools: Access Control and Perimeter Protection
 
 **Physical security is the first line of defense against unauthorized access, theft, and harm. Without it, anyone can walk into your school, and that's a risk you can't take. This guide walks you through building a secure perimeter, managing access points, controlling visitor flow, and maintaining security protocols that don't feel like a prison but keep your campus safe. The goal: a school where students and staff feel secure, parents trust the environment, and threats are minimized.**

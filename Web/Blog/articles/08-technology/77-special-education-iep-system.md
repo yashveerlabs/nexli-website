@@ -1,18 +1,21 @@
 ---
 title: "IEP Management in Schools: Technology for Special Education"
-slug: "special-education-iep-system"
+slug: "77-special-education-iep-system"
 meta_description: "How schools manage Individualized Education Programs digitally: IEP documentation, therapy scheduling, CwSN register, progress tracking, and RPWD Act compliance."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "IEP management system schools"
-secondary_keywords: ["special education software India", "CwSN register", "RPWD Act school compliance", "SPED module ERP"]
-intent: "informational"
+secondary_keywords:
+  - "special education software India"
+  - "CwSN register"
+  - "RPWD Act school compliance"
+  - "SPED module ERP"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## What IEP Management Technology Does for Schools
 
 An Individualized Education Program is a legally recognized document that specifies the educational goals, support services, and accommodations a student with a disability needs in order to access appropriate education. Managing IEPs on paper in binders creates serious problems: files get lost, updates are undocumented, therapy logs are separated from the education plan, and when the child moves to a new class or school the history is incomplete.

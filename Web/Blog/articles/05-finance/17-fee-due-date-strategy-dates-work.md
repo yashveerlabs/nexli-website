@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Fee Due Date Strategy: Which Dates Actually Work?"
-slug: "fee-due-date-strategy-dates-work"
+slug: "17-fee-due-date-strategy-dates-work"
 meta_description: "Learn about fee due date strategy: which dates actually work? in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "fee due date strategy: which dates actually work?"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with fee due date strategy: which dates actually work?:

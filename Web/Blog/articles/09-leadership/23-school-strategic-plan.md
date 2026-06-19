@@ -1,8 +1,8 @@
 ---
 title: "School Strategic Plan: Building Your School's Long-Term Vision and Direction"
-slug: "school-strategic-plan"
+slug: "23-school-strategic-plan"
 meta_description: "Learn to build a comprehensive strategic plan for your school. Create a vision-driven roadmap for 3-5 years that aligns staff, board, and parents."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "school strategic plan"
 secondary_keywords:
   - "strategic planning for schools"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## School Strategic Plan: Building Your School's Long-Term Vision and Direction
 
 **Strategic planning is how you move from reactive (fighting daily fires) to proactive (building toward a vision). Without a plan, your school drifts. With a plan, you align staff, board, and parents around shared direction. This article teaches you how to develop a strategic plan that is ambitious but achievable, inspirational but grounded in reality.**

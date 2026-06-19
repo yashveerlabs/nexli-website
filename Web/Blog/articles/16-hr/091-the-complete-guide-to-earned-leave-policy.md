@@ -1,22 +1,21 @@
-﻿---
-title: The Complete Guide to Earned Leave Policy
-slug: the-complete-guide-to-earned-leave-policy
-meta_description: The Complete Guide to Earned Leave Policy
-category: HR & Recruitment
-primary_keyword: earned leave policy
+---
+title: "The Complete Guide to Earned Leave Policy"
+slug: "091-the-complete-guide-to-earned-leave-policy"
+meta_description: "The Complete Guide to Earned Leave Policy"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "earned leave policy"
 secondary_keywords:
-  - earned leave policy schools
-  - best practices earned leave policy
-  - earned leave policy strategy
-  - how to implement earned leave policy
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "earned leave policy schools"
+  - "best practices earned leave policy"
+  - "earned leave policy strategy"
+  - "how to implement earned leave policy"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on earned leave policy for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

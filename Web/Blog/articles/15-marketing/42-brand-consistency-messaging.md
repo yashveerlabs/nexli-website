@@ -1,8 +1,8 @@
 ---
 title: "Brand Consistency: Same Message Everywhere"
-slug: "brand-consistency-messaging"
+slug: "42-brand-consistency-messaging"
 meta_description: "Achieve brand consistency across all school communications. Learn how to define messaging guidelines, train staff, and ensure consistent parent experience."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school brand consistency"
 secondary_keywords:
   - "school messaging guidelines"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Brand Consistency: Same Message Everywhere
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

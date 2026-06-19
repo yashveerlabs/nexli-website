@@ -1,22 +1,21 @@
 ---
-title: The Substance Abuse Prevention Data Playbook: Implementation Guide
-slug: the-substance-abuse-prevention-data-playbook-implementation-guide
-meta_description: The Substance Abuse Prevention Data Playbook: Implementat...
-category: Research & Statistics
-primary_keyword: substance abuse prevention data
+title: "The Substance Abuse Prevention Data Playbook: Implementation Guide"
+slug: "016-the-substance-abuse-prevention-data-playbook-implementation-guide"
+meta_description: "The Substance Abuse Prevention Data Playbook: Implementat..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "substance abuse prevention data"
 secondary_keywords:
-  - substance abuse prevention data schools
-  - best practices substance abuse prevention data
-  - substance abuse prevention data strategy
-  - how to implement substance abuse prevention data
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "substance abuse prevention data schools"
+  - "best practices substance abuse prevention data"
+  - "substance abuse prevention data strategy"
+  - "how to implement substance abuse prevention data"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on substance abuse prevention data for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

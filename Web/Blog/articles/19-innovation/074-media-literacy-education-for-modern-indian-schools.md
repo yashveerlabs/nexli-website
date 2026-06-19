@@ -1,22 +1,21 @@
-﻿---
-title: Media Literacy Education for Modern Indian Schools
-slug: media-literacy-education-for-modern-indian-schools
-meta_description: Media Literacy Education for Modern Indian Schools
-category: Innovation & AI
-primary_keyword: media literacy education
+---
+title: "Media Literacy Education for Modern Indian Schools"
+slug: "074-media-literacy-education-for-modern-indian-schools"
+meta_description: "Media Literacy Education for Modern Indian Schools"
+category: "Education Innovation, AI & Future"
+primary_keyword: "media literacy education"
 secondary_keywords:
-  - media literacy education schools
-  - best practices media literacy education
-  - media literacy education strategy
-  - how to implement media literacy education
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "media literacy education schools"
+  - "best practices media literacy education"
+  - "media literacy education strategy"
+  - "how to implement media literacy education"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on media literacy education for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

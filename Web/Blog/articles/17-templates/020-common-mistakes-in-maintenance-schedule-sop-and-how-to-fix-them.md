@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Maintenance Schedule Sop (And How to Fix Them)
-slug: common-mistakes-in-maintenance-schedule-sop-and-how-to-fix-them
-meta_description: Common Mistakes in Maintenance Schedule Sop (And How to F...
-category: SOPs & Templates
-primary_keyword: maintenance schedule SOP
+title: "Common Mistakes in Maintenance Schedule Sop (And How to Fix Them)"
+slug: "020-common-mistakes-in-maintenance-schedule-sop-and-how-to-fix-them"
+meta_description: "Common Mistakes in Maintenance Schedule Sop (And How to F..."
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "maintenance schedule SOP"
 secondary_keywords:
-  - maintenance schedule SOP schools
-  - best practices maintenance schedule SOP
-  - maintenance schedule SOP strategy
-  - how to implement maintenance schedule SOP
-intent: informational
+  - "maintenance schedule SOP schools"
+  - "best practices maintenance schedule SOP"
+  - "maintenance schedule SOP strategy"
+  - "how to implement maintenance schedule SOP"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on maintenance schedule sop for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

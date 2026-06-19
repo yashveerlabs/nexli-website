@@ -1,18 +1,21 @@
 ---
 title: "How to Create a Parent Information Portal for Your School"
-slug: "parent-information-portal-guide"
+slug: "05-parent-information-portal"
 meta_description: "Build a parent information portal. Learn what features to include, how to design for parents, and best practices for managing access and security."
-category: "Parent Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent information portal"
-secondary_keywords: ["parent access portal", "school portal features", "parent engagement", "online school information"]
-intent: "informational"
+secondary_keywords:
+  - "parent access portal"
+  - "school portal features"
+  - "parent engagement"
+  - "online school information"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Why Schools Need a Parent Information Portal
 
 A parent information portal is the hub of parent engagement. Instead of scattering information across emails, WhatsApp groups, and printed letters, a parent portal centralizes everything: your child's attendance, grades, homework, fees, announcements, and important dates. Parents log in once and see all information relevant to their child. Schools gain a single source of truth, audit trails, and proof of communication.

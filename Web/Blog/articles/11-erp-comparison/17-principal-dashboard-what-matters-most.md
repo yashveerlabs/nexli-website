@@ -1,8 +1,8 @@
 ---
 title: "Principal Dashboard: What Matters Most in a School ERP"
-slug: "principal-dashboard-what-matters-most"
+slug: "17-principal-dashboard-what-matters-most"
 meta_description: "What a principal needs from a school ERP dashboard: attendance overview, fee collection KPIs, at-risk students, compliance calendar, and real-time school health."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP principal dashboard"
 secondary_keywords:
   - "principal school management software"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school operations dashboard"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 ## Principal Dashboard: What Matters Most in a School ERP
 
 **A principal is the operating system of a school, responsible for seeing everything, knowing what needs attention, and acting before problems become crises. The principal dashboard in a school ERP must surface the right information in two minutes without requiring the principal to run reports or navigate deep into modules. This guide explains what matters most.**

@@ -1,18 +1,20 @@
 ---
 title: "Indian Franchises of Global Schools"
-slug: "indian-franchises-of-global-schools"
+slug: "79-indian-franchises-of-global-schools"
 meta_description: "School ERP for Indian franchises of global schools: managing IB and IGCSE curriculum schools in India with compliance, parent portals, and multi-campus support."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "Indian franchise international school ERP"
-secondary_keywords: ["franchise school ERP India", "IB IGCSE franchise school management", "global school India ERP", "international school chain ERP India"]
+secondary_keywords:
+  - "franchise school ERP India"
+  - "IB IGCSE franchise school management"
+  - "global school India ERP"
+  - "international school chain ERP India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Indian Franchises of Global Schools
 

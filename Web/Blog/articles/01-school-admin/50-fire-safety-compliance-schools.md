@@ -1,22 +1,21 @@
 ---
-title: Fire Safety Compliance in Schools
-slug: fire-safety-compliance-schools
-meta_description: Build and maintain fire safety systems, training, and audit documentation.
-category: School Administration & Operations
-primary_keyword: fire safety compliance schools
+title: "Fire Safety Compliance in Schools"
+slug: "50-fire-safety-compliance-schools"
+meta_description: "Build and maintain fire safety systems, training, and audit documentation."
+category: "School Administration & Operations"
+primary_keyword: "fire safety compliance schools"
 secondary_keywords:
-  - Fire Safety Compliance Schools
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Fire Safety Compliance Schools"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Fire Safety Compliance in Schools
 
 Fire safety compliance is a critical operational area that impacts school safety, compliance, and stakeholder confidence. Schools that maintain fire safety systems, training records, and audit documentation report significant improvements in readiness, consistency, and accountability.

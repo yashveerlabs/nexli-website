@@ -1,22 +1,21 @@
 ---
-title: Why Autism Spectrum Assessment Matters for Schools
-slug: why-autism-spectrum-assessment-matters-for-schools
-meta_description: Why Autism Spectrum Assessment Matters for Schools
-category: Research & Statistics
-primary_keyword: autism spectrum assessment
+title: "Why Autism Spectrum Assessment Matters for Schools"
+slug: "083-why-autism-spectrum-assessment-matters-for-schools"
+meta_description: "Why Autism Spectrum Assessment Matters for Schools"
+category: "School Research, Statistics & Reports"
+primary_keyword: "autism spectrum assessment"
 secondary_keywords:
-  - autism spectrum assessment schools
-  - best practices autism spectrum assessment
-  - autism spectrum assessment strategy
-  - how to implement autism spectrum assessment
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "autism spectrum assessment schools"
+  - "best practices autism spectrum assessment"
+  - "autism spectrum assessment strategy"
+  - "how to implement autism spectrum assessment"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on autism spectrum assessment for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Document Locker for Students: Secure Storage for Important Files"
-slug: document-locker-for-students-secure-storage-for-important-files
-meta_description: document locker for students: secure storage for important files. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: document locker for students
+slug: "59-document-locker-for-students-secure-storage-for-important-files"
+meta_description: "document locker for students: secure storage for important files. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "document locker for students"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article explores best practices for document locker for students in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

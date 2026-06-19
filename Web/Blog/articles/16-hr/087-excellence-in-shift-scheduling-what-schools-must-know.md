@@ -1,22 +1,21 @@
-﻿---
-title: Excellence in Shift Scheduling: What Schools Must Know
-slug: excellence-in-shift-scheduling-what-schools-must-know
-meta_description: Excellence in Shift Scheduling: What Schools Must Know
-category: HR & Recruitment
-primary_keyword: shift scheduling
+---
+title: "Excellence in Shift Scheduling: What Schools Must Know"
+slug: "087-excellence-in-shift-scheduling-what-schools-must-know"
+meta_description: "Excellence in Shift Scheduling: What Schools Must Know"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "shift scheduling"
 secondary_keywords:
-  - shift scheduling schools
-  - best practices shift scheduling
-  - shift scheduling strategy
-  - how to implement shift scheduling
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "shift scheduling schools"
+  - "best practices shift scheduling"
+  - "shift scheduling strategy"
+  - "how to implement shift scheduling"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on shift scheduling for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

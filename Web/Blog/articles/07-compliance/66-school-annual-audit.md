@@ -1,18 +1,21 @@
 ---
 title: "School Annual Audit: Financial Compliance for Educational Institutions"
-slug: "school-annual-audit-compliance"
+slug: "66-school-annual-audit"
 meta_description: "Complete guide to the school annual audit process. Covers statutory audit requirements, documents needed, audit timeline, common findings, and board oversight."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "school annual audit compliance India"
-secondary_keywords: ["school financial audit", "educational institution audit", "school accounts audit India", "statutory audit school"]
-intent: "informational"
+secondary_keywords:
+  - "school financial audit"
+  - "educational institution audit"
+  - "school accounts audit India"
+  - "statutory audit school"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 18
 branding_block_company: 18
 branding_block_nexli: 18
 ---
-
 Schools operating as trusts, societies, or companies are legally required to have their accounts audited annually. This statutory audit is not optional, it is a condition of maintaining the registration that allows the school to operate. Additionally, many state governments require government-aided schools to submit audited accounts as a condition for continued grant.
 
 An annual audit verifies that the school's financial statements accurately reflect income, expenditure, and assets, and that funds (including government grants and student fees) have been used for their intended purposes.

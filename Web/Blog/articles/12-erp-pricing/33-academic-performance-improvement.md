@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Academic Performance Improvement"
-slug: "academic-performance-improvement"
+slug: "33-academic-performance-improvement"
 meta_description: "Academic Performance Improvement"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "academic"
-secondary_keywords: ["performance", "improvement", "implementation", "school"]
+secondary_keywords:
+  - "performance"
+  - "improvement"
+  - "implementation"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Academic Performance Improvement
 

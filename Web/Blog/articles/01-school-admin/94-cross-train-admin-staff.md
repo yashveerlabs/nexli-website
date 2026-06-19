@@ -1,22 +1,21 @@
 ---
-title: Cross-Training Administrative Staff: Reducing Single Points of Failure
-slug: cross-train-admin-staff
-meta_description: Guide to cross-training administrative staff and reducing single points of failure for school administrators and leaders.
-category: School Administration & Operations
-primary_keyword: risk mitigation
+title: "Cross-Training Administrative Staff: Reducing Single Points of Failure"
+slug: "94-cross-train-admin-staff"
+meta_description: "Guide to cross-training administrative staff and reducing single points of failure for school administrators and leaders."
+category: "School Administration & Operations"
+primary_keyword: "risk mitigation"
 secondary_keywords:
-  - school administration
-  - risk mitigation
-  - school management
-  - educational administration
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school administration"
+  - "risk mitigation"
+  - "school management"
+  - "educational administration"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 Cross-training administrative staff reduces single points of failure that leave schools vulnerable when key personnel are absent. When only one person knows how to process admissions, run payroll, or manage the fee system, their absence stops operations. This article covers essential strategies and best practices for building a cross-trained administrative team.

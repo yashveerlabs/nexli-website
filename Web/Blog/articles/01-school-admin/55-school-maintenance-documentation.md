@@ -1,22 +1,21 @@
 ---
-title: School Maintenance Documentation
-slug: school-maintenance-documentation
-meta_description: Organize and track maintenance records for inspections and compliance audits.
-category: School Administration & Operations
-primary_keyword: school maintenance documentation
+title: "School Maintenance Documentation"
+slug: "55-school-maintenance-documentation"
+meta_description: "Organize and track maintenance records for inspections and compliance audits."
+category: "School Administration & Operations"
+primary_keyword: "school maintenance documentation"
 secondary_keywords:
-  - School Maintenance Documentation
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "School Maintenance Documentation"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 School maintenance documentation provides an auditable record of repairs, inspections, and preventive work completed across campus. Schools with organized maintenance records pass compliance audits faster and reduce disputes about asset condition. This article covers the core challenges, proven solutions, and practical steps for building a maintenance documentation system that works.
 
 ---

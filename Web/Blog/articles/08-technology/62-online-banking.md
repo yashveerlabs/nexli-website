@@ -1,18 +1,20 @@
 ---
 title: "Online Banking for Schools: Authorization, Bank Reconciliation, and ERP Integration"
-slug: "online-banking"
+slug: "62-online-banking"
 meta_description: "Online banking for schools requires authorized signatories, dual approval workflows, NEFT/RTGS for payroll and vendor payments, and bank reconciliation with the ERP fee ledger."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "online banking for schools"
-secondary_keywords: ["school bank reconciliation", "dual approval banking", "NEFT RTGS school payments"]
-intent: "informational"
+secondary_keywords:
+  - "school bank reconciliation"
+  - "dual approval banking"
+  - "NEFT RTGS school payments"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Online Banking for Schools: Setting It Up Correctly from the Start
 
 Online banking for schools involves more than getting internet banking access from your bank. Schools handle public funds, trust money, or society funds depending on their registration structure. The banking controls need to reflect that: who can initiate a payment, who must approve it, and how the bank records reconcile with the ERP.

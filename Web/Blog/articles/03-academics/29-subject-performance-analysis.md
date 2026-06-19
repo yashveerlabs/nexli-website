@@ -1,22 +1,21 @@
 ---
-title: Subject-Wise Performance Analysis
-slug: subject-performance-analysis
-meta_description: Identify weak subjects and learning gaps through data-driven analysis.
-category: Academic Management & Teaching Excellence
-primary_keyword: subject performance analysis
+title: "Subject-Wise Performance Analysis"
+slug: "29-subject-performance-analysis"
+meta_description: "Identify weak subjects and learning gaps through data-driven analysis."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "subject performance analysis"
 secondary_keywords:
-  - Subject Performance Analysis
-  - teaching effectiveness
-  - student learning
-  - academic excellence
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Subject Performance Analysis"
+  - "teaching effectiveness"
+  - "student learning"
+  - "academic excellence"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 Subject-Wise Performance Analysis is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process see measurable improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.

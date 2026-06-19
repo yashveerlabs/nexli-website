@@ -1,10 +1,9 @@
 ---
 title: "When to Move to a New School"
-slug: when-to-move-to-a-new-school
-category: 9
-order: 87
-primary_keyword: "when to move to a new school as a principal"
+slug: "87-when-to-move-to-a-new-school"
 meta_description: "Career progression sometimes means leaving your school. Learn how to recognize the right signals, burnout, conflict, new opportunity, and how to make the move professionally."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "when to move to a new school as a principal"
 secondary_keywords:
   - "principal career progression"
   - "when to leave a headship"
@@ -16,8 +15,8 @@ date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
+order: 87
 ---
-
 # When to Move to a New School
 
 Career progression may mean leaving your school. Know when to move on.

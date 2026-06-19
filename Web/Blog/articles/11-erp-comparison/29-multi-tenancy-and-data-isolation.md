@@ -1,8 +1,8 @@
 ---
 title: "Multi-Tenancy and Data Isolation in School ERP"
-slug: "multi-tenancy-and-data-isolation"
+slug: "29-multi-tenancy-and-data-isolation"
 meta_description: "Understanding multi-tenancy and data isolation in school ERP: how school chains keep campus data separate while sharing a platform, and what to verify."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP multi-tenancy"
 secondary_keywords:
   - "school chain ERP data isolation"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school data isolation compliance"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Multi-Tenancy and Data Isolation in School ERP
 
 **School chains and multi-campus organizations need one platform that runs across all their schools while keeping each school's data completely separate. This is the multi-tenancy challenge. Getting it wrong means a teacher at Campus A can see students from Campus B, a privacy violation and a DPDP Act risk. Getting it right means a chain director can see KPIs across all campuses while each campus operates in isolation.**

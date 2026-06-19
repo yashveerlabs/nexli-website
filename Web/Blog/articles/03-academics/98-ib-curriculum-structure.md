@@ -1,22 +1,21 @@
 ---
-title: IB (International Baccalaureate) Curriculum
-slug: ib-curriculum-structure
-meta_description: Learn about IB program structure and pedagogy for international schools.
-category: Academic Management & Teaching Excellence
-primary_keyword: ib curriculum structure
+title: "IB (International Baccalaureate) Curriculum"
+slug: "98-ib-curriculum-structure"
+meta_description: "Learn about IB program structure and pedagogy for international schools."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "ib curriculum structure"
 secondary_keywords:
-  - Ib Curriculum Structure
-  - teaching effectiveness
-  - student learning
-  - academic excellence
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Ib Curriculum Structure"
+  - "teaching effectiveness"
+  - "student learning"
+  - "academic excellence"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Executive Summary
 
 IB (International Baccalaureate) Curriculum is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process see measurable improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.

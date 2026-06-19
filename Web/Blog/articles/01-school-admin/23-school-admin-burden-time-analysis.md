@@ -1,10 +1,14 @@
 ---
 title: "School Administrative Burden: What Takes Up Most of a Principal's Time"
-slug: "school-admin-burden-time-analysis"
+slug: "23-school-admin-burden-time-analysis"
 meta_description: "Analysis of where principals spend time and how to reclaim hours for strategic work."
-category: "1. School Administration & Operations"
+category: "School Administration & Operations"
 primary_keyword: "school administrative burden"
-secondary_keywords: ["principal time management", "administrative overhead", "time analysis", "principal workload"]
+secondary_keywords:
+  - "principal time management"
+  - "administrative overhead"
+  - "time analysis"
+  - "principal workload"
 intent: "research"
 author: "Yashveer Labs"
 date: "2026-06-19"
@@ -12,7 +16,6 @@ branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## School Administrative Burden: What Takes Up Most of a Principal's Time
 
 A principal's day rarely goes as planned. The morning was scheduled for strategic planning, but instead, it filled with administrative tasks: approving a leave request, signing three documents, answering fee collection questions, resolving a conflict between staff, and coordinating with transport about a late bus. By day's end, the strategic work isn't done. This is the administrative burden, and it affects nearly every school leader.

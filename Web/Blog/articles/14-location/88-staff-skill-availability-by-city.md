@@ -1,18 +1,20 @@
 ---
 title: "Staff Skill Availability by City"
-slug: "staff-skill-availability-by-city"
+slug: "88-staff-skill-availability-by-city"
 meta_description: "Staff skill availability by city and school ERP: how cloud-based HR modules support schools training and retaining staff across different Indian markets."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "staff skill school ERP city India"
-secondary_keywords: ["school ERP staff skills India", "school HR training module", "staff management school software India", "school ERP staff availability city"]
+secondary_keywords:
+  - "school ERP staff skills India"
+  - "school HR training module"
+  - "staff management school software India"
+  - "school ERP staff availability city"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Staff Skill Availability by City
 

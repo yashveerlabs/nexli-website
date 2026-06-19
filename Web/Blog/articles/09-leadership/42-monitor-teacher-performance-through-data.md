@@ -1,19 +1,22 @@
 ---
 title: "Monitor Teacher Performance Through Data"
-slug: monitor-teacher-performance-through-data
-category: 9
-order: 42
-primary_keyword: "monitor teacher performance through data"
+slug: "42-monitor-teacher-performance-through-data"
 meta_description: "How school principals can use data to fairly monitor teacher performance, from student achievement and observation evidence to transparent analysis and targeted support."
-secondary_keywords: ["teacher performance data", "principal teacher evaluation", "data-driven teacher management", "school performance indicators"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "monitor teacher performance through data"
+secondary_keywords:
+  - "teacher performance data"
+  - "principal teacher evaluation"
+  - "data-driven teacher management"
+  - "school performance indicators"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
+order: 42
 ---
-
 # Monitor Teacher Performance Through Data
 
 Data provides objective evidence of teacher effectiveness. Use data to support improvement and ensure accountability.

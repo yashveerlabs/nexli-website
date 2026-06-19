@@ -1,8 +1,8 @@
 ---
 title: "Bus Driver Selection and Vetting: A School's Guide"
-slug: bus-driver-selection-and-vetting
+slug: "18-bus-driver-selection-and-vetting"
 meta_description: "Learn how to select and vet school bus drivers with background checks, medical fitness, driving tests, and ongoing monitoring to protect student safety."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school bus driver selection"
 secondary_keywords:
   - "bus driver background check"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Bus Driver Selection and Vetting
 
 Bus drivers are student caretakers. Thorough vetting ensures trustworthiness.

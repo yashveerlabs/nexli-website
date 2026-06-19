@@ -1,20 +1,22 @@
 ---
 title: "List of Candidates (LOC) Submission: Step-by-Step Guide for CBSE Schools"
-slug: "cbse-list-of-candidates-loc-submission-step-by-step"
+slug: "08-cbse-list-of-candidates-loc-submission"
 meta_description: "Master CBSE List of Candidates (LOC) submission process. Learn eligibility criteria, data validation, error prevention, and how modern ERPs automate LOC generation and CBSE reconciliation."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "CBSE List of Candidates LOC submission"
-secondary_keywords: ["LOC submission CBSE Class 10 12", "LOC eligibility criteria attendance", "LOC data validation CBSE", "LOC submission errors prevention", "LOC hall ticket generation"]
+secondary_keywords:
+  - "LOC submission CBSE Class 10 12"
+  - "LOC eligibility criteria attendance"
+  - "LOC data validation CBSE"
+  - "LOC submission errors prevention"
+  - "LOC hall ticket generation"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
-date: "2026-06-19"
 ---
-
 ## What is LOC and Why It Matters
 
 The List of Candidates (LOC) is CBSE's mandatory submission for schools before Classes 10 and 12 board examinations. LOC gates exam hall ticket generation, result processing, and certificate issuance. Without LOC, board exams cannot happen.

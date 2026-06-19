@@ -1,18 +1,20 @@
 ---
 title: "Inter-Campus Student Transfers"
-slug: "inter-campus-student-transfers"
+slug: "43-inter-campus-student-transfers"
 meta_description: "How school ERPs support inter-campus student transfers for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "inter-campus student transfer ERP"
-secondary_keywords: ["student transfer between schools ERP", "campus transfer management India", "school chain student records", "inter-school transfer software"]
+secondary_keywords:
+  - "student transfer between schools ERP"
+  - "campus transfer management India"
+  - "school chain student records"
+  - "inter-school transfer software"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Inter-Campus Student Transfers
 

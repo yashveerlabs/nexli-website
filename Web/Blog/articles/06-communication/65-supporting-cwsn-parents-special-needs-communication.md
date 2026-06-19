@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Supporting CWSN Parents: Communication About Special Needs"
-slug: "supporting-cwsn-parents-special-needs-communication"
+slug: "65-supporting-cwsn-parents-special-needs-communication"
 meta_description: "Effective special circumstances strategies for Indian schools. Learn how parents of children with special needs require clear communication about learning plans, support services, and progress toward goals."
-category: "Special Circumstances"
+category: "Parent Communication & Engagement"
 primary_keyword: "specialized parent communication"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Supporting CWSN Parents: Communication About Special Needs
 
 Parents of children with special needs require clear communication about learning plans, support services, and progress toward goals.

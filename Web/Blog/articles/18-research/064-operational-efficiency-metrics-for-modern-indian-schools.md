@@ -1,22 +1,21 @@
 ---
-title: Operational Efficiency Metrics for Modern Indian Schools
-slug: operational-efficiency-metrics-for-modern-indian-schools
-meta_description: Operational Efficiency Metrics for Modern Indian Schools
-category: Research & Statistics
-primary_keyword: operational efficiency metrics
+title: "Operational Efficiency Metrics for Modern Indian Schools"
+slug: "064-operational-efficiency-metrics-for-modern-indian-schools"
+meta_description: "Operational Efficiency Metrics for Modern Indian Schools"
+category: "School Research, Statistics & Reports"
+primary_keyword: "operational efficiency metrics"
 secondary_keywords:
-  - operational efficiency metrics schools
-  - best practices operational efficiency metrics
-  - operational efficiency metrics strategy
-  - how to implement operational efficiency metrics
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "operational efficiency metrics schools"
+  - "best practices operational efficiency metrics"
+  - "operational efficiency metrics strategy"
+  - "how to implement operational efficiency metrics"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on operational efficiency metrics for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

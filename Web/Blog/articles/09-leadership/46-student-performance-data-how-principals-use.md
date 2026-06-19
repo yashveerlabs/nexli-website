@@ -1,19 +1,22 @@
 ---
 title: "Student Performance Data: How Principals Use It"
-slug: student-performance-data-how-principals-use
-category: 9
-order: 46
-primary_keyword: "student performance data how principals use it"
+slug: "46-student-performance-data-how-principals-use"
 meta_description: "How school principals use student performance data to identify priorities, set goals, allocate resources, close equity gaps, and drive meaningful school improvement."
-secondary_keywords: ["principal data analysis", "student data school improvement", "school performance reporting", "data-driven principal"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "student performance data how principals use it"
+secondary_keywords:
+  - "principal data analysis"
+  - "student data school improvement"
+  - "school performance reporting"
+  - "data-driven principal"
 intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
+order: 46
 ---
-
 # Student Performance Data: How Principals Use It
 
 Data on student performance is essential for school improvement. As principal, you use data to identify needs, allocate resources, and drive improvement.

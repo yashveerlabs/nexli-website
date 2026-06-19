@@ -1,19 +1,22 @@
 ---
 title: "Principal as Community Leader"
-slug: principal-as-community-leader
-category: 9
-order: 64
-primary_keyword: "principal as community leader"
+slug: "64-principal-as-community-leader"
 meta_description: "Expand your leadership beyond school walls. How principals build community partnerships, advocacy presence, and influence that strengthen the school's role in society."
-secondary_keywords: ["school community leadership", "principal community engagement", "school community partnerships", "principal public presence"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "principal as community leader"
+secondary_keywords:
+  - "school community leadership"
+  - "principal community engagement"
+  - "school community partnerships"
+  - "principal public presence"
 intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
+order: 64
 ---
-
 # Principal as Community Leader
 
 Principals are community leaders beyond school walls. Your influence shapes community.

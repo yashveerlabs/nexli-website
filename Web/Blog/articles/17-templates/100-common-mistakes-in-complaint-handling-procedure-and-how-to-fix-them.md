@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Complaint Handling Procedure (And How to Fix Them)
-slug: common-mistakes-in-complaint-handling-procedure-and-how-to-fix-them
-meta_description: Common Mistakes in Complaint Handling Procedure (And How ...
-category: SOPs & Templates
-primary_keyword: complaint handling procedure
+title: "Common Mistakes in Complaint Handling Procedure (And How to Fix Them)"
+slug: "100-common-mistakes-in-complaint-handling-procedure-and-how-to-fix-them"
+meta_description: "Common Mistakes in Complaint Handling Procedure (And How ..."
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "complaint handling procedure"
 secondary_keywords:
-  - complaint handling procedure schools
-  - best practices complaint handling procedure
-  - complaint handling procedure strategy
-  - how to implement complaint handling procedure
-intent: informational
+  - "complaint handling procedure schools"
+  - "best practices complaint handling procedure"
+  - "complaint handling procedure strategy"
+  - "how to implement complaint handling procedure"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on complaint handling procedure for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

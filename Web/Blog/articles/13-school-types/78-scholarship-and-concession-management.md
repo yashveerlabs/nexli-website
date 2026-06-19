@@ -1,18 +1,20 @@
 ---
 title: "Scholarship and Concession Management"
-slug: "scholarship-and-concession-management"
+slug: "78-scholarship-and-concession-management"
 meta_description: "How school ERPs support scholarship and concession management for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "scholarship concession management ERP"
-secondary_keywords: ["school scholarship tracking software India", "fee concession management ERP", "student financial aid school", "school bursary management India"]
+secondary_keywords:
+  - "school scholarship tracking software India"
+  - "fee concession management ERP"
+  - "student financial aid school"
+  - "school bursary management India"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Scholarship and Concession Management
 

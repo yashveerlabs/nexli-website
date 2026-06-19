@@ -1,18 +1,21 @@
 ---
 title: "Digital Medical Records for Schools: Managing Student Health Data Safely"
-slug: "medical-records-system"
+slug: "76-medical-records-system"
 meta_description: "How schools should manage student medical records digitally: clinic visit logs, immunization tracking, allergen flags, and DPDP Act compliance for health data."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school medical records system"
-secondary_keywords: ["student health records", "clinic management software", "DPDP health data", "school immunization tracking"]
-intent: "informational"
+secondary_keywords:
+  - "student health records"
+  - "clinic management software"
+  - "DPDP health data"
+  - "school immunization tracking"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## What a Digital Medical Records System Does for Schools
 
 A school medical records system replaces paper health files with a structured digital database that clinic staff, school nurses, and authorized administrators can access quickly during an emergency or routine visit. Student medical history, clinic visit logs, immunization records, allergen flags, chronic conditions, and medication authorization forms all live in one place instead of scattered across filing cabinets.

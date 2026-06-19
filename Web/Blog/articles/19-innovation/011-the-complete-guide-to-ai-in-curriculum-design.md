@@ -1,22 +1,21 @@
-﻿---
-title: The Complete Guide to Ai In Curriculum Design
-slug: the-complete-guide-to-ai-in-curriculum-design
-meta_description: The Complete Guide to Ai In Curriculum Design
-category: Innovation & AI
-primary_keyword: AI in curriculum design
+---
+title: "The Complete Guide to Ai In Curriculum Design"
+slug: "011-the-complete-guide-to-ai-in-curriculum-design"
+meta_description: "The Complete Guide to Ai In Curriculum Design"
+category: "Education Innovation, AI & Future"
+primary_keyword: "AI in curriculum design"
 secondary_keywords:
-  - AI in curriculum design schools
-  - best practices AI in curriculum design
-  - AI in curriculum design strategy
-  - how to implement AI in curriculum design
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "AI in curriculum design schools"
+  - "best practices AI in curriculum design"
+  - "AI in curriculum design strategy"
+  - "how to implement AI in curriculum design"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on ai in curriculum design for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

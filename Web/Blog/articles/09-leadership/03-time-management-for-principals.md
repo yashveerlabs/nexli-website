@@ -1,8 +1,8 @@
 ---
 title: "Time Management for Principals: Balancing Leadership Duties"
-slug: "time-management-for-principals"
+slug: "03-time-management-for-principals"
 meta_description: "Master time management as a school principal. Learn how to prioritize tasks, delegate effectively, and avoid burnout while leading a school."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "principal time management"
 secondary_keywords:
   - "school leadership productivity"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Time Management for Principals: How to Balance Everything Without Burning Out
 
 **Every principal faces the same crisis: there's not enough time for everything. Academic leadership, financial stewardship, compliance management, student discipline, staff support, parent communication, facility oversight, it's a 70-hour-per-week role squeezed into 50 hours. This guide reveals the time management strategies that successful principals use to prioritize relentlessly, delegate ruthlessly, and reclaim sanity. You'll learn to distinguish between urgent and important, how to structure your week, and how to use systems (like Nexli) to buy back hours.**

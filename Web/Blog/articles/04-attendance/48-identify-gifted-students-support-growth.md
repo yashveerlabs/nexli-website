@@ -1,18 +1,21 @@
-﻿---
+---
 title: "How to Identify Gifted Students and Support Their Growth"
-slug: "identify-gifted-students-support-growth"
+slug: "48-identify-gifted-students-support-growth"
 meta_description: "Learn about how to identify gifted students and support their growth in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "how to identify gifted students and support their growth"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with how to identify gifted students and support their growth:

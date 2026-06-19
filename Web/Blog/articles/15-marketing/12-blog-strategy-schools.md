@@ -1,8 +1,8 @@
 ---
 title: "Blog Strategy for Schools: Content Marketing Excellence"
-slug: "blog-strategy-schools"
+slug: "12-blog-strategy-schools"
 meta_description: "Build an effective school blog. Learn content ideas, SEO optimization, publishing schedule, and how to drive traffic and enrollment."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school blog strategy"
 secondary_keywords:
   - "educational content"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Blog Strategy for Schools: Content Marketing Excellence
 
 **Blogs build authority, drive SEO traffic, and provide value to parents. A school blog answers parent questions, showcases expertise, and converts readers into leads. This guide covers strategy, content ideas, and publishing.**

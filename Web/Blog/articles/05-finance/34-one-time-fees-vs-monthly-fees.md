@@ -1,18 +1,21 @@
-﻿---
+---
 title: "One-Time Fees vs. Monthly Fees: Choosing Your Model"
-slug: "one-time-fees-vs-monthly-fees"
+slug: "34-one-time-fees-vs-monthly-fees"
 meta_description: "Learn about one-time fees vs. monthly fees: choosing your model in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "one-time fees vs. monthly fees: choosing your model"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with one-time fees vs. monthly fees: choosing your model:

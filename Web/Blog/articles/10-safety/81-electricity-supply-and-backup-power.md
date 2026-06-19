@@ -1,18 +1,21 @@
-﻿---
-title: Electricity Supply and Backup Power
-slug: electricity-supply-and-backup-power
-meta_description: Manage electrical systems safely with backup power, regular maintenance, and emergency protocols.
-category: Safety & Operations
-primary_keyword: school electrical safety
-secondary_keywords: ['power supply management', 'generator maintenance', 'electrical audit', 'emergency lighting']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "Electricity Supply and Backup Power"
+slug: "81-electricity-supply-and-backup-power"
+meta_description: "Manage electrical systems safely with backup power, regular maintenance, and emergency protocols."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "school electrical safety"
+secondary_keywords:
+  - "power supply management"
+  - "generator maintenance"
+  - "electrical audit"
+  - "emergency lighting"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Electricity Supply and Backup Power: Comprehensive Guide
 
 This guide provides comprehensive guidance on electricity supply and backup power.

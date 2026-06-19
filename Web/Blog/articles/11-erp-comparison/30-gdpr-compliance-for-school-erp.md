@@ -1,8 +1,8 @@
 ---
 title: "GDPR and School Data Privacy: What Indian Schools Need to Know"
-slug: "gdpr-compliance-for-school-erp"
+slug: "30-gdpr-compliance-for-school-erp"
 meta_description: "GDPR vs. DPDP Act: what Indian schools need to know about data privacy requirements, how they compare, and which framework actually applies to your school."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP GDPR DPDP compliance"
 secondary_keywords:
   - "GDPR school data India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school management data compliance"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## GDPR and School Data Privacy: What Indian Schools Need to Know
 
 **Many Indian school administrators have heard of GDPR (General Data Protection Regulation), the European Union's privacy law, without being sure whether it applies to them. The short answer for most Indian schools: GDPR does not apply to you directly. The DPDP Act 2023 does. But understanding both helps you ask the right questions about your school ERP's data privacy capabilities.**

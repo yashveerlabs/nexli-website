@@ -1,18 +1,20 @@
 ---
 title: "Biometric Integration with School ERP: What to Know Before You Buy"
-slug: "biometric-integration-with-erp"
+slug: "51-biometric-integration-with-erp"
 meta_description: "Learn how biometric devices connect with school ERP systems, what API integration looks like, how to handle sync failures, and what to check before purchasing."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "biometric integration with school ERP"
-secondary_keywords: ["biometric attendance system", "ERP device integration", "school biometric setup"]
-intent: "informational"
+secondary_keywords:
+  - "biometric attendance system"
+  - "ERP device integration"
+  - "school biometric setup"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## How Biometric Devices Connect with School ERP Systems
 
 Biometric integration with school ERP is one of the most asked-about topics during ERP evaluations, and it is also one of the most misunderstood. Schools assume that any biometric device will plug into any ERP out of the box. The reality is more involved: the device, the communication protocol, and the ERP all need to be compatible, and the integration requires configuration on both ends.

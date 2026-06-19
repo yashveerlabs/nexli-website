@@ -1,18 +1,20 @@
 ---
 title: "Training School Staff to Use Data: Building Basic Data Literacy That Sticks"
-slug: "staff-data-training"
+slug: "60-staff-data-training"
 meta_description: "School staff data training helps teachers and admin read reports accurately and make decisions from data instead of just producing it. Learn practical approaches that build lasting data literacy."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school staff data training"
-secondary_keywords: ["data literacy for teachers", "school data decision making", "reading school reports"]
-intent: "informational"
+secondary_keywords:
+  - "data literacy for teachers"
+  - "school data decision making"
+  - "reading school reports"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Training School Staff to Use Data: What Works and What Doesn't
 
 School staff data training is the step that most ERP implementations skip or underinvest in. The software gets installed, staff get a login walkthrough, and then the expectation is set that "the system will take care of it." Six months later, the principal complains that reports are not being used, and the ERP vendor hears that the software is not helpful. The problem is usually not the software. It is that staff were trained to enter data but never trained to read it.

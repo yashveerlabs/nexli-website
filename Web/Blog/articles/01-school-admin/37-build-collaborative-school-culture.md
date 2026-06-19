@@ -1,22 +1,21 @@
 ---
-title: How to Build Collaborative School Culture
-slug: build-collaborative-school-culture
-meta_description: Foster cross-departmental teamwork and break down organizational silos through deliberate culture-building.
-category: School Administration & Operations
-primary_keyword: build collaborative school culture
+title: "How to Build Collaborative School Culture"
+slug: "37-build-collaborative-school-culture"
+meta_description: "Foster cross-departmental teamwork and break down organizational silos through deliberate culture-building."
+category: "School Administration & Operations"
+primary_keyword: "build collaborative school culture"
 secondary_keywords:
-  - Build Collaborative School Culture
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Build Collaborative School Culture"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## How to Build Collaborative School Culture
 
 Building collaborative school culture is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that deliberately build cross-departmental teamwork report significant improvements in speed, consistency, and stakeholder confidence.

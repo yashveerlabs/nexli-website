@@ -1,19 +1,22 @@
 ---
 title: "How to Collaborate with Chairs and Trustees"
-slug: how-to-collaborate-with-chairs-and-trustees
-category: 9
-order: 62
-primary_keyword: "collaborate with school board chair and trustees"
+slug: "62-how-to-collaborate-with-chairs-and-trustees"
 meta_description: "Build effective working relationships with board chairs and trustees. Practical strategies for principals to engage board leadership with trust and clear communication."
-secondary_keywords: ["school board chair relationship", "trustee collaboration", "principal board leadership", "school governance partnerships"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "collaborate with school board chair and trustees"
+secondary_keywords:
+  - "school board chair relationship"
+  - "trustee collaboration"
+  - "principal board leadership"
+  - "school governance partnerships"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
+order: 62
 ---
-
 # How to Collaborate with Chairs and Trustees
 
 Strong relationships with board leadership are essential. Chair, vice-chair, and key trustees influence decisions.

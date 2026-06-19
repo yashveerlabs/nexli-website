@@ -1,18 +1,20 @@
 ---
 title: "Boarding School Communication with Parents"
-slug: "boarding-school-communication-with-parents"
+slug: "32-boarding-school-communication-with-parents"
 meta_description: "How school ERPs support boarding school communication with parents for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "boarding school parent communication ERP"
-secondary_keywords: ["residential school parent portal", "boarding school parent updates", "hostel communication software", "school ERP parent communication"]
+secondary_keywords:
+  - "residential school parent portal"
+  - "boarding school parent updates"
+  - "hostel communication software"
+  - "school ERP parent communication"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Boarding School Communication with Parents
 

@@ -1,20 +1,23 @@
 ---
 title: "How to Calculate School ERP ROI: Justify Your Investment"
-slug: "how-to-calculate-school-erp-roi"
+slug: "04-how-to-calculate-school-erp-roi"
 meta_description: "Learn to calculate ROI for school ERPs. Measure admin time savings, fee collection impact, staff productivity, and academic improvements. Justify your ERP investment."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "school ERP ROI"
-secondary_keywords: ["return on investment", "payback period", "ERP benefits", "cost savings", "productivity gains", "financial justification"]
+secondary_keywords:
+  - "return on investment"
+  - "payback period"
+  - "ERP benefits"
+  - "cost savings"
+  - "productivity gains"
+  - "financial justification"
 intent: "how-to"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 **A board member asks the principal: "You're asking me to approve ₹7 lakh for an ERP system. What's the return on investment? How does this benefit the school?"**
 
 The principal hesitates. The vendor gave a sales pitch about "efficiency" and "digital transformation," but no numbers. The principal doesn't have a financial case for the investment.

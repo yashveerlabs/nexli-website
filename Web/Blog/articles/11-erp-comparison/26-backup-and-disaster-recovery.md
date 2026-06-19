@@ -1,8 +1,8 @@
 ---
 title: "Backup and Disaster Recovery in School ERP"
-slug: "backup-and-disaster-recovery"
+slug: "26-backup-and-disaster-recovery"
 meta_description: "School ERP backup and disaster recovery: what frequency to expect, RTO/RPO definitions, cloud vs. on-premise backup strategies, and questions to ask vendors."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP backup disaster recovery"
 secondary_keywords:
   - "school data backup software"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school management data protection"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Backup and Disaster Recovery in School ERP
 
 **School data accumulated over years, student records, marks histories, fee ledgers, staff records, cannot be recreated if lost. Backup and disaster recovery are not IT niceties; they are critical safeguards for the school's operational continuity. This guide explains what to look for and what to ask vendors.**

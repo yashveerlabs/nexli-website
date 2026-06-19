@@ -1,8 +1,8 @@
 ---
 title: "Data Migration for School ERP: What to Expect"
-slug: "data-migration-what-to-expect"
+slug: "32-data-migration-what-to-expect"
 meta_description: "School ERP data migration guide: what data to migrate, data quality audits, validation process, timeline, and how to avoid common migration failures."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP data migration"
 secondary_keywords:
   - "school student data migration"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school data import ERP"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Data Migration for School ERP: What to Expect
 
 **Data migration is one of the most underestimated and error-prone parts of ERP implementation. It is also one of the most consequential: if student records, fee histories, or marks data are migrated incorrectly, you may not discover the errors until months later when a parent disputes their fee balance or a student's marks history is missing. This guide explains how to approach migration correctly.**

@@ -1,19 +1,22 @@
 ---
 title: "Dealing with Burnout as Principal"
-slug: dealing-with-burnout-as-principal
-category: 9
-order: 79
-primary_keyword: "dealing with burnout as school principal"
+slug: "79-dealing-with-burnout-as-principal"
 meta_description: "Recognize and recover from principal burnout before it becomes a crisis. Practical strategies covering self-care, workload adjustment, support systems, and prevention."
-secondary_keywords: ["principal mental health", "school leader burnout prevention", "principal stress management", "principal wellbeing strategies"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "dealing with burnout as school principal"
+secondary_keywords:
+  - "principal mental health"
+  - "school leader burnout prevention"
+  - "principal stress management"
+  - "principal wellbeing strategies"
 intent: "problem-solving"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 19
 branding_block_company: 19
 branding_block_nexli: 19
+order: 79
 ---
-
 # Dealing with Burnout as Principal
 
 Principal burnout is real and serious. Recognize it and take action before crisis.

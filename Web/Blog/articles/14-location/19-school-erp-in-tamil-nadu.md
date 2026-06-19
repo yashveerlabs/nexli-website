@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Tamil Nadu"
-slug: "school-erp-in-tamil-nadu"
+slug: "19-school-erp-in-tamil-nadu"
 meta_description: "School ERP in Tamil Nadu: cloud-based school management for state board, CBSE, and matriculation schools with state-specific compliance and parent communication."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Tamil Nadu"
-secondary_keywords: ["school management system Tamil Nadu", "Tamil Nadu school software", "TN state board school ERP", "school ERP Chennai Coimbatore"]
+secondary_keywords:
+  - "school management system Tamil Nadu"
+  - "Tamil Nadu school software"
+  - "TN state board school ERP"
+  - "school ERP Chennai Coimbatore"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Tamil Nadu
 

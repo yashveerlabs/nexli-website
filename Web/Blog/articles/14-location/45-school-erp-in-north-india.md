@@ -1,18 +1,20 @@
 ---
 title: "School ERP in North India"
-slug: "school-erp-in-north-india"
+slug: "45-school-erp-in-north-india"
 meta_description: "School ERP in North India: cloud-based school management for schools in Delhi, UP, Rajasthan, Punjab, and Haryana with CBSE and state board compliance."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP North India"
-secondary_keywords: ["school management North India", "North India CBSE school ERP", "school software UP Rajasthan Punjab", "school ERP NCR Lucknow Jaipur"]
+secondary_keywords:
+  - "school management North India"
+  - "North India CBSE school ERP"
+  - "school software UP Rajasthan Punjab"
+  - "school ERP NCR Lucknow Jaipur"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## School ERP in North India
 

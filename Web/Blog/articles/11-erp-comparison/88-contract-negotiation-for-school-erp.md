@@ -1,8 +1,8 @@
 ---
 title: "Contract Negotiation for School ERP: What to Push For"
-slug: "contract-negotiation-for-school-erp"
+slug: "88-contract-negotiation-for-school-erp"
 meta_description: "School ERP contract negotiation guide: what terms to negotiate, what standard contracts often exclude, pricing escalation protection, exit rights, and data ownership."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP contract negotiation"
 secondary_keywords:
   - "school ERP contract terms"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP contract India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Contract Negotiation for School ERP: What to Push For
 
 **School ERP vendors provide standard contracts designed to protect vendor interests. Most schools sign without negotiation. The terms that matter most, pricing escalation, data ownership, exit rights, implementation milestones, and support SLAs, are all negotiable. Understanding what to push for and why protects the school's interests throughout a 3-5 year relationship.**

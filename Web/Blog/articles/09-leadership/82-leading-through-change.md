@@ -1,10 +1,9 @@
 ---
 title: "Leading Through Change"
-slug: leading-through-change
-category: 9
-order: 82
-primary_keyword: "leading through change in schools"
+slug: "82-leading-through-change"
 meta_description: "A practical guide for school principals on leading through change, communicating vision, managing pace, supporting staff, and consolidating gains for lasting transformation."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "leading through change in schools"
 secondary_keywords:
   - "change management for principals"
   - "school transformation leadership"
@@ -16,8 +15,8 @@ date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
+order: 82
 ---
-
 # Leading Through Change
 
 Change is constant in education. Leaders guide schools successfully through transformation.

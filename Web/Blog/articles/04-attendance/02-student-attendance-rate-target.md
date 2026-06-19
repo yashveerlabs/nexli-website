@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Student Attendance Rate: What's a Good Target for Your School?"
-slug: "student-attendance-rate-good-target"
+slug: "02-student-attendance-rate-target"
 meta_description: "Determine realistic attendance targets for your school. Benchmark attendance rates and create improvement strategies."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "student attendance rate target benchmark"
-secondary_keywords: ["attendance goals", "school attendance standards", "attendance improvement", "attendance rates"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "attendance goals"
+  - "school attendance standards"
+  - "attendance improvement"
+  - "attendance rates"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: No Clear Attendance Target
 
 A school's attendance sits at 82%. Is that good? Should they aim for 85%? 95%? Without a benchmark, principals lack direction.

@@ -1,22 +1,21 @@
 ---
-title: The ROI of Better Formative Assessment Research
-slug: the-roi-of-better-formative-assessment-research
-meta_description: The ROI of Better Formative Assessment Research
-category: Research & Statistics
-primary_keyword: formative assessment research
+title: "The ROI of Better Formative Assessment Research"
+slug: "039-the-roi-of-better-formative-assessment-research"
+meta_description: "The ROI of Better Formative Assessment Research"
+category: "School Research, Statistics & Reports"
+primary_keyword: "formative assessment research"
 secondary_keywords:
-  - formative assessment research schools
-  - best practices formative assessment research
-  - formative assessment research strategy
-  - how to implement formative assessment research
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "formative assessment research schools"
+  - "best practices formative assessment research"
+  - "formative assessment research strategy"
+  - "how to implement formative assessment research"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on formative assessment research for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

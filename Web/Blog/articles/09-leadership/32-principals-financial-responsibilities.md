@@ -1,19 +1,22 @@
 ---
 title: "Principal's Financial Responsibilities"
-slug: principals-financial-responsibilities
-category: 9
-order: 32
-primary_keyword: "principal's financial responsibilities"
+slug: "32-principals-financial-responsibilities"
 meta_description: "A practical guide to the financial responsibilities every school principal must master, budgeting, cash flow, fraud prevention, reporting, and financial stewardship."
-secondary_keywords: ["school principal finance", "principal budget management", "school financial management", "principal fiduciary duty"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "principal's financial responsibilities"
+secondary_keywords:
+  - "school principal finance"
+  - "principal budget management"
+  - "school financial management"
+  - "principal fiduciary duty"
 intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
+order: 32
 ---
-
 # Principal's Financial Responsibilities
 
 Principals aren't accountants, but you are financially responsible for your school. Understanding budget, ensuring compliance, and making sound financial decisions are non-negotiable.

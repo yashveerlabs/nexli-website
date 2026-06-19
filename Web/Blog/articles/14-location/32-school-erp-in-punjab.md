@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Punjab"
-slug: "school-erp-in-punjab"
+slug: "32-school-erp-in-punjab"
 meta_description: "School ERP in Punjab: cloud-based school management for PSEB, CBSE, and ICSE schools with state board compliance, fee management, and parent communication."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Punjab"
-secondary_keywords: ["school management system Punjab", "Punjab school software", "PSEB school ERP", "school ERP Ludhiana Amritsar Jalandhar"]
+secondary_keywords:
+  - "school management system Punjab"
+  - "Punjab school software"
+  - "PSEB school ERP"
+  - "school ERP Ludhiana Amritsar Jalandhar"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## School ERP in Punjab
 

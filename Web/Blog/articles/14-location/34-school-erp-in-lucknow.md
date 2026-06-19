@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Lucknow"
-slug: "school-erp-in-lucknow"
+slug: "34-school-erp-in-lucknow"
 meta_description: "School ERP in Lucknow: cloud-based school management for UP schools with CBSE, UPMSP, and ICSE compliance, admissions pipeline, and analytics."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Lucknow"
-secondary_keywords: ["school management system Lucknow", "Lucknow school software", "UP school ERP", "best ERP for Lucknow schools"]
+secondary_keywords:
+  - "school management system Lucknow"
+  - "Lucknow school software"
+  - "UP school ERP"
+  - "best ERP for Lucknow schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## School ERP in Lucknow
 

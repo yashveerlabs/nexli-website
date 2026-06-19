@@ -1,18 +1,21 @@
 ---
 title: "Building Trust Through Transparency: Open Communication Policies"
-slug: "building-trust-transparency-open-communication"
+slug: "42-building-trust-transparency-open-communication"
 meta_description: "Effective feedback & complaints strategies for Indian schools. Learn how transparent communication about school decisions, finances, performance, and challenges builds institutional trust more than perfect pr messages."
-category: "Feedback & Complaints"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent feedback resolution"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Building Trust Through Transparency: Open Communication Policies
 
 Transparent communication about school decisions, finances, performance, and challenges builds institutional trust more than perfect PR messages.

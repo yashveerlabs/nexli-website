@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Csr Impact Story
-slug: the-complete-guide-to-csr-impact-story
-meta_description: The Complete Guide to Csr Impact Story
-category: Success Stories & Cases
-primary_keyword: CSR impact story
+title: "The Complete Guide to Csr Impact Story"
+slug: "091-the-complete-guide-to-csr-impact-story"
+meta_description: "The Complete Guide to Csr Impact Story"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "CSR impact story"
 secondary_keywords:
-  - CSR impact story schools
-  - best practices CSR impact story
-  - CSR impact story strategy
-  - how to implement CSR impact story
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "CSR impact story schools"
+  - "best practices CSR impact story"
+  - "CSR impact story strategy"
+  - "how to implement CSR impact story"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on csr impact story for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Koramangala"
-slug: "school-erp-in-koramangala"
+slug: "11-school-erp-in-koramangala"
 meta_description: "School ERP in Koramangala: cloud-based school management for urban Bangalore schools with international families, CBSE and IB compliance, and mobile-first access."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Koramangala Bangalore"
-secondary_keywords: ["school management system Koramangala", "Koramangala school software", "South Bangalore school ERP", "school ERP urban Bangalore"]
+secondary_keywords:
+  - "school management system Koramangala"
+  - "Koramangala school software"
+  - "South Bangalore school ERP"
+  - "school ERP urban Bangalore"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Koramangala
 

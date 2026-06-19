@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Value-Added Services Beyond Software"
-slug: "value-added-services-beyond-software"
+slug: "82-value-added-services-beyond-software"
 meta_description: "Value-Added Services Beyond Software"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "value-added"
-secondary_keywords: ["services", "beyond", "software", "school"]
+secondary_keywords:
+  - "services"
+  - "beyond"
+  - "software"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Value-Added Services Beyond Software
 

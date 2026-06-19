@@ -1,18 +1,21 @@
-﻿---
-title: Infrastructure Inspection Checklist
-slug: infrastructure-inspection-checklist
-meta_description: Use comprehensive checklists to inspect school buildings, identify defects, and ensure structural safety compliance.
-category: Safety & Operations
-primary_keyword: infrastructure inspection checklist
-secondary_keywords: ['facility audit', 'structural integrity', 'defect identification', 'compliance checks']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+---
+title: "Infrastructure Inspection Checklist"
+slug: "75-infrastructure-inspection-checklist"
+meta_description: "Use comprehensive checklists to inspect school buildings, identify defects, and ensure structural safety compliance."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "infrastructure inspection checklist"
+secondary_keywords:
+  - "facility audit"
+  - "structural integrity"
+  - "defect identification"
+  - "compliance checks"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Infrastructure Inspection Checklist: Comprehensive Guide
 
 Infrastructure inspection checklists ensure systematic review of facility conditions. Without checklists, inspections become inconsistent, hazards slip through, and compliance audits reveal missed problems. This guide provides actionable infrastructure inspection frameworks.

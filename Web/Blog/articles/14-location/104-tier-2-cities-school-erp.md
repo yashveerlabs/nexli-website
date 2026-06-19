@@ -1,8 +1,8 @@
 ---
 title: "School ERP for Tier 2 Cities: Managing Growth Without Complexity"
-slug: school-erp-tier-2-cities
+slug: "104-tier-2-cities-school-erp"
 meta_description: "Best school ERP solutions for Tier 2 cities. Support rapid growth, diverse operations, and limited IT resources in emerging education markets."
-category: "14-location"
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Tier 2 cities"
 secondary_keywords:
   - "school management system tier 2 cities"
@@ -11,15 +11,12 @@ secondary_keywords:
   - "affordable school software"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 snippet: "Tier 2 cities are experiencing rapid education growth. Schools are expanding, student populations are diversifying, and competition is increasing. But Tier 2 school leaders operate with limited IT resources, variable connectivity, and tight budgets. An ERP for Tier 2 schools must be simple, reliable, and affordable, without compromising on critical capabilities."
 ---
-
 ## The Challenge: Growth Without Infrastructure
 
 Tier 2 cities, Lucknow, Chandigarh, Jaipur, Vadodara, Coimbatore, Kochi, Visakhapatnam, and dozens of others, are India's emerging education markets. Over the past 5 years:

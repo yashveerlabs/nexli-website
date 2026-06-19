@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Carbon Footprint Data
-slug: the-complete-guide-to-carbon-footprint-data
-meta_description: The Complete Guide to Carbon Footprint Data
-category: Research & Statistics
-primary_keyword: carbon footprint data
+title: "The Complete Guide to Carbon Footprint Data"
+slug: "061-the-complete-guide-to-carbon-footprint-data"
+meta_description: "The Complete Guide to Carbon Footprint Data"
+category: "School Research, Statistics & Reports"
+primary_keyword: "carbon footprint data"
 secondary_keywords:
-  - carbon footprint data schools
-  - best practices carbon footprint data
-  - carbon footprint data strategy
-  - how to implement carbon footprint data
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "carbon footprint data schools"
+  - "best practices carbon footprint data"
+  - "carbon footprint data strategy"
+  - "how to implement carbon footprint data"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on carbon footprint data for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "WhatsApp Business API: Using the Platform Parents Use Most"
-slug: "whatsapp-business-api-parent-platform"
+slug: "72-whatsapp-business-api-parent-platform"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how whatsapp business api enables broadcast messaging, media sharing, and automated responses while maintaining the intimacy of whatsapp."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## WhatsApp Business API: Using the Platform Parents Use Most
 
 WhatsApp Business API enables broadcast messaging, media sharing, and automated responses while maintaining the intimacy of WhatsApp.

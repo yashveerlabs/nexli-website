@@ -1,22 +1,21 @@
 ---
-title: Scaling Inclusion Statistics Across Your School
-slug: scaling-inclusion-statistics-across-your-school
-meta_description: Scaling Inclusion Statistics Across Your School
-category: Research & Statistics
-primary_keyword: inclusion statistics
+title: "Scaling Inclusion Statistics Across Your School"
+slug: "078-scaling-inclusion-statistics-across-your-school"
+meta_description: "Scaling Inclusion Statistics Across Your School"
+category: "School Research, Statistics & Reports"
+primary_keyword: "inclusion statistics"
 secondary_keywords:
-  - inclusion statistics schools
-  - best practices inclusion statistics
-  - inclusion statistics strategy
-  - how to implement inclusion statistics
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "inclusion statistics schools"
+  - "best practices inclusion statistics"
+  - "inclusion statistics strategy"
+  - "how to implement inclusion statistics"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on inclusion statistics for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

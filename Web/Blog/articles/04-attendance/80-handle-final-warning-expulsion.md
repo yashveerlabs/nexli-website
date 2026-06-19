@@ -1,18 +1,21 @@
-﻿---
+---
 title: "How to Handle the Final Warning Before Expulsion"
-slug: "handle-final-warning-expulsion"
+slug: "80-handle-final-warning-expulsion"
 meta_description: "Learn about how to handle the final warning before expulsion in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "how to handle the final warning before expulsion"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with how to handle the final warning before expulsion:

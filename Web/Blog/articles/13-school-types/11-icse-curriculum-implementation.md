@@ -1,18 +1,20 @@
 ---
 title: "ICSE Curriculum Implementation"
-slug: "icse-curriculum-implementation"
+slug: "11-icse-curriculum-implementation"
 meta_description: "How school ERPs support ICSE curriculum implementation, subject tracking, and pacing management for ICSE-affiliated schools in India."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "ICSE curriculum implementation"
-secondary_keywords: ["ICSE curriculum ERP", "ICSE subject tracking", "ICSE syllabus management", "school ERP India"]
+secondary_keywords:
+  - "ICSE curriculum ERP"
+  - "ICSE subject tracking"
+  - "ICSE syllabus management"
+  - "school ERP India"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## ICSE Curriculum Implementation
 

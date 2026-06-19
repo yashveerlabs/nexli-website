@@ -1,18 +1,20 @@
 ---
 title: "East India School Regulations"
-slug: "east-india-school-regulations"
+slug: "50-east-india-school-regulations"
 meta_description: "East India school regulations and ERP compliance: state requirements for West Bengal, Bihar, Odisha, and Jharkhand schools including WBCHSE and BSEB."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "East India school regulations ERP"
-secondary_keywords: ["East India school compliance", "WBCHSE BSEB school ERP", "school regulations West Bengal Bihar", "East India state board compliance"]
+secondary_keywords:
+  - "East India school compliance"
+  - "WBCHSE BSEB school ERP"
+  - "school regulations West Bengal Bihar"
+  - "East India state board compliance"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## East India School Regulations
 

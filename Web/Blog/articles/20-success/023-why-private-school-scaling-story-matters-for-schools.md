@@ -1,22 +1,21 @@
 ---
-title: Why Private School Scaling Story Matters for Schools
-slug: why-private-school-scaling-story-matters-for-schools
-meta_description: Why Private School Scaling Story Matters for Schools
-category: Success Stories & Cases
-primary_keyword: private school scaling story
+title: "Why Private School Scaling Story Matters for Schools"
+slug: "023-why-private-school-scaling-story-matters-for-schools"
+meta_description: "Why Private School Scaling Story Matters for Schools"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "private school scaling story"
 secondary_keywords:
-  - private school scaling story schools
-  - best practices private school scaling story
-  - private school scaling story strategy
-  - how to implement private school scaling story
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "private school scaling story schools"
+  - "best practices private school scaling story"
+  - "private school scaling story strategy"
+  - "how to implement private school scaling story"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on private school scaling story for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

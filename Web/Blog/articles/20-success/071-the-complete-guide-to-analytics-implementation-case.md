@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Analytics Implementation Case
-slug: the-complete-guide-to-analytics-implementation-case
-meta_description: The Complete Guide to Analytics Implementation Case
-category: Success Stories & Cases
-primary_keyword: analytics implementation case
+title: "The Complete Guide to Analytics Implementation Case"
+slug: "071-the-complete-guide-to-analytics-implementation-case"
+meta_description: "The Complete Guide to Analytics Implementation Case"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "analytics implementation case"
 secondary_keywords:
-  - analytics implementation case schools
-  - best practices analytics implementation case
-  - analytics implementation case strategy
-  - how to implement analytics implementation case
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "analytics implementation case schools"
+  - "best practices analytics implementation case"
+  - "analytics implementation case strategy"
+  - "how to implement analytics implementation case"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on analytics implementation case for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

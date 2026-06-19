@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Kolkata"
-slug: "school-erp-in-kolkata"
+slug: "22-school-erp-in-kolkata"
 meta_description: "School ERP in Kolkata: cloud-based school management for West Bengal schools with CBSE, ICSE, and state board compliance, admissions pipeline, and analytics."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Kolkata"
-secondary_keywords: ["school management system Kolkata", "Kolkata school software", "West Bengal school ERP", "best ERP for Kolkata schools"]
+secondary_keywords:
+  - "school management system Kolkata"
+  - "Kolkata school software"
+  - "West Bengal school ERP"
+  - "best ERP for Kolkata schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## School ERP in Kolkata
 

@@ -1,18 +1,21 @@
 ---
 title: "ICC Member Roles and Responsibilities Under POSH Act"
-slug: "icc-member-roles-responsibilities-posh"
+slug: "54-icc-member-roles"
 meta_description: "Understand what each ICC member does under POSH Act 2013. Covers Presiding Officer, employee members, and external member duties during investigation."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "ICC member roles POSH schools"
-secondary_keywords: ["POSH Presiding Officer duties", "ICC investigation POSH", "ICC member responsibilities", "internal complaints committee roles"]
-intent: "informational"
+secondary_keywords:
+  - "POSH Presiding Officer duties"
+  - "ICC investigation POSH"
+  - "ICC member responsibilities"
+  - "internal complaints committee roles"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 Each member of the Internal Complaints Committee (ICC) has specific functions under the POSH Act 2013. Understanding these roles before a complaint is filed prevents confusion and delays when the ICC is actually needed.
 
 ## Presiding Officer

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Technology Investments: Building the Right Budget"
-slug: "technology-investments-right-budget"
+slug: "99-technology-investments-right-budget"
 meta_description: "Learn about technology investments: building the right budget in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "technology investments: building the right budget"
-secondary_keywords: ["school management", "school policy", "finance", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "finance"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Complex Financial Management Without Clear Systems
 
 Most schools struggle with technology investments: building the right budget:

@@ -1,22 +1,21 @@
 ---
-title: School Visitor Policy
-slug: school-visitor-policy
-meta_description: Define clear policies for campus access, safety protocols, and guest procedures.
-category: School Administration & Operations
-primary_keyword: school visitor policy
+title: "School Visitor Policy"
+slug: "61-school-visitor-policy"
+meta_description: "Define clear policies for campus access, safety protocols, and guest procedures."
+category: "School Administration & Operations"
+primary_keyword: "school visitor policy"
 secondary_keywords:
-  - School Visitor Policy
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "School Visitor Policy"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 A school visitor policy defines who is permitted on campus, what verification they must provide, and how their visit is recorded. Schools with a written and enforced visitor policy reduce unauthorized access, support POCSO compliance, and give parents confidence in campus safety. This article covers the key components of an effective school visitor policy and practical steps for implementation.
 
 ---

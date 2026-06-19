@@ -1,8 +1,8 @@
 ---
 title: "Feature Stories in Publications: Getting Deeper Media Coverage"
-slug: "feature-stories-publications-schools"
+slug: "82-feature-stories-publications"
 meta_description: "Get feature story coverage in publications that drives school reputation. Learn to identify story angles, pitch editors, work with writers, and amplify coverage."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school feature stories media"
 secondary_keywords:
   - "school publication coverage"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Feature Stories in Publications: Getting Deeper Media Coverage
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

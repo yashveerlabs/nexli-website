@@ -1,18 +1,21 @@
-﻿---
+---
 title: "TDS Deduction and Filing Requirements for Schools"
-slug: "tds-deduction-filing-requirements"
+slug: "62-tds-deduction-filing-requirements"
 meta_description: "Learn about tds deduction and filing requirements for schools in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "tds deduction and filing requirements for schools"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with tds deduction and filing requirements for schools:

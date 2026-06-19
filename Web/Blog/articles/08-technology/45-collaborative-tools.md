@@ -1,18 +1,21 @@
 ---
 title: "Collaborative Tools for School Staff: Shared Drives, Co-editing, and Event Planning"
-slug: "collaborative-tools"
+slug: "45-collaborative-tools"
 meta_description: "Collaborative tools help school staff work together on documents, plan events, and share resources. Learn what works in the Indian school context and what to avoid."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "collaborative tools for school staff"
-secondary_keywords: ["school staff collaboration", "Google Workspace school collaboration", "school event planning tools", "document co-editing schools"]
-intent: "informational"
+secondary_keywords:
+  - "school staff collaboration"
+  - "Google Workspace school collaboration"
+  - "school event planning tools"
+  - "document co-editing schools"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Why School Staff Need Better Collaboration Tools
 
 Collaboration tools for school staff address a real problem: schools are complex organisations where many people need to work together on shared tasks, but the default tools are often unsuitable. Staff email chains with multiple "Reply All" responses become unmanageable. Shared documents sent as email attachments result in version conflicts. Event planning happens through a combination of WhatsApp groups, paper lists, and meetings that produce minutes that nobody can find a week later.

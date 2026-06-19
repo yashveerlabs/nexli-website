@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Document Sharing: Secure Exchange of Important Information"
-slug: "document-sharing-secure-exchange"
+slug: "76-document-sharing-secure-exchange"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how secure document portals (not email) should be used for sensitive records: medical forms, emergency contacts, consent documents."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Document Sharing: Secure Exchange of Important Information
 
 Secure document portals (not email) should be used for sensitive records: medical forms, emergency contacts, consent documents.

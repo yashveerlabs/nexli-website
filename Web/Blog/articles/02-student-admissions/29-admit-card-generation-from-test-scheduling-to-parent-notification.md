@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Admit Card Generation: From Test Scheduling to Parent Notification"
-slug: admit-card-generation-from-test-scheduling-to-parent-notification
-meta_description: admit card generation: from test scheduling to parent notification. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: admit card generation
+slug: "29-admit-card-generation-from-test-scheduling-to-parent-notification"
+meta_description: "admit card generation: from test scheduling to parent notification. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "admit card generation"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article explores best practices for admit card generation in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

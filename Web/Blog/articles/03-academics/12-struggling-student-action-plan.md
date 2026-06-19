@@ -1,18 +1,21 @@
 ---
 title: "Struggling Student Support: Creating an Action Plan"
-slug: "struggling-student-support-action-plan"
+slug: "12-struggling-student-action-plan"
 meta_description: "Create effective action plans for struggling students. Structured approach to identify needs, set goals, and track progress."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "struggling student action plan support framework"
-secondary_keywords: ["intervention planning", "student remediation", "progress goals", "support strategy"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "intervention planning"
+  - "student remediation"
+  - "progress goals"
+  - "support strategy"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Reactive, Unfocused Support
 
 A student is "struggling." The school's response is often reactive and unfocused:

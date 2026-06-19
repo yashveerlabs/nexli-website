@@ -1,22 +1,21 @@
 ---
-title: Facility Manager Responsibilities
-slug: facility-manager-responsibilities
-meta_description: Understand the role and key duties of facility/infrastructure managers in schools.
-category: School Administration & Operations
-primary_keyword: facility manager responsibilities
+title: "Facility Manager Responsibilities"
+slug: "72-facility-manager-responsibilities"
+meta_description: "Understand the role and key duties of facility/infrastructure managers in schools."
+category: "School Administration & Operations"
+primary_keyword: "facility manager responsibilities"
 secondary_keywords:
-  - Facility Manager Responsibilities
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Facility Manager Responsibilities"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 A school facility manager is responsible for maintaining all physical assets, coordinating maintenance staff, managing vendor relationships, and ensuring the campus meets safety and compliance standards. Schools with a clearly defined facility manager role experience fewer infrastructure gaps, faster repair turnaround, and better audit outcomes. This article covers the key challenges, practical solutions, and a clear framework for the facility manager role in schools.
 
 ---

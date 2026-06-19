@@ -1,22 +1,21 @@
 ---
-title: Building an Administrative Knowledge Base for Your School
-slug: admin-knowledge-base-school
-meta_description: Practical guide to building a school administrative knowledge base, what to document, how to structure it, and how to keep it current so your school runs without depending on key people.
-category: School Administration & Operations
-primary_keyword: school administrative knowledge base
+title: "Building an Administrative Knowledge Base for Your School"
+slug: "110-admin-knowledge-base-school"
+meta_description: "Practical guide to building a school administrative knowledge base, what to document, how to structure it, and how to keep it current so your school runs without depending on key people."
+category: "School Administration & Operations"
+primary_keyword: "school administrative knowledge base"
 secondary_keywords:
-  - school administration documentation
-  - knowledge management schools
-  - school operations manual
-  - institutional memory school
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school administration documentation"
+  - "knowledge management schools"
+  - "school operations manual"
+  - "institutional memory school"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 A school administrative knowledge base is a structured repository of procedures, policies, contacts, and institutional knowledge that keeps the school running regardless of staff turnover. Schools without one depend on individual memory: when a long-serving accountant leaves, fee collection stumbles; when a VP moves on, processes she carried in her head vanish. A well-built knowledge base turns institutional memory into institutional property. This article covers what to document, how to organize it, and how to keep it current.

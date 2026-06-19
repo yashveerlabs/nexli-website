@@ -1,8 +1,8 @@
 ---
 title: "Student Medical Records: Collection and Maintenance"
-slug: student-medical-records-collection-and-maintenance
+slug: "35-student-medical-records-collection-and-maintenance"
 meta_description: "Build a compliant student medical records system for Indian schools: collection, secure storage, access control, privacy compliance, and annual maintenance."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "student medical records schools India"
 secondary_keywords:
   - "school health records management"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Student Medical Records: Collection and Maintenance
 
 Medical records are essential for safe student care. Proper collection and maintenance ensure access and compliance.

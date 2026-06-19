@@ -1,8 +1,8 @@
 ---
 title: "Implementation Cost vs. Vendor Quotes: The Hidden Expenses"
-slug: "implementation-cost-vs.-vendor-quotes"
+slug: "37-implementation-cost-vs.-vendor-quotes"
 meta_description: "School ERP total cost of ownership: what vendor quotes typically exclude, data migration, training, customization, integration, and renewal escalation. How to negotiate."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP implementation cost"
 secondary_keywords:
   - "school ERP total cost of ownership"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school software cost negotiation"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Implementation Cost vs. Vendor Quotes: The Hidden Expenses
 
 **Vendor quotes for school ERP typically show the subscription price, the annual fee per student or per school. The actual cost of ownership includes implementation, data migration, training, customization, integrations, and renewal rate increases. Schools that compare only quoted prices often find their Year 2 costs significantly higher than Year 1.**

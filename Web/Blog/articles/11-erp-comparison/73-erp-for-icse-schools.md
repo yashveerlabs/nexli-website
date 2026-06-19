@@ -1,8 +1,8 @@
 ---
 title: "ERP for ICSE Schools: What the Council's Requirements Mean for Your ERP"
-slug: "erp-for-icse-schools"
+slug: "73-erp-for-icse-schools"
 meta_description: "School ERP for ICSE and ISC schools: grading structure, subject variety, internal assessment records, Certificate of Registration, and what CISCE compliance requires from your ERP."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "ERP for ICSE schools India"
 secondary_keywords:
   - "ICSE school management software"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "ICSE grading ERP"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## ERP for ICSE Schools: What the Council's Requirements Mean for Your ERP
 
 **ICSE (Indian Certificate of Secondary Education) and ISC (Indian School Certificate) are governed by CISCE, the Council for the Indian School Certificate Examinations. ICSE schools have a wider subject offering than CBSE, a percentage-based grading system, and distinct internal assessment requirements. Schools affiliated with CISCE need an ERP that handles these specifics correctly.**

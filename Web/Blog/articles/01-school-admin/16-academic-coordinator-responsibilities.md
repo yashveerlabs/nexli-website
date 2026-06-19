@@ -1,22 +1,21 @@
 ---
 title: "Academic Coordinator Responsibilities: Day-to-Day Management"
-slug: academic-coordinator-responsibilities-management
-meta_description: Complete role definition for academic coordinators. Daily, weekly, and monthly responsibilities in school management.
-category: School Administration & Operations
-primary_keyword: academic coordinator responsibilities
+slug: "16-academic-coordinator-responsibilities"
+meta_description: "Complete role definition for academic coordinators. Daily, weekly, and monthly responsibilities in school management."
+category: "School Administration & Operations"
+primary_keyword: "academic coordinator responsibilities"
 secondary_keywords:
-  - academic management
-  - coordinator role
-  - school operations
-  - administrative roles
-intent: reference
-author: Yashveer Labs
-date: 2026-06-19
+  - "academic management"
+  - "coordinator role"
+  - "school operations"
+  - "administrative roles"
+intent: "reference"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 An academic coordinator bridges teaching and administration. They track curriculum progress, monitor student performance, identify at-risk students, and support teachers. This article defines their role, daily responsibilities, skills needed, and KPIs to measure success.

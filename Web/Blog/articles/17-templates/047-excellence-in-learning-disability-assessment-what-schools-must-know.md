@@ -1,22 +1,21 @@
 ---
-title: Excellence in Learning Disability Assessment: What Schools Must Know
-slug: excellence-in-learning-disability-assessment-what-schools-must-know
-meta_description: Excellence in Learning Disability Assessment: What School...
-category: SOPs & Templates
-primary_keyword: learning disability assessment
+title: "Excellence in Learning Disability Assessment: What Schools Must Know"
+slug: "047-excellence-in-learning-disability-assessment-what-schools-must-know"
+meta_description: "Excellence in Learning Disability Assessment: What School..."
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "learning disability assessment"
 secondary_keywords:
-  - learning disability assessment schools
-  - best practices learning disability assessment
-  - learning disability assessment strategy
-  - how to implement learning disability assessment
-intent: informational
+  - "learning disability assessment schools"
+  - "best practices learning disability assessment"
+  - "learning disability assessment strategy"
+  - "how to implement learning disability assessment"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on learning disability assessment for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,18 +1,20 @@
 ---
 title: "School Without Walls"
-slug: "school-without-walls"
+slug: "93-school-without-walls"
 meta_description: "How school ERPs support school without walls for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "school without walls ERP management"
-secondary_keywords: ["non-traditional school ERP India", "open learning school management", "experiential school ERP", "alternative school management system"]
+secondary_keywords:
+  - "non-traditional school ERP India"
+  - "open learning school management"
+  - "experiential school ERP"
+  - "alternative school management system"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## School Without Walls
 

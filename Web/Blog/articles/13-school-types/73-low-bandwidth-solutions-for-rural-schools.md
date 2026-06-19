@@ -1,18 +1,20 @@
 ---
 title: "Low Bandwidth Solutions for Rural Schools"
-slug: "low-bandwidth-solutions-for-rural-schools"
+slug: "73-low-bandwidth-solutions-for-rural-schools"
 meta_description: "How school ERPs support low bandwidth solutions for rural schools for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "low bandwidth ERP solutions rural schools"
-secondary_keywords: ["offline school management software India", "low internet school ERP", "rural school technology solutions", "bandwidth-efficient school ERP"]
+secondary_keywords:
+  - "offline school management software India"
+  - "low internet school ERP"
+  - "rural school technology solutions"
+  - "bandwidth-efficient school ERP"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Low Bandwidth Solutions for Rural Schools
 

@@ -1,19 +1,22 @@
 ---
 title: "Financial Planning for School Growth"
-slug: financial-planning-for-school-growth
-category: 9
-order: 35
-primary_keyword: "financial planning for school growth"
+slug: "35-financial-planning-for-school-growth"
 meta_description: "How school principals can build a sound financial plan for enrollment growth, program expansion, or campus expansion, covering costs, risks, funding, and sustainability."
-secondary_keywords: ["school growth planning", "school expansion finance", "school financial model", "enrollment growth budget"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "financial planning for school growth"
+secondary_keywords:
+  - "school growth planning"
+  - "school expansion finance"
+  - "school financial model"
+  - "enrollment growth budget"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
+order: 35
 ---
-
 # Financial Planning for School Growth
 
 Growth requires capital. Financial planning ensures you have resources for expansion while maintaining financial health.

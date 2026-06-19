@@ -1,22 +1,21 @@
 ---
-title: How to Create an Exam Schedule Without Timetable Conflicts
-slug: create-exam-schedule-conflicts
-meta_description: Master constraint-based exam scheduling to avoid room conflicts, invigilator clashes, and student overlaps. Step-by-step scheduling methodology.
-category: Academic Management & Teaching Excellence
-primary_keyword: exam schedule creation
+title: "How to Create an Exam Schedule Without Timetable Conflicts"
+slug: "119-exam-schedule-conflicts"
+meta_description: "Master constraint-based exam scheduling to avoid room conflicts, invigilator clashes, and student overlaps. Step-by-step scheduling methodology."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "exam schedule creation"
 secondary_keywords:
-  - exam timetable planning
-  - scheduling constraints
-  - conflict-free scheduling
-  - exam logistics management
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "exam timetable planning"
+  - "scheduling constraints"
+  - "conflict-free scheduling"
+  - "exam logistics management"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 Exam scheduling is complex when juggling multiple sections, rooms, and invigilators. Schools using systematic constraint-based scheduling report 100% conflict-free schedules and zero staff complaints about duty allocation.

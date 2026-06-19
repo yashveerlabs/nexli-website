@@ -1,18 +1,20 @@
 ---
 title: "Urban Expansion School Case Study"
-slug: "urban-expansion-school-case-study"
+slug: "96-urban-expansion-school-case-study"
 meta_description: "Urban expansion school case study: how schools in India's rapidly expanding urban areas managed growth from single campus to multi-campus with cloud ERP."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "urban expansion school ERP India case study"
-secondary_keywords: ["school expansion ERP India", "multi-campus growth school management", "urban school expansion case study", "school ERP scaling India"]
+secondary_keywords:
+  - "school expansion ERP India"
+  - "multi-campus growth school management"
+  - "urban school expansion case study"
+  - "school ERP scaling India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Urban Expansion School Case Study
 

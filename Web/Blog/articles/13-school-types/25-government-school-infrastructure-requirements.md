@@ -1,18 +1,20 @@
 ---
 title: "Government School Infrastructure Requirements"
-slug: "government-school-infrastructure-requirements"
+slug: "25-government-school-infrastructure-requirements"
 meta_description: "How school ERPs support government school infrastructure requirements for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "government school infrastructure ERP"
-secondary_keywords: ["school asset management India", "government school facility tracking", "school maintenance ERP", "infrastructure compliance schools"]
+secondary_keywords:
+  - "school asset management India"
+  - "government school facility tracking"
+  - "school maintenance ERP"
+  - "infrastructure compliance schools"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Government School Infrastructure Requirements
 

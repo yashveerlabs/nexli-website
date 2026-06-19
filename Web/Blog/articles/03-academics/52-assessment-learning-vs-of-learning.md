@@ -1,22 +1,21 @@
 ---
-title: Assessment for Learning vs. Assessment of Learning
-slug: assessment-learning-vs-of-learning
-meta_description: Use formative and summative assessment strategically in your classroom.
-category: Academic Management & Teaching Excellence
-primary_keyword: assessment learning vs of learning
+title: "Assessment for Learning vs. Assessment of Learning"
+slug: "52-assessment-learning-vs-of-learning"
+meta_description: "Use formative and summative assessment strategically in your classroom."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "assessment learning vs of learning"
 secondary_keywords:
-  - Assessment Learning Vs Of Learning
-  - teaching effectiveness
-  - student learning
-  - academic excellence
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Assessment Learning Vs Of Learning"
+  - "teaching effectiveness"
+  - "student learning"
+  - "academic excellence"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Executive Summary
 
 Assessment for Learning vs. Assessment of Learning is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process see measurable improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.

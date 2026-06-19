@@ -1,18 +1,21 @@
 ---
 title: "RTE Reimbursement: How Schools Claim Government Compensation for EWS Students"
-slug: "rte-reimbursement-claims"
+slug: "14-rte-reimbursement-claims"
 meta_description: "Learn how schools claim RTE reimbursement for EWS students. Understand calculation methods, documentation, submission timelines, and common claim rejections."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "RTE reimbursement schools"
-secondary_keywords: ["EWS reimbursement", "government education funding", "RTE compensation", "school finance compliance"]
-intent: "informational"
+secondary_keywords:
+  - "EWS reimbursement"
+  - "government education funding"
+  - "RTE compensation"
+  - "school finance compliance"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 Schools providing free education to EWS students under RTE can claim government reimbursement for each enrolled student. The reimbursement rate equals the per-student government school expenditure, lower than private school fees but a critical revenue source.
 
 ## What Is Reimbursable?

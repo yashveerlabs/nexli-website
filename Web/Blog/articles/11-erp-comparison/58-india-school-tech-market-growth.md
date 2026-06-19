@@ -1,24 +1,21 @@
 ---
 title: "India School Technology Market: What Is Driving ERP Adoption"
-slug: "india-school-tech-market-growth"
+slug: "58-india-school-tech-market-growth"
 meta_description: "What is driving school ERP adoption in India: regulatory requirements, parent expectations, fee management pressures, and the unique context of Indian K-12 schools."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "India school technology market"
 secondary_keywords:
   - "school ERP adoption India"
   - "Indian school management software market"
   - "school digitalization India drivers"
   - "India K-12 EdTech ERP"
-intent: "informational"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## India School Technology Market: What Is Driving ERP Adoption
 
 **India has approximately 1.5 million schools, the majority of which are government-run. The private school sector, where ERP adoption is most active, numbers around 300,000+ schools. Among these, ERP penetration has grown substantially since 2020. Understanding what is driving adoption helps schools evaluate whether they are behind the curve and what factors will shape the market in the next 3-5 years.**

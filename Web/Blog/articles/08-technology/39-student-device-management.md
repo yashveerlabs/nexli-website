@@ -1,18 +1,21 @@
 ---
 title: "Managing Student Devices in Schools: BYOD, MDM, App Policies, and DPDP Compliance"
-slug: "student-device-management"
+slug: "39-student-device-management"
 meta_description: "Schools managing student devices must balance learning access, content filtering, and privacy. Learn BYOD vs school-issued devices, MDM tools, and DPDP Act compliance for monitoring."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "student device management schools"
-secondary_keywords: ["BYOD school policy India", "MDM for schools", "school device monitoring DPDP", "student tablet management"]
-intent: "informational"
+secondary_keywords:
+  - "BYOD school policy India"
+  - "MDM for schools"
+  - "school device monitoring DPDP"
+  - "student tablet management"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## The Two Models: BYOD vs. School-Issued Devices
 
 Student device management in schools starts with a fundamental decision: should students bring their own devices (BYOD), or should the school provide devices?

@@ -1,22 +1,21 @@
 ---
-title: Creating Effective Department Meetings in Schools
-slug: creating-effective-department-meetings
-meta_description: Design and facilitate department meetings that drive decisions without wasting teacher time.
-category: School Administration & Operations
-primary_keyword: creating effective department meetings
+title: "Creating Effective Department Meetings in Schools"
+slug: "34-creating-effective-department-meetings"
+meta_description: "Design and facilitate department meetings that drive decisions without wasting teacher time."
+category: "School Administration & Operations"
+primary_keyword: "creating effective department meetings"
 secondary_keywords:
-  - Creating Effective Department Meetings
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Creating Effective Department Meetings"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Creating Effective Department Meetings in Schools
 
 Creating effective department meetings is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that run structured department meetings report significant improvements in speed, consistency, and stakeholder confidence.

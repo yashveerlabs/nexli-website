@@ -1,18 +1,21 @@
 ---
 title: "School Policy Manual: How to Create and Maintain One"
-slug: "school-policy-manual-creation"
+slug: "95-school-policy-manual-creation"
 meta_description: "Create a comprehensive school policy manual. Covers essential policies, format, approval process, distribution, and annual review requirements for Indian schools."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "school policy manual creation India"
-secondary_keywords: ["school policy document", "school handbook policy", "school governance policy manual", "policy creation school India"]
-intent: "informational"
+secondary_keywords:
+  - "school policy document"
+  - "school handbook policy"
+  - "school governance policy manual"
+  - "policy creation school India"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 A school policy manual is a consolidated set of written policies that govern how the school operates. It provides clarity to staff, students, and parents about expectations, procedures, and consequences. Schools without documented policies operate on informal understandings that change with each new principal, create inconsistent application, and offer no defense in regulatory or legal disputes.
 
 The policy manual is the school's operational constitution.

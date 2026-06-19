@@ -1,22 +1,21 @@
 ---
-title: Scaling Academic Performance Analysis Across Your School
-slug: scaling-academic-performance-analysis-across-your-school
-meta_description: Scaling Academic Performance Analysis Across Your School
-category: Research & Statistics
-primary_keyword: academic performance analysis
+title: "Scaling Academic Performance Analysis Across Your School"
+slug: "008-scaling-academic-performance-analysis-across-your-school"
+meta_description: "Scaling Academic Performance Analysis Across Your School"
+category: "School Research, Statistics & Reports"
+primary_keyword: "academic performance analysis"
 secondary_keywords:
-  - academic performance analysis schools
-  - best practices academic performance analysis
-  - academic performance analysis strategy
-  - how to implement academic performance analysis
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "academic performance analysis schools"
+  - "best practices academic performance analysis"
+  - "academic performance analysis strategy"
+  - "how to implement academic performance analysis"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on academic performance analysis for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

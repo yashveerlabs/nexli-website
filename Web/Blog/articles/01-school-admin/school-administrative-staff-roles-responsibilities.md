@@ -2,7 +2,7 @@
 title: "School Administrative Staff: Roles, Responsibilities, and Training"
 slug: "school-administrative-staff-roles-responsibilities"
 meta_description: "Define roles of principal, vice principal, administrative staff, and their key responsibilities in school operations."
-category: "01"
+category: "School Administration & Operations"
 primary_keyword: "administrative staff roles, principal responsibilities, school hierarchy"
 secondary_keywords:
   - "job descriptions"
@@ -16,7 +16,6 @@ branding_block_founder: 20
 branding_block_company: 20
 branding_block_nexli: 20
 ---
-
 # School Administrative Staff: Roles, Responsibilities, and Training
 
 School administrative staff roles in India span principals, vice principals, coordinators, administrative officers, accountants, and support staff, each with distinct responsibilities and system access requirements. Defining these roles clearly prevents accountability gaps, protects data privacy, and ensures the right person handles each task. This reference guide covers the core administrative staff roles in K-12 schools, their primary responsibilities, and the training needed to perform them effectively.

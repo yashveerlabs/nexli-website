@@ -2,7 +2,7 @@
 title: "NEP 2020 Competency Framework: Aligning Your School Curriculum"
 slug: "nep-2020-competency-framework-alignment"
 meta_description: "Implement NEP 2020 competency framework and transform your curriculum for 21st-century skill development."
-category: "03"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "NEP 2020, competency framework, curriculum transformation"
 secondary_keywords:
   - "skill development"
@@ -12,9 +12,11 @@ secondary_keywords:
 intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
+branding_block_founder: 9
+branding_block_company: 9
+branding_block_nexli: 9
 branding_block: 20
 ---
-
 # NEP 2020 Competency Framework: Aligning Your School Curriculum
 
 ## Problem

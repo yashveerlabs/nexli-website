@@ -1,8 +1,8 @@
 ---
 title: "Walking Routes: Safety for Students"
-slug: walking-routes-safety-for-students
+slug: "29-walking-routes-safety-for-students"
 meta_description: "Create safe walking routes for school students: hazard assessment, crossing guards, pedestrian infrastructure, and parent communication for Indian schools."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "safe walking routes school students"
 secondary_keywords:
   - "student pedestrian safety"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Walking Routes: Safety for Students
 
 Students often walk to school. Ensure routes are safe.

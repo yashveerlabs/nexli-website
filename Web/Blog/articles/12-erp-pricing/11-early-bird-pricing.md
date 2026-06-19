@@ -1,20 +1,20 @@
 ---
 title: "Early Bird Pricing and Launch Offers for School ERP"
-slug: "early-bird-pricing-launch-offers"
+slug: "11-early-bird-pricing"
 meta_description: "Early bird discounts on school ERP launches. How to evaluate limited-time pricing offers. Is early adoption worth the risk?"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "early bird pricing school ERP"
-secondary_keywords: ["launch offer school software", "ERP promotional pricing", "early adopter discount"]
-intent: "cost_comparison"
+secondary_keywords:
+  - "launch offer school software"
+  - "ERP promotional pricing"
+  - "early adopter discount"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 **Snippet:** Early bird offers on new ERPs typically provide 20–40% discounts for first 50–100 customers. But early adopters bear product risk (bugs, missing features, incomplete documentation). Evaluate whether discount value outweighs stability risk.
 
 ## The Early Bird Dilemma

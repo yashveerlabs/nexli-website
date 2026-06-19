@@ -1,22 +1,21 @@
 ---
-title: How to Improve Security Guard Duty Roster: Best Practices
-slug: how-to-improve-security-guard-duty-roster-best-practices
-meta_description: How to Improve Security Guard Duty Roster: Best Practices
-category: SOPs & Templates
-primary_keyword: security guard duty roster
+title: "How to Improve Security Guard Duty Roster: Best Practices"
+slug: "022-how-to-improve-security-guard-duty-roster-best-practices"
+meta_description: "How to Improve Security Guard Duty Roster: Best Practices"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "security guard duty roster"
 secondary_keywords:
-  - security guard duty roster schools
-  - best practices security guard duty roster
-  - security guard duty roster strategy
-  - how to implement security guard duty roster
-intent: informational
+  - "security guard duty roster schools"
+  - "best practices security guard duty roster"
+  - "security guard duty roster strategy"
+  - "how to implement security guard duty roster"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on security guard duty roster for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

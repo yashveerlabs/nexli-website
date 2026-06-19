@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Classroom Renovation Story (And How to Fix Them)
-slug: common-mistakes-in-classroom-renovation-story-and-how-to-fix-them
-meta_description: Common Mistakes in Classroom Renovation Story (And How to...
-category: Success Stories & Cases
-primary_keyword: classroom renovation story
+title: "Common Mistakes in Classroom Renovation Story (And How to Fix Them)"
+slug: "050-common-mistakes-in-classroom-renovation-story-and-how-to-fix-them"
+meta_description: "Common Mistakes in Classroom Renovation Story (And How to..."
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "classroom renovation story"
 secondary_keywords:
-  - classroom renovation story schools
-  - best practices classroom renovation story
-  - classroom renovation story strategy
-  - how to implement classroom renovation story
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "classroom renovation story schools"
+  - "best practices classroom renovation story"
+  - "classroom renovation story strategy"
+  - "how to implement classroom renovation story"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on classroom renovation story for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

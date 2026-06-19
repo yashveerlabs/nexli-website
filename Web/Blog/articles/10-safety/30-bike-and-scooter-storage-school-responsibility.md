@@ -1,8 +1,8 @@
 ---
 title: "Bike and Scooter Storage: School Responsibility"
-slug: bike-and-scooter-storage-school-responsibility
+slug: "30-bike-and-scooter-storage-school-responsibility"
 meta_description: "Provide secure bike and scooter storage at school: facility design, security measures, student registration, liability policies, and safety training."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school bike storage responsibility"
 secondary_keywords:
   - "bicycle storage school"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Bike and Scooter Storage: School Responsibility
 
 Secure bike/scooter storage encourages active transportation. School provides safe storage.

@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Incident Report Template
-slug: the-complete-guide-to-incident-report-template
-meta_description: The Complete Guide to Incident Report Template
-category: SOPs & Templates
-primary_keyword: incident report template
+title: "The Complete Guide to Incident Report Template"
+slug: "011-the-complete-guide-to-incident-report-template"
+meta_description: "The Complete Guide to Incident Report Template"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "incident report template"
 secondary_keywords:
-  - incident report template schools
-  - best practices incident report template
-  - incident report template strategy
-  - how to implement incident report template
-intent: informational
+  - "incident report template schools"
+  - "best practices incident report template"
+  - "incident report template strategy"
+  - "how to implement incident report template"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on incident report template for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

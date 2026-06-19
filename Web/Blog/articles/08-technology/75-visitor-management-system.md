@@ -1,18 +1,20 @@
 ---
 title: "Visitor Management System for Schools: OTP Verification, Gate Register, and Blacklisting"
-slug: "visitor-management-system"
+slug: "75-visitor-management-system"
 meta_description: "A school visitor management system uses OTP-verified entry, a digital gate register, expected visitor lists, blacklisting, and visitor badges to replace paper registers at the school gate."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school visitor management system"
-secondary_keywords: ["OTP verified visitor entry school", "digital gate register school", "school visitor blacklist"]
-intent: "informational"
+secondary_keywords:
+  - "OTP verified visitor entry school"
+  - "digital gate register school"
+  - "school visitor blacklist"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Visitor Management for Schools: Replacing the Paper Register at the Gate
 
 A school visitor management system replaces the paper register at the school gate with a digital process that verifies visitor identity, records entry and exit times, manages an expected visitor list, maintains a blacklist, and creates a searchable history of every person who entered the school.

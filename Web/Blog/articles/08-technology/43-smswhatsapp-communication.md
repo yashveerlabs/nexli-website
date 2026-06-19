@@ -1,18 +1,21 @@
 ---
 title: "SMS vs WhatsApp for School Communication: Reach, Cost, and TRAI Compliance"
-slug: "smswhatsapp-communication"
+slug: "43-smswhatsapp-communication"
 meta_description: "Schools use SMS and WhatsApp to communicate with parents, but each has legal and practical limits. Learn TRAI bulk SMS rules, WhatsApp Business realities, and what works best."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school SMS WhatsApp communication"
-secondary_keywords: ["bulk SMS school India", "TRAI school messaging", "WhatsApp school parents", "school parent communication platform"]
-intent: "informational"
+secondary_keywords:
+  - "bulk SMS school India"
+  - "TRAI school messaging"
+  - "WhatsApp school parents"
+  - "school parent communication platform"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## How Schools Actually Communicate With Parents Today
 
 SMS and WhatsApp for school communication are the two dominant channels through which Indian schools reach parents outside the school campus. Each has different reach characteristics, costs, legal requirements, and practical limitations. Understanding both helps schools choose an approach that is reliable, compliant, and appropriate for their parent population.

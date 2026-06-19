@@ -1,8 +1,8 @@
 ---
 title: "School ERP Implementation Budget Planning"
-slug: "implementation-budget-planning"
+slug: "56-implementation-budget-planning"
 meta_description: "How to build a realistic school ERP implementation budget: subscription, one-time fees, hardware, internet, training, and contingency, with estimates for Indian schools."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP implementation budget"
 secondary_keywords:
   - "school ERP budget planning India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP cost estimate"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## School ERP Implementation Budget Planning
 
 **School ERP implementation budgets are often underplanned because schools focus on the subscription quote and forget everything else. A comprehensive implementation budget covers software, hardware (if needed), infrastructure improvements, internal staff time, and contingency. This guide helps build a realistic budget for a first-year ERP implementation.**

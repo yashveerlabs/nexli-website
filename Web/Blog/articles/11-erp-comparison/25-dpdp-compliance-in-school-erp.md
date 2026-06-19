@@ -1,8 +1,8 @@
 ---
 title: "DPDP Compliance in School ERP: What Indian Schools Need"
-slug: "dpdp-compliance-in-school-erp"
+slug: "25-dpdp-compliance-in-school-erp"
 meta_description: "DPDP Act 2023 compliance for school ERPs: parental consent, data access audit logs, DPO dashboard, consent withdrawal, and breach notification workflows."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "DPDP compliance school ERP"
 secondary_keywords:
   - "DPDP Act 2023 school data"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school data privacy compliance"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## DPDP Compliance in School ERP: What Indian Schools Need
 
 **The Digital Personal Data Protection Act 2023 (DPDP Act) changed how Indian schools must handle student and staff data. Parental consent is now a legal requirement before processing a child's personal data. Data access must be logged. Violations carry penalties. Schools evaluating ERPs must ask whether DPDP compliance is built into the system or left to the school to configure manually.**

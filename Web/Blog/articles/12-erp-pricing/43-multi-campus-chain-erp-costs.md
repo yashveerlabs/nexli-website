@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Multi-Campus Chain ERP Costs"
-slug: "multi-campus-chain-erp-costs"
+slug: "43-multi-campus-chain-erp-costs"
 meta_description: "Multi-Campus Chain ERP Costs"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "multi-campus"
-secondary_keywords: ["chain", "erp", "costs", "school"]
+secondary_keywords:
+  - "chain"
+  - "erp"
+  - "costs"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Multi-Campus Chain ERP Costs
 

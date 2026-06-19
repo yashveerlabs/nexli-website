@@ -1,22 +1,21 @@
-﻿---
-title: The Blockchain Security Playbook: Implementation Guide
-slug: the-blockchain-security-playbook-implementation-guide
-meta_description: The Blockchain Security Playbook: Implementation Guide
-category: Innovation & AI
-primary_keyword: blockchain security
+---
+title: "The Blockchain Security Playbook: Implementation Guide"
+slug: "066-the-blockchain-security-playbook-implementation-guide"
+meta_description: "The Blockchain Security Playbook: Implementation Guide"
+category: "Education Innovation, AI & Future"
+primary_keyword: "blockchain security"
 secondary_keywords:
-  - blockchain security schools
-  - best practices blockchain security
-  - blockchain security strategy
-  - how to implement blockchain security
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "blockchain security schools"
+  - "best practices blockchain security"
+  - "blockchain security strategy"
+  - "how to implement blockchain security"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on blockchain security for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

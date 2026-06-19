@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Creating an Admissions Test Timetable That Works"
-slug: creating-an-admissions-test-timetable-that-works
-meta_description: creating an admissions test timetable that works. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: creating an admissions test timetable that works
+slug: "28-creating-an-admissions-test-timetable-that-works"
+meta_description: "creating an admissions test timetable that works. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "creating an admissions test timetable that works"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for creating an admissions test timetable that works in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

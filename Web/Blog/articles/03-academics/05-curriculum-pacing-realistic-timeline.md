@@ -1,18 +1,21 @@
 ---
 title: "Curriculum Pacing: Creating a Realistic Teaching Timeline"
-slug: "curriculum-pacing-realistic-timeline"
+slug: "05-curriculum-pacing-realistic-timeline"
 meta_description: "Create a realistic curriculum pacing guide for your school. Balance coverage and mastery with practical pacing strategies for teachers."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "curriculum pacing guide teaching timeline"
-secondary_keywords: ["academic calendar pacing", "teaching schedule", "lesson timing", "curriculum coverage"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "academic calendar pacing"
+  - "teaching schedule"
+  - "lesson timing"
+  - "curriculum coverage"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Rushed Finals and Coverage Gaps
 
 It's May. The principal realizes Grade 10 Science has taught only 8 of 12 chapters. Panic sets in. Teachers are asked to rush through the remaining chapters in two weeks. Quality plummets. Students are confused. Board exams arrive unprepared.

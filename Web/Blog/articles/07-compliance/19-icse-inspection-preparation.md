@@ -1,18 +1,21 @@
 ---
 title: "ICSE Inspection Preparation: What Schools Need to Know"
-slug: "icse-inspection-preparation"
+slug: "19-icse-inspection-preparation"
 meta_description: "Prepare for ICSE/CISCE inspection. Learn inspection criteria, documentation requirements, common deficiencies, and how to pass CISCE affiliation review."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "ICSE inspection preparation"
-secondary_keywords: ["CISCE inspection", "ICSE affiliation review", "school inspection checklist", "ICSE documentation"]
-intent: "informational"
+secondary_keywords:
+  - "CISCE inspection"
+  - "ICSE affiliation review"
+  - "school inspection checklist"
+  - "ICSE documentation"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 CISCE conducts periodic inspection visits to verify that affiliated schools meet the standards required for ICSE and ISC affiliation. Being unprepared for an inspection can result in show-cause notices or affiliation suspension.
 
 ## What CISCE Inspectors Evaluate

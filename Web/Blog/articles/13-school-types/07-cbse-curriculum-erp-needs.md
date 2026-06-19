@@ -1,20 +1,22 @@
 ---
 title: "CBSE Curriculum: What Your ERP Needs to Support"
-slug: "cbse-curriculum-what-your-erp-needs"
+slug: "07-cbse-curriculum-erp-needs"
 meta_description: "Learn what CBSE ERP features are essential for curriculum management, including learning objectives, competency tracking, pacing verification, and NEP 2020 competency integration."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "CBSE curriculum ERP features"
-secondary_keywords: ["CBSE learning objectives tracking", "curriculum pacing ERP", "competency-based learning CBSE", "lesson plan curriculum alignment", "CBSE chapter coverage tracking"]
+secondary_keywords:
+  - "CBSE learning objectives tracking"
+  - "curriculum pacing ERP"
+  - "competency-based learning CBSE"
+  - "lesson plan curriculum alignment"
+  - "CBSE chapter coverage tracking"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
-date: "2026-06-19"
 ---
-
 ## The CBSE Curriculum Problem: Coverage Without Clarity
 
 CBSE schools receive detailed curriculum documents: chapters, learning objectives, prescribed textbooks, internal assessment specifications, and board exam blueprints. Yet most schools struggle to translate these documents into day-to-day classroom execution.

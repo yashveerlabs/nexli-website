@@ -1,19 +1,22 @@
 ---
 title: "Conflict Resolution for Principals"
-slug: conflict-resolution-for-principals
-category: 9
-order: 5
-primary_keyword: "conflict resolution for school principals"
+slug: "05-conflict-resolution-for-principals"
 meta_description: "A step-by-step conflict resolution guide for school principals covering staff conflicts, parent disputes, and student issues with practical mediation techniques."
-secondary_keywords: ["school conflict management", "principal mediation skills", "resolving staff conflicts in schools", "school leadership conflict resolution"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "conflict resolution for school principals"
+secondary_keywords:
+  - "school conflict management"
+  - "principal mediation skills"
+  - "resolving staff conflicts in schools"
+  - "school leadership conflict resolution"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
+order: 5
 ---
-
 # Conflict Resolution for Principals
 
 Principals regularly encounter conflicts, between staff, between parents and school, between students, or between competing school needs. Effective conflict resolution is a core leadership skill.

@@ -1,19 +1,22 @@
 ---
 title: "How to Build a School Research Culture"
-slug: how-to-build-a-school-research-culture
-category: 9
-order: 48
-primary_keyword: "how to build a school research culture"
+slug: "48-how-to-build-a-school-research-culture"
 meta_description: "A guide for principals on building a school research culture, where teachers use action research, data, and evidence to make decisions and continuously improve student outcomes."
-secondary_keywords: ["school research culture", "evidence-based school", "action research teachers", "data culture school"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to build a school research culture"
+secondary_keywords:
+  - "school research culture"
+  - "evidence-based school"
+  - "action research teachers"
+  - "data culture school"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
+order: 48
 ---
-
 # How to Build a School Research Culture
 
 A research culture means teachers continually investigate practice through data and inquiry. Build evidence-based improvement into operations.

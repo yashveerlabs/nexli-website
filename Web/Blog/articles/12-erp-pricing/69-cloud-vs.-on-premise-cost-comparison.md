@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Cloud vs. On-Premise: Cost Comparison"
-slug: "cloud-vs.-on-premise-cost-comparison"
+slug: "69-cloud-vs.-on-premise-cost-comparison"
 meta_description: "Cloud vs. On-Premise: Cost Comparison"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "cloud"
-secondary_keywords: ["vs.", "on-premise:", "cost", "comparison"]
+secondary_keywords:
+  - "vs."
+  - "on-premise:"
+  - "cost"
+  - "comparison"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Cloud vs. On-Premise: Cost Comparison
 

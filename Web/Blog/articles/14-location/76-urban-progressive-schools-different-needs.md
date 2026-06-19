@@ -1,18 +1,20 @@
 ---
 title: "Urban Progressive Schools: Different Needs"
-slug: "urban-progressive-schools-different-needs"
+slug: "76-urban-progressive-schools-different-needs"
 meta_description: "Urban progressive school ERP: cloud-based school management for modern Indian schools with IB, IGCSE, NEP 2020 HPC, competency assessment, and digital portals."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "urban progressive school ERP India"
-secondary_keywords: ["modern school ERP India", "IB IGCSE school management ERP", "NEP 2020 school software", "progressive urban school management India"]
+secondary_keywords:
+  - "modern school ERP India"
+  - "IB IGCSE school management ERP"
+  - "NEP 2020 school software"
+  - "progressive urban school management India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Urban Progressive Schools: Different Needs
 

@@ -1,19 +1,22 @@
 ---
 title: "Principal and Board Relationship"
-slug: principal-and-board-relationship
-category: 9
-order: 57
-primary_keyword: "principal and board relationship"
+slug: "57-principal-and-board-relationship"
 meta_description: "Build a strong principal-board partnership through role clarity, regular communication, and mutual trust. A guide for school leaders navigating governance."
-secondary_keywords: ["school board governance", "principal board communication", "school board dynamics", "principal accountability to board"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "principal and board relationship"
+secondary_keywords:
+  - "school board governance"
+  - "principal board communication"
+  - "school board dynamics"
+  - "principal accountability to board"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 17
 branding_block_company: 17
 branding_block_nexli: 17
+order: 57
 ---
-
 # Principal and Board Relationship
 
 A strong principal-board partnership is essential. Clear roles, communication, and trust enable effective governance.

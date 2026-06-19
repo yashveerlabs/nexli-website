@@ -1,8 +1,8 @@
 ---
 title: "School Emergency Preparedness: Disaster Planning for Earthquakes, Fire, and Crisis"
-slug: "school-emergency-preparedness-disaster-planning"
+slug: "14-school-emergency-preparedness-disaster"
 meta_description: "Complete emergency preparedness guide: disaster drills, evacuation protocols, communication plans, crisis response. Protect students during emergencies."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school emergency preparedness"
 secondary_keywords:
   - "school disaster planning"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## School Emergency Preparedness: Disaster Planning for Earthquakes, Fire, and Crisis
 
 **An emergency will happen at some point: earthquake, fire, medical crisis, or security threat. Schools that prepare survive with minimal damage. Schools that don't prepare face chaos, injuries, and lasting trauma. This article reveals what principals need to do to prepare schools for emergencies: written plans, trained staff, equipment, drills, and communication systems. Schools with comprehensive emergency preparedness report 90% faster response times and near-zero injury rates in actual emergencies. A prepared school is a safe school.**

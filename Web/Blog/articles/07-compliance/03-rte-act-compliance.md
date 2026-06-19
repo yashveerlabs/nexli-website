@@ -1,18 +1,21 @@
 ---
 title: "Right to Education Act: What Schools Must Know"
-slug: "rte-act-schools-compliance"
+slug: "03-rte-act-compliance"
 meta_description: "Understand the Right to Education Act 2009 and compliance obligations for schools. Learn about EWS seats, free education, and RTE compliance procedures."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "Right to Education Act compliance"
-secondary_keywords: ["RTE Act 2009", "EWS quota", "school compliance", "free education requirements"]
-intent: "informational"
+secondary_keywords:
+  - "RTE Act 2009"
+  - "EWS quota"
+  - "school compliance"
+  - "free education requirements"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## What is the Right to Education (RTE) Act?
 
 The Right to Education Act, 2009, is India's landmark legislation making free and compulsory elementary education (Classes I-VIII) a fundamental right for all children. For private schools, RTE creates specific obligations: reserve 25% of Class I seats for economically weaker sections (EWS) students and provide free education to those students.

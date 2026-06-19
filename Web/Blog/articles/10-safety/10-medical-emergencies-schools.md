@@ -1,8 +1,8 @@
 ---
 title: "How to Handle Medical Emergencies in School"
-slug: "medical-emergencies-schools-response"
+slug: "10-medical-emergencies-schools"
 meta_description: "Guide for managing medical emergencies at school. Learn first aid protocols, emergency procedures, and how to respond to common health crises."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "medical emergencies school"
 secondary_keywords:
   - "first aid schools"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## How to Handle Medical Emergencies in School
 
 **Medical emergencies (choking, allergic reaction, seizure, fainting, chest pain) require trained, calm response. This guide covers staff training, first aid protocols, emergency communication, and recovery procedures.**

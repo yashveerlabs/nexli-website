@@ -1,19 +1,22 @@
 ---
 title: "How to Support Teachers in Improving Results"
-slug: how-to-support-teachers-improving-results
-category: 9
-order: 43
-primary_keyword: "how to support teachers in improving results"
+slug: "43-how-to-support-teachers-improving-results"
 meta_description: "Practical strategies for school principals to coach and support teachers in improving student results, through instructional coaching, resources, collaboration, and targeted feedback."
-secondary_keywords: ["teacher improvement support", "instructional coaching school", "principal teacher coaching", "improve teaching quality"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to support teachers in improving results"
+secondary_keywords:
+  - "teacher improvement support"
+  - "instructional coaching school"
+  - "principal teacher coaching"
+  - "improve teaching quality"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
+order: 43
 ---
-
 # How to Support Teachers in Improving Results
 
 Teachers often want to improve but don't know how. Your job is to provide support, resources, and coaching.

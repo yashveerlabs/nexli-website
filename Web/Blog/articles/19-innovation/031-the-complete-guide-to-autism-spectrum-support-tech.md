@@ -1,22 +1,21 @@
-﻿---
-title: The Complete Guide to Autism Spectrum Support Tech
-slug: the-complete-guide-to-autism-spectrum-support-tech
-meta_description: The Complete Guide to Autism Spectrum Support Tech
-category: Innovation & AI
-primary_keyword: autism spectrum support tech
+---
+title: "The Complete Guide to Autism Spectrum Support Tech"
+slug: "031-the-complete-guide-to-autism-spectrum-support-tech"
+meta_description: "The Complete Guide to Autism Spectrum Support Tech"
+category: "Education Innovation, AI & Future"
+primary_keyword: "autism spectrum support tech"
 secondary_keywords:
-  - autism spectrum support tech schools
-  - best practices autism spectrum support tech
-  - autism spectrum support tech strategy
-  - how to implement autism spectrum support tech
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "autism spectrum support tech schools"
+  - "best practices autism spectrum support tech"
+  - "autism spectrum support tech strategy"
+  - "how to implement autism spectrum support tech"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on autism spectrum support tech for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

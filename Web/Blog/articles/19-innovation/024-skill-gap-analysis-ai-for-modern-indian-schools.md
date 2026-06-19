@@ -1,22 +1,21 @@
-﻿---
-title: Skill Gap Analysis Ai for Modern Indian Schools
-slug: skill-gap-analysis-ai-for-modern-indian-schools
-meta_description: Skill Gap Analysis Ai for Modern Indian Schools
-category: Innovation & AI
-primary_keyword: skill gap analysis AI
+---
+title: "Skill Gap Analysis Ai for Modern Indian Schools"
+slug: "024-skill-gap-analysis-ai-for-modern-indian-schools"
+meta_description: "Skill Gap Analysis Ai for Modern Indian Schools"
+category: "Education Innovation, AI & Future"
+primary_keyword: "skill gap analysis AI"
 secondary_keywords:
-  - skill gap analysis AI schools
-  - best practices skill gap analysis AI
-  - skill gap analysis AI strategy
-  - how to implement skill gap analysis AI
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "skill gap analysis AI schools"
+  - "best practices skill gap analysis AI"
+  - "skill gap analysis AI strategy"
+  - "how to implement skill gap analysis AI"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on skill gap analysis ai for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

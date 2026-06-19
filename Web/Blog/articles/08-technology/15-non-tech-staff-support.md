@@ -1,18 +1,21 @@
 ---
 title: "Supporting Non-Tech School Staff During ERP Adoption"
-slug: "non-tech-staff-support"
+slug: "15-non-tech-staff-support"
 meta_description: "How to support office staff, accountants, and transport managers during ERP adoption. Simplified interfaces, printed quick guides, buddy systems, and patience for non-tech users."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "non-tech school staff ERP support"
-secondary_keywords: ["school admin staff ERP training", "accountant ERP support India", "office staff digital training school", "ERP support non-technical users"]
-intent: "informational"
+secondary_keywords:
+  - "school admin staff ERP training"
+  - "accountant ERP support India"
+  - "office staff digital training school"
+  - "ERP support non-technical users"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## How Do You Support Non-Technical School Staff During an ERP Rollout?
 
 Supporting non-technical school staff during ERP adoption requires four things: simplified interfaces that show only the features they need, printed quick-reference guides for the 5 tasks they perform daily, a buddy system pairing each non-tech user with a more confident colleague, and realistic patience during the 6-8 week adjustment period. Office staff, accountants, and transport managers have distinct workflows; their support plans should be equally distinct.

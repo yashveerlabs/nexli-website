@@ -1,18 +1,20 @@
 ---
 title: "Cadet Training Tracking"
-slug: "cadet-training-tracking"
+slug: "87-cadet-training-tracking"
 meta_description: "How school ERPs support cadet training tracking for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "cadet training tracking ERP school"
-secondary_keywords: ["NCC cadet management software India", "cadet program tracking ERP", "military cadet school management", "sainik school cadet tracking"]
+secondary_keywords:
+  - "NCC cadet management software India"
+  - "cadet program tracking ERP"
+  - "military cadet school management"
+  - "sainik school cadet tracking"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Cadet Training Tracking
 

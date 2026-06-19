@@ -1,18 +1,20 @@
 ---
 title: "Building Useful School Dashboards: Metrics That Matter and How to Avoid Overload"
-slug: "dashboard-creation"
+slug: "56-dashboard-creation"
 meta_description: "Effective school dashboards show attendance rate, fee collection, and at-risk students without information overload. Learn how to design role-specific dashboards for principals and admin staff."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school dashboard design"
-secondary_keywords: ["school KPI dashboard", "principal dashboard metrics", "school management dashboard"]
-intent: "informational"
+secondary_keywords:
+  - "school KPI dashboard"
+  - "principal dashboard metrics"
+  - "school management dashboard"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Building a School Dashboard That People Actually Use
 
 A school dashboard that actually gets used every day is rare. Most schools that implement an ERP end up with dashboards that staff open once, find overwhelming, and abandon in favour of the reports they already know. The difference between a dashboard that drives decisions and one that collects digital dust comes down to three choices: which metrics to show, for whom, and at what level of detail.

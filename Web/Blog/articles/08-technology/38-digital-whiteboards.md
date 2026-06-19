@@ -1,18 +1,21 @@
 ---
 title: "Interactive Whiteboards in School Classrooms: Types, Use Cases, and Costs"
-slug: "digital-whiteboards"
+slug: "38-digital-whiteboards"
 meta_description: "Interactive whiteboards improve classroom engagement but require proper teacher training and realistic maintenance planning. Compare SMART, Promethean, and budget alternatives."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "interactive whiteboard schools"
-secondary_keywords: ["SMART Board for schools", "Promethean school whiteboard", "digital classroom board India", "interactive whiteboard cost India"]
-intent: "informational"
+secondary_keywords:
+  - "SMART Board for schools"
+  - "Promethean school whiteboard"
+  - "digital classroom board India"
+  - "interactive whiteboard cost India"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## What an Interactive Whiteboard Does and Why Schools Buy Them
 
 An interactive whiteboard (IWB) is a large display surface that responds to touch or stylus input, connected to a computer and projector or integrated as a flat-panel display. Teachers can write on it, move objects, display internet content, annotate over documents, and run interactive activities that students can participate in from their seats.

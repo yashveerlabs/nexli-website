@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Staff Ward Fees: Special Rates for Employees"
-slug: "staff-ward-fees-special-rates"
+slug: "32-staff-ward-fees-special-rates"
 meta_description: "Learn about staff ward fees: special rates for employees in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "staff ward fees: special rates for employees"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with staff ward fees: special rates for employees:

@@ -1,8 +1,8 @@
 ---
 title: "Community Service: Building School Reputation Through Social Impact"
-slug: "community-service-branding-schools"
+slug: "86-community-service-branding"
 meta_description: "Use community service programs to build school reputation and attract families who value social impact. Learn program design, publicity, and marketing community initiatives."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school community service marketing"
 secondary_keywords:
   - "school social impact branding"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Community Service: Building School Reputation Through Social Impact
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

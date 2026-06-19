@@ -1,22 +1,21 @@
-﻿---
-title: Kitchen Equipment and Maintenance
-slug: kitchen-equipment-maintenance
-meta_description: Comprehensive guide to kitchen equipment and maintenance for school administrators and leaders.
-category: School Safety, Transport, Hostel, Medical & Campus Operations
-primary_keyword: kitchen management
+---
+title: "Kitchen Equipment and Maintenance"
+slug: "66-kitchen-equipment-maintenance"
+meta_description: "Comprehensive guide to kitchen equipment and maintenance for school administrators and leaders."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "kitchen management"
 secondary_keywords:
-  - school safety
-  - kitchen management
-  - school operations
-  - campus safety
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school safety"
+  - "kitchen management"
+  - "school operations"
+  - "campus safety"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This comprehensive guide covers essential strategies and best practices for kitchen equipment and maintenance.

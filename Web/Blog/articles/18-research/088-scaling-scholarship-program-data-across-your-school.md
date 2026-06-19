@@ -1,22 +1,21 @@
 ---
-title: Scaling Scholarship Program Data Across Your School
-slug: scaling-scholarship-program-data-across-your-school
-meta_description: Scaling Scholarship Program Data Across Your School
-category: Research & Statistics
-primary_keyword: scholarship program data
+title: "Scaling Scholarship Program Data Across Your School"
+slug: "088-scaling-scholarship-program-data-across-your-school"
+meta_description: "Scaling Scholarship Program Data Across Your School"
+category: "School Research, Statistics & Reports"
+primary_keyword: "scholarship program data"
 secondary_keywords:
-  - scholarship program data schools
-  - best practices scholarship program data
-  - scholarship program data strategy
-  - how to implement scholarship program data
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "scholarship program data schools"
+  - "best practices scholarship program data"
+  - "scholarship program data strategy"
+  - "how to implement scholarship program data"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on scholarship program data for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

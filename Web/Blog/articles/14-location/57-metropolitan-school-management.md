@@ -1,18 +1,20 @@
 ---
 title: "Metropolitan School Management"
-slug: "metropolitan-school-management"
+slug: "57-metropolitan-school-management"
 meta_description: "Metropolitan school management: operating large schools in Indian cities with 2000+ students, 300+ staff, multi-campus coordination, and data-driven governance."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "metropolitan school management India ERP"
-secondary_keywords: ["large school management India", "metro school ERP", "school management 2000 students", "urban school operations India"]
+secondary_keywords:
+  - "large school management India"
+  - "metro school ERP"
+  - "school management 2000 students"
+  - "urban school operations India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Metropolitan School Management
 

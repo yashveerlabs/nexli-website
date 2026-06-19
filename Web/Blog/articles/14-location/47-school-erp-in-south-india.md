@@ -1,18 +1,20 @@
 ---
 title: "School ERP in South India"
-slug: "school-erp-in-south-india"
+slug: "47-school-erp-in-south-india"
 meta_description: "School ERP in South India: cloud-based school management for schools in Karnataka, Tamil Nadu, Telangana, AP, and Kerala with state board compliance."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP South India"
-secondary_keywords: ["school management South India", "South India state board ERP", "school software Tamil Nadu Karnataka Kerala", "school ERP Bangalore Chennai Hyderabad"]
+secondary_keywords:
+  - "school management South India"
+  - "South India state board ERP"
+  - "school software Tamil Nadu Karnataka Kerala"
+  - "school ERP Bangalore Chennai Hyderabad"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## School ERP in South India
 

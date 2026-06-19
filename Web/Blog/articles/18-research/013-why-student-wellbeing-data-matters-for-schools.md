@@ -1,22 +1,21 @@
 ---
-title: Why Student Wellbeing Data Matters for Schools
-slug: why-student-wellbeing-data-matters-for-schools
-meta_description: Why Student Wellbeing Data Matters for Schools
-category: Research & Statistics
-primary_keyword: student wellbeing data
+title: "Why Student Wellbeing Data Matters for Schools"
+slug: "013-why-student-wellbeing-data-matters-for-schools"
+meta_description: "Why Student Wellbeing Data Matters for Schools"
+category: "School Research, Statistics & Reports"
+primary_keyword: "student wellbeing data"
 secondary_keywords:
-  - student wellbeing data schools
-  - best practices student wellbeing data
-  - student wellbeing data strategy
-  - how to implement student wellbeing data
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "student wellbeing data schools"
+  - "best practices student wellbeing data"
+  - "student wellbeing data strategy"
+  - "how to implement student wellbeing data"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on student wellbeing data for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

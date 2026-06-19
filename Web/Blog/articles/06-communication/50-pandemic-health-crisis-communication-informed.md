@@ -1,18 +1,21 @@
 ---
 title: "Pandemic/Health Crisis Communication: Keeping Community Informed"
-slug: "pandemic-health-crisis-communication-informed"
+slug: "50-pandemic-health-crisis-communication-informed"
 meta_description: "Effective crisis communication strategies for Indian schools. Learn how health crises demand frequent, honest communication about protocols, cases, and changes. regular updates prevent misinformation and panic."
-category: "Crisis Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "crisis communication school emergency"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Pandemic/Health Crisis Communication: Keeping Community Informed
 
 Health crises demand frequent, honest communication about protocols, cases, and changes. Regular updates prevent misinformation and panic.

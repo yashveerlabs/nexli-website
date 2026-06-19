@@ -1,22 +1,21 @@
 ---
-title: The ROI of Better Community Engagement
-slug: the-roi-of-better-community-engagement
-meta_description: The ROI of Better Community Engagement
-category: Success Stories & Cases
-primary_keyword: community engagement
+title: "The ROI of Better Community Engagement"
+slug: "089-the-roi-of-better-community-engagement"
+meta_description: "The ROI of Better Community Engagement"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "community engagement"
 secondary_keywords:
-  - community engagement schools
-  - best practices community engagement
-  - community engagement strategy
-  - how to implement community engagement
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "community engagement schools"
+  - "best practices community engagement"
+  - "community engagement strategy"
+  - "how to implement community engagement"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on community engagement for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

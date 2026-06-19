@@ -1,22 +1,21 @@
 ---
-title: The ROI of Better Infrastructure Improvement Case
-slug: the-roi-of-better-infrastructure-improvement-case
-meta_description: The ROI of Better Infrastructure Improvement Case
-category: Success Stories & Cases
-primary_keyword: infrastructure improvement case
+title: "The ROI of Better Infrastructure Improvement Case"
+slug: "049-the-roi-of-better-infrastructure-improvement-case"
+meta_description: "The ROI of Better Infrastructure Improvement Case"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "infrastructure improvement case"
 secondary_keywords:
-  - infrastructure improvement case schools
-  - best practices infrastructure improvement case
-  - infrastructure improvement case strategy
-  - how to implement infrastructure improvement case
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "infrastructure improvement case schools"
+  - "best practices infrastructure improvement case"
+  - "infrastructure improvement case strategy"
+  - "how to implement infrastructure improvement case"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on infrastructure improvement case for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,22 +1,21 @@
 ---
-title: Industry Leadership Case for Modern Indian Schools
-slug: industry-leadership-case-for-modern-indian-schools
-meta_description: Industry Leadership Case for Modern Indian Schools
-category: Success Stories & Cases
-primary_keyword: industry leadership case
+title: "Industry Leadership Case for Modern Indian Schools"
+slug: "084-industry-leadership-case-for-modern-indian-schools"
+meta_description: "Industry Leadership Case for Modern Indian Schools"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "industry leadership case"
 secondary_keywords:
-  - industry leadership case schools
-  - best practices industry leadership case
-  - industry leadership case strategy
-  - how to implement industry leadership case
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "industry leadership case schools"
+  - "best practices industry leadership case"
+  - "industry leadership case strategy"
+  - "how to implement industry leadership case"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on industry leadership case for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

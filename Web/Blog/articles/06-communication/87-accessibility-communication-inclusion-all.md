@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Accessibility in Communication: Ensuring Inclusion for All"
-slug: "accessibility-communication-inclusion-all"
+slug: "87-accessibility-communication-inclusion-all"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how communication must be accessible: large fonts, plain language, video captions, multilingual options, and low-tech alternatives."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Accessibility in Communication: Ensuring Inclusion for All
 
 Communication must be accessible: large fonts, plain language, video captions, multilingual options, and low-tech alternatives.

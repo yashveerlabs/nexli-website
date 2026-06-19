@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Legal Requirements for School Student Records"
-slug: legal-requirements-for-school-student-records
-meta_description: legal requirements for school student records. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: legal requirements for school student records
+slug: "80-legal-requirements-for-school-student-records"
+meta_description: "legal requirements for school student records. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "legal requirements for school student records"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for legal requirements for school student records in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

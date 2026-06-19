@@ -1,22 +1,21 @@
 ---
-title: Practical Strategies for Bullying Prevalence Research
-slug: practical-strategies-for-bullying-prevalence-research
-meta_description: Practical Strategies for Bullying Prevalence Research
-category: Research & Statistics
-primary_keyword: bullying prevalence research
+title: "Practical Strategies for Bullying Prevalence Research"
+slug: "015-practical-strategies-for-bullying-prevalence-research"
+meta_description: "Practical Strategies for Bullying Prevalence Research"
+category: "School Research, Statistics & Reports"
+primary_keyword: "bullying prevalence research"
 secondary_keywords:
-  - bullying prevalence research schools
-  - best practices bullying prevalence research
-  - bullying prevalence research strategy
-  - how to implement bullying prevalence research
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "bullying prevalence research schools"
+  - "best practices bullying prevalence research"
+  - "bullying prevalence research strategy"
+  - "how to implement bullying prevalence research"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on bullying prevalence research for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

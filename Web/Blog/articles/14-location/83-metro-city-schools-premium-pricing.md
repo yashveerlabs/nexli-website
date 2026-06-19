@@ -1,18 +1,20 @@
 ---
 title: "Metro City Schools: Premium Pricing"
-slug: "metro-city-schools-premium-pricing"
+slug: "83-metro-city-schools-premium-pricing"
 meta_description: "Metro city school ERP: how cloud-based school management justifies investment for schools in Mumbai, Delhi, and Bangalore with measurable operational gains."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "metro city school ERP investment India"
-secondary_keywords: ["premium school ERP metro India", "school management Mumbai Delhi Bangalore ROI", "metro school software value", "school ERP premium segment India"]
+secondary_keywords:
+  - "premium school ERP metro India"
+  - "school management Mumbai Delhi Bangalore ROI"
+  - "metro school software value"
+  - "school ERP premium segment India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Metro City Schools: Premium Pricing
 

@@ -1,8 +1,8 @@
 ---
 title: "Emergency Response Plan for Schools: Comprehensive Procedures"
-slug: "emergency-response-plan-schools"
+slug: "07-emergency-response-plan-schools"
 meta_description: "Build a comprehensive emergency response plan for your school. Learn incident classification, response procedures, communication protocols, and recovery steps."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "emergency response plan"
 secondary_keywords:
   - "crisis management"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Emergency Response Plan for Schools: Comprehensive Procedures
 
 **Every school must have a written emergency response plan for fires, medical emergencies, violence, natural disasters, and missing students. This plan is not just a document, it's a practiced discipline. This guide shows you how to build, document, and execute an emergency response plan.**

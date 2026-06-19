@@ -1,19 +1,22 @@
 ---
 title: "Annual Planning Cycle for Principals"
-slug: annual-planning-cycle-for-principals
-category: 9
-order: 20
-primary_keyword: "annual planning cycle for school principals"
+slug: "20-annual-planning-cycle-for-principals"
 meta_description: "A complete annual planning cycle for school principals, covering summer goal-setting, mid-year monitoring, end-of-year assessment, and how to connect daily work to strategic priorities."
-secondary_keywords: ["school year planning", "principal annual plan", "school goal setting process", "school improvement planning cycle"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "annual planning cycle for school principals"
+secondary_keywords:
+  - "school year planning"
+  - "principal annual plan"
+  - "school goal setting process"
+  - "school improvement planning cycle"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 20
 branding_block_company: 20
 branding_block_nexli: 20
+order: 20
 ---
-
 # Annual Planning Cycle for Principals
 
 An annual planning cycle ensures nothing falls through the cracks. It aligns planning with budget cycles, performance management, and strategic priorities.

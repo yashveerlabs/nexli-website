@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Feedback Survey Design: Asking the Right Questions"
-slug: "feedback-survey-design-right-questions"
+slug: "88-feedback-survey-design-right-questions"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how well-designed surveys are specific, concise, and actionable. generic satisfaction questions don't yield improvement insights."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Feedback Survey Design: Asking the Right Questions
 
 Well-designed surveys are specific, concise, and actionable. Generic satisfaction questions don't yield improvement insights.

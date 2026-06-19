@@ -1,8 +1,8 @@
 ---
 title: "Transport Policy for Parents"
-slug: transport-policy-for-parents
+slug: "31-transport-policy-for-parents"
 meta_description: "Draft a clear school transport policy for parents: eligibility, routes, fees, conduct expectations, cancellations, emergency procedures, and complaint resolution."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school transport policy parents"
 secondary_keywords:
   - "bus policy school"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Transport Policy for Parents
 
 Clear transport policies inform parents and prevent misunderstandings.

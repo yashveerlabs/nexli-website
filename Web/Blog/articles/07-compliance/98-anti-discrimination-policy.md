@@ -1,18 +1,21 @@
 ---
 title: "Anti-Discrimination Policy for Schools: Legal Requirements and Implementation"
-slug: "anti-discrimination-policy-schools"
+slug: "98-anti-discrimination-policy"
 meta_description: "Develop an anti-discrimination policy for your school. Covers RTE Act provisions, protected characteristics, complaint procedures, and creating an inclusive school environment."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "anti-discrimination policy schools India"
-secondary_keywords: ["school non-discrimination policy", "RTE discrimination prohibition", "inclusive school policy India", "school equality policy"]
-intent: "informational"
+secondary_keywords:
+  - "school non-discrimination policy"
+  - "RTE discrimination prohibition"
+  - "inclusive school policy India"
+  - "school equality policy"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
 ---
-
 Discrimination in schools, against students or staff, is prohibited under multiple Indian laws. The RTE Act 2009 prohibits discrimination against children on grounds including caste, class, religion, gender, and disability. The Rights of Persons with Disabilities Act 2016 prohibits disability discrimination. The Constitution of India provides equal rights guarantees that courts have applied to educational institutions.
 
 An anti-discrimination policy is the school's formal commitment to these legal requirements and sets out how they are implemented in practice.

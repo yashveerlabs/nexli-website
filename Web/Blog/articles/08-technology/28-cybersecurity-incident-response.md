@@ -1,18 +1,21 @@
 ---
 title: "Cybersecurity Incident Response for Schools: What to Do When You're Hacked"
-slug: "cybersecurity-incident-response"
+slug: "28-cybersecurity-incident-response"
 meta_description: "When a school is hacked, the first hour matters most. Learn the incident response steps, who to notify, how to contain the breach, and DPDP Act reporting obligations."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "cybersecurity incident response for schools"
-secondary_keywords: ["school data breach response", "DPDP Act breach reporting", "school hacking response", "school IT security incident"]
-intent: "informational"
+secondary_keywords:
+  - "school data breach response"
+  - "DPDP Act breach reporting"
+  - "school hacking response"
+  - "school IT security incident"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## What to Do in the First Hour After a School Is Hacked
 
 Cybersecurity incident response for schools begins the moment someone notices something is wrong: a staff member cannot log in, student records appear to have been accessed from an unknown location, or the school's systems are displaying a ransom note. What happens in the first hour determines how much damage is done.

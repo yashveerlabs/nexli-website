@@ -1,20 +1,21 @@
 ---
 title: "School ERP in Emerging Markets: Tier 3 and Semi-Urban Growth"
-slug: "school-erp-in-emerging-markets-tier-3-semi-urban"
+slug: "99-school-erp-in-emerging-markets"
 meta_description: "Tier 3 cities need ERP systems designed for connectivity and resource constraints. Learn implementation strategies."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school erp tier 3 cities"
-secondary_keywords: ["semi-urban schools", "emerging markets", "low bandwidth erp", "rural education technology"]
+secondary_keywords:
+  - "semi-urban schools"
+  - "emerging markets"
+  - "low bandwidth erp"
+  - "rural education technology"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
-date: "2026-06-19"
 ---
-
 ## School ERP in Emerging Markets: Tier 3 and Semi-Urban Growth
 
 India's education opportunity is in Tier 3 cities and semi-urban areas. Schools there face unique challenges that ERPs must address differently than metro-based systems.

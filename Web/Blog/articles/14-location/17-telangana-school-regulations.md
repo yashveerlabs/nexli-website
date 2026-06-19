@@ -1,18 +1,20 @@
 ---
 title: "Telangana School Regulations"
-slug: "telangana-school-regulations"
+slug: "17-telangana-school-regulations"
 meta_description: "Telangana school regulations and ERP compliance: state board requirements, RTE norms, DPDP Act consent, and CBSE affiliate compliance in one platform."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "Telangana school regulations ERP compliance"
-secondary_keywords: ["Telangana school compliance", "Telangana state board ERP", "school regulation compliance Telangana", "TS school ERP requirements"]
+secondary_keywords:
+  - "Telangana school compliance"
+  - "Telangana state board ERP"
+  - "school regulation compliance Telangana"
+  - "TS school ERP requirements"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## Telangana School Regulations
 

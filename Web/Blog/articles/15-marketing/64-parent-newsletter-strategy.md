@@ -1,8 +1,8 @@
 ---
 title: "Parent Newsletter: Keeping Families Engaged Monthly"
-slug: "parent-newsletter-strategy-schools"
+slug: "64-parent-newsletter-strategy"
 meta_description: "Create a parent newsletter that keeps families engaged and drives admissions referrals. Learn content strategy, format, frequency, and newsletter growth tactics."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school parent newsletter"
 secondary_keywords:
   - "school newsletter strategy"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Parent Newsletter: Keeping Families Engaged Monthly
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

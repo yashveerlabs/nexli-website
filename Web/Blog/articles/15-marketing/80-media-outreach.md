@@ -1,8 +1,8 @@
 ---
 title: "Media Outreach: Building Journalist Relationships"
-slug: "media-outreach-schools"
+slug: "80-media-outreach"
 meta_description: "Build journalist relationships to get your school media coverage. Learn how to find education reporters, craft compelling pitches, and turn press coverage into admissions."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school media outreach"
 secondary_keywords:
   - "school journalist relationships"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Media Outreach: Building Journalist Relationships
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

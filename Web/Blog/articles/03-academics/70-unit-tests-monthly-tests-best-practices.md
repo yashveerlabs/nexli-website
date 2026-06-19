@@ -1,22 +1,21 @@
 ---
-title: Class Assessments: Unit Tests and Monthly Tests
-slug: unit-tests-monthly-tests-best-practices
-meta_description: Design and administer regular class-level assessments for skill building.
-category: Academic Management & Teaching Excellence
-primary_keyword: unit tests monthly tests best practices
+title: "Class Assessments: Unit Tests and Monthly Tests"
+slug: "70-unit-tests-monthly-tests-best-practices"
+meta_description: "Design and administer regular class-level assessments for skill building."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "unit tests monthly tests best practices"
 secondary_keywords:
-  - Unit Tests Monthly Tests Best Practices
-  - teaching effectiveness
-  - student learning
-  - academic excellence
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Unit Tests Monthly Tests Best Practices"
+  - "teaching effectiveness"
+  - "student learning"
+  - "academic excellence"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Executive Summary
 
 Class Assessments: Unit Tests and Monthly Tests is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process see measurable improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.

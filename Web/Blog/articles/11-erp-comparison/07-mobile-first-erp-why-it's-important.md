@@ -1,8 +1,8 @@
 ---
 title: "Mobile-First ERP: Why It Matters for Indian Schools"
-slug: "mobile-first-erp-why-its-important"
+slug: "07-mobile-first-erp-why-it's-important"
 meta_description: "Mobile-first school ERP means teachers mark attendance on phones, parents check fees offline, and data syncs when internet returns. Here's what to look for."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "mobile-first school ERP"
 secondary_keywords:
   - "school ERP mobile app"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP offline support"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 ## Mobile-First ERP: Why It Matters for Indian Schools
 
 **In India, most teachers and parents use their phones as their primary internet device. A school ERP that was designed for desktop and then "optimized" for mobile is not the same as one built mobile-first from day one. This difference determines whether teachers mark attendance in the field or revert to paper, and whether parents actually use the portal or ignore it.**

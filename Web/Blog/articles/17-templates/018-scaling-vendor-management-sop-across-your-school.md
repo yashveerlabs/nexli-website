@@ -1,22 +1,21 @@
 ---
-title: Scaling Vendor Management Sop Across Your School
-slug: scaling-vendor-management-sop-across-your-school
-meta_description: Scaling Vendor Management Sop Across Your School
-category: SOPs & Templates
-primary_keyword: vendor management SOP
+title: "Scaling Vendor Management Sop Across Your School"
+slug: "018-scaling-vendor-management-sop-across-your-school"
+meta_description: "Scaling Vendor Management Sop Across Your School"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "vendor management SOP"
 secondary_keywords:
-  - vendor management SOP schools
-  - best practices vendor management SOP
-  - vendor management SOP strategy
-  - how to implement vendor management SOP
-intent: informational
+  - "vendor management SOP schools"
+  - "best practices vendor management SOP"
+  - "vendor management SOP strategy"
+  - "how to implement vendor management SOP"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on vendor management sop for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,22 +1,21 @@
-﻿---
-title: Scaling Sustainable Tech Innovation Across Your School
-slug: scaling-sustainable-tech-innovation-across-your-school
-meta_description: Scaling Sustainable Tech Innovation Across Your School
-category: Innovation & AI
-primary_keyword: sustainable tech innovation
+---
+title: "Scaling Sustainable Tech Innovation Across Your School"
+slug: "088-scaling-sustainable-tech-innovation-across-your-school"
+meta_description: "Scaling Sustainable Tech Innovation Across Your School"
+category: "Education Innovation, AI & Future"
+primary_keyword: "sustainable tech innovation"
 secondary_keywords:
-  - sustainable tech innovation schools
-  - best practices sustainable tech innovation
-  - sustainable tech innovation strategy
-  - how to implement sustainable tech innovation
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "sustainable tech innovation schools"
+  - "best practices sustainable tech innovation"
+  - "sustainable tech innovation strategy"
+  - "how to implement sustainable tech innovation"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on sustainable tech innovation for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

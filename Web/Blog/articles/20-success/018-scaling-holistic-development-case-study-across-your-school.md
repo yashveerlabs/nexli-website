@@ -1,22 +1,21 @@
 ---
-title: Scaling Holistic Development Case Study Across Your School
-slug: scaling-holistic-development-case-study-across-your-school
-meta_description: Scaling Holistic Development Case Study Across Your School
-category: Success Stories & Cases
-primary_keyword: holistic development case study
+title: "Scaling Holistic Development Case Study Across Your School"
+slug: "018-scaling-holistic-development-case-study-across-your-school"
+meta_description: "Scaling Holistic Development Case Study Across Your School"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "holistic development case study"
 secondary_keywords:
-  - holistic development case study schools
-  - best practices holistic development case study
-  - holistic development case study strategy
-  - how to implement holistic development case study
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "holistic development case study schools"
+  - "best practices holistic development case study"
+  - "holistic development case study strategy"
+  - "how to implement holistic development case study"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on holistic development case study for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

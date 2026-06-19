@@ -1,8 +1,8 @@
 ---
 title: "How to Set School Goals That Stick: A Principal's Framework"
-slug: "how-principals-set-school-goals-framework"
+slug: "12-how-principals-set-school-goals"
 meta_description: "Learn to set SMART school goals that are aligned, measurable, and achievable. Includes goal-setting framework and real examples from Indian schools."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "how to set school goals"
 secondary_keywords:
   - "SMART goals schools"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## How to Set School Goals That Stick: A Principal's Framework
 
 **Most school goals fail because they're vague, misaligned, or abandoned within 3 months. "Improve student learning" is not a goal; it's a wish. Real goals are specific, measurable, and tied to clear actions. This article reveals why most school goal-setting fails, provides a proven SMART framework adapted for Indian schools, and shows how to ensure goals drive real behavior change. Schools using this framework report 60–70% higher goal completion rates and 25% improvement in targeted metrics within 12 months.**

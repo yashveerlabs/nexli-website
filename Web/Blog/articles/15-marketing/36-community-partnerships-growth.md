@@ -1,8 +1,8 @@
 ---
 title: "Community Partnerships: Building Local Relationships for School Growth"
-slug: "community-partnerships-growth"
+slug: "36-community-partnerships-growth"
 meta_description: "Build community partnerships that drive school growth and reputation. Learn partnership strategy, co-marketing opportunities, and how to leverage local relationships."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school community partnerships"
 secondary_keywords:
   - "school local partnerships"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Community Partnerships: Building Local Relationships for School Growth
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

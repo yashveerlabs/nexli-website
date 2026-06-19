@@ -1,19 +1,22 @@
 ---
 title: "Budget Accountability: Making the Most of Funds"
-slug: budget-accountability-making-the-most-of-funds
-category: 9
-order: 33
-primary_keyword: "budget accountability school"
+slug: "33-budget-accountability-making-the-most-of-funds"
 meta_description: "How principals can maximize every rupee spent in their school budget, aligning spending to strategy, controlling costs, and demonstrating financial accountability to stakeholders."
-secondary_keywords: ["school budget management", "principal budget accountability", "school financial stewardship", "school spending strategy"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "budget accountability school"
+secondary_keywords:
+  - "school budget management"
+  - "principal budget accountability"
+  - "school financial stewardship"
+  - "school spending strategy"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
+order: 33
 ---
-
 # Budget Accountability: Making the Most of Funds
 
 Every rupee spent is a choice about school priorities. Accountability for budget use ensures funds serve your mission and maximize impact.

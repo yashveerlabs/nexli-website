@@ -2,7 +2,7 @@
 title: "Sick Bay and Recovery Area: Setup and Operations"
 slug: "sick-bay-recovery-area-setup"
 meta_description: "Design and operate effective sick bay and recovery area with proper facilities, staff, and protocols."
-category: "10"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "sick bay, medical facility, student health"
 secondary_keywords:
   - "healthcare setup"
@@ -12,9 +12,11 @@ secondary_keywords:
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
+branding_block_founder: 10
+branding_block_company: 10
+branding_block_nexli: 10
 branding_block: 20
 ---
-
 # Sick Bay and Recovery Area: Setup and Operations
 
 ## Problem

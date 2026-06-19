@@ -1,24 +1,21 @@
 ---
 title: "ERP for Government Schools: Unique Challenges and Requirements"
-slug: "erp-for-government-schools"
+slug: "67-erp-for-government-schools"
 meta_description: "ERP considerations for government schools in India: procurement processes, connectivity constraints, UDISE+ integration, RTE compliance, government portal data requirements."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "ERP for government schools India"
 secondary_keywords:
   - "government school management software India"
   - "UDISE ERP integration"
   - "RTE school management software"
   - "sarkari school ERP"
-intent: "informational"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## ERP for Government Schools: Unique Challenges and Requirements
 
 **Government school ERP implementation is fundamentally different from private school ERP. The procurement process, the funding model, the infrastructure constraints, the staff composition, and the regulatory requirements are all distinct. Understanding these differences helps government school administrators evaluate whether commercial ERP is appropriate for their school, and what to look for if it is.**

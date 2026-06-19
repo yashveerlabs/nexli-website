@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Performance Gaps by Gender: Understanding and Addressing Disparities"
-slug: "performance-gaps-gender-addressing"
+slug: "49-performance-gaps-gender-addressing"
 meta_description: "Learn about performance gaps by gender: understanding and addressing disparities in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "performance gaps by gender: understanding and addressing disparities"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with performance gaps by gender: understanding and addressing disparities:

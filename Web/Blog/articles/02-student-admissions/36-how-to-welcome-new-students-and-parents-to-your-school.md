@@ -1,22 +1,21 @@
-﻿---
+---
 title: "How to Welcome New Students and Parents to Your School"
-slug: how-to-welcome-new-students-and-parents-to-your-school
-meta_description: how to welcome new students and parents to your school. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: how to welcome new students and parents to your school
+slug: "36-how-to-welcome-new-students-and-parents-to-your-school"
+meta_description: "how to welcome new students and parents to your school. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "how to welcome new students and parents to your school"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for how to welcome new students and parents to your school in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

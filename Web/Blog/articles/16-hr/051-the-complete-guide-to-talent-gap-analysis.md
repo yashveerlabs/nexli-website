@@ -1,22 +1,21 @@
-﻿---
-title: The Complete Guide to Talent Gap Analysis
-slug: the-complete-guide-to-talent-gap-analysis
-meta_description: The Complete Guide to Talent Gap Analysis
-category: HR & Recruitment
-primary_keyword: talent gap analysis
+---
+title: "The Complete Guide to Talent Gap Analysis"
+slug: "051-the-complete-guide-to-talent-gap-analysis"
+meta_description: "The Complete Guide to Talent Gap Analysis"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "talent gap analysis"
 secondary_keywords:
-  - talent gap analysis schools
-  - best practices talent gap analysis
-  - talent gap analysis strategy
-  - how to implement talent gap analysis
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "talent gap analysis schools"
+  - "best practices talent gap analysis"
+  - "talent gap analysis strategy"
+  - "how to implement talent gap analysis"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on talent gap analysis for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

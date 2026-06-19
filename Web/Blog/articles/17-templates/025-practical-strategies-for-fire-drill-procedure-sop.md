@@ -1,22 +1,21 @@
 ---
-title: Practical Strategies for Fire Drill Procedure Sop
-slug: practical-strategies-for-fire-drill-procedure-sop
-meta_description: Practical Strategies for Fire Drill Procedure Sop
-category: SOPs & Templates
-primary_keyword: fire drill procedure SOP
+title: "Practical Strategies for Fire Drill Procedure Sop"
+slug: "025-practical-strategies-for-fire-drill-procedure-sop"
+meta_description: "Practical Strategies for Fire Drill Procedure Sop"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "fire drill procedure SOP"
 secondary_keywords:
-  - fire drill procedure SOP schools
-  - best practices fire drill procedure SOP
-  - fire drill procedure SOP strategy
-  - how to implement fire drill procedure SOP
-intent: informational
+  - "fire drill procedure SOP schools"
+  - "best practices fire drill procedure SOP"
+  - "fire drill procedure SOP strategy"
+  - "how to implement fire drill procedure SOP"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on fire drill procedure sop for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,18 +1,21 @@
 ---
 title: "How to Identify and Support Low-Performing Students Early"
-slug: "identify-support-low-performing-students-early"
+slug: "10-identify-support-low-performing-students"
 meta_description: "Early identification and intervention for struggling students. Practical strategies to support low-performers and prevent falling further behind."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "identify support low-performing students early intervention"
-secondary_keywords: ["struggling students", "remedial support", "early identification", "intervention programs"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "struggling students"
+  - "remedial support"
+  - "early identification"
+  - "intervention programs"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Late Detection, Cascading Failure
 
 A student quietly falls behind in Grade 6. Teachers notice low marks but assume "they'll catch up." By Grade 7, the gap widens. Grade 8, the student is lost. Grade 9, they're ready to quit.

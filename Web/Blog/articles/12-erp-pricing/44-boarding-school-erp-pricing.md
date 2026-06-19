@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Boarding School ERP Pricing"
-slug: "boarding-school-erp-pricing"
+slug: "44-boarding-school-erp-pricing"
 meta_description: "Boarding School ERP Pricing"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "boarding"
-secondary_keywords: ["school", "erp", "pricing", "school"]
+secondary_keywords:
+  - "school"
+  - "erp"
+  - "pricing"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Boarding School ERP Pricing
 

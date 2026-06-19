@@ -1,18 +1,21 @@
 ---
 title: "Change Management Strategy for School ERP Adoption"
-slug: "change-management-strategy"
+slug: "13-change-management-strategy"
 meta_description: "How to manage ERP change in a school. Communicate the why, involve champions, address staff fears, celebrate wins, and be patient with resistant staff."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "change management school ERP"
-secondary_keywords: ["ERP adoption school staff", "managing technology change schools", "school ERP staff resistance", "ERP change champion schools"]
-intent: "informational"
+secondary_keywords:
+  - "ERP adoption school staff"
+  - "managing technology change schools"
+  - "school ERP staff resistance"
+  - "ERP change champion schools"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Why Does Change Management Determine ERP Success or Failure?
 
 An ERP can have excellent features and still fail if the people who need to use it don't. Change management for school ERP adoption addresses the human side of implementation: why staff resist new systems, how to build genuine buy-in, and how to sustain adoption after the initial excitement fades. For most Indian schools, the technology is the easier part. Getting 60 people with varying comfort levels with technology to change how they do their daily work is the real challenge.

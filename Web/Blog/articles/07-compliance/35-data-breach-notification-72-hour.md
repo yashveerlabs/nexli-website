@@ -1,18 +1,21 @@
 ---
 title: "Data Breach Notification: School's Response and Timeline Guide"
-slug: "data-breach-notification-72-hour"
+slug: "35-data-breach-notification-72-hour"
 meta_description: "Handle school data breaches correctly. Learn breach notification obligations under DPDP Act, response timeline, parent notification templates, and prevention measures."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "data breach notification schools DPDP"
-secondary_keywords: ["data breach response", "DPDP breach notification", "student data security incident", "school data breach"]
-intent: "informational"
+secondary_keywords:
+  - "data breach response"
+  - "DPDP breach notification"
+  - "student data security incident"
+  - "school data breach"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
 ---
-
 A school data breach, whether a hacked portal, a lost physical file, or accidental exposure of student records, triggers mandatory obligations under DPDP Act 2023. Schools must notify affected parents and, in serious cases, the Data Protection Authority. Having a breach response plan before an incident is the difference between a managed incident and a crisis.
 
 ## What Constitutes a Data Breach

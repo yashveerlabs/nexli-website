@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Transfer Certificate Process: What Every School Should Know"
-slug: transfer-certificate-process-what-every-school-should-know
-meta_description: transfer certificate process: what every school should know. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: transfer certificate process
+slug: "61-transfer-certificate-process-what-every-school-should-know"
+meta_description: "transfer certificate process: what every school should know. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "transfer certificate process"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: process
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article explores best practices for transfer certificate process in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

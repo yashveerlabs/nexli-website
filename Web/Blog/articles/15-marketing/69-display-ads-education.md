@@ -1,8 +1,8 @@
 ---
 title: "Display Ads: Banner Advertising for Brand Awareness"
-slug: "display-ads-education-schools"
+slug: "69-display-ads-education"
 meta_description: "Run display ads to build school brand awareness and stay top-of-mind. Learn banner ad design, audience targeting, placement strategy, and measuring brand impact."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school display ads"
 secondary_keywords:
   - "school banner advertising"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Display Ads: Banner Advertising for Brand Awareness
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

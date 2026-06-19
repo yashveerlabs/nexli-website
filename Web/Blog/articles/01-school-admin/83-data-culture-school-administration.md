@@ -1,22 +1,21 @@
 ---
-title: Building a Data Culture in School Administration
-slug: data-culture-school-administration
-meta_description: Foster data-driven thinking across your admin team and decision-making.
-category: School Administration & Operations
-primary_keyword: data culture school administration
+title: "Building a Data Culture in School Administration"
+slug: "83-data-culture-school-administration"
+meta_description: "Foster data-driven thinking across your admin team and decision-making."
+category: "School Administration & Operations"
+primary_keyword: "data culture school administration"
 secondary_keywords:
-  - Data Culture School Administration
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Data Culture School Administration"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 Building a data culture in school administration means shifting from gut-feel decisions to decisions backed by consistent, visible information. Schools that systematize this process report 30-50% improvements in speed, consistency, and stakeholder confidence. This article examines the core challenges, proven solutions, and practical implementation strategies for establishing data culture in school administration.

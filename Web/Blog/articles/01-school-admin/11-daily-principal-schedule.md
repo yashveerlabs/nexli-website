@@ -1,22 +1,21 @@
 ---
 title: "Daily School Administration Tasks: A Principal's Schedule"
-slug: daily-school-admin-tasks-principal-schedule
-meta_description: Model daily schedule for principals. How to balance strategic work with operational demands. Time blocks and productivity tips.
-category: School Administration & Operations
-primary_keyword: principal daily schedule
+slug: "11-daily-principal-schedule"
+meta_description: "Model daily schedule for principals. How to balance strategic work with operational demands. Time blocks and productivity tips."
+category: "School Administration & Operations"
+primary_keyword: "principal daily schedule"
 secondary_keywords:
-  - time management
-  - principal tasks
-  - school operations
-  - administrative workflow
-intent: reference
-author: Yashveer Labs
-date: 2026-06-19
+  - "time management"
+  - "principal tasks"
+  - "school operations"
+  - "administrative workflow"
+intent: "reference"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 Principals juggle 50+ tasks daily. Without a structured schedule, urgent matters dominate and strategic work gets neglected. This article provides a model daily schedule that balances operations, leadership, and strategy.

@@ -1,18 +1,20 @@
 ---
 title: "School ERP for Newly Developed Areas"
-slug: "school-erp-for-newly-developed-areas"
+slug: "66-school-erp-for-newly-developed-areas"
 meta_description: "School ERP for newly developed areas: cloud-based school management for township and greenfield schools in NCR, Pune, and Hyderabad outskirts."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP newly developed areas India"
-secondary_keywords: ["school ERP new townships India", "greenfield school management ERP", "school software new housing areas", "ERP new school campus India"]
+secondary_keywords:
+  - "school ERP new townships India"
+  - "greenfield school management ERP"
+  - "school software new housing areas"
+  - "ERP new school campus India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## School ERP for Newly Developed Areas
 

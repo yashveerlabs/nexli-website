@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Co-Curricular Engagement Data (And How to Fix Them)
-slug: common-mistakes-in-co-curricular-engagement-data-and-how-to-fix-them
-meta_description: Common Mistakes in Co-Curricular Engagement Data (And How...
-category: Research & Statistics
-primary_keyword: co-curricular engagement data
+title: "Common Mistakes in Co-Curricular Engagement Data (And How to Fix Them)"
+slug: "020-common-mistakes-in-co-curricular-engagement-data-and-how-to-fix-them"
+meta_description: "Common Mistakes in Co-Curricular Engagement Data (And How..."
+category: "School Research, Statistics & Reports"
+primary_keyword: "co-curricular engagement data"
 secondary_keywords:
-  - co-curricular engagement data schools
-  - best practices co-curricular engagement data
-  - co-curricular engagement data strategy
-  - how to implement co-curricular engagement data
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "co-curricular engagement data schools"
+  - "best practices co-curricular engagement data"
+  - "co-curricular engagement data strategy"
+  - "how to implement co-curricular engagement data"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on co-curricular engagement data for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

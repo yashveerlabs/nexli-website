@@ -1,22 +1,21 @@
 ---
-title: How to Handle Student Absences and Continuity
-slug: handle-student-absences-learning-continuity
-meta_description: Maintain academic progress despite student or teacher absences.
-category: Academic Management & Teaching Excellence
-primary_keyword: handle student absences learning continuity
+title: "How to Handle Student Absences and Continuity"
+slug: "75-handle-student-absences-learning-continuity"
+meta_description: "Maintain academic progress despite student or teacher absences."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "handle student absences learning continuity"
 secondary_keywords:
-  - Handle Student Absences Learning Continuity
-  - teaching effectiveness
-  - student learning
-  - academic excellence
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Handle Student Absences Learning Continuity"
+  - "teaching effectiveness"
+  - "student learning"
+  - "academic excellence"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 How to Handle Student Absences and Continuity is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process see measurable improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.

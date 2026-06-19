@@ -1,22 +1,21 @@
 ---
-title: School Insurance Compliance: What Administrators Need to Know
-slug: school-insurance-compliance-administrators
-meta_description: Complete guide to school insurance types, coverage requirements, renewal timelines, and compliance standards for Indian schools.
-category: School Administration & Operations
-primary_keyword: school insurance compliance
+title: "School Insurance Compliance: What Administrators Need to Know"
+slug: "108-school-insurance-compliance"
+meta_description: "Complete guide to school insurance types, coverage requirements, renewal timelines, and compliance standards for Indian schools."
+category: "School Administration & Operations"
+primary_keyword: "school insurance compliance"
 secondary_keywords:
-  - school insurance types
-  - liability coverage
-  - insurance renewal
-  - compliance documentation
-intent: reference
-author: Yashveer Labs
-date: 2026-06-19
+  - "school insurance types"
+  - "liability coverage"
+  - "insurance renewal"
+  - "compliance documentation"
+intent: "reference"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 School insurance compliance is a critical requirement and risk management tool. Schools with adequate insurance coverage and updated policies avoid financial exposure from claims and report faster claim settlements. This article outlines the insurance types every Indian school needs, coverage requirements, and procedures for maintaining compliance year-round.

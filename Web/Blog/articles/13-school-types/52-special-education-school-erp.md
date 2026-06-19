@@ -1,18 +1,20 @@
 ---
 title: "Special Education School ERP"
-slug: "special-education-school-erp"
+slug: "52-special-education-school-erp"
 meta_description: "How school ERPs support special education school erp for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "special education school ERP"
-secondary_keywords: ["SPED school management software India", "special needs school ERP", "inclusive education management", "special school software India"]
+secondary_keywords:
+  - "SPED school management software India"
+  - "special needs school ERP"
+  - "inclusive education management"
+  - "special school software India"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Special Education School ERP
 

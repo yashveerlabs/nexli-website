@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Expense Tracking: Categories and Best Practices"
-slug: "expense-tracking-categories-best-practices"
+slug: "68-expense-tracking-categories-best-practices"
 meta_description: "Learn about expense tracking: categories and best practices in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "expense tracking: categories and best practices"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with expense tracking: categories and best practices:

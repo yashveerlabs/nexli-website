@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Government School Pricing"
-slug: "government-school-pricing"
+slug: "63-government-school-pricing"
 meta_description: "Government School Pricing"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "government"
-secondary_keywords: ["school", "pricing", "implementation", "school"]
+secondary_keywords:
+  - "school"
+  - "pricing"
+  - "implementation"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Government School Pricing
 

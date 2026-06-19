@@ -1,18 +1,21 @@
 ---
 title: "GST Compliance for Schools: What Educational Institutions Must Know"
-slug: "gst-compliance-schools-india"
+slug: "67-gst-compliance"
 meta_description: "Understand GST obligations for schools in India. Covers which school services are GST-exempt, when schools must register, how to handle taxable supplies, and compliance requirements."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "GST compliance schools India"
-secondary_keywords: ["school GST exemption", "educational institution GST", "GST registration school", "school fees GST India"]
-intent: "informational"
+secondary_keywords:
+  - "school GST exemption"
+  - "educational institution GST"
+  - "GST registration school"
+  - "school fees GST India"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 19
 branding_block_company: 19
 branding_block_nexli: 19
 ---
-
 GST treatment of schools is a specialized area with significant exemptions for core educational services but taxable treatment for many ancillary activities. Schools that assume all their services are GST-exempt are likely making compliance errors. Equally, schools that register for GST when not required create unnecessary compliance burden.
 
 ## Core Educational Services: Exempt

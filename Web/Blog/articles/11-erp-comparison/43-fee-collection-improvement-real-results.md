@@ -1,8 +1,8 @@
 ---
 title: "Fee Collection and School ERP: How Automation Changes Collection Rates"
-slug: "fee-collection-improvement-real-results"
+slug: "43-fee-collection-improvement-real-results"
 meta_description: "How school ERP improves fee collection: automated reminders, defaulter reports, online payment, concession tracking, and what realistic improvements look like."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP fee collection improvement"
 secondary_keywords:
   - "school fee collection automation India"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school fee reminder automation"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Fee Collection and School ERP: How Automation Changes Collection Rates
 
 **Fee collection is among the most operationally intensive tasks in school administration. The accounts team manually tracks hundreds or thousands of student fee ledgers, sends reminders by notices in bags, and follows up individually with defaulters. An ERP with automated reminders, online payment, and real-time defaulter reports changes each of these dynamics. Here is what to expect realistically.**

@@ -1,8 +1,8 @@
 ---
 title: "Voice Search Optimization: Preparing for Future SEO"
-slug: "voice-search-optimization-schools"
+slug: "78-voice-search-optimization"
 meta_description: "Optimize your school website for voice search queries. Learn conversational keywords, FAQ content, featured snippets, and capturing parents using voice assistants."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school voice search optimization"
 secondary_keywords:
   - "school Alexa Google search"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Voice Search Optimization: Preparing for Future SEO
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

@@ -1,8 +1,8 @@
 ---
 title: "Metropolitan School Management: Operating Excellence in India's Cities"
-slug: metropolitan-school-management
+slug: "105-metropolitan-school-management"
 meta_description: "Guide to operating metropolitan schools successfully. Best practices for managing large schools, multi-campus operations, and complex stakeholder ecosystems in Indian cities."
-category: "14-location"
+category: "Location-Based School ERP Solutions"
 primary_keyword: "metropolitan school management"
 secondary_keywords:
   - "large school operations"
@@ -11,15 +11,12 @@ secondary_keywords:
   - "school operational excellence"
 intent: "how-to"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 snippet: "Metropolitan schools operate at a different scale. A single school might have 3,000+ students, 400+ staff, multiple shifts, multiple curricula, and serve a complex demographic. Success requires systematic operations, clear role definition, data-driven decision-making, and the ability to coordinate across departments and campuses. Here's how leading metropolitan schools achieve operational excellence."
 ---
-
 ## The Metropolitan School Context: Operating at Scale
 
 Metropolitan schools are a distinct category. Unlike small neighborhood schools (200-400 students) or suburban schools (600-1,000 students), metropolitan schools operate at a complexity level that requires completely different management approaches:

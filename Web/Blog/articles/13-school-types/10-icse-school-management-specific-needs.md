@@ -1,18 +1,20 @@
 ---
 title: "ICSE School Management: Specific Needs"
-slug: "icse-school-management-specific-needs"
+slug: "10-icse-school-management-specific-needs"
 meta_description: "ICSE schools have unique compliance, curriculum, and internal assessment requirements. Learn what an ERP must support for ICSE-affiliated schools in India."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "ICSE school management"
-secondary_keywords: ["ICSE ERP requirements", "ICSE compliance", "ICSE board school system", "school management software India"]
+secondary_keywords:
+  - "ICSE ERP requirements"
+  - "ICSE compliance"
+  - "ICSE board school system"
+  - "school management software India"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## ICSE School Management: Specific Needs
 

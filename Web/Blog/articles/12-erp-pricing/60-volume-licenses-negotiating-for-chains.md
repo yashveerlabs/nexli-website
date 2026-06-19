@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Volume Licenses: Negotiating for Chains"
-slug: "volume-licenses-negotiating-for-chains"
+slug: "60-volume-licenses-negotiating-for-chains"
 meta_description: "Volume Licenses: Negotiating for Chains"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "volume"
-secondary_keywords: ["licenses:", "negotiating", "for", "chains"]
+secondary_keywords:
+  - "licenses:"
+  - "negotiating"
+  - "for"
+  - "chains"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Volume Licenses: Negotiating for Chains
 

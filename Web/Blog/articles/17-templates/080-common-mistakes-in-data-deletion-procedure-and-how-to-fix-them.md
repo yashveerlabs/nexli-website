@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Data Deletion Procedure (And How to Fix Them)
-slug: common-mistakes-in-data-deletion-procedure-and-how-to-fix-them
-meta_description: Common Mistakes in Data Deletion Procedure (And How to Fi...
-category: SOPs & Templates
-primary_keyword: data deletion procedure
+title: "Common Mistakes in Data Deletion Procedure (And How to Fix Them)"
+slug: "080-common-mistakes-in-data-deletion-procedure-and-how-to-fix-them"
+meta_description: "Common Mistakes in Data Deletion Procedure (And How to Fi..."
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "data deletion procedure"
 secondary_keywords:
-  - data deletion procedure schools
-  - best practices data deletion procedure
-  - data deletion procedure strategy
-  - how to implement data deletion procedure
-intent: informational
+  - "data deletion procedure schools"
+  - "best practices data deletion procedure"
+  - "data deletion procedure strategy"
+  - "how to implement data deletion procedure"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on data deletion procedure for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

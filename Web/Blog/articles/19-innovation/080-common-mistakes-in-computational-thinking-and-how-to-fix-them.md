@@ -1,22 +1,21 @@
-﻿---
-title: Common Mistakes in Computational Thinking (And How to Fix Them)
-slug: common-mistakes-in-computational-thinking-and-how-to-fix-them
-meta_description: Common Mistakes in Computational Thinking (And How to Fix...
-category: Innovation & AI
-primary_keyword: computational thinking
+---
+title: "Common Mistakes in Computational Thinking (And How to Fix Them)"
+slug: "080-common-mistakes-in-computational-thinking-and-how-to-fix-them"
+meta_description: "Common Mistakes in Computational Thinking (And How to Fix..."
+category: "Education Innovation, AI & Future"
+primary_keyword: "computational thinking"
 secondary_keywords:
-  - computational thinking schools
-  - best practices computational thinking
-  - computational thinking strategy
-  - how to implement computational thinking
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "computational thinking schools"
+  - "best practices computational thinking"
+  - "computational thinking strategy"
+  - "how to implement computational thinking"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on computational thinking for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

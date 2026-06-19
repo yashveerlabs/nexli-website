@@ -1,18 +1,20 @@
 ---
 title: "Bangalore Suburbs: Whitefield to Sarjapur"
-slug: "bangalore-suburbs-whitefield-to-sarjapur"
+slug: "61-bangalore-suburbs-whitefield-to-sarjapur"
 meta_description: "School ERP for Bangalore suburbs from Whitefield to Sarjapur: cloud-based school management for tech corridor schools with CBSE compliance and mobile access."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Bangalore suburbs Whitefield Sarjapur"
-secondary_keywords: ["school management Whitefield Sarjapur", "East Bangalore school ERP", "tech corridor school software", "school ERP Bangalore ORR"]
+secondary_keywords:
+  - "school management Whitefield Sarjapur"
+  - "East Bangalore school ERP"
+  - "tech corridor school software"
+  - "school ERP Bangalore ORR"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Bangalore Suburbs: Whitefield to Sarjapur
 

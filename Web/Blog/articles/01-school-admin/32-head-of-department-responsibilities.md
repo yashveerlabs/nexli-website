@@ -1,22 +1,21 @@
 ---
-title: Head of Department: Critical Responsibilities
-slug: head-of-department-responsibilities
-meta_description: Discover the 10 essential duties HODs must handle daily to lead their departments effectively.
-category: School Administration & Operations
-primary_keyword: head of department responsibilities
+title: "Head of Department: Critical Responsibilities"
+slug: "32-head-of-department-responsibilities"
+meta_description: "Discover the 10 essential duties HODs must handle daily to lead their departments effectively."
+category: "School Administration & Operations"
+primary_keyword: "head of department responsibilities"
 secondary_keywords:
-  - Head Of Department Responsibilities
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Head Of Department Responsibilities"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Head of Department: Critical Responsibilities
 
 The Head of Department role is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize HOD responsibilities report significant improvements in speed, consistency, and stakeholder confidence.

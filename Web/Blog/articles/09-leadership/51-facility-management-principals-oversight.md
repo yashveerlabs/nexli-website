@@ -1,19 +1,22 @@
 ---
 title: "Facility Management: Principal's Oversight"
-slug: facility-management-principals-oversight
-category: 9
-order: 51
-primary_keyword: "facility management principal oversight"
+slug: "51-facility-management-principals-oversight"
 meta_description: "How school principals provide effective facility management oversight, covering maintenance planning, safety inspections, custodial staff, capital planning, and accessibility compliance."
-secondary_keywords: ["school facility management", "principal building oversight", "school maintenance planning", "school safety facilities"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "facility management principal oversight"
+secondary_keywords:
+  - "school facility management"
+  - "principal building oversight"
+  - "school maintenance planning"
+  - "school safety facilities"
 intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 11
 branding_block_company: 11
 branding_block_nexli: 11
+order: 51
 ---
-
 # Facility Management: Principal's Oversight
 
 Quality facilities support learning. Your oversight ensures well-maintained, safe, clean, functional buildings.

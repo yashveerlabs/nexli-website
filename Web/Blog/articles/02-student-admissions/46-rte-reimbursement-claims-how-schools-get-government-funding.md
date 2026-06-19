@@ -1,22 +1,21 @@
-﻿---
+---
 title: "RTE Reimbursement Claims: How Schools Get Government Funding"
-slug: rte-reimbursement-claims-how-schools-get-government-funding
-meta_description: rte reimbursement claims: how schools get government funding. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: rte reimbursement claims
+slug: "46-rte-reimbursement-claims-how-schools-get-government-funding"
+meta_description: "rte reimbursement claims: how schools get government funding. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "rte reimbursement claims"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article explores best practices for rte reimbursement claims in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

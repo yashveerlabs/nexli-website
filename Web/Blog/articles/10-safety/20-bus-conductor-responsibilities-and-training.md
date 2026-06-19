@@ -1,8 +1,8 @@
 ---
 title: "Bus Conductor: Responsibilities and Training"
-slug: bus-conductor-responsibilities-and-training
+slug: "20-bus-conductor-responsibilities-and-training"
 meta_description: "Define the bus conductor role in school transport: responsibilities, training requirements, student management, and safety protocols for Indian schools."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school bus conductor responsibilities"
 secondary_keywords:
   - "bus conductor training"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Bus Conductor: Responsibilities and Training
 
 Bus conductors support drivers and manage student behavior. Proper training ensures safety.

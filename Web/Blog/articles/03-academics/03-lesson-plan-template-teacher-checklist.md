@@ -1,18 +1,21 @@
 ---
 title: "Lesson Plan Template: What Every Teacher Should Include"
-slug: "lesson-plan-template-teacher-checklist"
+slug: "03-lesson-plan-template-teacher-checklist"
 meta_description: "Complete lesson plan template with essential components. Checklist for teachers to ensure effective lesson planning aligned with board standards."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "lesson plan template teacher checklist"
-secondary_keywords: ["effective lesson planning", "classroom teaching", "learning objectives", "assessment strategies"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "effective lesson planning"
+  - "classroom teaching"
+  - "learning objectives"
+  - "assessment strategies"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Unfocused Lessons and Wasted Time
 
 A typical class ends at 2 PM. The teacher asks: "Did today's lesson achieve anything?" Often, the honest answer is unclear. Lessons meander. Time is spent on low-value activities. Students don't know what they were supposed to learn. Homework is assigned without clear intent.

@@ -1,22 +1,21 @@
-﻿---
-title: Practical Strategies for Maternity Benefit Procedures
-slug: practical-strategies-for-maternity-benefit-procedures
-meta_description: Practical Strategies for Maternity Benefit Procedures
-category: HR & Recruitment
-primary_keyword: maternity benefit procedures
+---
+title: "Practical Strategies for Maternity Benefit Procedures"
+slug: "095-practical-strategies-for-maternity-benefit-procedures"
+meta_description: "Practical Strategies for Maternity Benefit Procedures"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "maternity benefit procedures"
 secondary_keywords:
-  - maternity benefit procedures schools
-  - best practices maternity benefit procedures
-  - maternity benefit procedures strategy
-  - how to implement maternity benefit procedures
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "maternity benefit procedures schools"
+  - "best practices maternity benefit procedures"
+  - "maternity benefit procedures strategy"
+  - "how to implement maternity benefit procedures"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on maternity benefit procedures for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

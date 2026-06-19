@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Group Fee Payment Options: Discounts for Early Payment"
-slug: "group-fee-payment-discounts-early"
+slug: "21-group-fee-payment-discounts-early"
 meta_description: "Learn about group fee payment options: discounts for early payment in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "group fee payment options: discounts for early payment"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with group fee payment options: discounts for early payment:

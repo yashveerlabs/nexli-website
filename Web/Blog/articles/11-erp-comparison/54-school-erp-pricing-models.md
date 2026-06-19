@@ -1,8 +1,8 @@
 ---
 title: "School ERP Pricing Models: Per Student, Per School, or Module-Based"
-slug: "school-erp-pricing-models"
+slug: "54-school-erp-pricing-models"
 meta_description: "School ERP pricing models compared: per-student pricing, flat per-school pricing, module-based pricing, and how each affects small vs. large schools."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP pricing models"
 secondary_keywords:
   - "school ERP per student pricing"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school software pricing comparison"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## School ERP Pricing Models: Per Student, Per School, or Module-Based
 
 **School ERP vendors use several different pricing structures. Understanding the model your vendor uses helps you evaluate fairness, predict future costs, and compare vendors who use different approaches. The best model for your school depends on your enrollment size, which modules you need, and how much price predictability matters.**

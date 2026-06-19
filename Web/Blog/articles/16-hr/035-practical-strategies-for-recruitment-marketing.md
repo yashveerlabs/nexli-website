@@ -1,22 +1,21 @@
-﻿---
-title: Practical Strategies for Recruitment Marketing
-slug: practical-strategies-for-recruitment-marketing
-meta_description: Practical Strategies for Recruitment Marketing
-category: HR & Recruitment
-primary_keyword: recruitment marketing
+---
+title: "Practical Strategies for Recruitment Marketing"
+slug: "035-practical-strategies-for-recruitment-marketing"
+meta_description: "Practical Strategies for Recruitment Marketing"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "recruitment marketing"
 secondary_keywords:
-  - recruitment marketing schools
-  - best practices recruitment marketing
-  - recruitment marketing strategy
-  - how to implement recruitment marketing
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "recruitment marketing schools"
+  - "best practices recruitment marketing"
+  - "recruitment marketing strategy"
+  - "how to implement recruitment marketing"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on recruitment marketing for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

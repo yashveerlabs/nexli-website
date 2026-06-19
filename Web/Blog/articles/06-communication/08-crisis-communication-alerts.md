@@ -1,18 +1,21 @@
 ---
 title: "Communication During Crisis: Rapid Alert Systems for Schools"
-slug: "crisis-communication-schools-rapid-alerts"
+slug: "08-crisis-communication-alerts"
 meta_description: "Build a crisis communication plan. Learn how to alert parents quickly during emergencies, school closures, and safety incidents."
-category: "Parent Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "crisis communication schools"
-secondary_keywords: ["emergency alerts", "school safety communication", "rapid notification system", "disaster management"]
-intent: "informational"
+secondary_keywords:
+  - "emergency alerts"
+  - "school safety communication"
+  - "rapid notification system"
+  - "disaster management"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## The Reality of School Crises
 
 No school wants to imagine a crisis, but the evidence is clear: accidents, weather emergencies, safety incidents, and illnesses are unpredictable. When a crisis occurs, the first 15 minutes are critical. Parents need to know what's happening so they don't panic or spread rumors. Staff need clear directions. Media and social media will explode with speculation. Schools that have a pre-planned crisis communication system respond calmly and control the narrative. Those that don't create chaos.

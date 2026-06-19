@@ -1,19 +1,22 @@
 ---
 title: "Intervention Programs: Principal's Leadership Role"
-slug: intervention-programs-principals-leadership-role
-category: 9
-order: 47
-primary_keyword: "intervention programs principal leadership"
+slug: "47-intervention-programs-principals-leadership-role"
 meta_description: "How principals lead effective academic intervention programs, from RTI/MTSS design to resource allocation, staff training, equity safeguards, and measuring student outcomes."
-secondary_keywords: ["school intervention programs", "RTI MTSS school leadership", "principal academic intervention", "struggling student support"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "intervention programs principal leadership"
+secondary_keywords:
+  - "school intervention programs"
+  - "RTI MTSS school leadership"
+  - "principal academic intervention"
+  - "struggling student support"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
+order: 47
 ---
-
 # Intervention Programs: Principal's Leadership Role
 
 Students struggling academically need systematic support. Your leadership ensures quality intervention.

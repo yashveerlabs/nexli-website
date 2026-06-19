@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Profitability Analysis: Is Your School Financially Healthy?"
-slug: "profitability-analysis-financially-healthy"
+slug: "103-profitability-analysis-financially-healthy"
 meta_description: "Learn about profitability analysis: is your school financially healthy? in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "profitability analysis: is your school financially healthy?"
-secondary_keywords: ["school management", "school policy", "finance", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "finance"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Complex Financial Management Without Clear Systems
 
 Most schools struggle with profitability analysis: is your school financially healthy?:

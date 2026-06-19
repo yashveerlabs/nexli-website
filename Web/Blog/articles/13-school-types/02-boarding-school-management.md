@@ -1,20 +1,23 @@
 ---
 title: "Boarding School Management: Hostel Integration and Student Welfare"
-slug: "boarding-school-management-hostel-integration"
+slug: "02-boarding-school-management"
 meta_description: "Boarding school ERPs must integrate hostel operations, roll-call, exeat tracking, safety, and medical care. Learn how Nexli handles residential student management and parent communication."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "boarding school management"
-secondary_keywords: ["hostel management ERP", "exeat tracking", "boarding school operations", "residential student safety", "hostel attendance", "in loco parentis"]
+secondary_keywords:
+  - "hostel management ERP"
+  - "exeat tracking"
+  - "boarding school operations"
+  - "residential student safety"
+  - "hostel attendance"
+  - "in loco parentis"
 intent: "reference"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
-
 ## Overview
 
 **Snippet:** Boarding schools operate a dual institution: the academic school and the residential hostel. A student spends 16+ hours daily on campus: in classes, in dormitories, on sports fields, in dining halls. An ERP for boarding schools must track academics, residence, health, safety, and parental communication in an integrated view. Hostel management is not a peripheral function; it is core to the school's operations and legal liability.

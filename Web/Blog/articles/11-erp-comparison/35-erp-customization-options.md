@@ -1,8 +1,8 @@
 ---
 title: "ERP Customization Options: Configuration vs. Code for Schools"
-slug: "erp-customization-options"
+slug: "35-erp-customization-options"
 meta_description: "School ERP customization: understand the difference between configuration (no code, immediate) and development (expensive, creates technical debt), and what each costs."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP customization"
 secondary_keywords:
   - "school management system configuration"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school software flexibility"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## ERP Customization Options: Configuration vs. Code for Schools
 
 **"The system can be customized to your needs" is one of the most common sales statements, and one of the most meaningless without context. Customization through configuration (no code, immediate, reversible) is fundamentally different from customization through development (expensive, time-consuming, creates technical debt). Understanding this difference prevents months of frustration.**

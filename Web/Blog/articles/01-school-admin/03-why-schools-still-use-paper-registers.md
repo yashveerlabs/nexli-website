@@ -1,22 +1,21 @@
 ---
-title: Why Schools Still Use Paper Registers in 2026
-slug: why-schools-use-paper-registers-2026
-meta_description: Understand the real reasons schools haven't digitized despite technology being available. Learn what's actually holding schools back.
-category: School Administration & Operations
-primary_keyword: schools using paper registers
+title: "Why Schools Still Use Paper Registers in 2026"
+slug: "03-why-schools-still-use-paper-registers"
+meta_description: "Understand the real reasons schools haven't digitized despite technology being available. Learn what's actually holding schools back."
+category: "School Administration & Operations"
+primary_keyword: "schools using paper registers"
 secondary_keywords:
-  - paper vs digital
-  - school digitization barriers
-  - digital transformation resistance
-  - admin efficiency
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "paper vs digital"
+  - "school digitization barriers"
+  - "digital transformation resistance"
+  - "admin efficiency"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 India's top schools manage students with paper registers, printed timetables, and hand-written attendance sheets. Not because technology doesn't exist, it does. Not because it's cheaper, it isn't. Schools use paper because of a deeper reality: digital systems haven't solved the actual problems schools face. This article reveals why, and what needs to change.

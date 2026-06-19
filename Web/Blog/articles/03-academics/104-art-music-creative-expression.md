@@ -1,18 +1,21 @@
 ---
 title: "Art and Music: Creative Expression in the Curriculum"
-slug: "art-music-creative-expression"
+slug: "104-art-music-creative-expression"
 meta_description: "Integrate art and music education into your curriculum. Develop creative expression, cultural awareness, and cognitive development through arts."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "art music education creative expression"
-secondary_keywords: ["arts curriculum", "music education", "creative skills", "aesthetic development"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "arts curriculum"
+  - "music education"
+  - "creative skills"
+  - "aesthetic development"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Challenge: Ensuring Comprehensive Academic Excellence
 
 Most Indian schools recognize that a well-rounded education extends far beyond traditional classroom instruction. However, implementing specialized programs in art and music: creative expression in the curriculum requires systematic planning, qualified instructors, proper resources, and clear learning outcomes. Without a structured approach, these programs become ad-hoc or inconsistent, failing to deliver measurable impact on student development.

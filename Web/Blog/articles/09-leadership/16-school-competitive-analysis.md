@@ -1,19 +1,22 @@
 ---
 title: "School Competitive Analysis"
-slug: school-competitive-analysis
-category: 9
-order: 16
-primary_keyword: "school competitive analysis"
+slug: "16-school-competitive-analysis"
 meta_description: "How school principals can conduct a competitive analysis, identifying competitors, comparing key dimensions, and choosing a positioning strategy that strengthens enrollment and mission."
-secondary_keywords: ["school market positioning", "school enrollment strategy", "principal competitive strategy", "school differentiation"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "school competitive analysis"
+secondary_keywords:
+  - "school market positioning"
+  - "school enrollment strategy"
+  - "principal competitive strategy"
+  - "school differentiation"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
+order: 16
 ---
-
 # School Competitive Analysis
 
 Understanding your competitive position helps you make strategic choices. Competitive analysis isn't about becoming cutthroat, it's about understanding your market and positioning your school for success.

@@ -1,19 +1,22 @@
 ---
 title: "School Expansion: Multi-Campus Growth"
-slug: school-expansion-multi-campus-growth
-category: 9
-order: 18
-primary_keyword: "school multi-campus expansion"
+slug: "18-school-expansion-multi-campus-growth"
 meta_description: "A complete guide to multi-campus school expansion, covering readiness assessment, central vs. campus leadership structure, growth phases, and common pitfalls to avoid."
-secondary_keywords: ["school network expansion", "multi-campus school management", "principal school expansion", "school chain growth strategy"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "school multi-campus expansion"
+secondary_keywords:
+  - "school network expansion"
+  - "multi-campus school management"
+  - "principal school expansion"
+  - "school chain growth strategy"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 18
 branding_block_company: 18
 branding_block_nexli: 18
+order: 18
 ---
-
 # School Expansion: Multi-Campus Growth
 
 Expanding to multiple campuses is a major undertaking. Success requires careful planning, adequate resources, and clear strategies for maintaining quality and culture across sites.

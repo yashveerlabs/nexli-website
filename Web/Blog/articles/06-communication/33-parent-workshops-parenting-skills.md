@@ -1,18 +1,21 @@
 ---
 title: "Parent Workshops: Building Parenting Skills and Knowledge"
-slug: "parent-workshops-parenting-skills"
+slug: "33-parent-workshops-parenting-skills"
 meta_description: "Effective workshops & programs strategies for Indian schools. Learn how workshops on topics like adolescent development, study habits, stress management, and digital safety equip parents with skills to support their children."
-category: "Workshops & Programs"
+category: "Parent Communication & Engagement"
 primary_keyword: "school workshops parent training"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Parent Workshops: Building Parenting Skills and Knowledge
 
 Workshops on topics like adolescent development, study habits, stress management, and digital safety equip parents with skills to support their children.

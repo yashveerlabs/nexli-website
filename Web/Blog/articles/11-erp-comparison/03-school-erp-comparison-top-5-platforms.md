@@ -1,8 +1,8 @@
 ---
 title: "School ERP Comparison: Top 5 Platforms for Indian K-12 Schools"
-slug: "school-erp-comparison-top-5-platforms"
+slug: "03-school-erp-comparison-top-5-platforms"
 meta_description: "Compare the top 5 school ERPs for Indian schools: features, pricing, compliance, mobile-readiness, and which platform fits your school best."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP comparison"
 secondary_keywords:
   - "best school management systems India"
@@ -16,7 +16,6 @@ branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## School ERP Comparison: Top 5 Platforms for Indian K-12 Schools in 2026
 
 **The market for school ERPs in India has evolved dramatically. In 2015, options were limited. In 2026, a principal can choose from a dozen credible platforms, each with different strengths. This guide compares the five most relevant systems: Nexli, Fedena, Vyom ERP, AARAMBH, and Eduwiser. We'll analyze their architecture, features, compliance capabilities, and which schools they serve best.**

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Energy Costs: How to Reduce Electricity and Water Expenses"
-slug: "energy-costs-reduce-electricity-water"
+slug: "74-energy-costs-reduce-electricity-water"
 meta_description: "Learn about energy costs: how to reduce electricity and water expenses in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "energy costs: how to reduce electricity and water expenses"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with energy costs: how to reduce electricity and water expenses:

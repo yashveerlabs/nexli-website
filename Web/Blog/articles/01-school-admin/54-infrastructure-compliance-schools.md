@@ -1,22 +1,21 @@
 ---
-title: How Schools Can Meet Infrastructure Compliance
-slug: infrastructure-compliance-schools
-meta_description: Audit and improve school infrastructure to meet CBSE and safety standards.
-category: School Administration & Operations
-primary_keyword: infrastructure compliance schools
+title: "How Schools Can Meet Infrastructure Compliance"
+slug: "54-infrastructure-compliance-schools"
+meta_description: "Audit and improve school infrastructure to meet CBSE and safety standards."
+category: "School Administration & Operations"
+primary_keyword: "infrastructure compliance schools"
 secondary_keywords:
-  - Infrastructure Compliance Schools
-  - school operations
-  - administrative efficiency
-  - process improvement
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Infrastructure Compliance Schools"
+  - "school operations"
+  - "administrative efficiency"
+  - "process improvement"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 Infrastructure compliance for schools means meeting the physical space, safety, and facility standards required by CBSE, state boards, and local authorities. Schools that audit their infrastructure systematically and maintain accurate records are better prepared for inspections and avoid costly non-compliance notices. This article outlines the key challenges, practical solutions, and steps to build a reliable infrastructure compliance process.
 
 ---

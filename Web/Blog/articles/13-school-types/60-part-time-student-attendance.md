@@ -1,18 +1,20 @@
 ---
 title: "Part-Time Student Attendance"
-slug: "part-time-student-attendance"
+slug: "60-part-time-student-attendance"
 meta_description: "How school ERPs support part-time student attendance for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "part-time student attendance tracking ERP"
-secondary_keywords: ["flexible attendance ERP India", "part-time student management", "non-traditional school attendance system", "school ERP flexible attendance"]
+secondary_keywords:
+  - "flexible attendance ERP India"
+  - "part-time student management"
+  - "non-traditional school attendance system"
+  - "school ERP flexible attendance"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## Part-Time Student Attendance
 

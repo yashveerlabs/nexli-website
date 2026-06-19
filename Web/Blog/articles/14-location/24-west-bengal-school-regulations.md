@@ -1,18 +1,20 @@
 ---
 title: "West Bengal School Regulations"
-slug: "west-bengal-school-regulations"
+slug: "24-west-bengal-school-regulations"
 meta_description: "West Bengal school regulations and ERP compliance: WBCHSE requirements, CBSE affiliate norms, RTE obligations, and state-specific education rules."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "West Bengal school regulations ERP"
-secondary_keywords: ["West Bengal school compliance", "WBCHSE school ERP", "school regulation compliance Bengal", "West Bengal CBSE school requirements"]
+secondary_keywords:
+  - "West Bengal school compliance"
+  - "WBCHSE school ERP"
+  - "school regulation compliance Bengal"
+  - "West Bengal CBSE school requirements"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## West Bengal School Regulations
 

@@ -1,18 +1,22 @@
 ---
 title: "Interoperability Standards for EdTech: Why Indian Schools Should Care"
-slug: "interoperability-standards"
+slug: "98-interoperability-standards"
 meta_description: "EdTech interoperability standards: IMS Global, LTI 1.3, OneRoster, xAPI, SCORM, QTI. Why Indian schools should ask vendors about standards compliance before buying."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "EdTech interoperability standards India"
-secondary_keywords: ["IMS Global certification", "LTI 1.3 school", "OneRoster India", "xAPI SCORM school", "QTI assessment standard"]
-intent: "informational"
+secondary_keywords:
+  - "IMS Global certification"
+  - "LTI 1.3 school"
+  - "OneRoster India"
+  - "xAPI SCORM school"
+  - "QTI assessment standard"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## EdTech Interoperability Standards: A Guide for Indian School Buyers
 
 Interoperability standards are the technical specifications that allow different educational technology products to work together. When two products from different vendors implement the same standard, they can exchange data and coordinate without custom development work. When products do not implement common standards, every connection between them requires bespoke engineering.

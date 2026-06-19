@@ -1,18 +1,22 @@
-﻿---
+---
 title: "Long-Term ROI: 3, 5, and 10-Year Projections"
-slug: "long-term-roi-3,-5,-and-10-year-projections"
+slug: "37-long-term-roi-3,-5,-and-10-year-projections"
 meta_description: "Long-Term ROI: 3, 5, and 10-Year Projections"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "long-term"
-secondary_keywords: ["roi:", "3,", "5,", "and"]
+secondary_keywords:
+  - "roi:"
+  - "3"
+  - ""
+  - "5"
+  - ""
+  - "and"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Long-Term ROI: 3, 5, and 10-Year Projections
 

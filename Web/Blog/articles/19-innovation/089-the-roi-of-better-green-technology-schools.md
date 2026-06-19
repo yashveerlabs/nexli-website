@@ -1,22 +1,21 @@
-﻿---
-title: The ROI of Better Green Technology Schools
-slug: the-roi-of-better-green-technology-schools
-meta_description: The ROI of Better Green Technology Schools
-category: Innovation & AI
-primary_keyword: green technology schools
+---
+title: "The ROI of Better Green Technology Schools"
+slug: "089-the-roi-of-better-green-technology-schools"
+meta_description: "The ROI of Better Green Technology Schools"
+category: "Education Innovation, AI & Future"
+primary_keyword: "green technology schools"
 secondary_keywords:
-  - green technology schools schools
-  - best practices green technology schools
-  - green technology schools strategy
-  - how to implement green technology schools
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "green technology schools schools"
+  - "best practices green technology schools"
+  - "green technology schools strategy"
+  - "how to implement green technology schools"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 15
 branding_block_company: 15
 branding_block_nexli: 15
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on green technology schools for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

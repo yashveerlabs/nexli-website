@@ -1,8 +1,8 @@
 ---
 title: "School Scholarship Publicity: Attracting Merit and Need-Based Students"
-slug: "scholarship-publicity-marketing"
+slug: "33-scholarship-publicity-marketing"
 meta_description: "Publicize your school scholarships to attract merit and need-based students. Learn announcement strategy, media outreach, and how to maximize scholarship visibility."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school scholarship publicity"
 secondary_keywords:
   - "merit scholarship school"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # School Scholarship Publicity: Attracting Merit and Need-Based Students
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

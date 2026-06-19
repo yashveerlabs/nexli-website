@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Feedback Loops: Acting on Parent Input"
-slug: "feedback-loops-acting-on-parent-input"
+slug: "79-feedback-loops-acting-on-parent-input"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how collecting feedback without acting on it erodes trust. parents want to see that their input drives change."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Feedback Loops: Acting on Parent Input
 
 Collecting feedback without acting on it erodes trust. Parents want to see that their input drives change.

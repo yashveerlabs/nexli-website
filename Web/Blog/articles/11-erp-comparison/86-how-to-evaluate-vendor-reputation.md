@@ -1,8 +1,8 @@
 ---
 title: "How to Evaluate School ERP Vendor Reputation"
-slug: "how-to-evaluate-vendor-reputation"
+slug: "86-how-to-evaluate-vendor-reputation"
 meta_description: "How to evaluate school ERP vendor reputation beyond marketing: reference checks, online research, financial stability signals, support quality verification, and red flags."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "evaluate school ERP vendor reputation"
 secondary_keywords:
   - "school ERP vendor due diligence"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP reference check"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## How to Evaluate School ERP Vendor Reputation
 
 **School ERP vendors market themselves with case studies, testimonials, and impressive feature lists. Evaluating actual reputation, what schools genuinely experience over 2-3 years, requires going beyond vendor-provided materials. This guide covers practical due diligence methods that reveal what vendors do not show you in a sales presentation.**

@@ -1,8 +1,8 @@
 ---
 title: "School Social Media Strategy: Facebook, Instagram, and Beyond"
-slug: "school-social-media-strategy"
+slug: "03-school-social-media-strategy"
 meta_description: "Build an effective social media strategy for your school. Learn best practices, content calendars, and how to use Facebook and Instagram for admissions growth."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school social media strategy"
 secondary_keywords:
   - "school Facebook marketing"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Social Media Strategy: Facebook, Instagram, and Beyond
 
 **Social media is where parents research schools, share experiences, and recommend to friends. A strategic social media presence builds community, boosts credibility, and drives admissions. This guide covers strategy, content types, platform selection, and engagement best practices.**

@@ -1,18 +1,20 @@
 ---
 title: "Multi-Location Chain Success"
-slug: "multi-location-chain-success"
+slug: "97-multi-location-chain-success"
 meta_description: "Multi-location school chain success: how Indian school chains scaled from 2 to 10+ campuses with unified cloud ERP for admissions, finance, and compliance."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "multi-location school chain ERP India success"
-secondary_keywords: ["school chain ERP India", "multi-campus school management success", "school chain scaling ERP", "school group management software India"]
+secondary_keywords:
+  - "school chain ERP India"
+  - "multi-campus school management success"
+  - "school chain scaling ERP"
+  - "school group management software India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Multi-Location Chain Success
 

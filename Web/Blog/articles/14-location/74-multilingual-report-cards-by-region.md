@@ -1,18 +1,20 @@
 ---
 title: "Multilingual Report Cards by Region"
-slug: "multilingual-report-cards-by-region"
+slug: "74-multilingual-report-cards-by-region"
 meta_description: "Multilingual report cards for Indian schools: generating CBSE and state board report cards in English, Hindi, Marathi, Tamil, and other regional languages."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "multilingual report cards school ERP India"
-secondary_keywords: ["Hindi Marathi Tamil report card school ERP", "bilingual report card India", "regional language report card school", "multilingual student reports India"]
+secondary_keywords:
+  - "Hindi Marathi Tamil report card school ERP"
+  - "bilingual report card India"
+  - "regional language report card school"
+  - "multilingual student reports India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Multilingual Report Cards by Region
 

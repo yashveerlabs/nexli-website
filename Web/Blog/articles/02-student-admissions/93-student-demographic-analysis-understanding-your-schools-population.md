@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Student Demographic Analysis: Understanding Your School's Population"
-slug: student-demographic-analysis-understanding-your-schools-population
-meta_description: student demographic analysis: understanding your school's population. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: student demographic analysis
+slug: "93-student-demographic-analysis-understanding-your-schools-population"
+meta_description: "student demographic analysis: understanding your school's population. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "student demographic analysis"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: research
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "research"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article explores best practices for student demographic analysis in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

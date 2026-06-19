@@ -1,22 +1,21 @@
 ---
-title: The Complete Guide to Competency-Based Education Research
-slug: the-complete-guide-to-competency-based-education-research
-meta_description: The Complete Guide to Competency-Based Education Research
-category: Research & Statistics
-primary_keyword: competency-based education research
+title: "The Complete Guide to Competency-Based Education Research"
+slug: "011-the-complete-guide-to-competency-based-education-research"
+meta_description: "The Complete Guide to Competency-Based Education Research"
+category: "School Research, Statistics & Reports"
+primary_keyword: "competency-based education research"
 secondary_keywords:
-  - competency-based education research schools
-  - best practices competency-based education research
-  - competency-based education research strategy
-  - how to implement competency-based education research
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "competency-based education research schools"
+  - "best practices competency-based education research"
+  - "competency-based education research strategy"
+  - "how to implement competency-based education research"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on competency-based education research for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,20 +1,23 @@
-﻿---
+---
 title: "School ERP Pricing Models Explained: Subscription vs. Licensing vs. Hybrid"
-slug: "school-erp-pricing-models-explained"
+slug: "02-school-erp-pricing-models"
 meta_description: "Compare school ERP pricing models: per-student subscription, flat annual fees, perpetual licensing, and hybrid models. Understand pros and cons of each approach."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "school ERP pricing models"
-secondary_keywords: ["subscription pricing", "licensing model", "per-student pricing", "flat fee", "SaaS vs on-premise", "pricing comparison"]
+secondary_keywords:
+  - "subscription pricing"
+  - "licensing model"
+  - "per-student pricing"
+  - "flat fee"
+  - "SaaS vs on-premise"
+  - "pricing comparison"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 **A school administrator sees four different pricing quotes and is confused.** One vendor says "₹500 per student per year." Another says "₹3 lakhs fixed annually." A third says "₹10 lakhs upfront, then ₹1 lakh yearly." The fourth says "₹25,000 per month, annual commitment."
 
 Same market. Same use case. Four completely different pricing models. **Which one should the school choose?**

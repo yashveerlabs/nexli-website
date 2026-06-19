@@ -1,8 +1,8 @@
 ---
 title: "Change Management for School ERP: Managing the Human Side"
-slug: "change-management-for-erp"
+slug: "78-change-management-for-erp"
 meta_description: "Change management for school ERP implementation: how to manage staff anxiety, overcome resistance, communicate purpose, and build lasting adoption across all roles."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "change management school ERP"
 secondary_keywords:
   - "school ERP adoption management"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school management system change"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Change Management for School ERP: Managing the Human Side
 
 **ERP implementation is partly a technology project and mostly a people project. The technology can be configured in 2 weeks. Getting 40 teachers to change how they record attendance, enter marks, and communicate with parents takes 3-6 months. Change management, the planned approach to managing the human dimension, determines whether the technology investment succeeds.**

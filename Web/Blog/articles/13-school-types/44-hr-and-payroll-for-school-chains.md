@@ -1,18 +1,20 @@
 ---
 title: "HR and Payroll for School Chains"
-slug: "hr-and-payroll-for-school-chains"
+slug: "44-hr-and-payroll-for-school-chains"
 meta_description: "How school ERPs support hr and payroll for school chains for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "school chain HR payroll ERP"
-secondary_keywords: ["multi-campus payroll management", "school group HR software India", "teacher salary chain schools", "school network payroll ERP"]
+secondary_keywords:
+  - "multi-campus payroll management"
+  - "school group HR software India"
+  - "teacher salary chain schools"
+  - "school network payroll ERP"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## HR and Payroll for School Chains
 

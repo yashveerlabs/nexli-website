@@ -1,22 +1,21 @@
-﻿---
+---
 title: "Student Data Import: Bulk Upload from Previous School Records"
-slug: student-data-import-bulk-upload-from-previous-school-records
-meta_description: student data import: bulk upload from previous school records. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes.
-category: Student Management & Admissions
-primary_keyword: student data import
+slug: "100-student-data-import-bulk-upload-from-previous-school-records"
+meta_description: "student data import: bulk upload from previous school records. Comprehensive guide for Indian schools managing admissions, student records, transfers, and enrollment processes."
+category: "Student Management & Admissions"
+primary_keyword: "student data import"
 secondary_keywords:
-  - student admissions
-  - enrollment management
-  - student records
-  - admissions process
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "student admissions"
+  - "enrollment management"
+  - "student records"
+  - "admissions process"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 16
 branding_block_company: 16
 branding_block_nexli: 16
 ---
-
 ## Executive Summary
 
 This article explores best practices for student data import in Indian schools. We examine practical workflows, compliance requirements, and technology solutions that help schools streamline this critical process.

@@ -1,8 +1,8 @@
 ---
 title: "Instagram Reels: Short Videos for School Engagement and Viral Growth"
-slug: "instagram-reels-schools-engagement"
+slug: "25-instagram-reels-short-videos-engagement"
 meta_description: "Use Instagram Reels to grow your school's social media following and drive admissions. Learn Reel formats, content strategy, hashtags, and engagement tactics."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "Instagram Reels schools"
 secondary_keywords:
   - "school short video"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Instagram Reels: Short Videos for School Engagement and Viral Growth
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 6 min

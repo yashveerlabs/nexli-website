@@ -1,20 +1,20 @@
 ---
 title: "Training Costs: What to Budget for Staff and Leadership"
-slug: "training-costs-budget"
+slug: "15-training-costs"
 meta_description: "School ERP training costs explained. Admin training, teacher training, parent onboarding. Budget 50,000-2,00,000 for comprehensive staff training."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "ERP training costs schools"
-secondary_keywords: ["staff training school software", "teacher training ERP", "change management training cost"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "staff training school software"
+  - "teacher training ERP"
+  - "change management training cost"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 **Snippet:** School ERP training costs ₹50,000-₹2,00,000 depending on school size. Factor: 4-8 hours formal training per staff member + ongoing support during first 3 months. Many schools underestimate training cost, leading to poor ERP adoption and user frustration.
 
 ## Why Training Costs So Much

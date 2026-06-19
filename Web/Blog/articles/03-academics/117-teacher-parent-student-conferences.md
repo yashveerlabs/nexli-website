@@ -1,22 +1,21 @@
 ---
-title: How to Conduct Meaningful Teacher-Parent-Student Conferences
-slug: teacher-parent-student-conferences-conduct
-meta_description: Guide to effective PTM conferences that include students. Learn strategies to discuss progress, set goals, and build partnerships with families.
-category: Academic Management & Teaching Excellence
-primary_keyword: parent-teacher conferences
+title: "How to Conduct Meaningful Teacher-Parent-Student Conferences"
+slug: "117-teacher-parent-student-conferences"
+meta_description: "Guide to effective PTM conferences that include students. Learn strategies to discuss progress, set goals, and build partnerships with families."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "parent-teacher conferences"
 secondary_keywords:
-  - student-led conferences
-  - parent engagement meetings
-  - academic discussions
-  - student progress conversations
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "student-led conferences"
+  - "parent engagement meetings"
+  - "academic discussions"
+  - "student progress conversations"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 Meaningful conferences include three voices: teacher, parent, and student. Schools conducting student-led conferences report 40% higher student responsibility and 30% better parent understanding of their child's learning. This article provides a structured format and talking points.

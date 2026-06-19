@@ -1,22 +1,21 @@
-﻿---
-title: Scaling Attendance Tracking Systems Across Your School
-slug: scaling-attendance-tracking-systems-across-your-school
-meta_description: Scaling Attendance Tracking Systems Across Your School
-category: HR & Recruitment
-primary_keyword: attendance tracking systems
+---
+title: "Scaling Attendance Tracking Systems Across Your School"
+slug: "088-scaling-attendance-tracking-systems-across-your-school"
+meta_description: "Scaling Attendance Tracking Systems Across Your School"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "attendance tracking systems"
 secondary_keywords:
-  - attendance tracking systems schools
-  - best practices attendance tracking systems
-  - attendance tracking systems strategy
-  - how to implement attendance tracking systems
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "attendance tracking systems schools"
+  - "best practices attendance tracking systems"
+  - "attendance tracking systems strategy"
+  - "how to implement attendance tracking systems"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on attendance tracking systems for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

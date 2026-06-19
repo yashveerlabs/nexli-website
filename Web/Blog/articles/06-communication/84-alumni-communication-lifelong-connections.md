@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Alumni Communication: Maintaining Lifelong Connections"
-slug: "alumni-communication-lifelong-connections"
+slug: "84-alumni-communication-lifelong-connections"
 meta_description: "Effective communication technology strategies for Indian schools. Learn how alumni newsletters, reunion events, and mentorship programs keep graduates connected to their school and create feedback channels."
-category: "Communication Technology"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication platform"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Alumni Communication: Maintaining Lifelong Connections
 
 Alumni newsletters, reunion events, and mentorship programs keep graduates connected to their school and create feedback channels.

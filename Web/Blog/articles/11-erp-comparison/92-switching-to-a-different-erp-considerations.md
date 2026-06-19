@@ -1,8 +1,8 @@
 ---
 title: "Switching School ERP Vendors: What to Consider Before Making the Move"
-slug: "switching-to-a-different-erp-considerations"
+slug: "92-switching-to-a-different-erp-considerations"
 meta_description: "How to decide whether to switch school ERP vendors: evaluating current vs. new costs, migration complexity, timing, staff retraining, and avoiding the same mistakes."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "switching school ERP vendors"
 secondary_keywords:
   - "school ERP migration from old vendor"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school ERP switching considerations India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
-
 ## Switching School ERP Vendors: What to Consider Before Making the Move
 
 **Switching school ERP vendors is a significant undertaking, comparable in complexity to the original implementation, and often more difficult because the school is migrating live operational data from a system that is currently in use. Schools switch for legitimate reasons (vendor failure, product stagnation, unacceptable price increases), but the switch itself carries risk. This guide helps schools evaluate whether to switch and how to do it well.**

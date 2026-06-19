@@ -1,8 +1,8 @@
 ---
 title: "Payroll Features in School ERP: What Indian Schools Need"
-slug: "payroll-features-in-school-erp"
+slug: "13-payroll-features-in-school-erp"
 meta_description: "School ERP payroll features: salary calculation, EPF/ESI/TDS compliance, leave management, staff attendance integration, and monthly disbursement workflows."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP payroll"
 secondary_keywords:
   - "school staff payroll software"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "staff salary school ERP India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 ## Payroll Features in School ERP: What Indian Schools Need
 
 **School payroll is more complex than many ERPs acknowledge. Between EPF, ESI, TDS, professional tax, leave deductions, and varying salary structures across teaching and non-teaching staff, getting payroll wrong is expensive. This guide explains what to look for in a school ERP's payroll module.**

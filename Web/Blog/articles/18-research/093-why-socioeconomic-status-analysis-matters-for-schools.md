@@ -1,22 +1,21 @@
 ---
-title: Why Socioeconomic Status Analysis Matters for Schools
-slug: why-socioeconomic-status-analysis-matters-for-schools
-meta_description: Why Socioeconomic Status Analysis Matters for Schools
-category: Research & Statistics
-primary_keyword: socioeconomic status analysis
+title: "Why Socioeconomic Status Analysis Matters for Schools"
+slug: "093-why-socioeconomic-status-analysis-matters-for-schools"
+meta_description: "Why Socioeconomic Status Analysis Matters for Schools"
+category: "School Research, Statistics & Reports"
+primary_keyword: "socioeconomic status analysis"
 secondary_keywords:
-  - socioeconomic status analysis schools
-  - best practices socioeconomic status analysis
-  - socioeconomic status analysis strategy
-  - how to implement socioeconomic status analysis
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "socioeconomic status analysis schools"
+  - "best practices socioeconomic status analysis"
+  - "socioeconomic status analysis strategy"
+  - "how to implement socioeconomic status analysis"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on socioeconomic status analysis for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

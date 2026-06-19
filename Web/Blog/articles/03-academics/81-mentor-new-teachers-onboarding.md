@@ -1,22 +1,21 @@
 ---
-title: Mentoring New Teachers
-slug: mentor-new-teachers-onboarding
-meta_description: Pair experienced mentors with beginners for effective induction.
-category: Academic Management & Teaching Excellence
-primary_keyword: mentor new teachers onboarding
+title: "Mentoring New Teachers"
+slug: "81-mentor-new-teachers-onboarding"
+meta_description: "Pair experienced mentors with beginners for effective induction."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "mentor new teachers onboarding"
 secondary_keywords:
-  - Mentor New Teachers Onboarding
-  - teaching effectiveness
-  - student learning
-  - academic excellence
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Mentor New Teachers Onboarding"
+  - "teaching effectiveness"
+  - "student learning"
+  - "academic excellence"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 Mentoring New Teachers is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process see measurable improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.

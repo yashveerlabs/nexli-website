@@ -1,18 +1,20 @@
 ---
 title: "School ERP in East India"
-slug: "school-erp-in-east-india"
+slug: "49-school-erp-in-east-india"
 meta_description: "School ERP in East India: cloud-based school management for West Bengal, Bihar, Odisha, and Jharkhand schools with state board and CBSE compliance."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP East India"
-secondary_keywords: ["school management East India", "East India state board ERP", "school software West Bengal Bihar Odisha", "school ERP Kolkata Patna Bhubaneswar"]
+secondary_keywords:
+  - "school management East India"
+  - "East India state board ERP"
+  - "school software West Bengal Bihar Odisha"
+  - "school ERP Kolkata Patna Bhubaneswar"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## School ERP in East India
 

@@ -1,19 +1,22 @@
 ---
 title: "How to Set School Vision and Mission"
-slug: how-to-set-school-vision-and-mission
-category: 9
-order: 14
-primary_keyword: "how to set school vision and mission"
+slug: "14-how-to-set-school-vision-and-mission"
 meta_description: "A step-by-step guide for school principals to craft a meaningful vision and mission, covering the six-step process, stakeholder inclusion, strong statement qualities, and practical examples."
-secondary_keywords: ["school vision statement examples", "school mission statement creation", "principal vision and mission", "school identity and purpose"]
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to set school vision and mission"
+secondary_keywords:
+  - "school vision statement examples"
+  - "school mission statement creation"
+  - "principal vision and mission"
+  - "school identity and purpose"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
+order: 14
 ---
-
 # How to Set School Vision and Mission
 
 Your school's vision and mission are its north star. They guide strategy, shape culture, and inspire stakeholders. Getting them right matters deeply.

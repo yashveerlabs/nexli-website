@@ -1,8 +1,8 @@
 ---
 title: "Immunization Records and Verification"
-slug: immunization-records-and-verification
+slug: "36-immunization-records-and-verification"
 meta_description: "Manage student immunization records in Indian schools: verification requirements, exemptions, non-compliance handling, and digital tracking for health compliance."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school immunization records verification"
 secondary_keywords:
   - "vaccination records school India"
@@ -15,7 +15,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Immunization Records and Verification
 
 Immunization records are mandated by law. Verification ensures school health and compliance.

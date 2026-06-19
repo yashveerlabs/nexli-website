@@ -1,22 +1,21 @@
 ---
 title: "Reducing Redundant Data Entry in Schools"
-slug: reduce-redundant-data-entry-schools
-meta_description: Eliminate duplicate data entry across school systems. Single source of truth strategy to cut manual work by 80%.
-category: School Administration & Operations
-primary_keyword: reduce data entry schools
+slug: "08-reduce-redundant-data-entry"
+meta_description: "Eliminate duplicate data entry across school systems. Single source of truth strategy to cut manual work by 80%."
+category: "School Administration & Operations"
+primary_keyword: "reduce data entry schools"
 secondary_keywords:
-  - data duplication
-  - administrative efficiency
-  - workflow optimization
-  - school operations
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "data duplication"
+  - "administrative efficiency"
+  - "workflow optimization"
+  - "school operations"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 School staff enter the same data repeatedly: student name is entered in admission form, then in attendance system, then in marks entry, then in fee system. Same data, five times. A typical 300-student school wastes 8–12 hours/week re-entering data. This article shows how to identify and eliminate redundancy.

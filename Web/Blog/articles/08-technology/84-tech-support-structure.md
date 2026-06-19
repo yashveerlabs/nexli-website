@@ -1,18 +1,21 @@
 ---
 title: "Organizing IT Support in Schools: Roles, Help Desk, and SLAs"
-slug: "tech-support-structure"
+slug: "84-tech-support-structure"
 meta_description: "How to organize IT support in a school: IT coordinator role, help desk ticketing, escalation paths, vendor SLAs, and self-service resources for staff."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school IT support structure"
-secondary_keywords: ["IT coordinator school", "school help desk ticketing", "EdTech vendor SLA", "tech support schools India"]
-intent: "informational"
+secondary_keywords:
+  - "IT coordinator school"
+  - "school help desk ticketing"
+  - "EdTech vendor SLA"
+  - "tech support schools India"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## How to Organize IT Support in a School
 
 A school that invests in technology without investing in support is setting itself up for frustrated teachers, unused systems, and technology that gets blamed when the problem was actually inadequate maintenance. IT support is not a luxury for large schools. It is a basic requirement for any school where technology is part of daily operations.

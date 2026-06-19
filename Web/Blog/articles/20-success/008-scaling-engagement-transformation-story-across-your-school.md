@@ -1,22 +1,21 @@
 ---
-title: Scaling Engagement Transformation Story Across Your School
-slug: scaling-engagement-transformation-story-across-your-school
-meta_description: Scaling Engagement Transformation Story Across Your School
-category: Success Stories & Cases
-primary_keyword: engagement transformation story
+title: "Scaling Engagement Transformation Story Across Your School"
+slug: "008-scaling-engagement-transformation-story-across-your-school"
+meta_description: "Scaling Engagement Transformation Story Across Your School"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "engagement transformation story"
 secondary_keywords:
-  - engagement transformation story schools
-  - best practices engagement transformation story
-  - engagement transformation story strategy
-  - how to implement engagement transformation story
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "engagement transformation story schools"
+  - "best practices engagement transformation story"
+  - "engagement transformation story strategy"
+  - "how to implement engagement transformation story"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on engagement transformation story for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

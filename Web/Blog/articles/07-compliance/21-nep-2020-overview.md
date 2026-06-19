@@ -1,18 +1,21 @@
 ---
 title: "NEP 2020 Overview: What Schools Need to Implement"
-slug: "nep-2020-overview"
+slug: "21-nep-2020-overview"
 meta_description: "Understand NEP 2020 and what it means for schools. Learn the 5-3-3-4 structure, holistic assessment, competency-based learning, and implementation requirements."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "NEP 2020 schools implementation"
-secondary_keywords: ["National Education Policy 2020", "5-3-3-4 structure", "competency based learning", "holistic education"]
-intent: "informational"
+secondary_keywords:
+  - "National Education Policy 2020"
+  - "5-3-3-4 structure"
+  - "competency based learning"
+  - "holistic education"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 The National Education Policy 2020 is India's most comprehensive education reform in decades. For schools, NEP 2020 is not just a policy document, it prescribes a new school structure, a shift from rote learning to competency-based assessment, and the introduction of vocational education from Class 6 onwards.
 
 ## The Core Shifts NEP 2020 Demands

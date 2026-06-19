@@ -1,8 +1,8 @@
 ---
 title: "SEO-Optimized Blog Posts: Getting Found in Search"
-slug: "seo-optimized-blog-posts-schools"
+slug: "52-seo-optimized-blog-posts"
 meta_description: "Write SEO-optimized blog posts that rank on Google and drive school admissions. Learn keyword research, on-page optimization, and content structure for schools."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "SEO blog posts schools"
 secondary_keywords:
   - "school blog SEO"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # SEO-Optimized Blog Posts: Getting Found in Search
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

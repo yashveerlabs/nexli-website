@@ -1,8 +1,8 @@
 ---
 title: "What to Look for in a School ERP: Buyer's Guide for 2026"
-slug: "what-to-look-for-in-school-erp"
+slug: "04-what-to-look-for-school-erp"
 meta_description: "School ERP buyer's guide: essential features, compliance requirements, security, mobile-readiness, and evaluation questions to ask vendors."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "what to look for in school ERP"
 secondary_keywords:
   - "school management system features"
@@ -16,7 +16,6 @@ branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## What to Look for in a School ERP: Complete Buyer's Guide
 
 **Most school administrators approach ERP evaluation with a generic feature checklist: Does it have Student Information? Attendance? Grades? Fees? This is a mistake. All established ERPs have these core modules. The differences lie in architecture, compliance readiness, role flexibility, mobile optimization, and security verification. This guide teaches you what to actually evaluate, so you invest in a system that solves your school's real problems, not a feature-rich box that sits half-used.**

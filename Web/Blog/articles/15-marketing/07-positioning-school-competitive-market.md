@@ -1,8 +1,8 @@
 ---
 title: "Positioning Your School in a Competitive Market"
-slug: "positioning-school-competitive-market"
+slug: "07-positioning-school-competitive-market"
 meta_description: "Position your school to stand out in a crowded market. Learn competitive analysis, differentiation strategy, and value proposition for parents."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school positioning"
 secondary_keywords:
   - "school differentiation"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Positioning Your School in a Competitive Market
 
 **Positioning is how parents perceive you vs. competitors. Without clear positioning, you're invisible. This guide covers competitive analysis, differentiation, and value propositions.**

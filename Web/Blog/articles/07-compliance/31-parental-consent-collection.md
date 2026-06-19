@@ -1,18 +1,21 @@
 ---
 title: "Parental Consent Collection: DPDP-Compliant Process for Schools"
-slug: "parental-consent-collection"
+slug: "31-parental-consent-collection"
 meta_description: "Collect parental consent for DPDP compliance. Learn consent form design, OTP verification, withdrawal process, and annual renewal for school data protection."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "parental consent collection schools DPDP"
-secondary_keywords: ["consent form schools", "OTP consent verification", "DPDP consent", "parent data consent"]
-intent: "informational"
+secondary_keywords:
+  - "consent form schools"
+  - "OTP consent verification"
+  - "DPDP consent"
+  - "parent data consent"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 10
 branding_block_company: 10
 branding_block_nexli: 10
 ---
-
 Collecting parental consent under DPDP Act 2023 requires more than a signature on the admission form. Consent must be specific to each data type, explicit, freely given, and revocable. Schools that get consent right at the start of the relationship prevent compliance failures throughout the school year.
 
 ## The Consent Collection Timeline

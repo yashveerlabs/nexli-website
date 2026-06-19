@@ -1,18 +1,20 @@
 ---
 title: "School Growth Stories: North India"
-slug: "school-growth-stories-north-india"
+slug: "92-school-growth-stories-north-india"
 meta_description: "School growth in North India: how schools in UP, Rajasthan, Punjab, and Delhi NCR scaled admissions, operations, and compliance with cloud-based ERP."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school growth North India ERP"
-secondary_keywords: ["North India school growth ERP", "school scaling UP Rajasthan Punjab", "school ERP North India success", "growing school management North India"]
+secondary_keywords:
+  - "North India school growth ERP"
+  - "school scaling UP Rajasthan Punjab"
+  - "school ERP North India success"
+  - "growing school management North India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## School Growth Stories: North India
 

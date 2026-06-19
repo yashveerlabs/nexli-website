@@ -1,20 +1,20 @@
-﻿---
+---
 title: "Contingency Planning: Budget Overruns in School ERP Projects"
-slug: "contingency-budget-overruns"
+slug: "21-contingency-budget-overruns"
 meta_description: "How to plan for budget overruns in school ERP projects. Contingency reserves, risk categories, and governance strategies to stay on budget."
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "contingency budget ERP school"
-secondary_keywords: ["ERP project overruns schools", "school ERP budget planning", "contingency reserve ERP"]
-intent: "cost_analysis"
+secondary_keywords:
+  - "ERP project overruns schools"
+  - "school ERP budget planning"
+  - "contingency reserve ERP"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 # Contingency Planning: Budget Overruns
 
 A principal in Chennai budgeted Rs. 2,50,000 for an ERP project. The budget was well-researched: Rs. 50,000 software license, Rs. 40,000 implementation, Rs. 30,000 training, Rs. 50,000 integration, Rs. 30,000 infrastructure upgrades. Total: Rs. 2,00,000. With leftover Rs. 50,000, the principal felt confident. Then issues emerged. The data migration uncovered corruption in the legacy system, requiring an additional consultant (Rs. 15,000). A critical customization needed debugging and re-work (Rs. 10,000). During training, the school realized they needed additional devices and Wi-Fi access points (Rs. 12,000). A vendor support hour overages added Rs. 5,000. The contingency was exhausted. When the project finished, the final cost was Rs. 2,57,000, 17% over budget. The principal had underestimated contingency requirements.

@@ -1,18 +1,21 @@
-﻿---
+---
 title: "Student Absenteeism and Parent Engagement"
-slug: "student-absenteeism-parent-engagement"
+slug: "63-student-absenteeism-parent-engagement"
 meta_description: "Learn about student absenteeism and parent engagement in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "student absenteeism and parent engagement"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with student absenteeism and parent engagement:

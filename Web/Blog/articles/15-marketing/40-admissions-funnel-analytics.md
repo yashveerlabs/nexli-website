@@ -1,8 +1,8 @@
 ---
 title: "Admissions Funnel Analytics: Measuring Your Marketing Effectiveness"
-slug: "admissions-funnel-analytics"
+slug: "40-admissions-funnel-analytics"
 meta_description: "Track your admissions funnel analytics to identify bottlenecks and improve conversions. Learn funnel metrics, tracking setup, and optimization strategies."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "admissions funnel analytics"
 secondary_keywords:
   - "school admissions metrics"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Admissions Funnel Analytics: Measuring Your Marketing Effectiveness
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

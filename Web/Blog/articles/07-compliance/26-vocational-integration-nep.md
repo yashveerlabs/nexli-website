@@ -1,18 +1,21 @@
 ---
 title: "Vocational Education Under NEP 2020: Integrating Skills from Class 6"
-slug: "vocational-integration-nep"
+slug: "26-vocational-integration-nep"
 meta_description: "Integrate vocational education under NEP 2020. Learn what skills to introduce, how to structure vocational modules from Class 6, and CBSE vocational requirements."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "vocational education NEP 2020 schools"
-secondary_keywords: ["vocational skills Class 6", "NEP vocational education", "school skill development", "practical education"]
-intent: "informational"
+secondary_keywords:
+  - "vocational skills Class 6"
+  - "NEP vocational education"
+  - "school skill development"
+  - "practical education"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 NEP 2020 mandates that all students receive vocational exposure starting from Class 6, not as a track for lower performers, but as an integral part of every student's education. Schools must introduce at least one vocational skill per student before Class 8.
 
 ## What Counts as Vocational Education

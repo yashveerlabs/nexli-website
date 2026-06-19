@@ -1,22 +1,21 @@
-﻿---
-title: Teacher Certification Tracking for Modern Indian Schools
-slug: teacher-certification-tracking-for-modern-indian-schools
-meta_description: Teacher Certification Tracking for Modern Indian Schools
-category: HR & Recruitment
-primary_keyword: teacher certification tracking
+---
+title: "Teacher Certification Tracking for Modern Indian Schools"
+slug: "054-teacher-certification-tracking-for-modern-indian-schools"
+meta_description: "Teacher Certification Tracking for Modern Indian Schools"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "teacher certification tracking"
 secondary_keywords:
-  - teacher certification tracking schools
-  - best practices teacher certification tracking
-  - teacher certification tracking strategy
-  - how to implement teacher certification tracking
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "teacher certification tracking schools"
+  - "best practices teacher certification tracking"
+  - "teacher certification tracking strategy"
+  - "how to implement teacher certification tracking"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on teacher certification tracking for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

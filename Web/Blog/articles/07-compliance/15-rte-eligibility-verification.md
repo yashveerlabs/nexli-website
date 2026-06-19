@@ -1,18 +1,21 @@
 ---
 title: "RTE Eligibility Verification: Confirming EWS Student Status"
-slug: "rte-eligibility-verification"
+slug: "15-rte-eligibility-verification"
 meta_description: "Verify RTE eligibility correctly. Learn EWS income criteria, document checks, state variations, and school's role in the verification process."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "RTE eligibility verification schools"
-secondary_keywords: ["EWS income criteria", "RTE income proof", "school eligibility check", "RTE documentation"]
-intent: "informational"
+secondary_keywords:
+  - "EWS income criteria"
+  - "RTE income proof"
+  - "school eligibility check"
+  - "RTE documentation"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 RTE eligibility is verified by the district authority, not the school. Schools must accept lottery-allocated students without conducting independent income or caste verification. However, understanding what documents are valid prevents compliance mistakes.
 
 ## Who Verifies Eligibility?

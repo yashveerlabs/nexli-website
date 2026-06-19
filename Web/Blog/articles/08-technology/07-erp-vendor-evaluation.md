@@ -1,18 +1,21 @@
 ---
 title: "How to Evaluate School ERP Vendors: A Scorecard for Indian Schools"
-slug: "erp-vendor-evaluation"
+slug: "07-erp-vendor-evaluation"
 meta_description: "A practical vendor evaluation scorecard for Indian schools. Covers compliance knowledge, support quality, demo quality, reference checks, and contract terms to assess."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "school ERP vendor evaluation"
-secondary_keywords: ["ERP vendor selection schools India", "school software comparison", "ERP vendor scorecard", "choose school management software"]
-intent: "informational"
+secondary_keywords:
+  - "ERP vendor selection schools India"
+  - "school software comparison"
+  - "ERP vendor scorecard"
+  - "choose school management software"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## How Do You Evaluate an ERP Vendor for an Indian School?
 
 Evaluating a school ERP vendor requires more than watching a demo. Indian schools need to assess compliance knowledge (CBSE, DPDP Act, state board requirements), support responsiveness, data ownership terms, and realistic implementation timelines. This scorecard covers the seven dimensions that separate vendors who deliver from vendors who overpromise.

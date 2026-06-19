@@ -1,8 +1,8 @@
 ---
 title: "Influencer Partnerships: Leveraging Education Experts"
-slug: "influencer-partnerships-education"
+slug: "46-influencer-partnerships-education"
 meta_description: "Partner with education influencers to reach more parents and build school credibility. Learn influencer selection, collaboration formats, and measuring impact."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school influencer marketing"
 secondary_keywords:
   - "education influencer partnerships"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Influencer Partnerships: Leveraging Education Experts
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min

@@ -1,18 +1,21 @@
 ---
 title: "POCSO Act 2012: Protecting Children from Sexual Abuse in Schools"
-slug: "pocso-act-schools-compliance"
+slug: "08-pocso-act-schools"
 meta_description: "Understand POCSO Act 2012 requirements for schools. Learn about child protection, reporting obligations, and creating a safe school environment."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "POCSO Act schools"
-secondary_keywords: ["child protection", "POCSO compliance", "school safety", "sexual abuse prevention"]
-intent: "informational"
+secondary_keywords:
+  - "child protection"
+  - "POCSO compliance"
+  - "school safety"
+  - "sexual abuse prevention"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## What is POCSO Act?
 
 The Protection of Children from Sexual Offences (POCSO) Act, 2012, is India's landmark legislation protecting children from sexual abuse. For schools, POCSO imposes a duty to protect children from abuse, create safe reporting mechanisms, and respond to allegations promptly.

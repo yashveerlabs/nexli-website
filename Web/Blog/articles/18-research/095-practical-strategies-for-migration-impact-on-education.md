@@ -1,22 +1,21 @@
 ---
-title: Practical Strategies for Migration Impact On Education
-slug: practical-strategies-for-migration-impact-on-education
-meta_description: Practical Strategies for Migration Impact On Education
-category: Research & Statistics
-primary_keyword: migration impact on education
+title: "Practical Strategies for Migration Impact On Education"
+slug: "095-practical-strategies-for-migration-impact-on-education"
+meta_description: "Practical Strategies for Migration Impact On Education"
+category: "School Research, Statistics & Reports"
+primary_keyword: "migration impact on education"
 secondary_keywords:
-  - migration impact on education schools
-  - best practices migration impact on education
-  - migration impact on education strategy
-  - how to implement migration impact on education
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "migration impact on education schools"
+  - "best practices migration impact on education"
+  - "migration impact on education strategy"
+  - "how to implement migration impact on education"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 14
 branding_block_company: 14
 branding_block_nexli: 14
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on migration impact on education for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

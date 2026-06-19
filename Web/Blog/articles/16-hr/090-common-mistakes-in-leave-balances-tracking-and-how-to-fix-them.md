@@ -1,22 +1,21 @@
-﻿---
-title: Common Mistakes in Leave Balances Tracking (And How to Fix Them)
-slug: common-mistakes-in-leave-balances-tracking-and-how-to-fix-them
-meta_description: Common Mistakes in Leave Balances Tracking (And How to Fi...
-category: HR & Recruitment
-primary_keyword: leave balances tracking
+---
+title: "Common Mistakes in Leave Balances Tracking (And How to Fix Them)"
+slug: "090-common-mistakes-in-leave-balances-tracking-and-how-to-fix-them"
+meta_description: "Common Mistakes in Leave Balances Tracking (And How to Fi..."
+category: "School HR, Recruitment & Staff"
+primary_keyword: "leave balances tracking"
 secondary_keywords:
-  - leave balances tracking schools
-  - best practices leave balances tracking
-  - leave balances tracking strategy
-  - how to implement leave balances tracking
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "leave balances tracking schools"
+  - "best practices leave balances tracking"
+  - "leave balances tracking strategy"
+  - "how to implement leave balances tracking"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on leave balances tracking for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

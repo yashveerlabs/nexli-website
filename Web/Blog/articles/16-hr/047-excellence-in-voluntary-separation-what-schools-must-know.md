@@ -1,22 +1,21 @@
-﻿---
-title: Excellence in Voluntary Separation: What Schools Must Know
-slug: excellence-in-voluntary-separation-what-schools-must-know
-meta_description: Excellence in Voluntary Separation: What Schools Must Know
-category: HR & Recruitment
-primary_keyword: voluntary separation
+---
+title: "Excellence in Voluntary Separation: What Schools Must Know"
+slug: "047-excellence-in-voluntary-separation-what-schools-must-know"
+meta_description: "Excellence in Voluntary Separation: What Schools Must Know"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "voluntary separation"
 secondary_keywords:
-  - voluntary separation schools
-  - best practices voluntary separation
-  - voluntary separation strategy
-  - how to implement voluntary separation
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "voluntary separation schools"
+  - "best practices voluntary separation"
+  - "voluntary separation strategy"
+  - "how to implement voluntary separation"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on voluntary separation for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,18 +1,21 @@
 ---
-title: How to Handle Contagious Disease Outbreaks
-slug: how-to-handle-contagious-disease-outbreaks
-meta_description: Prepare schools for disease outbreaks with prevention protocols, isolation procedures, and communication strategies.
-category: Safety & Operations
-primary_keyword: managing disease outbreaks schools
-secondary_keywords: ["epidemic response", "infection control", "quarantine protocols", "parent communication"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
+title: "How to Handle Contagious Disease Outbreaks"
+slug: "44-how-to-handle-contagious-disease-outbreaks"
+meta_description: "Prepare schools for disease outbreaks with prevention protocols, isolation procedures, and communication strategies."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "managing disease outbreaks schools"
+secondary_keywords:
+  - "epidemic response"
+  - "infection control"
+  - "quarantine protocols"
+  - "parent communication"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 # Handling Contagious Disease Outbreaks: Preparation and Response
 
 COVID-19 taught schools globally that pandemic preparedness isn't optional. From measles to influenza to conjunctivitis, schools are disease amplifiers, tight spaces, shared surfaces, young immune systems. This guide prepares your school for outbreak response, grounded in Indian health protocols.

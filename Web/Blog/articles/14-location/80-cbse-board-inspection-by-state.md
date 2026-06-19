@@ -1,18 +1,20 @@
 ---
 title: "CBSE Board Inspection by State"
-slug: "cbse-board-inspection-by-state"
+slug: "80-cbse-board-inspection-by-state"
 meta_description: "CBSE board inspection by state: how school ERP prepares schools for inspection visits with compliance records, staff verification, and documentation ready."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "CBSE board inspection school ERP state-wise"
-secondary_keywords: ["CBSE inspection preparation ERP", "school compliance CBSE inspection", "CBSE visit readiness ERP", "CBSE affiliation inspection states"]
+secondary_keywords:
+  - "CBSE inspection preparation ERP"
+  - "school compliance CBSE inspection"
+  - "CBSE visit readiness ERP"
+  - "CBSE affiliation inspection states"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## CBSE Board Inspection by State
 

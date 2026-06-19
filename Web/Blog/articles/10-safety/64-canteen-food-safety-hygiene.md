@@ -1,22 +1,21 @@
-﻿---
-title: Canteen Food Safety and Hygiene
-slug: canteen-food-safety-hygiene
-meta_description: Comprehensive guide to canteen food safety and hygiene for school administrators and leaders.
-category: School Safety, Transport, Hostel, Medical & Campus Operations
-primary_keyword: food safety
+---
+title: "Canteen Food Safety and Hygiene"
+slug: "64-canteen-food-safety-hygiene"
+meta_description: "Comprehensive guide to canteen food safety and hygiene for school administrators and leaders."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "food safety"
 secondary_keywords:
-  - school safety
-  - food safety
-  - school operations
-  - campus safety
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school safety"
+  - "food safety"
+  - "school operations"
+  - "campus safety"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This comprehensive guide covers essential strategies and best practices for canteen food safety and hygiene.

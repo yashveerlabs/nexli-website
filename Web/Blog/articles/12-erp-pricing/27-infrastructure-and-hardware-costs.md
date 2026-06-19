@@ -1,18 +1,20 @@
-﻿---
+---
 title: "Infrastructure and Hardware Costs"
-slug: "infrastructure-and-hardware-costs"
+slug: "27-infrastructure-and-hardware-costs"
 meta_description: "Infrastructure and Hardware Costs"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "infrastructure"
-secondary_keywords: ["and", "hardware", "costs", "school"]
+secondary_keywords:
+  - "and"
+  - "hardware"
+  - "costs"
+  - "school"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
-date: "2026-06-19"
 ---
 ## Infrastructure and Hardware Costs
 

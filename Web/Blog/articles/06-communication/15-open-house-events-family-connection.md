@@ -1,18 +1,21 @@
 ---
 title: "Open House Events: Connecting Families to School Life"
-slug: "open-house-events-family-connection"
+slug: "15-open-house-events-family-connection"
 meta_description: "Effective school events strategies for Indian schools. Learn how open houses are opportunities for parents to see their child's learning environment, meet teachers, and understand the school's educational philosophy. strategic planning ensures these events strengthen family-school bonds."
-category: "School Events"
+category: "Parent Communication & Engagement"
 primary_keyword: "school open house"
-secondary_keywords: ["school communication", "parent engagement", "student success", "school operations"]
-intent: "informational"
+secondary_keywords:
+  - "school communication"
+  - "parent engagement"
+  - "student success"
+  - "school operations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Open House Events: Connecting Families to School Life
 
 Open houses are opportunities for parents to see their child's learning environment, meet teachers, and understand the school's educational philosophy. Strategic planning ensures these events strengthen family-school bonds.

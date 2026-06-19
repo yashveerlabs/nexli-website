@@ -1,8 +1,8 @@
 ---
 title: "Parent Portal: What Parents Actually Need from a School ERP"
-slug: "parent-portal-what-parents-actually-need"
+slug: "15-parent-portal-what-parents-actually-need"
 meta_description: "What parents need from a school ERP parent portal: real-time attendance, fee payment, homework visibility, report cards, and child-scoped privacy by design."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP parent portal"
 secondary_keywords:
   - "parent app school ERP"
@@ -11,14 +11,11 @@ secondary_keywords:
   - "school fee payment parent portal"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
-
 ## Parent Portal: What Parents Actually Need from a School ERP
 
 **Most school parent portals give parents too much, or too little. Too much means parents see data from other students, creating privacy issues. Too little means parents cannot find the information they actually need, so they call the school instead. The right parent portal shows each parent exactly their child's data: attendance, fees, homework, report cards, and announcements, nothing more, nothing less.**

@@ -1,18 +1,20 @@
-﻿---
+---
 title: "School B: ROI After 1 Year"
-slug: "school-b-roi-after-1-year"
+slug: "85-school-b-roi-after-1-year"
 meta_description: "School B: ROI After 1 Year"
-category: 12
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "school"
-secondary_keywords: ["b:", "roi", "after", "1"]
+secondary_keywords:
+  - "b:"
+  - "roi"
+  - "after"
+  - "1"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## School B: ROI After 1 Year
 

@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Hyderabad"
-slug: "school-erp-in-hyderabad"
+slug: "14-school-erp-in-hyderabad"
 meta_description: "School ERP in Hyderabad: cloud-based school management for Telangana and AP schools with CBSE and State Board compliance, admissions pipeline, and analytics."
-category: 14
+category: "Location-Based School ERP Solutions"
 primary_keyword: "school ERP Hyderabad"
-secondary_keywords: ["school management system Hyderabad", "Hyderabad school software", "Telangana school ERP", "best ERP for Hyderabad schools"]
+secondary_keywords:
+  - "school management system Hyderabad"
+  - "Hyderabad school software"
+  - "Telangana school ERP"
+  - "best ERP for Hyderabad schools"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Hyderabad
 

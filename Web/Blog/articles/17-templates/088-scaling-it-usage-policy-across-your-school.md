@@ -1,22 +1,21 @@
 ---
-title: Scaling It Usage Policy Across Your School
-slug: scaling-it-usage-policy-across-your-school
-meta_description: Scaling It Usage Policy Across Your School
-category: SOPs & Templates
-primary_keyword: IT usage policy
+title: "Scaling It Usage Policy Across Your School"
+slug: "088-scaling-it-usage-policy-across-your-school"
+meta_description: "Scaling It Usage Policy Across Your School"
+category: "SOPs, Templates, Policies & Checklists"
+primary_keyword: "IT usage policy"
 secondary_keywords:
-  - IT usage policy schools
-  - best practices IT usage policy
-  - IT usage policy strategy
-  - how to implement IT usage policy
-intent: informational
+  - "IT usage policy schools"
+  - "best practices IT usage policy"
+  - "IT usage policy strategy"
+  - "how to implement IT usage policy"
+intent: "educational"
 author: "Yashveer Labs"
-date: 2026-06-19
+date: "2026-06-19"
 branding_block_founder: 13
 branding_block_company: 13
 branding_block_nexli: 13
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on it usage policy for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.

@@ -1,22 +1,21 @@
-﻿---
-title: The Complete Guide to Salary Structure Design
-slug: the-complete-guide-to-salary-structure-design
-meta_description: The Complete Guide to Salary Structure Design
-category: HR & Recruitment
-primary_keyword: salary structure design
+---
+title: "The Complete Guide to Salary Structure Design"
+slug: "011-the-complete-guide-to-salary-structure-design"
+meta_description: "The Complete Guide to Salary Structure Design"
+category: "School HR, Recruitment & Staff"
+primary_keyword: "salary structure design"
 secondary_keywords:
-  - salary structure design schools
-  - best practices salary structure design
-  - salary structure design strategy
-  - how to implement salary structure design
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
+  - "salary structure design schools"
+  - "best practices salary structure design"
+  - "salary structure design strategy"
+  - "how to implement salary structure design"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 12
 branding_block_company: 12
 branding_block_nexli: 12
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on salary structure design for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.
