@@ -428,3 +428,34 @@
 | AI clichés | 1 | Article 05: "truly personalized" to "genuinely personalized" |
 | Entity names | 0 | No violations found |
 | Fact violations | 0 | No prohibited claims found |
+
+---
+
+**Last updated:** 2026-06-20 (Category 12 complete)
+
+## Category 12 — ERP Pricing, ROI & Cost Analysis
+
+**Status:** COMPLETE
+**Articles processed:** 105/105 (01-92 unique files + 13 duplicate/v2 files)
+**Commits:** `278aa27` (initial wave), `a637b9c` (partial quality pass — articles 01-18 + entity/CTA fixes), `8ed8971` (final pass — article 06 filler word)
+
+### Fixes Applied
+
+| Fix | Count | Notes |
+|-----|-------|-------|
+| Em-dashes | 0 remaining | Table `—` (empty cell) placeholders correctly kept; all prose em-dashes fixed in a637b9c pass |
+| AI cliché: "really" (filler) | 1 | Article 06: "The freemium model is really 'feature-limited...'" — removed filler "really" |
+| AI clichés (other) | 0 | No "seamlessly", "delve into", "cutting-edge", "revolutionize", "plethora", "utilize", "In conclusion", "robust", "game-changer" found |
+| AI cliché: "truly/really" meaningful | kept | All remaining hits (articles 07-22) are emphatic/qualifying uses in questions or comparisons — correctly left in place |
+| Pricing violations (Nexli-specific) | 5 | Articles 01-05: removed "40-60% reduction", "50-70% fee improvement", "20-40% lower TCO", "payback in 5-8 months", "80-100% projected ROI", "5-10% of original quote", specific Nexli TCO figures — replaced with value language (done in a637b9c) |
+| CTA | 0 missing | All 105 articles already have `/demo` CTA |
+| Entity names | fixed in a637b9c | "Nexli ERP" corrected; branding block body text corrected for article 06 (blocks were in wrong order) |
+| Frontmatter | 0 missing | All 105 articles have: author, founder, company, date, category, branding_block_founder/company/nexli |
+| Article 06 branding blocks | 1 | Blocks were in wrong order; fixed in a637b9c |
+
+### Notes
+- Articles 01-18: Full-length substantive content on specific pricing and ROI topics (183-531 lines each).
+- Articles 19-92: Mix of full-length (19-27 range have 97-210 lines) and 97-line template stubs (ROI types, school-type costs, budgeting, financing, negotiating, vendor comparison, case studies).
+- Stub articles: All pass quality checks — no pricing violations, no AI clichés, have /demo CTA, correct frontmatter, abbreviated but valid branding blocks.
+- Industry pricing ranges (general ERP market data) are correctly retained — only Nexli-specific unverified claims were removed.
+- No "truly/really" filler in meaningful positions — all remaining uses are intentional emphatics (e.g., "Is perpetual licensing truly perpetual?").
