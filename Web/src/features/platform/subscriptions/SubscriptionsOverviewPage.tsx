@@ -11,7 +11,7 @@ import { EmptyState, Skeleton } from '@/components/feedback';
 import { Input, Select } from '@/components/form';
 import { useToast } from '@/components/Toast';
 import { formatDate, formatINRCompact, formatRelative } from '@/lib/format';
-import { usePlans, useSchools, effectiveSubscriptionStatus, effectiveMonthlyPrice } from '@/features/platform/data';
+import { usePlans, useSchools, usePlatformSettings, effectiveSubscriptionStatus, effectiveMonthlyPrice } from '@/features/platform/data';
 import { SUBSCRIPTION_STATUS_META } from '@/features/platform/meta';
 import { buildSubscriptionInvoiceHtml } from './invoice';
 import { openPrintWindow, writePrintWindow } from './gst';
@@ -42,6 +42,7 @@ export function SubscriptionsOverviewPage() {
   const toast = useToast();
   const { data: schools, loading, error } = useSchools();
   const { data: plans } = usePlans();
+  const { data: settings } = usePlatformSettings();
 
   const [search, setSearch] = useState('');
   const [status, setStatus] = useState('');
@@ -104,7 +105,7 @@ export function SubscriptionsOverviewPage() {
       toast.error('Pop-up blocked', 'Allow pop-ups to generate the invoice.');
       return;
     }
-    const html = buildSubscriptionInvoiceHtml(school, plans);
+    const html = buildSubscriptionInvoiceHtml(school, plans, Date.now(), settings?.gstSeller);
     if (!html) {
       win.close();
       toast.error('No price on file', 'Assign a plan or custom price before invoicing.');
@@ -184,6 +185,9 @@ export function SubscriptionsOverviewPage() {
             {loading ? 'Loading…' : 'Platform-wide billing and lifecycle overview.'}
           </p>
         </div>
+        <Button variant="subtle" leftIcon="settings" onClick={() => navigate('/subscriptions/seller')}>
+          Seller / GST details
+        </Button>
       </div>
 
       {loading ? (

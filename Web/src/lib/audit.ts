@@ -20,6 +20,7 @@ export type AuditAction =
   | 'student.imported'
   | 'fee.updated'
   | 'fee.payment_recorded'
+  | 'fee.refund_recorded'
   | 'attendance.modified'
   | 'grade.published'
   | 'settings.changed'

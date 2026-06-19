@@ -160,6 +160,30 @@ export interface Subscription {
 
 export type SubscriptionAction = 'activate' | 'pause' | 'suspend' | 'resume' | 'expire' | 'renew' | 'terminate';
 
+/**
+ * Nexli's own GST seller/legal-entity details for subscription tax invoices.
+ * Editable by Super Admin (platform_settings/global → gstSeller); the invoice
+ * builder falls back to a source placeholder when unset. Shape mirrors the
+ * `SellerDetails` consumed by `features/platform/subscriptions/gst.ts`.
+ */
+export interface GstSellerSettings {
+  legalName?: string;
+  tradeName?: string;
+  gstin?: string;
+  stateName?: string;
+  /** 2-digit GST state code (first two digits of the GSTIN). */
+  stateCode?: string;
+  addressLines?: string[];
+  email?: string;
+  phone?: string;
+  /** SAC for the supply (e.g. 998314 for IT services). */
+  sac?: string;
+  pan?: string;
+  bankName?: string;
+  bankAccount?: string;
+  bankIfsc?: string;
+}
+
 /** Global platform configuration (single doc: platform_settings/global). */
 export interface PlatformSettings {
   platformName?: string;
@@ -171,6 +195,8 @@ export interface PlatformSettings {
   imagekitEndpoint?: string;
   imagekitPublicKey?: string;
   maintenanceMode?: boolean;
+  /** Nexli's GST seller details for subscription invoices (super-admin editable). */
+  gstSeller?: GstSellerSettings;
   updatedAt?: number;
   updatedBy?: string;
 }

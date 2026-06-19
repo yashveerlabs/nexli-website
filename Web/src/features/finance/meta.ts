@@ -1,7 +1,7 @@
 import type { BadgeVariant } from '@/components/Badge';
 import type { IconName } from '@/components/Icon';
 import type {
-  FeeCategory, FeeFrequency, StudentFeeCategory, InvoiceStatus, PaymentMethod, PaymentStatus,
+  FeeCategory, FeeFrequency, StudentFeeCategory, InvoiceStatus, PaymentMethod, PaymentStatus, RefundMethod,
   ConcessionType, RequisitionStatus, POStatus, GRNStatus, ExpenseCategory, ExpenseStatus, PayrollRunStatus,
 } from '@/types/finance';
 
@@ -73,6 +73,15 @@ export const PAYMENT_STATUS_META: Record<PaymentStatus, { label: string; variant
   bounced: { label: 'Bounced', variant: 'danger' },
   refunded: { label: 'Refunded', variant: 'info' },
 };
+
+export const REFUND_METHOD_META: Record<RefundMethod, { label: string; icon: IconName }> = {
+  cash: { label: 'Cash', icon: 'wallet' },
+  cheque: { label: 'Cheque', icon: 'file-text' },
+  bank_transfer: { label: 'Bank transfer', icon: 'building' },
+  upi: { label: 'UPI', icon: 'phone' },
+  adjustment: { label: 'Adjustment', icon: 'edit' },
+};
+export const REFUND_METHOD_OPTIONS = (Object.keys(REFUND_METHOD_META) as RefundMethod[]).map((v) => ({ value: v, label: REFUND_METHOD_META[v].label }));
 
 /* --------------------- Expense & procurement ------------------------------ */
 

@@ -5,12 +5,15 @@ import { DataTable, type Column } from '@/components/DataTable';
 import { formatDate, formatINR } from '@/lib/format';
 import { useCirculation } from '@/features/daily/data';
 import type { BookCirculation } from '@/types/daily';
-import { isOverdue, daysOverdue, computeFine, DEFAULT_FINE_PER_DAY } from './fines';
+import { isOverdue, daysOverdue, computeFine } from './fines';
+import { useLibrarySettings, finePerDay } from './data';
 
 /** Overdue tab: every overdue loan with days-overdue + a computed fine. */
 export function OverdueTab() {
   const { schoolId } = useSession();
   const { data: records, loading, error } = useCirculation(schoolId);
+  const { data: settings } = useLibrarySettings(schoolId);
+  const rate = finePerDay(settings);
 
   const rows = useMemo(
     () => records.filter((c) => isOverdue(c)).slice().sort((a, b) => a.dueDate - b.dueDate),
@@ -30,7 +33,7 @@ export function OverdueTab() {
     },
     { key: 'due', header: 'Due', hideOnMobile: true, render: (c) => formatDate(c.dueDate) },
     { key: 'days', header: 'Overdue', align: 'right', render: (c) => <Badge variant="danger">{daysOverdue(c)} day(s)</Badge> },
-    { key: 'fine', header: 'Fine', align: 'right', render: (c) => <span style={{ fontWeight: 600 }}>{formatINR(computeFine(c))}</span> },
+    { key: 'fine', header: 'Fine', align: 'right', render: (c) => <span style={{ fontWeight: 600 }}>{formatINR(computeFine(c, rate))}</span> },
   ];
 
   return (
@@ -44,7 +47,7 @@ export function OverdueTab() {
       />
       {rows.length > 0 && (
         <p className="lib-note" style={{ marginTop: 10 }}>
-          Fine = days overdue × {formatINR(DEFAULT_FINE_PER_DAY)}/day. A stored fine, where recorded on the loan, takes precedence.
+          Fine = days overdue × {formatINR(rate)}/day (set in Settings). A stored fine, where recorded on the loan, takes precedence.
         </p>
       )}
     </>

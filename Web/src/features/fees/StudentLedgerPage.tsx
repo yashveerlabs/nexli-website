@@ -13,11 +13,11 @@ import { formatINR, formatDate } from '@/lib/format';
 import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { useStudents } from '@/features/school/data';
 import {
-  useInvoices, usePayments, useFeeStructures, createInvoice, cancelInvoice, applyConcession, type Actor,
+  useInvoices, usePayments, useRefunds, useFeeStructures, createInvoice, cancelInvoice, applyConcession, recordRefund, type Actor,
 } from '@/features/finance/data';
-import { INVOICE_STATUS_META, STUDENT_FEE_CATEGORY_META, CONCESSION_TYPE_OPTIONS, PAYMENT_METHOD_META } from '@/features/finance/meta';
+import { INVOICE_STATUS_META, STUDENT_FEE_CATEGORY_META, CONCESSION_TYPE_OPTIONS, PAYMENT_METHOD_META, REFUND_METHOD_OPTIONS } from '@/features/finance/meta';
 import { studentDue, invoiceTotals } from './feeSchema';
-import type { FeeInvoice, ConcessionLine, ConcessionType, InvoiceLine } from '@/types/finance';
+import type { FeeInvoice, ConcessionLine, ConcessionType, InvoiceLine, RefundMethod } from '@/types/finance';
 
 const today = () => new Date().toISOString().slice(0, 10);
 
@@ -33,16 +33,20 @@ export function StudentLedgerPage() {
   const student = students.find((s) => s.id === studentId);
   const { data: invoices, loading: iLoading } = useInvoices(schoolId, studentId);
   const { data: payments, loading: pLoading } = usePayments(schoolId, studentId);
+  const { data: refunds } = useRefunds(schoolId, studentId);
   const { data: structures } = useFeeStructures(schoolId);
 
   const [assignOpen, setAssignOpen] = useState(false);
   const [concessionFor, setConcessionFor] = useState<FeeInvoice | null>(null);
   const [cancelFor, setCancelFor] = useState<FeeInvoice | null>(null);
+  const [refundFor, setRefundFor] = useState<FeeInvoice | null>(null);
   const [busy, setBusy] = useState(false);
 
   const totals = useMemo(() => studentDue(invoices), [invoices]);
+  const refundedTotal = useMemo(() => refunds.reduce((s, r) => s + (r.amount || 0), 0), [refunds]);
   const sortedInvoices = useMemo(() => [...invoices].sort((a, b) => (b.issuedDate ?? 0) - (a.issuedDate ?? 0)), [invoices]);
   const sortedPayments = useMemo(() => [...payments].sort((a, b) => b.paidAt - a.paidAt), [payments]);
+  const sortedRefunds = useMemo(() => [...refunds].sort((a, b) => b.refundedAt - a.refundedAt), [refunds]);
 
   if (sLoading) {
     return <div className="nx-page"><Skeleton height={64} /><Skeleton height={240} /></div>;
@@ -127,6 +131,11 @@ export function StudentLedgerPage() {
                   {canWrite && inv.status !== 'cancelled' && (
                     <div className="fin-invrow__actions">
                       <Button variant="ghost" size="sm" leftIcon="award" aria-label="Add concession" onClick={() => setConcessionFor(inv)} />
+                      {/* Refund is available only once money has been collected (paid > 0):
+                          it reduces paidAmount and re-derives the invoice status. */}
+                      {(inv.paidAmount ?? 0) > 0 && (
+                        <Button variant="ghost" size="sm" leftIcon="refresh" aria-label="Record refund" onClick={() => setRefundFor(inv)} />
+                      )}
                       {/* A paid/partly-paid invoice can't be cancelled (it would orphan
                           the receipts); hide the action so it never fails confusingly. */}
                       {(inv.paidAmount ?? 0) === 0 && (
@@ -161,9 +170,28 @@ export function StudentLedgerPage() {
         )}
       </Panel>
 
+      {sortedRefunds.length > 0 && (
+        <Panel title="Refunds" sub={refundedTotal > 0 ? `${formatINR(refundedTotal)} refunded` : undefined}>
+          <div className="fin-kv-list" style={{ gap: 0 }}>
+            {sortedRefunds.map((r) => (
+              <div key={r.id} className="nx-noticerow" style={{ cursor: 'default' }}>
+                <span className="nx-noticerow__icon is-normal"><Icon name="refresh" size={15} /></span>
+                <div style={{ minWidth: 0, flex: 1 }}>
+                  <div className="nx-noticerow__title">{r.refundNo}</div>
+                  <div className="nx-noticerow__time">{formatDate(r.refundedAt)} · {r.reason}</div>
+                </div>
+                <span className="fin-amount fin-amount--due">−{formatINR(r.amount)}</span>
+              </div>
+            ))}
+          </div>
+        </Panel>
+      )}
+
       <AssignFeesModal open={assignOpen} onClose={() => setAssignOpen(false)} schoolId={schoolId} actor={actor}
         student={student} structures={structures} />
       <ConcessionModal invoice={concessionFor} onClose={() => setConcessionFor(null)} schoolId={schoolId} actor={actor} />
+      <RefundModal invoice={refundFor} onClose={() => setRefundFor(null)} schoolId={schoolId} actor={actor}
+        student={student} />
       <ConfirmModal open={!!cancelFor} onClose={() => setCancelFor(null)} onConfirm={doCancel} tone="danger" loading={busy}
         title="Cancel this invoice?" message={`"${cancelFor?.title}" will be marked cancelled and excluded from dues.`} confirmLabel="Cancel invoice" />
     </div>
@@ -309,6 +337,63 @@ function ConcessionModal({ invoice, onClose, schoolId, actor }: { invoice: FeeIn
           </Field>
           <Field label="Amount (₹)" required><Input type="text" inputMode="decimal" value={amount} onChange={(e) => setAmount(e.target.value)} placeholder="0" /></Field>
           <Field label="Reason / approval note" optional><Textarea value={reason} onChange={(e) => setReason(e.target.value)} rows={2} placeholder="Need-based concession approved by Principal" /></Field>
+        </>
+      )}
+    </Modal>
+  );
+}
+
+/* ---------------- Record a refund against an invoice ---------------- */
+function RefundModal({ invoice, onClose, schoolId, actor, student }: {
+  invoice: FeeInvoice | null; onClose: () => void; schoolId?: string; actor: Actor;
+  student: { id: string; fullName: string; admissionNo?: string };
+}) {
+  const toast = useToast();
+  const [method, setMethod] = useState<RefundMethod>('cash');
+  const [reason, setReason] = useState('');
+  const [amount, setAmount] = useState('');
+  const [reference, setReference] = useState('');
+  const [busy, setBusy] = useState(false);
+
+  // Cap at what's actually been collected — you can't refund more than was paid.
+  const refundable = invoice ? Math.max(0, invoice.paidAmount ?? 0) : 0;
+
+  const submit = async () => {
+    if (!schoolId || !invoice) return;
+    const amt = Number(amount) || 0;
+    if (amt <= 0) { toast.error('Enter a refund amount'); return; }
+    if (amt > refundable) { toast.error('Too high', `Refund can't exceed the ${formatINR(refundable)} collected on this invoice.`); return; }
+    if (!reason.trim()) { toast.error('Enter a refund reason'); return; }
+    setBusy(true);
+    try {
+      // Atomic: re-reads the live invoice, clamps the refund to the current paid
+      // amount and re-derives paid/due/status so concurrent refunds stay correct.
+      const { applied } = await recordRefund(schoolId, {
+        studentId: student.id, studentName: student.fullName, admissionNo: student.admissionNo,
+        invoiceId: invoice.id, invoiceTitle: invoice.title,
+        amount: amt, method, reason: reason.trim(), reference: reference.trim() || undefined,
+        refundedAt: Date.now(),
+      }, actor);
+      toast.success('Refund recorded', formatINR(applied));
+      onClose(); setReason(''); setAmount(''); setReference(''); setMethod('cash');
+    } catch (e) { toast.error('Could not record refund', e instanceof Error ? e.message : undefined); } finally { setBusy(false); }
+  };
+
+  return (
+    <Modal open={!!invoice} onClose={onClose} icon="refresh" tone="gold" title="Record refund" size="md"
+      footer={<>
+        <Button variant="ghost" onClick={onClose} disabled={busy}>Cancel</Button>
+        <Button variant="gold" leftIcon="check" loading={busy} onClick={submit}>Record refund</Button>
+      </>}>
+      {invoice && (
+        <>
+          <InfoCard icon="info" title={invoice.title}>{formatINR(refundable)} collected · refundable up to this amount</InfoCard>
+          <Field label="Amount (₹)" required><Input type="text" inputMode="decimal" value={amount} onChange={(e) => setAmount(e.target.value)} placeholder="0" /></Field>
+          <Field label="Method" required>
+            <Select value={method} onChange={(e) => setMethod(e.target.value as RefundMethod)} options={REFUND_METHOD_OPTIONS} />
+          </Field>
+          <Field label="Reference" optional hint="Cheque no / UPI ref / transfer id"><Input value={reference} onChange={(e) => setReference(e.target.value)} placeholder="Optional" /></Field>
+          <Field label="Reason" required><Textarea value={reason} onChange={(e) => setReason(e.target.value)} rows={2} placeholder="e.g. Withdrawal — pro-rata tuition refund approved by Principal" /></Field>
         </>
       )}
     </Modal>

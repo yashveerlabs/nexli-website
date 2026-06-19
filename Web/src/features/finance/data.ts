@@ -6,11 +6,17 @@ import { db } from '@/lib/firebase';
 import { tenantCol, tenantDoc, useCollection, useDocument } from '@/lib/db';
 import { writeAuditEvent, type AuditAction } from '@/lib/audit';
 import type {
-  FeeHead, FeeStructure, FeeInvoice, FeePayment, FinanceSettings, InvoiceStatus, ConcessionLine,
+  FeeHead, FeeStructure, FeeInvoice, FeePayment, FeeRefund, FinanceSettings, InvoiceStatus, ConcessionLine,
   Requisition, RequisitionStatus, Vendor, PurchaseOrder, GoodsReceipt, Expense,
   ExpenseSettings, ApprovalRule,
   SalaryStructure, PayrollRun, PayrollRunStatus, Payslip,
 } from '@/types/finance';
+// Pure finance maths live in the Firebase-free `./calc` module (testable in the
+// node vitest env without initializing Firestore). Re-exported so existing
+// `@/features/finance/data` imports of these keep working unchanged.
+import { statusFor, refundOutcome, reconcileSummary, outstandingTotal } from './calc';
+export { statusFor, refundOutcome, reconcileSummary, outstandingTotal };
+export type { ReconcileSummary } from './calc';
 
 /**
  * Shared Finance (P5) data layer. Tenant-scoped collections under
@@ -79,6 +85,20 @@ export function useInvoices(schoolId?: string, studentId?: string) {
 }
 export function useInvoice(schoolId?: string, id?: string) {
   return useDocument<FeeInvoice>(schoolId && id ? tenantDoc(schoolId, 'fee_invoices', id) : null);
+}
+
+/**
+ * Invoices scoped to one academic year (`where('academicYear','==',year)`) — the
+ * realistic working set for a fee-ledger screen, avoiding a full `fee_invoices`
+ * read across every prior year. When `academicYear` is undefined this falls back to
+ * the full collection (identical to `useInvoices`) so callers that don't yet know
+ * the year keep working unchanged. Per-year billed/paid/due stays correct.
+ */
+export function useInvoicesByYear(schoolId?: string, academicYear?: string) {
+  return useCollection<FeeInvoice>(
+    schoolId ? (academicYear ? query(tenantCol(schoolId, 'fee_invoices'), where('academicYear', '==', academicYear)) : tenantCol(schoolId, 'fee_invoices')) : null,
+    [schoolId, academicYear],
+  );
 }
 export const createInvoice = (s: string, d: Omit<FeeInvoice, 'id'>, a: Actor) => createIn(s, 'fee_invoices', d, a, { action: 'fee.invoice_created', targetType: 'fee_invoice', summary: `${d.studentName} · ${d.title}` });
 export const updateInvoice = (s: string, id: string, p: Partial<FeeInvoice>, a: Actor) => updateIn(s, 'fee_invoices', id, p, a, { action: 'fee.updated', targetType: 'fee_invoice' });
@@ -160,11 +180,54 @@ export function usePayment(schoolId?: string, id?: string) {
   return useDocument<FeePayment>(schoolId && id ? tenantDoc(schoolId, 'fee_payments', id) : null);
 }
 
-export function statusFor(net: number, paid: number): InvoiceStatus {
-  // net === 0 means the invoice has been fully conceded/waived; treat as paid.
-  if (net === 0 || (paid >= net && net > 0)) return 'paid';
-  if (paid > 0) return 'partial';
-  return 'unpaid';
+/**
+ * Open (unsettled) invoices only — `status in (unpaid, partial, overdue)`. Fully
+ * paid and cancelled invoices contribute 0 to outstanding and never make a student
+ * a defaulter, so excluding them server-side does NOT change Outstanding/Defaulter
+ * totals while avoiding a full `fee_invoices` read (paid/cancelled invoices, the
+ * bulk over time, are never fetched). Use for collection dashboards.
+ */
+export function useOpenInvoices(schoolId?: string) {
+  return useCollection<FeeInvoice>(
+    schoolId ? query(tenantCol(schoolId, 'fee_invoices'), where('status', 'in', ['unpaid', 'partial', 'overdue'] as InvoiceStatus[])) : null,
+    [schoolId],
+  );
+}
+
+/**
+ * Payments on/after a cutoff timestamp (`paidAt >= since`). Scopes the collected
+ * KPIs (today / this month) to the period they actually display instead of reading
+ * the whole payment history. `since` is epoch-ms; the listener re-subscribes when it
+ * changes (keep it stable, e.g. start-of-month, not Date.now()).
+ */
+export function usePaymentsSince(schoolId?: string, since?: number) {
+  return useCollection<FeePayment>(
+    schoolId && since != null ? query(tenantCol(schoolId, 'fee_payments'), where('paidAt', '>=', since)) : null,
+    [schoolId, since],
+  );
+}
+
+/** Most-recent payments (newest first, capped). Bounded read for "recent activity" lists. */
+export function useRecentPayments(schoolId?: string, max = 6) {
+  return useCollection<FeePayment>(
+    schoolId ? query(tenantCol(schoolId, 'fee_payments'), orderBy('paidAt', 'desc'), fsLimit(max)) : null,
+    [schoolId, max],
+  );
+}
+
+/**
+ * Payments within a half-open period `[from, to)` (`paidAt >= from && < to`).
+ * Scopes a reconciliation view to one month/term instead of the whole history.
+ * Both bounds are epoch-ms; keep them stable (derived from the selected period) so
+ * the listener doesn't thrash.
+ */
+export function usePaymentsBetween(schoolId?: string, from?: number, to?: number) {
+  return useCollection<FeePayment>(
+    schoolId && from != null && to != null
+      ? query(tenantCol(schoolId, 'fee_payments'), where('paidAt', '>=', from), where('paidAt', '<', to))
+      : null,
+    [schoolId, from, to],
+  );
 }
 
 export interface RecordPaymentInput {
@@ -262,6 +325,108 @@ export async function recordPayment(schoolId: string, input: RecordPaymentInput,
 
 export function updatePayment(s: string, id: string, p: Partial<FeePayment>, a: Actor) {
   return updateIn(s, 'fee_payments', id, p, a, { action: 'fee.updated', targetType: 'fee_payment' });
+}
+
+/* ---------------------------- Refunds ---------------------------- */
+
+export function useRefunds(schoolId?: string, studentId?: string) {
+  return useCollection<FeeRefund>(
+    schoolId ? (studentId ? query(tenantCol(schoolId, 'fee_refunds'), where('studentId', '==', studentId)) : tenantCol(schoolId, 'fee_refunds')) : null,
+    [schoolId, studentId],
+  );
+}
+
+export interface RecordRefundInput {
+  studentId: string;
+  studentName: string;
+  admissionNo?: string;
+  /** When set, the refund reduces this invoice's paidAmount and re-derives status. */
+  invoiceId?: string;
+  invoiceTitle?: string;
+  paymentId?: string;
+  receiptNo?: string;
+  amount: number;
+  method: FeeRefund['method'];
+  reason: string;
+  reference?: string;
+  refundedAt: number;
+  note?: string;
+  refundPrefix?: string;
+}
+
+/**
+ * Record a refund atomically (mirrors `recordPayment`). In ONE transaction it
+ * increments a refund counter for a unique refund number, writes the `fee_refunds`
+ * record, and — when linked to an invoice — reduces that invoice's `paidAmount`
+ * (clamped so it never goes below 0 and the refund never exceeds what was actually
+ * collected) and re-derives due/status via `refundOutcome`. Reading the invoice
+ * inside the transaction means the cap is against the CURRENT paid amount, so two
+ * concurrent refunds can't together refund more than was paid. Returns the new id
+ * + refund number and the amount actually applied (after clamping).
+ */
+export async function recordRefund(schoolId: string, input: RecordRefundInput, actor: Actor): Promise<{ id: string; refundNo: string; applied: number }> {
+  if (input.amount <= 0) throw new Error(`Refund amount must be positive (got ${input.amount}).`);
+  if (!input.reason.trim()) throw new Error('A refund reason is required.');
+  const counterRef = tenantDoc(schoolId, 'finance_counters', 'refund');
+  const refundRef = doc(collection(db, `schools/${schoolId}/fee_refunds`));
+  const year = new Date(input.refundedAt).getFullYear();
+  const prefix = (input.refundPrefix || 'RF').replace(/[^A-Za-z0-9-]/g, '');
+
+  const result = await runTransaction(db, async (tx) => {
+    const counterSnap = await tx.get(counterRef);
+    const next = ((counterSnap.data()?.value as number | undefined) ?? 0) + 1;
+    const refundNo = `${prefix}-${year}-${pad(next)}`;
+
+    let applied = input.amount;
+    let invoicePatch: { ref: ReturnType<typeof tenantDoc>; data: Record<string, unknown> } | null = null;
+    if (input.invoiceId) {
+      const invRef = tenantDoc(schoolId, 'fee_invoices', input.invoiceId);
+      const invSnap = await tx.get(invRef);
+      if (!invSnap.exists()) throw new Error('The linked invoice no longer exists.');
+      const inv = invSnap.data() as FeeInvoice;
+      const net = inv.netAmount ?? 0;
+      const paid = inv.paidAmount ?? 0;
+      if (paid <= 0) throw new Error('Nothing has been collected on this invoice, so there is nothing to refund.');
+      if (input.amount > paid) {
+        throw new Error(`Refund of ₹${input.amount} exceeds the ₹${paid} collected on this invoice.`);
+      }
+      const outcome = refundOutcome(net, paid, input.amount);
+      applied = outcome.applied;
+      invoicePatch = {
+        ref: invRef,
+        data: { paidAmount: outcome.paidAfter, dueAmount: outcome.dueAfter, status: outcome.status, lastModifiedAt: Date.now(), lastModifiedBy: actor.uid },
+      };
+    }
+
+    tx.set(counterRef, { value: next, schoolId }, { merge: true });
+    tx.set(refundRef, stripUndefined({
+      refundNo,
+      studentId: input.studentId,
+      studentName: input.studentName,
+      admissionNo: input.admissionNo,
+      invoiceId: input.invoiceId,
+      invoiceTitle: input.invoiceTitle,
+      paymentId: input.paymentId,
+      receiptNo: input.receiptNo,
+      amount: applied,
+      method: input.method,
+      reason: input.reason.trim(),
+      reference: input.reference,
+      refundedAt: input.refundedAt,
+      refundedByUid: actor.uid,
+      refundedByName: actor.name,
+      note: input.note,
+      schoolId,
+      createdAt: Date.now(),
+      createdBy: actor.uid,
+      version: 1,
+    }));
+    if (invoicePatch) tx.update(invoicePatch.ref, invoicePatch.data);
+    return { refundNo, applied };
+  });
+
+  void writeAuditEvent({ action: 'fee.refund_recorded', schoolId, actor, targetType: 'fee_refund', targetId: refundRef.id, summary: `${result.refundNo} · ${input.studentName} · ₹${result.applied}` });
+  return { id: refundRef.id, ...result };
 }
 
 export function useFinanceSettings(schoolId?: string) {

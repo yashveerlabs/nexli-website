@@ -67,6 +67,63 @@ export const NEXLI_SELLER: SellerDetails = {
   pan: 'NEEDS YASHVEER — PAN',
 };
 
+/**
+ * Editable subset of seller details (platform settings shape — every field
+ * optional). Stored at `platform_settings/global → gstSeller` and overlaid on the
+ * `NEXLI_SELLER` placeholder by `resolveSeller`. Kept structural (not importing the
+ * models type) so this module stays Firebase-free and unit-testable.
+ */
+export interface SellerSettingsInput {
+  legalName?: string;
+  tradeName?: string;
+  gstin?: string;
+  stateName?: string;
+  stateCode?: string;
+  addressLines?: string[];
+  email?: string;
+  phone?: string;
+  sac?: string;
+  pan?: string;
+  bankName?: string;
+  bankAccount?: string;
+  bankIfsc?: string;
+}
+
+/**
+ * Resolve the effective seller for an invoice: overlay the (super-admin configured)
+ * settings onto the `NEXLI_SELLER` placeholder, taking each provided non-blank
+ * field from settings and otherwise falling back to the placeholder. Pure — so the
+ * invoice builder is identical whether the config is read from Firestore or passed
+ * in a test. A blank/whitespace string is treated as "unset" (keeps the placeholder).
+ */
+export function resolveSeller(settings?: SellerSettingsInput | null): SellerDetails {
+  const s = settings ?? {};
+  const str = (v: string | undefined, fallback: string): string => {
+    const t = v?.trim();
+    return t ? t : fallback;
+  };
+  const optStr = (v: string | undefined, fallback?: string): string | undefined => {
+    const t = v?.trim();
+    return t ? t : fallback;
+  };
+  const lines = (s.addressLines ?? []).map((l) => l?.trim()).filter((l): l is string => !!l);
+  return {
+    legalName: str(s.legalName, NEXLI_SELLER.legalName),
+    tradeName: optStr(s.tradeName, NEXLI_SELLER.tradeName),
+    gstin: str(s.gstin, NEXLI_SELLER.gstin),
+    stateName: str(s.stateName, NEXLI_SELLER.stateName),
+    stateCode: str(s.stateCode, NEXLI_SELLER.stateCode),
+    addressLines: lines.length ? lines : NEXLI_SELLER.addressLines,
+    email: optStr(s.email, NEXLI_SELLER.email),
+    phone: optStr(s.phone, NEXLI_SELLER.phone),
+    sac: str(s.sac, NEXLI_SELLER.sac),
+    pan: optStr(s.pan, NEXLI_SELLER.pan),
+    bankName: optStr(s.bankName, NEXLI_SELLER.bankName),
+    bankAccount: optStr(s.bankAccount, NEXLI_SELLER.bankAccount),
+    bankIfsc: optStr(s.bankIfsc, NEXLI_SELLER.bankIfsc),
+  };
+}
+
 /* ============================== GST maths ================================ */
 
 /** Round to 2 decimals (paise), avoiding binary-float drift (e.g. 1.005 → 1.01). */

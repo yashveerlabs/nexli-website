@@ -10,9 +10,9 @@
  */
 import { resolveSchoolPlan } from '@/features/platform/data';
 import { formatDate } from '@/lib/format';
-import type { Plan, School } from '@/types/models';
+import type { Plan, School, GstSellerSettings } from '@/types/models';
 import {
-  NEXLI_SELLER,
+  resolveSeller,
   buildTaxInvoiceHtml,
   financialYearLabel,
   formatInvoiceNumber,
@@ -69,6 +69,7 @@ export function buildSubscriptionInvoiceOpts(
   school: School,
   plans: Plan[],
   now = Date.now(),
+  seller?: GstSellerSettings | null,
 ): TaxInvoiceOpts | null {
   const taxableValue = subscriptionBilledAmount(school, plans);
   if (taxableValue == null) return null;
@@ -83,7 +84,7 @@ export function buildSubscriptionInvoiceOpts(
   const seq = Number(`${String(d.getFullYear()).slice(2)}${String(d.getMonth() + 1).padStart(2, '0')}${String(d.getDate()).padStart(2, '0')}`);
 
   return {
-    seller: NEXLI_SELLER,
+    seller: resolveSeller(seller),
     buyer: {
       name: school.name,
       stateName: school.state,
@@ -102,7 +103,7 @@ export function buildSubscriptionInvoiceOpts(
 }
 
 /** Build the full printable invoice HTML for a school's subscription (or null). */
-export function buildSubscriptionInvoiceHtml(school: School, plans: Plan[], now = Date.now()): string | null {
-  const opts = buildSubscriptionInvoiceOpts(school, plans, now);
+export function buildSubscriptionInvoiceHtml(school: School, plans: Plan[], now = Date.now(), seller?: GstSellerSettings | null): string | null {
+  const opts = buildSubscriptionInvoiceOpts(school, plans, now, seller);
   return opts ? buildTaxInvoiceHtml(opts) : null;
 }

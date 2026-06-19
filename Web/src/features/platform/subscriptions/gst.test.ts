@@ -6,6 +6,8 @@ import {
   round2,
   formatInvoiceNumber,
   financialYearLabel,
+  resolveSeller,
+  NEXLI_SELLER,
 } from './gst';
 
 /**
@@ -116,5 +118,48 @@ describe('invoice number + financial year', () => {
     // June 2026 → FY 2026-27; Feb 2026 → FY 2025-26.
     expect(financialYearLabel(new Date(2026, 5, 19).getTime())).toBe('2026-27');
     expect(financialYearLabel(new Date(2026, 1, 10).getTime())).toBe('2025-26');
+  });
+});
+
+describe('resolveSeller — config overlay over the placeholder', () => {
+  it('returns the placeholder unchanged when no settings are given', () => {
+    expect(resolveSeller()).toEqual(NEXLI_SELLER);
+    expect(resolveSeller(null)).toEqual(NEXLI_SELLER);
+    expect(resolveSeller({})).toEqual(NEXLI_SELLER);
+  });
+
+  it('overlays provided (non-blank) fields and keeps the placeholder for the rest', () => {
+    const s = resolveSeller({
+      legalName: 'Nexli Technologies Pvt Ltd',
+      gstin: '09ABCDE1234F1Z5',
+      stateName: 'Uttar Pradesh',
+      stateCode: '09',
+      addressLines: ['12 MG Road', 'Lucknow, UP, 226001'],
+    });
+    expect(s.legalName).toBe('Nexli Technologies Pvt Ltd');
+    expect(s.gstin).toBe('09ABCDE1234F1Z5');
+    expect(s.stateCode).toBe('09');
+    expect(s.addressLines).toEqual(['12 MG Road', 'Lucknow, UP, 226001']);
+    // SAC was not provided → still the placeholder default.
+    expect(s.sac).toBe(NEXLI_SELLER.sac);
+  });
+
+  it('treats blank/whitespace fields as unset (keeps the placeholder)', () => {
+    const s = resolveSeller({ legalName: '   ', gstin: '', stateCode: '  ' });
+    expect(s.legalName).toBe(NEXLI_SELLER.legalName);
+    expect(s.gstin).toBe(NEXLI_SELLER.gstin);
+    expect(s.stateCode).toBe(NEXLI_SELLER.stateCode);
+  });
+
+  it('drops blank address lines and falls back when none remain', () => {
+    expect(resolveSeller({ addressLines: ['', '   '] }).addressLines).toEqual(NEXLI_SELLER.addressLines);
+    expect(resolveSeller({ addressLines: ['Only line', ''] }).addressLines).toEqual(['Only line']);
+  });
+
+  it('a configured seller makes the GST split intra-state against a same-state buyer', () => {
+    // Placeholder stateCode is '00' (ignored); once configured to 09, a 09 buyer is intra-state.
+    const seller = resolveSeller({ stateCode: '09', stateName: 'Uttar Pradesh' });
+    expect(isIntraState(seller, { stateCode: '09' })).toBe(true);
+    expect(isIntraState(seller, { stateCode: '27' })).toBe(false);
   });
 });

@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { computeFine, daysOverdue, isOverdue, DAY_MS, DEFAULT_FINE_PER_DAY } from './fines';
+import { computeFine, daysOverdue, isOverdue, finePerDay, DAY_MS, DEFAULT_FINE_PER_DAY } from './fines';
 import type { BookCirculation } from '@/types/daily';
 
 /**
@@ -70,5 +70,29 @@ describe('computeFine', () => {
   });
   it('respects a stored fine of 0 (waived) even when overdue', () => {
     expect(computeFine(circ({ dueDate: NOW - 10 * DAY_MS, fine: 0 }), DEFAULT_FINE_PER_DAY, NOW)).toBe(0);
+  });
+
+  it('uses the school-configured rate end-to-end via finePerDay', () => {
+    // A school configured ₹5/day → 6 days overdue computes to ₹30.
+    const rate = finePerDay({ finePerDay: 5 });
+    expect(computeFine(circ({ dueDate: NOW - 6 * DAY_MS }), rate, NOW)).toBe(30);
+  });
+});
+
+describe('finePerDay (settings resolver)', () => {
+  it('returns the configured rate when set', () => {
+    expect(finePerDay({ finePerDay: 5 })).toBe(5);
+  });
+  it('respects a configured rate of 0 (fines disabled)', () => {
+    expect(finePerDay({ finePerDay: 0 })).toBe(0);
+  });
+  it('falls back to the default when unset/empty/null', () => {
+    expect(finePerDay(undefined)).toBe(DEFAULT_FINE_PER_DAY);
+    expect(finePerDay(null)).toBe(DEFAULT_FINE_PER_DAY);
+    expect(finePerDay({})).toBe(DEFAULT_FINE_PER_DAY);
+  });
+  it('falls back to the default for an invalid (negative / NaN) rate', () => {
+    expect(finePerDay({ finePerDay: -3 })).toBe(DEFAULT_FINE_PER_DAY);
+    expect(finePerDay({ finePerDay: Number.NaN })).toBe(DEFAULT_FINE_PER_DAY);
   });
 });

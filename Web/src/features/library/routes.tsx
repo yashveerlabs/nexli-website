@@ -7,11 +7,12 @@ import { useCirculation } from '@/features/daily/data';
 import { CatalogTab } from './CatalogTab';
 import { CirculationTab } from './CirculationTab';
 import { OverdueTab } from './OverdueTab';
+import { SettingsTab } from './SettingsTab';
 import { MyLibraryPage } from './MyLibraryPage';
 import { isOverdue } from './shared';
 import './library.css';
 
-type TabId = 'catalog' | 'circulation' | 'overdue';
+type TabId = 'catalog' | 'circulation' | 'overdue' | 'settings';
 
 function LibraryHub() {
   const { schoolId } = useSession();
@@ -41,6 +42,7 @@ function LibraryHub() {
           { id: 'catalog', label: 'Catalog', icon: 'book' },
           { id: 'circulation', label: 'Circulation', icon: 'download' },
           { id: 'overdue', label: 'Overdue', icon: 'alert-triangle', badge: overdueCount || undefined },
+          ...(canOperate ? [{ id: 'settings', label: 'Settings', icon: 'settings' as const }] : []),
         ]}
       >
         {(active) => (
@@ -48,6 +50,7 @@ function LibraryHub() {
             {active === 'catalog' && <CatalogTab />}
             {active === 'circulation' && <CirculationTab />}
             {active === 'overdue' && <OverdueTab />}
+            {active === 'settings' && <SettingsTab />}
           </>
         )}
       </Tabs>

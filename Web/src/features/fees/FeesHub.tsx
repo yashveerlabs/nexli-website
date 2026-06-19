@@ -6,9 +6,10 @@ import { OverviewTab } from './OverviewTab';
 import { StudentsTab } from './StudentsTab';
 import { StructuresTab } from './StructuresTab';
 import { PaymentsTab } from './PaymentsTab';
+import { ReconciliationTab } from './ReconciliationTab';
 import { SettingsTab } from './SettingsTab';
 
-type TabId = 'overview' | 'students' | 'structures' | 'payments' | 'settings';
+type TabId = 'overview' | 'students' | 'structures' | 'payments' | 'reconcile' | 'settings';
 
 /** Staff fee-management hub. */
 export function FeesHub() {
@@ -20,6 +21,7 @@ export function FeesHub() {
     { id: 'students', label: 'Student ledger', icon: 'users' as const },
     { id: 'structures', label: 'Structures', icon: 'credit-card' as const },
     { id: 'payments', label: 'Payments', icon: 'wallet' as const },
+    { id: 'reconcile', label: 'Reconciliation', icon: 'check-circle' as const },
     ...(canOperate ? [{ id: 'settings', label: 'Settings', icon: 'settings' as const }] : []),
   ];
 
@@ -41,6 +43,7 @@ export function FeesHub() {
             {active === 'students' && <StudentsTab />}
             {active === 'structures' && <StructuresTab />}
             {active === 'payments' && <PaymentsTab />}
+            {active === 'reconcile' && <ReconciliationTab />}
             {active === 'settings' && <SettingsTab />}
           </>
         )}

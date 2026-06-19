@@ -23,12 +23,22 @@ export function daysOverdue(c: BookCirculation, now = Date.now()): number {
 }
 
 /**
- * Default overdue fine in rupees per day. Configurable: there is no per-school
- * library fine-rate setting yet, so this named constant is the single source of
- * truth. When a Library Settings UI is added, read the school's rate and fall
- * back to this value. (See NOTES — a rate-config UI should follow.)
+ * Default overdue fine in rupees per day. Used as the fallback when a school has
+ * not configured its own rate (`library_settings/main → finePerDay`); the Library
+ * Settings UI writes that doc and `finePerDay` resolves the effective rate.
  */
 export const DEFAULT_FINE_PER_DAY = 2;
+
+/**
+ * Resolve the effective fine-per-day rate from the (optional) library settings,
+ * clamped to a non-negative finite number and falling back to `DEFAULT_FINE_PER_DAY`
+ * when unset/invalid. Pure (no Firebase) so it is the single source of truth for
+ * both the UI and tests. A rate of 0 (fines disabled) is respected.
+ */
+export function finePerDay(settings?: { finePerDay?: number } | null): number {
+  const v = settings?.finePerDay;
+  return typeof v === 'number' && Number.isFinite(v) && v >= 0 ? v : DEFAULT_FINE_PER_DAY;
+}
 
 /**
  * Fine owed on a circulation, in rupees.

@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Avatar } from '@/components/Avatar';
 import { Badge } from '@/components/Badge';
@@ -7,7 +7,7 @@ import { Input, Select } from '@/components/form';
 import { formatINR } from '@/lib/format';
 import { useSession } from '@/app/providers/SessionProvider';
 import { useStudents, useGrades } from '@/features/school/data';
-import { useInvoices } from '@/features/finance/data';
+import { useInvoicesByYear } from '@/features/finance/data';
 import { studentDue } from './feeSchema';
 
 interface Row {
@@ -25,9 +25,17 @@ interface Row {
 
 export function StudentsTab() {
   const navigate = useNavigate();
-  const { schoolId } = useSession();
+  const { schoolId, school } = useSession();
+  const currentYear = school?.currentAcademicYear;
   const { data: students, loading: sLoading, error } = useStudents(schoolId);
-  const { data: invoices, loading: iLoading } = useInvoices(schoolId);
+
+  // Default the ledger to the current academic year (a SCOPED read) instead of the
+  // whole `fee_invoices` history; '' = All years (the previous unbounded behaviour,
+  // still available on demand). Per-year billed/paid/due remain correct.
+  const [year, setYear] = useState<string>(currentYear ?? '');
+  // Adopt the current year once the school doc loads (only while still unset).
+  useEffect(() => { if (currentYear && year === '') setYear(currentYear); }, [currentYear]); // eslint-disable-line react-hooks/exhaustive-deps
+  const { data: invoices, loading: iLoading } = useInvoicesByYear(schoolId, year || undefined);
   const { data: grades } = useGrades(schoolId);
 
   const [q, setQ] = useState('');
@@ -60,6 +68,16 @@ export function StudentsTab() {
 
   const gradeOptions = [{ value: '', label: 'All grades' }, ...grades.slice().sort((a, b) => a.order - b.order).map((g) => ({ value: g.id, label: g.name }))];
 
+  // Year options: the current year (so it's always selectable even before any
+  // invoice exists), any years seen in the loaded set, plus "All years".
+  const yearOptions = useMemo(() => {
+    const set = new Set<string>();
+    if (currentYear) set.add(currentYear);
+    for (const inv of invoices) if (inv.academicYear) set.add(inv.academicYear);
+    const sorted = [...set].sort((a, b) => b.localeCompare(a));
+    return [...sorted.map((y) => ({ value: y, label: y })), { value: '', label: 'All years' }];
+  }, [invoices, currentYear]);
+
   const columns: Column<Row>[] = [
     {
       key: 'fullName', header: 'Student', primary: true,
@@ -86,6 +104,7 @@ export function StudentsTab() {
       <div className="nx-toolbar__search">
         <Input leftIcon="search" placeholder="Search name, admission no…" value={q} onChange={(e) => setQ(e.target.value)} aria-label="Search students" />
       </div>
+      <Select value={year} onChange={(e) => setYear(e.target.value)} options={yearOptions} aria-label="Filter by academic year" />
       <Select value={gradeId} onChange={(e) => setGradeId(e.target.value)} options={gradeOptions} aria-label="Filter by grade" />
       <Select value={filter} onChange={(e) => setFilter(e.target.value)} aria-label="Filter by dues"
         options={[{ value: '', label: 'All students' }, { value: 'due', label: 'With dues' }, { value: 'clear', label: 'Fully paid' }]} />

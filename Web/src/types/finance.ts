@@ -113,6 +113,35 @@ export interface FeePayment extends TenantRecord {
   recordedByName?: string;
 }
 
+export type RefundMethod = 'cash' | 'cheque' | 'bank_transfer' | 'upi' | 'adjustment';
+
+/**
+ * A recorded refund against a student's fee payment / invoice. Stored as its own
+ * `fee_refunds` record (NOT a negative payment) so collection totals stay a clean
+ * sum of positive receipts and refunds are auditable in isolation. Reduces the
+ * linked invoice's `paidAmount` atomically; see `recordRefund`.
+ */
+export interface FeeRefund extends TenantRecord {
+  refundNo: string;
+  studentId: string;
+  studentName: string;
+  admissionNo?: string;
+  /** Invoice the refund is booked against (optional for an unlinked refund). */
+  invoiceId?: string;
+  invoiceTitle?: string;
+  /** Originating receipt, when the refund traces to one specific payment. */
+  paymentId?: string;
+  receiptNo?: string;
+  amount: number;
+  method: RefundMethod;
+  reason: string;
+  reference?: string;
+  refundedAt: number;
+  refundedByUid?: string;
+  refundedByName?: string;
+  note?: string;
+}
+
 /** School-level payment configuration (one doc: finance_settings/main). */
 export interface FinanceSettings {
   receiptPrefix?: string;

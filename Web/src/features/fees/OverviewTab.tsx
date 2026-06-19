@@ -7,7 +7,7 @@ import { Icon } from '@/components/Icon';
 import { EmptyState, InfoCard, Skeleton } from '@/components/feedback';
 import { formatINR, formatRelative } from '@/lib/format';
 import { useSession } from '@/app/providers/SessionProvider';
-import { useInvoices, usePayments } from '@/features/finance/data';
+import { useOpenInvoices, usePaymentsSince, useRecentPayments } from '@/features/finance/data';
 import { PAYMENT_METHOD_META } from '@/features/finance/meta';
 import { studentDue } from './feeSchema';
 
@@ -16,17 +16,21 @@ const startOfMonth = (d = new Date()) => new Date(d.getFullYear(), d.getMonth(),
 
 export function OverviewTab() {
   const { schoolId } = useSession();
-  const { data: invoices, loading: iLoading, error: iError } = useInvoices(schoolId);
-  const { data: payments, loading: pLoading, error: pError } = usePayments(schoolId);
+  // SCOPED reads (Spark-tier): only open-balance invoices feed Outstanding/Defaulters
+  // (paid/cancelled contribute 0, so totals are unchanged); payments are scoped to
+  // this month for the collected KPIs; the recent list is a bounded top-N query.
+  const monthStart = useMemo(() => startOfMonth(), []);
+  const { data: invoices, loading: iLoading, error: iError } = useOpenInvoices(schoolId);
+  const { data: monthPayments, loading: pLoading, error: pError } = usePaymentsSince(schoolId, monthStart);
+  const { data: recent, loading: rLoading } = useRecentPayments(schoolId, 6);
 
   const kpis = useMemo(() => {
     const today = startOfDay();
-    const month = startOfMonth();
     let collectedToday = 0, collectedMonth = 0;
-    for (const p of payments) {
+    for (const p of monthPayments) {
       if (p.status === 'bounced' || p.status === 'refunded') continue;
       if (p.paidAt >= today) collectedToday += p.amount;
-      if (p.paidAt >= month) collectedMonth += p.amount;
+      collectedMonth += p.amount; // already scoped to >= monthStart
     }
     const byStudent = new Map<string, { netAmount: number; paidAmount: number; status: string }[]>();
     for (const inv of invoices) {
@@ -41,14 +45,9 @@ export function OverviewTab() {
       if (due > 0) defaulters++;
     }
     return { collectedToday, collectedMonth, outstanding, defaulters };
-  }, [payments, invoices]);
+  }, [monthPayments, invoices]);
 
-  const recent = useMemo(
-    () => [...payments].sort((a, b) => b.paidAt - a.paidAt).slice(0, 6),
-    [payments],
-  );
-
-  if (iLoading || pLoading) return <Skeleton height={320} />;
+  if (iLoading || pLoading || rLoading) return <Skeleton height={320} />;
   if (iError || pError) {
     return <EmptyState icon="alert-triangle" title="Couldn't load collection data" message="There was a problem fetching invoices or payments. Please try again." />;
   }
