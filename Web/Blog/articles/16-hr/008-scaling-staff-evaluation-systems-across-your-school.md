@@ -1,4 +1,4 @@
----
+﻿---
 title: Scaling Staff Evaluation Systems Across Your School
 slug: scaling-staff-evaluation-systems-across-your-school
 meta_description: Scaling Staff Evaluation Systems Across Your School
@@ -25,7 +25,7 @@ This article provides comprehensive guidance on staff evaluation systems for Ind
 
 ## The Problem
 
-Schools managing staff evaluation systems often struggle with fragmented processes, manual workflows, and inconsistent implementation. This challenge intensifies as schools scale, requiring more robust systems and clearer procedures.
+Schools managing staff evaluation systems often struggle with fragmented processes, manual workflows, and inconsistent implementation. This challenge intensifies as schools scale, requiring more reliable systems and clearer procedures.
 
 **Key Challenges:**
 - Fragmented processes across departments
@@ -199,7 +199,7 @@ Schools implementing these approaches systematically report significant improvem
 
 Ready to systematize your school's operations? Explore how Nexli brings clarity, consistency, and efficiency to every workflow.
 
-**[Start Your Free Demo](https://nexli.in/demo)** — See live how your school can eliminate chaos and operate with confidence. No credit card required.
+**[Book a Free Demo](/demo)** — See live how your school can eliminate chaos and operate with confidence. No credit card required.
 
 ---
 
@@ -218,7 +218,7 @@ A: Nexli supports custom role configurations and workflow customization without 
 A: Track turnaround times, compliance rates, staff adoption, stakeholder satisfaction. Nexli dashboards provide real-time visibility.
 
 **Q: What's the cost?**
-A: Nexli uses per-student, per-month pricing with no per-staff fees. Most schools recover costs within 3–4 months through time savings.
+A: Nexli pricing is based on school size and scope. Contact the team for a quote. Most schools recover the investment within months through time savings alone.
 
 ---
 
