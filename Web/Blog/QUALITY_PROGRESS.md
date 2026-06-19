@@ -459,3 +459,34 @@
 - Stub articles: All pass quality checks — no pricing violations, no AI clichés, have /demo CTA, correct frontmatter, abbreviated but valid branding blocks.
 - Industry pricing ranges (general ERP market data) are correctly retained — only Nexli-specific unverified claims were removed.
 - No "truly/really" filler in meaningful positions — all remaining uses are intentional emphatics (e.g., "Is perpetual licensing truly perpetual?").
+
+---
+
+**Last updated:** 2026-06-20 (Category 15 complete)
+
+## Category 15 — School Marketing, Branding & Growth
+
+**Status:** COMPLETE
+**Articles processed:** 100/100 (01-100)
+**Commits:** Prior session (01-59), `a6a776b` (60-100)
+
+### Fixes Applied
+
+| Fix | Count | Notes |
+|-----|-------|-------|
+| YAML Frontmatter added | 85 | Articles 16-100 had no frontmatter; full YAML with title/slug/meta_description/keywords/intent/author/date/branding_block_* added |
+| CTA: /demo added | 100 | All 100 articles now have `[Book a Free Demo](/demo)` on Next step line |
+| AI cliché: "seamlessly" | 2 | Articles 08, 10: removed "integrates seamlessly" in branding blocks |
+| Fact violations fixed | 9 | Articles 17-26: removed false claims of social proof widget, review site integration, response templates, media library, image auto-optimizer, automated Reel creation, Google Ads pixel integration, Facebook Pixel auto-sync, email automation/templates |
+| Branding blocks (stub) | 15 | Articles 01-15: stub one-liner "Branding Block" sections replaced with factual Nexli feature descriptions |
+| Entity names | 0 | No violations found ("Nexli ERP", "the platform", etc.) |
+| Em-dashes | 0 | Already correct throughout |
+| AI clichés (other) | 0 | No "delve into", "leverage", "cutting-edge", "robust", "game-changer" found |
+
+### Notes
+- Articles 01-15: Had full YAML frontmatter but stub branding blocks (one-liner placeholder text); expanded with factual Nexli feature descriptions.
+- Articles 16-100: No YAML frontmatter; added full block with title, slug, meta, keywords, intent, author, date, branding_block_*.
+- All articles use branding_block_*: 8 in frontmatter (consistent with category pattern).
+- Fact fixes targeted articles making claims beyond NEXLI_FACTS.md: social proof widget, automated posts, email templates/scheduling, integrated blog module, Google Ads pixel, centralized media library, image compression, automated Reel creation.
+- CTA references relevant Nexli features per each article topic: admissions pipeline, Parent Portal, Circulars, Skills Passport, Gamification Dashboard, Alumni Module, Fee Concession/RTE, exam data as appropriate.
+- No pricing claims introduced. No WhatsApp Business API or AI/ML claims made.
