@@ -19,7 +19,7 @@ date: "2026-06-19"
 
 CBSE schools operate within a regulatory framework that demands far more than attendance tracking and fee collection. The Central Board of Secondary Education maintains detailed bylaws covering curriculum delivery, internal assessment moderation, examination conduct, staff qualifications, and infrastructure standards. Schools cannot simply run operations efficiently and hope compliance follows; compliance must be embedded into every workflow.
 
-The challenge deepens because CBSE schools sit at a transition point. The National Education Policy 2020 introduced holistic assessment—multi-domain evaluation spanning cognitive, social-emotional, physical, and vocational skills—replacing marks-only rankings. Yet CBSE maintains backward compatibility with traditional grading systems for many schools. Principals managing 500+ students must track both frameworks simultaneously without abandoning either one.
+The challenge deepens because CBSE schools sit at a transition point. The National Education Policy 2020 introduced holistic assessment: multi-domain evaluation spanning cognitive, social-emotional, physical, and vocational skills, replacing marks-only rankings. Yet CBSE maintains backward compatibility with traditional grading systems for many schools. Principals managing 500+ students must track both frameworks simultaneously without abandoning either one.
 
 Add to this the quarterly compliance check-ins: internal assessment moderation deadlines, List of Candidates (LOC) submissions for board exams, transfer certificate processing, curriculum pacing verification, and affiliation audit trails. A spreadsheet-based approach collapses under this weight. A generic ERP built for "average schools" leaves critical CBSE workflows incomplete.
 
@@ -52,7 +52,7 @@ For Classes 10 and 12, LOC submission is mandatory and gates exam hall ticket ge
 - Validate Aadhaar numbers, roll numbers, and mandatory fields
 - Submit and reconcile with hall tickets
 
-One error—a duplicate roll number, a missing field, wrong character encoding—and the entire submission is rejected. Schools handling this manually via CSV export and manual validation introduce errors at nearly every step. Errors caught late force rushed corrections one week before exams.
+One error, whether a duplicate roll number, a missing field, or wrong character encoding, and the entire submission is rejected. Schools handling this manually via CSV export and manual validation introduce errors at nearly every step. Errors caught late force rushed corrections one week before exams.
 
 ### NEP 2020 Transition Uncertainty
 
@@ -95,7 +95,7 @@ The ERP must connect curriculum (subjects, chapters, learning objectives) to tim
 
 **Critical features:**
 - Lesson plans tagged with curriculum chapters and learning objectives
-- Automatic comparison: "Class 10A is 1.5 chapters ahead of Class 10B—coordinator review recommended"
+- Automatic comparison: "Class 10A is 1.5 chapters ahead of Class 10B; coordinator review recommended"
 - Alerts when a class falls more than 10% behind expected pace
 - Historical pacing data from previous years for forecasting
 
@@ -178,7 +178,7 @@ Do not mandate HPC for all classes immediately. Start with junior classes (Class
 
 ### Own Transfer Certificate Process
 
-Assign a single staff member as the TC coordinator (not the principal—too overloaded). Have departments clear TC holds within 48 hours of request. Use the ERP to hold departments accountable by tracking time-to-clearance metrics. Publish TC turnaround time to parents.
+Assign a single staff member as the TC coordinator (not the principal, who is too overloaded). Have departments clear TC holds within 48 hours of request. Use the ERP to hold departments accountable by tracking time-to-clearance metrics. Publish TC turnaround time to parents.
 
 ---
 
@@ -188,7 +188,7 @@ Assign a single staff member as the TC coordinator (not the principal—too over
 
 **Founder's Insight:**
 
-The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen—a chronically absent student, a teacher not submitting lesson plans, fees slipping—suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
+The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen, whether a chronically absent student, a teacher not submitting lesson plans, or fees slipping, suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
 
 ---
 
@@ -200,13 +200,13 @@ The team behind Yashveer Labs includes developers, designers, former school admi
 
 **Nexli's Implementation:**
 
-Nexli's real-time dashboards transform how principals see their CBSE schools. Curriculum pacing anomalies surface instantly. Internal assessment moderation workflows enforce CBSE rules automatically. LOC generation and validation happen at the click of a button. At-risk students (those slipping on attendance or internal marks) are flagged before problems escalate. Every role—from Class Teachers to the Principal—sees data relevant to their work. That visibility, combined with integrated workflows, means compliance becomes a natural byproduct of day-to-day operations, not a panic-driven audit-time scramble.
+Nexli's real-time dashboards transform how principals see their CBSE schools. Curriculum pacing anomalies surface instantly. Internal assessment moderation workflows enforce CBSE rules automatically. LOC generation and validation happen at the click of a button. At-risk students (those slipping on attendance or internal marks) are flagged before problems escalate. Every role, from Class Teachers to the Principal, sees data relevant to their work. That visibility, combined with integrated workflows, means compliance becomes a natural byproduct of day-to-day operations, not a panic-driven audit-time scramble.
 
 ---
 
 ## Call to Action
 
-CBSE compliance shouldn't be a penalty box—it should be invisible infrastructure that lets teachers focus on teaching and principals focus on strategy. If your school is still managing internal assessments via spreadsheet and LOC submissions via CSV export, it's time to upgrade.
+CBSE compliance shouldn't be a penalty box; it should be invisible infrastructure that lets teachers focus on teaching and principals focus on strategy. If your school is still managing internal assessments via spreadsheet and LOC submissions via CSV export, it's time to upgrade.
 
 **[Schedule a 20-minute demo with Nexli](/demo)** to see how curriculum pacing tracking, internal assessment workflows, and LOC automation work in practice. Bring your current LOC process and internal assessment timeline; we'll show you how it could look.
 

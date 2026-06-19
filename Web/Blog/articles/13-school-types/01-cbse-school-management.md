@@ -17,7 +17,7 @@ date: "2026-06-19"
 
 ## Overview
 
-**Snippet:** CBSE schools operate within a structured regulatory framework that goes beyond basic attendance and fees. Schools must manage curriculum alignment, internal assessments, board examinations, and emerging competency frameworks—all while maintaining compliance with CBSE bylaws and NEP 2020 mandates. A school ERP built for CBSE environments must handle these requirements natively, not as afterthoughts.
+**Snippet:** CBSE schools operate within a structured regulatory framework that goes beyond basic attendance and fees. Schools must manage curriculum alignment, internal assessments, board examinations, and emerging competency frameworks, all while maintaining compliance with CBSE bylaws and NEP 2020 mandates. A school ERP built for CBSE environments must handle these requirements natively, not as afterthoughts.
 
 ---
 
@@ -27,9 +27,9 @@ date: "2026-06-19"
 
 CBSE affiliation is not a checkbox. The Central Board of Secondary Education maintains a detailed set of bylaws covering curriculum delivery, internal assessment moderation, examination conduct, teacher qualification, and infrastructure standards. Schools cannot simply run operations and expect compliance; compliance must be woven into daily workflows.
 
-The challenge intensifies because CBSE schools operate in a transitional moment. The National Education Policy 2020 (NEP 2020) introduced holistic assessment—multi-domain evaluation replacing pure marks-based ranking. Simultaneously, CBSE maintains backward compatibility with traditional grading systems. Schools must track both. A principal managing 500 students cannot manually reconcile two assessment frameworks.
+The challenge intensifies because CBSE schools operate in a transitional moment. The National Education Policy 2020 (NEP 2020) introduced holistic assessment: multi-domain evaluation replacing pure marks-based ranking. Simultaneously, CBSE maintains backward compatibility with traditional grading systems. Schools must track both. A principal managing 500 students cannot manually reconcile two assessment frameworks.
 
-Additionally, CBSE schools face a dual obligation: internal management (running the school efficiently) and external accountability (proving to CBSE that the school meets standards). Every decision—from teacher allocation to curriculum pacing to assessment design—leaves an audit trail. An ERP that doesn't capture this trail creates hidden compliance risk.
+Additionally, CBSE schools face a dual obligation: internal management (running the school efficiently) and external accountability (proving to CBSE that the school meets standards). Every decision, from teacher allocation to curriculum pacing to assessment design, leaves an audit trail. An ERP that doesn't capture this trail creates hidden compliance risk.
 
 ### The Internal Assessment Trap
 
@@ -64,7 +64,7 @@ The problem: CBSE has not fully mandated HPC integration into marks calculation 
 
 ### Transfer Certificate Standardization
 
-CBSE schools must issue Transfer Certificates (TCs) following CBSE format requirements. The process is supposed to be fast—a student's parents request a TC, the school clears departmental hold-ups (library, hostel, accounts), and issues the TC within a few days.
+CBSE schools must issue Transfer Certificates (TCs) following CBSE format requirements. The process is supposed to be fast: a student's parents request a TC, the school clears departmental hold-ups (library, hostel, accounts), and issues the TC within a few days.
 
 Reality: each department (Class Teacher, Library, Hostel, Accounts, Principal) handles TC clearance separately. Email requests get lost. Departments don't coordinate. A student whose library fine isn't cleared can delay the entire TC. Without a structured workflow, TCs pile up and transparency disappears.
 
@@ -92,7 +92,7 @@ The system must connect the curriculum (subjects, chapters, learning objectives)
 
 Critical features:
 - Chapter and learning objective tagging in lesson plans.
-- Progress comparison: "Class 10A is on Chapter 8 while Class 10B is on Chapter 6—flag for coordinator review."
+- Progress comparison: "Class 10A is on Chapter 8 while Class 10B is on Chapter 6; flag for coordinator review."
 - Automated alerts when a class falls behind by more than 10% of the expected pace.
 - Historical pacing data (previous years) for comparison and forecasting.
 
@@ -171,7 +171,7 @@ Use the system as the single source for all compliance documents: curriculum cov
 
 ### 4. Phase NEP 2020 Gradually
 
-Don't shift to HPC overnight. Introduce it in lower classes (where board exams are not immediately at stake) for 1-2 years. Build staff comfort. Then roll to higher classes. Use the system to run both frameworks in parallel during the transition—this reduces staff confusion and parent anxiety.
+Don't shift to HPC overnight. Introduce it in lower classes (where board exams are not immediately at stake) for 1-2 years. Build staff comfort. Then roll to higher classes. Use the system to run both frameworks in parallel during the transition, which reduces staff confusion and parent anxiety.
 
 ### 5. Automate, Don't Eliminate, Judgment
 
@@ -232,6 +232,10 @@ Behind Yashveer Labs is a commitment to long-term thinking. Every school that us
 **About Nexli:**
 
 Behind Nexli is an investment in depth. The Attendance module tracks period-wise, daily consolidated, and bus attendance separately because schools need that granularity. The Fee module supports term-based, installment-based, and monthly billing because different schools operate differently. The Compliance module includes DPDP Act workflows, POCSO case management, and RTE quota tracking because Indian schools face those specific requirements. Depth matters.
+
+---
+
+**[Book a Free Demo](/demo)** to see how Nexli handles CBSE compliance, LOC generation, HPC implementation, and TC automation in a live walkthrough.
 
 ---
 

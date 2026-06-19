@@ -28,7 +28,7 @@ CBSE conducts affiliation audits periodically (typically every 3–5 years, more
 - Records are maintained systematically and can be produced on demand
 - Student safety protocols are in place and documented
 
-Schools that cannot demonstrate compliance face warnings, affiliation suspension, or cancellation—devastating for student admissions and parent trust.
+Schools that cannot demonstrate compliance face warnings, affiliation suspension, or cancellation, which is devastating for student admissions and parent trust.
 
 Yet most schools track affiliation compliance manually through scattered documents and departmental records. When CBSE auditors arrive, schools scramble to compile evidence. Important documentation is missing or incomplete. The school is perceived as disorganized, and compliance gaps are flagged even if the school actually meets the standard.
 
@@ -46,7 +46,7 @@ CBSE requires:
 
 Schools maintain staff records, but verification documents (degrees, certifications, experience letters) are often stored as paper files or scattered email attachments. During audits, schools cannot quickly produce evidence that every teacher meets CBSE standards.
 
-Additionally, when staff turns over, new qualifications must be verified against CBSE standards before the teacher can teach. Schools often allow teachers to start before verification is complete—a compliance gap that auditors flag.
+Additionally, when staff turns over, new qualifications must be verified against CBSE standards before the teacher can teach. Schools often allow teachers to start before verification is complete, a compliance gap that auditors flag.
 
 ### 2. Infrastructure Standards
 
@@ -144,7 +144,7 @@ Without systematic compliance tracking, schools discover gaps during audits. At 
 
 **Regulatory Escalation:** Government education department monitors CBSE affiliation status. Schools with compliance issues face additional scrutiny from state authorities.
 
-**Student Credibility Risk:** If a school's affiliation is canceled mid-year, students' certificates lose value. Affected students must transfer to other schools—a catastrophic outcome for the school's reputation.
+**Student Credibility Risk:** If a school's affiliation is canceled mid-year, students' certificates lose value. Affected students must transfer to other schools, a catastrophic outcome for the school's reputation.
 
 **Insurance and Legal Risk:** Schools with inadequate safety documentation face higher insurance premiums and potential liability if incidents occur.
 
@@ -284,13 +284,13 @@ As soon as a staff member's qualification verification is expiring, initiate ren
 
 **Founder's Insight:**
 
-The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen—a chronically absent student, a teacher not submitting lesson plans, fees slipping—suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
+The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen, whether a chronically absent student, a teacher not submitting lesson plans, or fees slipping, suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
 
 ---
 
 **Company Perspective:**
 
-The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable—it's where better solutions emerge.
+The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable: it's where better solutions emerge.
 
 ---
 

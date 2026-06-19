@@ -29,7 +29,7 @@ This isn't a teaching problem. It's a tracking problem. Schools need an ERP that
 
 ### The Spreadsheet Trap
 
-Curriculum coordinators maintain spreadsheets with chapter lists and weeks-per-chapter allocations. Teachers print lesson plans. Coverage is updated manually, weeks or months after the fact. When the coordinator discovers that Class 10A has skipped two chapters, it's May—too late to recover.
+Curriculum coordinators maintain spreadsheets with chapter lists and weeks-per-chapter allocations. Teachers print lesson plans. Coverage is updated manually, weeks or months after the fact. When the coordinator discovers that Class 10A has skipped two chapters, it's May, which is too late to recover.
 
 Spreadsheets cannot enforce relationships. Is Chapter 3 a prerequisite for Chapter 5? Is the learning objective "analyze thermodynamic processes" covered in this lesson? Spreadsheets don't track these connections, so teachers and students work with partial information.
 
@@ -39,7 +39,7 @@ Many schools collect lesson plans from teachers (weekly or monthly). Plans are s
 
 ### The Pacing Forecast Gap
 
-Without real-time curriculum tracking, principals cannot forecast completion dates. A coordinator estimates the pace is "fine," and the principal believes it—until March when reality surfaces. By then, options are limited: compress the remaining curriculum (sacrificing depth) or skip units (creating gaps in board-exam readiness).
+Without real-time curriculum tracking, principals cannot forecast completion dates. A coordinator estimates the pace is "fine," and the principal believes it until March when reality surfaces. By then, options are limited: compress the remaining curriculum (sacrificing depth) or skip units (creating gaps in board-exam readiness).
 
 ### The Learning Objective Fog
 
@@ -127,7 +127,7 @@ Beyond traditional curriculum coverage, the ERP supports competency-based learni
 - Track competency development across the academic year through lesson evidence and assessment
 - Generate competency reports for parents (shows which competencies have been developed, to what depth)
 
-This allows schools to track the curriculum as CBSE increasingly defines it—not just content knowledge, but competencies.
+This allows schools to track the curriculum as CBSE increasingly defines it: not just content knowledge, but competencies.
 
 ### 7. Curriculum Adjustment Workflow
 
@@ -188,13 +188,13 @@ Near the end of each unit, show students the board exam blueprint for that chapt
 
 **Founder's Insight:**
 
-The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen—a chronically absent student, a teacher not submitting lesson plans, fees slipping—suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
+The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen, whether a chronically absent student, a teacher not submitting lesson plans, or fees slipping, suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
 
 ---
 
 **Company Perspective:**
 
-The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable—it's where better solutions emerge.
+The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable: it's where better solutions emerge.
 
 ---
 

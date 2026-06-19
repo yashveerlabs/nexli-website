@@ -1,11 +1,11 @@
 ---
 title: "International School ERP Requirements"
 slug: "international-school-erp-requirements"
-meta_description: "International School ERP Requirements"
-category: 13
-primary_keyword: "international"
-secondary_keywords: ["school", "erp", "requirements", "school"]
-intent: "buyer-guide"
+meta_description: "How school ERPs support international school erp requirements for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
+category: "13-school-types"
+primary_keyword: "international school ERP"
+secondary_keywords: ["IB school management software", "international school compliance India", "global curriculum ERP", "school system India"]
+intent: "educational"
 author: "Yashveer Labs"
 founder: "Yashveer Singh Rajpoot"
 company: "Yashveer Labs"
@@ -16,7 +16,7 @@ date: "2026-06-19"
 ---
 ## International School ERP Requirements
 
-Different school types face different operational realities. international school erp requirements requires understanding these specific needs.
+Different school types face different operational realities. Understanding international school erp requirements helps schools choose the right ERP features for their context.
 
 ### The Reality of School Diversity
 
@@ -93,8 +93,14 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Yashveer Singh Rajpoot:**
 
-**About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
+Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh Rajpoot insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
 
-**How Nexli Helps:** The Report Card system includes auto-filled marks, automatic grade calculation per board rules, and print-ready PDF with school branding.
+**About Yashveer Labs:**
+
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, the company starts by asking what is actually broken here and why do smart people put up with this. The answers reveal where technology can genuinely help. Yashveer Labs does not build features because they are trendy. It builds features because they solve real problems that schools face today.
+
+**About Nexli:**
+
+Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents on WhatsApp (where they actually open messages). Nexli is built for Indian schools, by people who understand Indian schools.

@@ -312,6 +312,10 @@ Behind Nexli is an investment in depth. The Attendance module tracks period-wise
 
 ---
 
+**[Book a Free Demo](/demo)** to see how Nexli enables consolidated multi-campus oversight while preserving branch autonomy.
+
+---
+
 ## FAQ
 
 **Q: Can each campus in a multi-campus chain use Nexli independently if they want?**

@@ -17,7 +17,7 @@ date: "2026-06-19"
 
 ## Overview
 
-**Snippet:** Special education schools serve students with diverse learning disabilities, developmental delays, autism spectrum conditions, and physical impairments. Each student requires an Individualized Education Program (IEP)—a legally binding document that customizes curriculum, accommodations, and support. An ERP for special education must track IEPs, link curriculum to individual goals, monitor therapy progress, manage multi-disciplinary team coordination, and maintain confidential documentation. General ERPs lack the granularity to support truly personalized education; special education requires specialized systems.
+**Snippet:** Special education schools serve students with diverse learning disabilities, developmental delays, autism spectrum conditions, and physical impairments. Each student requires an Individualized Education Program (IEP), a legally binding document that customizes curriculum, accommodations, and support. An ERP for special education must track IEPs, link curriculum to individual goals, monitor therapy progress, manage multi-disciplinary team coordination, and maintain confidential documentation. General ERPs lack the granularity to support genuinely personalized education; special education requires specialized systems.
 
 ---
 
@@ -35,7 +35,7 @@ An IEP is a formal plan documenting:
 
 An IEP is not a suggestion; it's a legal document. Schools must follow it. If a school doesn't provide an accommodation listed in the IEP, it's a legal violation.
 
-Most schools manage IEPs using Word documents stored in folders. When it's time to update the IEP (usually annually), staff dig up the old document, review it, modify it, and rewrite it—often starting from scratch.
+Most schools manage IEPs using Word documents stored in folders. When it's time to update the IEP (usually annually), staff dig up the old document, review it, modify it, and rewrite it, often starting from scratch.
 
 **The Problem:**
 - **Version Control Chaos:** Multiple staff members edit the IEP document. Which version is current? Who approved the latest changes?
@@ -56,7 +56,7 @@ Special education involves multiple professionals:
 - **School Nurse:** Manages medical/health needs related to disability.
 - **Parents/Guardians:** Partners in the IEP process.
 
-All these professionals need to share information about the student—but often they don't. The special education teacher notes "Student is showing improved focus after starting new medication"; the school psychologist doesn't know. The SLP recommends "Student should use visual supports in all classes"; general education teachers don't receive this guidance.
+All these professionals need to share information about the student, but often they don't. The special education teacher notes "Student is showing improved focus after starting new medication"; the school psychologist doesn't know. The SLP recommends "Student should use visual supports in all classes"; general education teachers don't receive this guidance.
 
 **The Problem:**
 Without a coordinated system, information silos form. Professionals don't know what others are doing. Interventions are duplicated or contradictory. Time is wasted in meetings trying to catch everyone up.
@@ -72,7 +72,7 @@ Students often receive therapy services (speech, occupational, physical, behavio
 Most schools have therapists enter notes in a notebook or separate system. This information is not integrated into the main student record.
 
 **The Problem:**
-- **Disconnection:** A student struggles with handwriting in class, but the teacher doesn't know the OT is providing fine motor therapy—so the teacher attributes the struggle to laziness instead of understanding it as a skill being developed.
+- **Disconnection:** A student struggles with handwriting in class, but the teacher doesn't know the OT is providing fine motor therapy, so the teacher attributes the struggle to laziness instead of understanding it as a skill being developed.
 - **Goal Alignment Missing:** Therapists work on their goals; teachers work on academic goals. Are they aligned? Supporting each other? Unknown.
 - **Progress Visibility:** Parents ask "Is my child progressing?" The therapist shows session notes; the teacher shows test scores. No unified picture of progress.
 - **Service Justification:** When budgets are tight, schools cut therapy services. Without clear evidence of progress in relation to IEP goals, schools can't justify why therapy is essential.
@@ -362,6 +362,10 @@ Behind Yashveer Labs is a commitment to long-term thinking. Every school that us
 **About Nexli:**
 
 Behind Nexli is an investment in depth. The Attendance module tracks period-wise, daily consolidated, and bus attendance separately because schools need that granularity. The Fee module supports term-based, installment-based, and monthly billing because different schools operate differently. The Compliance module includes DPDP Act workflows, POCSO case management, and RTE quota tracking because Indian schools face those specific requirements. Depth matters.
+
+---
+
+**[Book a Free Demo](/demo)** to see how Nexli manages IEPs, therapy session tracking, and multi-disciplinary team coordination for special education schools.
 
 ---
 

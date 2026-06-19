@@ -17,7 +17,7 @@ date: "2026-06-19"
 
 ## Overview
 
-**Snippet:** Boarding schools operate a dual institution: the academic school and the residential hostel. A student spends 16+ hours daily on campus—in classes, in dormitories, on sports fields, in dining halls. An ERP for boarding schools must track academics, residence, health, safety, and parental communication in an integrated view. Hostel management is not a peripheral function; it is core to the school's operations and legal liability.
+**Snippet:** Boarding schools operate a dual institution: the academic school and the residential hostel. A student spends 16+ hours daily on campus: in classes, in dormitories, on sports fields, in dining halls. An ERP for boarding schools must track academics, residence, health, safety, and parental communication in an integrated view. Hostel management is not a peripheral function; it is core to the school's operations and legal liability.
 
 ---
 
@@ -27,22 +27,22 @@ date: "2026-06-19"
 
 A day school's principal is responsible for students during school hours. The boundary is clear: 8 AM to 3 PM, the school owns the duty of care. A boarding school's principal is responsible 24/7 for residential students, including sleep time, meals, healthcare, and social development.
 
-This constant accountability creates a legal and operational challenge unlike day schools. The doctrine of *in loco parentis* (in place of parents) means the school stands in the parent's legal position during term. Any mishap—a student's injury, an illness, a behavioral incident—becomes the school's liability. Proper documentation, timely communication, and demonstrated care are the school's only defense in disputes.
+This constant accountability creates a legal and operational challenge unlike day schools. The doctrine of *in loco parentis* (in place of parents) means the school stands in the parent's legal position during term. Any mishap, whether a student's injury, an illness, or a behavioral incident, becomes the school's liability. Proper documentation, timely communication, and demonstrated care are the school's only defense in disputes.
 
-Most schools are unprepared for this documentation burden. A student falls ill at 2 AM. The hostel warden calls the medical officer, who visits, diagnoses fever, advises rest. The student recovers by morning. Sounds routine—but what record exists? Did the hostel log the incident? Did the medical officer document findings? Did the parents receive a same-day message? Without a coordinated system, this routine incident becomes a liability exposure if the student's condition worsens or if parents claim they were not informed.
+Most schools are unprepared for this documentation burden. A student falls ill at 2 AM. The hostel warden calls the medical officer, who visits, diagnoses fever, advises rest. The student recovers by morning. Sounds routine, but what record exists? Did the hostel log the incident? Did the medical officer document findings? Did the parents receive a same-day message? Without a coordinated system, this routine incident becomes a liability exposure if the student's condition worsens or if parents claim they were not informed.
 
 ### Hostel as a Second Campus
 
 Hostel management is not just accommodation. It includes:
 
 - **Roll-Call:** Morning and night roll-call to verify all students are present. A single unaccounted student escalates to emergency search protocols.
-- **Exeat (Weekend Leave) Tracking:** Students request leave to go home; schools must verify guardian contact, expected return time, and student arrival. Overnight, a student must be accounted for—either in hostel or with authorized guardian.
+- **Exeat (Weekend Leave) Tracking:** Students request leave to go home; schools must verify guardian contact, expected return time, and student arrival. Overnight, a student must be accounted for, either in hostel or with an authorized guardian.
 - **Health & Safety:** Medical incidents, dietary restrictions, allergies, mental health concerns, behavioral issues must be tracked and acted upon.
 - **Room & Block Allocation:** Assigning students to blocks and rooms based on grade, age, and compatibility. Moving students due to conflict requires documentation.
 - **House System:** Many boarding schools assign students to houses with captains, prefects, and inter-house competitions. This adds a layer of student leadership and accountability.
 - **Visiting & Telephone:** Some schools regulate when parents can visit or when students can make phone calls home. Schedules must be clear.
 
-Without a system, each of these functions is handled independently—different logs, different approvals, different communication channels. A hostel warden manages roll-call in a notebook. The medical officer maintains a separate clinic log. The academic coordinator maintains discipline records. When a principal asks "Where is student X right now?", the answer requires coordinating three or four people.
+Without a system, each of these functions is handled independently, with different logs, different approvals, and different communication channels. A hostel warden manages roll-call in a notebook. The medical officer maintains a separate clinic log. The academic coordinator maintains discipline records. When a principal asks "Where is student X right now?", the answer requires coordinating three or four people.
 
 ### Exeat and Overnight Accountability
 
@@ -55,7 +55,7 @@ Exeat (leave) management is a boarding school's most complex operational puzzle.
 
 The process involves multiple stakeholders: hostel warden (oversees departure), class teacher (notifies absence from classes), transport manager (if using school transport), and hostel staff (monitors return). Without integration, information doesn't flow. A student's return gets delayed; the hostel notes it, but the class teacher is still marking the student absent from Monday classes. The principal hears about it only when the concerned parent calls.
 
-Overnight, the school must account for every student: either in hostel or with an authorized guardian. One missing student triggers protocols resembling missing persons search—emergency calls to parents, hostel searches, local authorities. The school is liable for the student's safety during this period.
+Overnight, the school must account for every student: either in hostel or with an authorized guardian. One missing student triggers protocols resembling missing persons search: emergency calls to parents, hostel searches, and local authorities. The school is liable for the student's safety during this period.
 
 ### Health & Medical Integration
 
@@ -84,7 +84,7 @@ Communication also creates liability exposure. If a parent claims they were neve
 
 **Health Risk:** Medical conditions are not centrally recorded or communicated to all relevant staff. A hostel warden gives medication without knowing about drug interactions. A kitchen staff member serves an allergen to a student they didn't know was allergic. Incidents escalate from manageable to emergency.
 
-**Operational Risk:** Hostel and academic functions operate independently. A student marked absent from classes due to illness is also counted present at hostel roll-call—data conflict that wastes staff time explaining.
+**Operational Risk:** Hostel and academic functions operate independently. A student marked absent from classes due to illness is also counted present at hostel roll-call, a data conflict that wastes staff time explaining.
 
 **Parental Trust Risk:** Parents don't receive timely updates on their child's health or behavior. They feel disconnected from residential life. When a concern arises, they've lost confidence in the school's communication, escalating conflicts.
 
@@ -137,7 +137,7 @@ If a student is not returned by the deadline, the system escalates: first email,
 All student health data must be centralized and accessible to authorized staff:
 
 - **Medical Records:** Allergies, chronic conditions, medications, vaccination status, emergency contacts, restrictions.
-- **Visit Log:** Every clinic visit, diagnosis, medication prescribed, advice given—timestamped and logged.
+- **Visit Log:** Every clinic visit, diagnosis, medication prescribed, and advice given, timestamped and logged.
 - **Medication Tracking:** Medications stored in hostel with dosage, frequency, and refill dates. System tracks when medication was dispensed and to whom.
 - **Dietary Restrictions:** Flagged prominently for catering staff. Schools can print dietary restriction sheets for mess staff and hostel cooks.
 - **Alert System:** If a student with a serious condition (asthma, diabetes, epilepsy) is on-site, the system flags this to relevant staff (medical officer, hostel, house coordinator).
@@ -218,7 +218,7 @@ This creates an audit trail that protects both the student and the school.
 
 ### 5. Segregate Confidential & Operational Information
 
-Medical and behavioral data should be strictly confidential. However, operational data (attendance, exeat status, academic progress) should be visible to relevant staff. Design access controls to separate these—Medical Officer sees medical data; House Coordinator sees attendance and behavioral notes; Principal sees everything.
+Medical and behavioral data should be strictly confidential. However, operational data (attendance, exeat status, academic progress) should be visible to relevant staff. Design access controls to separate these: Medical Officer sees medical data; House Coordinator sees attendance and behavioral notes; Principal sees everything.
 
 ---
 
@@ -232,7 +232,7 @@ Nexli's Hostel Module provides a real-time dashboard showing all residential stu
 
 ### Digital Roll-Call
 
-Nexli's roll-call module is mobile-optimized. Hostel staff mark present/absent/ill/on-exeat in 2-3 minutes per block using their phone. The system auto-flags anomalies: "Block A missing 1 student—review." If a student is absent and not on exeat, the system alerts the Hostel Manager immediately, preventing delays in incident response.
+Nexli's roll-call module is mobile-optimized. Hostel staff mark present/absent/ill/on-exeat in 2-3 minutes per block using their phone. The system auto-flags anomalies: "Block A missing 1 student; review." If a student is absent and not on exeat, the system alerts the Hostel Manager immediately, preventing delays in incident response.
 
 Historical roll-call data is archived for compliance audits. Schools can prove they conducted roll-call correctly.
 
@@ -285,6 +285,10 @@ Behind Yashveer Labs is a commitment to long-term thinking. Every school that us
 **About Nexli:**
 
 Behind Nexli is an investment in depth. The Attendance module tracks period-wise, daily consolidated, and bus attendance separately because schools need that granularity. The Fee module supports term-based, installment-based, and monthly billing because different schools operate differently. The Compliance module includes DPDP Act workflows, POCSO case management, and RTE quota tracking because Indian schools face those specific requirements. Depth matters.
+
+---
+
+**[Book a Free Demo](/demo)** to see how Nexli handles hostel management, roll-call, exeat tracking, and medical integration for boarding schools.
 
 ---
 
