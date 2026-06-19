@@ -51,13 +51,19 @@ export function RollcallTab() {
       .sort((a, b) => (a.fullName ?? '').localeCompare(b.fullName ?? ''));
   }, [students, allocations, blockId]);
 
+  // Stable roster identity (sorted ids). A same-size boarder swap changes this key
+  // but not roster.length, so depending on length would seed under the wrong
+  // studentId; depend on the key instead.
+  const rosterKey = useMemo(() => roster.map((s) => s.id).join(','), [roster]);
+
   // Seed entries when block/date/session/existing changes (existing marks, else all present).
   useEffect(() => {
     if (!blockId) { setEntries({}); return; }
     const seed: Record<string, RollcallStatus> = {};
     for (const s of roster) seed[s.id] = existing?.entries?.[s.id] ?? 'present';
     setEntries(seed);
-  }, [blockId, date, session, existing, roster.length]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [blockId, date, session, existing, rosterKey]);
 
   const counts = useMemo(() => {
     const c: Record<RollcallStatus, number> = { present: 0, absent: 0, leave: 0, infirmary: 0 };

@@ -217,7 +217,11 @@ export async function sendMessage(
   const now = Date.now();
 
   const batch = writeBatch(db);
-  const msgRef = tenantDoc(schoolId, MESSAGES, `${conversationId}_${now}_${actor.uid.slice(0, 6)}`);
+  // Doc id must be unique even on a same-millisecond double-send (fast double-tap,
+  // or two devices): `${convId}_${now}_${uid6}` alone collided and the second write
+  // silently overwrote the first. Append a CSPRNG suffix to guarantee uniqueness.
+  const rand = crypto.getRandomValues(new Uint32Array(1))[0].toString(36);
+  const msgRef = tenantDoc(schoolId, MESSAGES, `${conversationId}_${now}_${actor.uid.slice(0, 6)}_${rand}`);
   const convRef = tenantDoc(schoolId, CONVERSATIONS, conversationId);
 
   batch.set(msgRef, {

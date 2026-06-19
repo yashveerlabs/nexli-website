@@ -43,13 +43,19 @@ export function BusAttendanceTab() {
       .sort((a, b) => (a.member.studentName ?? '').localeCompare(b.member.studentName ?? ''));
   }, [members, students]);
 
+  // Stable roster identity (sorted student ids). A same-size swap changes this key
+  // but not roster.length, so depending on length would seed under the wrong
+  // studentId; depend on the key instead.
+  const rosterKey = useMemo(() => roster.map(({ member: m }) => m.studentId).join(','), [roster]);
+
   // Seed entries when route/date/trip changes (existing marks, else default boarded).
   useEffect(() => {
     if (!routeId) { setEntries({}); return; }
     const seed: Record<string, BoardStatus> = {};
     for (const { member: m } of roster) seed[m.studentId] = existing?.entries?.[m.studentId] ?? 'boarded';
     setEntries(seed);
-  }, [routeId, date, trip, existing, roster.length]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [routeId, date, trip, existing, rosterKey]);
 
   const counts = useMemo(() => {
     const c = { boarded: 0, absent: 0, alighted: 0 };

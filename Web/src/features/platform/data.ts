@@ -11,8 +11,10 @@ import {
   updateDoc,
   where,
   limit as fsLimit,
+  runTransaction,
   type QueryConstraint,
 } from 'firebase/firestore';
+import { db } from '@/lib/firebase';
 import {
   globalFlagsRef,
   planRef,
@@ -189,17 +191,31 @@ export async function sweepExpiredSubscriptions(schools: School[], actor: Actor)
   const due = schools.filter(
     (s) => (s.subscriptionStatus === 'active' || s.subscriptionStatus === 'trial') && effectiveSubscriptionStatus(s) === 'expired',
   );
+  let swept = 0;
   for (const s of due) {
     try {
-      await updateDoc(schoolRef(s.id), { subscriptionStatus: 'expired', lastModifiedAt: Date.now(), lastModifiedBy: actor.uid });
-      await setDoc(subscriptionRef(s.id), { schoolId: s.id, schoolName: s.name, status: 'expired', updatedAt: Date.now(), lastReason: 'Auto-expired (term lapsed)' }, { merge: true });
-      await logActivity({ type: 'subscription.changed', schoolId: s.id, schoolName: s.name, summary: `${s.name}: subscription expired (term lapsed)` }, actor);
-      void writeAuditEvent({ action: 'subscription.changed', actor, targetType: 'school', targetId: s.id, summary: 'auto-expire — term lapsed', details: { action: 'expire', status: 'expired', auto: true } });
+      // Re-read inside a transaction so concurrent tabs/sweeps can't double-write
+      // (and double-log) the same school: only the first sweep that still sees an
+      // active/trial status performs the expire; others read 'expired' and skip.
+      const changed = await runTransaction(db, async (tx) => {
+        const snap = await tx.get(schoolRef(s.id));
+        if (!snap.exists()) return false;
+        const cur = snap.data() as School;
+        if (cur.subscriptionStatus !== 'active' && cur.subscriptionStatus !== 'trial') return false;
+        tx.update(schoolRef(s.id), { subscriptionStatus: 'expired', lastModifiedAt: Date.now(), lastModifiedBy: actor.uid });
+        tx.set(subscriptionRef(s.id), { schoolId: s.id, schoolName: s.name, status: 'expired', updatedAt: Date.now(), lastReason: 'Auto-expired (term lapsed)' }, { merge: true });
+        return true;
+      });
+      if (changed) {
+        swept++;
+        await logActivity({ type: 'subscription.changed', schoolId: s.id, schoolName: s.name, summary: `${s.name}: subscription expired (term lapsed)` }, actor);
+        void writeAuditEvent({ action: 'subscription.changed', actor, targetType: 'school', targetId: s.id, summary: 'auto-expire — term lapsed', details: { action: 'expire', status: 'expired', auto: true } });
+      }
     } catch {
       /* best-effort; will retry next sweep */
     }
   }
-  return due.length;
+  return swept;
 }
 
 /** Apply a subscription lifecycle action (with mandatory reason → audit + feed). */

@@ -77,7 +77,10 @@ export function generateTempPassword(length = 12): string {
  * the admin can hand them to the user.
  */
 export async function provisionStaffMember(input: ProvisionStaffInput): Promise<ProvisionResult> {
-  const secondaryName = `nexli-provision-${Date.now()}`;
+  // Unique app name even if two admins provision in the same millisecond. The old
+  // `nexli-provision-${Date.now()}` collided on concurrent calls, and reusing a live
+  // app name throws ("Firebase App named '…' already exists").
+  const secondaryName = `nexli-provision-${Date.now()}-${crypto.getRandomValues(new Uint32Array(1))[0].toString(36)}`;
   const secondaryApp = initializeApp(firebaseConfig, secondaryName);
   const secondaryAuth = getAuth(secondaryApp);
 
@@ -85,7 +88,25 @@ export async function provisionStaffMember(input: ProvisionStaffInput): Promise<
     const cred = await createUserWithEmailAndPassword(secondaryAuth, input.email.trim(), input.password);
     const uid = cred.user.uid;
 
-    await writeMemberDocs(uid, input);
+    // The Auth account must exist before we can write its member/userIndex docs
+    // (they key on the uid) — Auth and Firestore cannot share one transaction here
+    // (no Admin SDK on the free tier). So if the Firestore write fails, best-effort
+    // DELETE the just-created Auth user to avoid orphaning a login with no profile
+    // (which would otherwise surface as a NoAccess account forever). The user is
+    // still signed in on the secondary app at this point, so `cred.user.delete()`
+    // is permitted. RESIDUAL RISK: if this cleanup delete itself fails (offline mid-
+    // call), the Auth account is orphaned; re-provisioning the same email will then
+    // report "email already in use" and an admin must remove it from the console.
+    try {
+      await writeMemberDocs(uid, input);
+    } catch (err) {
+      try {
+        await cred.user.delete();
+      } catch {
+        /* cleanup failed — orphaned Auth account; see residual-risk note above */
+      }
+      throw err;
+    }
 
     return { uid, email: input.email.trim(), password: input.password };
   } finally {

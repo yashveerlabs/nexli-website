@@ -9,7 +9,7 @@ import { ConfirmModal } from '@/components/Modal';
 import { Skeleton, EmptyState, InfoCard } from '@/components/feedback';
 import { useToast } from '@/components/Toast';
 import { useCan, useSession } from '@/app/providers/SessionProvider';
-import { useTransferCertificate, updateTC, updateStudent } from '@/features/school/data';
+import { useTransferCertificate, updateTC, updateStudent, nextTcNumber } from '@/features/school/data';
 import { TC_STATUS_META } from '@/features/school/meta';
 import { formatDate } from '@/lib/format';
 import type { TCClearanceItem, TCStatus } from '@/types/sis';
@@ -37,8 +37,13 @@ export function TCDetailPage() {
   const toggleClearance = async (i: number) => {
     if (!schoolId || !editable) return;
     const next: TCClearanceItem[] = clearances.map((c, idx) => (idx === i ? { ...c, cleared: !c.cleared } : c));
+    // Guard: once a TC is APPROVED, toggling a clearance must NOT regress its
+    // status back to requested/clearance_pending (which would undo the approval and
+    // re-surface the Approve button). Keep approved TCs approved; only recompute the
+    // status while the TC is still in the pre-approval clearance phase.
     const done = next.every((c) => c.cleared);
-    await updateTC(schoolId, tcId, { clearances: next, status: done ? 'clearance_pending' : 'requested' }, actor);
+    const status: TCStatus = tc.status === 'approved' ? 'approved' : done ? 'clearance_pending' : 'requested';
+    await updateTC(schoolId, tcId, { clearances: next, status }, actor);
   };
 
   const doAction = async (action: 'approve' | 'issue' | 'reject') => {
@@ -48,8 +53,9 @@ export function TCDetailPage() {
       if (action === 'approve') await updateTC(schoolId, tcId, { status: 'approved' }, actor);
       else if (action === 'reject') await updateTC(schoolId, tcId, { status: 'rejected' }, actor);
       else {
-        const yr = (school?.currentAcademicYear ?? `${new Date().getFullYear()}`).slice(0, 4);
-        const tcNumber = `TC/${yr}/${String(Date.now()).slice(-4)}`;
+        // Atomic, collision-free TC number (per-year counter). The old
+        // `Date.now().slice(-4)` collided for any two TCs issued within ~10s.
+        const tcNumber = await nextTcNumber(schoolId, school?.currentAcademicYear);
         await updateTC(schoolId, tcId, { status: 'issued', issuedDate: Date.now(), tcNumber }, actor);
         // Student has left: mark them 'transferred' so they drop out of the active
         // roll and the billable active-student count. The record is preserved — this

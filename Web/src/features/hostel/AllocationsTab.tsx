@@ -1,4 +1,7 @@
 import { useMemo, useState } from 'react';
+import { collection, doc, increment, runTransaction, serverTimestamp } from 'firebase/firestore';
+import { db } from '@/lib/firebase';
+import { tenantDoc } from '@/lib/db';
 import { Button } from '@/components/Button';
 import { Panel } from '@/components/Panel';
 import { Badge } from '@/components/Badge';
@@ -11,9 +14,9 @@ import { formatDate } from '@/lib/format';
 import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { useStudents } from '@/features/school/data';
 import {
-  useHostelBlocks, useHostelRooms, useHostelAllocations,
-  createAllocation, removeAllocation, updateHostelRoom, type Actor,
+  useHostelBlocks, useHostelRooms, useHostelAllocations, type Actor,
 } from '@/features/ops/data';
+import { writeAuditEvent } from '@/lib/audit';
 import type { HostelAllocation, HostelRoom } from '@/types/ops';
 
 const today = () => new Date().toISOString().slice(0, 10);
@@ -88,29 +91,56 @@ export function AllocationsTab() {
     if ((room.capacity ?? 0) > 0 && used >= (room.capacity ?? 0)) { toast.error('Room is full', `Room ${room.number} has no free beds.`); return; }
     setBusy(true);
     try {
-      await createAllocation(schoolId, {
-        schoolId,
-        studentId: student.id, studentName: student.fullName, gradeName: student.gradeName,
-        blockId: block.id, blockName: block.name,
-        roomId: room.id, roomNumber: room.number,
-        bedNo: bedNo.trim() || undefined,
-        fromDate: fromDate ? new Date(`${fromDate}T00:00:00`).getTime() : Date.now(),
-        active: true,
-      }, actor);
-      // Keep the room's stored occupied count in sync.
-      await updateHostelRoom(schoolId, room.id, { occupied: used + 1 }, actor);
+      // Allocate ATOMICALLY: read the room inside a transaction, re-check capacity
+      // against its STORED occupied count, then create the allocation doc and bump
+      // `occupied` together. The previous read-then-write (client `used + 1`) drifted
+      // under concurrent allocations and could overflow capacity (two wardens filling
+      // the last bed). `occupied` is the source of truth here, not the live snapshot.
+      const allocRef = doc(collection(db, 'schools', schoolId, 'hostel_allocations'));
+      const roomRef = tenantDoc(schoolId, 'hostel_rooms', room.id);
+      await runTransaction(db, async (tx) => {
+        const roomSnap = await tx.get(roomRef);
+        const cap = (roomSnap.data()?.capacity as number | undefined) ?? room.capacity ?? 0;
+        const occ = (roomSnap.data()?.occupied as number | undefined) ?? 0;
+        if (cap > 0 && occ >= cap) throw new Error('ROOM_FULL');
+        tx.set(allocRef, {
+          schoolId,
+          studentId: student.id, studentName: student.fullName,
+          ...(student.gradeName ? { gradeName: student.gradeName } : {}),
+          blockId: block.id, blockName: block.name,
+          roomId: room.id, roomNumber: room.number,
+          ...(bedNo.trim() ? { bedNo: bedNo.trim() } : {}),
+          fromDate: fromDate ? new Date(`${fromDate}T00:00:00`).getTime() : Date.now(),
+          active: true,
+          createdAt: Date.now(), createdBy: actor.uid, serverCreatedAt: serverTimestamp(), version: 1,
+        });
+        tx.set(roomRef, { occupied: increment(1), lastModifiedAt: Date.now(), lastModifiedBy: actor.uid }, { merge: true });
+      });
+      void writeAuditEvent({ action: 'hostel.allocated', schoolId, actor, targetType: 'hostel_allocation', targetId: allocRef.id, summary: student.fullName });
       toast.success('Student allocated', `${student.fullName} → Room ${room.number}`);
       setOpen(false);
-    } catch { toast.error('Could not allocate'); } finally { setBusy(false); }
+    } catch (e) {
+      toast.error(e instanceof Error && e.message === 'ROOM_FULL' ? 'Room is full' : 'Could not allocate',
+        e instanceof Error && e.message === 'ROOM_FULL' ? `Room ${room.number} has no free beds.` : undefined);
+    } finally { setBusy(false); }
   };
 
   const confirmDeallocate = async () => {
     if (!schoolId || !deallocate) return;
     setBusy(true);
     try {
-      await removeAllocation(schoolId, deallocate.id, actor);
-      const used = occByRoom.get(deallocate.roomId) ?? 1;
-      await updateHostelRoom(schoolId, deallocate.roomId, { occupied: Math.max(0, used - 1) }, actor);
+      // Deallocate ATOMICALLY: deactivate the allocation and decrement the room's
+      // stored `occupied` in one transaction (floored at 0), so the count can't drift
+      // negative or lag behind under concurrent deallocations.
+      const allocRef = tenantDoc(schoolId, 'hostel_allocations', deallocate.id);
+      const roomRef = tenantDoc(schoolId, 'hostel_rooms', deallocate.roomId);
+      await runTransaction(db, async (tx) => {
+        const roomSnap = await tx.get(roomRef);
+        const occ = (roomSnap.data()?.occupied as number | undefined) ?? 0;
+        tx.delete(allocRef);
+        tx.set(roomRef, { occupied: Math.max(0, occ - 1), lastModifiedAt: Date.now(), lastModifiedBy: actor.uid }, { merge: true });
+      });
+      void writeAuditEvent({ action: 'hostel.deallocated', schoolId, actor, targetType: 'hostel_allocation', targetId: deallocate.id, summary: deallocate.studentName });
       toast.success('Deallocated', deallocate.studentName);
       setDeallocate(null);
     } catch { toast.error('Could not deallocate'); } finally { setBusy(false); }

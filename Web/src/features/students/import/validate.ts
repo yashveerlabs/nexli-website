@@ -1,4 +1,4 @@
-import type { Gender, Guardian, SocialCategory, Student } from '@/types/sis';
+import type { Gender, Guardian, GuardianRelation, SocialCategory, Student } from '@/types/sis';
 import type { Grade, Section } from '@/types/models';
 import type { ImportField } from './csv';
 
@@ -23,6 +23,22 @@ const CATEGORY_VALUES: SocialCategory[] = ['general', 'obc', 'sc', 'st', 'ews', 
 /** Parse a gender cell into a canonical Gender, or undefined if unrecognised. */
 export function parseGender(value: string): Gender | undefined {
   return GENDER_MAP[value.trim().toLowerCase()];
+}
+
+/**
+ * Infer a guardian's relation from a hint (the mapped column's header, e.g.
+ * "Father Name", or a value like "Mother"). Defaults to 'guardian' when no
+ * specific relation is recognised — so a generic "Guardian Name" column is
+ * preserved as 'guardian', while a "Father"/"Mother" column keeps that relation
+ * (previously every imported guardian was force-set to 'guardian').
+ */
+export function parseGuardianRelation(hint?: string): GuardianRelation {
+  const h = (hint ?? '').toLowerCase();
+  if (h.includes('father') || /\bdad\b/.test(h)) return 'father';
+  if (h.includes('mother') || /\bmom\b/.test(h)) return 'mother';
+  if (h.includes('grand')) return 'grandparent';
+  if (h.includes('sibling') || h.includes('brother') || h.includes('sister')) return 'sibling';
+  return 'guardian';
 }
 
 /** Parse a YYYY-MM-DD (or similar) date cell into ms, or undefined if unparseable. */
@@ -105,6 +121,9 @@ export function rowToStudent(
   admissionNo: string,
   grades: Grade[],
   sections: Section[],
+  /** Optional relation hint (e.g. the mapped guardian column's header) so a
+   *  "Father"/"Mother" column keeps its relation instead of defaulting to 'guardian'. */
+  guardianRelationHint?: string,
 ): Omit<Student, 'id' | 'schoolId'> {
   const firstName = raw.firstName.trim();
   const lastName = raw.lastName?.trim() || undefined;
@@ -116,7 +135,7 @@ export function rowToStudent(
   const guardians: Guardian[] = [];
   if (raw.guardianName?.trim()) {
     guardians.push({
-      relation: 'guardian',
+      relation: parseGuardianRelation(guardianRelationHint),
       name: raw.guardianName.trim(),
       phone: raw.guardianPhone?.trim() || undefined,
       email: raw.guardianEmail?.trim() || undefined,
@@ -141,4 +160,36 @@ export function rowToStudent(
     category: (CATEGORY_VALUES.includes(category as SocialCategory) ? (category as SocialCategory) : undefined),
     guardians: guardians.length ? guardians : undefined,
   };
+}
+
+/** Minimal shape needed to detect a duplicate against existing students. */
+export type ExistingStudentKey = Pick<Student, 'admissionNo' | 'fullName' | 'dob'>;
+
+const normName = (s?: string) => (s ?? '').trim().toLowerCase().replace(/\s+/g, ' ');
+
+/**
+ * Detect whether a mapped import row already exists among the school's students.
+ * Matches on (a) an exact admission number, or (b) the same full name AND date of
+ * birth (when both are present on the row) — a strong identity signal that avoids
+ * re-importing the same child. Returns a human-readable reason, or `undefined` when
+ * no duplicate is found. Pass the existing students fetched from Firestore.
+ */
+export function findDuplicateStudent(
+  raw: Record<ImportField, string>,
+  existing: readonly ExistingStudentKey[],
+): string | undefined {
+  const adm = raw.admissionNo?.trim().toLowerCase();
+  if (adm) {
+    const hit = existing.find((s) => s.admissionNo?.trim().toLowerCase() === adm);
+    if (hit) return `Admission no. "${raw.admissionNo!.trim()}" already exists.`;
+  }
+  const firstName = raw.firstName?.trim() ?? '';
+  const lastName = raw.lastName?.trim() ?? '';
+  const fullName = normName([firstName, lastName].filter(Boolean).join(' '));
+  const dob = parseDob(raw.dob ?? '');
+  if (fullName && dob != null) {
+    const hit = existing.find((s) => normName(s.fullName) === fullName && s.dob === dob);
+    if (hit) return `A student named "${[firstName, lastName].filter(Boolean).join(' ')}" with the same date of birth already exists.`;
+  }
+  return undefined;
 }

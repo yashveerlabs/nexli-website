@@ -13,10 +13,12 @@ import { useCan, useSession } from '@/app/providers/SessionProvider';
 import {
   useAdmission,
   updateAdmission,
-  createStudent,
+  admitApplicant,
   nextAdmissionNo,
   useGrades,
 } from '@/features/school/data';
+import { ConsentGate } from '@/features/consent';
+import '@/features/consent/consent.css';
 import { ADMISSION_STAGE_META, CATEGORY_OPTIONS, GENDER_OPTIONS } from '@/features/school/meta';
 import { ADMISSION_STAGES } from '@/types/sis';
 import { admissionToStudent, ageFromDob } from './admissionSchema';
@@ -122,8 +124,15 @@ export function AdmissionDetailPage() {
         gradeName,
         academicYear: school?.currentAcademicYear,
       });
-      const studentId = await createStudent(schoolId, { ...studentPayload, schoolId }, actor);
-      await updateAdmission(schoolId, id, { stage: 'admitted', convertedStudentId: studentId }, actor);
+      // Create the student AND flip the admission to admitted in one atomic batch
+      // so a network drop can't orphan a student with no convertedStudentId.
+      const studentId = await admitApplicant(
+        schoolId,
+        id,
+        { ...studentPayload, schoolId },
+        actor,
+        a.applicantName,
+      );
       toast.success('Applicant admitted', a.applicantName);
       setAdmitOpen(false);
       navigate(`/students/${studentId}`);
@@ -179,6 +188,9 @@ export function AdmissionDetailPage() {
         )}
         {a.convertedStudentId && (
           <div style={{ marginTop: 12 }}>
+            {/* DPDP consent surfacing (WARN-only): flags missing guardian consent for
+                the converted student without blocking the admission workflow. */}
+            <ConsentGate studentId={a.convertedStudentId} />
             <Button variant="subtle" size="sm" leftIcon="arrow-right" onClick={() => navigate(`/students/${a.convertedStudentId}`)}>
               View student record
             </Button>

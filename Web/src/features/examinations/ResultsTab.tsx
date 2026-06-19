@@ -1,4 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
+import { deleteDoc } from 'firebase/firestore';
+import { tenantDoc } from '@/lib/db';
 import { Badge } from '@/components/Badge';
 import { Button } from '@/components/Button';
 import { Panel } from '@/components/Panel';
@@ -21,10 +23,13 @@ function computeRow(papers: ExamPaper[], marks: Record<string, number> | undefin
   let failed = 0;
   for (const p of papers) {
     const pm = p.maxMarks ?? 0;
-    max += pm;
     const v = marks?.[p.id];
     if (v != null && !Number.isNaN(v)) {
+      // Only papers the student actually sat count toward total AND max — otherwise a
+      // student who took a partial set of papers is divided by the full datesheet max
+      // and looks like a fail. Percentage is over attempted papers only.
       total += v;
+      max += pm;
       entered++;
       const pass = p.passMarks ?? Math.ceil(pm * 0.33);
       if (v < pass) failed++;
@@ -136,7 +141,10 @@ export function ResultsTab({ exam }: { exam: Exam }) {
     setSaving(true);
     try {
       const section = sections.find((s) => s.id === sectionId);
-      await Promise.all(
+      // Per-student isolation: one failed write must not abort the whole save (the
+      // old `Promise.all` rejected on the first error and left the rest unsaved with
+      // no record of which succeeded). Settle all, then report any failures.
+      const outcomes = await Promise.allSettled(
         roster.map(async (s) => {
           const row = marks[s.id] ?? {};
           const clean: Record<string, number> = {};
@@ -144,7 +152,14 @@ export function ResultsTab({ exam }: { exam: Exam }) {
             const v = row[p.id];
             if (v != null && !Number.isNaN(v)) clean[p.id] = v;
           }
-          if (Object.keys(clean).length === 0) return; // skip students with no marks
+          const resultRef = tenantDoc(schoolId, 'exam_results', examResultId(exam.id, s.id));
+          if (Object.keys(clean).length === 0) {
+            // Marks were cleared for this student: remove any stale saved result so it
+            // doesn't keep showing an old total/percentage (and skew rankings). The
+            // previous code returned early and left the old doc behind.
+            if (resultsById.has(s.id)) await deleteDoc(resultRef);
+            return;
+          }
           const { total, failed, pct } = computeRow(gradePapers, clean);
           const status = resultStatusFor(failed, pct);
           const payload: Omit<ExamResult, 'id'> = {
@@ -162,7 +177,12 @@ export function ResultsTab({ exam }: { exam: Exam }) {
           await saveExamResult(schoolId, examResultId(exam.id, s.id), payload, actor);
         }),
       );
-      toast.success('Results saved', `${enteredCount}/${roster.length} students`);
+      const failures = outcomes.filter((o) => o.status === 'rejected').length;
+      if (failures > 0) {
+        toast.error('Some results did not save', `${failures} of ${roster.length} failed — they'll retry when back online.`);
+      } else {
+        toast.success('Results saved', `${enteredCount}/${roster.length} students`);
+      }
     } catch {
       toast.error('Could not save', 'It will sync when you are back online.');
     } finally {

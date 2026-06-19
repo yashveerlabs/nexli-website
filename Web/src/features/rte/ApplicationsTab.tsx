@@ -1,5 +1,9 @@
 import { useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { deleteField, updateDoc, writeBatch } from 'firebase/firestore';
+import { db } from '@/lib/firebase';
+import { tenantDoc } from '@/lib/db';
+import { writeAuditEvent } from '@/lib/audit';
 import { KPICard } from '@/components/KPICard';
 import { Badge } from '@/components/Badge';
 import { Button } from '@/components/Button';
@@ -12,7 +16,6 @@ import { formatINR, formatDate, initials } from '@/lib/format';
 import { useSession } from '@/app/providers/SessionProvider';
 import {
   useRteApplications,
-  updateRteApplication,
   deleteRteApplication,
   type Actor,
 } from '@/features/compliance/data';
@@ -96,7 +99,17 @@ export function ApplicationsTab() {
       });
   }, [apps, q, stage, cat]);
 
-  /** Fisher–Yates shuffle of the `applied` pool → sequential lottery ranks + stage 'lottery'. */
+  /**
+   * Draw the RTE lottery (statutory — RTE Act 25% quota). Fisher–Yates shuffle of
+   * the `applied` pool → sequential lottery ranks + stage 'lottery'.
+   *
+   * Integrity hardening:
+   *  • Shuffle entropy comes from `crypto.getRandomValues` (an auditable CSPRNG),
+   *    not `Math.random()` — a statutory draw must be defensibly fair.
+   *  • All rank assignments commit in ONE `writeBatch`: either every applicant is
+   *    ranked or none is. The old `Promise.all` could partially fail and leave the
+   *    pool half-ranked (some 'lottery', some 'applied') with no clean retry.
+   */
   const doRunLottery = async () => {
     if (!schoolId) return;
     const pool = apps.filter((a) => a.stage === 'applied');
@@ -106,16 +119,40 @@ export function ApplicationsTab() {
     }
     setBusy(true);
     const shuffled = [...pool];
+    // Cryptographically uniform Fisher–Yates (rejection sampling avoids modulo bias).
+    const rand = new Uint32Array(1);
+    const randomBelow = (n: number) => {
+      const limit = Math.floor(0xffffffff / n) * n;
+      let x = 0;
+      do {
+        crypto.getRandomValues(rand);
+        x = rand[0];
+      } while (x >= limit);
+      return x % n;
+    };
     for (let i = shuffled.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
+      const j = randomBelow(i + 1);
       [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
     }
     try {
-      await Promise.all(
-        shuffled.map((a, idx) =>
-          updateRteApplication(schoolId, a.id, { stage: 'lottery', lotteryRank: idx + 1 }, actor),
-        ),
-      );
+      const batch = writeBatch(db);
+      const now = Date.now();
+      shuffled.forEach((a, idx) => {
+        batch.update(tenantDoc(schoolId, 'rte_applications', a.id), {
+          stage: 'lottery',
+          lotteryRank: idx + 1,
+          lastModifiedAt: now,
+          lastModifiedBy: actor.uid,
+        });
+      });
+      await batch.commit();
+      void writeAuditEvent({
+        action: 'rte.application_updated',
+        schoolId,
+        actor,
+        targetType: 'rte_application',
+        summary: `Lottery drawn: ${shuffled.length} applicant${shuffled.length === 1 ? '' : 's'} ranked`,
+      });
       toast.success('Lottery drawn', `${shuffled.length} application${shuffled.length === 1 ? '' : 's'} ranked.`);
       setRunLottery(false);
     } catch {
@@ -128,16 +165,29 @@ export function ApplicationsTab() {
   const transition = async (a: RteApplication, to: RteStage) => {
     if (!schoolId) return;
     setBusy(true);
-    const decided: Partial<RteApplication> =
+    // Reopening (→ applied) must CLEAR the stale lottery rank + decision date. The
+    // typed `updateRteApplication` writer strips `undefined`, so the fields would
+    // persist; write `deleteField()` directly to truly remove them (otherwise a
+    // reopened application keeps a stale rank and is mis-sorted on next draw).
+    const isReopen = to === 'applied';
+    const localPatch: Partial<RteApplication> =
       to === 'admitted' || to === 'rejected' || to === 'withdrawn'
         ? { stage: to, decidedDate: Date.now() }
-        : to === 'applied'
+        : isReopen
           ? { stage: to, decidedDate: undefined, lotteryRank: undefined }
           : { stage: to };
     try {
-      await updateRteApplication(schoolId, a.id, decided, actor);
+      const now = Date.now();
+      await updateDoc(tenantDoc(schoolId, 'rte_applications', a.id), {
+        stage: to,
+        ...(to === 'admitted' || to === 'rejected' || to === 'withdrawn' ? { decidedDate: now } : {}),
+        ...(isReopen ? { decidedDate: deleteField(), lotteryRank: deleteField() } : {}),
+        lastModifiedAt: now,
+        lastModifiedBy: actor.uid,
+      });
+      void writeAuditEvent({ action: 'rte.application_updated', schoolId, actor, targetType: 'rte_application', targetId: a.id, summary: `Moved to ${RTE_STAGE_META[to].label}` });
       toast.success(`Moved to ${RTE_STAGE_META[to].label.toLowerCase()}`, a.applicantName);
-      setDetail((d) => (d && d.id === a.id ? { ...d, ...decided } : d));
+      setDetail((d) => (d && d.id === a.id ? { ...d, ...localPatch } : d));
     } catch {
       toast.error('Could not update');
     } finally {

@@ -1,4 +1,7 @@
 import { useMemo, useState } from 'react';
+import { serverTimestamp, setDoc } from 'firebase/firestore';
+import { tenantDoc } from '@/lib/db';
+import { writeAuditEvent } from '@/lib/audit';
 import { KPICard } from '@/components/KPICard';
 import { Panel } from '@/components/Panel';
 import { Button } from '@/components/Button';
@@ -8,7 +11,7 @@ import { EmptyState, Skeleton } from '@/components/feedback';
 import { useToast } from '@/components/Toast';
 import { formatDate } from '@/lib/format';
 import { useSession, useOwnership } from '@/app/providers/SessionProvider';
-import { useHeadcounts, saveHeadcount, type Actor } from '@/features/ops/data';
+import { useHeadcounts, type Actor } from '@/features/ops/data';
 import { MEAL_TYPE_META, MEAL_TYPE_OPTIONS } from '@/features/ops/meta';
 import type { MealHeadcount, MealType } from '@/types/ops';
 import { mealLabel, todayISO } from './lib';
@@ -37,9 +40,10 @@ export function HeadcountTab() {
   const countNum = Number(count);
   const valid = count.trim() !== '' && Number.isFinite(countNum) && countNum >= 0 && countNum <= 100000;
 
-  // Headcounts are an append log; a duplicate date+meal entry would double-count
-  // in the weekly KPI. Surface any existing entry so the operator records a
-  // correction knowingly rather than by accident.
+  // One headcount per date+meal: the doc id is deterministic (`${date}_${mealType}`)
+  // so re-recording the same slot OVERWRITES rather than appending a duplicate (which
+  // previously double-counted the weekly KPI). Surface any existing value so the
+  // operator knows they're amending an existing entry.
   const dupe = useMemo(
     () => headcounts.find((h) => h.date === date && h.mealType === meal),
     [headcounts, date, meal],
@@ -49,8 +53,20 @@ export function HeadcountTab() {
     if (!schoolId || !valid) return;
     setBusy(true);
     try {
-      await saveHeadcount(schoolId, { schoolId, date, mealType: meal, count: Math.round(countNum), recordedByName: member?.name }, actor);
-      toast.success('Headcount recorded', `${mealLabel(meal)} · ${Math.round(countNum)}`);
+      // Deterministic upsert: re-entry for the same date+meal replaces the count
+      // instead of creating a second doc, so the weekly total can't be doubled.
+      const id = `${date}_${meal}`;
+      await setDoc(
+        tenantDoc(schoolId, 'meal_headcount', id),
+        {
+          schoolId, date, mealType: meal, count: Math.round(countNum),
+          ...(member?.name ? { recordedByName: member.name } : {}),
+          lastModifiedAt: Date.now(), lastModifiedBy: actor.uid, serverModifiedAt: serverTimestamp(),
+        },
+        { merge: true },
+      );
+      void writeAuditEvent({ action: 'canteen.headcount', schoolId, actor, targetType: 'headcount', targetId: id, summary: `${mealLabel(meal)} ${date}: ${Math.round(countNum)}` });
+      toast.success(dupe ? 'Headcount updated' : 'Headcount recorded', `${mealLabel(meal)} · ${Math.round(countNum)}`);
       setCount('');
     } catch {
       toast.error('Could not save');
@@ -102,7 +118,7 @@ export function HeadcountTab() {
           </div>
           {dupe && (
             <p style={{ fontSize: 11.5, color: 'var(--warning)', margin: '8px 0 0', display: 'flex', gap: 6, alignItems: 'center' }}>
-              <Icon name="alert-triangle" size={13} /> {mealLabel(meal)} on this date is already recorded as {dupe.count}. Recording again adds another entry (it does not replace the first).
+              <Icon name="alert-triangle" size={13} /> {mealLabel(meal)} on this date is already recorded as {dupe.count}. Recording again replaces it with the new count.
             </p>
           )}
         </Panel>

@@ -11,7 +11,11 @@ import { useToast } from '@/components/Toast';
 import { useSession, useOwnership } from '@/app/providers/SessionProvider';
 import { useStudents, useGrades, useSections } from '@/features/school/data';
 import { useScopedSectionIds } from '@/features/academics/shared';
-import { useHomework, useHomeworkSubmissions, upsertSubmission, deleteHomework } from '@/features/daily/data';
+import { writeBatch } from 'firebase/firestore';
+import { db } from '@/lib/firebase';
+import { tenantDoc } from '@/lib/db';
+import { writeAuditEvent } from '@/lib/audit';
+import { useHomework, useHomeworkSubmissions, upsertSubmission } from '@/features/daily/data';
 import { HOMEWORK_STATUS_META } from '@/features/daily/meta';
 import { formatDate } from '@/lib/format';
 import type { HomeworkStatus, HomeworkSubmission } from '@/types/daily';
@@ -138,7 +142,27 @@ export function HomeworkDetailPage() {
     if (!schoolId) return;
     setDeleting(true);
     try {
-      await deleteHomework(schoolId, hw.id, actor);
+      // Cascade-delete: remove the homework AND its submission docs in one batch so
+      // `homework_submissions` aren't orphaned (they'd otherwise linger forever,
+      // keyed to a homework id that no longer exists). Firestore batches cap at 500
+      // writes; chunk to stay within the limit for very large classes.
+      const subIds = submissions.map((s) => s.id);
+      const CHUNK = 450;
+      for (let i = 0; i < subIds.length; i += CHUNK) {
+        const batch = writeBatch(db);
+        for (const sid of subIds.slice(i, i + CHUNK)) {
+          batch.delete(tenantDoc(schoolId, 'homework_submissions', sid));
+        }
+        // Delete the homework doc itself in the final chunk (or its own batch if none).
+        if (i + CHUNK >= subIds.length) batch.delete(tenantDoc(schoolId, 'homework', hw.id));
+        await batch.commit();
+      }
+      if (subIds.length === 0) {
+        const batch = writeBatch(db);
+        batch.delete(tenantDoc(schoolId, 'homework', hw.id));
+        await batch.commit();
+      }
+      void writeAuditEvent({ action: 'homework.deleted', schoolId, actor, targetType: 'homework', targetId: hw.id, summary: hw.title });
       toast.success('Homework deleted', hw.title);
       navigate('/homework');
     } catch {

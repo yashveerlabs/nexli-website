@@ -1,17 +1,21 @@
 import {
   addDoc,
+  collection,
   deleteDoc,
   doc,
   getDocs,
   orderBy,
   query,
+  runTransaction,
   serverTimestamp,
   setDoc,
   updateDoc,
   where,
+  writeBatch,
   limit as fsLimit,
   type QueryConstraint,
 } from 'firebase/firestore';
+import { db } from '@/lib/firebase';
 import { tenantCol, tenantDoc, useCollection, useDocument, useTenantDocsByIds } from '@/lib/db';
 import { writeAuditEvent, type AuditAction } from '@/lib/audit';
 import type { Grade, Section } from '@/types/models';
@@ -115,12 +119,79 @@ export function setStudentDoc(schoolId: string, id: string, data: Partial<Studen
   return setIn(schoolId, 'students', id, data, actor);
 }
 
-/** Next sequential admission number, e.g. ADM2026-0042 (best-effort, client-side). */
+/**
+ * Next sequential admission number, e.g. ADM2026-0042. Allocated ATOMICALLY via a
+ * per-year counter document (`admission_counters/{year}`) using a transaction —
+ * the same pattern as fee receipts / certificate serials / POCSO case numbers.
+ *
+ * The previous implementation counted existing student docs (`getDocs().size + 1`,
+ * capped at 1000): two clerks admitting at the same moment both read the same
+ * size and minted the SAME admission number, and the 1000-cap silently recycled
+ * numbers once a school crossed 1000 students. The counter removes both races.
+ */
 export async function nextAdmissionNo(schoolId: string, year?: string): Promise<string> {
   const yr = (year ?? `${new Date().getFullYear()}`).slice(0, 4);
-  const snap = await getDocs(query(tenantCol(schoolId, 'students'), fsLimit(1000)));
-  const n = snap.size + 1;
-  return `ADM${yr}-${String(n).padStart(4, '0')}`;
+  const counterRef = tenantDoc(schoolId, 'admission_counters', yr);
+  const next = await runTransaction(db, async (tx) => {
+    const snap = await tx.get(counterRef);
+    const n = ((snap.data()?.value as number | undefined) ?? 0) + 1;
+    tx.set(counterRef, { value: n, schoolId }, { merge: true });
+    return n;
+  });
+  return `ADM${yr}-${String(next).padStart(4, '0')}`;
+}
+
+/**
+ * Convert an admission into a student ATOMICALLY. The student create and the
+ * admission update (`stage: 'admitted'` + `convertedStudentId`) are committed in a
+ * single `writeBatch`, so a network drop can never leave an orphaned student with
+ * no `convertedStudentId` (or an admission marked admitted with no student).
+ * Returns the new student id. Audit events are written best-effort post-commit.
+ */
+export async function admitApplicant(
+  schoolId: string,
+  admissionId: string,
+  studentData: Omit<Student, 'id'>,
+  actor: Actor,
+  admissionSummary?: string,
+): Promise<string> {
+  const studentRef = doc(collection(db, 'schools', schoolId, 'students'));
+  const batch = writeBatch(db);
+  batch.set(studentRef, {
+    ...stripUndefined(studentData),
+    schoolId,
+    createdAt: Date.now(),
+    createdBy: actor.uid,
+    serverCreatedAt: serverTimestamp(),
+    version: 1,
+  });
+  batch.update(tenantDoc(schoolId, 'admissions', admissionId), {
+    ...stripUndefined({ stage: 'admitted', convertedStudentId: studentRef.id } as Partial<Admission>),
+    lastModifiedAt: Date.now(),
+    lastModifiedBy: actor.uid,
+  });
+  await batch.commit();
+  void writeAuditEvent({ action: 'student.created', schoolId, actor, targetType: 'student', targetId: studentRef.id, summary: studentData.fullName });
+  void writeAuditEvent({ action: 'admission.updated', schoolId, actor, targetType: 'admission', targetId: admissionId, summary: admissionSummary });
+  return studentRef.id;
+}
+
+/**
+ * Next transfer-certificate number, e.g. TC/2026/0042. Allocated ATOMICALLY via a
+ * per-year counter (`tc_counters/{year}`) transaction — same pattern as admission
+ * numbers / fee receipts. Replaces `Date.now().slice(-4)`, which collided for any
+ * two TCs issued within the same ~10-second window (and wrapped every ~10s).
+ */
+export async function nextTcNumber(schoolId: string, year?: string): Promise<string> {
+  const yr = (year ?? `${new Date().getFullYear()}`).slice(0, 4);
+  const counterRef = tenantDoc(schoolId, 'tc_counters', yr);
+  const next = await runTransaction(db, async (tx) => {
+    const snap = await tx.get(counterRef);
+    const n = ((snap.data()?.value as number | undefined) ?? 0) + 1;
+    tx.set(counterRef, { value: n, schoolId }, { merge: true });
+    return n;
+  });
+  return `TC/${yr}/${String(next).padStart(4, '0')}`;
 }
 
 /* ============================ Admissions ============================ */

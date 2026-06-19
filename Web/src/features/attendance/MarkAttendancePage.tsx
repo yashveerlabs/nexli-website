@@ -64,13 +64,19 @@ export function MarkAttendancePage() {
     [students, sectionId],
   );
 
+  // Stable identity of the roster (sorted ids) — a same-size student swap changes
+  // this key but NOT roster.length, so depending on length would seed entries under
+  // the wrong studentId. Depend on the key instead.
+  const rosterKey = useMemo(() => roster.map((s) => s.id).join(','), [roster]);
+
   // Seed entries when the section/date changes (existing marks, else all present).
   useEffect(() => {
     if (!sectionId) return;
     const seed: Record<string, AttendanceStatus> = {};
     for (const s of roster) seed[s.id] = existing?.entries?.[s.id] ?? 'present';
     setEntries(seed);
-  }, [sectionId, date, existing, roster.length]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [sectionId, date, existing, rosterKey]);
 
   const gradeName = (gid?: string) => grades.find((g) => g.id === gid)?.name;
   const sectionOptions = assignableSections.map((s) => ({ value: s.id, label: `${gradeName(s.gradeId) ?? ''} ${s.name}`.trim() }));
@@ -285,6 +291,20 @@ export function MarkAttendancePage() {
               {counts.leave > 0 && <span className="nx-att-chip nx-att-chip--leave">{counts.leave} Leave</span>}
             </div>
             {canSaveSelection && <Button variant="subtle" size="sm" leftIcon="check-circle" onClick={() => setAll('present')}>All present</Button>}
+          </div>
+
+          {/* Legend so teachers know what the segmented status codes mean. */}
+          <div className="nx-att-legend" role="list" aria-label="Status code key"
+            style={{ display: 'flex', flexWrap: 'wrap', gap: 10, margin: '0 0 10px', fontSize: 11.5, color: 'var(--text-muted)' }}>
+            {QUICK.map((st) => {
+              const m = ATTENDANCE_STATUS_META[st];
+              return (
+                <span key={st} role="listitem" style={{ display: 'inline-flex', alignItems: 'center', gap: 5 }}>
+                  <span aria-hidden="true" style={{ display: 'inline-flex', minWidth: 18, height: 18, padding: '0 4px', alignItems: 'center', justifyContent: 'center', borderRadius: 5, fontWeight: 700, fontSize: 10.5, color: m.color, border: `1px solid ${m.color}` }}>{m.short}</span>
+                  {m.label}
+                </span>
+              );
+            })}
           </div>
 
           <Panel bodyClassName="nx-att-roster">

@@ -9,9 +9,9 @@ import { Field, Select } from '@/components/form';
 import { EmptyState, InfoCard } from '@/components/feedback';
 import { useToast } from '@/components/Toast';
 import { useSession } from '@/app/providers/SessionProvider';
-import { useGrades, useSections, createStudent, nextAdmissionNo } from '@/features/school/data';
+import { useGrades, useSections, useStudents, createStudent, nextAdmissionNo } from '@/features/school/data';
 import { IMPORT_FIELDS, autoMap, buildTemplateCsv, parseCsv, type ImportField, type ParsedCsv } from './csv';
-import { validateRow, rowToStudent, type ImportRow } from './validate';
+import { validateRow, rowToStudent, findDuplicateStudent, type ImportRow } from './validate';
 import '@/features/school/school.css';
 import './import.css';
 
@@ -33,6 +33,7 @@ export function StudentImportPage() {
   const { schoolId, uid, member, school } = useSession();
   const { data: grades } = useGrades(schoolId);
   const { data: sections } = useSections(schoolId);
+  const { data: existingStudents } = useStudents(schoolId);
 
   const [step, setStep] = useState<Step>('upload');
   const [fileName, setFileName] = useState('');
@@ -58,6 +59,13 @@ export function StudentImportPage() {
     reader.readAsText(file);
   };
 
+  // Header text the user mapped the guardian-name column to (e.g. "Father Name"),
+  // used to preserve the guardian relation instead of defaulting to 'guardian'.
+  const guardianHeader = useMemo(() => {
+    const idx = parsed ? mapping.guardianName : undefined;
+    return parsed && idx != null && idx >= 0 ? parsed.headers[idx] : undefined;
+  }, [parsed, mapping]);
+
   const mappedRows = useMemo<ImportRow[]>(() => {
     if (!parsed) return [];
     return parsed.rows.map((row, i) => {
@@ -70,8 +78,22 @@ export function StudentImportPage() {
     });
   }, [parsed, mapping, grades, sections]);
 
-  const validCount = mappedRows.filter((r) => r.valid).length;
+  // Duplicate detection against existing Firestore students (by admission no, or
+  // name+DOB). Duplicates are WARNED and SKIPPED on import (not written).
+  const duplicateByIndex = useMemo(() => {
+    const m = new Map<number, string>();
+    for (const r of mappedRows) {
+      if (!r.valid) continue;
+      const reason = findDuplicateStudent(r.raw, existingStudents);
+      if (reason) m.set(r.index, reason);
+    }
+    return m;
+  }, [mappedRows, existingStudents]);
+
+  const validRows = mappedRows.filter((r) => r.valid && !duplicateByIndex.has(r.index));
+  const validCount = validRows.length;
   const invalidRows = mappedRows.filter((r) => !r.valid);
+  const duplicateRows = mappedRows.filter((r) => r.valid && duplicateByIndex.has(r.index));
 
   const runImport = async () => {
     if (!schoolId) return;
@@ -88,9 +110,14 @@ export function StudentImportPage() {
 
       for (const r of mappedRows) {
         if (!r.valid) continue;
+        // Skip rows flagged as duplicates of existing students (warned in preview).
+        if (duplicateByIndex.has(r.index)) {
+          reasons.push(`Row ${r.index}: skipped — ${duplicateByIndex.get(r.index)}`);
+          continue;
+        }
         const adm = r.raw.admissionNo?.trim() || `${prefix}${String(counter++).padStart(4, '0')}`;
         try {
-          const payload = rowToStudent(r.raw, adm, grades, sections);
+          const payload = rowToStudent(r.raw, adm, grades, sections, guardianHeader);
           await createStudent(schoolId, { ...payload, schoolId }, actor);
           imported++;
         } catch {
@@ -186,9 +213,22 @@ export function StudentImportPage() {
         <Panel title="Review" sub={`${validCount} of ${mappedRows.length} ready`}>
           <div className="nx-statstrip" style={{ marginBottom: 16 }}>
             <div className="nx-statstrip__item"><div className="nx-statstrip__val">{mappedRows.length}</div><div className="nx-statstrip__lbl">Total rows</div></div>
-            <div className="nx-statstrip__item"><div className="nx-statstrip__val" style={{ color: 'var(--success)' }}>{validCount}</div><div className="nx-statstrip__lbl">Valid</div></div>
+            <div className="nx-statstrip__item"><div className="nx-statstrip__val" style={{ color: 'var(--success)' }}>{validCount}</div><div className="nx-statstrip__lbl">Ready</div></div>
+            <div className="nx-statstrip__item"><div className="nx-statstrip__val" style={{ color: 'var(--warning)' }}>{duplicateRows.length}</div><div className="nx-statstrip__lbl">Duplicates</div></div>
             <div className="nx-statstrip__item"><div className="nx-statstrip__val" style={{ color: 'var(--danger)' }}>{invalidRows.length}</div><div className="nx-statstrip__lbl">With errors</div></div>
           </div>
+          {duplicateRows.length > 0 && (
+            <div className="nx-import__errors">
+              <div className="nx-import__errhead"><Icon name="alert-triangle" size={14} /> {duplicateRows.length} duplicate{duplicateRows.length === 1 ? '' : 's'} will be skipped</div>
+              {duplicateRows.slice(0, 30).map((r) => (
+                <div className="nx-import__errrow" key={r.index}>
+                  <span className="nx-import__errno">Row {r.index}</span>
+                  <span className="nx-import__errmsg">{duplicateByIndex.get(r.index)}</span>
+                </div>
+              ))}
+              {duplicateRows.length > 30 && <div className="nx-import__errrow"><span className="nx-import__errmsg">…and {duplicateRows.length - 30} more</span></div>}
+            </div>
+          )}
           {invalidRows.length > 0 && (
             <div className="nx-import__errors">
               <div className="nx-import__errhead"><Icon name="alert-triangle" size={14} /> {invalidRows.length} row{invalidRows.length === 1 ? '' : 's'} will be skipped</div>
