@@ -1,0 +1,224 @@
+---
+title: "Monitor Teacher Performance Through Data"
+slug: monitor-teacher-performance-through-data
+category: 9
+order: 42
+---
+
+# Monitor Teacher Performance Through Data
+
+Data provides objective evidence of teacher effectiveness. Use data to support improvement and ensure accountability.
+
+## Key Performance Indicators
+
+**Student Achievement**
+- Student test scores
+- Growth over time
+- Subject-specific performance
+- Grade-level comparison
+- Subgroup analysis
+- Pre/post assessment
+- Multiple measures
+
+**Student Engagement**
+- Attendance and participation
+- Homework completion
+- Class participation
+- Student feedback
+- Behavior referrals
+- Course completion rates
+- Engagement surveys
+
+**Instructional Quality**
+- Observation rubrics
+- Lesson quality evidence
+- Student work samples
+- Assessment quality
+- Feedback to students
+- Differentiation evidence
+- Student-centered instruction
+
+**Professional Practice**
+- Professional development participation
+- Collaboration evidence
+- Curriculum implementation
+- Standards alignment
+- Data use
+- Continuous improvement
+- Professionalism
+
+## Data Collection
+
+**Student Achievement Data**
+- Regular formative assessments
+- Unit tests and benchmarks
+- Standardized assessments
+- Grade distributions
+- Progress monitoring
+- Multiple sources
+- Grade level and subject
+
+**Observation Data**
+- Classroom observations
+- Lesson plans
+- Student work and feedback
+- Teaching logs
+- Video recording (if available)
+- Specific evidence
+- Multiple observations
+
+**Survey Data**
+- Student feedback on teaching
+- Parent feedback
+- Peer feedback
+- Self-assessment
+- Climate surveys
+- Perception data
+- Qualitative input
+
+**Comparative Data**
+- Teacher comparison (same grade/subject)
+- Prior years comparison
+- Growth trajectories
+- Peer benchmarks
+- Value-added analysis
+- Fair comparison
+- Context matters
+
+## Data Analysis
+
+**Look for Patterns**
+- Consistent high/low performance
+- Growth or decline
+- Subgroup disparities
+- Subject-specific trends
+- Correlation with practices
+- Root causes
+- Actionable insights
+
+**Individual Teacher Analysis**
+- Complete profile
+- Strengths and areas for growth
+- Student achievement trend
+- Instructional quality evidence
+- Professional contribution
+- Unique context
+- Fair assessment
+
+**School-Wide Analysis**
+- Overall trends
+- Grade-level patterns
+- Subject areas
+- Equity gaps
+- School performance vs. peers
+- Strategic priorities implications
+- Whole-school needs
+
+## Using Data for Improvement
+
+**Professional Conversations**
+- Share data respectfully
+- Collaborative interpretation
+- What does it tell us?
+- Why might this be?
+- What can we do?
+- Support and resources needed
+- Goal-setting
+
+**Targeted Support**
+- Coaching on weak areas
+- Professional development
+- Peer observation and learning
+- Model lessons
+- Resource provision
+- Accountability and support
+- Balance of care and challenge
+
+**Recognition**
+- Celebrate strong performance
+- Public recognition
+- Highlight successful practices
+- Share with peers
+- Leadership opportunities
+- Compensation and advancement
+- Model excellence
+
+## Fair and Effective Use
+
+**Avoid Pitfalls**
+- Single measure not enough
+- Context matters
+- Multiple data points needed
+- Qualitative and quantitative
+- Fair comparison standards
+- Avoid unfair judgment
+- Holistic picture
+
+**Transparency**
+- Share data with teachers
+- Explain metrics
+- Collaborative analysis
+- Understanding of standards
+- Opportunity to explain context
+- Trust and respect
+- Partnership approach
+
+**Confidentiality**
+- Individual data private
+- Not public shaming
+- Professional respect
+- Secure storage
+- Limited access
+- Privacy protected
+- Dignity maintained
+
+## Documentation
+
+**Evaluation Records**
+- Evidence compilation
+- Observation notes
+- Student achievement data
+- Assessment results
+- Feedback provided
+- Support offered
+- Progress over time
+
+**Sharing Results**
+- Formal evaluation meetings
+- Written evaluation documentation
+- Discussion of findings
+- Opportunity for teacher input
+- Goals for improvement
+- Support plan if needed
+- Clear expectations
+
+## Special Situations
+
+**Struggling Teacher**
+- Clear data evidence
+- Specific performance gaps
+- Support offered
+- Progress monitored
+- Evaluation of improvement
+- Honest assessment
+- Possible performance plan or termination
+
+**New Teacher**
+- More frequent observations
+- Higher support
+- Growth expected
+- Clear expectations
+- Mentoring
+- Data-informed coaching
+- Fair evaluation
+
+**Experienced Teacher**
+- Continued monitoring
+- Data still used
+- Complacency check
+- Growth expected
+- New challenges offered
+- Data-informed feedback
+- Professional growth
+
+Data provides objective evidence to ensure every student has quality teaching. Use it wisely and fairly to support improvement.
