@@ -4,6 +4,7 @@ import {
 } from 'firebase/firestore';
 import { tenantCol, tenantDoc, useCollection, useDocument } from '@/lib/db';
 import { writeAuditEvent, type AuditAction } from '@/lib/audit';
+import { attendanceSinceCutoff, type AttendanceWindow } from './attendanceWindow';
 import type {
   AttendanceDay, Assessment, AssessmentResult, Homework, HomeworkSubmission,
   Exam, ExamPaper, ExamResult, LibraryBook, BookCirculation, Circular, PTMSlot,
@@ -66,8 +67,30 @@ export function useAttendanceBySections(schoolId?: string, sectionIds?: readonly
     [schoolId, key],
   );
 }
-export function useAllAttendance(schoolId?: string) {
-  return useCollection<AttendanceDay>(schoolId ? tenantCol(schoolId, 'attendance_days') : null, [schoolId]);
+// Pure date-window helper lives in its own dependency-free module (testable
+// without pulling Firebase init); re-exported here for existing import paths.
+export { attendanceSinceCutoff };
+export type { AttendanceWindow };
+
+/**
+ * School-wide attendance days. BACKWARD-COMPATIBLE: with no `opts` it reads the
+ * whole `attendance_days` collection exactly as before (the only caller that
+ * relies on this is `MarkAttendancePage`'s pre-selection summary).
+ *
+ * Pass a bound — `{ sinceDays }` (rolling window) or `{ since }` (explicit
+ * `'yyyy-mm-dd'`) — and a server-side `where('date', '>=', cutoff)` is added so
+ * the read is scoped to the period the screen actually shows, instead of all
+ * history. The query key tracks the cutoff so the listener re-subscribes when
+ * the window changes.
+ */
+export function useAllAttendance(schoolId?: string, opts?: AttendanceWindow) {
+  const cutoff = attendanceSinceCutoff(opts);
+  const q = schoolId
+    ? cutoff
+      ? query(tenantCol(schoolId, 'attendance_days'), where('date', '>=', cutoff))
+      : tenantCol(schoolId, 'attendance_days')
+    : null;
+  return useCollection<AttendanceDay>(q, [schoolId, cutoff], schoolId ? `${schoolId}|${cutoff ?? ''}` : undefined);
 }
 export async function saveAttendanceDay(schoolId: string, day: Omit<AttendanceDay, 'id'>, actor: Actor): Promise<void> {
   const id = attendanceDayId(day.sectionId, day.date, day.period);

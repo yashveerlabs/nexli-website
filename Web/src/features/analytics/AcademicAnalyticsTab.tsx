@@ -13,6 +13,14 @@ import { ATTENDANCE_MIN_PERCENT } from '@/features/daily/meta';
 import type { AttendanceDay } from '@/types/daily';
 import { AiInsightsPanel } from './AiInsightsPanel';
 
+/**
+ * Attendance window analysed here. The screen has no term/date picker, so we use
+ * a rolling ~term-length (one quarter) window: long enough for a fair attendance
+ * %, distribution and at-risk read, while bounding the Firestore read instead of
+ * scanning all history.
+ */
+const ATT_WINDOW_DAYS = 90;
+
 function pctFor(days: AttendanceDay[], studentId: string) {
   let present = 0, total = 0;
   for (const d of days) {
@@ -27,7 +35,7 @@ function pctFor(days: AttendanceDay[], studentId: string) {
 export function AcademicAnalyticsTab() {
   const { schoolId } = useSession();
   const { data: students, loading: sLoading, error: sError } = useStudents(schoolId);
-  const { data: attendance, loading: aLoading, error: aError } = useAllAttendance(schoolId);
+  const { data: attendance, loading: aLoading, error: aError } = useAllAttendance(schoolId, { sinceDays: ATT_WINDOW_DAYS });
   const { data: grades } = useGrades(schoolId);
 
   const active = useMemo(() => students.filter((s) => s.status === 'active'), [students]);

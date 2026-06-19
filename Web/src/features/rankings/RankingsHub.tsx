@@ -15,6 +15,14 @@ import type { Student } from '@/types/sis';
 type TabId = 'marks' | 'attendance';
 const PAGE = 25;
 
+/**
+ * Attendance-ranking window. There is no term selector on this leaderboard, so
+ * rather than rank on all-time attendance (an ever-growing whole-collection
+ * read) we rank on a rolling ~term-length (one quarter) present-day %, matching
+ * the analytics screen's window. Keeps the board a current-standing view.
+ */
+const ATT_WINDOW_DAYS = 90;
+
 interface RankRow {
   student: Student;
   value: number; // % (0–100)
@@ -211,7 +219,7 @@ function MarksRanking({ schoolId }: { schoolId?: string }) {
 
 function AttendanceRanking({ schoolId }: { schoolId?: string }) {
   const { sLoading, scoped, page, setPage, ScopeBar } = useScope(schoolId);
-  const { data: attendance, loading: aLoading } = useAllAttendance(schoolId);
+  const { data: attendance, loading: aLoading } = useAllAttendance(schoolId, { sinceDays: ATT_WINDOW_DAYS });
 
   const rows = useMemo<RankRow[]>(
     () => scoped.flatMap((s) => {
@@ -225,6 +233,7 @@ function AttendanceRanking({ schoolId }: { schoolId?: string }) {
   if (sLoading || aLoading) return <Skeleton height={300} />;
   return (
     <div>
+      <p className="nx-page__sub" style={{ marginBottom: 10 }}>Present-day % over the last {ATT_WINDOW_DAYS} days.</p>
       {ScopeBar}
       <RankList
         rows={rows} page={page} setPage={setPage} valueSuffix="%"

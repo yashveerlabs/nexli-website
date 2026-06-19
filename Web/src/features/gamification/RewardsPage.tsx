@@ -19,6 +19,22 @@ const greeting = () => {
 };
 
 /**
+ * Start date (`'yyyy-mm-dd'`) of the CURRENT academic session, used to bound the
+ * attendance read that feeds XP / streaks. The engine sums lifetime present-days
+ * and tracks a *best* streak, so a short rolling window would wrongly shrink XP
+ * and reset the best streak; instead we scope to the active session (Indian
+ * Apr→Mar). Tradeoff: points and streaks reflect THIS school year rather than
+ * accumulating across years — the intended product behaviour — and the read is
+ * capped at one session instead of scanning all history.
+ */
+function sessionStart(now: Date = new Date()): string {
+  const y = now.getFullYear();
+  // Apr (month 3) onwards belongs to year Y's session; Jan–Mar to (Y-1)'s.
+  const startYear = now.getMonth() >= 3 ? y : y - 1;
+  return `${startYear}-04-01`;
+}
+
+/**
  * Student-facing rewards / gamification screen (Phase 1).
  *
  * Everything is computed live from the student's real attendance, homework,
@@ -87,7 +103,9 @@ function RewardsBody({
   tags?: string[];
 }) {
   const { schoolId } = useSession();
-  const { data: attendance, loading: aLoading } = useAllAttendance(schoolId);
+  // Bound the attendance read to the current academic session (see sessionStart):
+  // preserves XP / best-streak correctness for this year while capping the read.
+  const { data: attendance, loading: aLoading } = useAllAttendance(schoolId, { since: sessionStart() });
   const { data: submissions, loading: sLoading } = useMySubmissions(schoolId, studentId);
   const { data: circulation, loading: cLoading } = useMyCirculation(schoolId, studentId);
   const { data: houses, loading: hLoading } = useHouses(schoolId);

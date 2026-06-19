@@ -20,6 +20,13 @@ import './dashboards.css';
 const TEACHING_ROLES: RoleId[] = ['class_teacher', 'subject_teacher', 'substitute_teacher', 'hod', 'special_educator', 'sports_teacher', 'arts_teacher'];
 const todayStr = () => new Date().toISOString().slice(0, 10);
 
+/**
+ * Attendance window this dashboard reads. The headline KPIs are today-only and
+ * the health/at-risk breakdown is a recent-trend signal, so a rolling ~6-week
+ * window is both accurate for what's shown and far cheaper than all-history.
+ */
+const ATT_WINDOW_DAYS = 45;
+
 /** Attendance threshold below which a student / day is flagged a concern (red). */
 const AT_RISK_PCT = 75;
 const HEALTHY_PCT = 90;
@@ -41,7 +48,7 @@ export function StaffDashboard() {
   const { data: staff } = useStaff(schoolId);
   const { data: sections } = useSections(schoolId);
   const { data: grades } = useGrades(schoolId);
-  const { data: attendance } = useAllAttendance(schoolId);
+  const { data: attendance } = useAllAttendance(schoolId, { sinceDays: ATT_WINDOW_DAYS });
   const { data: circulars } = useCirculars(schoolId);
 
   // Fee data is only read for leadership/finance roles (gated below before render).
@@ -252,7 +259,7 @@ export function StaffDashboard() {
             {/* Attendance distribution donut */}
             <Panel
               title="Attendance health"
-              sub="all tracked students"
+              sub={`last ${ATT_WINDOW_DAYS} days`}
               headerRight={<PanelAction onClick={() => undefined}><Link to="/attendance" style={{ color: 'inherit' }}>Open</Link></PanelAction>}
             >
               {attInsights.tracked === 0 ? (

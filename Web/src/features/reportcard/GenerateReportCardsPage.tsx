@@ -18,6 +18,21 @@ import type { ReportCardScheme } from '@/types/reportcard';
 import './reportcard.css';
 
 /**
+ * Lower-bound `date` (`'yyyy-mm-dd'`) for the attendance read backing a report
+ * card. Cards are scoped to one academic year, and `ReportCardTerm` carries no
+ * date bounds, so the correct (and read-bounding) window is that academic year —
+ * not all of history. Indian sessions run Apr→Mar, so we take Apr 1 of the
+ * session's start year. Accepts "2025-26", "2025/26" or a bare "2025"; falls
+ * back to Apr 1 of the prior year when the string can't be parsed (keeps a full
+ * session of data rather than risk clipping it).
+ */
+function academicYearStart(academicYear: string): string {
+  const m = academicYear.match(/\d{4}/);
+  const startYear = m ? Number(m[0]) : new Date().getFullYear() - 1;
+  return `${startYear}-04-01`;
+}
+
+/**
  * Generate flow: pick a scheme + class/section + term → preview the auto-filled
  * batch (each row = a student with computed totals / grade / result / rank) →
  * "Create drafts". Existing cards are never overwritten.
@@ -29,6 +44,11 @@ export function GenerateReportCardsPage() {
   const canWrite = can('gradebook.write') || can('exams.write');
   const actor: Actor = { uid: uid ?? 'unknown', name: member?.name };
 
+  // Academic year drives the attendance window below, so it (and its state) is
+  // declared before the attendance read. Accepts free text like "2025-26".
+  const [year, setYear] = useState('');
+  const academicYear = year.trim() || `${new Date().getFullYear()}`;
+
   const { data: schemes, loading: schemesLoading } = useSchemes(schoolId);
   const { data: students, loading: sLoading } = useStudents(schoolId);
   const { data: grades } = useGrades(schoolId);
@@ -36,7 +56,9 @@ export function GenerateReportCardsPage() {
   const { data: exams } = useExams(schoolId);
   const { data: papers } = useAllExamPapers(schoolId);
   const { data: results } = useAllExamResults(schoolId);
-  const { data: attendance } = useAllAttendance(schoolId);
+  // Scope attendance to the card's academic year (Apr→Mar) rather than reading
+  // all history; the term's recorded days are a subset of that window.
+  const { data: attendance } = useAllAttendance(schoolId, { since: academicYearStart(academicYear) });
   const { data: existingCards } = useReportCards(schoolId);
 
   // Schemes available = persisted + any seed not yet persisted (so generation works day one).
@@ -51,11 +73,9 @@ export function GenerateReportCardsPage() {
   const [gradeId, setGradeId] = useState('');
   const [sectionId, setSectionId] = useState('');
   const [term, setTerm] = useState('');
-  const [year, setYear] = useState('');
   const [running, setRunning] = useState(false);
 
   const scheme = allSchemes.find((s) => s.id === schemeId);
-  const academicYear = year.trim() || `${new Date().getFullYear()}`;
 
   const sectionOptions = useMemo(
     () => [

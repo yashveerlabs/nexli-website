@@ -26,6 +26,13 @@ const todayStr = () => new Date().toISOString().slice(0, 10);
 const AT_RISK_PCT = 75;
 const HEALTHY_PCT = 90;
 
+/**
+ * Attendance window this dashboard reads. Headlines are today-only and the
+ * health/at-risk breakdown is a recent-trend signal, so a rolling ~6-week window
+ * is accurate for what's shown and far cheaper than reading all history.
+ */
+const ATT_WINDOW_DAYS = 45;
+
 function greeting() {
   const h = new Date().getHours();
   return h < 12 ? 'Good morning' : h < 17 ? 'Good afternoon' : 'Good evening';
@@ -37,7 +44,7 @@ export function ExecutiveDashboard() {
   const { data: staff } = useStaff(schoolId);
   const { data: sections } = useSections(schoolId);
   const { data: grades } = useGrades(schoolId);
-  const { data: attendance } = useAllAttendance(schoolId);
+  const { data: attendance } = useAllAttendance(schoolId, { sinceDays: ATT_WINDOW_DAYS });
   const { data: circulars } = useCirculars(schoolId);
   // Executive roles always have the institutional financial view.
   const { data: invoices } = useInvoices(schoolId);
@@ -291,7 +298,7 @@ function ChairmanView(props: {
 
       {/* ---- Academic performance ---- */}
       <div className="grid g-2">
-        <Panel title="Attendance health" sub="all tracked students">
+        <Panel title="Attendance health" sub={`last ${ATT_WINDOW_DAYS} days`}>
           <AttendanceHealthDonut attInsights={attInsights} />
         </Panel>
         <Panel title="Attendance by grade" sub="today, ranked">
