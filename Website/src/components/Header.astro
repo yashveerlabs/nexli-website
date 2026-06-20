@@ -1,8 +1,7 @@
 ---
 import Logo from "./Logo.astro";
 import Icon from "./Icon.astro";
-import { NAV, DEMO_HREF, whatsappHref } from "../lib/site";
-const wa = whatsappHref();
+import { NAV, DEMO_HREF, INSTAGRAM_URL, INSTAGRAM_HANDLE, PRIMARY_CTA } from "../lib/site";
 ---
 <header id="site-header" class="fixed inset-x-0 top-0 z-50 transition-colors duration-300">
   <div class="container-nx">
@@ -47,10 +46,18 @@ const wa = whatsappHref();
       </nav>
 
       <div class="hidden items-center gap-3 lg:flex">
-        <a href={DEMO_HREF} class="btn btn-ghost" style="padding:0.6rem 1.1rem;font-size:0.85rem">Live Demo</a>
-        <a href={wa} target="_blank" rel="noopener" class="btn btn-gold" style="padding:0.6rem 1.2rem;font-size:0.85rem">
-          <Icon name="whatsapp" size={17} />
-          Contact
+        <a
+          href={INSTAGRAM_URL}
+          target="_blank"
+          rel="noopener"
+          aria-label={`Message Yashveer Labs on Instagram (${INSTAGRAM_HANDLE})`}
+          class="inline-flex h-9 w-9 items-center justify-center rounded-full border border-line text-ivory-muted transition-colors hover:border-gold/50 hover:text-gold-200"
+        >
+          <Icon name="instagram" size={18} />
+        </a>
+        <a href={PRIMARY_CTA.href} class="btn btn-gold" style="padding:0.6rem 1.2rem;font-size:0.85rem">
+          <Icon name="sparkle" size={16} />
+          Book Free Demo
         </a>
       </div>
 
@@ -92,9 +99,11 @@ const wa = whatsappHref();
         )
       )}
       <div class="mt-4 flex flex-col gap-3">
-        <a href={DEMO_HREF} class="btn btn-ghost">Try the live demo</a>
-        <a href={wa} target="_blank" rel="noopener" class="btn btn-gold">
-          <Icon name="whatsapp" size={18} /> Contact on WhatsApp
+        <a href={PRIMARY_CTA.href} class="btn btn-gold">
+          <Icon name="sparkle" size={18} /> {PRIMARY_CTA.label}
+        </a>
+        <a href={INSTAGRAM_URL} target="_blank" rel="noopener" class="btn btn-ghost">
+          <Icon name="instagram" size={18} /> Message on Instagram
         </a>
       </div>
     </nav>

@@ -5,13 +5,11 @@ interface Props {
   eyebrow?: string;
   title?: string;
   text?: string;
-  message?: string;
 }
 const {
   eyebrow = "Get started",
   title = "Ready to bring clarity to your school?",
-  text = "Tell us about your school on WhatsApp and we'll show you exactly how Nexli fits. No obligation, no credit card, just a clear conversation.",
-  message,
+  text = "Explore the whole platform in a free, no-signup live demo, then message us on Instagram and we'll show you exactly how Nexli fits. No obligation, just a clear conversation.",
 } = Astro.props;
 ---
 <section class="section">
@@ -22,7 +20,7 @@ const {
         <p class="eyebrow justify-center">{eyebrow}</p>
         <h2 class="mt-4 text-3xl md:text-4xl">{title}</h2>
         <p class="mx-auto mt-4 max-w-xl text-ivory-muted">{text}</p>
-        <CtaButtons class="mt-8" align="center" message={message} />
+        <CtaButtons class="mt-8" align="center" />
       </div>
     </div>
   </div>

@@ -9,8 +9,7 @@ import { webPage } from "../lib/seo";
 
 const title = "Founding Partner Program";
 const description =
-  "Be one of the first schools on Nexli. Founding partners get a discounted rate, hands-on setup and data migration, a month-to-month exit and a money-back commitment.";
-const waMsg = "Hi Nexli team, I'd like to know more about becoming a Founding Partner school.";
+  "Be one of the first schools on Nexli. Founding partners get the founding rate, hands-on setup and data migration, a month-to-month exit and a money-back commitment.";
 
 const give = [
   { icon: "fees", title: "A discounted founding rate", desc: "A materially lower price than standard, locked for your founding period, because you're taking the early bet with us." },
@@ -39,7 +38,7 @@ const faqs = [
     lead="We're not going to show you fabricated case studies or invented logos. Instead, we'd rather invite you to help write the real ones, as a founding partner."
     breadcrumbs={[{ label: "Founding Partner" }]}
   >
-    <CtaButtons contactLabel="Apply on WhatsApp" demoLabel="Try the live demo" message={waMsg} />
+    <CtaButtons primaryLabel="Book Free Live Demo" secondaryLabel="Apply on Instagram" />
   </PageHero>
 
   <!-- Honesty note -->
@@ -102,7 +101,6 @@ const faqs = [
   <CtaBand
     eyebrow="Limited cohort"
     title="Want to be a founding school?"
-    text="Tell us about your school on WhatsApp. If it's a fit, we'll set up a proper conversation, with no obligation."
-    message={waMsg}
+    text="Tell us about your school on Instagram. If it's a fit, we'll set up a proper conversation, with no obligation."
   />
 </BaseLayout>

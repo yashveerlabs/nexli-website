@@ -130,23 +130,28 @@ punctuation artifacts (none).
    "open APIs" string in the corpus is generic ERP-vendor-selection advice, not a
    Nexli claim, and is correct to keep.
 
-## 6. Owner-only values still pending (each degrades gracefully)
+## 6. Owner-only values still pending
 
-These need real-world input from you; nothing else is incomplete. The site looks and
-works as finished without them, and upgrades automatically once you set each one.
+After the owner interview (see §9), almost everything real-world is now wired in.
+Only two items remain, and both are deliberate choices, not gaps.
 
-| # | Value | Where | Current graceful behaviour |
+| # | Value | Where | Status |
 |---|---|---|---|
-| 1 | **WhatsApp Business number** | `src/lib/site.ts` → `WHATSAPP_NUMBER` | All WhatsApp CTAs route to `/contact`; floating button hidden. Set it (country code + digits, e.g. `919812345678`) and every CTA becomes a direct WhatsApp link. |
-| 2 | **Production domain** | `src/lib/site.ts` → `SITE.url` **and** `astro.config.mjs` → `site` (and `public/robots.txt`) | Uses the `https://domain.com` placeholder for canonical/OG/sitemap. Replace in all three once a domain is registered. Do **not** use a Nexli-branded domain until it exists. |
-| 3 | **Web3Forms access key** | `src/lib/site.ts` → `WEB3FORMS_KEY` | Contact form renders and confirms politely without POSTing. Paste a free key from web3forms.com to switch the real email form on. |
-| 4 | **Founder photo** | `src/pages/founder.astro` (+ `public/founder.jpg`) | Elegant "YSR" monogram tile in place. Drop a real photo at `public/founder.jpg` and swap the monogram block. |
+| 1 | **Production domain** | `src/lib/site.ts` → `SITE.url`, `astro.config.mjs` → `site`, `public/robots.txt` | **Deferred by choice.** Owner is launching first (GitHub + Vercel) and will buy a domain after onboarding ~10–15 schools. The `https://domain.com` placeholder stays in all three until then; never a Nexli-branded domain before it exists. |
+| 2 | **Exact pricing figures** | `src/pages/pricing.astro` → `tiers[]` | **By design, no rupee figures.** The two tiers (Founding School / Standard School) are clearly differentiated; the exact number is shared as a written quote. If you want figures on the page, send them and they drop straight in. |
+
+Resolved this pass (previously pending): WhatsApp number (removed; Instagram is the
+channel), Web3Forms key (removed; no web form), founder photo (`public/founder.jpg`
+now live), social-share image (`public/og-share.png` now live). See §9.
 
 Also worth your awareness (not blockers):
-- **Instagram** (`@yashveerlabs`) is used as the live contact channel and in the
-  footer — confirm the handle is correct.
-- **Legal pages** still carry "current and subject to final legal review" — have the
-  drafts reviewed by a qualified Indian lawyer before relying on them.
+- **Legal pages** carry "subject to final legal review" — the data fiduciary
+  (Yashveer Labs), DPO/grievance officer (Yashveer Singh Rajpoot,
+  yashveersr4@gmail.com), Google Firebase sub-processor and New Delhi jurisdiction
+  are all now stated, but have a qualified Indian lawyer review before relying on them.
+- The KB corpus is read-only (owned by the blog generator); a few articles discuss
+  WhatsApp/SMS integration as an industry topic. The site's *own* product copy claims
+  only SMS + in-app + email, matching `NEXLI_FACTS.md`.
 
 ## 7. Flagged in the read-only blog corpus (not edited here)
 
@@ -176,6 +181,47 @@ npm run preview  # serve the built dist
 > Tip: after changing a loader (`kb-loader.mjs`, `legal-loader.mjs`,
 > `branding-blocks.ts`), clear the content cache so unchanged-source articles
 > re-render: `rm -rf .astro dist node_modules/.astro && npm run build`.
+
+## 9. Real-world details wired in (owner interview pass)
+
+Collected from the owner and wired in, central source `src/lib/site.ts` unless noted:
+
+**Contact & positioning**
+- **Instagram is the only public contact channel.** WhatsApp removed site-wide (no
+  number, no `wa.me`, no floating WhatsApp button); the floating button is now
+  Instagram. Email `yashveersr4@gmail.com` shown as the written backup. Location line
+  "Somewhere in Sector 10, Dwarka, New Delhi". No phone number, no web/contact form.
+- **Primary CTA is "Book Free Live Demo"** (→ `/demo`); secondary is Instagram,
+  applied across header, hero, CTA bands, 404, coming-soon, KB articles and the demo.
+- **9 social profiles** (Instagram, YouTube, X, LinkedIn, Facebook, GitHub, Pinterest,
+  Reddit, Medium) render as a brand-icon row in the footer + contact page, and as
+  `sameAs` in Organization JSON-LD. Only real, owner-confirmed links appear.
+
+**Brand & founder**
+- Company **Yashveer Labs** (no legal-entity name shown); taglines wired (Nexli
+  "Bringing clarity to complexity"; Yashveer Labs "Built in Silence. Shipped Like It
+  Was Inevitable." on About). Founded years recorded. Footer copyright
+  "© 2026 Yashveer Labs. All Rights Reserved."
+- **Founder page rewritten** for SEO/entity recognition: title "Founder & Lead
+  Engineer", real photo `public/founder.jpg`, Person JSON-LD (`jobTitle`, `worksFor`,
+  `image`, `knowsAbout`, `sameAs` → LinkedIn/Instagram/X/GitHub/Medium). Bio reframed
+  so Nexli reads as built for schools **worldwide**, India-grade compliance at the
+  core (the idea began in the founder's own school, the platform isn't India-only).
+  About + home + Organization `areaServed: Worldwide` aligned to the same framing.
+
+**Pricing, legal, meta**
+- **Two pricing tiers**: Founding School (first 10–15 schools; lowest locked rate,
+  hands-on setup, direct founder line, money-back) vs Standard School (by size, full
+  platform). No fabricated rupee figures.
+- **Legal**: data fiduciary Yashveer Labs; DPO & grievance officer Yashveer Singh
+  Rajpoot (`yashveersr4@gmail.com`); Google Firebase named as the principal
+  sub-processor (already in source); jurisdiction New Delhi, India. All `[NEEDS
+  YASHVEER]`/`[School to insert]` brackets resolved so nothing renders as a gap.
+- **Social-share image** `public/og-share.png` wired into `og:image`/`twitter:image`
+  site-wide (with alt); favicon kept as the current Nexli mark.
+- **Product claims re-grounded** to `NEXLI_FACTS.md`: automated WhatsApp delivery
+  claims (not built) replaced with SMS + in-app + email across modules, FAQ, demo and
+  refund copy.
 
 ---
 

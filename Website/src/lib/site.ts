@@ -14,39 +14,61 @@ export const SITE = {
   locale: "en_IN",
   company: "Yashveer Labs",
   founder: "Yashveer Singh Rajpoot",
+  founderTitle: "Founder & Lead Engineer",
+  founded: "2026",
 };
 
-// --- WhatsApp click-to-chat (primary "Contact Now" CTA) -----------------------
-// TODO(owner): replace with the real WhatsApp Business number, country code first,
-// digits only, no "+", spaces, or dashes (e.g. "919812345678").
-export const WHATSAPP_NUMBER = "91XXXXXXXXXX";
-export const WHATSAPP_MESSAGE =
-  "Hi Nexli team, I'd like to learn more about Nexli, the School Operating System, for my school.";
-export const WHATSAPP_DEMO_MESSAGE =
-  "Hi Nexli team, I'd like to book a live demo of Nexli for my school.";
+// Yashveer Labs is the software studio behind Nexli; Nexli is its first product.
+export const COMPANY_TAGLINE = "Built in Silence. Shipped Like It Was Inevitable.";
+export const COMPANY_FOUNDED = "January 2026";
+export const NEXLI_FOUNDED = "June 2026";
 
-// True only once the owner sets a real number (country code + digits, no "X").
-// Until then every WhatsApp CTA degrades gracefully to the on-site /contact page
-// instead of emitting a dead wa.me link, and the floating button is hidden.
-export const WHATSAPP_READY = /^\d{10,15}$/.test(WHATSAPP_NUMBER);
+// Default social-share image (shown on WhatsApp, LinkedIn, Facebook, X, etc.).
+export const OG_IMAGE = "/og-share.png";
 
-export function whatsappHref(message: string = WHATSAPP_MESSAGE): string {
-  if (!WHATSAPP_READY) return "/contact";
-  return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
+// --- Contact channels ---------------------------------------------------------
+// Instagram is the primary, always-on contact channel; email is the written
+// backup. By design there is no phone number, WhatsApp line or web form: every
+// "contact" action points at a real, working profile, never a dead link.
+export const INSTAGRAM_URL = "https://www.instagram.com/yashveerlabs/";
+export const INSTAGRAM_HANDLE = "@yashveerlabs";
+export const CONTACT_EMAIL = "yashveersr4@gmail.com";
+export const EMAIL_HREF = `mailto:${CONTACT_EMAIL}`;
+export const LOCATION = "Somewhere in Sector 10, Dwarka, New Delhi";
+
+// All public profiles, in display order. Only real, owner-confirmed links live
+// here, so the footer and social rows never render a placeholder or dead icon.
+export interface Social {
+  label: string;
+  href: string;
+  icon: string;
+  handle?: string;
 }
+export const SOCIALS: Social[] = [
+  { label: "Instagram", href: "https://www.instagram.com/yashveerlabs/", icon: "instagram", handle: "@yashveerlabs" },
+  { label: "YouTube", href: "https://www.youtube.com/channel/UCuJh3Aaoax9Fe9HOrWPN2Og", icon: "youtube" },
+  { label: "X", href: "https://x.com/yashveerlabs", icon: "x", handle: "@yashveerlabs" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/yashveer-singh-rajpoot/", icon: "linkedin" },
+  { label: "Facebook", href: "https://www.facebook.com/share/p/14iW5TZxEVs/", icon: "facebook" },
+  { label: "GitHub", href: "https://github.com/yashveerlabs", icon: "github" },
+  { label: "Pinterest", href: "https://in.pinterest.com/yashveerlabs/", icon: "pinterest" },
+  { label: "Reddit", href: "https://www.reddit.com/user/Glad_Factor_8699/", icon: "reddit" },
+  { label: "Medium", href: "https://yashveerlabs.medium.com/", icon: "medium" },
+];
+// Canonical entity links for JSON-LD sameAs (organization + founder).
+export const SAME_AS: string[] = SOCIALS.map((s) => s.href);
+export const FOUNDER_SAME_AS: string[] = [
+  "https://www.linkedin.com/in/yashveer-singh-rajpoot/",
+  "https://www.instagram.com/yashveerlabs/",
+  "https://x.com/yashveerlabs",
+  "https://github.com/yashveerlabs",
+  "https://yashveerlabs.medium.com/",
+];
 
-// --- Email form (Web3Forms) backup channel ------------------------------------
-// TODO(owner): paste a free access key from https://web3forms.com to switch the
-// contact form live. Until then the form degrades gracefully to a friendly note
-// (no broken POST) and Instagram/WhatsApp stay the working channels.
-export const WEB3FORMS_KEY = "YOUR_WEB3FORMS_ACCESS_KEY";
-export const WEB3FORMS_READY = !/^YOUR_/i.test(WEB3FORMS_KEY) && WEB3FORMS_KEY.length >= 16;
-
-// --- Social -------------------------------------------------------------------
-export const INSTAGRAM_URL = "https://instagram.com/yashveerlabs";
-
-// --- Interactive demo ---------------------------------------------------------
+// --- Interactive demo + primary CTA -------------------------------------------
 export const DEMO_HREF = "/demo";
+// The site-wide primary action: a free, no-signup, in-browser product demo.
+export const PRIMARY_CTA = { label: "Book Free Live Demo", href: DEMO_HREF } as const;
 
 // --- Navigation ---------------------------------------------------------------
 export interface NavLink {

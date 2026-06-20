@@ -1,7 +1,7 @@
 ---
 import Icon from "../Icon.astro";
 import { SCHOOL } from "../../lib/demo-data";
-import { whatsappHref, WHATSAPP_DEMO_MESSAGE } from "../../lib/site";
+import { INSTAGRAM_URL } from "../../lib/site";
 
 interface Screen {
   id: string;
@@ -14,7 +14,6 @@ interface Props {
   screens: Screen[];
 }
 const { role, title, screens } = Astro.props;
-const wa = whatsappHref(WHATSAPP_DEMO_MESSAGE);
 const first = screens[0]?.id;
 ---
 <div id="demo-app" class="container-nx pb-20 pt-24 md:pt-28" data-first={first}>
@@ -32,9 +31,11 @@ const first = screens[0]?.id;
     </div>
     <div class="flex flex-wrap items-center gap-2.5">
       <span class="demo-badge"><Icon name="sparkle" size={12} /> Demo · sample data</span>
-      <a href="/demo" class="btn btn-ghost" style="padding:0.5rem 0.9rem;font-size:0.8rem">Switch role</a>
-      <a href={wa} target="_blank" rel="noopener" class="btn btn-gold" style="padding:0.5rem 0.95rem;font-size:0.8rem">
-        <Icon name="whatsapp" size={15} /> Book a real demo
+      <a href="/demo" class="btn btn-ghost" style="padding:0.5rem 0.9rem;font-size:0.8rem">
+        <Icon name="arrow-right" size={14} class="-scale-x-100" /> Change role
+      </a>
+      <a href={INSTAGRAM_URL} target="_blank" rel="noopener" class="btn btn-instagram" style="padding:0.5rem 0.95rem;font-size:0.8rem">
+        <Icon name="instagram" size={15} /> Message us
       </a>
     </div>
   </div>

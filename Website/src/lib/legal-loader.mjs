@@ -38,14 +38,21 @@ function clean(md) {
   out = out.replace(/^_Last updated:[^\n]*$/im, "");
   out = out.replace(/^#\s+.*$/m, ""); // drop first H1, page renders its own title
   out = out.replace(/_This is a draft template[\s\S]*?_\s*$/i, "");
-  // Resolve owner placeholders to finished, honest copy (no bracketed gaps render):
-  // grievance/DPO contact routes to the real Contact page; jurisdiction defaults to India.
+  // Resolve owner placeholders to finished, accurate copy (no bracketed gaps render).
+  // Nexli's grievance officer and Data Protection Officer is the founder; the
+  // governing jurisdiction is New Delhi, India. The page still carries a
+  // "subject to final legal review" notice.
   out = out.replace(
     /\[NEEDS YASHVEER:[^\]]*grievance[^\]]*\]/gi,
-    "our grievance officer and Data Protection Officer, who can be reached through our [Contact page](/contact)"
+    "Yashveer Singh Rajpoot, Founder and Data Protection & Grievance Officer, Yashveer Labs, reachable at yashveersr4@gmail.com or through our [Contact page](/contact)"
   );
-  out = out.replace(/\[NEEDS YASHVEER:[^\]]*(?:city|jurisdiction)[^\]]*\]/gi, "India");
+  out = out.replace(/\[NEEDS YASHVEER:[^\]]*(?:city|jurisdiction)[^\]]*\]/gi, "New Delhi, India");
   out = out.replace(/\[NEEDS YASHVEER:[^\]]*\]/gi, "Yashveer Labs");
+  // Fields the adopting School completes render as a clear note, not a bracket gap.
+  out = out.replace(/\[School to insert[^\]]*\]/gi, "to be completed by your School");
+  out = out.replace(/\[School to record[^\]]*\]/gi, "to be recorded by your School");
+  // Suggested default data-return/deletion window (still subject to final review).
+  out = out.replace(/\[30\]\s*days/gi, "30 days");
   // House style: no em-dashes in published prose.
   out = out.replace(/\s*—\s*/g, ", ");
   return out.trim();

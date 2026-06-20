@@ -1,7 +1,6 @@
 ---
 import Icon from "../Icon.astro";
-import { DEMO_HREF, whatsappHref } from "../../lib/site";
-const wa = whatsappHref();
+import { DEMO_HREF, INSTAGRAM_URL, PRIMARY_CTA } from "../../lib/site";
 ---
 <section class="relative overflow-hidden">
   <div class="glow-radial"></div>
@@ -29,18 +28,18 @@ const wa = whatsappHref();
     </p>
 
     <div class="reveal reveal-3 mt-9 flex flex-col items-center justify-center gap-3 sm:flex-row">
-      <a href={wa} target="_blank" rel="noopener" class="btn btn-gold w-full sm:w-auto">
-        <Icon name="whatsapp" size={18} />
-        Contact Now
+      <a href={PRIMARY_CTA.href} class="btn btn-gold w-full sm:w-auto">
+        <Icon name="sparkle" size={17} />
+        {PRIMARY_CTA.label}
       </a>
-      <a href={DEMO_HREF} class="btn btn-ghost w-full sm:w-auto">
-        Free Live Demo
-        <Icon name="arrow-right" size={16} />
+      <a href={INSTAGRAM_URL} target="_blank" rel="noopener" class="btn btn-ghost w-full sm:w-auto">
+        <Icon name="instagram" size={16} />
+        Message on Instagram
       </a>
     </div>
 
     <p class="reveal reveal-3 mt-4 text-xs text-ivory-faint">
-      Replies on WhatsApp · No credit card · Built for Indian schools
+      Free interactive demo · No signup · India-grade compliance, built for schools everywhere
     </p>
 
     <!-- App preview mock -->

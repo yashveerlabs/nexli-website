@@ -1,8 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Icon from "../components/Icon.astro";
-import { whatsappHref } from "../lib/site";
-const wa = whatsappHref();
+import { INSTAGRAM_URL } from "../lib/site";
 const links = [
   { label: "Home", href: "/" },
   { label: "Platform", href: "/platform" },
@@ -25,8 +24,8 @@ const links = [
       </div>
       <div class="mt-8 flex flex-col gap-3 sm:flex-row">
         <a href="/" class="btn btn-gold">Back to home</a>
-        <a href={wa} target="_blank" rel="noopener" class="btn btn-ghost">
-          <Icon name="whatsapp" size={17} /> Ask us on WhatsApp
+        <a href={INSTAGRAM_URL} target="_blank" rel="noopener" class="btn btn-ghost">
+          <Icon name="instagram" size={17} /> Message us on Instagram
         </a>
       </div>
     </div>

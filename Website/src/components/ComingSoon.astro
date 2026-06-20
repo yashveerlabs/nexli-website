@@ -1,6 +1,6 @@
 ---
 import Icon from "./Icon.astro";
-import { DEMO_HREF, whatsappHref } from "../lib/site";
+import { DEMO_HREF, INSTAGRAM_URL, PRIMARY_CTA } from "../lib/site";
 
 interface Props {
   kicker?: string;
@@ -8,7 +8,6 @@ interface Props {
   body?: string;
 }
 const { kicker = "Coming soon", title, body } = Astro.props;
-const wa = whatsappHref();
 ---
 <section class="relative overflow-hidden">
   <div class="glow-radial"></div>
@@ -20,10 +19,12 @@ const wa = whatsappHref();
     <h1 class="mt-6 max-w-3xl text-4xl sm:text-5xl md:text-6xl">{title}</h1>
     {body && <p class="mt-6 max-w-xl text-ivory-muted">{body}</p>}
     <div class="mt-9 flex flex-col items-center justify-center gap-3 sm:flex-row">
-      <a href={wa} target="_blank" rel="noopener" class="btn btn-gold w-full sm:w-auto">
-        <Icon name="whatsapp" size={18} /> Contact Now
+      <a href={PRIMARY_CTA.href} class="btn btn-gold w-full sm:w-auto">
+        <Icon name="sparkle" size={18} /> {PRIMARY_CTA.label}
       </a>
-      <a href={DEMO_HREF} class="btn btn-ghost w-full sm:w-auto">Free Live Demo</a>
+      <a href={INSTAGRAM_URL} target="_blank" rel="noopener" class="btn btn-ghost w-full sm:w-auto">
+        <Icon name="instagram" size={16} /> Message on Instagram
+      </a>
     </div>
     <slot />
   </div>

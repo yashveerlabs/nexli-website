@@ -83,16 +83,16 @@ export const MODULE_PAGES: ModulePage[] = [
     ],
     features: [
       { title: "Flexible fee structures", desc: "Per-class structures with term and installment schedules that match how your school actually bills." },
-      { title: "Online & offline payments", desc: "Collect by UPI, cards and net banking, or record cash and cheque with a digital receipt shareable on WhatsApp." },
+      { title: "Online & offline payments", desc: "Collect by UPI, cards and net banking, or record cash and cheque with a digital receipt you can share with parents." },
       { title: "Per-student ledger", desc: "Charges, payments, concessions and net due tracked per student, per academic year." },
-      { title: "Automated reminders", desc: "Due-date and overdue reminders sent automatically by SMS, WhatsApp and app notification." },
+      { title: "Automated reminders", desc: "Due-date and overdue reminders sent automatically by SMS and app notification." },
       { title: "Concessions & refunds", desc: "Need-based concession approvals and a formal refund request, approval and bank-transfer record." },
       { title: "Defaulter & RTE reports", desc: "Class- and section-wise pending dues, plus separate RTE reimbursement claim tracking for EWS seats." },
     ],
     connects: ["admissions", "communication", "compliance"],
     kb: "05-finance",
     faqs: [
-      { q: "Which payment methods are supported?", a: "Online UPI, cards and net banking through Indian payment gateways, plus offline cash and cheque recorded with a digital receipt you can share on WhatsApp." },
+      { q: "Which payment methods are supported?", a: "Online UPI, cards and net banking through Indian payment gateways, plus offline cash and cheque recorded with a digital receipt you can share with parents." },
       { q: "Does Nexli process the payments itself?", a: "No. Nexli integrates with Indian payment gateways as middleware and does not hold payment-processing secrets; the gateway handles the money." },
       { q: "Can we track RTE reimbursements?", a: "Yes. RTE reimbursement claims for EWS seats are tracked separately from regular fee collection." },
     ],
@@ -225,14 +225,14 @@ export const MODULE_PAGES: ModulePage[] = [
     tagline: "Targeted circulars, role-scoped portals and structured messaging, so the right people get the right update, and children stay safe.",
     seoTitle: "School Communication & Parent Portal Software",
     seoDescription:
-      "Targeted circulars and announcements over SMS, WhatsApp and app, child-scoped parent and student portals, and OTP-verified visitor management, in Nexli.",
+      "Targeted circulars and announcements over SMS and app, child-scoped parent and student portals, and OTP-verified visitor management, in Nexli.",
     summary: "Circulars, parent and student portals, visitor management.",
     intro: [
       "Communication in Nexli is built around how parents actually behave and how children must be protected. Circulars target exactly the right audience, and portals show each person only what concerns them.",
       "Direct messaging between students is disabled by design; communication is structured, not a free-for-all chat.",
     ],
     features: [
-      { title: "Targeted circulars", desc: "Publish to a class, grade, role or custom group and deliver over SMS, WhatsApp and app." },
+      { title: "Targeted circulars", desc: "Publish to a class, grade, role or custom group and deliver over SMS and app notification." },
       { title: "Parent portal", desc: "Child-scoped only: attendance, homework, fees, report cards, timetable and announcements, nothing else." },
       { title: "Student portal", desc: "A student's own timetable, homework, marks, library and canteen menu." },
       { title: "Visitor management", desc: "OTP-verified digital gate register with a visitor log and blacklist." },
@@ -244,7 +244,7 @@ export const MODULE_PAGES: ModulePage[] = [
     faqs: [
       { q: "Can students message each other?", a: "No. Direct messaging between students is disabled by default as a child-safety policy. Communication is structured at the class and school level." },
       { q: "What can parents see?", a: "Parents see only their own child's data: attendance, homework, fees, report cards, timetable and announcements. They cannot see other students or staff records." },
-      { q: "How are messages delivered?", a: "Critical updates go where parents actually read them, on WhatsApp and SMS, with app notifications and email for less-urgent information." },
+      { q: "How are messages delivered?", a: "Critical updates go by SMS and app notification, where parents actually see them, with email for less-urgent information." },
     ],
   },
   {
