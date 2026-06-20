@@ -71,6 +71,17 @@ function sanitizeBody(body) {
   let out = lines.join("\n");
   out = out.replace(/\((https?:\/\/[^)]*nexli\.[a-z.]+[^)]*)\)/gi, "(/demo)");
   out = out.replace(/https?:\/\/(?:www\.)?nexli\.[a-z]+(?:\/[^\s)]*)?/gi, "/demo");
+  // Articles cross-link each other under an old /blog/<category>/<slug> scheme whose
+  // deep slugs do not match the published /knowledge-base/<category>/<slug> URLs.
+  // Re-point every such link to its category index (always a real, on-topic page) so
+  // no in-article link 404s, keeping the descriptive anchor text intact.
+  out = out.replace(/\/blog\/([0-9]{2}-[a-z0-9-]+)(?:\/[A-Za-z0-9-]+)?/gi, "/knowledge-base/$1");
+  // Any leftover /blog path (non-standard category) falls back to the KB index.
+  out = out.replace(/\/blog\/[^\s)"'\]]*/gi, "/knowledge-base");
+  out = out.replace(/\/blog\b/gi, "/knowledge-base");
+  // No em-dashes in published prose (matches the blog's house style). A few source
+  // files still carry them; normalise to a comma so rendered articles stay consistent.
+  out = out.replace(/\s*—\s*/g, ", ");
   return out.trim();
 }
 

@@ -23,7 +23,7 @@ const {
 } = Astro.props;
 const extraJsonLd = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 
-const pageTitle = title ? `${title} · ${SITE.name}` : `${SITE.name} — The School Operating System`;
+const pageTitle = title ? `${title} · ${SITE.name}` : `${SITE.name}: The School Operating System`;
 const canonical = new URL(Astro.url.pathname, SITE.url).href;
 const ogImage = new URL(image, SITE.url).href;
 

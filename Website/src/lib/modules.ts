@@ -1,4 +1,4 @@
-// Module / feature landing pages — the high-intent SEO pages under /platform/<slug>.
+// Module / feature landing pages: the high-intent SEO pages under /platform/<slug>.
 // EVERY claim here must be defensible against Web/Blog/NEXLI_FACTS.md. No invented features.
 // Rendered by src/pages/platform/[module].astro and linked from the Platform nav dropdown.
 
@@ -27,9 +27,9 @@ export interface ModulePage {
   summary: string;
   /** Opening paragraph(s) on the page */
   intro: string[];
-  /** Capability cards — all grounded in NEXLI_FACTS.md */
+  /** Capability cards, all grounded in NEXLI_FACTS.md */
   features: ModuleFeature[];
-  /** "Works with" — connected modules (slugs) */
+  /** "Works with": connected modules (slugs) */
   connects: string[];
   /** Knowledge-base category slug this module maps to */
   kb: string;
@@ -42,18 +42,18 @@ export const MODULE_PAGES: ModulePage[] = [
     nav: "Admissions",
     icon: "admissions",
     title: "Admissions, from first enquiry to enrolment",
-    tagline: "A single pipeline for every applicant — so no enquiry is ever lost and every follow-up happens on time.",
+    tagline: "A single pipeline for every applicant, so no enquiry is ever lost and every follow-up happens on time.",
     seoTitle: "School Admissions Management Software",
     seoDescription:
-      "Run school admissions end to end in Nexli — enquiry, application, document verification, testing, interview, offer and enrolment — with bulk import and RTE/EWS tracking.",
+      "Run school admissions end to end in Nexli: enquiry, application, document verification, testing, interview, offer and enrolment, with bulk import and RTE/EWS tracking.",
     summary: "Enquiry to enrolment in one tracked pipeline.",
     intro: [
       "Most schools lose applicants not because parents change their minds, but because an enquiry slips through a WhatsApp group or an email chain. Nexli puts every applicant into one pipeline that every stakeholder can see.",
-      "From the first enquiry to the day a student is enrolled, each stage is visible, each follow-up is owned, and each document is checked — so admissions becomes a process you can measure rather than a scramble you survive.",
+      "From the first enquiry to the day a student is enrolled, each stage is visible, each follow-up is owned, and each document is checked, so admissions becomes a process you can measure rather than a scramble you survive.",
     ],
     features: [
       { title: "Enquiry to enrolment pipeline", desc: "Inquiry → Application → Document Verification → Testing → Interview → Offer → Enrolment, with automated stage workflows." },
-      { title: "Online application forms", desc: "Parents apply online; data flows straight into the applicant record — no re-keying, no lost forms." },
+      { title: "Online application forms", desc: "Parents apply online; data flows straight into the applicant record, with no re-keying and no lost forms." },
       { title: "Document verification", desc: "Track which documents are submitted, pending or verified before an offer is made." },
       { title: "Bulk student import", desc: "Migrate existing students from CSV/Excel with validation, duplicate detection and error reporting." },
       { title: "RTE / EWS tracking", desc: "A separate pipeline for EWS applications with quota monitoring for the 25% reserved seats." },
@@ -72,10 +72,10 @@ export const MODULE_PAGES: ModulePage[] = [
     nav: "Fees & Finance",
     icon: "fees",
     title: "Fee management that actually collects",
-    tagline: "Schools rarely fail to collect fees because parents can't pay — they fail because collection is chaotic. Nexli makes it simple.",
+    tagline: "Schools rarely fail to collect fees because parents can't pay; they fail because collection is chaotic. Nexli makes it simple.",
     seoTitle: "School Fee Management & Collection Software",
     seoDescription:
-      "Per-class fee structures, online UPI and offline receipts, concessions, automated reminders, defaulter reports, refunds and RTE reimbursement tracking — all in Nexli.",
+      "Per-class fee structures, online UPI and offline receipts, concessions, automated reminders, defaulter reports, refunds and RTE reimbursement tracking, all in Nexli.",
     summary: "Fee plans, online payments, reminders and a clean ledger.",
     intro: [
       "Nexli's fee module is built around the real reason collection slips: administrative friction. Every charge, payment and concession lives in one per-student ledger, so the picture is always current.",
@@ -93,7 +93,7 @@ export const MODULE_PAGES: ModulePage[] = [
     kb: "05-finance",
     faqs: [
       { q: "Which payment methods are supported?", a: "Online UPI, cards and net banking through Indian payment gateways, plus offline cash and cheque recorded with a digital receipt you can share on WhatsApp." },
-      { q: "Does Nexli process the payments itself?", a: "No. Nexli integrates with Indian payment gateways as middleware and does not hold payment-processing secrets — the gateway handles the money." },
+      { q: "Does Nexli process the payments itself?", a: "No. Nexli integrates with Indian payment gateways as middleware and does not hold payment-processing secrets; the gateway handles the money." },
       { q: "Can we track RTE reimbursements?", a: "Yes. RTE reimbursement claims for EWS seats are tracked separately from regular fee collection." },
     ],
   },
@@ -102,20 +102,20 @@ export const MODULE_PAGES: ModulePage[] = [
     nav: "Attendance",
     icon: "attendance",
     title: "Attendance that warns you early",
-    tagline: "Not just a register — an early-warning system that flags the student who is quietly slipping before it becomes a problem.",
+    tagline: "Not just a register. An early-warning system that flags the student who is quietly slipping before it becomes a problem.",
     seoTitle: "School Attendance Management Software",
     seoDescription:
-      "Period-wise and daily consolidated attendance with optional biometric/RFID, 75% threshold tracking, and automatic absence alerts to parents — built into Nexli.",
+      "Period-wise and daily consolidated attendance with optional biometric/RFID, 75% threshold tracking, and automatic absence alerts to parents, built into Nexli.",
     summary: "Period-wise and daily attendance with threshold alerts.",
     intro: [
       "Attendance in Nexli is recorded two ways that never conflict: period-wise by the subject teacher and daily consolidated by the class teacher.",
-      "The point isn't only to mark presence — it's to surface the early signal. When a student crosses the 75% line, the system flags it, and parents are alerted the day a child is marked absent.",
+      "The point isn't only to mark presence; it's to surface the early signal. When a student crosses the 75% line, the system flags it, and parents are alerted the day a child is marked absent.",
     ],
     features: [
       { title: "Period-wise + daily", desc: "Subject teachers mark period-wise; class teachers confirm a daily consolidated record." },
       { title: "Optional biometric / RFID", desc: "Integrate biometric or RFID devices where you use them, or mark manually where you don't." },
       { title: "75% threshold tracking", desc: "Automatic tracking against the 75% rule, with alerts when a student falls below." },
-      { title: "Parent absence alerts", desc: "Parents are notified automatically when their child is marked absent — fewer phone calls, faster awareness." },
+      { title: "Parent absence alerts", desc: "Parents are notified automatically when their child is marked absent: fewer phone calls, faster awareness." },
       { title: "Attendance rankings", desc: "A dedicated attendance-ranking engine that tracks consistency, kept separate from marks." },
       { title: "Live view", desc: "Students and parents see attendance in their own portal, scoped to them only." },
     ],
@@ -132,14 +132,14 @@ export const MODULE_PAGES: ModulePage[] = [
     nav: "Academics & Exams",
     icon: "academics",
     title: "Academics and examinations, end to end",
-    tagline: "Timetables, lesson plans, gradebooks and the full examination cycle — connected, so marks flow to report cards without re-entry.",
+    tagline: "Timetables, lesson plans, gradebooks and the full examination cycle, connected, so marks flow to report cards without re-entry.",
     seoTitle: "Academics & Examination Management Software for Schools",
     seoDescription:
-      "Constraint-based timetables, lesson plans with curriculum tracking, gradebooks, the full exam cycle with CBSE LOC export, and a question-paper generator — in Nexli.",
+      "Constraint-based timetables, lesson plans with curriculum tracking, gradebooks, the full exam cycle with CBSE LOC export, and a question-paper generator, in Nexli.",
     summary: "Timetables, lesson plans, exams and gradebooks in one flow.",
     intro: [
       "The academic core of Nexli connects the things that are usually scattered: the timetable a substitute needs, the lesson plan a coordinator reviews, the marks a report card depends on.",
-      "Because they share one data layer, marks entered once flow into the gradebook, the report card, the ranking engine and the analytics — one truth, not four versions.",
+      "Because they share one data layer, marks entered once flow into the gradebook, the report card, the ranking engine and the analytics: one truth, not four versions.",
     ],
     features: [
       { title: "Constraint-based timetable", desc: "Generate timetables with no double-booking, manage substitutions, and publish a live view for students and parents." },
@@ -162,14 +162,14 @@ export const MODULE_PAGES: ModulePage[] = [
     nav: "Report Cards",
     icon: "academics",
     title: "Report cards teachers review, not retype",
-    tagline: "Auto-populated from the gradebook, formatted to your board, and built to print — including the NEP 2020 Holistic Progress Card.",
+    tagline: "Auto-populated from the gradebook, formatted to your board, and built to print, including the NEP 2020 Holistic Progress Card.",
     seoTitle: "Report Card & Holistic Progress Card Software for Schools",
     seoDescription:
-      "CBSE 9-point report cards, custom grading systems, competitive ranking, term trends and the NEP 2020 Holistic Progress Card (HPC) — print-ready and phone-responsive in Nexli.",
+      "CBSE 9-point report cards, custom grading systems, competitive ranking, term trends and the NEP 2020 Holistic Progress Card (HPC), print-ready and phone-responsive in Nexli.",
     summary: "CBSE cards, custom grading and the NEP Holistic Progress Card.",
     intro: [
       "A report card should be the end of a process, not a fresh data-entry job. Nexli populates cards from the marks already in the gradebook, so teachers review and approve rather than retype.",
-      "Beyond the standard CBSE 9-point format, Nexli implements the NEP 2020 Holistic Progress Card in full — multi-domain, multi-source, and visual.",
+      "Beyond the standard CBSE 9-point format, Nexli implements the NEP 2020 Holistic Progress Card in full: multi-domain, multi-source, and visual.",
     ],
     features: [
       { title: "CBSE 9-point + custom grading", desc: "CBSE 9-point format, or custom systems (A/B/C/D, A1/A2/B1/B2) with co-scholastic fields." },
@@ -182,7 +182,7 @@ export const MODULE_PAGES: ModulePage[] = [
     connects: ["academics", "communication"],
     kb: "03-academics",
     faqs: [
-      { q: "Does Nexli support the NEP Holistic Progress Card?", a: "Yes, in full — multiple domains, multi-source input (self, peer, teacher, parent) and a visual output, not just a compliance form." },
+      { q: "Does Nexli support the NEP Holistic Progress Card?", a: "Yes, in full: multiple domains, multi-source input (self, peer, teacher, parent) and a visual output, not just a compliance form." },
       { q: "Can we use our own grading system?", a: "Yes. Alongside the CBSE 9-point format you can configure custom grading such as A/B/C/D or A1/A2/B1/B2." },
       { q: "Are report cards print-ready?", a: "Yes. Cards generate as print-ready PDFs with your school branding and remain readable on a phone." },
     ],
@@ -192,10 +192,10 @@ export const MODULE_PAGES: ModulePage[] = [
     nav: "HR & Payroll",
     icon: "hr",
     title: "HR and payroll for the whole school",
-    tagline: "Staff records, attendance, leave and statutory payroll — managed with the same role-based discipline as everything else.",
+    tagline: "Staff records, attendance, leave and statutory payroll, managed with the same role-based discipline as everything else.",
     seoTitle: "School HR & Payroll Management Software",
     seoDescription:
-      "Staff directory, biometric staff attendance, leave workflows, recruitment and probation tracking, plus payroll with EPF/ESI/TDS compliance — in Nexli.",
+      "Staff directory, biometric staff attendance, leave workflows, recruitment and probation tracking, plus payroll with EPF/ESI/TDS compliance, in Nexli.",
     summary: "Staff records, leave, recruitment and statutory payroll.",
     intro: [
       "A school's staff are its largest cost and its biggest asset, yet HR is often run on spreadsheets. Nexli brings staff records, attendance, leave and payroll into the same system as the rest of the school.",
@@ -213,7 +213,7 @@ export const MODULE_PAGES: ModulePage[] = [
     kb: "16-hr",
     faqs: [
       { q: "Does payroll handle EPF, ESI and TDS?", a: "Yes. Payroll calculates salaries and deductions with EPF, ESI and TDS compliance and monthly disbursement." },
-      { q: "Who can see salary data?", a: "Payroll structure is visible to HR roles and read-only to the appropriate approval chain — role-based access keeps it restricted." },
+      { q: "Who can see salary data?", a: "Payroll structure is visible to HR roles and read-only to the appropriate approval chain; role-based access keeps it restricted." },
       { q: "Can we track recruitment and probation?", a: "Yes. There is a recruitment pipeline with offer-letter generation and probation completion tracking with reminders." },
     ],
   },
@@ -222,18 +222,18 @@ export const MODULE_PAGES: ModulePage[] = [
     nav: "Communication",
     icon: "communication",
     title: "Communication that reaches parents",
-    tagline: "Targeted circulars, role-scoped portals and structured messaging — so the right people get the right update, and children stay safe.",
+    tagline: "Targeted circulars, role-scoped portals and structured messaging, so the right people get the right update, and children stay safe.",
     seoTitle: "School Communication & Parent Portal Software",
     seoDescription:
-      "Targeted circulars and announcements over SMS, WhatsApp and app, child-scoped parent and student portals, and OTP-verified visitor management — in Nexli.",
+      "Targeted circulars and announcements over SMS, WhatsApp and app, child-scoped parent and student portals, and OTP-verified visitor management, in Nexli.",
     summary: "Circulars, parent and student portals, visitor management.",
     intro: [
       "Communication in Nexli is built around how parents actually behave and how children must be protected. Circulars target exactly the right audience, and portals show each person only what concerns them.",
-      "Direct messaging between students is disabled by design — communication is structured, not a free-for-all chat.",
+      "Direct messaging between students is disabled by design; communication is structured, not a free-for-all chat.",
     ],
     features: [
       { title: "Targeted circulars", desc: "Publish to a class, grade, role or custom group and deliver over SMS, WhatsApp and app." },
-      { title: "Parent portal", desc: "Child-scoped only: attendance, homework, fees, report cards, timetable and announcements — nothing else." },
+      { title: "Parent portal", desc: "Child-scoped only: attendance, homework, fees, report cards, timetable and announcements, nothing else." },
       { title: "Student portal", desc: "A student's own timetable, homework, marks, library and canteen menu." },
       { title: "Visitor management", desc: "OTP-verified digital gate register with a visitor log and blacklist." },
       { title: "Structured messaging", desc: "Class-level announcements and structured parent-teacher communication, not open chat." },
@@ -243,8 +243,8 @@ export const MODULE_PAGES: ModulePage[] = [
     kb: "06-communication",
     faqs: [
       { q: "Can students message each other?", a: "No. Direct messaging between students is disabled by default as a child-safety policy. Communication is structured at the class and school level." },
-      { q: "What can parents see?", a: "Parents see only their own child's data — attendance, homework, fees, report cards, timetable and announcements. They cannot see other students or staff records." },
-      { q: "How are messages delivered?", a: "Critical updates go where parents actually read them — WhatsApp and SMS — with app notifications and email for less-urgent information." },
+      { q: "What can parents see?", a: "Parents see only their own child's data: attendance, homework, fees, report cards, timetable and announcements. They cannot see other students or staff records." },
+      { q: "How are messages delivered?", a: "Critical updates go where parents actually read them, on WhatsApp and SMS, with app notifications and email for less-urgent information." },
     ],
   },
   {
@@ -252,10 +252,10 @@ export const MODULE_PAGES: ModulePage[] = [
     nav: "Transport",
     icon: "transport",
     title: "Transport that keeps families informed",
-    tagline: "Routes, vehicles and live GPS tracking — so the transport office and parents both know where the bus is.",
+    tagline: "Routes, vehicles and live GPS tracking, so the transport office can see where every bus is.",
     seoTitle: "School Transport & Bus Tracking Software",
     seoDescription:
-      "Route management, driver and conductor records, vehicle maintenance schedules and live GPS tracking via OpenStreetMap — built into Nexli's transport module.",
+      "Route management, driver and conductor records, vehicle maintenance schedules and live GPS tracking via OpenStreetMap, built into Nexli's transport module.",
     summary: "Routes, fleet, maintenance and live GPS tracking.",
     intro: [
       "Transport is where safety and operations meet. Nexli manages the routes, the people and the vehicles, and puts live location on a map so the office can respond to delays.",
@@ -273,7 +273,7 @@ export const MODULE_PAGES: ModulePage[] = [
     kb: "10-safety",
     faqs: [
       { q: "Does Nexli track buses live?", a: "Yes. Live GPS tracking shows bus location on a map (via OpenStreetMap) for the transport office to monitor and respond to delays." },
-      { q: "Is there a live map in the parent app?", a: "GPS tracking is available to the transport office today. A live map inside the parent portal is on the roadmap, not yet released — we don't claim features that aren't built." },
+      { q: "Is there a live map in the parent app?", a: "GPS tracking is available to the transport office today. A live map inside the parent portal is on the roadmap, not yet released; we don't claim features that aren't built." },
       { q: "Can transport fees be managed here?", a: "Yes. Transport fees and concessions are handled through the same fee ledger as the rest of the school." },
     ],
   },
@@ -282,10 +282,10 @@ export const MODULE_PAGES: ModulePage[] = [
     nav: "Hostel",
     icon: "hostel",
     title: "Hostel management, room to roll-call",
-    tagline: "Block and room allocation, morning and night roll-call, and weekend leave — the boarding day, accounted for.",
+    tagline: "Block and room allocation, morning and night roll-call, and weekend leave: the boarding day, accounted for.",
     seoTitle: "Hostel & Boarding Management Software for Schools",
     seoDescription:
-      "Block assignment, room allocation, morning and night roll-call and exeat (weekend leave) tracking for boarding schools — in Nexli's hostel module.",
+      "Block assignment, room allocation, morning and night roll-call and exeat (weekend leave) tracking for boarding schools, in Nexli's hostel module.",
     summary: "Allocation, roll-call and exeat for boarding schools.",
     intro: [
       "For boarding schools, accountability is everything. Nexli's hostel module covers who sleeps where, who is present at roll-call, and who has leave to be away.",
@@ -312,10 +312,10 @@ export const MODULE_PAGES: ModulePage[] = [
     nav: "Library",
     icon: "book",
     title: "A library that runs itself",
-    tagline: "Catalogue, circulation and overdue reminders — so the library is a service, not a stack of registers.",
+    tagline: "Catalogue, circulation and overdue reminders, so the library is a service, not a stack of registers.",
     seoTitle: "School Library Management Software",
     seoDescription:
-      "Catalogue, circulation (issue, return, renewal), overdue alerts, reservations and reading programs — Nexli's library module for schools.",
+      "Catalogue, circulation (issue, return, renewal), overdue alerts, reservations and reading programs: Nexli's library module for schools.",
     summary: "Catalogue, circulation, reservations and reading programs.",
     intro: [
       "Nexli's library module turns circulation into something the librarian manages by exception. The catalogue is searchable, issues and returns are tracked, and overdue reminders go out automatically.",
@@ -342,10 +342,10 @@ export const MODULE_PAGES: ModulePage[] = [
     nav: "Medical & Safety",
     icon: "safety",
     title: "Student welfare and safeguarding",
-    tagline: "Health records, counselling and POCSO safeguarding — the most sensitive data, held with the most care.",
+    tagline: "Health records, counselling and POCSO safeguarding: the most sensitive data, held with the most care.",
     seoTitle: "School Medical, Counselling & Safeguarding Software",
     seoDescription:
-      "Clinic visit logs, health records, allergen flags, a confidential counselling workspace, POCSO/safeguarding case management and special-education (IEP) tracking — in Nexli.",
+      "Clinic visit logs, health records, allergen flags, a confidential counselling workspace, POCSO/safeguarding case management and special-education (IEP) tracking, in Nexli.",
     summary: "Clinic, counselling, POCSO safeguarding and special education.",
     intro: [
       "Some of a school's most important data is also its most sensitive. Nexli treats medical, counselling and child-protection records with restricted access and encryption, not as an afterthought.",
@@ -371,11 +371,11 @@ export const MODULE_PAGES: ModulePage[] = [
     slug: "compliance",
     nav: "Compliance",
     icon: "shield",
-    title: "Compliance, woven in — not bolted on",
+    title: "Compliance, woven in, not bolted on",
     tagline: "DPDP, POCSO, RTE, CBSE, UDISE+ and FSSAI handled as part of daily operations, so compliance becomes a byproduct.",
-    seoTitle: "School Compliance Software — DPDP, POCSO, RTE, UDISE+",
+    seoTitle: "School Compliance Software: DPDP, POCSO, RTE, UDISE+",
     seoDescription:
-      "DPDP Act consent management, POCSO case workflows, RTE quota tracking, CBSE LOC, UDISE+ reporting, FSSAI and a compliance calendar — built into Nexli, not optional.",
+      "DPDP Act consent management, POCSO case workflows, RTE quota tracking, CBSE LOC, UDISE+ reporting, FSSAI and a compliance calendar, built into Nexli, not optional.",
     summary: "DPDP, POCSO, RTE, CBSE, UDISE+ and a compliance calendar.",
     intro: [
       "Compliance overhead is one reason schools resist going digital. Nexli flips the model: instead of bolting compliance onto an ERP, it is woven into the core, so routine operation produces compliant records.",

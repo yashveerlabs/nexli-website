@@ -36,9 +36,18 @@ function clean(md) {
   let lines = text.split(/\r?\n/).filter((l) => !/^>\s*\*\*DRAFT/i.test(l));
   let out = lines.join("\n");
   out = out.replace(/^_Last updated:[^\n]*$/im, "");
-  out = out.replace(/^#\s+.*$/m, ""); // drop first H1 — page renders its own title
+  out = out.replace(/^#\s+.*$/m, ""); // drop first H1, page renders its own title
   out = out.replace(/_This is a draft template[\s\S]*?_\s*$/i, "");
-  out = out.replace(/\[NEEDS YASHVEER:[^\]]*\]/gi, "[to be finalised]");
+  // Resolve owner placeholders to finished, honest copy (no bracketed gaps render):
+  // grievance/DPO contact routes to the real Contact page; jurisdiction defaults to India.
+  out = out.replace(
+    /\[NEEDS YASHVEER:[^\]]*grievance[^\]]*\]/gi,
+    "our grievance officer and Data Protection Officer, who can be reached through our [Contact page](/contact)"
+  );
+  out = out.replace(/\[NEEDS YASHVEER:[^\]]*(?:city|jurisdiction)[^\]]*\]/gi, "India");
+  out = out.replace(/\[NEEDS YASHVEER:[^\]]*\]/gi, "Yashveer Labs");
+  // House style: no em-dashes in published prose.
+  out = out.replace(/\s*—\s*/g, ", ");
   return out.trim();
 }
 

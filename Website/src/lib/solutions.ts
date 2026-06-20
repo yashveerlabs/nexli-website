@@ -16,7 +16,7 @@ export interface SolutionPage {
   seoDescription: string;
   summary: string;
   intro: string[];
-  /** What matters most for this school type — all factual */
+  /** What matters most for this school type (all factual) */
   points: { title: string; desc: string }[];
   /** Module slugs most relevant to this school type */
   modules: string[];
@@ -34,10 +34,10 @@ export const SOLUTION_PAGES: SolutionPage[] = [
     tagline: "Report cards, examinations and statutory reporting built around the way CBSE schools actually run.",
     seoTitle: "School ERP for CBSE Schools",
     seoDescription:
-      "Nexli supports CBSE schools with 9-point report cards, the NEP Holistic Progress Card, CBSE LOC export, UDISE+ reporting and DPDP/POCSO compliance — in one platform.",
+      "Nexli supports CBSE schools with 9-point report cards, the NEP Holistic Progress Card, CBSE LOC export, UDISE+ reporting and DPDP/POCSO compliance, all in one platform.",
     summary: "9-point cards, LOC export and NEP HPC for CBSE schools.",
     intro: [
-      "CBSE schools carry a specific set of obligations — the 9-point grading format, the List of Candidates for board classes, UDISE+ returns and the NEP 2020 progression. Nexli is built with these in mind rather than adapted to them after the fact.",
+      "CBSE schools carry a specific set of obligations: the 9-point grading format, the List of Candidates for board classes, UDISE+ returns and the NEP 2020 progression. Nexli is built with these in mind rather than adapted to them after the fact.",
       "Everything from admissions to the report card uses the formats a CBSE school expects, so the system fits your year rather than fighting it.",
     ],
     points: [
@@ -65,7 +65,7 @@ export const SOLUTION_PAGES: SolutionPage[] = [
     summary: "Configurable grading and assessment for ICSE/CISCE schools.",
     intro: [
       "ICSE and CISCE schools assess differently, and a system that assumes CBSE everywhere gets in the way. Nexli's grading is configurable, so the marksheet and report card reflect your board, not someone else's.",
-      "The academic and examination engine is the same depth either way — timetables, gradebooks, the full exam cycle — with the grading layer set to suit you.",
+      "The academic and examination engine is the same depth either way (timetables, gradebooks, the full exam cycle), with the grading layer set to suit you.",
     ],
     points: [
       { title: "Configurable grading", desc: "Custom grading systems (A/B/C/D, A1/A2/B1/B2 and more) instead of a fixed CBSE scale." },
@@ -77,7 +77,7 @@ export const SOLUTION_PAGES: SolutionPage[] = [
     kb: ["13-school-types", "03-academics"],
     faqs: [
       { q: "Can Nexli match our ICSE grading?", a: "Yes. Grading systems are configurable, so report cards and marksheets use your board's scheme rather than a fixed CBSE format." },
-      { q: "Is the examination module board-specific?", a: "The examination cycle — schedules, admit cards, tabulation and results — works across boards, with grading configured to suit ICSE/CISCE." },
+      { q: "Is the examination module board-specific?", a: "The examination cycle (schedules, admit cards, tabulation and results) works across boards, with grading configured to suit ICSE/CISCE." },
     ],
   },
   {
@@ -85,7 +85,7 @@ export const SOLUTION_PAGES: SolutionPage[] = [
     nav: "State Board",
     icon: "globe",
     title: "Nexli for State Board schools",
-    tagline: "RTE, regional requirements and affordable operations — handled with the same depth as any metro school.",
+    tagline: "RTE, regional requirements and affordable operations, handled with the same depth as any metro school.",
     seoTitle: "School ERP for State Board Schools",
     seoDescription:
       "Nexli supports State Board schools with RTE 25% quota tracking, configurable grading, fee management with concessions, and full DPDP/POCSO compliance.",
@@ -104,7 +104,7 @@ export const SOLUTION_PAGES: SolutionPage[] = [
     kb: ["13-school-types", "07-compliance", "05-finance"],
     faqs: [
       { q: "Does Nexli handle the RTE 25% quota?", a: "Yes. EWS applications run through a separate pipeline with quota monitoring, and RTE reimbursement claims are tracked separately." },
-      { q: "Is Nexli affordable for a State Board school?", a: "Pricing is by school size, with every feature included on every plan — so a smaller school gets the full platform. Contact us for a quote." },
+      { q: "Is Nexli affordable for a State Board school?", a: "Pricing is by school size, with every feature included on every plan, so a smaller school gets the full platform. Contact us for a quote." },
     ],
   },
   {
@@ -112,7 +112,7 @@ export const SOLUTION_PAGES: SolutionPage[] = [
     nav: "Boarding Schools",
     icon: "hostel",
     title: "Nexli for boarding schools",
-    tagline: "Hostel, roll-call, welfare and weekend leave — the residential day fully accounted for.",
+    tagline: "Hostel, roll-call, welfare and weekend leave: the residential day fully accounted for.",
     seoTitle: "School ERP for Boarding Schools",
     seoDescription:
       "Nexli supports boarding schools with hostel allocation, morning and night roll-call, exeat (weekend leave), medical and counselling welfare records, and transport.",
@@ -139,7 +139,7 @@ export const SOLUTION_PAGES: SolutionPage[] = [
     nav: "International Schools",
     icon: "globe",
     title: "Nexli for international schools",
-    tagline: "Configurable structure for multi-board, multi-stream schools — without losing India-readiness.",
+    tagline: "Configurable structure for multi-board, multi-stream schools, without losing India-readiness.",
     seoTitle: "School ERP for International Schools in India",
     seoDescription:
       "Nexli's data-driven roles, configurable grading and 118+ role permission model suit international schools, while keeping DPDP, POCSO and Indian compliance built in.",
@@ -157,7 +157,7 @@ export const SOLUTION_PAGES: SolutionPage[] = [
     modules: ["academics", "report-cards", "compliance", "communication"],
     kb: ["13-school-types", "03-academics"],
     faqs: [
-      { q: "Can Nexli model our school's structure?", a: "Yes. Roles are data-driven and configurable — 118+ roles with a permission matrix — so your structure maps onto the system without code changes." },
+      { q: "Can Nexli model our school's structure?", a: "Yes. Roles are data-driven and configurable (118+ roles with a permission matrix), so your structure maps onto the system without code changes." },
       { q: "Does an international school still get Indian compliance?", a: "Yes. DPDP, POCSO and Indian statutory reporting are built in regardless of curriculum, so you stay India-ready." },
     ],
   },

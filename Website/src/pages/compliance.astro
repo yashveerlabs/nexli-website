@@ -8,7 +8,7 @@ import { webPage } from "../lib/seo";
 
 const title = "Compliance";
 const description =
-  "What Nexli supports for Indian school compliance: CBSE, ICSE/CISCE, DPDP Act 2023, POCSO, RTE, NEP 2020, UDISE+ and FSSAI — built into the core, not bolted on.";
+  "What Nexli supports for Indian school compliance: CBSE, ICSE/CISCE, DPDP Act 2023, POCSO, RTE, NEP 2020, UDISE+ and FSSAI, built into the core, not bolted on.";
 
 const items = [
   { tag: "DPDP Act 2023", icon: "shield", desc: "Consent-first handling of personal data: parental consent with OTP verification, a consent registry, withdrawal tracking, data-access audit logs and a Data Protection Officer view of the processing trail." },
@@ -25,14 +25,14 @@ const faqs = [
   { q: "Is compliance an extra module I have to buy?", a: "No. DPDP, POCSO, RTE, CBSE, UDISE+ and FSSAI support are built into the core platform on every plan, so compliant records are a byproduct of normal operations." },
   { q: "Does Nexli help with the DPDP Act?", a: "Yes. It collects verifiable parental consent with OTP, keeps a consent registry with withdrawal tracking, logs data access, and gives a Data Protection Officer a view of the processing trail." },
   { q: "Can Nexli produce the CBSE LOC and UDISE+ data?", a: "Yes. The List of Candidates exports in the required format for board classes, and UDISE+ annual reporting fields are populated from your existing records." },
-  { q: "Does Nexli implement the NEP Holistic Progress Card?", a: "Yes, in full — multiple developmental domains with self, peer, teacher and parent input and a visual output, not just a compliance form." },
+  { q: "Does Nexli implement the NEP Holistic Progress Card?", a: "Yes, in full: multiple developmental domains with self, peer, teacher and parent input and a visual output, not just a compliance form." },
 ];
 ---
 <BaseLayout title={title} description={description} jsonLd={webPage({ title, description, path: "/compliance" })}>
   <PageHero
     eyebrow="Compliance"
     title="Indian compliance, built into the core"
-    lead="Compliance overhead is one reason schools resist going digital. Nexli weaves it into daily operations — so the regulators' formats come out the other side, automatically."
+    lead="Compliance overhead is one reason schools resist going digital. Nexli weaves it into daily operations, so the regulators' formats come out the other side, automatically."
     breadcrumbs={[{ label: "Compliance" }]}
   />
 
@@ -52,7 +52,7 @@ const faqs = [
         ))}
       </div>
       <div class="callout mt-8 text-sm text-ivory-muted">
-        <strong class="text-ivory">A note on honesty.</strong> Nexli supports the workflows and reporting formats above. It does not replace your legal counsel or your statutory filings — it makes the school records that feed them accurate, accessible and ready. For data-protection specifics, see the <a href="/legal/privacy" class="text-gold-200 underline underline-offset-2">Privacy Policy</a>.
+        <strong class="text-ivory">A note on honesty.</strong> Nexli supports the workflows and reporting formats above. It does not replace your legal counsel or your statutory filings; it makes the school records that feed them accurate, accessible and ready. For data-protection specifics, see the <a href="/legal/privacy" class="text-gold-200 underline underline-offset-2">Privacy Policy</a>.
       </div>
     </div>
   </section>
@@ -62,6 +62,6 @@ const faqs = [
   <CtaBand
     eyebrow="See it in context"
     title="See compliance handled in the demo"
-    text="Open the interactive demo to see how consent, safeguarding and reporting sit inside everyday operations — or ask us on WhatsApp."
+    text="Open the interactive demo to see how consent, safeguarding and reporting sit inside everyday operations, or ask us on WhatsApp."
   />
 </BaseLayout>

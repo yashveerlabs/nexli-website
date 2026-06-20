@@ -10,13 +10,13 @@ import { webPage } from "../../lib/seo";
 const counts = await countsByCategory();
 const total = (await getAllArticles()).length;
 const title = "Knowledge Base";
-const description = `${total}+ in-depth, practical guides for running a better school — across 20 categories, from admissions and academics to compliance, finance and leadership.`;
+const description = `${total}+ in-depth, practical guides for running a better school, across 20 categories, from admissions and academics to compliance, finance and leadership.`;
 ---
 <BaseLayout title={title} description={description} jsonLd={webPage({ title, description, path: "/knowledge-base" })}>
   <PageHero
     eyebrow="Knowledge Base"
     title="Guides for running a better school"
-    lead={`A growing library of ${total}+ practical, in-depth articles across 20 categories — written for principals, administrators and teachers across India.`}
+    lead={`A growing library of ${total}+ practical, in-depth articles across 20 categories, written for principals, administrators and teachers across India.`}
     breadcrumbs={[{ label: "Knowledge Base" }]}
   />
 

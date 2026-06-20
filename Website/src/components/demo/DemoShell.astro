@@ -18,6 +18,7 @@ const wa = whatsappHref(WHATSAPP_DEMO_MESSAGE);
 const first = screens[0]?.id;
 ---
 <div id="demo-app" class="container-nx pb-20 pt-24 md:pt-28" data-first={first}>
+  <h1 class="sr-only">Nexli interactive demo: {title} view of {SCHOOL.name}</h1>
   <!-- Toolbar -->
   <div class="mb-6 flex flex-col gap-3 rounded-2xl border border-line p-3 sm:flex-row sm:items-center sm:justify-between" style="background:linear-gradient(180deg,var(--color-obsidian-700),var(--color-obsidian-800))">
     <div class="flex items-center gap-3">
@@ -54,7 +55,7 @@ const first = screens[0]?.id;
     <div class="min-w-0">
       <slot />
       <p class="mt-8 text-center text-xs text-ivory-faint">
-        This is an illustrative demo of {SCHOOL.name} with sample data — nothing here is a real student or record.
+        This is an illustrative demo of {SCHOOL.name} with sample data; nothing here is a real student or record.
       </p>
     </div>
   </div>

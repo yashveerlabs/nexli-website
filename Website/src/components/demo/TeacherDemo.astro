@@ -17,7 +17,7 @@ const dueCount = CLASS_ROSTER.filter((s) => s.fees === "Due").length;
 <DemoShell role="teacher" title="Teacher · Class 8-B" screens={screens}>
   <!-- Class dashboard -->
   <section class="demo-screen" data-screen="class">
-    <h2 class="text-2xl">Class 8 — B</h2>
+    <h2 class="text-2xl">Class 8-B</h2>
     <p class="mt-1 text-sm text-ivory-muted">Your class at a glance.</p>
     <div class="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
       <div class="demo-panel"><span class="text-xs text-ivory-faint">Class strength</span><div class="demo-stat-value mt-3">{CLASS_ROSTER.length}</div></div>
@@ -65,7 +65,7 @@ const dueCount = CLASS_ROSTER.filter((s) => s.fees === "Due").length;
             <span class="inline-grid h-8 w-8 place-items-center rounded-full border border-line text-xs text-ivory-muted">{s.roll}</span>
             <span class="text-sm text-ivory">{s.name}</span>
           </span>
-          <span class="badge" data-att-pill>—</span>
+          <span class="badge" data-att-pill>–</span>
         </button>
       ))}
     </div>
@@ -84,7 +84,7 @@ const dueCount = CLASS_ROSTER.filter((s) => s.fees === "Due").length;
       </div>
       <div class="demo-panel !py-3 text-center">
         <span class="text-xs text-ivory-faint">Class average</span>
-        <div class="demo-stat-value mt-1"><span data-marks-avg>—</span> / 25</div>
+        <div class="demo-stat-value mt-1"><span data-marks-avg>–</span> / 25</div>
       </div>
     </div>
     <div class="demo-panel mt-5">
@@ -161,7 +161,7 @@ const dueCount = CLASS_ROSTER.filter((s) => s.fees === "Due").length;
     const avgEl = document.querySelector("[data-marks-avg]");
     function recompute() {
       const vals = inputs.map((i) => parseFloat(i.value)).filter((v) => !isNaN(v));
-      if (avgEl) avgEl.textContent = vals.length ? (vals.reduce((a, b) => a + b, 0) / vals.length).toFixed(1) : "—";
+      if (avgEl) avgEl.textContent = vals.length ? (vals.reduce((a, b) => a + b, 0) / vals.length).toFixed(1) : "–";
     }
     inputs.forEach((i) => i.addEventListener("input", recompute));
     recompute();

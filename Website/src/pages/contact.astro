@@ -1,13 +1,27 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Icon from "../components/Icon.astro";
-import { whatsappHref, SITE } from "../lib/site";
-const wa = whatsappHref();
+import { webPage } from "../lib/seo";
+import {
+  INSTAGRAM_URL,
+  WHATSAPP_NUMBER,
+  WHATSAPP_READY,
+  WHATSAPP_MESSAGE,
+  WEB3FORMS_KEY,
+  WEB3FORMS_READY,
+} from "../lib/site";
+
+const title = "Contact";
+const description =
+  "Get in touch with Nexli. Message us for the fastest reply, or send a note and we'll get back to you about bringing the School Operating System to your school.";
+
+// Build the direct WhatsApp link only when a real number is configured; otherwise
+// the primary channel is Instagram so nothing on this page is ever a dead link.
+const waLink = WHATSAPP_READY
+  ? `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(WHATSAPP_MESSAGE)}`
+  : null;
 ---
-<BaseLayout
-  title="Contact"
-  description="Get in touch with Nexli. Message us on WhatsApp for the fastest reply, or send a note and we'll get back to you."
->
+<BaseLayout title={title} description={description} jsonLd={webPage({ title, description, path: "/contact" })}>
   <section class="relative overflow-hidden">
     <div class="glow-radial"></div>
     <div class="container-nx relative pt-32 pb-20 md:pt-40">
@@ -15,67 +29,132 @@ const wa = whatsappHref();
         <p class="eyebrow justify-center"><Icon name="sparkle" size={15} /> Contact</p>
         <h1 class="mt-6 text-4xl sm:text-5xl md:text-6xl">Let's talk about your school</h1>
         <p class="mt-6 text-ivory-muted">
-          The fastest way to reach us is WhatsApp — tap below and we'll reply quickly. Prefer email?
-          Use the form and we'll get back to you.
+          Tell us about your school and what you'd like to improve, and we'll show you exactly how
+          Nexli fits. No pressure, no jargon, just a clear conversation.
         </p>
       </div>
 
       <div class="mx-auto mt-14 grid max-w-4xl gap-6 lg:grid-cols-2">
-        <!-- WhatsApp: primary -->
+        <!-- Primary channel -->
         <div class="card flex flex-col">
-          <div class="flex items-center gap-3">
-            <div class="inline-flex h-11 w-11 items-center justify-center rounded-xl text-white" style="background:#1faa53">
-              <Icon name="whatsapp" size={22} />
-            </div>
-            <div>
-              <h2 class="text-lg text-ivory">Chat on WhatsApp</h2>
-              <p class="text-sm text-ivory-faint">Usually replies within hours</p>
-            </div>
-          </div>
-          <p class="mt-5 text-sm leading-relaxed text-ivory-muted">
-            Tell us about your school and what you'd like to improve. We'll show you exactly how Nexli
-            fits — no pressure, no jargon.
-          </p>
-          <a href={wa} target="_blank" rel="noopener" class="btn btn-whatsapp mt-6 w-full">
-            <Icon name="whatsapp" size={18} /> Contact Now on WhatsApp
-          </a>
+          {waLink ? (
+            <>
+              <div class="flex items-center gap-3">
+                <div class="inline-flex h-11 w-11 items-center justify-center rounded-xl text-white" style="background:#1faa53">
+                  <Icon name="whatsapp" size={22} />
+                </div>
+                <div>
+                  <h2 class="text-lg text-ivory">Chat on WhatsApp</h2>
+                  <p class="text-sm text-ivory-faint">Usually replies within hours</p>
+                </div>
+              </div>
+              <p class="mt-5 text-sm leading-relaxed text-ivory-muted">
+                The fastest way to reach us. Send a message and we'll get straight back to you with a
+                clear, no-obligation answer for your school.
+              </p>
+              <a href={waLink} target="_blank" rel="noopener" class="btn btn-whatsapp mt-6 w-full">
+                <Icon name="whatsapp" size={18} /> Contact Now on WhatsApp
+              </a>
+            </>
+          ) : (
+            <>
+              <div class="flex items-center gap-3">
+                <div class="inline-flex h-11 w-11 items-center justify-center rounded-xl border border-line text-gold" style="background:rgba(255,255,255,0.02)">
+                  <Icon name="communication" size={22} />
+                </div>
+                <div>
+                  <h2 class="text-lg text-ivory">Message us on Instagram</h2>
+                  <p class="text-sm text-ivory-faint">The quickest way to reach us today</p>
+                </div>
+              </div>
+              <p class="mt-5 text-sm leading-relaxed text-ivory-muted">
+                Send us a direct message with your school's name and what you'd like to improve, and
+                we'll reply with a clear, no-obligation answer.
+              </p>
+              <a href={INSTAGRAM_URL} target="_blank" rel="noopener" class="btn btn-gold mt-6 w-full">
+                <Icon name="communication" size={18} /> Message @yashveerlabs
+              </a>
+            </>
+          )}
         </div>
 
-        <!-- Form: backup -->
+        <!-- Email form -->
         <div class="card">
           <h2 class="text-lg text-ivory">Send a message</h2>
-          <!-- TODO: create a free Web3Forms access key at https://web3forms.com and paste it below. -->
-          <form action="https://api.web3forms.com/submit" method="POST" class="mt-5 space-y-3">
-            <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_ACCESS_KEY" />
-            <input type="hidden" name="subject" value="New enquiry from the Nexli website" />
-            <input type="hidden" name="from_name" value="Nexli Website" />
-            <input type="checkbox" name="botcheck" class="hidden" style="display:none" tabindex="-1" autocomplete="off" />
+          {WEB3FORMS_READY ? (
+            <form action="https://api.web3forms.com/submit" method="POST" class="mt-5 space-y-3">
+              <input type="hidden" name="access_key" value={WEB3FORMS_KEY} />
+              <input type="hidden" name="subject" value="New enquiry from the Nexli website" />
+              <input type="hidden" name="from_name" value="Nexli Website" />
+              <input type="checkbox" name="botcheck" class="hidden" style="display:none" tabindex="-1" autocomplete="off" />
 
-            <input type="text" name="name" required placeholder="Your name" class="nx-input" />
-            <input type="text" name="school" placeholder="School name" class="nx-input" />
-            <input type="email" name="email" required placeholder="Email" class="nx-input" />
-            <input type="tel" name="phone" placeholder="Phone (optional)" class="nx-input" />
-            <textarea name="message" rows="4" placeholder="How can we help?" class="nx-input resize-none"></textarea>
-            <button type="submit" class="btn btn-gold w-full">Send message</button>
-            <p class="text-center text-xs text-ivory-faint">We'll only use your details to reply to your enquiry.</p>
-          </form>
+              <input type="text" name="name" required placeholder="Your name" class="nx-input" />
+              <input type="text" name="school" placeholder="School name" class="nx-input" />
+              <input type="email" name="email" required placeholder="Email" class="nx-input" />
+              <input type="tel" name="phone" placeholder="Phone (optional)" class="nx-input" />
+              <textarea name="message" rows="4" placeholder="How can we help?" class="nx-input resize-none"></textarea>
+              <button type="submit" class="btn btn-gold w-full">Send message</button>
+              <p class="text-center text-xs text-ivory-faint">We'll only use your details to reply to your enquiry.</p>
+            </form>
+          ) : (
+            <>
+              <p class="mt-2 text-sm text-ivory-faint">Prefer to write to us in your own words?</p>
+              <!-- Form renders fully; until the email backend is connected it confirms
+                   politely and points to a live channel instead of a broken submit. -->
+              <form id="contact-form" class="mt-5 space-y-3" novalidate>
+                <input type="text" name="name" required placeholder="Your name" class="nx-input" />
+                <input type="text" name="school" placeholder="School name" class="nx-input" />
+                <input type="email" name="email" required placeholder="Email" class="nx-input" />
+                <input type="tel" name="phone" placeholder="Phone (optional)" class="nx-input" />
+                <textarea name="message" rows="4" placeholder="How can we help?" class="nx-input resize-none"></textarea>
+                <button type="submit" class="btn btn-gold w-full">Send message</button>
+              </form>
+              <div id="contact-fallback" class="mt-5 rounded-xl border border-line p-4 text-sm text-ivory-muted" hidden>
+                <p class="text-ivory">Thanks for reaching out.</p>
+                <p class="mt-2">
+                  For the fastest reply, message us on
+                  <a href={INSTAGRAM_URL} target="_blank" rel="noopener" class="text-gold-200 underline-offset-2 hover:underline">Instagram</a>{waLink ? (<> or <a href={waLink} target="_blank" rel="noopener" class="text-gold-200 underline-offset-2 hover:underline">WhatsApp</a></>) : null}, and we'll take it from there.
+                </p>
+              </div>
+              <script is:inline>
+                (function () {
+                  var f = document.getElementById("contact-form");
+                  var ok = document.getElementById("contact-fallback");
+                  if (!f || !ok) return;
+                  f.addEventListener("submit", function (e) {
+                    e.preventDefault();
+                    if (!f.reportValidity()) return;
+                    f.hidden = true;
+                    ok.hidden = false;
+                    ok.scrollIntoView({ behavior: "smooth", block: "nearest" });
+                  });
+                })();
+              </script>
+            </>
+          )}
         </div>
       </div>
+
+      <p class="mx-auto mt-10 max-w-2xl text-center text-sm text-ivory-faint">
+        Want to see Nexli first? Explore the
+        <a href="/demo" class="text-gold-200 underline-offset-2 hover:underline">interactive live demo</a>,
+        with no signup and no login.
+      </p>
     </div>
   </section>
-</BaseLayout>
 
-<style is:global>
-  .nx-input {
-    width: 100%;
-    border-radius: 0.75rem;
-    border: 1px solid var(--color-line);
-    background: rgba(255, 255, 255, 0.02);
-    padding: 0.7rem 0.9rem;
-    font-size: 0.9rem;
-    color: var(--color-ivory);
-    transition: border-color 0.2s ease;
-  }
-  .nx-input::placeholder { color: var(--color-ivory-faint); }
-  .nx-input:focus { outline: none; border-color: rgba(198, 165, 92, 0.6); }
-</style>
+  <style is:global>
+    .nx-input {
+      width: 100%;
+      border-radius: 0.75rem;
+      border: 1px solid var(--color-line);
+      background: rgba(255, 255, 255, 0.02);
+      padding: 0.7rem 0.9rem;
+      font-size: 0.9rem;
+      color: var(--color-ivory);
+      transition: border-color 0.2s ease;
+    }
+    .nx-input::placeholder { color: var(--color-ivory-faint); }
+    .nx-input:focus { outline: none; border-color: rgba(198, 165, 92, 0.6); }
+  </style>
+</BaseLayout>

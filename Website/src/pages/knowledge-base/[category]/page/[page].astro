@@ -28,8 +28,8 @@ export async function getStaticPaths() {
 }
 const { category, articles, page, totalPages, totalCount } = Astro.props;
 const cat = KB_BY_SLUG[category.slug];
-const title = `${cat.title} — page ${page}`;
-const description = `${cat.title} guides for Indian schools — page ${page} of ${totalPages}.`;
+const title = `${cat.title} (page ${page})`;
+const description = `${cat.title} guides for Indian schools, page ${page} of ${totalPages}.`;
 ---
 <BaseLayout title={title} description={description} jsonLd={webPage({ title, description, path: `/knowledge-base/${category.slug}/page/${page}` })}>
   <KbCategoryView category={category} articles={articles} page={page} totalPages={totalPages} totalCount={totalCount} />

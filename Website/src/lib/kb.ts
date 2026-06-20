@@ -100,7 +100,7 @@ function normalize(entry: CollectionEntry<"kb">): Article {
     d.seo_description ||
     (d.seo && d.seo.description) ||
     firstParagraph(body) ||
-    `${title} — a practical guide for Indian schools.`;
+    `${title}: a practical guide for Indian schools.`;
   const description = clamp(stripMd(String(rawDesc)), 165);
 
   const date = d.date || d.published_date || d.updated_date;

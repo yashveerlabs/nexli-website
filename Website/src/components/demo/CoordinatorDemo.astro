@@ -9,9 +9,9 @@ const screens = [
   { id: "sections", label: "Section health", icon: "operations" },
 ];
 const sections = [
-  { name: "8 — A", strength: 34, attendance: 95, avg: 84 },
-  { name: "8 — B", strength: CLASS_ROSTER.length, attendance: 92, avg: 83 },
-  { name: "8 — C", strength: 33, attendance: 90, avg: 79 },
+  { name: "8-A", strength: 34, attendance: 95, avg: 84 },
+  { name: "8-B", strength: CLASS_ROSTER.length, attendance: 92, avg: 83 },
+  { name: "8-C", strength: 33, attendance: 90, avg: 79 },
 ];
 ---
 <DemoShell role="coordinator" title="Coordinator" screens={screens}>
@@ -31,7 +31,7 @@ const sections = [
           </div>
         ))}
       </div>
-      <p class="mt-5 border-t border-line pt-4 text-xs text-ivory-faint">Social Science is behind schedule — a coordinator can reassign periods or flag for the HOD.</p>
+      <p class="mt-5 border-t border-line pt-4 text-xs text-ivory-faint">Social Science is behind schedule, so a coordinator can reassign periods or flag for the HOD.</p>
     </div>
   </section>
 
@@ -54,11 +54,11 @@ const sections = [
       <div class="demo-panel">
         <h3 class="text-sm text-ivory">Next actions</h3>
         <ul class="mt-4 space-y-2.5 text-sm text-ivory-muted">
-          <li class="flex items-center gap-2"><Icon name="arrow-right" size={14} class="text-gold" /> Chase marks entry — 3 papers pending</li>
+          <li class="flex items-center gap-2"><Icon name="arrow-right" size={14} class="text-gold" /> Chase marks entry: 3 papers pending</li>
           <li class="flex items-center gap-2"><Icon name="arrow-right" size={14} class="text-gold" /> Moderate internal assessment</li>
           <li class="flex items-center gap-2"><Icon name="arrow-right" size={14} class="text-gold" /> Generate report cards on completion</li>
         </ul>
-        <p class="mt-4 text-xs text-ivory-faint">Report cards auto-populate from the gradebook — teachers review, not retype.</p>
+        <p class="mt-4 text-xs text-ivory-faint">Report cards auto-populate from the gradebook; teachers review, not retype.</p>
       </div>
     </div>
   </section>

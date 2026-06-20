@@ -25,7 +25,7 @@ const COMPONENTS: Record<string, any> = {
 const Demo = COMPONENTS[role.slug];
 
 const title = `${role.title} demo`;
-const description = `Explore Nexli as a ${role.title} — an interactive demo of ${SCHOOL.name} with sample data. No signup, no login, no email.`;
+const description = `Explore Nexli as a ${role.title}: an interactive demo of ${SCHOOL.name} with sample data. No signup, no login, no email.`;
 ---
 <BaseLayout title={title} description={description} jsonLd={webPage({ title, description, path: `/demo/${role.slug}` })}>
   <Demo />

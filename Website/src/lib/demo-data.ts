@@ -1,5 +1,5 @@
 // In-browser sample data for the interactive demo. Everything here is fictional
-// "Nexli Demo School" data — no real students, no backend, no auth. Hardcoded so
+// "Nexli Demo School" data, no real students, no backend, no auth. Hardcoded so
 // the demo runs entirely client-side.
 
 export const SCHOOL = {
@@ -13,7 +13,7 @@ export const ROLES = [
   { slug: "principal", title: "Principal", icon: "analytics", blurb: "School-wide overview, academics, fees and attendance health." },
   { slug: "vice-principal", title: "Vice Principal", icon: "shield", blurb: "Discipline, staff oversight and daily operations." },
   { slug: "teacher", title: "Teacher", icon: "academics", blurb: "Class dashboard, take attendance, enter marks, set homework." },
-  { slug: "coordinator", title: "Coordinator", icon: "operations", blurb: "Academic coordination — coverage, exams and section health." },
+  { slug: "coordinator", title: "Coordinator", icon: "operations", blurb: "Academic coordination: coverage, exams and section health." },
   { slug: "student", title: "Student", icon: "admissions", blurb: "Timetable, attendance, report card and assignments." },
   { slug: "parent", title: "Parent", icon: "communication", blurb: "Your child's overview, fees, attendance and messages." },
 ];
@@ -57,7 +57,7 @@ export const AT_RISK = [
   { name: "Vivaan Gupta", cls: "10-B", reason: "3 homework submissions missed", tone: "warn" },
 ];
 
-// Teacher's class: Class 8 — B
+// Teacher's class: Class 8-B
 export const CLASS_ROSTER = [
   { roll: 1, name: "Aanya Kapoor", attendance: 96, avg: 88, fees: "Paid" },
   { roll: 2, name: "Aarav Sharma", attendance: 71, avg: 74, fees: "Due" },
@@ -79,21 +79,21 @@ export const TIMETABLE = [
 ];
 
 export const HOMEWORK = [
-  { subject: "Mathematics", title: "Algebra worksheet 4 — linear equations", due: "Tomorrow", submitted: 24, total: 32 },
+  { subject: "Mathematics", title: "Algebra worksheet 4: linear equations", due: "Tomorrow", submitted: 24, total: 32 },
   { subject: "Science", title: "Lab record: photosynthesis experiment", due: "in 3 days", submitted: 18, total: 32 },
-  { subject: "English", title: "Essay — 'A place I love'", due: "in 5 days", submitted: 9, total: 32 },
+  { subject: "English", title: "Essay: 'A place I love'", due: "in 5 days", submitted: 9, total: 32 },
 ];
 
 export const ASSIGNMENTS_STUDENT = [
   { subject: "Mathematics", title: "Algebra worksheet 4", due: "Tomorrow", status: "Pending" },
   { subject: "Science", title: "Lab record: photosynthesis", due: "in 3 days", status: "Pending" },
-  { subject: "English", title: "Essay — 'A place I love'", due: "in 5 days", status: "Draft" },
+  { subject: "English", title: "Essay: 'A place I love'", due: "in 5 days", status: "Draft" },
   { subject: "Social Science", title: "Map work: rivers of India", due: "Submitted", status: "Done" },
 ];
 
 export const REPORT_CARD = {
   student: "Ishaan Verma",
-  cls: "Class 8 — B",
+  cls: "Class 8-B",
   term: "Term 1, 2026–27",
   subjects: [
     { name: "Mathematics", marks: 92, max: 100, grade: "A1" },
@@ -107,14 +107,14 @@ export const REPORT_CARD = {
 };
 
 export const MESSAGES = [
-  { from: "Class Teacher — 8B", time: "Today, 9:12 AM", text: "Reminder: Algebra worksheet 4 is due tomorrow. Please ensure Ishaan submits on time." },
+  { from: "Class Teacher, 8B", time: "Today, 9:12 AM", text: "Reminder: Algebra worksheet 4 is due tomorrow. Please ensure Ishaan submits on time." },
   { from: "Accounts Office", time: "Yesterday", text: "Term 2 fee invoice has been generated. Due by the 15th. Pay online from the Fees tab." },
-  { from: "Principal's Office", time: "2 days ago", text: "Annual Sports Day is on the 28th. Circular shared with consent form — kindly respond." },
+  { from: "Principal's Office", time: "2 days ago", text: "Annual Sports Day is on the 28th. Circular shared with consent form, kindly respond." },
 ];
 
 export const CHILD = {
   name: "Ishaan Verma",
-  cls: "Class 8 — B",
+  cls: "Class 8-B",
   roll: 3,
   attendance: 98,
   avg: 91,
@@ -131,15 +131,15 @@ export const FEES_LEDGER = [
 export const STAFF_TODAY = [
   { name: "Mr. Rao", dept: "Mathematics", status: "Present", note: "On duty" },
   { name: "Ms. Nair", dept: "Science", status: "Present", note: "On duty" },
-  { name: "Mrs. DeSouza", dept: "English", status: "On leave", note: "Approved — casual" },
+  { name: "Mrs. DeSouza", dept: "English", status: "On leave", note: "Approved: casual" },
   { name: "Mr. Khan", dept: "Social Science", status: "Present", note: "Substitution P4 8-B" },
   { name: "Ms. Sharma", dept: "Hindi", status: "Late", note: "Marked 08:22" },
 ];
 
 export const INCIDENTS = [
-  { type: "Discipline", detail: "Late arrival — repeated, Class 9-A", owner: "VP", tone: "warn" },
-  { type: "Safety", detail: "Lab safety drill scheduled — Block C", owner: "Coordinator", tone: "good" },
-  { type: "Maintenance", detail: "Projector fault reported — R-204", owner: "Facilities", tone: "warn" },
+  { type: "Discipline", detail: "Repeated late arrival, Class 9-A", owner: "VP", tone: "warn" },
+  { type: "Safety", detail: "Lab safety drill scheduled, Block C", owner: "Coordinator", tone: "good" },
+  { type: "Maintenance", detail: "Projector fault reported, R-204", owner: "Facilities", tone: "warn" },
 ];
 
 export const COVERAGE = [

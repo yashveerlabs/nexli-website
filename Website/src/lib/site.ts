@@ -7,9 +7,9 @@ export const SITE = {
   name: "Nexli",
   tagline: "Bringing clarity to complexity",
   description:
-    "Nexli is the School Operating System for modern education — manage admissions, academics, attendance, fees, compliance, communication, safety, HR, transport, hostel, and operations from a single platform.",
+    "Nexli is the School Operating System for modern education, bringing admissions, academics, attendance, fees, compliance, communication, safety, HR, transport, hostel and operations into a single platform.",
   // TODO(owner): replace with the real production domain once registered.
-  // Intentionally a placeholder — never a real or Nexli-branded domain.
+  // Intentionally a placeholder, never a real or Nexli-branded domain.
   url: "https://domain.com",
   locale: "en_IN",
   company: "Yashveer Labs",
@@ -17,17 +17,30 @@ export const SITE = {
 };
 
 // --- WhatsApp click-to-chat (primary "Contact Now" CTA) -----------------------
-// TODO(owner): replace with the real WhatsApp Business number — country code first,
+// TODO(owner): replace with the real WhatsApp Business number, country code first,
 // digits only, no "+", spaces, or dashes (e.g. "919812345678").
 export const WHATSAPP_NUMBER = "91XXXXXXXXXX";
 export const WHATSAPP_MESSAGE =
-  "Hi Nexli team, I'd like to learn more about Nexli — the School Operating System — for my school.";
+  "Hi Nexli team, I'd like to learn more about Nexli, the School Operating System, for my school.";
 export const WHATSAPP_DEMO_MESSAGE =
   "Hi Nexli team, I'd like to book a live demo of Nexli for my school.";
 
+// True only once the owner sets a real number (country code + digits, no "X").
+// Until then every WhatsApp CTA degrades gracefully to the on-site /contact page
+// instead of emitting a dead wa.me link, and the floating button is hidden.
+export const WHATSAPP_READY = /^\d{10,15}$/.test(WHATSAPP_NUMBER);
+
 export function whatsappHref(message: string = WHATSAPP_MESSAGE): string {
+  if (!WHATSAPP_READY) return "/contact";
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
 }
+
+// --- Email form (Web3Forms) backup channel ------------------------------------
+// TODO(owner): paste a free access key from https://web3forms.com to switch the
+// contact form live. Until then the form degrades gracefully to a friendly note
+// (no broken POST) and Instagram/WhatsApp stay the working channels.
+export const WEB3FORMS_KEY = "YOUR_WEB3FORMS_ACCESS_KEY";
+export const WEB3FORMS_READY = !/^YOUR_/i.test(WEB3FORMS_KEY) && WEB3FORMS_KEY.length >= 16;
 
 // --- Social -------------------------------------------------------------------
 export const INSTAGRAM_URL = "https://instagram.com/yashveerlabs";
@@ -128,11 +141,11 @@ export const FOOTER_GROUPS: FooterGroup[] = [
 
 // --- Module pillars (homepage grid) -------------------------------------------
 export const MODULES: { icon: string; title: string; desc: string }[] = [
-  { icon: "admissions", title: "Admissions", desc: "Enquiry to enrolment — online forms, merit lists, and document checks." },
+  { icon: "admissions", title: "Admissions", desc: "Enquiry to enrolment: online forms, merit lists, and document checks." },
   { icon: "academics", title: "Academics", desc: "Timetables, lesson plans, exams, gradebooks, and report cards." },
   { icon: "attendance", title: "Attendance", desc: "Daily, period-wise, and biometric attendance with instant alerts." },
   { icon: "fees", title: "Fees & Finance", desc: "Fee plans, invoices, receipts, refunds, and GST-ready accounting." },
-  { icon: "compliance", title: "Compliance", desc: "DPDP, POCSO, RTE, CBSE, and UDISE+ — handled by design." },
+  { icon: "compliance", title: "Compliance", desc: "DPDP, POCSO, RTE, CBSE, and UDISE+, handled by design." },
   { icon: "communication", title: "Communication", desc: "Announcements, notices, and parent messaging in one place." },
   { icon: "safety", title: "Safety & Wellbeing", desc: "Incident logs, health records, counselling, and POCSO workflows." },
   { icon: "hr", title: "HR & Payroll", desc: "Staff records, leave, payroll with PF / ESI / TDS, and payslips." },
