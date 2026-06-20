@@ -82,6 +82,25 @@ function sanitizeBody(body) {
   // No em-dashes in published prose (matches the blog's house style). A few source
   // files still carry them; normalise to a comma so rendered articles stay consistent.
   out = out.replace(/\s*—\s*/g, ", ");
+  // Some article bodies embed the canonical branding paragraphs inline, including a
+  // couple of claims that NEXLI_FACTS marks as not-yet-built (an "open API", real-time
+  // parent bus notifications). Soften those exact sentences here too, mirroring the
+  // dynamic branding blocks, so every rendered surface stays defensible.
+  out = out.replace(
+    "Want to use Nexli with a third-party app? The system supports open APIs.",
+    "Want to move your records elsewhere? Clean data export is built in."
+  );
+  out = out.replace(/\s*The system supports open APIs\./g, " Clean data export is built in.");
+  out = out.replace(/\s*The system includes APIs for third-party integration\./g, "");
+  out = out.replace(
+    "it integrates GPS tracking, RFID boarding, live alerts, and parent notifications. A parent is notified when their child boards the bus and again when they alight.",
+    "it brings GPS tracking and RFID boarding together."
+  );
+  out = out.replace(/\s*A parent is notified when their child boards the bus and again when they alight\./g, "");
+  out = out.replace(
+    /Nexli provides open APIs and standard export\/import formats\./g,
+    "Nexli provides standard data export and import formats."
+  );
   return out.trim();
 }
 

@@ -187,6 +187,16 @@ export function relatedArticles(article: Article, pool: Article[], n = 4): Artic
   return out;
 }
 
+// FAQ answers come from the raw (un-sanitised) body, so soften the few embedded
+// claims NEXLI_FACTS marks not-yet-built here too (keeps FAQ text + FAQPage JSON-LD
+// defensible). Data import/export is built; an open API is not yet.
+function softenClaims(s: string): string {
+  return s.replace(
+    /Nexli provides open APIs and standard export\/import formats\.?/gi,
+    "Nexli provides standard data export and import formats."
+  );
+}
+
 // ---- FAQ extraction from raw body -------------------------------------------
 export function extractFaqs(body: string): Faq[] {
   const region = body.match(
@@ -205,8 +215,8 @@ export function extractFaqs(body: string): Faq[] {
     let m: RegExpExecArray | null;
     const local: Faq[] = [];
     while ((m = re.exec(text)) !== null) {
-      const q = stripMd(m[1]);
-      const a = stripMd(m[2]);
+      const q = softenClaims(stripMd(m[1]));
+      const a = softenClaims(stripMd(m[2]));
       if (q.length > 4 && a.length > 4) local.push({ q, a });
     }
     if (local.length) {

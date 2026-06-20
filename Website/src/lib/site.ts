@@ -141,23 +141,23 @@ export const FOOTER_GROUPS: FooterGroup[] = [
 
 // --- Module pillars (homepage grid) -------------------------------------------
 export const MODULES: { icon: string; title: string; desc: string }[] = [
-  { icon: "admissions", title: "Admissions", desc: "Enquiry to enrolment: online forms, merit lists, and document checks." },
+  { icon: "admissions", title: "Admissions", desc: "Enquiry to enrolment: online forms, document checks, and offer letters." },
   { icon: "academics", title: "Academics", desc: "Timetables, lesson plans, exams, gradebooks, and report cards." },
   { icon: "attendance", title: "Attendance", desc: "Daily, period-wise, and biometric attendance with instant alerts." },
-  { icon: "fees", title: "Fees & Finance", desc: "Fee plans, invoices, receipts, refunds, and GST-ready accounting." },
+  { icon: "fees", title: "Fees & Finance", desc: "Fee plans, invoices, receipts, refunds, and a clean per-student ledger." },
   { icon: "compliance", title: "Compliance", desc: "DPDP, POCSO, RTE, CBSE, and UDISE+, handled by design." },
   { icon: "communication", title: "Communication", desc: "Announcements, notices, and parent messaging in one place." },
   { icon: "safety", title: "Safety & Wellbeing", desc: "Incident logs, health records, counselling, and POCSO workflows." },
   { icon: "hr", title: "HR & Payroll", desc: "Staff records, leave, payroll with PF / ESI / TDS, and payslips." },
   { icon: "transport", title: "Transport", desc: "Routes, stops, live bus tracking, and driver / conductor tools." },
   { icon: "hostel", title: "Hostel", desc: "Room allocation, roll-call, mess, gate-pass, and warden tools." },
-  { icon: "operations", title: "Operations", desc: "Inventory, library, certificates, visitors, and asset tracking." },
+  { icon: "operations", title: "Operations", desc: "Library, certificates, visitors, assets, and facility management." },
   { icon: "analytics", title: "Analytics", desc: "Live dashboards for every role, from the classroom to management." },
 ];
 
 // --- Compliance highlights ----------------------------------------------------
 export const COMPLIANCE: { icon: string; title: string; desc: string }[] = [
-  { icon: "shield", title: "DPDP Act 2023", desc: "Consent-first data handling, data-residency in India, and erasure registers." },
+  { icon: "shield", title: "DPDP Act 2023", desc: "Consent-first data handling, India-region hosting, and erasure registers." },
   { icon: "safety", title: "POCSO", desc: "Child-safety incident workflows with restricted access and an audit trail." },
   { icon: "academics", title: "RTE", desc: "25% EWS quota management with a separate, transparent pipeline." },
   { icon: "compliance", title: "CBSE & UDISE+", desc: "CBSE LOC export and UDISE+ annual reporting fields." },

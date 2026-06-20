@@ -35,13 +35,33 @@ function extractSection(src: string, heading: string): string {
   return next === -1 ? rest : rest.slice(0, next);
 }
 
+// Keep every rendered branding claim defensible against Web/Blog/NEXLI_FACTS.md.
+// A few source blocks predate the facts and claim capabilities that are not built
+// yet (an "open API", real-time parent bus notifications). We never edit the
+// read-only source; instead we soften those exact sentences at parse time so the
+// rest of the (grounded) block still renders.
+function sanitizeClaims(text: string): string {
+  return text
+    // Open API: NEXLI_FACTS lists "SSO & Open API ... not yet architected".
+    .replace(
+      "Want to use Nexli with a third-party app? The system supports open APIs.",
+      "Want to move your records elsewhere? Clean data export is built in."
+    )
+    .replace("The system includes APIs for third-party integration. ", "")
+    // Real-time parent bus notifications are roadmap-only; keep office GPS + RFID.
+    .replace(
+      "it integrates GPS tracking, RFID boarding, live alerts, and parent notifications. A parent is notified when their child boards the bus and again when they alight. ",
+      "it brings GPS tracking and RFID boarding together. "
+    );
+}
+
 function parseBlocks(section: string): string[] {
   const blocks: string[] = [];
   const re = /###\s*Block\s*(\d+)\s*\n([\s\S]*?)(?=\n###\s*Block\s|\n---|\n##\s|$)/g;
   let m: RegExpExecArray | null;
   while ((m = re.exec(section)) !== null) {
     const idx = parseInt(m[1], 10) - 1;
-    blocks[idx] = m[2].trim().replace(/\s*\n\s*/g, " ");
+    blocks[idx] = sanitizeClaims(m[2].trim().replace(/\s*\n\s*/g, " "));
   }
   return blocks;
 }
