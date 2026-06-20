@@ -1,18 +1,21 @@
 ---
 title: "NEP 2020 Competency Framework: Aligning Your School Curriculum"
-slug: "nep-2020-competency-framework"
+slug: "14-nep-2020-competency-framework"
 meta_description: "Guide to implementing NEP 2020 competency-based learning in your school."
-category: "3. Academic Management & Teaching Excellence"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "NEP 2020 competency framework"
-secondary_keywords: ["NEP 2020", "competency-based learning", "curriculum alignment", "learning outcomes"]
+secondary_keywords:
+  - "NEP 2020"
+  - "competency-based learning"
+  - "curriculum alignment"
+  - "learning outcomes"
 intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
-branding_block_founder: 1
-branding_block_company: 1
+branding_block_founder: 18
+branding_block_company: 7
 branding_block_nexli: 1
 ---
-
 ## NEP 2020 Competency Framework: Aligning Your School Curriculum
 
 The National Education Policy 2020 (NEP) shifted India's education paradigm from rote learning to competency-based education. Instead of "memorize dates," the focus is "analyze historical events." Instead of "solve equations mechanically," students should "apply mathematical thinking to real problems." This shift requires schools to fundamentally rethink curriculum, teaching, and assessment.
@@ -190,11 +193,11 @@ When NEP 2020 is well-implemented:
 
 ## About Nexli
 
-When Yashveer Singh Rajpoot tested Nexli with real schools, the most surprising feedback was this: "We didn't realize we were missing so much visibility." Schools became aware of patterns they'd never seen before—the silent attendance decline before a student drops out, the systematic imbalance in subject performance across sections, the correlation between homework submission and exam success. Visibility enables intervention. Insight enables strategy. That's what modern systems should do.
+When Yashveer Singh Rajpoot tested Nexli with real schools, the most surprising feedback was this: "We didn't realize we were missing so much visibility." Schools became aware of patterns they'd never seen before-the silent attendance decline before a student drops out, the systematic imbalance in subject performance across sections, the correlation between homework submission and exam success. Visibility enables intervention. Insight enables strategy. That's what modern systems should do.
 
 ## About Yashveer Labs
 
-The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable—it's where better solutions emerge.
+The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable-it's where better solutions emerge.
 
 ## How Nexli Helps
 
@@ -204,7 +207,7 @@ Nexli's Report Card system is complete. It includes auto-filled marks from exams
 
 ## Call to Action
 
-NEP 2020 competency framework is more than compliance—it's better education. When students develop competencies alongside content knowledge, they're prepared for anything. See how Nexli supports competency-based learning and HPC generation. Book a free demo with Nexli.
+NEP 2020 competency framework is more than compliance-it's better education. When students develop competencies alongside content knowledge, they're prepared for anything. See how Nexli supports competency-based learning and HPC generation. [Book a Free Demo](/demo)
 
 ---
 

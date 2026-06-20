@@ -1,174 +1,117 @@
-﻿---
-title: "FSSAI License"
-slug: "fssai-license"
-category: "Compliance"
-category_number: 7
-article_number: 78
-published: true
-seo:
-  description: "Complete compliance guide for FSSAI License in Indian schools."
-  keywords: "school compliance, FSSAI License, Indian education"
-  canonical: "https://nexli.io/blog/compliance/fssai-license"
-branding_block: 8
+---
+title: "FSSAI License for Schools: Do Schools Need One and How to Get It"
+slug: "78-fssai-license"
+meta_description: "Determine if your school needs an FSSAI license or registration. Covers applicability for school canteens, hostel mess, caterers, PM POSHAN kitchens, and how to apply."
+category: "Compliance, Governance & Legal"
+primary_keyword: "FSSAI license schools India"
+secondary_keywords:
+  - "school canteen FSSAI"
+  - "food safety school India"
+  - "FSSAI registration school"
+  - "school kitchen food license"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 10
+branding_block_company: 10
+branding_block_nexli: 10
+---
+The Food Safety and Standards Authority of India (FSSAI) regulates food businesses in India under the Food Safety and Standards Act 2006. Schools that operate canteens, hostel mess facilities, midday meal kitchens, or sell food to students are engaged in food business activities and may require FSSAI registration or licensing.
+
+## Who Needs FSSAI Registration or License
+
+**FSSAI Basic Registration** (for small food businesses):
+- School canteens with annual turnover below Rs. 12 lakh
+- School mess or hostel kitchen serving only the school's own students
+- PM POSHAN (midday meal) kitchens in government schools
+
+**FSSAI State License**:
+- Canteens or food operations with annual turnover between Rs. 12 lakh and Rs. 20 crore
+
+**FSSAI Central License**:
+- Operations with turnover above Rs. 20 crore (very large school chains or catering services)
+
+Most individual school canteens and hostel mess facilities will fall under Basic Registration or State License depending on scale.
+
+## What Activities Require FSSAI Coverage
+
+- School canteen selling food to students and staff
+- Hostel mess providing meals to boarding students
+- School kitchen preparing midday meals under PM POSHAN
+- External caterer operating from school premises (caterer must have their own FSSAI license)
+- School selling packaged food items (snacks, beverages)
+
+## What Is Not Covered
+
+- School events where parents prepare and serve food at a one-time event (generally not commercial food business)
+- Staff bringing their own food (not a food business activity)
+
+## FSSAI Registration Process
+
+For Basic Registration:
+1. Apply online at the FSSAI portal (foscos.fssai.gov.in)
+2. Provide details: business name, address, food category, annual turnover
+3. Upload required documents: identity proof, address proof, proof of school registration
+4. Pay registration fee (nominal amount)
+5. Certificate issued within 7 working days (for basic registration)
+
+For State License:
+1. Apply online at FSSAI portal
+2. Provide detailed business plan, site plan, list of food products
+3. Inspection by state food safety officer may be required
+4. License issued after inspection and approval
+
+## Food Safety Compliance After Registration
+
+FSSAI registration/license is the beginning, not the end. Ongoing obligations:
+
+**Hygiene:**
+- Kitchen kept clean; no pest infestation
+- Food handlers maintain personal hygiene (clean hands, hair covered, no illness while handling food)
+- Food contact surfaces cleaned and sanitized daily
+
+**Food handling:**
+- Cooked food served promptly or stored at appropriate temperatures
+- No reuse of leftover cooked food after specified holding time
+- Raw and cooked foods stored separately
+
+**Supplier documentation:**
+- Purchase food from licensed food businesses
+- Maintain purchase records
+
+**Annual renewal:**
+- FSSAI registration must be renewed annually
+
+## How Nexli Helps
+
+Nexli's compliance calendar tracks FSSAI registration renewal dates. Hostel and canteen operations can be managed through Nexli's hostel and cafeteria modules, with meal records that support PM POSHAN compliance.
+
+[Book a Free Demo](/demo) to see Nexli's hostel and canteen compliance tools.
+
 ---
 
-## Introduction to FSSAI License
+**About Nexli:** Nexli's compliance calendar tracks FSSAI renewal dates alongside other school compliance obligations. Hostel and cafeteria modules maintain meal records that support food safety audit readiness.
 
-FSSAI License is a critical compliance requirement for educational institutions in India. This comprehensive guide covers all aspects of implementation, requirements, and best practices.
+**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli knowing that schools are complex multi-function operations, education, accommodation, food service. Compliance across all these functions is tracked in one system.
 
-## Legal Framework
+**How Nexli Helps:** Yashveer Labs invests in compliance coverage that matches school operational reality. Food safety compliance is part of the same compliance framework as educational and governance compliance.
 
-The requirement for FSSAI License stems from:
-- Central and State education policies
-- Statutory regulations
-- Board directives
-- Ministry guidelines
-- Supreme Court judgments
+---
 
-## Key Requirements
+## FAQ
 
-Schools must:
-1. Understand compliance requirements
-2. Develop implementation procedures
-3. Train staff members
-4. Maintain proper documentation
-5. Conduct periodic audits
-6. Report to authorities as required
-7. Address deficiencies promptly
+**Q: Must the school canteen operator have their own FSSAI license, or does the school's license cover them?**
 
-## Nexli FACTS for Compliance Management
+A: If the canteen is run by an external operator (concessionaire), the operator must have their own FSSAI license. The school's registration does not extend to independent operators. The school should verify that any external caterer has current FSSAI compliance before allowing them to operate.
 
-Nexli's Compliance module supports FSSAI License through:
+**Q: Does a school need FSSAI registration if it only serves water?**
 
-- **Compliance Calendar**: Automated reminders for deadlines and key dates
-- **Document Storage**: Secure cloud storage for all compliance documents
-- **Audit Trails**: Complete record of all actions taken for compliance
-- **Policy Tracking**: Monitor policy implementation across school
-- **Report Generation**: Create compliance reports for audits and inspections
-- **Task Assignment**: Assign compliance tasks to responsible staff
-- **Checklist Management**: Track completion of compliance requirements
-- **Digital Archiving**: Maintain accessible records for inspections
+A: Packaged drinking water requires FSSAI compliance. Plain tap water or filtered water provided at the school does not require FSSAI registration.
 
-## Implementation Strategy
+**Q: What happens during an FSSAI inspection?**
 
-Develop a structured approach:
+A: A food safety officer checks: registration certificate validity, kitchen hygiene, food handling practices, storage conditions, pest control records, and food handler health. Serious violations can result in closure of the food operation.
 
-**Phase 1: Planning**
-- Understand requirements
-- Identify gaps
-- Create action plan
-- Allocate resources
-- Set timelines
+**Q: Can FSSAI compliance be combined with state food safety authority requirements?**
 
-**Phase 2: Implementation**
-- Train staff
-- Develop procedures
-- Update systems
-- Create documentation
-- Communicate to stakeholders
-
-**Phase 3: Monitoring**
-- Track progress
-- Conduct audits
-- Address issues
-- Update procedures
-- Maintain records
-
-**Phase 4: Reporting**
-- Prepare compliance reports
-- Submit to authorities
-- Document improvements
-- Plan next steps
-- Share with board
-
-## Common Challenges
-
-- Understanding complex requirements
-- Limited staff resources
-- Data management issues
-- Coordination across departments
-- Maintaining documentation
-- Staying updated on changes
-
-## Best Practices
-
-1. **Create detailed procedures** for all compliance activities
-2. **Train staff regularly** on compliance requirements
-3. **Use digital tools** like Nexli for efficient management
-4. **Conduct regular audits** to ensure compliance
-5. **Maintain organized documentation** for easy retrieval
-6. **Communicate transparently** with stakeholders
-7. **Stay updated** on policy changes
-8. **Plan ahead** for compliance deadlines
-
-## Documentation Checklist
-
-Essential documents for FSSAI License:
-- [ ] Policy documents
-- [ ] Procedure manuals
-- [ ] Staff training records
-- [ ] Audit reports
-- [ ] Inspection certificates
-- [ ] Government correspondence
-- [ ] Implementation records
-- [ ] Compliance reports
-
-## Risk Management
-
-Identify and mitigate risks:
-- Incomplete documentation
-- Missed deadlines
-- Staff non-compliance
-- System failures
-- Data loss
-- Regulatory changes
-
-## Technology Solutions
-
-Implement digital solutions to:
-- Automate compliance tracking
-- Centralize documentation
-- Streamline reporting
-- Reduce manual errors
-- Improve accessibility
-- Ensure data security
-
-## Training and Awareness
-
-Ensure all staff understand:
-- Regulatory requirements
-- School procedures
-- Their responsibilities
-- Consequences of non-compliance
-- Available support systems
-
-## Audit and Verification
-
-Prepare for audits by:
-- Maintaining complete documentation
-- Organizing records systematically
-- Creating summary reports
-- Addressing previous findings
-- Updating procedures as needed
-
-## Reporting to Authorities
-
-When required, submit:
-- Compliance certificates
-- Audit reports
-- Implementation status
-- Corrections made
-- Future plans
-
-## Continuous Improvement
-
-Establish process to:
-- Review compliance effectiveness
-- Identify improvement areas
-- Update procedures
-- Train on changes
-- Document improvements
-
-## Conclusion
-
-FSSAI License requires systematic implementation, proper documentation, and continuous monitoring. By using comprehensive compliance management systems like Nexli, schools can efficiently meet all requirements while maintaining proper audit trails and documentation for inspections.
+A: FSSAI is the national standard. Some states have additional food safety requirements. Schools should confirm state-specific requirements with the state food safety authority.

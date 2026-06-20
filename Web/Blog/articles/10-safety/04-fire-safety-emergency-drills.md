@@ -1,8 +1,8 @@
 ---
 title: "Fire Safety and Emergency Drills: Preparation and Response"
-slug: "fire-safety-emergency-drills"
+slug: "04-fire-safety-emergency-drills"
 meta_description: "Complete fire safety guide for schools. Learn evacuation procedures, emergency drill best practices, and how to ensure student and staff safety."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "fire safety schools"
 secondary_keywords:
   - "emergency evacuation"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Fire Safety and Emergency Drills: Preparation and Response
 
 **Fire is one of the most immediate threats to a school. Every principal must have a fire evacuation plan, conduct regular drills, maintain equipment, and train staff. This guide covers fire prevention, detection, evacuation procedures, emergency drills, and post-incident response. Implementation of these practices significantly reduces fire risk and ensures rapid, safe evacuation if fire does occur.**
@@ -75,7 +74,7 @@ branding_block_nexli: 8
 - Include lockdown drill (1x per year, if applicable to region)
 
 **Fire Drill Protocol:**
-1. **Announce:** "Fire drill—evacuate building now"
+1. **Announce:** "Fire drill, evacuate building now"
 2. **Evacuate:** All teachers evacuate classrooms via planned routes
 3. **Assemble:** Students gather at assembly point
 4. **Roster:** Teachers account for all students
@@ -202,13 +201,17 @@ branding_block_nexli: 8
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Yashveer designed Nexli with safety at the core, including compliance reminders and incident tracking to ensure schools never miss a deadline or lesson.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, with no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**  
-Yashveer Labs believes fire safety is non-negotiable. Systems that remind, track, and document make safety sustainable.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails: these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**  
-Nexli's Compliance Calendar includes fire NOC renewal reminders and drill scheduling. Incident Logging captures fire-related events. Communications enable emergency alerts.
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
+
+---
+
+**Ready to automate fire NOC reminders, drill scheduling, and incident logging?** [Book a Free Demo](/demo)
 
 ---
 

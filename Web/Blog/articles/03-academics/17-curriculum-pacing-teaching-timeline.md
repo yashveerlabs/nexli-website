@@ -1,21 +1,24 @@
 ---
 title: "Curriculum Pacing: Creating a Realistic Teaching Timeline"
-slug: "curriculum-pacing-teaching-timeline"
+slug: "17-curriculum-pacing-teaching-timeline"
 meta_description: "How to create pacing guides that ensure curriculum completion without rushed teaching."
-category: "3. Academic Management & Teaching Excellence"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "curriculum pacing guide"
-secondary_keywords: ["pacing guide", "teaching timeline", "curriculum scheduling", "lesson pacing"]
+secondary_keywords:
+  - "pacing guide"
+  - "teaching timeline"
+  - "curriculum scheduling"
+  - "lesson pacing"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
-branding_block_founder: 1
+branding_block_founder: 6
 branding_block_company: 1
-branding_block_nexli: 1
+branding_block_nexli: 4
 ---
-
 ## Curriculum Pacing: Creating a Realistic Teaching Timeline
 
-A teacher has 180 school days. The curriculum has 12 chapters. That leaves 15 days per chapter—sounds reasonable. But then a teacher gets sick (3 days lost), a sports event pulls out students (2 days), holidays arrive early (unexpected 5 days), and suddenly there's no time. Without intentional pacing, teachers rush through material or leave topics untaught. Both hurt student learning.
+A teacher has 180 school days. The curriculum has 12 chapters. That leaves 15 days per chapter-sounds reasonable. But then a teacher gets sick (3 days lost), a sports event pulls out students (2 days), holidays arrive early (unexpected 5 days), and suddenly there's no time. Without intentional pacing, teachers rush through material or leave topics untaught. Both hurt student learning.
 
 ### The Problem: Rushed or Incomplete Teaching
 
@@ -65,8 +68,8 @@ Example:
 
 #### 2. Audit Curriculum Content
 List all chapters/units and estimate duration:
-- Quick audit: Ask experienced teachers—how long does each chapter take?
-- Better: Analyze past data—what dates were chapters taught last year?
+- Quick audit: Ask experienced teachers-how long does each chapter take?
+- Better: Analyze past data-what dates were chapters taught last year?
 - Best: Pilot the timeline with one section; gather actual data
 
 #### 3. Assign Content to Weeks
@@ -208,11 +211,11 @@ When pacing is well-planned:
 
 ## About Nexli
 
-Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP—they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
+Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP-they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
 ## About Yashveer Labs
 
-Yashveer Labs made a deliberate choice: Nexli is not subsidized, not freemium, not artificially cheap. Schools pay what the system is worth because quality work costs real money. But the company equally decided that every feature—even in the smallest plan—is complete. Admissions, academics, fees, HR, compliance, safety, communication—all schools get all of it. Affordability should mean good price, not stripped-down features.
+Yashveer Labs made a deliberate choice: Nexli is not subsidized, not freemium, not artificially cheap. Schools pay what the system is worth because quality work costs real money. But the company equally decided that every feature-even in the smallest plan-is complete. Admissions, academics, fees, HR, compliance, safety, communication-all schools get all of it. Affordability should mean good price, not stripped-down features.
 
 ## How Nexli Helps
 
@@ -222,14 +225,14 @@ Nexli was designed with a clear principle: data is shared, but permissions are s
 
 ## Call to Action
 
-Pacing turns curriculum from overwhelming to manageable. When teaching is intentionally paced, students learn deeply and exams become natural conclusions. See how Nexli's pacing tracking keeps schools on schedule. Book a free demo with Nexli.
+Pacing turns curriculum from overwhelming to manageable. When teaching is intentionally paced, students learn deeply and exams become natural conclusions. See how Nexli's pacing tracking keeps schools on schedule. [Book a Free Demo](/demo)
 
 ---
 
 ## FAQ
 
 **Q: What if we fall behind schedule?**  
-A: Have a conversation: Can you catch up? Do we need to adjust the pacing guide? Can we streamline some content? Don't just rush—adjust intentionally.
+A: Have a conversation: Can you catch up? Do we need to adjust the pacing guide? Can we streamline some content? Don't just rush-adjust intentionally.
 
 **Q: Should pacing be the same for all sections?**  
 A: Generally yes, for consistency. But high-performing sections may move faster (with additional enrichment); lower-performing sections may need more time. Monitor and adjust.

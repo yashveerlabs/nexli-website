@@ -1,8 +1,8 @@
 ---
 title: "Instagram for Schools: Visual Storytelling and Engagement"
-slug: "instagram-schools-visual-storytelling"
+slug: "11-instagram-schools-visual-storytelling"
 meta_description: "Use Instagram to showcase your school visually. Learn content strategy, hashtags, Reels, Stories, and how to build an engaged community."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "Instagram schools"
 secondary_keywords:
   - "school social media"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Instagram for Schools: Visual Storytelling and Engagement
 
 **Instagram is visual storytelling. Share high-quality photos and videos of student life, events, and achievements. This guide covers content strategy, Reels, Stories, and growth hacks.**
@@ -91,9 +90,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports School Marketing
 
-Nexli integrates Instagram for visual school marketing.
+Nexli's Skills Passport and Gamification Dashboard give your school a constant stream of real achievements (badges, streaks, leaderboard positions) to share on Instagram. [Book a Free Demo](/demo) to see Nexli's student achievement features.
 
 ---
 

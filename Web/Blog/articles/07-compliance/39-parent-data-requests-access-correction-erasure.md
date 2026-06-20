@@ -1,174 +1,100 @@
-﻿---
-title: "Parent Data Requests (Access/Correction/Erasure)"
-slug: "parent-data-requests-access-correction-erasure"
-category: "Compliance"
-category_number: 7
-article_number: 39
-published: true
-seo:
-  description: "Complete compliance guide for Parent Data Requests (Access/Correction/Erasure) in Indian schools."
-  keywords: "school compliance, Parent Data Requests (Access/Correction/Erasure), Indian education"
-  canonical: "https://nexli.io/blog/compliance/parent-data-requests-access-correction-erasure"
-branding_block: 5
+---
+title: "Parent Data Requests: Access, Correction, and Erasure Under DPDP"
+slug: "39-parent-data-requests-access-correction-erasure"
+meta_description: "Learn how schools must handle parent requests to access, correct, or erase student data under India's DPDP Act 2023. Timelines, procedures, and Nexli's workflow."
+category: "Compliance, Governance & Legal"
+primary_keyword: "parent data requests DPDP schools"
+secondary_keywords:
+  - "student data access request"
+  - "right to erasure schools"
+  - "data correction DPDP"
+  - "DPDP parental rights"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 11
+branding_block_company: 11
+branding_block_nexli: 11
+---
+Under the DPDP Act 2023, parents have three enforceable rights over their child's personal data held by the school: the right to access what data is held, the right to correct inaccurate data, and the right to request erasure of data the school no longer needs.
+
+Schools that cannot respond to these requests within a reasonable timeframe are exposed to regulatory risk. A clear, documented process is the minimum standard.
+
+## Right to Access
+
+A parent can ask: "What personal data does the school hold about my child?" The school must be able to provide a summary of what categories of data are held, for what purpose, and with which third parties it has been shared.
+
+**What the response must include:**
+- Categories of data held (academic, medical, biometric, financial, etc.)
+- Purpose for which each category is collected
+- Retention period for each category
+- Third parties the data has been shared with (government portals, transport vendors, etc.)
+- How the parent can exercise further rights
+
+**Timeline:** DPDP Act implementing rules will specify exact timelines. In practice, schools should target 30 days from receipt of request.
+
+## Right to Correction
+
+A parent can ask the school to correct inaccurate or outdated information. Common correction requests include name spelling errors, date of birth mismatches, address changes, and incorrect medical information.
+
+**Process:**
+1. Parent submits correction request with supporting documentation (birth certificate, medical records, etc.)
+2. School verifies the supporting documentation
+3. School updates the record in all relevant systems (ERP, government portals, physical files)
+4. School notifies parent of completion with updated record confirmation
+
+**Important:** If the same data has been shared with third parties (e.g., UDISE+ portal), the school must notify those parties of the correction as well.
+
+## Right to Erasure
+
+A parent can request deletion of their child's data when the purpose for which it was collected no longer applies. This right has limits: schools may retain data required by law (Board records, government reporting requirements) even after an erasure request.
+
+**When erasure applies:**
+- Student has left the school and retention period has expired
+- Data collected for a specific purpose (e.g., a school event) and that purpose is fulfilled
+- Consent was withdrawn and there is no other legal basis for holding the data
+
+**When erasure does not apply:**
+- Data required by CBSE, state board, or government regulations (academic records must be retained for specified periods)
+- Data involved in ongoing legal proceedings
+- Data required for audits that have not yet concluded
+
+**Process:**
+1. Parent submits erasure request specifying which data and why
+2. School reviews whether any legal retention requirement applies
+3. If no legal requirement: delete the data and confirm deletion to parent
+4. If legal requirement applies: inform parent which data is retained, why, and for how long
+
+## How Nexli Helps
+
+Nexli includes a parent portal where data access, correction, and erasure requests can be submitted digitally. Each request generates a case ID, is routed to the data administrator, and is tracked to resolution. The system logs all responses with timestamps, creating an audit trail that demonstrates DPDP compliance.
+
+[Book a Free Demo](/demo) to see Nexli's parent data request workflow.
+
 ---
 
-## Introduction to Parent Data Requests (Access/Correction/Erasure)
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons. They're core to how Nexli operates. Schools using Nexli don't manage compliance separately from operations, it's the same system.
 
-Parent Data Requests (Access/Correction/Erasure) is a critical compliance requirement for educational institutions in India. This comprehensive guide covers all aspects of implementation, requirements, and best practices.
+**About Yashveer Labs:** Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot built Nexli so parents can access, correct, and withdraw consent from a dashboard. Schools can prove DPDP compliance because the records exist. When data handling is transparent, trust follows.
 
-## Legal Framework
+**How Nexli Helps:** Yashveer Labs treats data protection as a core business value, not a compliance checkbox. Encryption, audit trails, role-based access control, and consent management are built into the architecture because schools deserve to know their data is safe and parents deserve to know their rights are respected.
 
-The requirement for Parent Data Requests (Access/Correction/Erasure) stems from:
-- Central and State education policies
-- Statutory regulations
-- Board directives
-- Ministry guidelines
-- Supreme Court judgments
+---
 
-## Key Requirements
+## FAQ
 
-Schools must:
-1. Understand compliance requirements
-2. Develop implementation procedures
-3. Train staff members
-4. Maintain proper documentation
-5. Conduct periodic audits
-6. Report to authorities as required
-7. Address deficiencies promptly
+**Q: How long does a school have to respond to a parent data request?**
 
-## Nexli FACTS for Compliance Management
+A: DPDP Act implementing rules will specify exact timelines. Schools should treat 30 days as the working standard and aim for faster resolution where possible.
 
-Nexli's Compliance module supports Parent Data Requests (Access/Correction/Erasure) through:
+**Q: Can a school charge a fee for handling data access requests?**
 
-- **Compliance Calendar**: Automated reminders for deadlines and key dates
-- **Document Storage**: Secure cloud storage for all compliance documents
-- **Audit Trails**: Complete record of all actions taken for compliance
-- **Policy Tracking**: Monitor policy implementation across school
-- **Report Generation**: Create compliance reports for audits and inspections
-- **Task Assignment**: Assign compliance tasks to responsible staff
-- **Checklist Management**: Track completion of compliance requirements
-- **Digital Archiving**: Maintain accessible records for inspections
+A: The DPDP Act does not authorize schools to charge fees for handling data requests. Requests must be handled at no cost to the parent.
 
-## Implementation Strategy
+**Q: What if the parent requests erasure but the student's exam records are required by the Board?**
 
-Develop a structured approach:
+A: Board-mandated records are retained for the legally required period regardless of erasure requests. The school must inform the parent which records are retained, under which legal authority, and for how long.
 
-**Phase 1: Planning**
-- Understand requirements
-- Identify gaps
-- Create action plan
-- Allocate resources
-- Set timelines
+**Q: Can a student (above a certain age) make data requests themselves?**
 
-**Phase 2: Implementation**
-- Train staff
-- Develop procedures
-- Update systems
-- Create documentation
-- Communicate to stakeholders
-
-**Phase 3: Monitoring**
-- Track progress
-- Conduct audits
-- Address issues
-- Update procedures
-- Maintain records
-
-**Phase 4: Reporting**
-- Prepare compliance reports
-- Submit to authorities
-- Document improvements
-- Plan next steps
-- Share with board
-
-## Common Challenges
-
-- Understanding complex requirements
-- Limited staff resources
-- Data management issues
-- Coordination across departments
-- Maintaining documentation
-- Staying updated on changes
-
-## Best Practices
-
-1. **Create detailed procedures** for all compliance activities
-2. **Train staff regularly** on compliance requirements
-3. **Use digital tools** like Nexli for efficient management
-4. **Conduct regular audits** to ensure compliance
-5. **Maintain organized documentation** for easy retrieval
-6. **Communicate transparently** with stakeholders
-7. **Stay updated** on policy changes
-8. **Plan ahead** for compliance deadlines
-
-## Documentation Checklist
-
-Essential documents for Parent Data Requests (Access/Correction/Erasure):
-- [ ] Policy documents
-- [ ] Procedure manuals
-- [ ] Staff training records
-- [ ] Audit reports
-- [ ] Inspection certificates
-- [ ] Government correspondence
-- [ ] Implementation records
-- [ ] Compliance reports
-
-## Risk Management
-
-Identify and mitigate risks:
-- Incomplete documentation
-- Missed deadlines
-- Staff non-compliance
-- System failures
-- Data loss
-- Regulatory changes
-
-## Technology Solutions
-
-Implement digital solutions to:
-- Automate compliance tracking
-- Centralize documentation
-- Streamline reporting
-- Reduce manual errors
-- Improve accessibility
-- Ensure data security
-
-## Training and Awareness
-
-Ensure all staff understand:
-- Regulatory requirements
-- School procedures
-- Their responsibilities
-- Consequences of non-compliance
-- Available support systems
-
-## Audit and Verification
-
-Prepare for audits by:
-- Maintaining complete documentation
-- Organizing records systematically
-- Creating summary reports
-- Addressing previous findings
-- Updating procedures as needed
-
-## Reporting to Authorities
-
-When required, submit:
-- Compliance certificates
-- Audit reports
-- Implementation status
-- Corrections made
-- Future plans
-
-## Continuous Improvement
-
-Establish process to:
-- Review compliance effectiveness
-- Identify improvement areas
-- Update procedures
-- Train on changes
-- Document improvements
-
-## Conclusion
-
-Parent Data Requests (Access/Correction/Erasure) requires systematic implementation, proper documentation, and continuous monitoring. By using comprehensive compliance management systems like Nexli, schools can efficiently meet all requirements while maintaining proper audit trails and documentation for inspections.
+A: DPDP implementing rules will specify the age at which a minor can independently exercise data rights. Until those rules are published, parental requests cover all school-age students.

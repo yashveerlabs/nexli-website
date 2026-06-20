@@ -1,18 +1,21 @@
 ---
 title: "How to Identify and Support Low-Performing Students Early"
-slug: "identify-support-low-performing-students"
+slug: "19-identify-support-low-performing-students"
 meta_description: "Early identification and intervention strategies for struggling students."
-category: "3. Academic Management & Teaching Excellence"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "support low-performing students"
-secondary_keywords: ["student support", "early intervention", "struggling students", "academic support"]
+secondary_keywords:
+  - "student support"
+  - "early intervention"
+  - "struggling students"
+  - "academic support"
 intent: "problem-solving"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 2
-branding_block_company: 2
-branding_block_nexli: 2
+branding_block_company: 8
+branding_block_nexli: 3
 ---
-
 ## How to Identify and Support Low-Performing Students Early
 
 Early intervention is the most effective approach to supporting struggling students. Identifying problems in October (not December) gives months to intervene before year-end exams. Without systematic identification, struggling students fall further behind.
@@ -92,7 +95,7 @@ Behind Nexli is an investment in depth. The Attendance module tracks period-wise
 
 ## About Yashveer Labs
 
-Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails—these are non-negotiable.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails-these are non-negotiable.
 
 ## How Nexli Helps
 
@@ -102,7 +105,7 @@ Nexli includes built-in support for India's regulatory reality: DPDP Act consent
 
 ## Call to Action
 
-Early identification saves struggling students. When schools can spot problems within weeks (not months), intervention time increases dramatically. See how Nexli's at-risk student flagging enables early intervention. Book a free demo with Nexli.
+Early identification saves struggling students. When schools can spot problems within weeks (not months), intervention time increases dramatically. See how Nexli's at-risk student flagging enables early intervention. [Book a Free Demo](/demo)
 
 ---
 

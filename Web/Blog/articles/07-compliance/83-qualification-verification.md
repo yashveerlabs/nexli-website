@@ -1,174 +1,101 @@
-﻿---
-title: "Qualification Verification"
-slug: "qualification-verification"
-category: "Compliance"
-category_number: 7
-article_number: 83
-published: true
-seo:
-  description: "Complete compliance guide for Qualification Verification in Indian schools."
-  keywords: "school compliance, Qualification Verification, Indian education"
-  canonical: "https://nexli.io/blog/compliance/qualification-verification"
-branding_block: 5
+---
+title: "Teacher Qualification Verification: What Schools Must Check"
+slug: "83-qualification-verification"
+meta_description: "Verify teacher qualifications before hiring. Covers B.Ed. verification, CTET/TET certificate checks, RTE qualification norms, CBSE requirements, and fake certificate risks."
+category: "Compliance, Governance & Legal"
+primary_keyword: "teacher qualification verification schools"
+secondary_keywords:
+  - "B.Ed verification school"
+  - "teacher eligibility test certificate"
+  - "RTE teacher qualification"
+  - "CBSE teacher qualification requirements"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 15
+branding_block_company: 15
+branding_block_nexli: 15
+---
+Schools are required to hire teachers who meet the qualification norms specified under the RTE Act 2009, CBSE affiliation conditions, and applicable state education rules. Employing unqualified teachers is a compliance violation, and employing teachers with fake qualifications is a serious legal exposure.
+
+Qualification verification is not just checking whether a certificate exists, it is confirming with the issuing authority that the certificate is genuine.
+
+## RTE Act Qualification Norms
+
+The RTE Act 2009 specifies minimum qualifications for teachers in elementary schools (Classes 1-8):
+- For Classes 1-5 (primary): Senior Secondary + 2-year D.El.Ed. (Diploma in Elementary Education) or equivalent
+- For Classes 6-8 (upper primary): Graduate degree + 2-year D.El.Ed. or B.Ed.
+- Additionally, teachers must qualify the Teacher Eligibility Test (TET): CTET (Central Teacher Eligibility Test) for CBSE schools, or state TET for state board schools
+
+These norms are mandatory for government and government-aided schools. Private schools affiliated to CBSE are also expected to comply.
+
+## CBSE Qualification Requirements
+
+CBSE affiliation conditions specify:
+- All teachers must hold the qualifications required by the relevant authority for the level they teach
+- Professional qualification: B.Ed. (or equivalent) for secondary and senior secondary level teachers
+- TET qualification for primary and upper primary teachers
+- Post-graduate degree + B.Ed. for senior secondary subject teachers (for specialized subjects)
+
+## What to Verify
+
+### Degree Certificates
+- Contact the college/university registrar directly with the certificate number and candidate's name
+- Request written confirmation (email or letter) that the degree was awarded
+- For degrees from universities with online verification portals: use the portal directly
+
+### B.Ed. Certificates
+- B.Ed. is issued by universities; contact the university registrar
+- B.Ed. from NCTE-recognized institutions only is valid
+- Check NCTE (National Council for Teacher Education) website for list of recognized institutions
+
+### CTET/TET Certificates
+- CTET certificate verification: CBSE's CTET portal allows certificate number verification online
+- State TET: verify with the respective state board
+
+### Specialized Certifications
+- Computer science teachers: verify certifications from issuing institutions
+- Physical education: NCERT/university-recognized sports certification
+- Music, art, languages: verify with issuing institution or state board
+
+## Red Flags for Fake Certificates
+
+- Certificate from an institution not recognized by UGC, AICTE, or NCTE
+- Poor print quality, spelling errors on the certificate
+- Certificate number that does not verify on the issuing institution's online portal
+- Candidate reluctant to provide original certificates for inspection
+- Qualifications completed in very short time frames or from correspondence courses for subjects that don't offer them
+
+## How Nexli Helps
+
+Nexli's HR module stores teacher qualification details: degree, institution, year, and verification status. The system tracks which staff have been verified and which are pending, with alerts for incomplete verification.
+
+[Book a Free Demo](/demo) to see Nexli's teacher qualification tracking tools.
+
 ---
 
-## Introduction to Qualification Verification
+**About Nexli:** Nexli's HR module tracks teacher qualification records, verification status, and TET/CTET certificate details. Compliance with RTE qualification norms is visible in the staff compliance dashboard.
 
-Qualification Verification is a critical compliance requirement for educational institutions in India. This comprehensive guide covers all aspects of implementation, requirements, and best practices.
+**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's HR module to track qualification details with enough depth to support CBSE inspection requirements. Qualification records, verification dates, and certificate numbers are maintained per staff member.
 
-## Legal Framework
+**How Nexli Helps:** Yashveer Labs invests in HR compliance infrastructure because qualification compliance is a continuous obligation. Teachers added over time must all meet norms; the system tracks who has been verified and who hasn't.
 
-The requirement for Qualification Verification stems from:
-- Central and State education policies
-- Statutory regulations
-- Board directives
-- Ministry guidelines
-- Supreme Court judgments
+---
 
-## Key Requirements
+## FAQ
 
-Schools must:
-1. Understand compliance requirements
-2. Develop implementation procedures
-3. Train staff members
-4. Maintain proper documentation
-5. Conduct periodic audits
-6. Report to authorities as required
-7. Address deficiencies promptly
+**Q: Must a school verify qualifications of teachers hired through a staffing agency?**
 
-## Nexli FACTS for Compliance Management
+A: Yes. The school's compliance obligation applies regardless of how the teacher was sourced. The school bears responsibility for employing unqualified teachers.
 
-Nexli's Compliance module supports Qualification Verification through:
+**Q: What if a teacher has a qualification from another country?**
 
-- **Compliance Calendar**: Automated reminders for deadlines and key dates
-- **Document Storage**: Secure cloud storage for all compliance documents
-- **Audit Trails**: Complete record of all actions taken for compliance
-- **Policy Tracking**: Monitor policy implementation across school
-- **Report Generation**: Create compliance reports for audits and inspections
-- **Task Assignment**: Assign compliance tasks to responsible staff
-- **Checklist Management**: Track completion of compliance requirements
-- **Digital Archiving**: Maintain accessible records for inspections
+A: Foreign qualifications must be assessed for equivalency. The Association of Indian Universities (AIU) provides equivalency certificates for foreign degrees. The teacher must have an AIU equivalency certificate before the qualification can be accepted.
 
-## Implementation Strategy
+**Q: Are teachers who have been teaching for 20 years without formal B.Ed. exempt from the requirement?**
 
-Develop a structured approach:
+A: RTE Act provided a transitional period for untrained teachers to obtain qualifications. This transitional period has ended. All serving teachers are now required to meet the qualification norms unless they have a specific state-issued exemption.
 
-**Phase 1: Planning**
-- Understand requirements
-- Identify gaps
-- Create action plan
-- Allocate resources
-- Set timelines
+**Q: Can a school hire a teacher with a B.Ed. who has not cleared TET?**
 
-**Phase 2: Implementation**
-- Train staff
-- Develop procedures
-- Update systems
-- Create documentation
-- Communicate to stakeholders
-
-**Phase 3: Monitoring**
-- Track progress
-- Conduct audits
-- Address issues
-- Update procedures
-- Maintain records
-
-**Phase 4: Reporting**
-- Prepare compliance reports
-- Submit to authorities
-- Document improvements
-- Plan next steps
-- Share with board
-
-## Common Challenges
-
-- Understanding complex requirements
-- Limited staff resources
-- Data management issues
-- Coordination across departments
-- Maintaining documentation
-- Staying updated on changes
-
-## Best Practices
-
-1. **Create detailed procedures** for all compliance activities
-2. **Train staff regularly** on compliance requirements
-3. **Use digital tools** like Nexli for efficient management
-4. **Conduct regular audits** to ensure compliance
-5. **Maintain organized documentation** for easy retrieval
-6. **Communicate transparently** with stakeholders
-7. **Stay updated** on policy changes
-8. **Plan ahead** for compliance deadlines
-
-## Documentation Checklist
-
-Essential documents for Qualification Verification:
-- [ ] Policy documents
-- [ ] Procedure manuals
-- [ ] Staff training records
-- [ ] Audit reports
-- [ ] Inspection certificates
-- [ ] Government correspondence
-- [ ] Implementation records
-- [ ] Compliance reports
-
-## Risk Management
-
-Identify and mitigate risks:
-- Incomplete documentation
-- Missed deadlines
-- Staff non-compliance
-- System failures
-- Data loss
-- Regulatory changes
-
-## Technology Solutions
-
-Implement digital solutions to:
-- Automate compliance tracking
-- Centralize documentation
-- Streamline reporting
-- Reduce manual errors
-- Improve accessibility
-- Ensure data security
-
-## Training and Awareness
-
-Ensure all staff understand:
-- Regulatory requirements
-- School procedures
-- Their responsibilities
-- Consequences of non-compliance
-- Available support systems
-
-## Audit and Verification
-
-Prepare for audits by:
-- Maintaining complete documentation
-- Organizing records systematically
-- Creating summary reports
-- Addressing previous findings
-- Updating procedures as needed
-
-## Reporting to Authorities
-
-When required, submit:
-- Compliance certificates
-- Audit reports
-- Implementation status
-- Corrections made
-- Future plans
-
-## Continuous Improvement
-
-Establish process to:
-- Review compliance effectiveness
-- Identify improvement areas
-- Update procedures
-- Train on changes
-- Document improvements
-
-## Conclusion
-
-Qualification Verification requires systematic implementation, proper documentation, and continuous monitoring. By using comprehensive compliance management systems like Nexli, schools can efficiently meet all requirements while maintaining proper audit trails and documentation for inspections.
+A: TET/CTET is a mandatory qualification for elementary level teachers under RTE Act. A teacher with B.Ed. but without TET/CTET is not fully qualified for Classes 1-8. CBSE-affiliated schools are expected to ensure TET compliance.

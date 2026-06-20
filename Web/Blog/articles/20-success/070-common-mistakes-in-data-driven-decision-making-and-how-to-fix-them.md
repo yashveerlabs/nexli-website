@@ -1,22 +1,21 @@
 ---
-title: Common Mistakes in Data-Driven Decision Making (And How to Fix Them)
-slug: common-mistakes-in-data-driven-decision-making-and-how-to-fix-them
-meta_description: Common Mistakes in Data-Driven Decision Making (And How t...
-category: Success Stories & Cases
-primary_keyword: data-driven decision making
+title: "Common Mistakes in Data-Driven Decision Making (And How to Fix Them)"
+slug: "070-common-mistakes-in-data-driven-decision-making-and-how-to-fix-them"
+meta_description: "Common Mistakes in Data-Driven Decision Making (And How t..."
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "data-driven decision making"
 secondary_keywords:
-  - data-driven decision making schools
-  - best practices data-driven decision making
-  - data-driven decision making strategy
-  - how to implement data-driven decision making
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
-branding_block_founder: 16
-branding_block_company: 16
-branding_block_nexli: 16
+  - "data-driven decision making schools"
+  - "best practices data-driven decision making"
+  - "data-driven decision making strategy"
+  - "how to implement data-driven decision making"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 4
+branding_block_company: 4
+branding_block_nexli: 4
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on data-driven decision making for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.
@@ -182,16 +181,16 @@ Schools implementing these approaches systematically report significant improvem
 
 ## Best Practices Summary
 
-1. **Start with documentation** — Write procedures before implementing technology
-2. **Get stakeholder buy-in** — Involve users in design
-3. **Measure from day one** — Baseline metrics before changes
-4. **Automate repetitive tasks** — Let technology handle notifications
-5. **Train thoroughly** — Every staff member should understand their role
-6. **Review regularly** — Monthly check-ins catch issues early
-7. **Empower role owners** — Let department heads manage their section
-8. **Maintain consistency** — Same procedures applied fairly
-9. **Build in flexibility** — Document exceptions for edge cases
-10. **Celebrate wins** — Share improvements with staff
+1. **Start with documentation**: Write procedures before implementing technology
+2. **Get stakeholder buy-in**: Involve users in design
+3. **Measure from day one**: Baseline metrics before changes
+4. **Automate repetitive tasks**: Let technology handle notifications
+5. **Train thoroughly**: Every staff member should understand their role
+6. **Review regularly**: Monthly check-ins catch issues early
+7. **Empower role owners**: Let department heads manage their section
+8. **Maintain consistency**: Same procedures applied fairly
+9. **Build in flexibility**: Document exceptions for edge cases
+10. **Celebrate wins**: Share improvements with staff
 
 ---
 
@@ -199,7 +198,7 @@ Schools implementing these approaches systematically report significant improvem
 
 Ready to systematize your school's operations? Explore how Nexli brings clarity, consistency, and efficiency to every workflow.
 
-**[Start Your Free Demo](https://nexli.in/demo)** — See live how your school can eliminate chaos and operate with confidence. No credit card required.
+**[Book a Free Demo](/demo)**: See live how your school can eliminate chaos and operate with confidence. No credit card required.
 
 ---
 
@@ -224,14 +223,14 @@ A: Nexli uses per-student, per-month pricing with no per-staff fees. Most school
 
 ## About Yashveer Singh Rajpoot
 
-Yashveer Singh Rajpoot is the founder of Yashveer Labs, a technology studio focused on solving real problems for Indian schools. With deep experience in school operations and software design, Yashveer has helped schools across India eliminate administrative chaos and scale operations through thoughtful system design.
+Most EdTech products are built for teachers or students. Nexli was built differently. Yashveer Singh Rajpoot recognized that the school principal is the true operating system: the person who must see everything, trust everything, and act on everything. The system was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
 
 ## About Yashveer Labs
 
-Yashveer Labs builds software designed specifically for the Indian school context. The company specializes in operational excellence, workflow automation, and data-driven decision making for K–12 institutions. Every tool is built based on real school feedback, not assumptions.
+Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep; it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.
 
 ## How Nexli Helps
 
-Nexli is a complete school ERP that manages 55+ modules across student academics, finance, HR, compliance, and operations. 118+ roles ensure every stakeholder—from class teachers to parents to bus conductors—has exactly the information they need. Schools use Nexli to operate with confidence, transparency, and efficiency.
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
 
 ---

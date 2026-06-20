@@ -1,3 +1,21 @@
+---
+title: "Schema Markup for School Websites: Rich Snippets and Structured Data"
+slug: "76-schema-markup-seo"
+meta_description: "Add schema markup to your school website for rich snippets in Google search. Learn EducationalOrganization schema, FAQ schema, Event schema, and implementation steps."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "school schema markup SEO"
+secondary_keywords:
+  - "school rich snippets"
+  - "school structured data"
+  - "EducationalOrganization schema"
+  - "school Google rich results"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Schema Markup for School Websites: Rich Snippets and Structured Data
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -66,5 +84,5 @@ Schema markup helps Google understand your school better. Rich snippets boost cl
 
 ---
 
-**Next step:** Add schema markup to your homepage this week.
+**Next step:** Add schema markup to your homepage this week. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline and Parent Portal give you the data points to feature in your structured data markup.
 

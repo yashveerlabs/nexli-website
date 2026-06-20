@@ -1,8 +1,8 @@
 ---
 title: "Decision-Making Framework for Principals: Decide Faster, Doubt Less"
-slug: "decision-making-framework-principals"
+slug: "22-decision-making-framework-principals"
 meta_description: "Master a proven decision-making framework as a principal. Make faster, better decisions with less second-guessing and more confidence."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "principal decision-making framework"
 secondary_keywords:
   - "how to make decisions"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Decision-Making Framework for Principals: Decide Faster, Doubt Less
 
 **Principals make dozens of decisions daily: hire or reject? Approve or deny? Change or maintain? Most principals rely on gut feel, which is inconsistent and leads to doubt. This article provides a simple framework to structure decisions, reduce second-guessing, and build a reputation for sound judgment.**
@@ -183,15 +182,19 @@ Using the framework:
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot, founder of Yashveer Labs, coaches principals on strategic decision-making.
+Modern school leadership requires real-time decision-making. A Principal needs to see this morning: attendance anomalies, flagged behavioral incidents, fee collection status, and compliance deadlines. By lunch, they need to identify patterns and initiate responses. A system that takes an hour to load data or requires six clicks to find a metric isn't a tool; it's friction. Yashveer Singh Rajpoot designed Nexli for rapid insight: critical information in two minutes.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds frameworks for confident, consistent leadership.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails: these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 
-Nexli provides data dashboards and audit logs that support evidence-based decision-making.
+Nexli provides data dashboards and audit logs that support evidence-based decision-making. Every approval, every data access, every workflow step is logged, giving principals the evidence they need to explain and defend decisions with confidence.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

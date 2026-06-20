@@ -1,3 +1,21 @@
+---
+title: "Webinar Series for Parents: Building Community Online"
+slug: "55-webinar-series-parents"
+meta_description: "Build parent community through school webinars. Learn topic selection, promotion strategy, hosting platform setup, and how to convert webinar attendees to applicants."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "school parent webinar"
+secondary_keywords:
+  - "school online events"
+  - "parent education webinar"
+  - "school virtual events"
+  - "parent community building"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Webinar Series for Parents: Building Community Online
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -81,5 +99,5 @@ Webinars build engagement and capture leads at scale. Host quarterly. Measure co
 
 ---
 
-**Next step:** Plan your first webinar topic. Send email promoting it this week.
+**Next step:** Plan your first webinar topic. Send email promoting it this week. [Book a Free Demo](/demo) to see how Nexli's Circulars module helps you invite and follow up with parent groups after webinars.
 

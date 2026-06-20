@@ -1,18 +1,20 @@
 ---
 title: "Staff Skill Availability by City"
-slug: "staff-skill-availability-by-city"
-meta_description: "Staff Skill Availability by City"
-category: 14
-primary_keyword: "staff"
-secondary_keywords: ["skill", "availability", "by", "city"]
+slug: "88-staff-skill-availability-by-city"
+meta_description: "Staff skill availability by city and school ERP: how cloud-based HR modules support schools training and retaining staff across different Indian markets."
+category: "Location-Based School ERP Solutions"
+primary_keyword: "staff skill school ERP city India"
+secondary_keywords:
+  - "school ERP staff skills India"
+  - "school HR training module"
+  - "staff management school software India"
+  - "school ERP staff availability city"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Staff Skill Availability by City
 
@@ -60,7 +62,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,7 +95,7 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools, different boards, diverse student populations, complex compliance.
 
 **About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
 

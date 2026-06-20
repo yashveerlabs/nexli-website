@@ -1,18 +1,21 @@
 ---
 title: "How to Choose the Right School ERP for Your School"
-slug: "choose-right-school-erp-guide"
+slug: "02-choose-school-erp"
 meta_description: "Guide to selecting the best school ERP. Learn evaluation criteria, questions to ask vendors, and implementation considerations."
-category: "School Technology"
+category: "Technology & Digital Transformation"
 primary_keyword: "choose school ERP"
-secondary_keywords: ["ERP selection criteria", "school management system comparison", "ERP vendors", "ERP implementation"]
-intent: "informational"
+secondary_keywords:
+  - "ERP selection criteria"
+  - "school management system comparison"
+  - "ERP vendors"
+  - "ERP implementation"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Why Choosing the Right ERP Matters
 
 Selecting a school ERP is a significant decision. The wrong choice wastes money, frustrates staff, and fails to improve efficiency. The right ERP transforms school operations, improves compliance, and increases parent satisfaction. Most schools implement an ERP once every 5-10 years, so getting it right is crucial.
@@ -139,8 +142,8 @@ During vendor demos:
 Don't just look at licensing cost. Calculate total 5-year cost:
 
 **Licensing:**
-- Initial setup fee (one-time): ₹50,000-5,00,000
-- Annual licensing (per-student or per-month): ₹5,000-20,000/month
+- Initial setup fee (one-time): varies significantly by vendor and school size
+- Annual licensing (per-student or per-month): request quotes from multiple vendors
 
 **Implementation:**
 - Data migration: 20-40 hours of vendor effort
@@ -240,7 +243,9 @@ Schools choose Nexli because it understands their context (Indian regulations, C
 
 Take time to choose the right ERP. Assess your needs, evaluate vendors systematically, check references, and pilot before full commitment.
 
-**Ready to find the right ERP for your school?** Start with Nexli's free trial and see if it's a fit for your school.
+**Ready to find the right ERP for your school?** See how Nexli fits your school's needs.
+
+[Book a Free Demo](/demo)
 
 ---
 

@@ -1,10 +1,22 @@
 ---
 title: "How to Present Budget to Board"
-slug: how-to-present-budget-to-board
-category: 9
+slug: "34-how-to-present-budget-to-board"
+meta_description: "A principal's step-by-step guide to presenting the school budget to the board, preparation, visual aids, handling tough questions, and building long-term financial trust."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to present budget to board"
+secondary_keywords:
+  - "school board budget presentation"
+  - "principal board presentation"
+  - "presenting school finances"
+  - "budget approval school"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 14
+branding_block_company: 14
+branding_block_nexli: 14
 order: 34
 ---
-
 # How to Present Budget to Board
 
 Presenting budget to the board is about building trust and getting approval for your priorities. A well-prepared presentation shows competence and confidence.
@@ -214,3 +226,18 @@ Presenting budget to the board is about building trust and getting approval for 
 - Plan improvements
 
 A well-presented budget builds board confidence, ensures board buy-in, and sets up successful execution. Treat budget presentation as important opportunity to demonstrate competence and build trust.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+Trust in technology starts with control. Yashveer Singh Rajpoot designed Nexli so that schools (not the vendor) own their school's data and decisions. Want to export all student records tomorrow? You can. Want to use Nexli with a third-party app? The system supports open APIs. Want to understand how your data is processed? Full audit trails are available. That trust-first design means schools can commit to Nexli knowing they're never locked in or dependent.
+
+**About Yashveer Labs**  
+The company made a deliberate choice: Nexli is not subsidized, not freemium, not artificially cheap. Schools pay what the system is worth because quality work costs real money. But the company equally decided that every feature (even in the smallest plan) is complete. Admissions, academics, fees, HR, compliance, safety, communication: all schools get all of it. Affordability should mean good price, not stripped-down features.
+
+**About Nexli**  
+Nexli's strength is that it treats child safety as foundational, not an afterthought. Direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only. POCSO complaints escalate automatically. Background verification records are tracked. That security runs through every permission, every workflow, every data field. Schools using Nexli have a system built with children in mind.
+
+---
+
+[Book a Free Demo](/demo)

@@ -1,18 +1,21 @@
 ---
 title: "How to Verify Income for Fee Concessions"
-slug: "verify-income-fee-concessions"
+slug: "42-verify-income-fee-concessions"
 meta_description: "Learn about how to verify income for fee concessions in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "School Fees & Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "how to verify income for fee concessions"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with how to verify income for fee concessions:
@@ -49,7 +52,7 @@ Schools with documented, well-executed processes typically see:
 - Better parent satisfaction
 - More engaged staff (clarity = empowerment)
 
-## Building a Robust System
+## Building a Reliable System
 
 ### Step 1: Document Your Current Practices
 
@@ -250,17 +253,11 @@ Nexli's workflow engines and compliance modules automate and standardize critica
 
 ---
 
-## Branding Block: Why Nexli
+**About the Founder:** Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
-Clear processes and transparent workflows are the backbone of trust. Nexli automates and standardizes the critical workflows that keep your school running smoothly.
+**About Yashveer Labs:** The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools: the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "We built Nexli because we saw schools spending hours on manual workflows—approvals, tracking, follow-ups. Nexli automates this. But more importantly, Nexli makes processes visible and fair. When parents see their request status update in real-time, when staff get automated reminders, when leaders see SLA compliance—everything improves. Transparency builds trust."
-
-**Yashveer Labs' Commitment:**
-Your school's operations depend on clear, consistent, fair processes. Nexli ensures every workflow is documented, automated, and auditable.
-
----
+**How Nexli Helps:** What sets Nexli apart is that it's built as an operating system, not a transaction processor. Every role, from teachers to parents to bus conductors, sees a dashboard personalized for their work. The system doesn't make you navigate menus to find what matters. Information finds you: attendance alerts, homework reminders, fee notifications, incident reports. That proactive intelligence is what transforms a database into a tool.
 
 ## Call to Action
 
@@ -273,7 +270,7 @@ Document and standardize your school processes today:
 5. **Train staff thoroughly** (ensure everyone knows and understands)
 6. **Monitor and improve** (quarterly reviews; continuous refinement)
 
-Nexli's workflow and compliance modules automate these entire processes. **[Request a demo](#contact)** and see how your school can standardize operations and build stakeholder trust.
+Nexli's workflow and compliance modules automate these entire processes. **[Book a Free Demo](/demo)** and see how your school can standardize operations and build stakeholder trust.
 
 ---
 

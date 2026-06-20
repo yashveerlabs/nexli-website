@@ -1,10 +1,22 @@
 ---
 title: "How to Support Teachers in Improving Results"
-slug: how-to-support-teachers-improving-results
-category: 9
+slug: "43-how-to-support-teachers-improving-results"
+meta_description: "Practical strategies for school principals to coach and support teachers in improving student results, through instructional coaching, resources, collaboration, and targeted feedback."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to support teachers in improving results"
+secondary_keywords:
+  - "teacher improvement support"
+  - "instructional coaching school"
+  - "principal teacher coaching"
+  - "improve teaching quality"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 3
+branding_block_company: 3
+branding_block_nexli: 3
 order: 43
 ---
-
 # How to Support Teachers in Improving Results
 
 Teachers often want to improve but don't know how. Your job is to provide support, resources, and coaching.
@@ -163,4 +175,19 @@ Teachers often want to improve but don't know how. Your job is to provide suppor
 - Community of improvement
 - Positive culture
 
-Support provided with care and respect gets better results than judgment or punishment. Most teachers want to improve - they need support to get there.
+Support provided with care and respect gets better results than judgment or punishment. Most teachers want to improve, they need support to get there.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh Rajpoot insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
+
+**About Yashveer Labs**  
+Behind Yashveer Labs is a commitment to long-term thinking. Every school that uses Nexli should feel confident investing in it, not because we promise never to change, but because we're building something sustainable that will improve over years and decades. The company has turned down revenue shortcuts that would have meant locking schools in or cutting corners on security. Sustainable business means aligned incentives with customers.
+
+**About Nexli**  
+Behind Nexli is an investment in depth. The Attendance module tracks period-wise, daily consolidated, and bus attendance separately because schools need that granularity. The Fee module supports term-based, installment-based, and monthly billing because different schools operate differently. The Compliance module includes DPDP Act workflows, POCSO case management, and RTE quota tracking because Indian schools face those specific requirements. Depth matters.
+
+---
+
+[Book a Free Demo](/demo)

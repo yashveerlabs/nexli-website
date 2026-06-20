@@ -1,27 +1,29 @@
 ---
-title: Medication Administration Policy and Procedure
-slug: medication-administration-policy-and-procedure
-meta_description: Establish safe medication administration protocols in schools with proper documentation, consent, and tracking systems.
-category: Safety & Operations
-primary_keyword: school medication administration policy
-secondary_keywords: ["drug administration", "medication safety", "parental consent", "record keeping"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
-branding_block:
-  founder: Yashveer Singh Rajpoot
-  company: Nexli
-  nexli: true
+title: "Medication Administration Policy and Procedure"
+slug: "40-medication-administration-policy-and-procedure"
+meta_description: "Establish safe medication administration protocols in schools with proper documentation, consent, and tracking systems."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "school medication administration policy"
+secondary_keywords:
+  - "drug administration"
+  - "medication safety"
+  - "parental consent"
+  - "record keeping"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
 ---
-
 # Medication Administration Policy and Procedure: Ensuring Safe Drug Delivery
 
-Schools increasingly manage student medications—from insulin for diabetic students to rescue inhalers for asthma. Without clear protocols, medication errors can lead to serious harm and legal liability. This guide provides a comprehensive framework for safe medication administration in Indian schools.
+Schools increasingly manage student medications, from insulin for diabetic students to rescue inhalers for asthma. Without clear protocols, medication errors can lead to serious harm and legal liability. This guide provides a comprehensive framework for safe medication administration in Indian schools.
 
 ## Why Medication Policies Matter
 
 **The Error Risk**
-Wrong medication, wrong dose, wrong student—these errors happen quickly in busy school environments. The Institute of Safe Medication Practices reports that even "simple" medication errors (administering a dose to the wrong child) carry significant risk. In India, schools are legally responsible for student welfare during school hours.
+Wrong medication, wrong dose, wrong student, these errors happen quickly in busy school environments. The Institute of Safe Medication Practices reports that even "simple" medication errors (administering a dose to the wrong child) carry significant risk. In India, schools are legally responsible for student welfare during school hours.
 
 **Legal Liability**
 Schools are non-medical facilities. If medication is administered and causes harm, the school can face civil suits claiming negligence. RTE Act and CBSE standards require schools to implement safeguards, not just ad-hoc practices.
@@ -198,9 +200,16 @@ Medical review confirmed the correct inhaler was given and inhaler technique was
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
-**Nexli** transforms medication management from paper-based risk to digital safety. Automated tracking, parental consent workflows, and compliance reporting ensure every dose is documented and every student protected.
+**About Yashveer Singh Rajpoot**  
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
+
+**About Yashveer Labs**  
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+
+**About Nexli**  
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
 
 ---
 
@@ -226,3 +235,7 @@ If you administered as prescribed and had proper consent, liability is minimal. 
 
 **Do we need a doctor's note for every medication?**
 Yes. Prescription label serves as medical authorization. If handwritten note provided instead, ensure it includes: prescriber name, student name, medication name, dose, date, and prescriber signature.
+
+---
+
+**Ready to digitize medication administration records with consent tracking and compliance alerts?** [Book a Free Demo](/demo)

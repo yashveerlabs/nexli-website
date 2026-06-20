@@ -1,3 +1,21 @@
+---
+title: "Email Drip Campaigns: Nurturing Leads Automatically"
+slug: "62-email-drip-campaigns"
+meta_description: "Build email drip campaigns to nurture school admissions leads. Learn sequence design, content strategy, timing, and how to convert inquiries to enrolled students."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "school email drip campaigns"
+secondary_keywords:
+  - "admissions lead nurturing email"
+  - "school email automation"
+  - "school inquiry follow-up"
+  - "school enrollment email"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Email Drip Campaigns: Nurturing Leads Automatically
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -75,5 +93,5 @@ Drip campaigns nurture at scale. Set up once. They run continuously. Passive lea
 
 ---
 
-**Next step:** Design your first drip sequence this week. Implement by month-end.
+**Next step:** Design your first drip sequence this week. Implement by month-end. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline tracks every lead's journey from inquiry to enrollment, giving you the data to time drip sequences perfectly.
 

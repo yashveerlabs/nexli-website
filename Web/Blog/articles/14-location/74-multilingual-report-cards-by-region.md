@@ -1,18 +1,20 @@
 ---
 title: "Multilingual Report Cards by Region"
-slug: "multilingual-report-cards-by-region"
-meta_description: "Multilingual Report Cards by Region"
-category: 14
-primary_keyword: "multilingual"
-secondary_keywords: ["report", "cards", "by", "region"]
+slug: "74-multilingual-report-cards-by-region"
+meta_description: "Multilingual report cards for Indian schools: generating CBSE and state board report cards in English, Hindi, Marathi, Tamil, and other regional languages."
+category: "Location-Based School ERP Solutions"
+primary_keyword: "multilingual report cards school ERP India"
+secondary_keywords:
+  - "Hindi Marathi Tamil report card school ERP"
+  - "bilingual report card India"
+  - "regional language report card school"
+  - "multilingual student reports India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Multilingual Report Cards by Region
 
@@ -60,7 +62,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,7 +95,7 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools, different boards, diverse student populations, complex compliance.
 
 **About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
 

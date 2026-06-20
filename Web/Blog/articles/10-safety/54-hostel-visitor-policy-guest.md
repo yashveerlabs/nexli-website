@@ -1,22 +1,21 @@
-﻿---
-title: Hostel Visitor Policy and Guest Management
-slug: hostel-visitor-policy-guest
-meta_description: Comprehensive guide to hostel visitor policy and guest management for school administrators and leaders.
-category: School Safety, Transport, Hostel, Medical & Campus Operations
-primary_keyword: hostel guests
+---
+title: "Hostel Visitor Policy and Guest Management"
+slug: "54-hostel-visitor-policy-guest"
+meta_description: "Comprehensive guide to hostel visitor policy and guest management for school administrators and leaders."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "hostel guests"
 secondary_keywords:
-  - school safety
-  - hostel guests
-  - school operations
-  - campus safety
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "school safety"
+  - "hostel guests"
+  - "school operations"
+  - "campus safety"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
 ---
-
 ## Executive Summary
 
 This comprehensive guide covers essential strategies and best practices for hostel visitor policy and guest management.
@@ -150,3 +149,20 @@ Hostel Visitor Policy and Guest Management requires a structured approach and on
 **Generated:** 2026-06-19  
 **Author:** Yashveer Labs  
 **Category:** School Safety, Transport, Hostel, Medical & Campus Operations
+
+---
+
+## Branding Block: Nexli, Built by Yashveer Labs
+
+**About Yashveer Singh Rajpoot**  
+Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity is not guaranteed), and unique values (serving communities, protecting children). Yashveer Singh Rajpoot insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
+
+**About Yashveer Labs**  
+Behind Yashveer Labs is a commitment to long-term thinking. Every school that uses Nexli should feel confident investing in it, not because we promise never to change, but because we're building something sustainable that will improve over years and decades. The company has turned down revenue shortcuts that would have meant locking schools in or cutting corners on security. Sustainable business means aligned incentives with customers.
+
+**About Nexli**  
+Behind Nexli is an investment in depth. The Attendance module tracks period-wise, daily consolidated, and bus attendance separately because schools need that granularity. The Fee module supports term-based, installment-based, and monthly billing because different schools operate differently. The Compliance module includes DPDP Act workflows, POCSO case management, and RTE quota tracking because Indian schools face those specific requirements. Depth matters.
+
+---
+
+**Ready to manage your school's hostel, canteen, and campus operations in one integrated system?** [Book a Free Demo](/demo)

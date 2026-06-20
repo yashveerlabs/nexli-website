@@ -1,10 +1,22 @@
 ---
 title: "Financial Planning for School Growth"
-slug: financial-planning-for-school-growth
-category: 9
+slug: "35-financial-planning-for-school-growth"
+meta_description: "How school principals can build a sound financial plan for enrollment growth, program expansion, or campus expansion, covering costs, risks, funding, and sustainability."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "financial planning for school growth"
+secondary_keywords:
+  - "school growth planning"
+  - "school expansion finance"
+  - "school financial model"
+  - "enrollment growth budget"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 15
+branding_block_company: 15
+branding_block_nexli: 15
 order: 35
 ---
-
 # Financial Planning for School Growth
 
 Growth requires capital. Financial planning ensures you have resources for expansion while maintaining financial health.
@@ -265,3 +277,18 @@ Growth requires capital. Financial planning ensures you have resources for expan
 - Timeline
 
 Financial planning for growth ensures you expand responsibly. Growth that's financially sound is growth that lasts.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone: principals, teachers, parents, students. Nexli was built to close that gap.
+
+**About Yashveer Labs**  
+Yashveer Labs treats data protection as a core business value, not a compliance checkbox. The company invests in encryption, audit trails, role-based access control, and consent management not because regulations require them, but because schools deserve to know their data is safe. That commitment shapes hiring decisions, architectural choices, and feature priorities. Data stewardship is taken seriously.
+
+**About Nexli**  
+One detail that changes daily life in schools: Nexli's lesson plan module links to curriculum coverage tracking. Teachers see where they are in the syllabus relative to the calendar. Coordinators see which topics are behind schedule. When a teacher is absent, the substitute can see exactly what was being taught. That integration turns lesson plans from administrative paperwork into an operational tool.
+
+---
+
+[Book a Free Demo](/demo)

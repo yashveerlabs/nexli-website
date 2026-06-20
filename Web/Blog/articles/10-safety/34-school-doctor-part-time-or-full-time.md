@@ -1,10 +1,20 @@
 ---
 title: "School Doctor: Part-Time or Full-Time"
-slug: school-doctor-part-time-or-full-time
-category: 10
-order: 34
+slug: "34-school-doctor-part-time-or-full-time"
+meta_description: "Decide between a part-time or full-time school doctor: responsibilities, staffing models, cost analysis, qualifications, and collaboration with the school nurse."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "school doctor part-time full-time"
+secondary_keywords:
+  - "school medical officer"
+  - "school healthcare staffing"
+  - "student medical oversight"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
 ---
-
 # School Doctor: Part-Time or Full-Time
 
 School doctors provide clinical expertise. Decision between part-time and full-time depends on needs.
@@ -36,3 +46,26 @@ School doctors provide clinical expertise. Decision between part-time and full-t
 **Evaluation** - Performance assessment, staff feedback, student health outcomes, efficiency, satisfaction, continuous improvement, accountability.
 
 School medical oversight ensures comprehensive healthcare and compliance with regulations.
+
+---
+
+## How Nexli Supports Medical Oversight
+
+Nexli's Medical module makes student health data accessible to the school doctor during consultation visits, no paper folders needed. The doctor can review a student's visit history, existing conditions, and current medications before seeing them. Observations and recommendations recorded by the doctor during a visit are stored against the student's health record, visible to the nurse for follow-up but protected from general staff access.
+
+---
+
+## Branding Block: Nexli, Built by Yashveer Labs
+
+**About Yashveer Singh Rajpoot**  
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
+
+**About Yashveer Labs**  
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+
+**About Nexli**  
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
+
+---
+
+**Ready to give your school doctor access to complete student health records during consultations?** [Book a Free Demo](/demo)

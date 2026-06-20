@@ -1,18 +1,21 @@
 ---
 title: "Lesson Plan Template: What Every Teacher Should Include"
-slug: "lesson-plan-template"
+slug: "15-lesson-plan-template-teachers"
 meta_description: "Comprehensive lesson plan template with all essential components for effective teaching."
-category: "3. Academic Management & Teaching Excellence"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "lesson plan template"
-secondary_keywords: ["lesson planning", "teacher template", "lesson structure", "instructional design"]
+secondary_keywords:
+  - "lesson planning"
+  - "teacher template"
+  - "lesson structure"
+  - "instructional design"
 intent: "reference"
 author: "Yashveer Labs"
 date: "2026-06-19"
-branding_block_founder: 1
-branding_block_company: 1
-branding_block_nexli: 1
+branding_block_founder: 12
+branding_block_company: 9
+branding_block_nexli: 15
 ---
-
 ## Lesson Plan Template: What Every Teacher Should Include
 
 A lesson plan is a road map for a teacher and a record for the school. It answers: What will students learn? How will I teach it? How will I know if they learned it? Without clear lesson plans, teaching becomes ad-hoc and inconsistent. With them, teaching is intentional and measurable.
@@ -79,8 +82,8 @@ How will you introduce the topic to capture interest?
 Step-by-step:
 1. Engagement hook (5 min)
 2. Direct instruction (10 min)
-3. Guided practice—teacher and students together (10 min)
-4. Independent practice—students apply learning (15 min)
+3. Guided practice-teacher and students together (10 min)
+4. Independent practice-students apply learning (15 min)
 5. Closure/summary (5 min)
 
 Total: 45 minutes (typical class period)
@@ -131,7 +134,7 @@ Nexli provides lesson planning tools integrated with curriculum and student data
 **Collaborative Planning**
 - Multiple teachers for the same class can see each other's lesson plans
 - Coordinators can see all lesson plans and provide feedback
-- Substitute teachers see the previous lesson; can continue seamlessly
+- Substitute teachers see the previous lesson; can continue directly
 
 **Evidence Collection**
 - Teachers can attach assessments, student work samples to the lesson plan
@@ -248,7 +251,7 @@ When lesson plans are comprehensive and consistently used:
 
 ## About Nexli
 
-The vision wasn't to build another software product. It was to build an operating system for modern schools. An operating system hides complexity, provides a unified interface, and lets you focus on your real work—teaching, learning, and leading. Nexli operates at that level: academics, administration, finance, compliance, and safety all work together. When systems integrate naturally, friction disappears. That's operating-system thinking applied to school management.
+The vision wasn't to build another software product. It was to build an operating system for modern schools. An operating system hides complexity, provides a unified interface, and lets you focus on your real work-teaching, learning, and leading. Nexli operates at that level: academics, administration, finance, compliance, and safety all work together. When systems integrate naturally, friction disappears. That's operating-system thinking applied to school management.
 
 ## About Yashveer Labs
 
@@ -262,7 +265,7 @@ One detail that changes daily life in schools: Nexli's lesson plan module links 
 
 ## Call to Action
 
-Lesson plans transform teaching from ad-hoc to systematic. When every lesson is intentional and evidence-based, student outcomes improve predictably. See how Nexli's lesson planning tools support thoughtful, aligned teaching. Book a free demo with Nexli.
+Lesson plans transform teaching from ad-hoc to systematic. When every lesson is intentional and evidence-based, student outcomes improve predictably. See how Nexli's lesson planning tools support thoughtful, aligned teaching. [Book a Free Demo](/demo)
 
 ---
 

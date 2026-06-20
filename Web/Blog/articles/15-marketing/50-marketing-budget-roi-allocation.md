@@ -1,3 +1,21 @@
+---
+title: "Marketing Budget: How to Allocate Spend for Maximum ROI"
+slug: "50-marketing-budget-roi-allocation"
+meta_description: "Allocate your school marketing budget for maximum ROI. Learn data-driven budget allocation, channel ROI measurement, and how to cut underperforming spend."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "school marketing budget"
+secondary_keywords:
+  - "marketing ROI schools"
+  - "school advertising spend"
+  - "admissions marketing budget"
+  - "school channel allocation"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Marketing Budget: How to Allocate Spend for Maximum ROI
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -125,5 +143,5 @@ Data-driven budget allocation is the difference between thriving schools and str
 
 ---
 
-**Next step:** Set up inquiry source tracking this week. For next 30 days, ask every lead "How did you hear about us?"
+**Next step:** Set up inquiry source tracking this week. For next 30 days, ask every lead "How did you hear about us?" [Book a Free Demo](/demo) to see how Nexli's admissions pipeline tracks inquiry sources and enrollment conversions by channel.
 

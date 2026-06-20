@@ -1,18 +1,20 @@
 ---
 title: "School ERP for Tier 2 Cities"
-slug: "school-erp-for-tier-2-cities"
-meta_description: "School ERP for Tier 2 Cities"
-category: 14
-primary_keyword: "school"
-secondary_keywords: ["erp", "for", "tier", "2"]
+slug: "42-school-erp-for-tier-2-cities"
+meta_description: "School ERP for Tier 2 cities: cloud-based school management for growing cities like Lucknow, Chandigarh, Jaipur, and Vadodara with offline capability."
+category: "Location-Based School ERP Solutions"
+primary_keyword: "school ERP Tier 2 cities India"
+secondary_keywords:
+  - "school management Tier 2 cities"
+  - "affordable school ERP India"
+  - "school ERP Lucknow Jaipur Chandigarh"
+  - "growing city school software"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
 ## School ERP for Tier 2 Cities
 
@@ -60,7 +62,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,7 +95,7 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools, different boards, diverse student populations, complex compliance.
 
 **About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
 

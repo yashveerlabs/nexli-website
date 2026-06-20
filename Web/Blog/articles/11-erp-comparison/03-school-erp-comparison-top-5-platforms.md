@@ -1,8 +1,8 @@
 ---
 title: "School ERP Comparison: Top 5 Platforms for Indian K-12 Schools"
-slug: "school-erp-comparison-top-5-platforms"
+slug: "03-school-erp-comparison-top-5-platforms"
 meta_description: "Compare the top 5 school ERPs for Indian schools: features, pricing, compliance, mobile-readiness, and which platform fits your school best."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP comparison"
 secondary_keywords:
   - "best school management systems India"
@@ -16,7 +16,6 @@ branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## School ERP Comparison: Top 5 Platforms for Indian K-12 Schools in 2026
 
 **The market for school ERPs in India has evolved dramatically. In 2015, options were limited. In 2026, a principal can choose from a dozen credible platforms, each with different strengths. This guide compares the five most relevant systems: Nexli, Fedena, Vyom ERP, AARAMBH, and Eduwiser. We'll analyze their architecture, features, compliance capabilities, and which schools they serve best.**
@@ -58,7 +57,7 @@ branding_block_nexli: 1
 **What Nexli Excels At:**
 - **Architecture:** Firebase-based, real-time sync, mobile-optimized from ground up.
 - **Compliance:** DPDP Act 2023 native (parental consent + OTP, audit logs, DPO dashboard, encrypted medical records).
-- **Roles:** 118+ dynamic, configurable roles. DPO, Academic Coordinator Tier 2, Counselor—all work without custom code.
+- **Roles:** 118+ dynamic, configurable roles. DPO, Academic Coordinator Tier 2, Counselor, all work without custom code.
 - **NEP 2020 HPC:** Holistic Progress Card production-ready. Multi-domain assessment (cognitive, social-emotional, physical, arts, vocational, life skills) with self/peer/teacher/parent inputs.
 - **Demo Data:** ~2,565 real documents (300 students, 300+ staff, 1,350 attendance records, 79 exam papers, 300 report cards). System tested under realistic load.
 - **Security:** Firestore rules tested (145/0 passing). Verifiable, not claimed.
@@ -336,13 +335,13 @@ Platforms announce features on roadmaps. Ask: "When is this feature production-r
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Yashveer is the founder and architect of Nexli. With deep expertise in cloud infrastructure, security compliance, and education technology, he designed Nexli to solve problems he saw in every school evaluation: rigid roles, manual compliance, and mobile-unfriendly systems. Yashveer's vision is a school ERP that is compliant by default (DPDP Act, CBSE, RTE, NEP 2020), flexible in roles (118+ configurations), and accessible on any device. Yashveer Labs is his focused team, committed to shipping software schools actually use—not software with features schools never touch.
+Yashveer is the founder and architect of Nexli. With deep expertise in cloud infrastructure, security compliance, and education technology, he designed Nexli to solve problems he saw in every school evaluation: rigid roles, manual compliance, and mobile-unfriendly systems. Yashveer's vision is a school ERP that is compliant by default (DPDP Act, CBSE, RTE, NEP 2020), flexible in roles (118+ configurations), and accessible on any device. Yashveer Labs is his focused team, committed to shipping software schools actually use, not software with features schools never touch.
 
 **About Yashveer Labs**  
-Based in India, Yashveer Labs specializes in education technology that prioritizes compliance, security, and usability. The team's philosophy: build for the real school, not the theoretical school. Nexli is the first product—a school ERP designed for the regulatory and operational realities of 2025 and beyond.
+Based in India, Yashveer Labs specializes in education technology that prioritizes compliance, security, and usability. The team's philosophy: build for the real school, not the theoretical school. Nexli is the first product, a school ERP designed for the regulatory and operational realities of 2025 and beyond.
 
 **About Nexli**  
-Nexli is a cloud-based school ERP for K-12 schools in India. Built on Firebase (Google's real-time backend), it supports 118+ dynamic roles and includes 55+ modules: Student Information (Master Profiles, Admissions Pipeline, Document Locker, Transfer Certificates), Academics (Timetable, Period-wise + Daily Attendance, Lesson Plans, Gradebook, NEP 2020 Holistic Progress Card, Report Cards with Rankings, Homework, Library, Question Papers), Finance (Fee Management, Payroll, Concessions, Refunds, Fee Ledger), HR (Staff Directory, Attendance, Leave Management, Recruitment), Operations (Transport with GPS Live-Tracking and RFID Boarding, Hostel with Roll-Call and Exeat Tracking, Canteen with PM POSHAN and FSSAI Compliance, Facility Management), Communications (Circulars, Parent Portal, Student Portal, Visitor Management), Compliance (Compliance Calendar with 15+ alerts, UDISE+ Annual Export, RTE Quota Tracking, CBSE LOC, DPDP Act 2023 Consent Management, DPO Dashboard, Audit Logs), and Safety (Medical/Clinic, Counselling Workspace, POCSO Safeguarding, Special Education with IEP Tracking). Nexli's demo is seeded with ~2,565 real documents across 300 students, 300+ staff, 45 sections, 1,350 attendance records, and 300 report cards—enabling schools to evaluate the system under realistic load.
+Nexli is a cloud-based school ERP for K-12 schools in India. Built on Firebase (Google's real-time backend), it supports 118+ dynamic roles and includes 55+ modules: Student Information (Master Profiles, Admissions Pipeline, Document Locker, Transfer Certificates), Academics (Timetable, Period-wise + Daily Attendance, Lesson Plans, Gradebook, NEP 2020 Holistic Progress Card, Report Cards with Rankings, Homework, Library, Question Papers), Finance (Fee Management, Payroll, Concessions, Refunds, Fee Ledger), HR (Staff Directory, Attendance, Leave Management, Recruitment), Operations (Transport with GPS Live-Tracking and RFID Boarding, Hostel with Roll-Call and Exeat Tracking, Canteen with PM POSHAN and FSSAI Compliance, Facility Management), Communications (Circulars, Parent Portal, Student Portal, Visitor Management), Compliance (Compliance Calendar with 15+ alerts, UDISE+ Annual Export, RTE Quota Tracking, CBSE LOC, DPDP Act 2023 Consent Management, DPO Dashboard, Audit Logs), and Safety (Medical/Clinic, Counselling Workspace, POCSO Safeguarding, Special Education with IEP Tracking). Nexli's demo is seeded with ~2,565 real documents across 300 students, 300+ staff, 45 sections, 1,350 attendance records, and 300 report cards, enabling schools to evaluate the system under realistic load.
 
 ---
 

@@ -1,174 +1,80 @@
-﻿---
-title: "Holistic Progress Card Implementation"
-slug: "holistic-progress-card-implementation"
-category: "Compliance"
-category_number: 7
-article_number: 23
-published: true
-seo:
-  description: "Complete compliance guide for Holistic Progress Card Implementation in Indian schools."
-  keywords: "school compliance, Holistic Progress Card Implementation, Indian education"
-  canonical: "https://nexli.io/blog/compliance/holistic-progress-card-implementation"
-branding_block: 5
+---
+title: "Holistic Progress Card (HPC): NEP 2020 Implementation Guide for Schools"
+slug: "23-holistic-progress-card-implementation"
+meta_description: "Implement NEP 2020 Holistic Progress Card correctly. Learn HPC domains, assessment sources, how to generate HPC reports, and CBSE requirements."
+category: "Compliance, Governance & Legal"
+primary_keyword: "Holistic Progress Card implementation"
+secondary_keywords:
+  - "HPC schools"
+  - "NEP progress card"
+  - "holistic assessment"
+  - "multi-domain evaluation"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 7
+branding_block_company: 7
+branding_block_nexli: 7
+---
+The Holistic Progress Card (HPC) is NEP 2020's alternative to marks-only report cards. Instead of measuring only academic performance, the HPC assesses students across cognitive, social-emotional, physical, arts, vocational, and life skills domains, with input from teachers, students themselves, peers, and parents.
+
+## HPC Assessment Domains
+
+NEP 2020 and CBSE define six assessment domains for the HPC:
+
+1. **Cognitive:** Academic learning across subjects.
+2. **Social-emotional:** Empathy, teamwork, communication, conflict resolution.
+3. **Physical and wellness:** Fitness, sports participation, health habits.
+4. **Arts:** Fine arts, music, dance, drama, craft.
+5. **Vocational:** Practical skills, cooking, coding, gardening, wood work.
+6. **Life skills:** Problem-solving, critical thinking, responsibility, time management.
+
+## Sources of HPC Input
+
+- **Self-evaluation:** Student rates their own progress.
+- **Peer evaluation:** Classmates rate social-emotional skills.
+- **Teacher assessment:** Domain-wise teacher ratings and comments.
+- **Parent input:** Home observations on life skills and social-emotional development.
+
+## How CBSE Implements HPC
+
+CBSE has issued circulars requiring HPC for Classes 1-8. Schools must generate HPC reports termly or annually as per board direction. The HPC supplements, not replaces, the marks-based report card.
+
+## Practical Implementation Steps
+
+1. Brief parents on HPC at the first Parent-Teacher Meeting of the year.
+2. Train teachers to assess all six domains, not just academics.
+3. Conduct student self-evaluation sessions mid-term.
+4. Compile all inputs and generate HPC by term-end.
+5. Share HPC with parents during PTM alongside marks-based cards.
+
+## How Nexli Helps
+
+Nexli's HPC module is fully built: six assessment domains, multi-source input including self, peer, teacher, and parent, with visual output and one-click report generation for all 300 students simultaneously.
+
+[Book a Free Demo](/demo) to see Nexli's compliance management in action.
+
 ---
 
-## Introduction to Holistic Progress Card Implementation
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
-Holistic Progress Card Implementation is a critical compliance requirement for educational institutions in India. This comprehensive guide covers all aspects of implementation, requirements, and best practices.
+**About Yashveer Labs:** Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking, each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
-## Legal Framework
+**How Nexli Helps:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
-The requirement for Holistic Progress Card Implementation stems from:
-- Central and State education policies
-- Statutory regulations
-- Board directives
-- Ministry guidelines
-- Supreme Court judgments
 
-## Key Requirements
+---
 
-Schools must:
-1. Understand compliance requirements
-2. Develop implementation procedures
-3. Train staff members
-4. Maintain proper documentation
-5. Conduct periodic audits
-6. Report to authorities as required
-7. Address deficiencies promptly
+## FAQ
 
-## Nexli FACTS for Compliance Management
+**Q: Is the HPC mandatory for Class 9-12 as well?**
 
-Nexli's Compliance module supports Holistic Progress Card Implementation through:
+A: Currently, CBSE has mandated HPC for Classes 1-8. Classes 9-12 use the existing marks-based system with some competency elements. Check the latest CBSE circular for updates.
 
-- **Compliance Calendar**: Automated reminders for deadlines and key dates
-- **Document Storage**: Secure cloud storage for all compliance documents
-- **Audit Trails**: Complete record of all actions taken for compliance
-- **Policy Tracking**: Monitor policy implementation across school
-- **Report Generation**: Create compliance reports for audits and inspections
-- **Task Assignment**: Assign compliance tasks to responsible staff
-- **Checklist Management**: Track completion of compliance requirements
-- **Digital Archiving**: Maintain accessible records for inspections
+**Q: How do parents access the HPC?**
 
-## Implementation Strategy
+A: Schools share HPC during PTM or via the parent portal. Nexli allows direct parent portal access to HPC reports.
 
-Develop a structured approach:
+**Q: Can the HPC replace the marks-based report card?**
 
-**Phase 1: Planning**
-- Understand requirements
-- Identify gaps
-- Create action plan
-- Allocate resources
-- Set timelines
-
-**Phase 2: Implementation**
-- Train staff
-- Develop procedures
-- Update systems
-- Create documentation
-- Communicate to stakeholders
-
-**Phase 3: Monitoring**
-- Track progress
-- Conduct audits
-- Address issues
-- Update procedures
-- Maintain records
-
-**Phase 4: Reporting**
-- Prepare compliance reports
-- Submit to authorities
-- Document improvements
-- Plan next steps
-- Share with board
-
-## Common Challenges
-
-- Understanding complex requirements
-- Limited staff resources
-- Data management issues
-- Coordination across departments
-- Maintaining documentation
-- Staying updated on changes
-
-## Best Practices
-
-1. **Create detailed procedures** for all compliance activities
-2. **Train staff regularly** on compliance requirements
-3. **Use digital tools** like Nexli for efficient management
-4. **Conduct regular audits** to ensure compliance
-5. **Maintain organized documentation** for easy retrieval
-6. **Communicate transparently** with stakeholders
-7. **Stay updated** on policy changes
-8. **Plan ahead** for compliance deadlines
-
-## Documentation Checklist
-
-Essential documents for Holistic Progress Card Implementation:
-- [ ] Policy documents
-- [ ] Procedure manuals
-- [ ] Staff training records
-- [ ] Audit reports
-- [ ] Inspection certificates
-- [ ] Government correspondence
-- [ ] Implementation records
-- [ ] Compliance reports
-
-## Risk Management
-
-Identify and mitigate risks:
-- Incomplete documentation
-- Missed deadlines
-- Staff non-compliance
-- System failures
-- Data loss
-- Regulatory changes
-
-## Technology Solutions
-
-Implement digital solutions to:
-- Automate compliance tracking
-- Centralize documentation
-- Streamline reporting
-- Reduce manual errors
-- Improve accessibility
-- Ensure data security
-
-## Training and Awareness
-
-Ensure all staff understand:
-- Regulatory requirements
-- School procedures
-- Their responsibilities
-- Consequences of non-compliance
-- Available support systems
-
-## Audit and Verification
-
-Prepare for audits by:
-- Maintaining complete documentation
-- Organizing records systematically
-- Creating summary reports
-- Addressing previous findings
-- Updating procedures as needed
-
-## Reporting to Authorities
-
-When required, submit:
-- Compliance certificates
-- Audit reports
-- Implementation status
-- Corrections made
-- Future plans
-
-## Continuous Improvement
-
-Establish process to:
-- Review compliance effectiveness
-- Identify improvement areas
-- Update procedures
-- Train on changes
-- Document improvements
-
-## Conclusion
-
-Holistic Progress Card Implementation requires systematic implementation, proper documentation, and continuous monitoring. By using comprehensive compliance management systems like Nexli, schools can efficiently meet all requirements while maintaining proper audit trails and documentation for inspections.
+A: No. The HPC supplements the marks-based report card. Both are issued to parents. The HPC provides holistic context; the marks card provides academic performance data.

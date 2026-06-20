@@ -1,8 +1,8 @@
 ---
 title: "School Reputation Management: Building Trust and Credibility"
-slug: "school-reputation-management"
+slug: "15-school-reputation-management"
 meta_description: "Manage your school's online reputation. Learn review management, crisis communication, and how to build lasting trust with parents."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school reputation management"
 secondary_keywords:
   - "online reviews"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Reputation Management: Building Trust and Credibility
 
 **Your school's reputation is your most valuable asset. A strong reputation attracts students, builds staff pride, and increases revenue. A damaged reputation is hard to recover. This guide covers reputation building, review management, and crisis response.**
@@ -127,9 +126,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports School Reputation
 
-Nexli helps schools build lasting reputation through transparent, consistent communication and data-backed outcomes.
+Nexli helps schools build reputation through transparent, consistent communication and data-backed outcomes. Your Principal dashboard shows real metrics that prove your school's performance to parents and stakeholders. [Book a Free Demo](/demo) to see how Nexli supports school transparency.
 
 ---
 

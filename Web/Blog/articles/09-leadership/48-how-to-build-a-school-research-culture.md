@@ -1,10 +1,22 @@
 ---
 title: "How to Build a School Research Culture"
-slug: how-to-build-a-school-research-culture
-category: 9
+slug: "48-how-to-build-a-school-research-culture"
+meta_description: "A guide for principals on building a school research culture, where teachers use action research, data, and evidence to make decisions and continuously improve student outcomes."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to build a school research culture"
+secondary_keywords:
+  - "school research culture"
+  - "evidence-based school"
+  - "action research teachers"
+  - "data culture school"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
 order: 48
 ---
-
 # How to Build a School Research Culture
 
 A research culture means teachers continually investigate practice through data and inquiry. Build evidence-based improvement into operations.
@@ -84,3 +96,18 @@ Teachers regularly examine their practice through data, experiment with new appr
 **Grants** - Research grants fund inquiry work, external validation, publication opportunities, advanced expertise brought in.
 
 A research culture treats evidence seriously and values continuous learning. Build it intentionally through systems, time, resources, and leadership.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, with no code changes required. The system adapts to the school, not the other way around.
+
+**About Yashveer Labs**  
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails: these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+
+**About Nexli**  
+Nexli operates on the insight that schools need speed. Teachers mark attendance in 30 seconds, not 5 minutes. Principals see KPIs on the dashboard, not in an email report. Parents pay fees in seconds, not through a manual process. That speed matters because school operations run on tight timelines. Every minute saved to administrative work is a minute available for teaching and learning. Nexli prioritizes that speed intentionally.
+
+---
+
+[Book a Free Demo](/demo)

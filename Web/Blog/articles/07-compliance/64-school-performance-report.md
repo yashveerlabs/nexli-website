@@ -1,174 +1,114 @@
-﻿---
-title: "School Performance Report"
-slug: "school-performance-report"
-category: "Compliance"
-category_number: 7
-article_number: 64
-published: true
-seo:
-  description: "Complete compliance guide for School Performance Report in Indian schools."
-  keywords: "school compliance, School Performance Report, Indian education"
-  canonical: "https://nexli.io/blog/compliance/school-performance-report"
-branding_block: 6
+---
+title: "School Performance Report: What Schools Must Track and Disclose"
+slug: "64-school-performance-report"
+meta_description: "Understand school performance reporting requirements for Indian schools. Covers CBSE disclosure norms, state board requirements, fee disclosure, and annual report obligations."
+category: "Compliance, Governance & Legal"
+primary_keyword: "school performance report compliance India"
+secondary_keywords:
+  - "school annual report disclosure"
+  - "CBSE fee disclosure"
+  - "school transparency requirements"
+  - "school report card India"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 16
+branding_block_company: 16
+branding_block_nexli: 16
+---
+Schools in India have disclosure and reporting obligations that go beyond government data submissions. CBSE affiliation conditions, state regulations, and consumer protection principles all require schools to make certain information publicly available and to maintain internal performance records.
+
+Schools that treat disclosure as optional risk regulatory action and, increasingly, parent-initiated legal challenges.
+
+## CBSE Mandatory Disclosure
+
+CBSE-affiliated schools must publish a mandatory disclosure on their website covering:
+- School basic information (name, affiliation number, contact)
+- Staff list with qualifications
+- Fee structure for all classes
+- Infrastructure details
+- Board exam results for Classes 10 and 12
+- Compliance certificates (fire safety, building safety)
+
+CBSE inspections verify that the mandatory disclosure is current and accurate. Schools that have not published the disclosure or have published inaccurate information face affiliation complications.
+
+## Annual Report for School Management
+
+Beyond external disclosures, schools should maintain an internal annual report covering academic year performance:
+
+**Academic performance:**
+- Board exam results by class and subject
+- Internal exam pass/fail rates
+- Student progression to next grade
+
+**Attendance:**
+- Student attendance rates (school average, by class)
+- Teacher attendance rates
+- Flagging of students with attendance below 75%
+
+**Enrollment:**
+- Total enrollment vs. previous year
+- New admissions, withdrawals, transfers
+- Gender ratio
+- RTE quota admissions
+
+**Staff:**
+- Staff strength and vacancies
+- Staff turnover rate
+- Training completed during the year
+
+**Finance:**
+- Budget vs. actuals (for management review)
+- Fee collection rates
+- Development fund utilization
+
+**Compliance:**
+- Compliance certificates current or expired
+- Regulatory submissions completed
+
+This internal report is the foundation for school improvement planning and also serves as the source for any external reporting.
+
+## Fee Disclosure Requirements
+
+Several states require schools to publish their fee structure and get state approval for fee increases. CBSE also requires fee disclosure. Schools must:
+- Publish the complete fee structure for all classes on the school website
+- Not charge fees not disclosed in the published structure
+- Follow state regulations on fee increases (some states require prior approval)
+- Maintain fee collection records for audit
+
+## Parent Communication
+
+Annual reporting to parents typically includes:
+- Report cards (academic performance per student)
+- Attendance record (parent notification for low attendance)
+- School newsletter covering school-level performance and achievements
+
+## How Nexli Helps
+
+Nexli generates school performance dashboards in real time: attendance rates, fee collection status, enrollment trends, and exam results. Annual performance summaries are available as exports. Fee structures maintained in Nexli support the mandatory disclosure publication.
+
+[Book a Free Demo](/demo) to see Nexli's school performance reporting tools.
+
 ---
 
-## Introduction to School Performance Report
+**About Nexli:** Nexli's dashboards provide real-time visibility into school performance: enrollment, attendance, fee collection, and academic results. Annual reports and mandatory disclosures draw from live data.
 
-School Performance Report is a critical compliance requirement for educational institutions in India. This comprehensive guide covers all aspects of implementation, requirements, and best practices.
+**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli so school leadership has accurate, current performance data to make decisions. Reports to management, to parents, and to regulators all draw from the same system.
 
-## Legal Framework
+**How Nexli Helps:** Yashveer Labs invests in reporting infrastructure so schools can demonstrate performance accurately. Transparency to parents and compliance with disclosure norms are both served by the same data.
 
-The requirement for School Performance Report stems from:
-- Central and State education policies
-- Statutory regulations
-- Board directives
-- Ministry guidelines
-- Supreme Court judgments
+---
 
-## Key Requirements
+## FAQ
 
-Schools must:
-1. Understand compliance requirements
-2. Develop implementation procedures
-3. Train staff members
-4. Maintain proper documentation
-5. Conduct periodic audits
-6. Report to authorities as required
-7. Address deficiencies promptly
+**Q: Can CBSE take action if a school's mandatory disclosure on the website is outdated?**
 
-## Nexli FACTS for Compliance Management
+A: Yes. CBSE inspectors check mandatory disclosure during visits. Outdated or missing information is noted in the inspection report and can affect affiliation status.
 
-Nexli's Compliance module supports School Performance Report through:
+**Q: Are private unaided schools required to disclose their finances to parents?**
 
-- **Compliance Calendar**: Automated reminders for deadlines and key dates
-- **Document Storage**: Secure cloud storage for all compliance documents
-- **Audit Trails**: Complete record of all actions taken for compliance
-- **Policy Tracking**: Monitor policy implementation across school
-- **Report Generation**: Create compliance reports for audits and inspections
-- **Task Assignment**: Assign compliance tasks to responsible staff
-- **Checklist Management**: Track completion of compliance requirements
-- **Digital Archiving**: Maintain accessible records for inspections
+A: State regulations vary. Some states require disclosure of budget and expenditure data. The RTE Act's fee regulation provisions apply differently across states. Schools should check state-specific requirements.
 
-## Implementation Strategy
+**Q: How often should the mandatory disclosure be updated?**
 
-Develop a structured approach:
-
-**Phase 1: Planning**
-- Understand requirements
-- Identify gaps
-- Create action plan
-- Allocate resources
-- Set timelines
-
-**Phase 2: Implementation**
-- Train staff
-- Develop procedures
-- Update systems
-- Create documentation
-- Communicate to stakeholders
-
-**Phase 3: Monitoring**
-- Track progress
-- Conduct audits
-- Address issues
-- Update procedures
-- Maintain records
-
-**Phase 4: Reporting**
-- Prepare compliance reports
-- Submit to authorities
-- Document improvements
-- Plan next steps
-- Share with board
-
-## Common Challenges
-
-- Understanding complex requirements
-- Limited staff resources
-- Data management issues
-- Coordination across departments
-- Maintaining documentation
-- Staying updated on changes
-
-## Best Practices
-
-1. **Create detailed procedures** for all compliance activities
-2. **Train staff regularly** on compliance requirements
-3. **Use digital tools** like Nexli for efficient management
-4. **Conduct regular audits** to ensure compliance
-5. **Maintain organized documentation** for easy retrieval
-6. **Communicate transparently** with stakeholders
-7. **Stay updated** on policy changes
-8. **Plan ahead** for compliance deadlines
-
-## Documentation Checklist
-
-Essential documents for School Performance Report:
-- [ ] Policy documents
-- [ ] Procedure manuals
-- [ ] Staff training records
-- [ ] Audit reports
-- [ ] Inspection certificates
-- [ ] Government correspondence
-- [ ] Implementation records
-- [ ] Compliance reports
-
-## Risk Management
-
-Identify and mitigate risks:
-- Incomplete documentation
-- Missed deadlines
-- Staff non-compliance
-- System failures
-- Data loss
-- Regulatory changes
-
-## Technology Solutions
-
-Implement digital solutions to:
-- Automate compliance tracking
-- Centralize documentation
-- Streamline reporting
-- Reduce manual errors
-- Improve accessibility
-- Ensure data security
-
-## Training and Awareness
-
-Ensure all staff understand:
-- Regulatory requirements
-- School procedures
-- Their responsibilities
-- Consequences of non-compliance
-- Available support systems
-
-## Audit and Verification
-
-Prepare for audits by:
-- Maintaining complete documentation
-- Organizing records systematically
-- Creating summary reports
-- Addressing previous findings
-- Updating procedures as needed
-
-## Reporting to Authorities
-
-When required, submit:
-- Compliance certificates
-- Audit reports
-- Implementation status
-- Corrections made
-- Future plans
-
-## Continuous Improvement
-
-Establish process to:
-- Review compliance effectiveness
-- Identify improvement areas
-- Update procedures
-- Train on changes
-- Document improvements
-
-## Conclusion
-
-School Performance Report requires systematic implementation, proper documentation, and continuous monitoring. By using comprehensive compliance management systems like Nexli, schools can efficiently meet all requirements while maintaining proper audit trails and documentation for inspections.
+A: At minimum annually (at the start of each academic year). It should also be updated whenever major changes occur: new Principal, significant infrastructure change, updated fee structure.

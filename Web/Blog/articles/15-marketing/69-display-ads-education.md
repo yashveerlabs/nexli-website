@@ -1,3 +1,21 @@
+---
+title: "Display Ads: Banner Advertising for Brand Awareness"
+slug: "69-display-ads-education"
+meta_description: "Run display ads to build school brand awareness and stay top-of-mind. Learn banner ad design, audience targeting, placement strategy, and measuring brand impact."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "school display ads"
+secondary_keywords:
+  - "school banner advertising"
+  - "Google Display Network school"
+  - "school brand awareness ads"
+  - "education display advertising"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Display Ads: Banner Advertising for Brand Awareness
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -61,5 +79,5 @@ Display ads build brand awareness. Complement search ads. Together, they create 
 
 ---
 
-**Next step:** Create display ads this month.
+**Next step:** Create display ads this month. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline tracks which ad impressions convert to inquiries and enrolled students.
 

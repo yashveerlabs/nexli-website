@@ -1,10 +1,22 @@
 ---
 title: "Principal's Operational Responsibilities"
-slug: principals-operational-responsibilities
-category: 9
+slug: "49-principals-operational-responsibilities"
+meta_description: "A complete overview of a school principal's operational responsibilities, daily management, facilities, administrative systems, compliance, delegation, and continuous improvement."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "principal's operational responsibilities"
+secondary_keywords:
+  - "school operations management"
+  - "principal daily operations"
+  - "school administration responsibilities"
+  - "school facilities principal"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 9
+branding_block_company: 9
+branding_block_nexli: 9
 order: 49
 ---
-
 # Principal's Operational Responsibilities
 
 Operations keep school running. Daily management, facilities, systems, and logistics fall under your responsibility.
@@ -86,3 +98,18 @@ Operations keep school running. Daily management, facilities, systems, and logis
 **Prevention** - Look for potential problems, prevent before occurring, systems to catch issues early, proactive management, efficiency and prevention.
 
 Operations are invisible when done well but glaring when poor. Efficient, well-managed operations enable excellent teaching and learning.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+Building for India means respecting that schools operate on real budgets. Nexli doesn't have a "basic" plan missing critical features and a "premium" plan where they appear. Every school, regardless of size or price, gets complete access to academics, finance, compliance, safety, and communication. The only paid add-on is AI; everything else that schools need to operate is included. Affordability should never mean compromise on quality.
+
+**About Yashveer Labs**  
+At its core, Yashveer Labs is a company of builders, not just service providers. The team has written hundreds of thousands of lines of code, designed dozens of workflows, tested systems with real schools, and iterated based on feedback. That depth of technical ownership means problems get solved by the people who built them, not handed off to an outsourced support team. Quality comes from that care in the building.
+
+**About Nexli**  
+The Ranking engines in Nexli exemplify the detail work: marks rankings normalize by percentage (so Class 6 at 100% ranks above Class 7 at 99%), attendance rankings track streaks and consistency, and both are kept separate (never mixed). That precision is tedious to build but essential for fairness. Schools using Nexli trust the ranking system in a way they never could with manual calculations.
+
+---
+
+[Book a Free Demo](/demo)

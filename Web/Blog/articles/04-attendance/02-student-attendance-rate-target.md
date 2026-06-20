@@ -1,18 +1,21 @@
 ---
 title: "Student Attendance Rate: What's a Good Target for Your School?"
-slug: "student-attendance-rate-good-target"
+slug: "02-student-attendance-rate-target"
 meta_description: "Determine realistic attendance targets for your school. Benchmark attendance rates and create improvement strategies."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "student attendance rate target benchmark"
-secondary_keywords: ["attendance goals", "school attendance standards", "attendance improvement", "attendance rates"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "attendance goals"
+  - "school attendance standards"
+  - "attendance improvement"
+  - "attendance rates"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: No Clear Attendance Target
 
 A school's attendance sits at 82%. Is that good? Should they aim for 85%? 95%? Without a benchmark, principals lack direction.
@@ -154,15 +157,13 @@ Track students who received interventions. Did their attendance improve?
 
 ---
 
-## Branding Block: Why Nexli
+---
 
-Great attendance doesn't happen by accident. It's a deliberate goal, monitored relentlessly. Nexli keeps your target visible and progress transparent.
+**About Nexli:** Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents on WhatsApp (where they actually open messages). Nexli is built for Indian schools, by people who understand Indian schools.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "Schools that set specific attendance targets and monitor them monthly hit them. Schools that vague targets often miss. Nexli makes the target clear and tracks progress daily."
+**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP. They have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
-**Yashveer Labs' Commitment:**
-Your attendance target is achievable. Nexli helps you set it, monitor it, and reach it.
+**About Yashveer Labs:** Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking what's actually broken here, and why smart people put up with this. The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 ---
 
@@ -176,7 +177,7 @@ Set your school's attendance target today:
 4. **Design interventions** (targeted to root causes)
 5. **Monitor and adjust** (monthly tracking; adjust strategy if off-track)
 
-Nexli's attendance dashboard keeps your target visible and progress transparent. **[Request a demo](#contact)** and see how your school can systematically improve attendance.
+Nexli's attendance dashboard keeps your target visible and progress transparent. **[Book a Free Demo](/demo)** and see how your school can systematically improve attendance.
 
 ---
 
@@ -186,7 +187,7 @@ Nexli's attendance dashboard keeps your target visible and progress transparent.
 A: Work toward realistic targets for your context. 80% may be excellent if your region has high child labor. Celebrate small improvements. Nexli's benchmarking helps you compare fairly with schools in your socioeconomic context.
 
 **Q2: Should every student have the same attendance target?**
-A: Generally, yes—the same 85%+ standard. But recognize barriers vary. A student with chronic health issues may have medical absences condoned. Reasonable accommodations are fair.
+A: Generally, yes, the same 85%+ standard. But recognize barriers vary. A student with chronic health issues may have medical absences condoned. Reasonable accommodations are fair.
 
 **Q3: Is improving from 82% to 90% in one year realistic?**
 A: Only for schools already close to 90%. For schools at 75–80%, plan 2–3 years. Gradual change is sustainable.

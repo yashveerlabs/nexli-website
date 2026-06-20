@@ -1,18 +1,20 @@
 ---
 title: "School ERP in Tamil Nadu"
-slug: "school-erp-in-tamil-nadu"
-meta_description: "School ERP in Tamil Nadu"
-category: 14
-primary_keyword: "school"
-secondary_keywords: ["erp", "in", "tamil", "nadu"]
+slug: "19-school-erp-in-tamil-nadu"
+meta_description: "School ERP in Tamil Nadu: cloud-based school management for state board, CBSE, and matriculation schools with state-specific compliance and parent communication."
+category: "Location-Based School ERP Solutions"
+primary_keyword: "school ERP Tamil Nadu"
+secondary_keywords:
+  - "school management system Tamil Nadu"
+  - "Tamil Nadu school software"
+  - "TN state board school ERP"
+  - "school ERP Chennai Coimbatore"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
-date: "2026-06-19"
 ---
 ## School ERP in Tamil Nadu
 
@@ -60,7 +62,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,7 +95,7 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools, different boards, diverse student populations, complex compliance.
 
 **About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
 

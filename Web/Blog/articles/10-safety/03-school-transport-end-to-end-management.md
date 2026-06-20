@@ -1,8 +1,8 @@
 ---
 title: "School Transport: End-to-End Management Guide"
-slug: "school-transport-management-guide"
+slug: "03-school-transport-end-to-end-management"
 meta_description: "Complete guide to school transport operations. Learn route planning, safety protocols, driver management, and how to optimize transport for student safety."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school transport management"
 secondary_keywords:
   - "school bus operations"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Transport: End-to-End Management Guide
 
 **School transport is both a student service and a significant operational responsibility. Every day, buses move hundreds of students safely (or unsafely) to and from school. This guide covers every aspect: fleet management, route planning, driver recruitment and oversight, safety protocols, GPS tracking, and incident response. By implementing these practices, you'll ensure student safety, improve operational efficiency, and reduce transport-related incidents.**
@@ -257,13 +256,17 @@ This creates risk: delays, overcrowding, driver misconduct, accidents, and stude
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Yashveer is the founder of Nexli and designed transport management because safe, reliable transport is foundational to a school's reputation.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, with no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**  
-Yashveer Labs builds school ERPs where every system prioritizes safety. Transport, medical, security—all tracked and auditable.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails: these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**  
-Nexli's Transport module includes route management, driver profiles, vehicle maintenance tracking, GPS integration with OpenStreetMap, incident logging, and real-time parent updates.
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
+
+---
+
+**Ready to manage transport routes, drivers, and GPS tracking in one place?** [Book a Free Demo](/demo)
 
 ---
 
@@ -288,7 +291,7 @@ A: Ranges ₹500–2000/month depending on distance and vehicle. Typically, tran
 A: Initial training at hire (8–16 hours). Refresher training annually (4 hours minimum). Additional training after any safety incident or complaint.
 
 **Q5: Should GPS be mandatory or optional for parents?**  
-A: Optional. Collect consent. Provide incentive (reduced fee if you opt in to tracking—school saves on lost-student risk). Respects privacy while encouraging uptake.
+A: Optional. Collect consent. Provide incentive (reduced fee if you opt in to tracking, school saves on lost-student risk). Respects privacy while encouraging uptake.
 
 **Q6: What should we do if a driver is found drunk/impaired?**  
 A: Immediate suspension pending investigation. If confirmed: termination. Report to police if injury occurred. No tolerance for substance impairment while driving.

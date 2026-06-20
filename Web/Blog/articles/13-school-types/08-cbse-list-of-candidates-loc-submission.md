@@ -1,20 +1,22 @@
 ---
 title: "List of Candidates (LOC) Submission: Step-by-Step Guide for CBSE Schools"
-slug: "cbse-list-of-candidates-loc-submission-step-by-step"
+slug: "08-cbse-list-of-candidates-loc-submission"
 meta_description: "Master CBSE List of Candidates (LOC) submission process. Learn eligibility criteria, data validation, error prevention, and how modern ERPs automate LOC generation and CBSE reconciliation."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "CBSE List of Candidates LOC submission"
-secondary_keywords: ["LOC submission CBSE Class 10 12", "LOC eligibility criteria attendance", "LOC data validation CBSE", "LOC submission errors prevention", "LOC hall ticket generation"]
+secondary_keywords:
+  - "LOC submission CBSE Class 10 12"
+  - "LOC eligibility criteria attendance"
+  - "LOC data validation CBSE"
+  - "LOC submission errors prevention"
+  - "LOC hall ticket generation"
 intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
-date: "2026-06-19"
 ---
-
 ## What is LOC and Why It Matters
 
 The List of Candidates (LOC) is CBSE's mandatory submission for schools before Classes 10 and 12 board examinations. LOC gates exam hall ticket generation, result processing, and certificate issuance. Without LOC, board exams cannot happen.
@@ -59,7 +61,7 @@ CBSE specifies exact LOC format. The CSV file must include:
 
 - Roll number (school-assigned, must be unique)
 - Aadhaar number (12 digits, cannot be blank)
-- Student name (surname, given name, middle name—specific order)
+- Student name (surname, given name, middle name, in that specific order)
 - Date of birth (DD-MM-YYYY format)
 - Gender (M/F, specific format)
 - Subject choices (exactly as per CBSE's subject codes)
@@ -163,7 +165,7 @@ When LOC submission date approaches, the ERP auto-generates LOC:
 - Exports data in CBSE-mandated CSV format (correct column order, correct data types, correct encoding)
 - Includes only eligible students; excludes ineligible students with a clear reason logged
 
-This eliminates manual data extraction and formatting—the source of most errors.
+This eliminates manual data extraction and formatting, which is the source of most errors.
 
 ### 3. Pre-Submission Validation
 
@@ -182,7 +184,7 @@ Schools can fix issues before submission, not after CBSE rejects the file.
 
 ### 4. CBSE Submission Integration
 
-Some ERPs integrate directly with CBSE's LOC portal. Schools click "Submit to CBSE" within the ERP, and the system uploads the LOC file and logs the submission timestamp. Schools don't manually upload and navigate CBSE's portal—it's automated.
+Some ERPs integrate directly with CBSE's LOC portal. Schools click "Submit to CBSE" within the ERP, and the system uploads the LOC file and logs the submission timestamp. Schools don't manually upload and navigate CBSE's portal; the process is automated.
 
 ### 5. Hall Ticket Reconciliation
 
@@ -245,13 +247,13 @@ Maintain a LOC submission log: dates, files submitted, CBSE's responses, correct
 
 **Founder's Insight:**
 
-The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen—a chronically absent student, a teacher not submitting lesson plans, fees slipping—suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
+The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen, whether a chronically absent student, a teacher not submitting lesson plans, or fees slipping, suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
 
 ---
 
 **Company Perspective:**
 
-The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable—it's where better solutions emerge.
+The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable: it's where better solutions emerge.
 
 ---
 
@@ -263,7 +265,7 @@ Nexli automates LOC from start to finish. Real-time eligibility tracking shows t
 
 ## Call to Action
 
-LOC submission shouldn't be a three-week crisis. Eligibility should be visible in real-time, LOC should be generated automatically, and validation should happen before submission—not after CBSE rejects the file.
+LOC submission shouldn't be a three-week crisis. Eligibility should be visible in real-time, LOC should be generated automatically, and validation should happen before submission, not after CBSE rejects the file.
 
 **[Schedule a 20-minute demo with Nexli](/demo)** to see real-time eligibility tracking, auto-generated LOC, and pre-submission validation in action. Bring your most recent LOC submission; we'll show you how Nexli would have streamlined it.
 

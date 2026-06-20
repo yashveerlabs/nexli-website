@@ -1,25 +1,24 @@
 ---
-title: Class-Wise Academic Performance Benchmarking
-slug: class-performance-benchmarking
-meta_description: Compare class performance against standards and peer groups.
-category: Academic Management & Teaching Excellence
-primary_keyword: class performance benchmarking
+title: "Class-Wise Academic Performance Benchmarking"
+slug: "30-class-performance-benchmarking"
+meta_description: "Compare class performance against standards and peer groups."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "class performance benchmarking"
 secondary_keywords:
-  - Class Performance Benchmarking
-  - teaching effectiveness
-  - student learning
-  - academic excellence
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "Class Performance Benchmarking"
+  - "teaching effectiveness"
+  - "student learning"
+  - "academic excellence"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 2
 branding_block_company: 2
 branding_block_nexli: 2
 ---
-
 ## Executive Summary
 
-Class-Wise Academic Performance Benchmarking is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process report 30–50% improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.
+Class-Wise Academic Performance Benchmarking is a critical operational area that impacts school efficiency, compliance, and stakeholder satisfaction. Schools that systematize this process see measurable improvements in speed, consistency, and stakeholder confidence. This article explores the core challenges, proven solutions, and practical implementation strategies.
 
 ---
 
@@ -194,11 +193,11 @@ Nexli provides end-to-end workflow automation for school processes:
 
 ## About Yashveer Singh Rajpoot
 
-Yashveer Singh Rajpoot founded Yashveer Labs to make school administration simpler. A former school administrator himself, he understands the pain of manual workflows, scattered data, and endless approvals. His mission is to help Indian schools modernize operations so leaders can focus on education.
+Yashveer Singh Rajpoot founded Yashveer Labs to make school administration simpler. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems, Yashveer Singh Rajpoot built Nexli. His mission is to help Indian schools modernize operations so leaders can focus on education.
 
 ## About Yashveer Labs
 
-Yashveer Labs builds practical software for schools—not "edtech solutions," but real tools for managing people, data, and processes. Every feature solves a problem we've seen in 50+ schools.
+Yashveer Labs builds practical software for schools-not "edtech solutions," but real tools for managing people, data, and processes. Every feature solves a problem identified through study of real Indian school operations.
 
 ## About Nexli
 
@@ -222,3 +221,6 @@ A: Yes. The framework applies to any process. Map your current state, identify y
 
 **Q: How do we ensure people follow it?**
 A: Make it the default. If the system routes approvals automatically, people have no choice. Pair this with training and a grace period for adjustment.
+
+
+[Book a Free Demo](/demo)

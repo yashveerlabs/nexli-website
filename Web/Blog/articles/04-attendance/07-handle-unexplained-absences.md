@@ -1,18 +1,20 @@
 ---
 title: "How to Handle Unexplained Absences"
-slug: "handle-unexplained-absences"
+slug: "07-handle-unexplained-absences"
 meta_description: "Manage and investigate unexplained student absences. Process for documenting, investigating, and addressing unaccounted absences."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "unexplained absences student attendance"
-secondary_keywords: ["absence investigation", "truancy management", "attendance documentation"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "absence investigation"
+  - "truancy management"
+  - "attendance documentation"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Unexplained Absences & Truancy
 
 A student is absent for 3 days. The teacher marks "A (Absent)" but doesn't know why. No parent explanation. By day 4, school still doesn't know where the student is or why.
@@ -44,9 +46,9 @@ Unexplained absences are truancy risks. They also signal potential issues: Is th
 | Date | Student | Status | Reason | Provided By | Follow-up |
 |------|---------|--------|--------|---|---|
 | June 19 | Arjun | Absent | Illness (fever) | Parent call | No action; medical cert not required |
-| June 20 | Arjun | Absent | Unexplained | — | Office called; no answer. SMS sent |
-| June 21 | Arjun | Absent | Unexplained | — | Principal calling today |
-| June 22 | Arjun | Present | — | — | Attended school |
+| June 20 | Arjun | Absent | Unexplained | N/A | Office called; no answer. SMS sent |
+| June 21 | Arjun | Absent | Unexplained | N/A | Principal calling today |
+| June 22 | Arjun | Present | N/A | N/A | Attended school |
 
 Keep detailed records. If a pattern of unexplained absences emerges, you have documentation.
 
@@ -108,15 +110,13 @@ Parent may disclose:
 
 ---
 
-## Branding Block: Why Nexli
+---
 
-Unexplained absences are red flags. Nexli surfaces them immediately and tracks investigations.
+**About Nexli:** Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents on WhatsApp (where they actually open messages). Nexli is built for Indian schools, by people who understand Indian schools.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "Unexplained absences often signal real problems. Nexli flags them automatically, so principals can investigate early, not discover issues months later."
+**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP. They have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
-**Yashveer Labs' Commitment:**
-Every absence tells a story. Nexli helps you uncover it and support your students.
+**About Yashveer Labs:** Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking what's actually broken here, and why smart people put up with this. The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 ---
 
@@ -131,7 +131,7 @@ Handle unexplained absences systematically:
 5. **Problem-solve** (remove barriers; provide support)
 6. **Follow-up** (monitor improvement)
 
-Nexli's automatic flagging and communication tracking make this seamless. **[Request a demo](#contact)** and see how your school can handle unexplained absences confidently.
+Nexli's automatic flagging and communication tracking make this process reliable. **[Book a Free Demo](/demo)** and see how your school can handle unexplained absences confidently.
 
 ---
 

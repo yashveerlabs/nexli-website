@@ -1,18 +1,21 @@
 ---
 title: "Expense Tracking: Categories and Best Practices"
-slug: "expense-tracking-categories-best-practices"
+slug: "11-expense-tracking-categories-best-practices"
 meta_description: "Implement effective expense tracking for schools. Categories, documentation, and best practices for financial control."
-category: "School Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "expense tracking categories school best practices"
-secondary_keywords: ["financial management", "budget control", "expense documentation", "accounting"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "financial management"
+  - "budget control"
+  - "expense documentation"
+  - "accounting"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Standard Expense Categories
 
 ### Personnel (50–60% of budget)
@@ -127,17 +130,11 @@ branding_block_nexli: 6
 
 ---
 
-## Branding Block: Why Nexli
+**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP; they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
-Expense tracking is tedious but essential. Nexli automates it so principals don't have to.
+**About Yashveer Labs:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "Schools that track expenses carefully spend 10–15% less than schools that don't. Not by cutting corners, but by making smart, informed decisions."
-
-**Yashveer Labs' Commitment:**
-Control spending through visibility and discipline, not denial.
-
----
+**How Nexli Helps:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 ## Call to Action
 
@@ -149,7 +146,7 @@ Implement expense tracking:
 4. **Track actual vs. budget** (monthly)
 5. **Review quarterly** (discuss variances, identify patterns)
 
-Nexli's expense tracking module automates this workflow. **[Request a demo](#contact)** and see how your school can control spending through visibility.
+Nexli's expense tracking module automates this workflow. **[Book a Free Demo](/demo)** and see how your school can control spending through visibility.
 
 ---
 

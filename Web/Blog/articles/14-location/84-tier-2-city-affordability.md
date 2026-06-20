@@ -1,18 +1,20 @@
 ---
 title: "Tier 2 City Affordability"
-slug: "tier-2-city-affordability"
-meta_description: "Tier 2 City Affordability"
-category: 14
-primary_keyword: "tier"
-secondary_keywords: ["2", "city", "affordability", "school"]
+slug: "84-tier-2-city-affordability"
+meta_description: "Affordable school ERP for Tier 2 cities: cloud-based school management that fits Tier 2 budgets while delivering admissions, compliance, and fee management."
+category: "Location-Based School ERP Solutions"
+primary_keyword: "affordable school ERP Tier 2 cities India"
+secondary_keywords:
+  - "school ERP affordability Tier 2"
+  - "cost-effective school management India"
+  - "Tier 2 school software budget"
+  - "school ERP Jaipur Chandigarh affordable"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
-date: "2026-06-19"
 ---
 ## Tier 2 City Affordability
 
@@ -60,7 +62,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,7 +95,7 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools, different boards, diverse student populations, complex compliance.
 
 **About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
 

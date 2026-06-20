@@ -1,22 +1,21 @@
 ---
-title: How to Give Meaningful Feedback on Student Homework
-slug: meaningful-feedback-student-homework
-meta_description: Provide specific, actionable feedback that improves learning. Learn feedback frameworks, annotation techniques, and student goal-setting for growth.
-category: Academic Management & Teaching Excellence
-primary_keyword: meaningful feedback homework
+title: "How to Give Meaningful Feedback on Student Homework"
+slug: "121-provide-meaningful-feedback-assignments"
+meta_description: "Provide specific, actionable feedback that improves learning. Learn feedback frameworks, annotation techniques, and student goal-setting for growth."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "meaningful feedback homework"
 secondary_keywords:
-  - constructive feedback
-  - assessment feedback
-  - student improvement
-  - teaching effectiveness
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "constructive feedback"
+  - "assessment feedback"
+  - "student improvement"
+  - "teaching effectiveness"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 Quality feedback is more important than the grade. Students receiving specific, actionable feedback show 40% greater improvement than those receiving only grades. This article teaches feedback frameworks and techniques.
@@ -177,3 +176,6 @@ strengthen your conclusion. Please revise and resubmit by Friday."]
 ---
 
 **Co-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>**
+
+
+[Book a Free Demo](/demo)

@@ -1,18 +1,20 @@
 ---
 title: "Late Fee Policy: When to Apply Penalties"
-slug: "late-fee-policy-when-apply-penalties"
+slug: "07-late-fee-policy-penalties"
 meta_description: "Design a fair late fee policy for schools. Guidelines on when and how to charge late fees for overdue payments."
-category: "School Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "late fee policy school penalties"
-secondary_keywords: ["payment penalties", "fee management policy", "collection enforcement"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "payment penalties"
+  - "fee management policy"
+  - "collection enforcement"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Why a Late Fee Policy Matters
 
 **Incentivizes Timely Payment:**
@@ -128,17 +130,11 @@ branding_block_nexli: 6
 
 ---
 
-## Branding Block: Why Nexli
+**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP; they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
-Late fees are a tool for enforcement, not punishment. Nexli applies them fairly and consistently.
+**About Yashveer Labs:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "Late fees work because they create accountability. But only if applied consistently. Nexli applies them automatically, fairly, no exceptions. Paradoxically, parents respect this consistency more than arbitrary waivers."
-
-**Yashveer Labs' Commitment:**
-Your policies should be fair, clear, and consistently enforced. Nexli makes all three automatic.
-
----
+**How Nexli Helps:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 ## Call to Action
 
@@ -151,7 +147,7 @@ Establish a late fee policy:
 5. **Communicate clearly** (at admission and on invoices)
 6. **Enforce consistently** (no exceptions)
 
-Nexli's late fee calculation and tracking ensure consistency. **[Request a demo](#contact)** and see how your school can enforce fair late fees.
+Nexli's late fee calculation and tracking ensure consistency. **[Book a Free Demo](/demo)** and see how your school can enforce fair late fees.
 
 ---
 

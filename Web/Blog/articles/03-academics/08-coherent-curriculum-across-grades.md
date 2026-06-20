@@ -1,18 +1,21 @@
 ---
 title: "How to Create a Coherent Curriculum Across All Grades"
-slug: "coherent-curriculum-across-grades"
+slug: "08-coherent-curriculum-across-grades"
 meta_description: "Build a vertically aligned curriculum framework across all grades. Ensure learning progressions and eliminate redundancy."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "coherent curriculum vertical alignment grades"
-secondary_keywords: ["curriculum alignment", "learning progression", "cross-grade coordination", "educational continuity"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "curriculum alignment"
+  - "learning progression"
+  - "cross-grade coordination"
+  - "educational continuity"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Fragmented Learning Across Grades
 
 A student finishes Grade 7 with basic English skills. Enters Grade 8, and the English teacher assumes students know something they don't. Confusion. The Grade 8 teacher reteaches Grade 7 concepts, wasting time.
@@ -29,7 +32,7 @@ Without vertical alignment (coherence across grades), each grade functions indep
 
 ## Why Coherence Matters
 
-A vertically aligned, coherent curriculum creates a seamless learning journey:
+A vertically aligned, coherent curriculum creates a direct learning journey:
 
 - **Clear Progression:** Grade 6 builds Grade 5 concepts; Grade 7 builds Grade 6; and so on
 - **No Redundancy:** Each topic is taught once, in depth, at the right time
@@ -260,7 +263,7 @@ Create curriculum coherence in your school:
 4. **Establish cross-grade collaboration** (monthly meetings)
 5. **Use Nexli's vertical alignment tools** to make coherence visible and monitored
 
-Nexli's curriculum mapping and cross-grade collaboration features streamline this process. **[Request a demo](#contact)** and see how your school can create a truly coherent, seamless learning journey.
+Nexli's curriculum mapping and cross-grade collaboration features streamline this process. **[Request a demo](/demo)** and see how your school can create a coherent, direct learning journey.
 
 ---
 

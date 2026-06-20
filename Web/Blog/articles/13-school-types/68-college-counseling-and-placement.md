@@ -1,22 +1,24 @@
 ---
 title: "College Counseling and Placement"
-slug: "college-counseling-and-placement"
-meta_description: "College Counseling and Placement"
-category: 13
-primary_keyword: "college"
-secondary_keywords: ["counseling", "and", "placement", "school"]
-intent: "buyer-guide"
+slug: "68-college-counseling-and-placement"
+meta_description: "How school ERPs support college counseling and placement for Indian K-12 schools. Nexli provides 118+ configurable roles and 55+ modules including this capability as a core feature."
+category: "School Type Specific Solutions"
+primary_keyword: "college counseling placement ERP school"
+secondary_keywords:
+  - "school college placement software India"
+  - "student career counseling ERP"
+  - "college admission guidance system"
+  - "school counseling management"
+intent: "educational"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## College Counseling and Placement
 
-Different school types face different operational realities. college counseling and placement requires understanding these specific needs.
+Different school types face different operational realities. Understanding college counseling and placement helps schools choose the right ERP features for their context.
 
 ### The Reality of School Diversity
 
@@ -60,7 +62,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,8 +95,14 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Yashveer Singh Rajpoot:**
 
-**About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
+Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh Rajpoot insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
 
-**How Nexli Helps:** The Report Card system includes auto-filled marks, automatic grade calculation per board rules, and print-ready PDF with school branding.
+**About Yashveer Labs:**
+
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, the company starts by asking what is actually broken here and why do smart people put up with this. The answers reveal where technology can genuinely help. Yashveer Labs does not build features because they are trendy. It builds features because they solve real problems that schools face today.
+
+**About Nexli:**
+
+Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents on WhatsApp (where they actually open messages). Nexli is built for Indian schools, by people who understand Indian schools.

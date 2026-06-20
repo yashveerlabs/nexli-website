@@ -1,8 +1,8 @@
 ---
 title: "Data-Driven Administrative Decisions: Making Smart Choices"
-slug: "data-driven-administrative-decisions"
+slug: "06-data-driven-administrative-decisions"
 meta_description: "Learn how to use data to make better administrative decisions at your school. Understand what data to collect, how to analyze it, and when to trust your gut."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "data-driven decisions"
 secondary_keywords:
   - "school data analytics"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Data-Driven Administrative Decisions: How to Make Smarter Choices
 
 **Most principals make decisions based on hunches, conversations, or the loudest voice in the room. "I think attendance is low." "Parents seem unhappy about fees." "That teacher doesn't fit the culture." But hunches mislead. Data doesn't lie. This guide shows you how to collect the right data, analyze it properly, and make decisions backed by evidence instead of guesses. You'll learn when to trust data, when to combine it with judgment, and how a system like Nexli makes data-driven decision-making effortless.**
@@ -81,9 +80,9 @@ Look for patterns, trends, outliers.
 
 **Questions to ask:**
 - What's the average? (Math pass rate across all classes = 72%)
-- What's the range? (Class 8-A: 85%, Class 8-B: 45%—wide spread suggests unequal teaching quality)
-- Is there a trend? (Pass rate declined from 78% last year to 72% this year—declining)
-- What's the outlier? (That one class is 40% below average—red flag)
+- What's the range? (Class 8-A: 85%, Class 8-B: 45%, wide spread suggests unequal teaching quality)
+- Is there a trend? (Pass rate declined from 78% last year to 72% this year, declining)
+- What's the outlier? (That one class is 40% below average, red flag)
 
 ### Step 5: Make the Decision
 Use data + professional judgment.
@@ -148,7 +147,7 @@ Use data + professional judgment.
 **Data to collect:**
 - Current fee collection rate (are we collecting 90% or 70%?)
 - Outstanding dues (many parents not paying current fees)
-- Parent income data (if available—do parents earn enough to absorb increase?)
+- Parent income data (if available, do parents earn enough to absorb increase?)
 - Competitor school fees (are we already expensive?)
 - Enrollment trends (is growth stalling?)
 
@@ -193,7 +192,7 @@ Use data + professional judgment.
 - Teacher readiness: Can they assess multiple domains (cognitive, social-emotional, physical, arts)?
 - Student feedback: Do students prefer current report card or would they benefit from HPC?
 - Parent feedback: Do parents want HPC or do they prefer traditional marks?
-- Peer school experience: Schools using HPC—what are outcomes?
+- Peer school experience: Schools using HPC, what are outcomes?
 - Implementation cost: Training, software, time investment
 
 **Analysis:**
@@ -311,13 +310,17 @@ Nexli provides clean, real-time data so you can focus on analysis and decisions:
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Yashveer is the founder of Nexli and designed the platform to make data-driven decision-making easy for principals. His belief: schools should operate on evidence, not hunches. Real-time data removes guesswork.
+When Yashveer Singh Rajpoot tested Nexli with real schools, the most surprising feedback was this: "We didn't realize we were missing so much visibility." Schools became aware of patterns they'd never seen before: the silent attendance decline before a student drops out, the systematic imbalance in subject performance across sections, the correlation between homework submission and exam success. Visibility enables intervention. Insight enables strategy. That's what modern systems should do.
 
 **About Yashveer Labs**  
-Yashveer Labs builds school ERPs that prioritize data integrity and accessibility. Philosophy: what gets measured gets managed. Data should be clean, accessible, and actionable.
+The culture of Yashveer Labs rewards deep problem-solving over quick fixes. An engineer is expected to understand the actual school workflow that a feature supports, not just build the code. A designer is expected to test their work with real users, not just make it visually appealing. That expectation for depth means solutions actually work in practice, not just in theory.
 
 **About Nexli**  
-Nexli is a cloud-based school ERP with 55+ modules. Real-time dashboards, automated calculations, and audit logs ensure data integrity. 300+ demo staff and 300 demo students show realistic data patterns.
+Nexli's foundation is that data should never be siloed. The same attendance record that a teacher marks is visible to the parent, the coordinator, the principal, and feeds into analytics. The same marks that a teacher enters go into the gradebook, the report card, the ranking system, and the analysis dashboard. That data unity means the system always shows one truth, not conflicting versions.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

@@ -1,3 +1,21 @@
+---
+title: "Community Partnerships: Building Local Relationships for School Growth"
+slug: "36-community-partnerships-growth"
+meta_description: "Build community partnerships that drive school growth and reputation. Learn partnership strategy, co-marketing opportunities, and how to leverage local relationships."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "school community partnerships"
+secondary_keywords:
+  - "school local partnerships"
+  - "school community engagement"
+  - "school co-marketing"
+  - "school growth strategy"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Community Partnerships: Building Local Relationships for School Growth
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -66,5 +84,5 @@ Partnerships amplify your reach and build community trust. Find local partners, 
 
 ---
 
-**Next step:** Identify 3 partnership opportunities this week. Reach out with partnership proposal.
+**Next step:** Identify 3 partnership opportunities this week. Reach out with partnership proposal. [Book a Free Demo](/demo) to see how Nexli's Circulars module helps your school communicate community partnerships and events to parents.
 

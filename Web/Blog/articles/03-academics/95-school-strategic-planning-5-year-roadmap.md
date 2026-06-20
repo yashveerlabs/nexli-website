@@ -1,6 +1,6 @@
 ---
 title: "School Strategic Planning: 5-Year Administrative Roadmap"
-slug: "school-strategic-planning-5-year-roadmap"
+slug: "95-school-strategic-planning-5-year-roadmap"
 meta_description: "Build a comprehensive 5-year strategic plan for school administration with vision, goals, milestones, and measurable outcomes."
 category: "Academic Management & Teaching Excellence"
 primary_keyword: "school strategic planning"
@@ -17,7 +17,6 @@ branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## School Strategic Planning: 5-Year Administrative Roadmap
 
 Most Indian school principals operate in one-year cycles: manage this year, survive this year, hope next year is easier. But schools that thrive operate with a 5-year vision. They ask: "Where do we want to be in 5 years?" and "What must we do this year to get there?" Strategic planning transforms schools from reactive to proactive, from survival mode to sustainable growth.
@@ -216,7 +215,7 @@ Track metrics directly tied to goals. If goal is "improve academics," track exam
 
 **Year 1 Results:**
 - Pass rate: 78% (progress toward 90%)
-- Implemented Nexli ERP (papers → digital workflows)
+- Implemented Nexli (papers → digital workflows)
 - Hired senior coordinator for staff development; conducted 12 training programs
 - Staff satisfaction improved 15%
 

@@ -1,18 +1,20 @@
 ---
 title: "Multi-Board Schools: Regional Variations"
-slug: "multi-board-schools-regional-variations"
-meta_description: "Multi-Board Schools: Regional Variations"
-category: 14
-primary_keyword: "multi-board"
-secondary_keywords: ["schools:", "regional", "variations", "school"]
+slug: "71-multi-board-schools-regional-variations"
+meta_description: "Multi-board school management: how ERP handles schools running CBSE, ICSE, and state board simultaneously with different compliance calendars and report cards."
+category: "Location-Based School ERP Solutions"
+primary_keyword: "multi-board school ERP regional variations India"
+secondary_keywords:
+  - "multi-board school management ERP"
+  - "CBSE ICSE state board school ERP"
+  - "school running multiple boards"
+  - "mixed board school software India"
 intent: "buyer-guide"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 ---
 ## Multi-Board Schools: Regional Variations
 
@@ -60,7 +62,7 @@ Nexli was architecturally designed to support the full diversity of Indian schoo
 
 For compliance, Nexli includes built-in templates for CBSE, ICSE, State Board, and international school needs.
 
-For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules—not optional add-ons.
+For operational models, Nexli includes transport management, hostel management, canteen tracking, and clinic operations as core modules, not optional add-ons.
 
 For governance, Nexli's role-based access system is flexible. You configure exactly the roles and workflows your school operates.
 
@@ -93,7 +95,7 @@ A: Nexli was designed for India's full diversity of schools including minority i
 
 ---
 
-**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools—different boards, diverse student populations, complex compliance.
+**About Nexli:** Nexli was deliberately designed to handle the complexity of Indian schools, different boards, diverse student populations, complex compliance.
 
 **About Yashveer Labs:** Yashveer Labs operates with deep understanding of Indian schools and their unique regulatory landscape.
 

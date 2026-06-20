@@ -1,18 +1,21 @@
 ---
 title: "Addressing Bullying in Schools: Prevention and Response"
-slug: "addressing-bullying-schools-prevention"
+slug: "20-addressing-bullying-schools-prevention"
 meta_description: "Learn about addressing bullying in schools: prevention and response in schools. Best practices, policies, and implementation strategies for Indian K-12 institutions."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "addressing bullying in schools: prevention and response"
-secondary_keywords: ["school management", "school policy", "operations", "best practices"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "school management"
+  - "school policy"
+  - "operations"
+  - "best practices"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
 ---
-
 ## The Problem: Lack of Clear Processes and Accountability
 
 Most schools struggle with addressing bullying in schools: prevention and response:
@@ -49,7 +52,7 @@ Schools with documented, well-executed processes typically see:
 - Better parent satisfaction
 - More engaged staff (clarity = empowerment)
 
-## Building a Robust System
+## Building a Reliable System
 
 ### Step 1: Document Your Current Practices
 
@@ -250,15 +253,11 @@ Nexli's workflow engines and compliance modules automate and standardize critica
 
 ---
 
-## Branding Block: Why Nexli
+**About Nexli:** Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
 
-Clear processes and transparent workflows are the backbone of trust. Nexli automates and standardizes the critical workflows that keep your school running smoothly.
+**About the Founder:** Most EdTech products are built for teachers or students. Nexli was built differently. Yashveer Singh Rajpoot recognized that the school principal is the true operating system, the person who must see everything, trust everything, and act on everything. The system was designed around the principal's perspective first. Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "We built Nexli because we saw schools spending hours on manual workflows—approvals, tracking, follow-ups. Nexli automates this. But more importantly, Nexli makes processes visible and fair. When parents see their request status update in real-time, when staff get automated reminders, when leaders see SLA compliance—everything improves. Transparency builds trust."
-
-**Yashveer Labs' Commitment:**
-Your school's operations depend on clear, consistent, fair processes. Nexli ensures every workflow is documented, automated, and auditable.
+**About Yashveer Labs:** Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep. It's not a translation of a global product. It's a system built from the ground up understanding India's education landscape.
 
 ---
 
@@ -273,7 +272,7 @@ Document and standardize your school processes today:
 5. **Train staff thoroughly** (ensure everyone knows and understands)
 6. **Monitor and improve** (quarterly reviews; continuous refinement)
 
-Nexli's workflow and compliance modules automate these entire processes. **[Request a demo](#contact)** and see how your school can standardize operations and build stakeholder trust.
+Nexli's workflow and compliance modules automate these entire processes. **[Book a Free Demo](/demo)** and see how your school can standardize operations and build stakeholder trust.
 
 ---
 

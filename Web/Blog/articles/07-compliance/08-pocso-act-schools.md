@@ -1,18 +1,21 @@
 ---
 title: "POCSO Act 2012: Protecting Children from Sexual Abuse in Schools"
-slug: "pocso-act-schools-compliance"
+slug: "08-pocso-act-schools"
 meta_description: "Understand POCSO Act 2012 requirements for schools. Learn about child protection, reporting obligations, and creating a safe school environment."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "POCSO Act schools"
-secondary_keywords: ["child protection", "POCSO compliance", "school safety", "sexual abuse prevention"]
-intent: "informational"
+secondary_keywords:
+  - "child protection"
+  - "POCSO compliance"
+  - "school safety"
+  - "sexual abuse prevention"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## What is POCSO Act?
 
 The Protection of Children from Sexual Offences (POCSO) Act, 2012, is India's landmark legislation protecting children from sexual abuse. For schools, POCSO imposes a duty to protect children from abuse, create safe reporting mechanisms, and respond to allegations promptly.
@@ -230,15 +233,19 @@ Nexli's child protection module helps schools manage POCSO requirements:
 
 - **Confidentiality Enforcement:** Case files encrypted; only CPO and principal can access.
 
-## Branding Block: Why Schools Choose Nexli
+---
 
-Nexli ensures schools can respond to child protection concerns promptly and professionally. POCSO compliance is automated; reporting workflows are clear; documentation is confidential and secure. Schools can focus on protecting children, not worrying about compliance procedures.
+**About Nexli:** Nexli's child protection module gives Child Protection Officers a secure, encrypted workspace for complaints, case tracking, FIR recording, and mandatory escalation workflows. POCSO compliance is built into operations, schools don't have to create parallel manual systems. Student safety is the architecture, not a feature layer.
+
+**About Yashveer Labs:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP, they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
+
+**How Nexli Helps:** Yashveer Labs treats data protection as a core business value, not a compliance checkbox. The company invests in encryption, audit trails, role-based access control, and consent management not because regulations require them, but because schools deserve to know their data is safe. That commitment shapes hiring decisions, architectural choices, and feature priorities. Data stewardship is taken seriously.
 
 ## Call to Action
 
 Child protection is non-negotiable. Implement POCSO requirements systematically: designate a CPO, verify staff, train students, and create a reporting mechanism.
 
-**Ready to prioritize child safety?** Explore Nexli's child protection module and POCSO compliance features.
+**Ready to prioritize child safety?** [Book a Free Demo](/demo) and explore Nexli's child protection module and POCSO compliance features.
 
 ---
 

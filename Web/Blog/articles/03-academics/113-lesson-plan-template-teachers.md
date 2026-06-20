@@ -1,22 +1,21 @@
 ---
-title: Lesson Plan Template: What Every Teacher Should Include
-slug: lesson-plan-template-teachers
-meta_description: Complete lesson plan template with best practices, learning objectives, teaching strategies, and assessment methods for Indian school classrooms.
-category: Academic Management & Teaching Excellence
-primary_keyword: lesson plan template
+title: "Lesson Plan Template: What Every Teacher Should Include"
+slug: "113-lesson-plan-template-teachers"
+meta_description: "Complete lesson plan template with best practices, learning objectives, teaching strategies, and assessment methods for Indian school classrooms."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "lesson plan template"
 secondary_keywords:
-  - lesson planning
-  - teaching objectives
-  - instructional design
-  - classroom activities
-intent: reference
-author: Yashveer Labs
-date: 2026-06-19
+  - "lesson planning"
+  - "teaching objectives"
+  - "instructional design"
+  - "classroom activities"
+intent: "reference"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 Structured lesson planning improves teaching quality and student learning. Schools requiring systematic lesson plans report 30% higher test scores and better curriculum coverage. This article provides a ready-to-use lesson plan template with all essential components.

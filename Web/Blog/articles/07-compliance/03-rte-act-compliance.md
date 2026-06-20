@@ -1,18 +1,21 @@
 ---
 title: "Right to Education Act: What Schools Must Know"
-slug: "rte-act-schools-compliance"
+slug: "03-rte-act-compliance"
 meta_description: "Understand the Right to Education Act 2009 and compliance obligations for schools. Learn about EWS seats, free education, and RTE compliance procedures."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "Right to Education Act compliance"
-secondary_keywords: ["RTE Act 2009", "EWS quota", "school compliance", "free education requirements"]
-intent: "informational"
+secondary_keywords:
+  - "RTE Act 2009"
+  - "EWS quota"
+  - "school compliance"
+  - "free education requirements"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## What is the Right to Education (RTE) Act?
 
 The Right to Education Act, 2009, is India's landmark legislation making free and compulsory elementary education (Classes I-VIII) a fundamental right for all children. For private schools, RTE creates specific obligations: reserve 25% of Class I seats for economically weaker sections (EWS) students and provide free education to those students.
@@ -173,15 +176,19 @@ Nexli's EWS/RTE module automates compliance:
 
 - **Data Privacy:** RTE data kept separate; no inadvertent disclosure of student economic status to peers.
 
-## Branding Block: Why Schools Choose Nexli
+---
 
-Nexli ensures schools can serve EWS students compliantly without financial or administrative burden. RTE tracking is automated; compliance is documented; the school fulfills its social obligation without confusion.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+
+**About Yashveer Labs:** Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking, each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+
+**How Nexli Helps:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
 ## Call to Action
 
 RTE compliance is not optional; it's the law. Implement processes to ensure EWS students receive free, quality education without discrimination.
 
-**Ready to make RTE compliance seamless?** Explore Nexli's RTE and EWS management features.
+**Ready to make RTE compliance seamless?** [Book a Free Demo](/demo) and explore Nexli's RTE and EWS management features.
 
 ---
 

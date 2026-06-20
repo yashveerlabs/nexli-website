@@ -1,8 +1,8 @@
 ---
 title: "CCTV Systems for Schools: Strategic Placement and Monitoring"
-slug: "cctv-systems-schools-placement"
+slug: "06-cctv-placement-monitoring"
 meta_description: "Guide to implementing CCTV systems in schools. Learn strategic camera placement, monitoring best practices, and privacy-compliant video surveillance."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school CCTV system"
 secondary_keywords:
   - "video surveillance schools"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## CCTV Systems for Schools: Strategic Placement and Monitoring
 
 **CCTV cameras are a visible deterrent to theft and misconduct, and a crucial tool for investigating incidents after they occur. But poor placement wastes money, and poor practices violate privacy. This guide covers strategic camera placement, monitoring protocols, data retention, privacy compliance, and incident investigation procedures.**
@@ -165,19 +164,23 @@ branding_block_nexli: 8
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Yashveer designed Nexli's incident logging to integrate with CCTV (incidents timestamped for easy footage retrieval).
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, with no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**  
-Yashveer Labs believes security systems should be transparent, auditable, and compliant with privacy laws.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails: these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**  
-Nexli's Incident Logging integrates incident timestamp with CCTV retrieval, and maintains access logs for privacy compliance.
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
+
+---
+
+**Ready to integrate incident logging with your CCTV timestamps for faster investigations?** [Book a Free Demo](/demo)
 
 ---
 
 ## Closing: CCTV is a Tool, Not a Solution
 
-Cameras deter crime and provide evidence. But they don't prevent incidents—good security practices, staff vigilance, and student culture do.
+Cameras deter crime and provide evidence. But they don't prevent incidents, good security practices, staff vigilance, and student culture do.
 
 ---
 

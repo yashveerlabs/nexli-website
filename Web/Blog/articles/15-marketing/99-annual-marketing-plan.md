@@ -1,3 +1,21 @@
+---
+title: "Annual Marketing Plan: Building Yearly Strategy and Timeline"
+slug: "99-annual-marketing-plan"
+meta_description: "Build a complete annual marketing plan for your school. Learn how to set targets, plan campaigns by term, allocate budget, and create a 12-month admissions marketing calendar."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "school annual marketing plan"
+secondary_keywords:
+  - "school marketing strategy"
+  - "school yearly marketing calendar"
+  - "school admissions plan"
+  - "school marketing roadmap"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Annual Marketing Plan: Building Yearly Strategy and Timeline
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -89,5 +107,5 @@ Written annual plan is roadmap. Keeps team aligned, focused, and accountable.
 
 ---
 
-**Next step:** Build your annual marketing plan this quarter.
+**Next step:** Build your annual marketing plan this quarter. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline, circulars, and academic calendar data give you the foundation for a structured annual marketing plan.
 

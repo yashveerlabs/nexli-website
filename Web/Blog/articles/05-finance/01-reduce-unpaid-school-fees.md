@@ -1,18 +1,21 @@
 ---
 title: "How to Reduce Unpaid School Fees by 50%"
-slug: "reduce-unpaid-school-fees-50-percent"
+slug: "01-reduce-unpaid-school-fees"
 meta_description: "Reduce unpaid school fees dramatically. Proven strategies for fee recovery and collection management in schools."
-category: "School Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "reduce unpaid school fees collection"
-secondary_keywords: ["fee recovery", "school fee collection", "defaulter management", "fee payment"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "fee recovery"
+  - "school fee collection"
+  - "defaulter management"
+  - "fee payment"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Mounting Unpaid Fees
 
 A school bills ₹100 lakhs in annual fees. By year-end:
@@ -83,7 +86,7 @@ Don't wait for parents to pay. Remind them proactively.
 ### 4. Identify & Support Genuinely Unable Parents
 
 **Reality:**
-Not all unpaid fees are due to negligence. Some parents truly can't afford.
+Not all unpaid fees are due to negligence. Some parents cannot afford.
 
 **Process:**
 - Scholarship/concession application form
@@ -199,17 +202,11 @@ Monthly board review: Fee collection %, defaulters, trend. Accountability matter
 
 ---
 
-## Branding Block: Why Nexli
+**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP; they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
-Fee collection is cash flow; cash flow is school survival. Nexli makes collection systematic and relentless.
+**About Yashveer Labs:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "We've seen schools with 40% unpaid fees accept it as inevitable. Nexli's fee dashboard and automated reminders help schools recover 50%+ of unpaid fees. The difference is visibility and systematic follow-up."
-
-**Yashveer Labs' Commitment:**
-Your school's financial health matters. Nexli helps you collect every rupee owed, fairly but firmly.
-
----
+**How Nexli Helps:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 ## Call to Action
 
@@ -222,7 +219,7 @@ Reduce unpaid fees by 50%:
 5. **Enforce consequences** (clear, progressive, documented)
 6. **Track & report** (monthly dashboard)
 
-Nexli's fee collection module automates this workflow. **[Request a demo](#contact)** and see how your school can recover 50%+ more unpaid fees.
+Nexli's fee collection module automates this workflow. **[Book a Free Demo](/demo)** and see how your school can recover 50%+ more unpaid fees.
 
 ---
 

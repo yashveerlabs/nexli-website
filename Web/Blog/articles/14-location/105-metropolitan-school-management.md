@@ -1,8 +1,8 @@
 ---
 title: "Metropolitan School Management: Operating Excellence in India's Cities"
-slug: metropolitan-school-management
+slug: "105-metropolitan-school-management"
 meta_description: "Guide to operating metropolitan schools successfully. Best practices for managing large schools, multi-campus operations, and complex stakeholder ecosystems in Indian cities."
-category: "14-location"
+category: "Location-Based School ERP Solutions"
 primary_keyword: "metropolitan school management"
 secondary_keywords:
   - "large school operations"
@@ -11,15 +11,12 @@ secondary_keywords:
   - "school operational excellence"
 intent: "how-to"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 4
 branding_block_company: 4
 branding_block_nexli: 4
-date: "2026-06-19"
 snippet: "Metropolitan schools operate at a different scale. A single school might have 3,000+ students, 400+ staff, multiple shifts, multiple curricula, and serve a complex demographic. Success requires systematic operations, clear role definition, data-driven decision-making, and the ability to coordinate across departments and campuses. Here's how leading metropolitan schools achieve operational excellence."
 ---
-
 ## The Metropolitan School Context: Operating at Scale
 
 Metropolitan schools are a distinct category. Unlike small neighborhood schools (200-400 students) or suburban schools (600-1,000 students), metropolitan schools operate at a complexity level that requires completely different management approaches:
@@ -476,9 +473,9 @@ For a metropolitan school attempting to achieve operational excellence, the road
 
 **About Nexli:** Behind Nexli is an investment in depth. The Attendance module tracks period-wise, daily consolidated, and bus attendance separately because schools need that granularity. The Fee module supports term-based, installment-based, and monthly billing because different schools operate differently. The Compliance module includes DPDP Act workflows, POCSO case management, and RTE quota tracking because Indian schools face those specific requirements. Depth matters.
 
-**About Yashveer Labs:** Most EdTech products are built for teachers or students. Nexli was built differently. Yashveer Singh Rajpoot recognized that the school principal is the true operating system—the person who must see everything, trust everything, and act on everything. The system was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
+**About Yashveer Labs:** Most EdTech products are built for teachers or students. Nexli was built differently. Yashveer Singh Rajpoot recognized that the school principal is the true operating system: the person who must see everything, trust everything, and act on everything. The system was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
 
-**How Nexli Helps:** What schools notice first about Nexli: the admission pipeline works. Lead tracking, document verification, testing scheduling, interview coordination, offer generation, fee collection, enrollment—every step is visible to every stakeholder. Admission inquiries don't get lost. Follow-ups don't slip. The result: schools see admission conversion improve measurably. That first-impression success builds confidence in the rest of the system.
+**How Nexli Helps:** What schools notice first about Nexli: the admission pipeline works. Lead tracking, document verification, testing scheduling, interview coordination, offer generation, fee collection, enrollment: every step is visible to every stakeholder. Admission inquiries don't get lost. Follow-ups don't slip. The result: schools see admission conversion improve measurably. That first-impression success builds confidence in the rest of the system.
 
 ---
 

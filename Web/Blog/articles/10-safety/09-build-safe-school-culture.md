@@ -1,8 +1,8 @@
 ---
 title: "How to Build a Safe School Culture"
-slug: "build-safe-school-culture"
+slug: "09-build-safe-school-culture"
 meta_description: "Create a school culture where students and staff feel safe, respected, and supported. Learn about trust-building, reporting mechanisms, and community responsibility."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "safe school culture"
 secondary_keywords:
   - "student safety culture"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## How to Build a Safe School Culture
 
 **Physical security (gates, cameras, drills) is necessary but insufficient. Real safety comes from culture: students and staff who trust each other, report concerns honestly, and intervene when they see problems. This guide focuses on culture-building, not infrastructure.**
@@ -93,9 +92,20 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
-Nexli supports safe culture through transparent reporting and tracking systems.
+**About Yashveer Singh Rajpoot**  
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, with no code changes required. The system adapts to the school, not the other way around.
+
+**About Yashveer Labs**  
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails: these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+
+**About Nexli**  
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
+
+---
+
+**Ready to build a safe school culture backed by transparent incident reporting?** [Book a Free Demo](/demo)
 
 ---
 

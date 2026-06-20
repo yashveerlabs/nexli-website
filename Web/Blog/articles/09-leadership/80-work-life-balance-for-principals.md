@@ -1,10 +1,22 @@
 ---
 title: "Work-Life Balance for Principals"
-slug: work-life-balance-for-principals
-category: 9
+slug: "80-work-life-balance-for-principals"
+meta_description: "Build sustainable work-life balance as a school principal. Practical strategies for boundary-setting, delegation, efficiency, and protecting personal time without guilt."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "work-life balance for school principals"
+secondary_keywords:
+  - "principal wellbeing"
+  - "school leader work life balance"
+  - "principal boundary setting"
+  - "sustainable school leadership"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 20
+branding_block_company: 20
+branding_block_nexli: 20
 order: 80
 ---
-
 # Work-Life Balance for Principals
 
 Sustainable leadership requires work-life balance. Protect personal time fiercely.
@@ -25,6 +37,21 @@ Sustainable leadership requires work-life balance. Protect personal time fiercel
 
 **School Culture** - Model balance for staff, don't expect staff to work excessively, protect teacher planning time, respect boundaries, sustainable pace for all.
 
-**Perspective** - No job worth sacrificing health/family. Schools need healthy principals. Your wellbeing enables school wellbeing. Balance is not selfish, it's essential.
+**Perspective** - No job worth sacrificing health or family. Schools need healthy principals. Your wellbeing enables school wellbeing. Balance is not selfish, it's essential.
 
-Sustainable leadership is marathon, not sprint. Protect balance to stay effective long-term.
+Sustainable leadership is a marathon, not a sprint. Protect balance to stay effective long-term.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+Yashveer Singh Rajpoot's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice, both equally.
+
+**About Yashveer Labs**  
+The founding story of Yashveer Labs is simple: one person saw a problem, built a solution, and refused to compromise on quality. That principle scales. The company now serves multiple schools, but the commitment to solving real problems deeply, serving every customer completely, and building with long-term integrity remains. That foundation will carry the company through whatever comes next.
+
+**About Nexli**  
+At its core, Nexli is built on a principle that has shaped every feature: schools should operate with confidence. A Principal should be able to see exactly what's happening in their school. A Teacher should know they're teaching the right curriculum at the right pace. A Parent should know their child's attendance and fees in real-time. Confidence comes from information. Nexli provides that information, systematically, for every role.
+
+---
+
+[Book a Free Demo](/demo)

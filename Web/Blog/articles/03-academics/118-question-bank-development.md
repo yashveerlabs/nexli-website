@@ -1,22 +1,21 @@
 ---
-title: How to Build a School Question Bank for Better Assessments
-slug: build-school-question-bank-development
-meta_description: Guide to building and organizing a reusable question bank by topic, difficulty, and learning objective. Learn best practices for assessment quality.
-category: Academic Management & Teaching Excellence
-primary_keyword: school question bank
+title: "How to Build a School Question Bank for Better Assessments"
+slug: "118-question-bank-development"
+meta_description: "Guide to building and organizing a reusable question bank by topic, difficulty, and learning objective. Learn best practices for assessment quality."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "school question bank"
 secondary_keywords:
-  - assessment question development
-  - test question repository
-  - learning objective alignment
-  - assessment design
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "assessment question development"
+  - "test question repository"
+  - "learning objective alignment"
+  - "assessment design"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 A centralized question bank saves 25% of assessment creation time and ensures consistent quality. Schools using organized question banks report faster test creation and more balanced assessments across sections.
@@ -100,7 +99,7 @@ Map all topics and learning outcomes for each subject/grade.
 
 **After assessment:**
 - Analyze performance (which questions were hard? Easy?)
-- Update question notes ("90% students got this wrong — revise wording")
+- Update question notes ("90% students got this wrong, revise wording")
 - Difficulty tag (if medium question performed as hard, update)
 
 ---
@@ -118,7 +117,7 @@ Question:
 "What type of reaction is: Magnesium + Oxygen → Magnesium Oxide?"
 
 Answer Key:
-"Combination reaction (synthesis reaction) — two or more substances combine to form one product."
+"Combination reaction (synthesis reaction), two or more substances combine to form one product."
 
 Difficulty Analysis:
 - 2024: 85% students correct
@@ -170,3 +169,6 @@ Related Outcomes:
 ---
 
 **Co-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>**
+
+
+[Book a Free Demo](/demo)

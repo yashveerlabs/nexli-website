@@ -1,174 +1,76 @@
-﻿---
-title: "Competency-Based Grading"
-slug: "competency-based-grading"
-category: "Compliance"
-category_number: 7
-article_number: 24
-published: true
-seo:
-  description: "Complete compliance guide for Competency-Based Grading in Indian schools."
-  keywords: "school compliance, Competency-Based Grading, Indian education"
-  canonical: "https://nexli.io/blog/compliance/competency-based-grading"
-branding_block: 6
+---
+title: "Competency-Based Grading: Implementing NEP 2020 Assessment in Schools"
+slug: "24-competency-based-grading"
+meta_description: "Implement competency-based grading under NEP 2020. Learn how to move from marks-only to outcome-based assessment, grade calibration, and CBSE requirements."
+category: "Compliance, Governance & Legal"
+primary_keyword: "competency-based grading schools NEP 2020"
+secondary_keywords:
+  - "competency assessment"
+  - "NEP grading system"
+  - "outcome based education"
+  - "formative assessment"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 7
+branding_block_company: 7
+branding_block_nexli: 7
+---
+Competency-based grading shifts from measuring what students memorize to measuring what they can do. Under NEP 2020 and updated CBSE frameworks, schools must incorporate competency indicators alongside or instead of pure marks-based grading for Classes 1-8.
+
+## What Is Competency-Based Grading?
+
+Instead of asking "How many marks did a student score?", competency grading asks "Can the student apply this skill?" A student who scores 75% on a maths test but cannot apply fractions in a real problem has academic marks without competency. A student who solves practical problems demonstrates competency.
+
+## How It Works in Practice
+
+**Define competencies per subject per grade:**
+For Class 5 Mathematics: Student can calculate area and perimeter of regular shapes, apply ratio concepts to real problems, interpret simple data tables.
+
+**Assess against competencies:**
+- Beginning (B): Does not demonstrate the competency yet.
+- Developing (D): Demonstrates with significant support.
+- Achieving (A): Demonstrates independently.
+- Excelling (E): Demonstrates beyond grade expectations.
+
+**Evidence of competency:**
+Projects, presentations, practical tasks, oral responses, and observations, not just written tests.
+
+## Integration with Marks-Based System
+
+Schools need not abandon marks-based assessment. CBSE's current framework blends both: internal assessments (including competency-based tasks) and summative exams (marks-based). Competency ratings appear in the HPC; marks appear in the marks-based report card.
+
+## Staff Training Requirements
+
+Teachers need training to write competency descriptors, design tasks that assess competency rather than recall, and observe and document student performance systematically.
+
+## How Nexli Helps
+
+Nexli's gradebook supports both marks-based and competency-based rating entry. Teachers can log competency levels per student per domain, and the HPC auto-compiles these alongside academic marks.
+
+[Book a Free Demo](/demo) to see Nexli's compliance management in action.
+
 ---
 
-## Introduction to Competency-Based Grading
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
-Competency-Based Grading is a critical compliance requirement for educational institutions in India. This comprehensive guide covers all aspects of implementation, requirements, and best practices.
+**About Yashveer Labs:** Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking, each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
-## Legal Framework
+**How Nexli Helps:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
-The requirement for Competency-Based Grading stems from:
-- Central and State education policies
-- Statutory regulations
-- Board directives
-- Ministry guidelines
-- Supreme Court judgments
 
-## Key Requirements
+---
 
-Schools must:
-1. Understand compliance requirements
-2. Develop implementation procedures
-3. Train staff members
-4. Maintain proper documentation
-5. Conduct periodic audits
-6. Report to authorities as required
-7. Address deficiencies promptly
+## FAQ
 
-## Nexli FACTS for Compliance Management
+**Q: Does competency-based grading eliminate exams?**
 
-Nexli's Compliance module supports Competency-Based Grading through:
+A: No. Exams continue, particularly for Classes 9-12 board requirements. Competency-based assessment supplements exams, it provides additional evidence of learning beyond exam performance.
 
-- **Compliance Calendar**: Automated reminders for deadlines and key dates
-- **Document Storage**: Secure cloud storage for all compliance documents
-- **Audit Trails**: Complete record of all actions taken for compliance
-- **Policy Tracking**: Monitor policy implementation across school
-- **Report Generation**: Create compliance reports for audits and inspections
-- **Task Assignment**: Assign compliance tasks to responsible staff
-- **Checklist Management**: Track completion of compliance requirements
-- **Digital Archiving**: Maintain accessible records for inspections
+**Q: How are competency grades communicated to parents?**
 
-## Implementation Strategy
+A: Through the Holistic Progress Card alongside the marks-based report card. The HPC uses simple descriptors (Beginning, Developing, Achieving, Excelling) that parents can understand without interpreting percentages.
 
-Develop a structured approach:
+**Q: Will universities consider HPC and competency grades for admissions?**
 
-**Phase 1: Planning**
-- Understand requirements
-- Identify gaps
-- Create action plan
-- Allocate resources
-- Set timelines
-
-**Phase 2: Implementation**
-- Train staff
-- Develop procedures
-- Update systems
-- Create documentation
-- Communicate to stakeholders
-
-**Phase 3: Monitoring**
-- Track progress
-- Conduct audits
-- Address issues
-- Update procedures
-- Maintain records
-
-**Phase 4: Reporting**
-- Prepare compliance reports
-- Submit to authorities
-- Document improvements
-- Plan next steps
-- Share with board
-
-## Common Challenges
-
-- Understanding complex requirements
-- Limited staff resources
-- Data management issues
-- Coordination across departments
-- Maintaining documentation
-- Staying updated on changes
-
-## Best Practices
-
-1. **Create detailed procedures** for all compliance activities
-2. **Train staff regularly** on compliance requirements
-3. **Use digital tools** like Nexli for efficient management
-4. **Conduct regular audits** to ensure compliance
-5. **Maintain organized documentation** for easy retrieval
-6. **Communicate transparently** with stakeholders
-7. **Stay updated** on policy changes
-8. **Plan ahead** for compliance deadlines
-
-## Documentation Checklist
-
-Essential documents for Competency-Based Grading:
-- [ ] Policy documents
-- [ ] Procedure manuals
-- [ ] Staff training records
-- [ ] Audit reports
-- [ ] Inspection certificates
-- [ ] Government correspondence
-- [ ] Implementation records
-- [ ] Compliance reports
-
-## Risk Management
-
-Identify and mitigate risks:
-- Incomplete documentation
-- Missed deadlines
-- Staff non-compliance
-- System failures
-- Data loss
-- Regulatory changes
-
-## Technology Solutions
-
-Implement digital solutions to:
-- Automate compliance tracking
-- Centralize documentation
-- Streamline reporting
-- Reduce manual errors
-- Improve accessibility
-- Ensure data security
-
-## Training and Awareness
-
-Ensure all staff understand:
-- Regulatory requirements
-- School procedures
-- Their responsibilities
-- Consequences of non-compliance
-- Available support systems
-
-## Audit and Verification
-
-Prepare for audits by:
-- Maintaining complete documentation
-- Organizing records systematically
-- Creating summary reports
-- Addressing previous findings
-- Updating procedures as needed
-
-## Reporting to Authorities
-
-When required, submit:
-- Compliance certificates
-- Audit reports
-- Implementation status
-- Corrections made
-- Future plans
-
-## Continuous Improvement
-
-Establish process to:
-- Review compliance effectiveness
-- Identify improvement areas
-- Update procedures
-- Train on changes
-- Document improvements
-
-## Conclusion
-
-Competency-Based Grading requires systematic implementation, proper documentation, and continuous monitoring. By using comprehensive compliance management systems like Nexli, schools can efficiently meet all requirements while maintaining proper audit trails and documentation for inspections.
+A: Currently, most university admissions are based on Class 12 board marks. NEP 2020 envisions a future where holistic portfolios are considered. For now, the HPC builds culture and self-awareness in students.

@@ -1,8 +1,8 @@
 ---
 title: "School Brand: Building Identity and Reputation"
-slug: "school-brand-building-identity-reputation"
+slug: "01-school-brand-building-identity"
 meta_description: "Build a strong school brand. Learn brand identity, positioning, consistency, and how to communicate your unique value to parents and students."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school brand"
 secondary_keywords:
   - "school branding strategy"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Brand: Building Identity and Reputation
 
 **A strong brand tells parents who you are, what you stand for, and why they should choose you. Without a clear brand, schools look interchangeable. This guide covers brand identity (mission, vision, values), positioning (what makes you unique), consistency (same message everywhere), and reputation management.**
@@ -46,7 +45,7 @@ Your brand is the feeling and expectation parents have when they hear your schoo
 **Values:** What principles guide you?
 - Academic excellence, integrity, inclusion, community, innovation
 
-**How to define:** Involve staff, parents, students. Consensus is powerful. Avoid generic statements ("We value excellence")—be specific ("We celebrate curiosity and reward intellectual risk-taking").
+**How to define:** Involve staff, parents, students. Consensus is powerful. Avoid generic statements ("We value excellence"), be specific ("We celebrate curiosity and reward intellectual risk-taking").
 
 ---
 
@@ -109,9 +108,9 @@ Your brand is the feeling and expectation parents have when they hear your schoo
 
 ---
 
-## Branding Block
+## How Nexli Supports Brand Building
 
-Nexli helps schools communicate their brand through modern, reliable systems. Real data, real results, real reputation.
+Nexli helps schools communicate their brand through modern, reliable systems. Real data, real results, real reputation. [Book a Free Demo](/demo) to see how Nexli can strengthen your school's reputation and communication.
 
 ---
 
@@ -124,7 +123,7 @@ A: Both. "We strive for excellence" (aspirational). "Our average pass rate is 78
 A: 2–3 years of consistent messaging and delivery. First year is foundation. Patience required.
 
 **Q3: Should we change our brand if we're struggling?**  
-A: Usually, the brand is fine—execution is the problem. Fix operations first. Change brand only if you've fundamentally shifted direction.
+A: Usually, the brand is fine, execution is the problem. Fix operations first. Change brand only if you've fundamentally shifted direction.
 
 ---
 

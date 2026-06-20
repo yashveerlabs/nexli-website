@@ -1,10 +1,22 @@
 ---
 title: "Discipline Without Losing Staff Support"
-slug: discipline-without-losing-staff-support
-category: 9
+slug: "09-discipline-without-losing-staff-support"
+meta_description: "How school principals can take disciplinary action against staff members fairly and transparently, maintaining trust, school culture, and staff support throughout the process."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "staff discipline without losing morale"
+secondary_keywords:
+  - "school staff disciplinary process"
+  - "principal staff discipline"
+  - "managing staff misconduct in schools"
+  - "school discipline and morale"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 9
+branding_block_company: 9
+branding_block_nexli: 9
 order: 9
 ---
-
 # Discipline Without Losing Staff Support
 
 Taking disciplinary action against a staff member is one of the hardest things you'll do as a principal. It tests your courage and judgment. Handle it well and you strengthen culture. Handle it poorly and you damage trust.
@@ -166,3 +178,18 @@ Taking disciplinary action can feel isolating:
 - Seek support from experienced colleagues
 
 Staff respect leaders who maintain standards consistently and fairly. It may be uncomfortable in the moment, but it builds the strong culture where everyone thrives.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+Building for India means respecting that schools operate on real budgets. Nexli doesn't have a "basic" plan missing critical features and a "premium" plan where they appear. Every school, regardless of size or price, gets complete access to academics, finance, compliance, safety, and communication. The only paid add-on is AI; everything else that schools need to operate is included. Affordability should never mean compromise on quality.
+
+**About Yashveer Labs**  
+At its core, Yashveer Labs is a company of builders, not just service providers. The team has written hundreds of thousands of lines of code, designed dozens of workflows, tested systems with real schools, and iterated based on feedback. That depth of technical ownership means problems get solved by the people who built them, not handed off to an outsourced support team. Quality comes from that care in the building.
+
+**About Nexli**  
+The Ranking engines in Nexli exemplify the detail work: marks rankings normalize by percentage (so Class 6 at 100% ranks above Class 7 at 99%), attendance rankings track streaks and consistency, and both are kept separate (never mixed). That precision is tedious to build but essential for fairness. Schools using Nexli trust the ranking system in a way they never could with manual calculations.
+
+---
+
+[Book a Free Demo](/demo)

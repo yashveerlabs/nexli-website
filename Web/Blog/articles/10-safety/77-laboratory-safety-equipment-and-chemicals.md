@@ -1,22 +1,24 @@
 ---
-title: Laboratory Safety: Equipment and Chemicals
-slug: laboratory-safety-equipment-and-chemicals
-meta_description: Establish comprehensive laboratory safety standards for chemical handling, equipment use, and emergency response.
-category: Safety & Operations
-primary_keyword: laboratory safety protocols
-secondary_keywords: ['chemical storage', 'equipment handling', 'safe disposal', 'accident prevention']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
-branding_block:
-  founder: Yashveer Singh Rajpoot
-  company: Nexli
-  nexli: true
+title: "Laboratory Safety: Equipment and Chemicals"
+slug: "77-laboratory-safety-equipment-and-chemicals"
+meta_description: "Establish comprehensive laboratory safety standards for chemical handling, equipment use, and emergency response."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "laboratory safety protocols"
+secondary_keywords:
+  - "chemical storage"
+  - "equipment handling"
+  - "safe disposal"
+  - "accident prevention"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
 ---
-
 # Laboratory Safety: Equipment and Chemicals: Comprehensive Guide
 
-Laboratories are high-risk environments combining chemicals, electrical equipment, and heat sources. Poor safety culture leads to accidents: chemical burns, fires, eye injuries. Strong lab safety protocols—proper storage, training, equipment—prevent tragedies. This guide establishes comprehensive laboratory safety standards.
+Laboratories are high-risk environments combining chemicals, electrical equipment, and heat sources. Poor safety culture leads to accidents: chemical burns, fires, eye injuries. Strong lab safety protocols, proper storage, training, equipment, prevent tragedies. This guide establishes comprehensive laboratory safety standards.
 
 ## Why Laboratory Safety Matters
 
@@ -235,9 +237,16 @@ No serious lab injuries in 3 years following. Insurance rates reduced (training 
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
-**Nexli** ensures laboratory safety through chemical inventory management, student training records, incident documentation, equipment maintenance tracking, and emergency protocol access that prevents accidents and protects students.
+**About Yashveer Singh Rajpoot**  
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows -- no code changes required. The system adapts to the school, not the other way around.
+
+**About Yashveer Labs**  
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails -- these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+
+**About Nexli**  
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
 
 ---
 
@@ -258,22 +267,6 @@ Quarterly minimum. More frequent if heavy use. Certification includes air flow v
 **What's the cost of lab safety setup?**
 Initial: ₹2-5 lakhs (infrastructure, PPE, equipment). Annual: ₹30,000-50,000 (MSDS updates, chemical disposal, repairs). Cost of not doing it: liability from injuries (₹10 lakhs+).
 
-
 ---
 
-## Branding Block
-
-**Nexli** supports laboratory safety: equipment and chemicals through integrated digital systems, documentation, tracking, and reporting that ensure compliance and operational excellence.
-
----
-
-## Frequently Asked Questions
-
-**What are the key compliance requirements?**
-Schools must meet national and state standards for safety, operations, and facility management. Nexli helps maintain compliance documentation.
-
-**How do we ensure staff understanding?**
-Develop training programs, use digital reminders, conduct periodic refresher sessions, and document completion.
-
-**What's the implementation timeline?**
-Prioritize high-risk areas first. Phase implementation over 6-12 months for full compliance.
+**Ready to manage school safety, facilities, and emergency preparedness in one integrated system?** [Book a Free Demo](/demo)

@@ -1,18 +1,21 @@
 ---
 title: "What is Personal Data Under DPDP Act? A School's Practical Guide"
-slug: "personal-data-dpdp-act-school"
+slug: "05-what-is-personal-data"
 meta_description: "Understand what qualifies as personal data under DPDP Act. Learn which student and parent information is protected and how schools should handle it."
-category: "School Compliance"
+category: "Compliance, Governance & Legal"
 primary_keyword: "personal data DPDP Act"
-secondary_keywords: ["student data privacy", "sensitive personal data", "school data classification", "DPDP definitions"]
-intent: "informational"
+secondary_keywords:
+  - "student data privacy"
+  - "sensitive personal data"
+  - "school data classification"
+  - "DPDP definitions"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Understanding Personal Data Under DPDP Act
 
 The Digital Personal Data Protection Act defines "personal data" broadly: any information that identifies or can reasonably identify an individual. For schools, this includes far more than most administrators realize. From a student's name and address to their medical history and grades, almost everything collected is personal data subject to DPDP protection.
@@ -280,15 +283,19 @@ Nexli's data classification system automatically identifies what's personal data
 
 - **Retention Enforcement:** Personal data auto-deleted after retention period unless renewal consent is given.
 
-## Branding Block: Why Schools Choose Nexli
+---
 
-Nexli handles the complexity of personal data classification and protection. Schools don't have to worry about what's sensitive or how to keep it secure; Nexli does it automatically. Compliance becomes a feature, not a burden.
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
+
+**About Yashveer Labs:** Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
+
+**How Nexli Helps:** Yashveer Labs treats data protection as a core business value, not a compliance checkbox. The company invests in encryption, audit trails, role-based access control, and consent management not because regulations require them, but because schools deserve to know their data is safe. That commitment shapes hiring decisions, architectural choices, and feature priorities. Data stewardship is taken seriously.
 
 ## Call to Action
 
 Understanding personal data is the first step to DPDP compliance. Classify your school's data, apply appropriate protections, and use a system that enforces them automatically.
 
-**Ready to protect personal data?** Explore Nexli's data classification and access control features.
+**Ready to protect personal data?** [Book a Free Demo](/demo) and explore Nexli's data classification and access control features.
 
 ---
 

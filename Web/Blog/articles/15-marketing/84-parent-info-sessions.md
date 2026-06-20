@@ -1,3 +1,21 @@
+---
+title: "Parent Information Sessions: Group Engagement and Lead Generation"
+slug: "84-parent-info-sessions"
+meta_description: "Run parent information sessions that convert prospects to applicants. Learn session format, topic selection, presenter skills, follow-up strategy, and measuring conversion."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "school parent information sessions"
+secondary_keywords:
+  - "school admissions info session"
+  - "parent engagement event"
+  - "school open day"
+  - "school group admissions event"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Parent Information Sessions: Group Engagement and Lead Generation
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -81,5 +99,5 @@ Group sessions efficiently engage multiple families. Repeatable model. Scalable 
 
 ---
 
-**Next step:** Schedule first parent info session this month.
+**Next step:** Schedule first parent info session this month. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline captures every attendee's details and follows each family from info session to enrolled student.
 

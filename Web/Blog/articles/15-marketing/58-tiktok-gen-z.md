@@ -1,3 +1,21 @@
+---
+title: "TikTok for Gen Z School Engagement: Reaching Young Parents"
+slug: "58-tiktok-gen-z"
+meta_description: "Use TikTok to reach Gen Z parents and showcase your school's culture. Learn TikTok content strategy, trends, and how to build engagement with younger audiences."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "TikTok schools"
+secondary_keywords:
+  - "school TikTok strategy"
+  - "Gen Z parent marketing"
+  - "school short video"
+  - "TikTok education content"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # TikTok for Gen Z School Engagement: Reaching Young Parents
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -68,5 +86,5 @@ TikTok is emerging channel for schools. Optional for most, critical if targeting
 
 ---
 
-**Next step:** Create TikTok account (optional). Post first video this month.
+**Next step:** Create TikTok account (optional). Post first video this month. [Book a Free Demo](/demo) to see how Nexli's student achievement tracking gives your school authentic content for TikTok and other short-video platforms.
 

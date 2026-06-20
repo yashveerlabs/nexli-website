@@ -1,19 +1,21 @@
 ---
-title: Sewage and Waste Management
-slug: sewage-and-waste-management
-meta_description: Implement proper sewage and waste management systems following environmental and health standards.
-category: Safety & Operations
-primary_keyword: school waste management
-secondary_keywords: ['sewage treatment', 'waste segregation', 'disposal protocols', 'environmental safety']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
-branding_block:
-  founder: Yashveer Singh Rajpoot
-  company: Nexli
-  nexli: true
+title: "Sewage and Waste Management"
+slug: "82-sewage-and-waste-management"
+meta_description: "Implement proper sewage and waste management systems following environmental and health standards."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "school waste management"
+secondary_keywords:
+  - "sewage treatment"
+  - "waste segregation"
+  - "disposal protocols"
+  - "environmental safety"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
 ---
-
 # Sewage and Waste Management: Comprehensive Guide
 
 This guide provides comprehensive guidance on sewage and waste management.
@@ -53,9 +55,16 @@ Implementation of proper protocols prevents issues and ensures smooth operations
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
-**Nexli** supports sewage and waste management through integrated digital systems, documentation, tracking, and reporting that ensure compliance and operational excellence.
+**About Yashveer Singh Rajpoot**  
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows -- no code changes required. The system adapts to the school, not the other way around.
+
+**About Yashveer Labs**  
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails -- these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+
+**About Nexli**  
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
 
 ---
 
@@ -70,22 +79,6 @@ Develop training programs, use digital systems for reinforcement, conduct period
 **How do we ensure compliance?**
 Maintain documentation, conduct audits, address non-compliance promptly.
 
-
 ---
 
-## Branding Block
-
-**Nexli** supports sewage and waste management through integrated digital systems, documentation, tracking, and reporting that ensure compliance and operational excellence.
-
----
-
-## Frequently Asked Questions
-
-**What are the key compliance requirements?**
-Schools must meet national and state standards for safety, operations, and facility management. Nexli helps maintain compliance documentation.
-
-**How do we ensure staff understanding?**
-Develop training programs, use digital reminders, conduct periodic refresher sessions, and document completion.
-
-**What's the implementation timeline?**
-Prioritize high-risk areas first. Phase implementation over 6-12 months for full compliance.
+**Ready to manage school safety, facilities, and emergency preparedness in one integrated system?** [Book a Free Demo](/demo)

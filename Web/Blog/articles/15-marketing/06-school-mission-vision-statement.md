@@ -1,8 +1,8 @@
 ---
 title: "School Mission and Vision Statement: Crafting Your School's Purpose"
-slug: "school-mission-vision-statement"
+slug: "06-school-mission-vision-statement"
 meta_description: "Craft powerful mission and vision statements for your school. Learn how to define your purpose and communicate it effectively to stakeholders."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school mission vision"
 secondary_keywords:
   - "mission statement"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## School Mission and Vision Statement: Crafting Your School's Purpose
 
 **Mission:** Why does your school exist?  
@@ -30,7 +29,7 @@ These three statements form the foundation of your brand and strategic direction
 ## Mission Statement (Purpose)
 
 **Good mission is:**
-- Clear and specific (not "We provide quality education"—vague)
+- Clear and specific (not "We provide quality education", vague)
 - Action-oriented (what do you DO?)
 - Inspiring (resonates with staff and parents)
 - Achievable (realistic, not fantasy)
@@ -43,7 +42,7 @@ These three statements form the foundation of your brand and strategic direction
 **Process:**
 1. Reflect: What problems do you solve for students/society?
 2. Draft: Write 3–5 candidate statements
-3. Test: Ask staff/parents—do they resonate?
+3. Test: Ask staff/parents, do they resonate?
 4. Refine: Pick the strongest, wordsmith
 5. Adopt: Publish, communicate, live it
 
@@ -90,9 +89,9 @@ These three statements form the foundation of your brand and strategic direction
 
 ---
 
-## Branding Block
+## How Nexli Supports Your School's Mission
 
-Nexli helps communicate mission/vision through digital platforms and newsletters.
+Nexli's Circulars and Announcements module gives your school a consistent voice across every communication channel, reinforcing your mission and values in every parent interaction. [Book a Free Demo](/demo) to see how Nexli supports school communication.
 
 ---
 

@@ -1,3 +1,21 @@
+---
+title: "Photo and Video Content for School Website: Best Practices"
+slug: "19-photo-video-content-school-website"
+meta_description: "Create compelling photo and video content for your school website. Learn shot lists, video strategy, consent compliance, and optimization for conversions."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "school website photos videos"
+secondary_keywords:
+  - "school visual content"
+  - "campus tour video"
+  - "school photography"
+  - "parent consent DPDP"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Photo and Video Content for School Website: Best Practices
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 7 min
@@ -22,7 +40,7 @@ Yet most school websites have blurry photos taken on phones. Or worse: no photos
 Most schools rely on candid phone photos: blurry, poorly lit, amateur. Prospective parents see it and think: "If the website looks this rough, what's the campus like?"
 
 ### 2. **No Video at All**
-Schools describe campus tours, events, student life—but have zero video. Families want to see, not read. Video on your website is expected now. Absence signals outdatedness.
+Schools describe campus tours, events, student life, but have zero video. Families want to see, not read. Video on your website is expected now. Absence signals outdatedness.
 
 ### 3. **Irrelevant or Generic Content**
 Photos of old events from 3 years ago. Videotaped assembly with bad audio. Nobody cares. You need fresh, diverse content showing real campus life now.
@@ -168,15 +186,13 @@ Diversity in visuals signals: "Every student belongs here."
 
 ---
 
-## Nexli's Media & Portfolio Integration
+## How Nexli Supports Visual Content
 
-Nexli includes **Skills Passport & E-Portfolio** with media upload capabilities:
+Nexli's **Skills Passport & E-Portfolio** provides a structured record of every student achievement, award, project, and certificate earned during their school journey. This gives your marketing team a reliable source of real stories and milestones to photograph and feature.
 
-- **Centralized media library:** Upload photos/videos in Nexli, use on website and social media.
-- **Consent tracking:** Link each photo to DPDP consent record.
-- **Auto-optimization:** Images automatically compressed for web.
-- **Portfolio integration:** Student achievements, awards, projects automatically featured.
-- **Event photo management:** Bulk upload event photos, tag students, generate photo galleries.
+Nexli's **Consent Management** module (DPDP Act compliant) tracks which students and parents have given photography and media consent, so you always know who can be featured without privacy risk.
+
+[Book a Free Demo](/demo) to see how Nexli's Skills Passport and consent tools support your school's visual marketing strategy.
 
 ---
 
@@ -205,5 +221,5 @@ Build a systematic photo and video strategy. Capture real moments. Get consent o
 
 ---
 
-**Next step:** This week, shoot 10 photos of your campus: one classroom, one lab, one sports facility, one event, one common area, one student achievement, one teacher-student moment, one diverse group, one outdoor space, one detail shot. Upload to your website. Measure engagement.
+**Next step:** This week, shoot 10 photos of your campus: one classroom, one lab, one sports facility, one event, one common area, one student achievement, one teacher-student moment, one diverse group, one outdoor space, one detail shot. Upload to your website. Measure engagement. [Book a Free Demo](/demo) to see how Nexli's Skills Passport and consent management support your visual content strategy.
 

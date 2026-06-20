@@ -1,23 +1,26 @@
 ---
 title: "How Often Should Schools Communicate with Parents?"
-slug: "school-communication-frequency-cadence"
+slug: "11-school-communication-frequency"
 meta_description: "Determine the right communication frequency for your school. Learn how to avoid parent fatigue while keeping families informed about their child's progress."
-category: "Parent Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "school communication frequency"
-secondary_keywords: ["parent engagement", "communication cadence", "parent-school partnership", "notification strategy"]
-intent: "informational"
+secondary_keywords:
+  - "parent engagement"
+  - "communication cadence"
+  - "parent-school partnership"
+  - "notification strategy"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## The Communication Paradox
 
 Schools face a tension: parents want to know what's happening with their children, but they don't want to be overwhelmed with messages. Send too many updates and parents ignore them all (alert fatigue). Send too few and parents feel uninformed. The sweet spot is different for each school, depending on parent preferences, school priorities, and communication channels used.
 
-The key is intentional, structured communication — not random bursts of messages.
+The key is intentional, structured communication, not random bursts of messages.
 
 ## The Consequences of Imbalanced Communication Frequency
 
@@ -130,7 +133,7 @@ Example survey question: "Your child's school sends [frequency] communications p
 
 Begin with minimal communication:
 - 1 school-wide email per week
-- SMS only for truly urgent items (1-2 per week)
+- SMS only for urgent items (1-2 per week)
 - Everything else in the parent portal
 
 Then, survey parents and add communication channels only if parents specifically request them.
@@ -190,7 +193,7 @@ Nexli makes it easy for schools to find the right communication frequency. By tr
 
 Communication frequency is not one-size-fits-all. Survey your parents, start conservative, and adjust based on data. The goal is informed parents without alert fatigue.
 
-**Ready to optimize your communication frequency?** Explore Nexli's communication analytics and scheduling features to find the right balance for your school.
+**Ready to optimize your communication frequency?** Explore Nexli's communication analytics and scheduling features to find the right balance for your school. [Book a Free Demo](/demo)
 
 ---
 

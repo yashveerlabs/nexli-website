@@ -1,8 +1,8 @@
 ---
 title: "Principal's Role in Student Mental Health: Detection, Support, and Safeguarding"
-slug: "principal-mental-health-support-students-india"
+slug: "11-principal-mental-health-support-students"
 meta_description: "Learn how principals can identify at-risk students, implement mental health support systems, and create psychologically safe schools. Includes frameworks and resources."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "student mental health principal support"
 secondary_keywords:
   - "identifying at-risk students"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Principal's Role in Student Mental Health: Detection, Support, and Safeguarding
 
 **Student mental health crises are increasing: depression, anxiety, and suicidal ideation in high school students have doubled in the past 5 years. Schools often don't see it coming. When a crisis happens (a student attempts suicide, severe depression, behavioral breakdown), the school is unprepared. This article reveals what principals need to know about student mental health, how to build early-detection systems, and how to create psychologically safe schools where students feel supported. Schools with strong mental health frameworks report 35% reduction in behavioral incidents, 18% improvement in academic engagement, and significantly better parent trust.**
@@ -389,27 +388,25 @@ When certain thresholds are crossed (attendance drops 10%, grades drop significa
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot is the founder and CEO of Yashveer Labs, a boutique software design studio focused on solving real problems for Indian schools. With 8+ years of experience in school operations and student wellbeing, Yashveer has helped 50+ schools build mental health systems that save lives.
+Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP, they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds software that protects student wellbeing. The company specializes in creating systems for early detection, support coordination, and crisis response in schools.
+Yashveer Labs builds software that protects student wellbeing. The company specializes in creating systems for early detection, support coordination, and crisis response in schools. Every feature is built on the belief that a feature that's hard to use is a bug, simplicity and depth together.
 
 **About Nexli**
 
-Nexli is a cloud-based school ERP for Indian K–12 schools. It includes a confidential counseling module for mental health tracking, at-risk student dashboards, automated alerts, and comprehensive support documentation. Nexli helps principals and counselors detect crises early and coordinate support across the school. The system manages 55+ modules (student info, academics, compliance, safety), with mental health and wellbeing deeply integrated.
+Nexli includes 55+ modules covering student info, academics, compliance, safety, and communication. The counselling workspace provides confidential session notes, at-risk flagging, and behavioral tracking, accessible only to authorized roles. Combined with the at-risk student dashboard for principals, Nexli gives schools the visibility to detect struggles early.
 
 ---
 
 ## Call to Action
 
-**Ready to build a proactive mental health system?** Explore how Nexli's counseling module, at-risk dashboards, and automated alerts help you detect struggles early and support students before crises happen. Start a free trial today.
-
-[Start Free Trial](https://nexli.in)
+**Ready to build a proactive student mental health system?** [Book a Free Demo](/demo)
 
 ---
 

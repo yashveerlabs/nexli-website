@@ -1,174 +1,70 @@
-﻿---
-title: "Third-Party Data Sharing"
-slug: "third-party-data-sharing"
-category: "Compliance"
-category_number: 7
-article_number: 37
-published: true
-seo:
-  description: "Complete compliance guide for Third-Party Data Sharing in Indian schools."
-  keywords: "school compliance, Third-Party Data Sharing, Indian education"
-  canonical: "https://nexli.io/blog/compliance/third-party-data-sharing"
-branding_block: 7
+---
+title: "Third-Party Data Sharing: DPDP Compliance for School Vendors and Partners"
+slug: "37-third-party-data-sharing"
+meta_description: "Manage third-party data sharing under DPDP Act. Learn vendor data agreements, what schools must check, and how to limit data exposure with external partners."
+category: "Compliance, Governance & Legal"
+primary_keyword: "third-party data sharing schools DPDP"
+secondary_keywords:
+  - "vendor data sharing"
+  - "school data vendors"
+  - "DPDP third party"
+  - "data processing agreement"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 10
+branding_block_company: 10
+branding_block_nexli: 10
+---
+Every time a school shares student data with a vendor, a transport app, a payment gateway, a school management system, or an assessment platform, the school remains legally responsible for that data under DPDP Act 2023. Vendor data sharing requires due diligence and formal data processing agreements.
+
+## Common Third-Party Data Sharing in Schools
+
+- **School Management System (ERP):** Student profiles, attendance, marks, medical data.
+- **Payment Gateway:** Parent names, email, phone, payment amounts.
+- **Transport App:** Student name, home address, route, photo.
+- **Assessment Platform:** Student name, grade, performance data.
+- **Government Portals:** UDISE+, CBSE portal, student enrollment data, grades.
+- **Background Verification Agency:** Staff documents, police records.
+
+## What Schools Must Check Before Sharing Data
+
+1. **Is sharing necessary?** Only share what the vendor actually needs. A transport app needs the student's boarding stop, not their medical history.
+2. **Does a Data Processing Agreement (DPA) exist?** The vendor must sign an agreement committing to: use data only for the stated purpose, protect data with adequate security, not sell or share data further, delete data when no longer needed, notify the school of any breach.
+3. **Has parent consent been obtained?** If the sharing is beyond what parents originally consented to, fresh consent is needed.
+4. **Is the vendor compliant?** Ask for their data protection policy and security certifications.
+
+## High-Risk Third-Party Relationships
+
+EdTech platforms that process large volumes of student data for marketing or AI training are high risk. Ensure their DPA explicitly prohibits using student data for purposes other than the contracted service.
+
+## How Nexli Helps
+
+Nexli is designed as a school-first platform: student data is never used for advertising, AI training, or marketing. Data is processed only for the school's operational purposes as contracted.
+
+[Book a Free Demo](/demo) to see Nexli's compliance management in action.
+
 ---
 
-## Introduction to Third-Party Data Sharing
+**About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
-Third-Party Data Sharing is a critical compliance requirement for educational institutions in India. This comprehensive guide covers all aspects of implementation, requirements, and best practices.
+**About Yashveer Labs:** Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
 
-## Legal Framework
+**How Nexli Helps:** Yashveer Labs treats data protection as a core business value, not a compliance checkbox. The company invests in encryption, audit trails, role-based access control, and consent management not because regulations require them, but because schools deserve to know their data is safe. That commitment shapes hiring decisions, architectural choices, and feature priorities. Data stewardship is taken seriously.
 
-The requirement for Third-Party Data Sharing stems from:
-- Central and State education policies
-- Statutory regulations
-- Board directives
-- Ministry guidelines
-- Supreme Court judgments
 
-## Key Requirements
+---
 
-Schools must:
-1. Understand compliance requirements
-2. Develop implementation procedures
-3. Train staff members
-4. Maintain proper documentation
-5. Conduct periodic audits
-6. Report to authorities as required
-7. Address deficiencies promptly
+## FAQ
 
-## Nexli FACTS for Compliance Management
+**Q: Does the school need parent consent to share data with government portals like UDISE+?**
 
-Nexli's Compliance module supports Third-Party Data Sharing through:
+A: Government reporting may fall under legal exception (not requiring explicit consent). However, parents should be informed in the school's Privacy Notice that data is submitted to government authorities.
 
-- **Compliance Calendar**: Automated reminders for deadlines and key dates
-- **Document Storage**: Secure cloud storage for all compliance documents
-- **Audit Trails**: Complete record of all actions taken for compliance
-- **Policy Tracking**: Monitor policy implementation across school
-- **Report Generation**: Create compliance reports for audits and inspections
-- **Task Assignment**: Assign compliance tasks to responsible staff
-- **Checklist Management**: Track completion of compliance requirements
-- **Digital Archiving**: Maintain accessible records for inspections
+**Q: What if a vendor refuses to sign a data processing agreement?**
 
-## Implementation Strategy
+A: Do not share student data with that vendor. Insist on a DPA or find an alternative vendor. The school's legal liability cannot be transferred to a vendor without a written agreement.
 
-Develop a structured approach:
+**Q: Can schools use free EdTech platforms that may monetize student data?**
 
-**Phase 1: Planning**
-- Understand requirements
-- Identify gaps
-- Create action plan
-- Allocate resources
-- Set timelines
-
-**Phase 2: Implementation**
-- Train staff
-- Develop procedures
-- Update systems
-- Create documentation
-- Communicate to stakeholders
-
-**Phase 3: Monitoring**
-- Track progress
-- Conduct audits
-- Address issues
-- Update procedures
-- Maintain records
-
-**Phase 4: Reporting**
-- Prepare compliance reports
-- Submit to authorities
-- Document improvements
-- Plan next steps
-- Share with board
-
-## Common Challenges
-
-- Understanding complex requirements
-- Limited staff resources
-- Data management issues
-- Coordination across departments
-- Maintaining documentation
-- Staying updated on changes
-
-## Best Practices
-
-1. **Create detailed procedures** for all compliance activities
-2. **Train staff regularly** on compliance requirements
-3. **Use digital tools** like Nexli for efficient management
-4. **Conduct regular audits** to ensure compliance
-5. **Maintain organized documentation** for easy retrieval
-6. **Communicate transparently** with stakeholders
-7. **Stay updated** on policy changes
-8. **Plan ahead** for compliance deadlines
-
-## Documentation Checklist
-
-Essential documents for Third-Party Data Sharing:
-- [ ] Policy documents
-- [ ] Procedure manuals
-- [ ] Staff training records
-- [ ] Audit reports
-- [ ] Inspection certificates
-- [ ] Government correspondence
-- [ ] Implementation records
-- [ ] Compliance reports
-
-## Risk Management
-
-Identify and mitigate risks:
-- Incomplete documentation
-- Missed deadlines
-- Staff non-compliance
-- System failures
-- Data loss
-- Regulatory changes
-
-## Technology Solutions
-
-Implement digital solutions to:
-- Automate compliance tracking
-- Centralize documentation
-- Streamline reporting
-- Reduce manual errors
-- Improve accessibility
-- Ensure data security
-
-## Training and Awareness
-
-Ensure all staff understand:
-- Regulatory requirements
-- School procedures
-- Their responsibilities
-- Consequences of non-compliance
-- Available support systems
-
-## Audit and Verification
-
-Prepare for audits by:
-- Maintaining complete documentation
-- Organizing records systematically
-- Creating summary reports
-- Addressing previous findings
-- Updating procedures as needed
-
-## Reporting to Authorities
-
-When required, submit:
-- Compliance certificates
-- Audit reports
-- Implementation status
-- Corrections made
-- Future plans
-
-## Continuous Improvement
-
-Establish process to:
-- Review compliance effectiveness
-- Identify improvement areas
-- Update procedures
-- Train on changes
-- Document improvements
-
-## Conclusion
-
-Third-Party Data Sharing requires systematic implementation, proper documentation, and continuous monitoring. By using comprehensive compliance management systems like Nexli, schools can efficiently meet all requirements while maintaining proper audit trails and documentation for inspections.
+A: Exercise caution. Review the platform's terms of service carefully. If the platform's revenue model involves student data analysis or advertising, it may not be DPDP-compliant for school use.

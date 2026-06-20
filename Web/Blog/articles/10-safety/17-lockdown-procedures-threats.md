@@ -1,8 +1,8 @@
 ---
 title: "Lockdown Procedures: Responding to Threats and Ensuring Student Safety"
-slug: "lockdown-procedures-threats"
+slug: "17-lockdown-procedures-threats"
 meta_description: "Develop comprehensive lockdown procedures for schools. Protocols for responding to threats and protecting students and staff during lockdown scenarios."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school lockdown procedures"
 secondary_keywords:
   - "school safety protocols"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Lockdown Procedures: Responding to Threats and Ensuring Student Safety
 
 **Lockdown protocols protect students and staff when an external threat (intruder, civil unrest, armed individual) emerges. Every school needs a clear protocol, trained staff, and regular practice. This article provides a step-by-step lockdown procedure and guidelines for when to implement it.**
@@ -169,19 +168,19 @@ Once threat is neutralized:
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot, founder of Yashveer Labs, advises on school security protocols.
+Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP, they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds comprehensive security frameworks.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 
-Nexli provides emergency alert systems, student tracking, and communication tools for lockdown scenarios.
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
 
 ---
 
@@ -198,3 +197,7 @@ A: Teachers maintain calm, explain the procedure, focus on safety. Brief, matter
 
 **Q: Should we lock exterior doors all day?**
 A: Balanced approach: Lock all exterior doors except main entrance (monitored). Reception controls entry.
+
+---
+
+**Ready to set up emergency communication, incident logging, and lockdown drill tracking?** [Book a Free Demo](/demo)

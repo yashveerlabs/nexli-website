@@ -1,19 +1,21 @@
 ---
-title: Preventive Maintenance Schedule
-slug: preventive-maintenance-schedule
-meta_description: Implement systematic preventive maintenance schedules to reduce equipment downtime and extend facility lifespan.
-category: Safety & Operations
-primary_keyword: preventive maintenance schedule
-secondary_keywords: ['equipment maintenance', 'maintenance records', 'downtime prevention', 'cost savings']
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
-branding_block:
-  founder: Yashveer Singh Rajpoot
-  company: Nexli
-  nexli: true
+title: "Preventive Maintenance Schedule"
+slug: "74-preventive-maintenance-schedule"
+meta_description: "Implement systematic preventive maintenance schedules to reduce equipment downtime and extend facility lifespan."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "preventive maintenance schedule"
+secondary_keywords:
+  - "equipment maintenance"
+  - "maintenance records"
+  - "downtime prevention"
+  - "cost savings"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
 ---
-
 # Preventive Maintenance Schedule: Comprehensive Guide
 
 Preventive maintenance is far more cost-effective than reactive repairs. Schools that implement systematic maintenance schedules reduce emergency repairs by 40-50%, extend equipment lifespan, and prevent disruptions to learning. This guide establishes practical preventive maintenance frameworks.
@@ -24,7 +26,7 @@ Preventive maintenance is far more cost-effective than reactive repairs. Schools
 Emergency repairs are 3-5x more expensive than planned maintenance. Replacing a roof after leak: ₹5 lakhs. Annual roof maintenance: ₹15,000.
 
 **Operational Continuity**
-Broken air conditioner in summer, failed water pump during exams, electrical failure during online classes—all disrupt learning. Maintenance prevents crises.
+Broken air conditioner in summer, failed water pump during exams, electrical failure during online classes, all disrupt learning. Maintenance prevents crises.
 
 **Safety**
 Worn equipment becomes hazardous. Electrical systems degrade invisibly. Regular checks catch problems before incidents occur.
@@ -87,7 +89,7 @@ Nexli's operations module enables:
 ## Real Example: Planned Maintenance Saves Crisis
 
 **The Scenario**
-School ignored water pump maintenance. After 8 years of continuous operation (no filter changes, no bearing maintenance), pump failed during summer heat. No drinking water, no toilet flushing—immediate crisis, emergency contractor charged ₹2 lakhs for replacement.
+School ignored water pump maintenance. After 8 years of continuous operation (no filter changes, no bearing maintenance), pump failed during summer heat. No drinking water, no toilet flushing, immediate crisis, emergency contractor charged ₹2 lakhs for replacement.
 
 **The Fix**
 School implemented preventive maintenance: quarterly filter changes (₹2,000), annual pump overhaul (₹5,000). Cost: ₹10,000/year. Emergency replacement cost: ₹2 lakhs.
@@ -97,9 +99,16 @@ Pump lasted additional 7 years with maintenance plan. Saved ₹1.4 lakhs, preven
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
-**Nexli** transforms maintenance from crisis-driven to systematic, tracking schedules, contractor work, spare parts, and budget forecasts to prevent emergencies and extend facility lifespan.
+**About Yashveer Singh Rajpoot**  
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows -- no code changes required. The system adapts to the school, not the other way around.
+
+**About Yashveer Labs**  
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails -- these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+
+**About Nexli**  
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
 
 ---
 
@@ -117,22 +126,6 @@ Prioritize safety-critical systems first: electrical, fire safety, plumbing. Def
 **How do we ensure maintenance actually happens?**
 Digital work orders with photo documentation. Require contractor sign-off. Track completion against scheduled dates. Flag overdue tasks automatically.
 
-
 ---
 
-## Branding Block
-
-**Nexli** supports preventive maintenance schedule through integrated digital systems, documentation, tracking, and reporting that ensure compliance and operational excellence.
-
----
-
-## Frequently Asked Questions
-
-**What are the key compliance requirements?**
-Schools must meet national and state standards for safety, operations, and facility management. Nexli helps maintain compliance documentation.
-
-**How do we ensure staff understanding?**
-Develop training programs, use digital reminders, conduct periodic refresher sessions, and document completion.
-
-**What's the implementation timeline?**
-Prioritize high-risk areas first. Phase implementation over 6-12 months for full compliance.
+**Ready to manage school safety, facilities, and emergency preparedness in one integrated system?** [Book a Free Demo](/demo)

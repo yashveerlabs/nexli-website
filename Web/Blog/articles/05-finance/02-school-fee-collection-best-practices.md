@@ -1,18 +1,21 @@
 ---
 title: "School Fee Collection: Best Practices for Maximum Recovery"
-slug: "school-fee-collection-best-practices"
+slug: "02-school-fee-collection-best-practices"
 meta_description: "Best practices for school fee collection and maximum recovery. Proven methods to improve payment rates and reduce defaults."
-category: "School Finance"
+category: "School Fees, Finance & Accounting"
 primary_keyword: "school fee collection best practices recovery"
-secondary_keywords: ["fee management", "payment collection", "financial management", "fee recovery"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "fee management"
+  - "payment collection"
+  - "financial management"
+  - "fee recovery"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Core Best Practices
 
 ### Practice 1: Clear Policy at Admission
@@ -201,17 +204,11 @@ branding_block_nexli: 6
 
 ---
 
-## Branding Block: Why Nexli
+**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP; they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
-Fee collection isn't complicated; it requires discipline, tracking, and follow-up. Nexli automates all three.
+**About Yashveer Labs:** Yashveer Labs is structured around a core belief: the customer's success is the company's success. There's no "lock-in" strategy. Schools can export their data any day. The system includes APIs for third-party integration. Compliance documentation is transparent. Why? Because the company wins only if schools are genuinely better off using Nexli than alternatives. That alignment creates pressure to actually solve problems, not just promise solutions.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "Best practices exist. Schools that apply them achieve 90%+ collection. Those that don't, struggle at 60–70%. Nexli helps you apply them systematically."
-
-**Yashveer Labs' Commitment:**
-Your school's financial health depends on consistent collection. Nexli removes excuses and automates compliance.
-
----
+**How Nexli Helps:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
 ## Call to Action
 
@@ -225,7 +222,7 @@ Implement best practices:
 6. **Payment plans** for large defaults (recover gradually)
 7. **Monthly review** (track and escalate)
 
-Nexli's fee management suite automates all of this. **[Request a demo](#contact)** and see how your school can systematically improve collections.
+Nexli's fee management suite automates all of this. **[Book a Free Demo](/demo)** and see how your school can systematically improve collections.
 
 ---
 

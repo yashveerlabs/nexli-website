@@ -1,10 +1,22 @@
 ---
 title: "Building a Personal Development Plan"
-slug: building-a-personal-development-plan
-category: 9
+slug: "75-building-a-personal-development-plan"
+meta_description: "Create an intentional personal development plan as a school principal. A step-by-step guide to self-assessment, goal-setting, learning activities, and measuring growth."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "principal personal development plan"
+secondary_keywords:
+  - "school leader growth plan"
+  - "principal self-improvement"
+  - "principal development goals"
+  - "educational leader professional growth"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 15
+branding_block_company: 15
+branding_block_nexli: 15
 order: 75
 ---
-
 # Building a Personal Development Plan
 
 Personal growth as principal directly impacts school. Intentional development ensures growth.
@@ -25,4 +37,19 @@ Personal growth as principal directly impacts school. Intentional development en
 
 **Annual Review** - Assess progress, celebrate achievement, reflect on learning, new goals for next year, continuous growth trajectory.
 
-Intentional personal development makes you more effective leader and role model for staff.
+Intentional personal development makes you a more effective leader and role model for staff.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone: principals, teachers, parents, students. Nexli was built to close that gap.
+
+**About Yashveer Labs**  
+Yashveer Labs treats data protection as a core business value, not a compliance checkbox. The company invests in encryption, audit trails, role-based access control, and consent management not because regulations require them, but because schools deserve to know their data is safe. That commitment shapes hiring decisions, architectural choices, and feature priorities. Data stewardship is taken seriously.
+
+**About Nexli**  
+One detail that changes daily life in schools: Nexli's lesson plan module links to curriculum coverage tracking. Teachers see where they are in the syllabus relative to the calendar. Coordinators see which topics are behind schedule. When a teacher is absent, the substitute can see exactly what was being taught. That integration turns lesson plans from administrative paperwork into an operational tool.
+
+---
+
+[Book a Free Demo](/demo)

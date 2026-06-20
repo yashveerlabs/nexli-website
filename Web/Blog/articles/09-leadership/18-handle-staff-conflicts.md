@@ -1,8 +1,8 @@
 ---
 title: "Handle Staff Conflicts: Strategies for Managing Difficult Relationships in Schools"
-slug: "handle-staff-conflicts-schools"
+slug: "18-handle-staff-conflicts"
 meta_description: "Learn to manage and resolve staff conflicts professionally. Navigate personality clashes, territorial disputes, and performance issues with proven strategies."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "handle staff conflicts"
 secondary_keywords:
   - "staff conflict resolution"
@@ -16,10 +16,9 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Handle Staff Conflicts: Strategies for Managing Difficult Relationships in Schools
 
-**Staff conflicts are workplace dynamics that affect school culture, student learning, and your job satisfaction. Two teachers can't work together. A department head resents a colleague's success. An old staff member undermines a newer hire. Left unmanaged, these conflicts poison the workplace, reduce collaboration, and create factions. This article provides a proven framework for diagnosing staff conflicts, mediating disputes, and rebuilding professionalism—even when people don't like each other.**
+**Staff conflicts are workplace dynamics that affect school culture, student learning, and your job satisfaction. Two teachers can't work together. A department head resents a colleague's success. An old staff member undermines a newer hire. Left unmanaged, these conflicts poison the workplace, reduce collaboration, and create factions. This article provides a proven framework for diagnosing staff conflicts, mediating disputes, and rebuilding professionalism, even when people don't like each other.**
 
 ---
 
@@ -56,7 +55,7 @@ Staff conflicts are expensive:
 - Public disagreements in meetings
 - Passive-aggressive behavior (delayed responses, exclusion)
 
-**Intervene early—in week 1, not week 10.**
+**Intervene early, in week 1, not week 10.**
 
 ### Step 2: Separate Meetings
 
@@ -184,15 +183,19 @@ If you handle one conflict one way and another differently, it looks unfair.
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot is founder and CEO of Yashveer Labs, coaching 50+ principals on staff dynamics and conflict resolution.
+Trust in technology starts with control. Yashveer Singh Rajpoot designed Nexli so that schools (not the vendor) own their school's data and decisions. Want to export all student records tomorrow? You can. Want to use Nexli with a third-party app? The system supports open APIs. Want to understand how your data is processed? Full audit trails are available. That trust-first design means schools can commit to Nexli knowing they're never locked in or dependent.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds systems for transparent, professional workplace dynamics.
+Behind every feature in Nexli is a story of a school that struggled with that problem. The Counselling workspace exists because counselors told us their work was invisible to the system. The Question Paper Generator exists because teachers spend hours manually compiling papers. The Rankings engine exists because schools wanted fair, transparent merit lists. Yashveer Labs builds based on real problems, not assumptions.
 
 **About Nexli**
 
-Nexli provides clear role definitions, transparent workflows, and audit logs that prevent many staff conflicts from starting.
+Nexli provides clear role definitions, transparent workflows, and audit logs that prevent many staff conflicts from starting. With 118+ configurable roles, authority and responsibilities are visible to every stakeholder, reducing ambiguity before it becomes friction.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

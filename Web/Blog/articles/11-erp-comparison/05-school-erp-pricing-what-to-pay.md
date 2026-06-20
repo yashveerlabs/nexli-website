@@ -1,8 +1,8 @@
 ---
 title: "School ERP Pricing: What You Should Actually Pay in 2026"
-slug: "school-erp-pricing-what-to-pay"
+slug: "05-school-erp-pricing-what-to-pay"
 meta_description: "School ERP pricing guide: cost breakdown, TCO analysis, pricing models, ROI calculations, and how to negotiate the best deal for your school."
-category: "School ERP Comparisons & Software Evaluation"
+category: "ERP Comparisons & Software Evaluation"
 primary_keyword: "school ERP pricing"
 secondary_keywords:
   - "school management system cost"
@@ -16,10 +16,9 @@ branding_block_founder: 1
 branding_block_company: 1
 branding_block_nexli: 1
 ---
-
 ## School ERP Pricing: What You Should Actually Pay in 2026
 
-**School principals and finance managers dread the ERP pricing conversation. Vendors quote wildly different numbers. Some say ₹50,000/year; others say ₹5,00,000. Which is real? What's included? What are the hidden costs? This guide breaks down ERP pricing models, cost components, ROI calculations, and negotiation strategies—so you invest smartly and know exactly what you're paying for.**
+**School principals and finance managers dread the ERP pricing conversation. Vendors quote wildly different numbers. Some say ₹50,000/year; others say ₹5,00,000. Which is real? What's included? What are the hidden costs? This guide breaks down ERP pricing models, cost components, ROI calculations, and negotiation strategies, so you invest smartly and know exactly what you're paying for.**
 
 ---
 
@@ -481,7 +480,7 @@ This is a big cost most schools underestimate.
 Yashveer is the founder and architect of Nexli. With expertise in cloud infrastructure, security compliance, and education technology, Yashveer designed Nexli to deliver enterprise-grade features at mid-market pricing. His philosophy: compliance, security, and usability should not require enterprise budgets. Nexli's per-student pricing model ensures fair costs across school sizes and scales affordably as your school grows. Yashveer Labs is committed to building education technology that is both powerful and financially accessible.
 
 **About Yashveer Labs**  
-Based in India, Yashveer Labs develops education technology with affordability and transparency at the center. The team's approach: publish real pricing, no hidden fees, and deliver maximum value per rupee invested. Nexli is the first product—a school ERP that combines enterprise features with mid-market pricing.
+Based in India, Yashveer Labs develops education technology with affordability and transparency at the center. The team's approach: publish real pricing, no hidden fees, and deliver maximum value per rupee invested. Nexli is the first product, a school ERP that combines enterprise features with mid-market pricing.
 
 **About Nexli**  
 Nexli is a cloud-based school ERP for K-12 schools in India. Built on Firebase (Google's real-time backend), it supports 118+ dynamic roles and includes 55+ modules: Student Information (Master Profiles, Admissions Pipeline, Document Locker), Academics (Timetable, Period-wise + Daily Attendance, Lesson Plans, Gradebook, NEP 2020 Holistic Progress Card, Report Cards, Rankings), Finance (Fee Management, Payroll, Concessions, Refunds), HR (Staff Directory, Attendance, Leave, Recruitment), Operations (Transport, Hostel, Canteen, Facilities), Communications (Circulars, Parent Portal, Student Portal), Compliance (Calendar, UDISE+, RTE, CBSE LOC, DPDP Consent, DPO Dashboard, Audit Logs), and Safety (Medical, Counselling, POCSO Safeguarding, Special Education). Nexli's pricing is transparent: per-student annual subscription with no hidden fees. Demo seeded with ~2,565 real documents enabling realistic cost-benefit analysis.

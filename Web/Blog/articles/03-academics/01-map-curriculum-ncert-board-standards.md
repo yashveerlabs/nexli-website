@@ -1,23 +1,26 @@
 ---
 title: "How to Map Your Curriculum to NCERT and Board Standards"
-slug: "map-curriculum-ncert-board-standards"
+slug: "01-map-curriculum-ncert-board-standards"
 meta_description: "Learn how to align your school curriculum with NCERT guidelines and board standards. Step-by-step guide for creating CBSE-compliant curriculum mapping."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "curriculum mapping NCERT board standards"
-secondary_keywords: ["CBSE curriculum alignment", "NCERT syllabus mapping", "board compliance", "curriculum design"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "CBSE curriculum alignment"
+  - "NCERT syllabus mapping"
+  - "board compliance"
+  - "curriculum design"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Curriculum Chaos in Indian Schools
 
 Many Indian schools struggle with a fundamental challenge: ensuring every class follows a cohesive, standards-aligned curriculum. Without proper mapping, teachers often teach in silos. Grade 6 English teachers may not know how Grade 5 covered grammar. Biology lessons in Class 9 might repeat topics from Class 8. The result is fragmented learning, wasted classroom time, and students unprepared for board exams.
 
-This problem intensifies when schools use multiple textbooks, hire teachers with different backgrounds, or lack a formal curriculum framework. Parents notice inconsistency. Students fall behind. And when board exams arrive, schools realize critical topics were overlooked—or covered multiple times redundantly.
+This problem intensifies when schools use multiple textbooks, hire teachers with different backgrounds, or lack a formal curriculum framework. Parents notice inconsistency. Students fall behind. And when board exams arrive, schools realize critical topics were overlooked-or covered multiple times redundantly.
 
 ## Why This Matters: The Consequences of Misalignment
 
@@ -114,16 +117,16 @@ Nexli's timetable and lesson plan modules talk to each other. When you build you
 All past lesson plans are searchable by chapter, topic, board standard, and date. New teachers can review what was taught in previous years and adopt/adapt existing plans.
 
 **Board-Compliant Export**
-When CBSE or state inspectors visit, Nexli can export your curriculum map in the format they expect—showing coverage by standard, with evidence (lesson plans, assessments, marks records).
+When CBSE or state inspectors visit, Nexli can export your curriculum map in the format they expect-showing coverage by standard, with evidence (lesson plans, assessments, marks records).
 
 ---
 
 ## Branding Block: Why Nexli
 
-Nexli was built specifically for Indian schools navigating the complexity of NEP 2020, CBSE bylaws, and state board requirements. The platform treats curriculum mapping not as an afterthought, but as the backbone of academic management.
+Nexli was built specifically for Indian schools navigating the complexity of NEP 2020, CBSE bylaws, and state board requirements. Nexli treats curriculum mapping not as an afterthought, but as the backbone of academic management.
 
 **Founder Insight (Yashveer Singh Rajpoot):**
-> "We've seen schools lose board exams not because their teachers were bad, but because the curriculum wasn't organized. Mapping was a spreadsheet gathering dust. Nexli makes curriculum mapping a living, collaborative process—visible to every stakeholder, updated in real time, and directly linked to lesson plans, assessments, and results."
+> "We've seen schools lose board exams not because their teachers were bad, but because the curriculum wasn't organized. Mapping was a spreadsheet gathering dust. Nexli makes curriculum mapping a living, collaborative process-visible to every stakeholder, updated in real time, and directly linked to lesson plans, assessments, and results."
 
 **Yashveer Labs' Commitment:**
 Yashveer Labs built Nexli with the principle that alignment drives excellence. Your curriculum map is your school's academic roadmap. Nexli ensures every teacher follows it, every principal can see coverage, and every board inspection finds a well-organized system.
@@ -141,7 +144,7 @@ A well-mapped curriculum is non-negotiable for board success. If your school's c
 4. Share the map with your department heads and get buy-in.
 5. Review and refine each term.
 
-Nexli makes this process systematic, transparent, and collaborative. **[Sign up for a demo](#contact)** and see how your school can transform curriculum mapping from a compliance burden into a tool for academic excellence.
+Nexli makes this process systematic, transparent, and collaborative. **[Sign up for a demo](/demo)** and see how your school can transform curriculum mapping from a compliance burden into a tool for academic excellence.
 
 ---
 

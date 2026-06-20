@@ -1,3 +1,21 @@
+---
+title: "Alumni Network Engagement: Lifelong Advocacy"
+slug: "93-alumni-network-engagement"
+meta_description: "Build an alumni network that drives school marketing through lifelong advocacy. Learn alumni engagement strategy, reunion events, mentorship programs, and alumni referrals."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "school alumni network"
+secondary_keywords:
+  - "school alumni engagement"
+  - "school alumni advocacy"
+  - "school alumni programme"
+  - "school alumni marketing"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Alumni Network Engagement: Lifelong Advocacy
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -75,5 +93,5 @@ Alumni are lifetime asset. Nurture relationships. They'll support school, refer 
 
 ---
 
-**Next step:** Build alumni database this quarter.
+**Next step:** Build alumni database this quarter. [Book a Free Demo](/demo) to see how Nexli's Alumni Module keeps your school connected to graduates for referrals, mentorship placements, and brand advocacy.
 

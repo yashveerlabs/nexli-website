@@ -1,20 +1,23 @@
 ---
 title: "Multi-Campus School ERP Requirements: Managing Chains and Branch Autonomy"
-slug: "multi-campus-school-erp-requirements"
+slug: "03-multi-campus-school-erp"
 meta_description: "Multi-campus school networks require centralized oversight with branch autonomy. Discover how unified ERPs enable consolidated reporting while respecting campus independence and governance."
-category: "13-school-types"
+category: "School Type Specific Solutions"
 primary_keyword: "multi-campus school ERP"
-secondary_keywords: ["school chain management", "branch autonomy ERP", "consolidated school reporting", "multi-campus finance", "school network operations", "centralized data"]
+secondary_keywords:
+  - "school chain management"
+  - "branch autonomy ERP"
+  - "consolidated school reporting"
+  - "multi-campus finance"
+  - "school network operations"
+  - "centralized data"
 intent: "reference"
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
-company: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 3
 branding_block_company: 3
 branding_block_nexli: 3
-date: "2026-06-19"
 ---
-
 ## Overview
 
 **Snippet:** A school chain operating 3-20 campuses across cities faces a governance paradox: how to standardize operations (curriculum, policies, compliance) while allowing each campus autonomy to adapt to local contexts (local market, parent expectations, staff realities). A multi-campus ERP must enable the Head Office to see consolidated metrics while trusting regional managers to operate their campuses independently. Without this balance, either campuses operate in silos (defeating the network's economy of scale) or Head Office micromanagement stifles local decision-making.
@@ -304,11 +307,15 @@ Building Nexli required understanding something most software companies miss abo
 
 **About Yashveer Labs:**
 
-Behind Yashveer Labs is a commitment to long-term thinking. Every school that uses Nexli should feel confident investing in it—not because we promise never to change, but because we're building something sustainable that will improve over years and decades. The company has turned down revenue shortcuts that would have meant locking schools in or cutting corners on security. Sustainable business means aligned incentives with customers.
+Behind Yashveer Labs is a commitment to long-term thinking. Every school that uses Nexli should feel confident investing in it, not because we promise never to change, but because we're building something sustainable that will improve over years and decades. The company has turned down revenue shortcuts that would have meant locking schools in or cutting corners on security. Sustainable business means aligned incentives with customers.
 
 **About Nexli:**
 
 Behind Nexli is an investment in depth. The Attendance module tracks period-wise, daily consolidated, and bus attendance separately because schools need that granularity. The Fee module supports term-based, installment-based, and monthly billing because different schools operate differently. The Compliance module includes DPDP Act workflows, POCSO case management, and RTE quota tracking because Indian schools face those specific requirements. Depth matters.
+
+---
+
+**[Book a Free Demo](/demo)** to see how Nexli enables consolidated multi-campus oversight while preserving branch autonomy.
 
 ---
 

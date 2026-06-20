@@ -1,8 +1,8 @@
 ---
 title: "School Emergency Preparedness: Disaster Planning for Earthquakes, Fire, and Crisis"
-slug: "school-emergency-preparedness-disaster-planning"
+slug: "14-school-emergency-preparedness-disaster"
 meta_description: "Complete emergency preparedness guide: disaster drills, evacuation protocols, communication plans, crisis response. Protect students during emergencies."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school emergency preparedness"
 secondary_keywords:
   - "school disaster planning"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## School Emergency Preparedness: Disaster Planning for Earthquakes, Fire, and Crisis
 
 **An emergency will happen at some point: earthquake, fire, medical crisis, or security threat. Schools that prepare survive with minimal damage. Schools that don't prepare face chaos, injuries, and lasting trauma. This article reveals what principals need to do to prepare schools for emergencies: written plans, trained staff, equipment, drills, and communication systems. Schools with comprehensive emergency preparedness report 90% faster response times and near-zero injury rates in actual emergencies. A prepared school is a safe school.**
@@ -248,12 +247,12 @@ Schools that have had minor incidents (or no incidents) feel they're "fine." The
 **Essential Supplies:**
 
 - **First Aid Kits** (multiple, in classrooms, medical room, office)
-- **Emergency Communication** (PA system backup—battery powered; megaphone; phone tree list)
+- **Emergency Communication** (PA system backup, battery powered; megaphone; phone tree list)
 - **Water & Food** (bottled water, biscuits, emergency rations for 2–4 hours)
 - **Evacuation Equipment** (glow sticks, flashlights, batteries)
 - **Medical Equipment** (stretcher, AED, emergency medications)
 - **Personal Protective Equipment** (gloves, masks, hand sanitizer)
-- **Documentation** (incident report forms, attendance roster copies, emergency contact lists—printed and laminated)
+- **Documentation** (incident report forms, attendance roster copies, emergency contact lists, printed and laminated)
 
 **Where to Keep Supplies:**
 - Medical room
@@ -400,27 +399,25 @@ Nexli's SMS/WhatsApp integration allows mass notification to parents in seconds 
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot is the founder and CEO of Yashveer Labs, a boutique software design studio focused on solving real problems for Indian schools. With 8+ years of experience in school operations and safety, Yashveer has helped 50+ schools build comprehensive emergency preparedness systems that protect lives.
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking, each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds software that supports school safety and disaster preparedness. The company specializes in emergency planning, drill management, communication coordination, and crisis response systems.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 
-Nexli is a cloud-based school ERP for Indian K–12 schools. It includes compliance calendar reminders, emergency communication (SMS/WhatsApp), attendance records for quick accountability, and incident documentation. Nexli helps principals prepare for emergencies and coordinate response efficiently. The system manages 55+ modules (student info, academics, operations, compliance, safety), with emergency preparedness deeply integrated.
+Nexli includes 55+ modules covering student info, academics, compliance, safety, and operations. The Compliance Calendar provides automated alerts for drills, fire NOC renewal, and building safety checks. Attendance records enable rapid student accountability during emergencies. Incident Logging documents every emergency with timestamp, response, and outcome, fully audit-ready.
 
 ---
 
 ## Call to Action
 
-**Ready to prepare your school for emergencies?** Explore how Nexli's compliance reminders, emergency communication, and attendance systems help you coordinate rapid response. Start a free trial today and build emergency preparedness into your school's culture.
-
-[Start Free Trial](https://nexli.in)
+**Ready to prepare your school for emergencies with systematic planning and compliance tracking?** [Book a Free Demo](/demo)
 
 ---
 

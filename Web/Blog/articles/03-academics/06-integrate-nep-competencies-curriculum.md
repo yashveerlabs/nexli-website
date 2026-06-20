@@ -1,18 +1,21 @@
 ---
 title: "How to Integrate NEP 2020 Competencies into Your Curriculum"
-slug: "integrate-nep-2020-competencies-curriculum"
+slug: "06-integrate-nep-competencies-curriculum"
 meta_description: "Step-by-step guide to integrate NEP 2020 competency domains into your school curriculum. Practical implementation framework."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "integrate NEP 2020 competencies curriculum"
-secondary_keywords: ["competency-based learning implementation", "NEP 2020 five domains", "curriculum integration", "learning outcomes"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "competency-based learning implementation"
+  - "NEP 2020 five domains"
+  - "curriculum integration"
+  - "learning outcomes"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Competencies Feel Like Add-Ons
 
 Schools receive the mandate: "Implement NEP 2020 competencies." But then teachers ask: "How? Do I teach competencies instead of content? Alongside it? How do I grade them?"
@@ -23,7 +26,7 @@ The fundamental misconception is that competencies are separate from subject con
 
 ## Why Integration Matters
 
-When competencies are truly embedded in curriculum:
+When competencies are embedded in curriculum:
 
 - **Learning Feels Purposeful:** Students understand they're building real skills, not just passing tests.
 - **Higher Engagement:** Competency-based tasks are more interesting than passive content delivery.
@@ -224,7 +227,7 @@ Start integrating NEP 2020 competencies today:
 4. **Report on competencies** alongside marks (use HPC or similar)
 5. **Train teachers** (workshops, ongoing support, peer collaboration)
 
-Nexli's lesson planning, assessment, and HPC modules make this seamless. **[Request a demo](#contact)** and see how your school can fully implement NEP 2020—building competencies that stick with students for life.
+Nexli's lesson planning, assessment, and HPC modules make this direct. **[Request a demo](/demo)** and see how your school can fully implement NEP 2020-building competencies that stick with students for life.
 
 ---
 

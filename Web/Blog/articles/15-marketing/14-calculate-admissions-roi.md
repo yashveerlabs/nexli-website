@@ -1,8 +1,8 @@
 ---
 title: "How to Calculate Admissions ROI: Marketing Spend to Enrollment"
-slug: "calculate-admissions-roi"
+slug: "14-calculate-admissions-roi"
 meta_description: "Calculate ROI on school admissions marketing. Learn metrics, cost per lead, conversion rates, and how to optimize marketing spend."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "admissions ROI"
 secondary_keywords:
   - "marketing ROI"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## How to Calculate Admissions ROI: Marketing Spend to Enrollment
 
 **Know your ROI: How much do you spend to acquire one student? This guide covers metrics, calculations, and optimization strategies.**
@@ -126,9 +125,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports Admissions Analytics
 
-Nexli's admissions analytics help you optimize marketing ROI.
+Nexli's admissions pipeline tracks every lead from inquiry through enrollment, letting you calculate cost per acquisition and conversion rates by stage. [Book a Free Demo](/demo) to see how Nexli tracks your admissions funnel.
 
 ---
 

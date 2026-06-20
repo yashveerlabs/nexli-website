@@ -1,18 +1,21 @@
 ---
 title: "How to Create a Parent Information Portal for Your School"
-slug: "parent-information-portal-guide"
+slug: "05-parent-information-portal"
 meta_description: "Build a parent information portal. Learn what features to include, how to design for parents, and best practices for managing access and security."
-category: "Parent Communication"
+category: "Parent Communication & Engagement"
 primary_keyword: "parent information portal"
-secondary_keywords: ["parent access portal", "school portal features", "parent engagement", "online school information"]
-intent: "informational"
+secondary_keywords:
+  - "parent access portal"
+  - "school portal features"
+  - "parent engagement"
+  - "online school information"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Why Schools Need a Parent Information Portal
 
 A parent information portal is the hub of parent engagement. Instead of scattering information across emails, WhatsApp groups, and printed letters, a parent portal centralizes everything: your child's attendance, grades, homework, fees, announcements, and important dates. Parents log in once and see all information relevant to their child. Schools gain a single source of truth, audit trails, and proof of communication.
@@ -212,7 +215,7 @@ Nexli's parent portal is built from the ground up for parent engagement:
 
 - **Report Card Export:** Parents download and share report cards as PDFs.
 
-- **Two-Way Communication:** Parents submit forms, update emergency contact, request fee concessions — all via the portal.
+- **Two-Way Communication:** Parents submit forms, update emergency contact, and request fee concessions all via the portal.
 
 - **Notification Preferences:** Parents choose which channels they want (SMS, email, app) for different types of alerts.
 
@@ -226,7 +229,7 @@ Nexli eliminates the need to maintain a separate parent portal. The platform int
 
 A parent portal transforms school communication from reactive (parents calling with questions) to proactive (parents checking the portal for information). The right portal makes parents feel engaged and informed.
 
-**Ready to launch a parent information portal?** Explore Nexli's parent portal and see how your school can engage parents better while reducing staff workload.
+**Ready to launch a parent information portal?** Explore Nexli's parent portal and see how your school can engage parents better while reducing staff workload. [Book a Free Demo](/demo)
 
 ---
 

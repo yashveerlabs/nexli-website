@@ -1,10 +1,22 @@
 ---
 title: "How to Prepare for School Inspections"
-slug: how-to-prepare-for-school-inspections
-category: 9
+slug: "53-how-to-prepare-for-school-inspections"
+meta_description: "A practical checklist for school principals preparing for inspections, self-assessment, documentation, staff briefing, facilities readiness, and turning inspections into opportunities."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "how to prepare for school inspections"
+secondary_keywords:
+  - "school inspection preparation"
+  - "school accreditation readiness"
+  - "principal inspection checklist"
+  - "school compliance inspection"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 13
+branding_block_company: 13
+branding_block_nexli: 13
 order: 53
 ---
-
 # How to Prepare for School Inspections
 
 Inspections assess compliance and quality. Preparation shows readiness and professionalism.
@@ -28,3 +40,18 @@ Inspections assess compliance and quality. Preparation shows readiness and profe
 **Follow-up** - Address any findings, improvement plans if needed, communicate with stakeholders, celebrate strengths, continuous improvement.
 
 Inspections are opportunities to demonstrate your school's quality and commitment to excellence.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+Yashveer Singh Rajpoot spent time with Class Teachers, Accountants, Principals, and Parents. Each told a similar story: "We know what we need to do. But the tools fragment everything, and we spend more time coordinating tools than doing the work." Nexli wasn't built based on a whiteboard. It was built based on time spent inside real schools, understanding real workflows, solving real problems. That ground truth became the foundation of every feature.
+
+**About Yashveer Labs**  
+Behind every feature in Nexli is a story of a school that struggled with that problem. The Counselling workspace exists because counselors told us their work was invisible to the system. The Question Paper Generator exists because teachers spend hours manually compiling papers. The Rankings engine exists because schools wanted fair, transparent merit lists. Yashveer Labs builds based on real problems, not assumptions.
+
+**About Nexli**  
+The parent portal in Nexli is deliberately restricted: parents see only their children's data, nothing else. No student directory. No staff records. No school finances. That limitation is a feature, not a bug. It means parents get exactly the information they need (attendance, homework, fees, report cards, timetables) and nothing that violates privacy. Restricted access is actually the most privacy-preserving approach.
+
+---
+
+[Book a Free Demo](/demo)

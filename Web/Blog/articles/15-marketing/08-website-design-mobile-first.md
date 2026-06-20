@@ -1,8 +1,8 @@
 ---
 title: "Website Design for Schools: Mobile-First Approach"
-slug: "school-website-design-mobile-first"
+slug: "08-website-design-mobile-first"
 meta_description: "Design an effective school website with mobile-first approach. Learn best practices for user experience, page speed, and design that converts."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school website design"
 secondary_keywords:
   - "mobile responsive design"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Website Design for Schools: Mobile-First Approach
 
 **60% of parent searches happen on mobile phones. If your website is not mobile-optimized, you lose admissions. This guide covers mobile design, page speed, user experience, and conversion optimization.**
@@ -127,9 +126,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports Your Website
 
-Nexli integrates seamlessly into beautiful, fast, mobile-first school websites.
+Nexli's Parent Portal is built mobile-first and tested on 412px screens, ensuring parents get a fast, clean experience on their phones. All 118+ roles have been verified on mobile. [Book a Free Demo](/demo) to see Nexli's mobile experience.
 
 ---
 

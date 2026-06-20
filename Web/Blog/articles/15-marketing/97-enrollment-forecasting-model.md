@@ -1,3 +1,21 @@
+---
+title: "Enrollment Forecasting: Predicting School Demand and Capacity Planning"
+slug: "97-enrollment-forecasting-model"
+meta_description: "Forecast school enrollment to plan capacity and drive targeted marketing. Learn forecasting models, demand signals, historical patterns, and data-driven planning."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "school enrollment forecasting"
+secondary_keywords:
+  - "school capacity planning"
+  - "school demand prediction"
+  - "enrollment projection school"
+  - "school admissions planning"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Enrollment Forecasting: Predicting School Demand and Capacity Planning
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -77,5 +95,5 @@ Data-driven forecasting enables proactive planning. Builds confidence in leaders
 
 ---
 
-**Next step:** Create enrollment forecast model this quarter.
+**Next step:** Create enrollment forecast model this quarter. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline data, inquiry volumes, stage conversion rates, and enrollment confirmations, gives you the inputs your forecasting model needs.
 

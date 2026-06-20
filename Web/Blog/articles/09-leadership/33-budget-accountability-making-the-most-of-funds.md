@@ -1,13 +1,25 @@
 ---
 title: "Budget Accountability: Making the Most of Funds"
-slug: budget-accountability-making-the-most-of-funds
-category: 9
+slug: "33-budget-accountability-making-the-most-of-funds"
+meta_description: "How principals can maximize every rupee spent in their school budget, aligning spending to strategy, controlling costs, and demonstrating financial accountability to stakeholders."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "budget accountability school"
+secondary_keywords:
+  - "school budget management"
+  - "principal budget accountability"
+  - "school financial stewardship"
+  - "school spending strategy"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 13
+branding_block_company: 13
+branding_block_nexli: 13
 order: 33
 ---
-
 # Budget Accountability: Making the Most of Funds
 
-Every dollar spent is a choice about school priorities. Accountability for budget use ensures funds serve your mission and maximize impact.
+Every rupee spent is a choice about school priorities. Accountability for budget use ensures funds serve your mission and maximize impact.
 
 ## Aligning Budget to Strategy
 
@@ -200,7 +212,7 @@ Every dollar spent is a choice about school priorities. Accountability for budge
 
 **To Parents/Families**
 - Transparency about tuition use
-- Where tuition dollars go
+- Where tuition rupees go
 - Financial health and sustainability
 - Capital projects and plans
 - Cost increase justification
@@ -245,4 +257,19 @@ Every dollar spent is a choice about school priorities. Accountability for budge
 - Growth projections
 - Financial health trajectory
 
-Accountability for budget use means every dollar serves your mission. When you manage finances responsibly, you maximize impact on students and ensure long-term sustainability.
+Accountability for budget use means every rupee serves your mission. When you manage finances responsibly, you maximize impact on students and ensure long-term sustainability.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+Yashveer Singh Rajpoot spent time with Class Teachers, Accountants, Principals, and Parents. Each told a similar story: "We know what we need to do. But the tools fragment everything, and we spend more time coordinating tools than doing the work." Nexli wasn't built based on a whiteboard. It was built based on time spent inside real schools, understanding real workflows, solving real problems. That ground truth became the foundation of every feature.
+
+**About Yashveer Labs**  
+Behind every feature in Nexli is a story of a school that struggled with that problem. The Counselling workspace exists because counselors told us their work was invisible to the system. The Question Paper Generator exists because teachers spend hours manually compiling papers. The Rankings engine exists because schools wanted fair, transparent merit lists. Yashveer Labs builds based on real problems, not assumptions.
+
+**About Nexli**  
+The parent portal in Nexli is deliberately restricted: parents see only their children's data, nothing else. No student directory. No staff records. No school finances. That limitation is a feature, not a bug. It means parents get exactly the information they need (attendance, homework, fees, report cards, timetables) and nothing that violates privacy. Restricted access is actually the most privacy-preserving approach.
+
+---
+
+[Book a Free Demo](/demo)

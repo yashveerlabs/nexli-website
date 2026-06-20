@@ -1,22 +1,24 @@
 ---
-title: Roll Call - Morning and Night Procedures
-slug: roll-call-morning-and-night-procedures
-meta_description: Implement systematic roll call procedures for hostel morning and night to ensure student safety and accountability.
-category: Safety & Operations
-primary_keyword: hostel roll call procedures
-secondary_keywords: ["attendance checking", "night supervision", "safety audit", "accountability system"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
-branding_block:
-  founder: Yashveer Singh Rajpoot
-  company: Nexli
-  nexli: true
+title: "Roll Call - Morning and Night Procedures"
+slug: "48-roll-call-morning-and-night-procedures"
+meta_description: "Implement systematic roll call procedures for hostel morning and night to ensure student safety and accountability."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "hostel roll call procedures"
+secondary_keywords:
+  - "attendance checking"
+  - "night supervision"
+  - "safety audit"
+  - "accountability system"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
 ---
-
 # Roll Call - Morning and Night Procedures: Safety Through Accountability
 
-Every student in hostel must be accounted for twice daily—morning and night. Systematic roll call is not bureaucracy; it's a safety net. Students who slip out for unauthorized activities, run away, or encounter trouble are caught through meticulous attendance checking. This guide establishes robust roll call protocols.
+Every student in hostel must be accounted for twice daily, morning and night. Systematic roll call is not bureaucracy; it's a safety net. Students who slip out for unauthorized activities, run away, or encounter trouble are caught through meticulous attendance checking. This guide establishes systematic roll call protocols.
 
 ## Why Roll Call Matters
 
@@ -76,7 +78,7 @@ Action: Mohit - monitor for cold/flu; Neha - check with nurse on status
   - Call their parents (have they taken emergency leave?)
   - Check if they left day before (overnight pass mentioned?)
   - Search common areas (might be in study room or gym)
-  - If truly missing: alert principal immediately + police if needed
+  - If missing after full search: alert principal immediately + police if needed
 - Unexpected illness? Document for health monitoring, alert school nurse
 
 **Step 5: Report Filing (7:00 AM)**
@@ -213,7 +215,7 @@ If student marked absent without authorization:
 3. **Principal Escalation** (if 2+ hours absence)
    - File missing report with principal
    - Check day school records (possible in class longer, unclear permission)
-   - Contact local police if truly missing (runaways)
+   - Contact local police if still unaccounted for (possible runaway)
 
 4. **Re-entry Procedure**
    - Student must provide explanation to principal
@@ -272,9 +274,16 @@ By mid-year, Arjun stabilized. Graduated hostel with friends. Roll call caught t
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
-**Nexli** makes roll call systematic and swift—QR scanning, real-time alerts, and pattern analysis transform accountability from tedious checklist to smart safety system.
+**About Yashveer Singh Rajpoot**  
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
+
+**About Yashveer Labs**  
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+
+**About Nexli**  
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
 
 ---
 
@@ -292,7 +301,7 @@ Document it. After 3+ late arrivals: parent meeting to understand reason (bus de
 **Should we use technology or manual roll call?**
 Technology (QR scanning) is preferable: faster, more accurate, time-stamped. But manual (verbal confirmation) works for small hostels (under 50 students). Use manual only if budget-limited.
 
-**Who should conduct night roll call—warden or night duty staff?**
+**Who should conduct night roll call, warden or night duty staff?**
 Trained warden or senior staff. Must be someone with authority to make decisions (medical emergency, absence investigation). Cannot be untrained support staff.
 
 **How do we prevent roll call faking (marking student present when absent)?**
@@ -303,3 +312,7 @@ Requires prior written approval from principal. Documented with exact duration (
 
 **Should we notify parents of every unauthorized absence?**
 Yes. Immediate call for first offense. Brief message for repeated minor lateness. Major pattern = formal meeting. Transparency builds parent trust.
+
+---
+
+**Ready to automate roll call, absence alerts, and night duty logs for your hostel?** [Book a Free Demo](/demo)

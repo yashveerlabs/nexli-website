@@ -1,18 +1,20 @@
 ---
 title: "75% Attendance Rule in CBSE Schools: What You Need to Know"
-slug: "75-percent-attendance-rule-cbse"
+slug: "03-75-percent-attendance-rule-cbse"
 meta_description: "CBSE 75% attendance rule explained. Compliance requirements, exceptions, and strategies for schools to meet standards."
-category: "Attendance & Discipline"
+category: "Attendance, Discipline & Performance"
 primary_keyword: "CBSE 75 percent attendance rule"
-secondary_keywords: ["board exam attendance requirement", "attendance compliance", "CBSE regulations"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "board exam attendance requirement"
+  - "attendance compliance"
+  - "CBSE regulations"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Rule: What CBSE Requires
 
 **The Requirement:**
@@ -150,15 +152,13 @@ Timestamps show when attendance was recorded, who flagged students, what interve
 
 ---
 
-## Branding Block: Why Nexli
+---
 
-The 75% rule is non-negotiable. Nexli makes compliance automatic, transparent, and auditable.
+**About Nexli:** Nexli operates on a principle that most school ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents on WhatsApp (where they actually open messages). Nexli is built for Indian schools, by people who understand Indian schools.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
-> "We've seen schools scramble in May, realizing students are below 75%. By then, it's too late. Nexli surfaces at-risk students in September or October, giving months to intervene."
+**About the Founder:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP. They have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
-**Yashveer Labs' Commitment:**
-Your Class 10/12 students deserve to sit board exams. Nexli ensures they meet the 75% requirement through proactive monitoring.
+**About Yashveer Labs:** Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking what's actually broken here, and why smart people put up with this. The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 ---
 
@@ -172,7 +172,7 @@ Ensure your Class 10/12 students meet CBSE's 75% requirement:
 4. **Intervene early** with parents and counselors
 5. **Document and audit** attendance before final calculations
 
-Nexli's 75% calculator and at-risk alerts make this seamless. **[Request a demo](#contact)** and see how your school can ensure board-exam eligibility.
+Nexli's 75% calculator and at-risk alerts make this actionable. **[Book a Free Demo](/demo)** and see how your school can ensure board-exam eligibility.
 
 ---
 

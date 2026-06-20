@@ -1,8 +1,8 @@
 ---
 title: "How to Improve Student Learning Outcomes: A Principal's Action Plan"
-slug: "improve-student-learning-outcomes"
+slug: "07-improve-student-learning-outcomes"
 meta_description: "Practical strategies for principals to improve student learning outcomes. Learn how to identify struggling students, support teachers, and measure progress."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "improve student learning"
 secondary_keywords:
   - "student academic improvement"
@@ -16,10 +16,9 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## How to Improve Student Learning Outcomes: A Principal's Action Plan
 
-**Improving student learning is the core responsibility of every principal. But how? Most principals focus on test scores, but real learning is deeper—it's conceptual understanding, critical thinking, problem-solving, and character. This guide gives you a practical framework: identify at-risk students early, support struggling teachers, implement evidence-based interventions, and measure progress. By the end of this article, you'll have a step-by-step action plan to boost learning outcomes at your school.**
+**Improving student learning is the core responsibility of every principal. But how? Most principals focus on test scores, but real learning is deeper, it's conceptual understanding, critical thinking, problem-solving, and character. This guide gives you a practical framework: identify at-risk students early, support struggling teachers, implement evidence-based interventions, and measure progress. By the end of this article, you'll have a step-by-step action plan to boost learning outcomes at your school.**
 
 ---
 
@@ -157,7 +156,7 @@ Weak teaching is often the root cause of low learning outcomes.
 **Ask:**
 - Did the at-risk student improve? If yes, great. If no, why? Different intervention needed?
 - Did the struggling teacher improve? If yes, continue support. If no, escalate.
-- Did the intervention reach the root cause? (If student is still absent, transportation support didn't help—need different cause analysis)
+- Did the intervention reach the root cause? (If student is still absent, transportation support didn't help, need different cause analysis)
 
 **Adjust:**
 - What worked? Do more of it.
@@ -300,13 +299,17 @@ Beyond individual interventions, implement systemic changes:
 ## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**  
-Yashveer is the founder of Nexli and designed the platform to support principals in improving learning outcomes. His belief: student success is the heart of every school. Systems that track, support, and celebrate progress matter.
+The reason Nexli works across schools of any size (from 200 students to 5,000) because it was built for Indian school complexity, not simplified into a generic template. A Boarding School has Hostel. A Day School has Transport. A Government School has PM POSHAN. An International School has IB competencies. Rather than build five different systems, Yashveer Singh Rajpoot built one system with the depth to support all of them. That ambition to serve India's full diversity of schools is embedded in the architecture.
 
 **About Yashveer Labs**  
-Yashveer Labs builds school ERPs that prioritize academic excellence. Philosophy: every student has potential. Systems should help identify and support that potential.
+Yashveer Labs made a bet that India's education market wanted quality over cost. The company could have competed on price alone. Instead, it competed on design, reliability, and depth of features. That positioning means working with schools that care about doing things right, not just cheap. Those partnerships last. Those relationships deepen. That's sustainable business.
 
 **About Nexli**  
-Nexli includes 55+ modules with strong academic support: Attendance (with at-risk flags), Marks & Gradebook, Lesson Plans, Report Cards (CBSE 9-point with rankings), NEP 2020 HPC, Homework, Counselling (at-risk tracking), and Communications (parent engagement).
+Nexli includes a full Holistic Progress Card (HPC) implementation for NEP 2020 compliance. It's not a checkbox feature. Multiple domains (cognitive, social-emotional, physical, arts, vocational, life skills), multi-source input (self, peer, teacher, parent), visual output, and multilingual generation. That depth means schools can actually use HPC as intended, not as a compliance form that feels disconnected from real assessment.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 
@@ -323,7 +326,7 @@ It's hard work. But it's the most important work a principal does.
 ## FAQ
 
 **Q1: How can I improve pass rates if my school has weak student intake?**  
-A: Focus on value-add (improvement from entry level), not absolute pass rates. "Our students enter at 40% level; we graduate them at 65% level—15% improvement is our success metric." This is more honest and motivating.
+A: Focus on value-add (improvement from entry level), not absolute pass rates. "Our students enter at 40% level; we graduate them at 65% level, 15% improvement is our success metric." This is more honest and motivating.
 
 **Q2: What if at-risk interventions don't work for some students?**  
 A: Some students have learning disabilities or family crises beyond school's ability to fix. Escalate to counselor, involve parents, explore external support (special education, social services). Document efforts. You're doing your best.

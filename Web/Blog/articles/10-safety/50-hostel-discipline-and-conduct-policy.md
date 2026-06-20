@@ -1,22 +1,24 @@
 ---
-title: Hostel Discipline and Conduct Policy
-slug: hostel-discipline-and-conduct-policy
-meta_description: Establish fair, consistent hostel discipline policies with clear expectations, progressive consequences, and appeal processes.
-category: Safety & Operations
-primary_keyword: hostel discipline policy
-secondary_keywords: ["student conduct", "disciplinary action", "rule enforcement", "fairness and transparency"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
-branding_block:
-  founder: Yashveer Singh Rajpoot
-  company: Nexli
-  nexli: true
+title: "Hostel Discipline and Conduct Policy"
+slug: "50-hostel-discipline-and-conduct-policy"
+meta_description: "Establish fair, consistent hostel discipline policies with clear expectations, progressive consequences, and appeal processes."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "hostel discipline policy"
+secondary_keywords:
+  - "student conduct"
+  - "disciplinary action"
+  - "rule enforcement"
+  - "fairness and transparency"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
 ---
-
 # Hostel Discipline and Conduct Policy: Fair Rules, Consistent Enforcement
 
-Hostel discipline isn't punishment—it's teaching boundaries and responsibility. Students live in community; rules enable coexistence. Without clear, fairly-enforced policies, hostel becomes chaotic. With fair policies, hostel becomes a functioning society where students learn accountability. This guide establishes balanced discipline frameworks.
+Hostel discipline isn't punishment, it's teaching boundaries and responsibility. Students live in community; rules enable coexistence. Without clear, fairly-enforced policies, hostel becomes chaotic. With fair policies, hostel becomes a functioning society where students learn accountability. This guide establishes balanced discipline frameworks.
 
 ## Why Discipline Policies Matter
 
@@ -24,7 +26,7 @@ Hostel discipline isn't punishment—it's teaching boundaries and responsibility
 200+ students in confined space can't coexist without rules. Who showers when? When is quiet time? Can guests visit at midnight? Rules answer these questions fairly.
 
 **Learning Outcomes**
-Boarding school teaches life skills. Following hostel rules—punctuality, responsibility, respect for shared space—mirrors workplace/college expectations. Discipline is educational, not punitive.
+Boarding school teaches life skills. Following hostel rules, punctuality, responsibility, respect for shared space, mirrors workplace/college expectations. Discipline is educational, not punitive.
 
 **Safety**
 Rules prohibit dangerous behaviors: unauthorized absences, substance use, weapons, violence. Enforcement prevents crises.
@@ -193,7 +195,7 @@ These bypass normal disciplinary process and involve law enforcement.
 
 Student/parent can appeal disciplinary decision within 7 days:
 1. Submit written appeal to principal explaining why decision was unfair
-2. Appeal committee reviews (principal, teacher, senior admin—not original decision-maker)
+2. Appeal committee reviews (principal, teacher, senior admin, not original decision-maker)
 3. Meeting held with student/parent to hear their perspective
 4. Committee decides: uphold, modify, or reverse decision
 5. Decision communicated in writing within 7 days
@@ -233,16 +235,23 @@ Both students received identical warnings. Fairness recognized by student body. 
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
-**Nexli** ensures hostel discipline is fair, consistent, and transparent through digital conduct records, progressive consequence tracking, and documented appeal processes that protect student rights.
+**About Yashveer Singh Rajpoot**  
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
+
+**About Yashveer Labs**  
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+
+**About Nexli**  
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
 
 ---
 
 ## Frequently Asked Questions
 
 **Should corporal punishment be allowed?**
-No. Corporal punishment is illegal in India (Supreme Court ruling, 2000). Also ineffective—breeds resentment, doesn't teach. Use behavioral consequences and counseling instead.
+No. Corporal punishment is illegal in India (Supreme Court ruling, 2000). Also ineffective, breeds resentment, doesn't teach. Use behavioral consequences and counseling instead.
 
 **Can we have zero-tolerance policies?**
 Not recommended. Zero-tolerance removes discretion and can be unfair. Better: clear guidelines with flexibility for context. Example: "Substance use generally leads to suspension; first offense may consider counseling + parent agreement."
@@ -264,3 +273,7 @@ Minor bullying: school discipline. Severe bullying (threats, repeated harassment
 
 **How do we balance student rights with safety?**
 Clear policies protect both. Students know rules in advance; consequences pre-established. Right to fair process, right to be heard, right to appeal. Schools bound to follow procedures fairly. This balance protects everyone.
+
+---
+
+**Ready to track hostel conduct records, progressive consequences, and appeal processes digitally?** [Book a Free Demo](/demo)

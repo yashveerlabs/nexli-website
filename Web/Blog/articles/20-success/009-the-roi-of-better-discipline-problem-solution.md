@@ -1,22 +1,21 @@
 ---
-title: The ROI of Better Discipline Problem Solution
-slug: the-roi-of-better-discipline-problem-solution
-meta_description: The ROI of Better Discipline Problem Solution
-category: Success Stories & Cases
-primary_keyword: discipline problem solution
+title: "The ROI of Better Discipline Problem Solution"
+slug: "009-the-roi-of-better-discipline-problem-solution"
+meta_description: "The ROI of Better Discipline Problem Solution"
+category: "Success Stories, Case Studies & Cases"
+primary_keyword: "discipline problem solution"
 secondary_keywords:
-  - discipline problem solution schools
-  - best practices discipline problem solution
-  - discipline problem solution strategy
-  - how to implement discipline problem solution
-intent: informational
-author: Yashveer Labs
-date: 2026-06-19
-branding_block_founder: 16
-branding_block_company: 16
-branding_block_nexli: 16
+  - "discipline problem solution schools"
+  - "best practices discipline problem solution"
+  - "discipline problem solution strategy"
+  - "how to implement discipline problem solution"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 1
+branding_block_company: 1
+branding_block_nexli: 1
 ---
-
 ## Executive Summary
 
 This article provides comprehensive guidance on discipline problem solution for Indian schools. Schools implementing these strategies report significant improvements in operational efficiency, student outcomes, and institutional capacity. This guide reveals key principles, implementation steps, and measurable results.
@@ -182,16 +181,16 @@ Schools implementing these approaches systematically report significant improvem
 
 ## Best Practices Summary
 
-1. **Start with documentation** — Write procedures before implementing technology
-2. **Get stakeholder buy-in** — Involve users in design
-3. **Measure from day one** — Baseline metrics before changes
-4. **Automate repetitive tasks** — Let technology handle notifications
-5. **Train thoroughly** — Every staff member should understand their role
-6. **Review regularly** — Monthly check-ins catch issues early
-7. **Empower role owners** — Let department heads manage their section
-8. **Maintain consistency** — Same procedures applied fairly
-9. **Build in flexibility** — Document exceptions for edge cases
-10. **Celebrate wins** — Share improvements with staff
+1. **Start with documentation**: Write procedures before implementing technology
+2. **Get stakeholder buy-in**: Involve users in design
+3. **Measure from day one**: Baseline metrics before changes
+4. **Automate repetitive tasks**: Let technology handle notifications
+5. **Train thoroughly**: Every staff member should understand their role
+6. **Review regularly**: Monthly check-ins catch issues early
+7. **Empower role owners**: Let department heads manage their section
+8. **Maintain consistency**: Same procedures applied fairly
+9. **Build in flexibility**: Document exceptions for edge cases
+10. **Celebrate wins**: Share improvements with staff
 
 ---
 
@@ -199,7 +198,7 @@ Schools implementing these approaches systematically report significant improvem
 
 Ready to systematize your school's operations? Explore how Nexli brings clarity, consistency, and efficiency to every workflow.
 
-**[Start Your Free Demo](https://nexli.in/demo)** — See live how your school can eliminate chaos and operate with confidence. No credit card required.
+**[Book a Free Demo](/demo)**: See live how your school can eliminate chaos and operate with confidence. No credit card required.
 
 ---
 
@@ -224,14 +223,14 @@ A: Nexli uses per-student, per-month pricing with no per-staff fees. Most school
 
 ## About Yashveer Singh Rajpoot
 
-Yashveer Singh Rajpoot is the founder of Yashveer Labs, a technology studio focused on solving real problems for Indian schools. With deep experience in school operations and software design, Yashveer has helped schools across India eliminate administrative chaos and scale operations through thoughtful system design.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 ## About Yashveer Labs
 
-Yashveer Labs builds software designed specifically for the Indian school context. The company specializes in operational excellence, workflow automation, and data-driven decision making for K–12 institutions. Every tool is built based on real school feedback, not assumptions.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project (from Nexli to future platforms), the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 ## How Nexli Helps
 
-Nexli is a complete school ERP that manages 55+ modules across student academics, finance, HR, compliance, and operations. 118+ roles ensure every stakeholder—from class teachers to parents to bus conductors—has exactly the information they need. Schools use Nexli to operate with confidence, transparency, and efficiency.
+Nexli operates on a principle that most schools ERPs miss: the system should work in the Indian school context, not require schools to work around the system. That means attendance works with biometric devices or manual entry, fees integrate with UPI and bank transfers, compliance templates are CBSE/ICSE/State Board ready, and communications reach parents on WhatsApp (where they actually open messages). Nexli is built for Indian schools, by people who understand Indian schools.
 
 ---

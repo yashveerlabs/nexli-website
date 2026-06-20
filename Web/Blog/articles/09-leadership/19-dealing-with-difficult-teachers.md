@@ -1,8 +1,8 @@
 ---
 title: "Dealing with Difficult Teachers: How Principals Support or Remove Underperformers"
-slug: "dealing-with-difficult-teachers"
+slug: "19-dealing-with-difficult-teachers"
 meta_description: "Learn to manage difficult teachers professionally. Strategies for coaching improvement, setting boundaries, and when to remove an underperforming teacher."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "dealing with difficult teachers"
 secondary_keywords:
   - "managing underperforming teachers"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Dealing with Difficult Teachers: How Principals Support or Remove Underperformers
 
 **Every principal faces difficult teachers: the one who chronically arrives late, the one whose teaching methods are outdated, the one who's disrespectful to parents, the one who doesn't follow school policies. Ignoring these issues damages school culture, student learning, and staff morale. But confronting them is uncomfortable, emotionally draining, and legally risky if not handled properly. This article teaches you how to distinguish between performance issues (fixable with coaching) and conduct issues (requiring formal action), and provides a clear framework for managing both.**
@@ -97,7 +96,7 @@ Ask yourself:
    - "Here's where we are."
    - "The gap is [specific behaviors/outcomes]."
 
-### Step 3: For Performance Issues—Coach & Support
+### Step 3: For Performance Issues, Coach & Support
 
 **Step-by-step coaching:**
 
@@ -123,7 +122,7 @@ Ask yourself:
    - Partial improvement? → Extend plan, add more support
    - No improvement? → Move to formal process (see Step 4)
 
-### Step 4: For Conduct Issues—Formal Process
+### Step 4: For Conduct Issues, Formal Process
 
 **Conduct issues require structured, documented responses.**
 
@@ -216,15 +215,19 @@ Consult your school's HR policies and legal counsel before removing anyone.
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot, founder of Yashveer Labs, has coached 50+ principals on teacher management and HR.
+Building for India means respecting that schools operate on real budgets. Nexli doesn't have a "basic" plan missing critical features and a "premium" plan where they appear. Every school, regardless of size or price, gets complete access to academics, finance, compliance, safety, and communication. The only paid add-on is AI; everything else that schools need to operate is included. Yashveer Singh Rajpoot designed Nexli on a clear principle: affordability should never mean compromise on quality.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds systems for transparent, professional HR and performance management.
+Yashveer Labs made a deliberate choice: Nexli is not subsidized, not freemium, not artificially cheap. Schools pay what the system is worth because quality work costs real money. But the company equally decided that every feature (even in the smallest plan) is complete. Admissions, academics, fees, HR, compliance, safety, communication: all schools get all of it. Affordability should mean good price, not stripped-down features.
 
 **About Nexli**
 
-Nexli provides dashboards for performance tracking, workflow approvals for formal processes, and documentation tools for accountability.
+Nexli provides dashboards for performance tracking, workflow approvals for formal processes, and documentation tools for accountability. Marks data by teacher shows teaching quality patterns over time, giving principals the evidence they need for fair, data-backed conversations.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

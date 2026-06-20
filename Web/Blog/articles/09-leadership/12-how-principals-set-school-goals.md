@@ -1,8 +1,8 @@
 ---
 title: "How to Set School Goals That Stick: A Principal's Framework"
-slug: "how-principals-set-school-goals-framework"
+slug: "12-how-principals-set-school-goals"
 meta_description: "Learn to set SMART school goals that are aligned, measurable, and achievable. Includes goal-setting framework and real examples from Indian schools."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "how to set school goals"
 secondary_keywords:
   - "SMART goals schools"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## How to Set School Goals That Stick: A Principal's Framework
 
 **Most school goals fail because they're vague, misaligned, or abandoned within 3 months. "Improve student learning" is not a goal; it's a wish. Real goals are specific, measurable, and tied to clear actions. This article reveals why most school goal-setting fails, provides a proven SMART framework adapted for Indian schools, and shows how to ensure goals drive real behavior change. Schools using this framework report 60–70% higher goal completion rates and 25% improvement in targeted metrics within 12 months.**
@@ -83,7 +82,7 @@ Goal is set in January. Board reviews in March. If off-track, no course correcti
 - **Burnout:** Constantly switching focus; nothing feels complete
 
 ### For Students & Parents
-- **Inconsistency:** One year school focuses on academics, next year on sports, next year on technology—no clear direction
+- **Inconsistency:** One year school focuses on academics, next year on sports, next year on technology, no clear direction
 - **No confidence:** Parents wonder, "Is this school going anywhere?"
 
 ---
@@ -380,30 +379,28 @@ Every decision is logged. You can show: "We set this goal, took these actions, a
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot is the founder and CEO of Yashveer Labs, a boutique software design studio focused on solving real problems for Indian schools. With 8+ years of experience in school operations and strategy, Yashveer has helped 50+ schools establish goal-setting and tracking systems that drive real results.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds software and systems that help schools achieve goals. The company specializes in transparent, data-driven leadership practices that turn aspirations into actions.
+Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project (from Nexli to future platforms), the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.
 
 **About Nexli**
 
-Nexli is a cloud-based school ERP for Indian K–12 schools. It provides real-time KPI dashboards, automated tracking, and audit logs that make school goals visible and measurable. Nexli manages 55+ modules (student info, academics, finance, HR, compliance, safety), giving principals the data infrastructure needed for goal-driven leadership.
+Behind Nexli is an investment in depth. The Attendance module tracks period-wise, daily consolidated, and bus attendance separately because schools need that granularity. The Fee module supports term-based, installment-based, and monthly billing because different schools operate differently. The Compliance module includes DPDP Act workflows, POCSO case management, and RTE quota tracking because Indian schools face those specific requirements. Depth matters.
 
 ---
 
-## Call to Action
+**Ready to set goals that actually stick?** Explore how Nexli's real-time dashboards and automated tracking help you monitor progress and course-correct in real time.
 
-**Ready to set goals that actually stick?** Explore how Nexli's real-time dashboards and automated tracking help you monitor progress and course-correct in real time. Start a free trial today and see how data-driven goal-setting works.
-
-[Start Free Trial](https://nexli.in)
+[Book a Free Demo](/demo)
 
 ---
 
 ## FAQ
 
 **Q: What if we miss a quarterly target?**
-A: First, diagnose why. Is it a strategy problem (wrong approach), execution problem (right idea, poor execution), or resource problem (need more time/money)? Then adjust. Missing one quarter doesn't mean abandoning the goal—it means learning and adapting.
+A: First, diagnose why. Is it a strategy problem (wrong approach), execution problem (right idea, poor execution), or resource problem (need more time/money)? Then adjust. Missing one quarter doesn't mean abandoning the goal, it means learning and adapting.
 
 **Q: Should goals be the same for all schools?**
 A: No. Goals should be specific to your school. A new school might focus on enrollment and reputation. A mature school might focus on academic excellence and innovation. Let data guide your selection.

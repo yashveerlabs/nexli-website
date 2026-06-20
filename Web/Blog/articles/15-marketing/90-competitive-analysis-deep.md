@@ -1,3 +1,21 @@
+---
+title: "Competitive Analysis Deep Dive: Understanding Your Market Position"
+slug: "90-competitive-analysis-deep"
+meta_description: "Conduct a competitive analysis to understand your school's market position. Learn competitor research frameworks, differentiation strategies, and how to win against established schools."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "school competitive analysis"
+secondary_keywords:
+  - "school market position"
+  - "school competitor research"
+  - "school differentiation"
+  - "school competitive advantage"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Competitive Analysis Deep Dive: Understanding Your Market Position
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -90,5 +108,5 @@ Know yourself, know your competitors, you can win any battle. Deep analysis reve
 
 ---
 
-**Next step:** Complete competitive analysis this quarter.
+**Next step:** Complete competitive analysis this quarter. [Book a Free Demo](/demo) to see how Nexli's Principal Dashboard gives you the outcomes data, exam rankings, attendance rates, fee collection, that your competitive analysis needs.
 

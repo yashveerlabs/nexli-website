@@ -1,10 +1,22 @@
 ---
 title: "Equity and Inclusion: Principal's Leadership Role"
-slug: equity-and-inclusion-principals-leadership-role
-category: 9
+slug: "91-equity-and-inclusion-principals-leadership-role"
+meta_description: "Equity and inclusion are moral imperatives for school leaders. Learn how principals can examine data, address biases, diversify staff, and build schools where every student succeeds."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "equity and inclusion in school leadership"
+secondary_keywords:
+  - "inclusive school leadership"
+  - "achievement gap in schools"
+  - "culturally responsive teaching"
+  - "restorative practices in schools"
+intent: "educational"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 11
+branding_block_company: 11
+branding_block_nexli: 11
 order: 91
 ---
-
 # Equity and Inclusion: Principal's Leadership Role
 
 Equity and inclusion are moral imperatives and academic necessities. Leaders champion both.
@@ -32,3 +44,18 @@ Equity and inclusion are moral imperatives and academic necessities. Leaders cha
 **Accountability** - Equity goals explicit, progress monitored, accountability for progress, resources dedicated, persistence until achieved.
 
 Equitable schools benefit all students and create just society. Lead boldly for equity.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+After spending years in education technology, Yashveer Singh Rajpoot observed something: most school ERPs are built by software engineers, not by people who've lived inside schools. Details get missed. Workflows feel imposed from outside. Nexli was built by someone who understands both education and technology: where a Timetable needs to be not just a schedule, but a communication tool. Where Attendance is not just a register, but an early-warning system. Where Finance is not just accounting, but a window into school health.
+
+**About Yashveer Labs**  
+The company builds with the assumption that most school staff are not technical. A Principal shouldn't need to call IT support to add a new role or modify a workflow. Teachers shouldn't need training to mark attendance. Parents shouldn't need a manual to check their child's fee status. That simplicity is deliberate and hard-won. Behind every simple interface is complex design work to hide that complexity.
+
+**About Nexli**  
+What makes Nexli's transport module different: it integrates GPS tracking, RFID boarding, live alerts, and parent notifications. A parent is notified when their child boards the bus and again when they alight. The Transport Manager sees live GPS and can respond to delays. A bus conductor marks students present/absent on the vehicle. That integration means transport becomes a point of communication and safety, not just a service.
+
+---
+
+[Book a Free Demo](/demo)

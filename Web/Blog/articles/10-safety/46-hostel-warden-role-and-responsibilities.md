@@ -1,27 +1,29 @@
 ---
-title: Hostel Warden - Role and Responsibilities
-slug: hostel-warden-role-and-responsibilities
-meta_description: Define hostel warden roles and create accountability frameworks for student welfare and safety in boarding facilities.
-category: Safety & Operations
-primary_keyword: hostel warden responsibilities
-secondary_keywords: ["boarding house management", "student supervision", "duty roster", "welfare officer"]
-intent: guide
-author: Yashveer Labs
-date: 2026-06-19
-branding_block:
-  founder: Yashveer Singh Rajpoot
-  company: Nexli
-  nexli: true
+title: "Hostel Warden - Role and Responsibilities"
+slug: "46-hostel-warden-role-and-responsibilities"
+meta_description: "Define hostel warden roles and create accountability frameworks for student welfare and safety in boarding facilities."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "hostel warden responsibilities"
+secondary_keywords:
+  - "boarding house management"
+  - "student supervision"
+  - "duty roster"
+  - "welfare officer"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
 ---
-
 # Hostel Warden: Role and Responsibilities
 
-The hostel warden is a boarding school's backbone—part parent, part disciplinarian, part counselor, part administrator. 24/7 responsibility for 50-100 students' safety, wellness, and development. This guide defines the warden role, establishes accountability, and creates sustainable responsibility frameworks.
+The hostel warden is a boarding school's backbone, part parent, part disciplinarian, part counselor, part administrator. 24/7 responsibility for 50-100 students' safety, wellness, and development. This guide defines the warden role, establishes accountability, and creates sustainable responsibility frameworks.
 
 ## Why the Warden Role Is Critical
 
 **The 24/7 Responsibility**
-Unlike day school staff, hostel wardens are in loco parentis—acting as parents. When students are ill at midnight, homesick at 6 PM, injured during midnight snacks, the warden is first responder. This role shapes entire hostel culture.
+Unlike day school staff, hostel wardens are in loco parentis, acting as parents. When students are ill at midnight, homesick at 6 PM, injured during midnight snacks, the warden is first responder. This role shapes entire hostel culture.
 
 **Legal Liability**
 Schools are liable for student welfare during hostel hours. Negligent warden supervision leading to injury, abuse, or death exposes school to civil suits and criminal charges. Clear role definition protects students and staff.
@@ -224,9 +226,16 @@ By October, Rahul adjusted. Remained in hostel through year, excelled academical
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
-**Nexli** enables hostel wardens to lead effectively through digital tools that reduce administrative burden and strengthen communication. Clear duty rosters, incident tracking, and parent engagement keep students safe while preventing warden burnout.
+**About Yashveer Singh Rajpoot**  
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
+
+**About Yashveer Labs**  
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+
+**About Nexli**  
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
 
 ---
 
@@ -255,3 +264,7 @@ Yes, encouraged. Regular calls (weekly minimum) about child's progress. But esca
 
 **What training should new wardens receive?**
 Induction program (1-2 weeks): hostel rules, health protocols, emergency procedures, incident reporting, child psychology basics. Annual refresher training (2-3 days).
+
+---
+
+**Ready to manage warden duty rosters, incident logs, and parent communication for your hostel?** [Book a Free Demo](/demo)

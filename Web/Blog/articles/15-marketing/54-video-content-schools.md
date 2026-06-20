@@ -1,3 +1,21 @@
+---
+title: "Video Content for Schools: Strategy and Production"
+slug: "54-video-content-schools"
+meta_description: "Create compelling school video content that drives admissions. Learn video strategy, production on a budget, distribution channels, and measuring video impact."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "school video content"
+secondary_keywords:
+  - "school video marketing"
+  - "school video production"
+  - "campus tour video"
+  - "school YouTube strategy"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Video Content for Schools: Strategy and Production
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -72,5 +90,5 @@ Video is king. Start recording. Post consistently. Watch inquiries grow.
 
 ---
 
-**Next step:** Record your first campus tour video this week.
+**Next step:** Record your first campus tour video this week. [Book a Free Demo](/demo) to see how Nexli's Gamification Dashboard and Skills Passport give your school a steady stream of student achievements to feature in videos.
 

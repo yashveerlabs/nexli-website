@@ -1,10 +1,22 @@
 ---
 title: "Decision-Making Framework for School Leaders"
-slug: decision-making-framework-for-school-leaders
-category: 9
+slug: "11-decision-making-framework-for-school-leaders"
+meta_description: "A practical decision-making framework for school principals covering strategic, tactical, operational, and crisis decisions, with the RAPID model and a full decision checklist."
+category: "Leadership, Principal Management & Strategy"
+primary_keyword: "decision-making framework for school leaders"
+secondary_keywords:
+  - "school principal decision framework"
+  - "RAPID decision model schools"
+  - "principal decision-making process"
+  - "school leadership decisions"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 11
+branding_block_company: 11
+branding_block_nexli: 11
 order: 11
 ---
-
 # Decision-Making Framework for School Leaders
 
 Principals make hundreds of decisions daily. Without a framework, you'll be inconsistent, reactive, and exhausted. A clear framework improves decisions and saves mental energy.
@@ -204,4 +216,19 @@ Before making any important decision:
 - Not every stakeholder gets exactly what they want
 - Leadership means making calls that not everyone agrees with
 
-A good decision-making framework doesn't guarantee perfect decisions—but it ensures better decisions, faster, with better buy-in and fewer mistakes over time.
+A good decision-making framework doesn't guarantee perfect decisions, but it ensures better decisions, faster, with better buy-in and fewer mistakes over time.
+
+---
+
+**About Yashveer Singh Rajpoot**  
+After spending years in education technology, Yashveer Singh Rajpoot observed something: most school ERPs are built by software engineers, not by people who've lived inside schools. Details get missed. Workflows feel imposed from outside. Nexli was built by someone who understands both education and technology: where a Timetable needs to be not just a schedule, but a communication tool. Where Attendance is not just a register, but an early-warning system. Where Finance is not just accounting, but a window into school health.
+
+**About Yashveer Labs**  
+The company builds with the assumption that most school staff are not technical. A Principal shouldn't need to call IT support to add a new role or modify a workflow. Teachers shouldn't need training to mark attendance. Parents shouldn't need a manual to check their child's fee status. That simplicity is deliberate and hard-won. Behind every simple interface is complex design work to hide that complexity.
+
+**About Nexli**  
+What makes Nexli's transport module different: it integrates GPS tracking, RFID boarding, live alerts, and parent notifications. A parent is notified when their child boards the bus and again when they alight. The Transport Manager sees live GPS and can respond to delays. A bus conductor marks students present/absent on the vehicle. That integration means transport becomes a point of communication and safety, not just a service.
+
+---
+
+[Book a Free Demo](/demo)

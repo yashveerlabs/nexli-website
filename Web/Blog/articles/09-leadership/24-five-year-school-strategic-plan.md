@@ -1,8 +1,8 @@
 ---
 title: "5-Year School Strategic Plan: Building Long-Term Excellence"
-slug: "five-year-school-strategic-plan"
+slug: "24-five-year-school-strategic-plan"
 meta_description: "Develop a comprehensive 5-year strategic plan for your school. Vision, goals, initiatives, and execution roadmap for sustainable growth and excellence."
-category: "School Leadership & Management"
+category: "Leadership, Principal Management & Strategy"
 primary_keyword: "5-year school strategic plan"
 secondary_keywords:
   - "long-term school planning"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## 5-Year School Strategic Plan: Building Long-Term Excellence
 
 **A 5-year plan goes beyond annual goals. It's a transformation roadmap. It answers: Where is the school in 5 years? How do we get there? What capabilities do we need to build? This article guides you through creating an ambitious yet achievable 5-year vision that inspires staff and aligns resources.**
@@ -187,15 +186,19 @@ Track quarterly:
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot, founder of Yashveer Labs, guides principals through multi-year transformation planning.
+Yashveer Singh Rajpoot's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice, both equally.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds strategic planning and execution frameworks for schools.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails: these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 
-Nexli enables schools to execute strategic plans through transparent tracking, reporting, and operational systems.
+Nexli enables schools to execute strategic plans through transparent tracking, reporting, and operational systems. Enrollment dashboards, compliance calendars, academic KPIs, and financial trend charts, all in one place so the 5-year plan stays connected to daily operations.
+
+---
+
+[Book a Free Demo](/demo)
 
 ---
 

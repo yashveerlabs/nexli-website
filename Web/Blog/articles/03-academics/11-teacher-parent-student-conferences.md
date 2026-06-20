@@ -1,18 +1,21 @@
 ---
 title: "How to Conduct Meaningful Teacher-Parent-Student Conferences"
-slug: "teacher-parent-student-conferences"
+slug: "11-teacher-parent-student-conferences"
 meta_description: "Conduct effective parent-teacher-student conferences. Framework for productive conversations about progress, challenges, and next steps."
-category: "Academic Management"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "teacher parent student conferences framework"
-secondary_keywords: ["parent-teacher meetings", "student progress discussions", "parent engagement", "conference structure"]
-intent: "How-to / Educational Guide"
+secondary_keywords:
+  - "parent-teacher meetings"
+  - "student progress discussions"
+  - "parent engagement"
+  - "conference structure"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## The Problem: Unproductive Parent-Teacher Meetings
 
 It's conference day. A teacher spends 10 minutes with each parent:
@@ -276,10 +279,10 @@ Optional: Parent confirms receipt of conference summary by digital signature in 
 Parent-teacher conferences are where school and home align. Nexli makes these conversations structured, productive, and documented.
 
 **Founder Insight (Yashveer Singh Rajpoot):**
-> "We've seen conferences that are formalities—no data, no plan, no follow-up. Nexli changes that by putting student data, learning objectives, and progress right in front of teachers. Teachers are more prepared. Conversations are richer. Parents leave understanding exactly how to help."
+> "We've seen conferences that are formalities-no data, no plan, no follow-up. Nexli changes that by putting student data, learning objectives, and progress right in front of teachers. Teachers are more prepared. Conversations are richer. Parents leave understanding exactly how to help."
 
 **Yashveer Labs' Commitment:**
-Your school's partnership with families is your greatest asset. Nexli helps you leverage it through meaningful conferences.
+Your school's partnership with families is your greatest asset. Nexli helps you use it through meaningful conferences.
 
 ---
 
@@ -293,7 +296,7 @@ Make your conferences count:
 4. **Document action items** (email summary to parents; track follow-up)
 5. **Follow up** (check in on progress; reschedule with parents who missed conference)
 
-Nexli's conference tools keep you organized and ensure nothing falls through. **[Request a demo](#contact)** and see how your school can transform parent-teacher conferences from formalities into powerful partnerships.
+Nexli's conference tools keep you organized and ensure nothing falls through. **[Request a demo](/demo)** and see how your school can transform parent-teacher conferences from formalities into powerful partnerships.
 
 ---
 

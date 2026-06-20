@@ -1,8 +1,8 @@
 ---
 title: "Facility Management & School Maintenance: Preventing Breakdown and Safety Issues"
-slug: "facility-management-school-maintenance-preventive"
+slug: "13-facility-management-school-maintenance"
 meta_description: "Complete guide to school facility management: maintenance schedules, asset tracking, safety inspections, budget allocation. Keep schools safe and functional."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school facility management"
 secondary_keywords:
   - "school maintenance schedule"
@@ -16,10 +16,9 @@ branding_block_founder: 6
 branding_block_company: 6
 branding_block_nexli: 6
 ---
-
 ## Facility Management & School Maintenance: Preventing Breakdown and Safety Issues
 
-**A school building is a complex asset. Electricity, plumbing, HVAC, classrooms, labs, sports grounds, parking—all need regular maintenance. Most schools run in reactive mode: something breaks, then it gets fixed. This costs more, creates downtime, and creates safety risks. Schools using preventive maintenance (regular inspections, scheduled repairs, asset tracking) report 40% reduction in breakdowns, 25% cost savings, and significantly higher safety compliance. This article reveals how principals can implement facility management systems that keep schools functional, safe, and cost-effective.**
+**A school building is a complex asset. Electricity, plumbing, HVAC, classrooms, labs, sports grounds, parking, all need regular maintenance. Most schools run in reactive mode: something breaks, then it gets fixed. This costs more, creates downtime, and creates safety risks. Schools using preventive maintenance (regular inspections, scheduled repairs, asset tracking) report 40% reduction in breakdowns, 25% cost savings, and significantly higher safety compliance. This article reveals how principals can implement facility management systems that keep schools functional, safe, and cost-effective.**
 
 ---
 
@@ -63,7 +62,7 @@ Who's responsible for maintenance? Facilities manager? Principal? No clear owner
 No maintenance schedule. No list of what needs to be serviced when. Decision-making is reactive.
 
 ### 5. **Safety Complacency**
-"The building looks fine." But electrical hazards, structural stress, safety systems failing—you can't see them until it's too late.
+"The building looks fine." But electrical hazards, structural stress, safety systems failing, you can't see them until it's too late.
 
 ---
 
@@ -325,7 +324,7 @@ Nexli includes compliance reminders for safety inspections, certifications, and 
 - Annual comprehensive audit (third-party inspector)
 - Quarterly safety checks (internal)
 - Updated asset register with new purchases
-- Planned major repairs (roof, painting—funded by savings from preventive maintenance)
+- Planned major repairs (roof, painting, funded by savings from preventive maintenance)
 
 **Long-Term Outcome:**
 - School reputation improved ("well-maintained")
@@ -335,27 +334,25 @@ Nexli includes compliance reminders for safety inspections, certifications, and 
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot is the founder and CEO of Yashveer Labs, a boutique software design studio focused on solving real problems for Indian schools. With 8+ years of experience in school operations and facility management, Yashveer has helped 50+ schools implement preventive maintenance systems that save costs and improve safety.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds software that helps schools manage assets and maintain facilities proactively. The company specializes in facility management, asset tracking, and preventive maintenance planning.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 
-Nexli is a cloud-based school ERP for Indian K–12 schools. It includes an asset register, maintenance scheduling, work order tracking, and compliance reminders—integrated into one platform. Nexli helps principals track every school facility and schedule preventive maintenance efficiently. The system includes 55+ modules (student info, academics, operations, compliance, safety), with facility management deeply integrated.
+Nexli includes 55+ modules covering student info, academics, compliance, safety, and operations. The Facility and Asset Management module provides an asset register, maintenance requests, and utility consumption logs. The Compliance Calendar reminds administrators of building safety inspections, fire NOC renewals, and FSSAI certifications, keeping schools audit-ready year-round.
 
 ---
 
 ## Call to Action
 
-**Ready to shift from reactive to preventive facility management?** Explore how Nexli's asset register and maintenance scheduling help you prevent breakdowns and keep schools safe. Start a free trial today.
-
-[Start Free Trial](https://nexli.in)
+**Ready to shift from reactive to preventive facility management?** [Book a Free Demo](/demo)
 
 ---
 

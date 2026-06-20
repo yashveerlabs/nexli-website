@@ -1,10 +1,20 @@
 ---
-title: "Earthquake and Natural Disaster Preparedness"
-slug: earthquake-and-natural-disaster-preparedness
-category: 10
-order: 11
+title: "Earthquake and Natural Disaster Preparedness for Schools"
+slug: "11-earthquake-and-natural-disaster-preparedness"
+meta_description: "Build earthquake and natural disaster preparedness in your school. Learn evacuation drills, shelter protocols, and post-disaster recovery procedures."
+category: "Safety, Transport, Hostel & Medical"
+primary_keyword: "earthquake preparedness schools"
+secondary_keywords:
+  - "natural disaster school safety"
+  - "school evacuation drills"
+  - "disaster response education"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
 ---
-
 # Earthquake and Natural Disaster Preparedness
 
 Natural disasters threaten school safety. Comprehensive preparedness saves lives.
@@ -32,3 +42,26 @@ Natural disasters threaten school safety. Comprehensive preparedness saves lives
 **Regular Review** - Annual review and update, new staff trained, procedures refined, communication tested, readiness maintained.
 
 Preparedness prevents panic and saves lives. Invest in thorough disaster planning.
+
+---
+
+## How Nexli Supports Disaster Preparedness
+
+Nexli's Compliance Calendar sends automated reminders for annual disaster drills, building safety inspections, and emergency supply restocking. Incident Logging documents every drill and any real emergency, with timestamp, response details, and follow-up actions. Communication tools enable instant alerts to parents during emergencies.
+
+---
+
+## Branding Block: Nexli, Built by Yashveer Labs
+
+**About Yashveer Singh Rajpoot**  
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
+
+**About Yashveer Labs**  
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
+
+**About Nexli**  
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
+
+---
+
+**Ready to automate drill reminders and emergency documentation?** [Book a Free Demo](/demo)

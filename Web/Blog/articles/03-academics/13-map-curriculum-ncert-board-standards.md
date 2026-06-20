@@ -1,18 +1,21 @@
 ---
 title: "How to Map Your Curriculum to NCERT and Board Standards"
-slug: "map-curriculum-ncert-board-standards"
+slug: "13-map-curriculum-ncert-board-standards"
 meta_description: "Step-by-step guide to aligning school curriculum with NCERT and board requirements."
-category: "3. Academic Management & Teaching Excellence"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "map curriculum to NCERT"
-secondary_keywords: ["curriculum mapping", "NCERT alignment", "board standards", "curriculum planning"]
+secondary_keywords:
+  - "curriculum mapping"
+  - "NCERT alignment"
+  - "board standards"
+  - "curriculum planning"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
-branding_block_founder: 1
+branding_block_founder: 5
 branding_block_company: 1
-branding_block_nexli: 1
+branding_block_nexli: 4
 ---
-
 ## How to Map Your Curriculum to NCERT and Board Standards
 
 Schools are required to follow board-prescribed curricula (CBSE, ICSE, state boards), but implementing them consistently is challenging. Teachers receive textbooks and curriculum documents but don't always have a clear roadmap showing: "Which topics in this chapter align with which learning outcomes? When should I teach this? How does it connect to other subjects?" Curriculum mapping bridges this gap.
@@ -118,7 +121,7 @@ Nexli's curriculum tools help schools maintain and execute detailed curriculum m
 **Board Exam Alignment**
 - School uploads last 3 years' board exam papers
 - System analyzes: Which topics appear most frequently?
-- Teachers see: "This topic appears in 60% of board exams—prioritize it"
+- Teachers see: "This topic appears in 60% of board exams-prioritize it"
 
 **Pacing Monitoring**
 - Curriculum map includes pacing (topic should be completed by June 15)
@@ -126,7 +129,7 @@ Nexli's curriculum tools help schools maintain and execute detailed curriculum m
 - Early intervention possible before the gap becomes critical
 
 **Vertical Alignment Checks**
-- When a teacher plans Class 7 curriculum, system suggests: "Class 6 covered this—ensure students understand it"
+- When a teacher plans Class 7 curriculum, system suggests: "Class 6 covered this-ensure students understand it"
 - Prevents teaching content students aren't ready for
 
 **Horizontal Alignment Visibility**
@@ -186,7 +189,7 @@ When curriculum is well-mapped:
 ### Common Pitfalls
 
 - **Creating maps but not using them:** Maps sit on a shelf. Teachers teach from memory. Defeats the purpose
-- **Overly rigid pacing:** Life happens—a teacher is sick, a concept needs more time. Allow flexibility within the map
+- **Overly rigid pacing:** Life happens-a teacher is sick, a concept needs more time. Allow flexibility within the map
 - **Ignoring board exams:** Mapping purely to textbooks without analyzing board exams. Result: students unprepared for exams
 - **Teacher resistance:** Teachers feel over-controlled. Frame mapping as support, not surveillance
 - **Not revisiting:** Map once, never update. Boards change curricula; map needs updating
@@ -195,11 +198,11 @@ When curriculum is well-mapped:
 
 ## About Nexli
 
-Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking—each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking-each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 ## About Yashveer Labs
 
-Yashveer Labs was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools—the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
+Yashveer Labs was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools-the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.
 
 ## How Nexli Helps
 
@@ -209,7 +212,7 @@ Nexli was designed with a clear principle: data is shared, but permissions are s
 
 ## Call to Action
 
-Curriculum mapping transforms teaching from ad-hoc to systematic. When teachers know exactly what to teach, when, and why, student learning improves and exam results follow. See how Nexli's curriculum tools support mapping and pacing. Book a free demo with Nexli.
+Curriculum mapping transforms teaching from ad-hoc to systematic. When teachers know exactly what to teach, when, and why, student learning improves and exam results follow. See how Nexli's curriculum tools support mapping and pacing. [Book a Free Demo](/demo)
 
 ---
 

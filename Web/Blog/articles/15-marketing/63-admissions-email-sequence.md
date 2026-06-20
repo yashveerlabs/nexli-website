@@ -1,3 +1,21 @@
+---
+title: "Admissions Funnel Email Sequence: Converting Prospects to Applicants"
+slug: "63-admissions-email-sequence"
+meta_description: "Convert school admissions prospects to applicants with a structured email sequence. Learn the 7-email sequence, timing, content for each stage, and tracking enrollment."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "admissions email sequence schools"
+secondary_keywords:
+  - "school admissions email funnel"
+  - "school inquiry to applicant"
+  - "school enrollment email"
+  - "admissions conversion email"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Admissions Funnel Email Sequence: Converting Prospects to Applicants
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -92,5 +110,5 @@ Email sequence keeps momentum from inquiry to application. Automate this. Let te
 
 ---
 
-**Next step:** Write your admissions email sequence this week.
+**Next step:** Write your admissions email sequence this week. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline tracks every inquiry through multi-stage workflows, from inquiry to document verification to enrollment confirmation.
 

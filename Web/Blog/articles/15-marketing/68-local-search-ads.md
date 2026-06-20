@@ -1,3 +1,21 @@
+---
+title: "Local Search Ads: \\"School Near Me\\" Optimization"
+slug: "68-local-search-ads"
+meta_description: "Win local search ads for 'school near me' queries and drive admissions inquiries. Learn Google Local Search Ads setup, optimization, and budget management for schools."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "local search ads school"
+secondary_keywords:
+  - "school near me ads"
+  - "school Google Ads local"
+  - "school local advertising"
+  - "school search advertising"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Local Search Ads: "School Near Me" Optimization
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -61,5 +79,5 @@ Local ads capture high-intent parents searching for schools near them. Immediate
 
 ---
 
-**Next step:** Set up Local Services Ads this week.
+**Next step:** Set up Local Services Ads this week. [Book a Free Demo](/demo) to see how Nexli's admissions pipeline captures every local search inquiry and routes it into a structured enrollment workflow.
 

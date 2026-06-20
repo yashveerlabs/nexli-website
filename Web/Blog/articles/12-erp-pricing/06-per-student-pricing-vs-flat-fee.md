@@ -1,25 +1,27 @@
 ---
 title: "Per-Student Pricing vs. Flat Fee: Which Model Saves Schools More?"
-slug: "per-student-pricing-vs-flat-fee"
+slug: "06-per-student-pricing-vs-flat-fee"
 meta_description: "Compare per-student and flat-fee ERP pricing models. Which saves small, medium, and large schools more money? Cost analysis and ROI breakdown."
-category: "12-erp-pricing"
+category: "ERP Pricing, ROI & Cost Analysis"
 primary_keyword: "per-student pricing vs flat fee"
-secondary_keywords: ["school ERP per-student cost", "flat-fee school ERP", "ERP pricing models comparison"]
-intent: "cost_comparison"
+secondary_keywords:
+  - "school ERP per-student cost"
+  - "flat-fee school ERP"
+  - "ERP pricing models comparison"
+intent: "educational"
 author: "Yashveer Labs"
 date: "2026-06-19"
 branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 **Snippet:** Per-student pricing (₹100–500/student/year) scales with enrollment; flat-fee (₹30,000–₹2,00,000/year) stays constant. Small schools save more with per-student; large schools benefit from flat-fee. The right model depends on your enrollment stability and growth trajectory.
 
 ## Why Pricing Model Matters
 
 A school with 500 students and a flat-fee vendor might pay ₹1,50,000 annually. Move to a per-student vendor at ₹200/student = ₹10,00,000/year. Same system, different model, 6-7x cost difference.
 
-Pricing model isn't just about the headline number—it shapes how the vendor incentivizes growth, how you budget over time, and what happens if enrollment changes.
+Pricing model isn't just about the headline number, it shapes how the vendor incentivizes growth, how you budget over time, and what happens if enrollment changes.
 
 ## Per-Student Pricing
 
@@ -34,7 +36,7 @@ Vendor charges ₹X per student per academic year, typically ₹100–500. A 600
 
 **Disadvantages**  
 - Expensive for large schools. A 3,000-student institution pays ₹3,00,000–₹15,00,000 annually.
-- Enrollment decline hurts budget. If 100 students leave, cost drops by ₹10,000–₹50,000—small relief but still a burden during economic downturns.
+- Enrollment decline hurts budget. If 100 students leave, cost drops by ₹10,000–₹50,000, small relief but still a burden during economic downturns.
 - Definition ambiguity. Does "per student" mean active enrolled students, or does it include alumni in any database access? Can you renegotiate mid-year if enrollment projections were wrong?
 - Incentivizes vendor neglect for small schools. A vendor making ₹50,000/year on your school has limited motivation to support you well.
 
@@ -51,7 +53,7 @@ Vendor charges one fixed annual amount regardless of enrollment. Typically ₹30
 
 **Advantages**  
 - Predictable budgeting. You know the cost for the next 5 years.
-- Favors large schools. A 2,000-student school and 500-student school might pay the same ₹1,50,000 annually—huge savings for the large school.
+- Favors large schools. A 2,000-student school and 500-student school might pay the same ₹1,50,000 annually, huge savings for the large school.
 - Removes enrollment risk. If enrollment drops 20%, your ERP cost doesn't.
 - Encourages vendor investment. Vendor makes the same revenue whether you have 300 or 3,000 students, so quality and support matter more for retention.
 - No mid-year surprises. You agreed to ₹X for the year; that's what you pay.
@@ -128,7 +130,7 @@ Some vendors offer "free" core features + paid premium add-ons.
 - Paid (₹2,00,000–₹5,00,000/year): Advanced analytics, CBSE compliance reports, counselling, POCSO management
 
 **Reality Check:**  
-The "free" features are usually incomplete. You need the paid tier to run actual operations. The freemium model is really "feature-limited free tier + necessary premium tier." Calculate your true cost assuming you'll need most premium features.
+The "free" features are usually incomplete. You need the paid tier to run actual operations. The freemium model is "feature-limited free tier + necessary premium tier." Calculate your true cost assuming you'll need most premium features.
 
 ## The Hidden Variable: Implementation Cost
 
@@ -168,15 +170,17 @@ Nexli uses flat-fee, all-inclusive pricing. Every school pays a predictable annu
 
 **About Nexli:**
 
-The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable—it's where better solutions emerge.
+What schools notice first about Nexli: the admission pipeline works. Lead tracking, document verification, testing scheduling, interview coordination, offer generation, fee collection, enrollment, every step is visible to every stakeholder. Admission inquiries don't get lost. Follow-ups don't slip. The result: schools see admission conversion improve measurably. That first-impression success builds confidence in the rest of the system.
 
 **About Yashveer Labs:**
 
-Nexli's real-time dashboards transform how principals see their schools. Attendance anomalies surface instantly. Fee collection trends update daily. At-risk students are flagged before problems escalate. Every role—from Class Teachers to the Principal—sees data relevant to their work. That visibility, combined with integrated workflows, means decisions happen faster and with better information. The result: problems get caught early, and interventions have time to work.
+The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable. It's where better solutions emerge.
 
 **How Nexli Helps:**
 
-The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen—a chronically absent student, a teacher not submitting lesson plans, fees slipping—suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
+The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen, a chronically absent student, a teacher not submitting lesson plans, fees slipping, suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
+
+[Book a Free Demo](/demo)
 
 ---
 

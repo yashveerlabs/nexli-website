@@ -1,22 +1,21 @@
 ---
-title: How to Identify and Support Low-Performing Students Early
-slug: identify-support-low-performing-students
-meta_description: Early detection and intervention strategies for struggling students. Learn data-driven approaches to identify at-risk learners and provide targeted support.
-category: Academic Management & Teaching Excellence
-primary_keyword: low-performing students intervention
+title: "How to Identify and Support Low-Performing Students Early"
+slug: "114-identify-low-performing-students"
+meta_description: "Early detection and intervention strategies for struggling students. Learn data-driven approaches to identify at-risk learners and provide targeted support."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "low-performing students intervention"
 secondary_keywords:
-  - at-risk students
-  - student intervention
-  - early warning system
-  - remedial support
-intent: problem-solving
-author: Yashveer Labs
-date: 2026-06-19
+  - "at-risk students"
+  - "student intervention"
+  - "early warning system"
+  - "remedial support"
+intent: "problem-solving"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 Early detection of struggling students is critical. Schools using data-driven early warning systems report 50% higher completion rates and 35% improvement in struggling students' scores. This article provides a systematic approach to identify at-risk students by month 2 of school year and provide targeted support.
@@ -68,7 +67,7 @@ Early detection of struggling students is critical. Schools using data-driven ea
 **Create baseline report:**
 
 ```
-CLASS 8A — MONTH 1 BASELINE
+CLASS 8A, MONTH 1 BASELINE
 
 Total students: 45
 Early warning flags:
@@ -85,7 +84,7 @@ Action needed immediately: Yes
 **Track KPIs:**
 
 ```
-DECEMBER PROGRESS CHECK — CLASS 8A
+DECEMBER PROGRESS CHECK, CLASS 8A
 
 Student | Attendance | Test Avg | Homework | Teacher Notes | Status |
 ---------|-----------|----------|----------|---------------|--------|
@@ -195,7 +194,7 @@ Neha | 95% | 78% | 95% complete | Good progress | GREEN |
 **For each student:**
 
 ```
-INTERVENTION PLAN — RAMESH (CLASS 8A)
+INTERVENTION PLAN, RAMESH (CLASS 8A)
 
 Current Status:
 - Attendance: 60%
@@ -321,3 +320,6 @@ A: Document your communication and efforts. Continue supporting student at schoo
 ---
 
 **Co-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>**
+
+
+[Book a Free Demo](/demo)

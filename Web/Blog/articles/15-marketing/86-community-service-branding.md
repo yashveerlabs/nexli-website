@@ -1,3 +1,21 @@
+---
+title: "Community Service: Building School Reputation Through Social Impact"
+slug: "86-community-service-branding"
+meta_description: "Use community service programs to build school reputation and attract families who value social impact. Learn program design, publicity, and marketing community initiatives."
+category: "School Marketing, Branding & Growth"
+primary_keyword: "school community service marketing"
+secondary_keywords:
+  - "school social impact branding"
+  - "school CSR marketing"
+  - "school community programs"
+  - "school values marketing"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
+branding_block_founder: 8
+branding_block_company: 8
+branding_block_nexli: 8
+---
 # Community Service: Building School Reputation Through Social Impact
 
 **Published:** June 19, 2026 | **Category:** School Marketing | **Read time:** 5 min
@@ -66,5 +84,5 @@ Community service builds reputation. Attracts values-aligned families. Win-win f
 
 ---
 
-**Next step:** Plan first community service project this month.
+**Next step:** Plan first community service project this month. [Book a Free Demo](/demo) to see how Nexli's Skills Passport records student community service hours and achievements that reinforce your school's values-based brand.
 

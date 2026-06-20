@@ -1,22 +1,21 @@
 ---
-title: How to Conduct Meaningful Parent-Teacher Conferences
-slug: conduct-meaningful-parent-teacher-conferences
-meta_description: Guide to effective parent-teacher meetings that create partnerships. Learn preparation, data sharing, and goal-setting strategies.
-category: Academic Management & Teaching Excellence
-primary_keyword: parent-teacher conferences
+title: "How to Conduct Meaningful Parent-Teacher Conferences"
+slug: "117-parent-teacher-conferences"
+meta_description: "Guide to effective parent-teacher meetings that create partnerships. Learn preparation, data sharing, and goal-setting strategies."
+category: "Academic Management & Teaching Excellence"
+primary_keyword: "parent-teacher conferences"
 secondary_keywords:
-  - parent meetings
-  - student progress discussions
-  - school-home partnership
-  - conference best practices
-intent: how-to
-author: Yashveer Labs
-date: 2026-06-19
+  - "parent meetings"
+  - "student progress discussions"
+  - "school-home partnership"
+  - "conference best practices"
+intent: "how-to"
+author: "Yashveer Labs"
+date: "2026-06-19"
 branding_block_founder: 5
 branding_block_company: 5
 branding_block_nexli: 5
 ---
-
 ## Executive Summary
 
 Structured parent-teacher meetings improve school-home communication and student outcomes. Schools conducting data-driven conferences report 35% higher parent satisfaction and better student accountability.
@@ -81,3 +80,6 @@ Who does what? When? How do we track progress?
 ---
 
 **Co-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>**
+
+
+[Book a Free Demo](/demo)

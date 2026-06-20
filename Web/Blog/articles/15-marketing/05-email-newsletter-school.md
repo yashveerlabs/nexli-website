@@ -1,8 +1,8 @@
 ---
 title: "Email Newsletter for School Community: Building Engagement"
-slug: "email-newsletter-school-community"
+slug: "05-email-newsletter-school"
 meta_description: "Create effective email newsletters for parents and community. Learn content strategy, design, frequency, and how to grow your subscriber list."
-category: "School Marketing & Growth"
+category: "School Marketing, Branding & Growth"
 primary_keyword: "school email newsletter"
 secondary_keywords:
   - "parent communication"
@@ -16,7 +16,6 @@ branding_block_founder: 8
 branding_block_company: 8
 branding_block_nexli: 8
 ---
-
 ## Email Newsletter for School Community: Building Engagement
 
 **Email newsletters keep parents informed, build community, and drive admissions inquiries. This guide covers content strategy, design, frequency, and engagement tactics.**
@@ -109,9 +108,9 @@ branding_block_nexli: 8
 
 ---
 
-## Branding Block
+## How Nexli Supports School Communication
 
-Nexli's email integration makes newsletters easy to create and send.
+Nexli's Circulars and Announcements module lets staff publish targeted updates to parents by class, grade, or custom group, with delivery via SMS, WhatsApp, and the parent app. [Book a Free Demo](/demo) to see Nexli's communication tools in action.
 
 ---
 

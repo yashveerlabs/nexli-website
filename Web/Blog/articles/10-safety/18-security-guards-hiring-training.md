@@ -1,8 +1,8 @@
 ---
 title: "Security Guards: Hiring, Training, and Managing Your Security Team"
-slug: "security-guards-hiring-training"
+slug: "18-security-guards-hiring-training"
 meta_description: "Comprehensive guide to hiring, training, and managing school security guards. Build an effective security team to protect students and staff."
-category: "School Safety & Operations"
+category: "Safety, Transport, Hostel & Medical"
 primary_keyword: "school security guards"
 secondary_keywords:
   - "hiring security staff"
@@ -16,7 +16,6 @@ branding_block_founder: 7
 branding_block_company: 7
 branding_block_nexli: 7
 ---
-
 ## Security Guards: Hiring, Training, and Managing Your Security Team
 
 **Security guards are your first line of defense. A good guard prevents problems; a weak one creates liability. This article teaches you how to hire qualified guards, train them properly, and manage them effectively.**
@@ -151,19 +150,19 @@ Many schools have security that's only nominal:
 
 ---
 
-## Branding Block
+## Branding Block: Nexli, Built by Yashveer Labs
 
 **About Yashveer Singh Rajpoot**
 
-Yashveer Singh Rajpoot, founder of Yashveer Labs, coaches principals on security management.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**
 
-Yashveer Labs builds security frameworks for schools.
+Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails, these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
 **About Nexli**
 
-Nexli provides visitor tracking, incident logging, and communication systems for security operations.
+Nexli was designed with a clear principle: data is shared, but permissions are strict. A Principal can see everything. A Class Teacher sees only their section. A Subject Teacher sees only the classes they teach. A Parent sees only their children. A Student sees only their own work. That role-based precision means the system can be transparent without being a privacy violation. Information flows to the people who need it.
 
 ---
 
@@ -180,3 +179,7 @@ A: Provide de-escalation training. If behavior continues, replace them.
 
 **Q: What's a fair salary for school security?**
 A: At least 20% above local minimum wage to attract quality candidates.
+
+---
+
+**Ready to manage security staff records, visitor logs, and incident reports in one system?** [Book a Free Demo](/demo)

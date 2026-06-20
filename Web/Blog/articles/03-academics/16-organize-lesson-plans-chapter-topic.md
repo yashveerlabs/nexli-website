@@ -1,18 +1,21 @@
 ---
 title: "How Teachers Can Organize Lesson Plans by Chapter and Topic"
-slug: "organize-lesson-plans-chapter-topic"
+slug: "16-organize-lesson-plans-chapter-topic"
 meta_description: "Systematic approach to organizing lesson plans by curriculum structure."
-category: "3. Academic Management & Teaching Excellence"
+category: "Academic Management & Teaching Excellence"
 primary_keyword: "organize lesson plans"
-secondary_keywords: ["lesson organization", "curriculum structure", "lesson management", "teacher planning"]
+secondary_keywords:
+  - "lesson organization"
+  - "curriculum structure"
+  - "lesson management"
+  - "teacher planning"
 intent: "how-to"
 author: "Yashveer Labs"
 date: "2026-06-19"
-branding_block_founder: 1
-branding_block_company: 1
-branding_block_nexli: 1
+branding_block_founder: 8
+branding_block_company: 12
+branding_block_nexli: 10
 ---
-
 ## How Teachers Can Organize Lesson Plans by Chapter and Topic
 
 A teacher creates 180 lesson plans per year (one per school day). Without organization, they're scattered across documents, computers, and filing cabinets. The teacher needs to refer to last year's Class 9 Chapter 3 plan but can't find it. This wastes time and prevents continuous improvement.
@@ -22,7 +25,7 @@ A teacher creates 180 lesson plans per year (one per school day). Without organi
 Teachers struggle to organize lesson plans because:
 
 - **Multiple documents:** Plans exist as Word files, PDFs, photos, handwritten notes
-- **No consistent naming:** "Math Unit 1," "Chapter 3 Final," "Algebra Nov 2024"—no pattern
+- **No consistent naming:** "Math Unit 1," "Chapter 3 Final," "Algebra Nov 2024"-no pattern
 - **No searchability:** A teacher can't easily find "fractions lesson" across years
 - **Scattered across locations:** Files on the laptop, USB drive, hard copy folder, school drive
 - **No version control:** Is this the current version of the lesson or an old one?
@@ -251,7 +254,7 @@ When lesson plans are well-organized:
 
 ## About Nexli
 
-Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows—no code changes required. The system adapts to the school, not the other way around.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows-no code changes required. The system adapts to the school, not the other way around.
 
 ## About Yashveer Labs
 
@@ -265,7 +268,7 @@ Nexli includes a full Holistic Progress Card (HPC) implementation for NEP 2020 c
 
 ## Call to Action
 
-Organization transforms lesson plans from one-time creations into a cumulative asset. When lessons are systematically organized, accessible, and continuously refined, teaching becomes more effective every year. See how Nexli's centralized lesson library supports organized teaching. Book a free demo with Nexli.
+Organization transforms lesson plans from one-time creations into a cumulative asset. When lessons are systematically organized, accessible, and continuously refined, teaching becomes more effective every year. See how Nexli's centralized lesson library supports organized teaching. [Book a Free Demo](/demo)
 
 ---
 
