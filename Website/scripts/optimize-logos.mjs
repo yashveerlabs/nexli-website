@@ -2,9 +2,18 @@
 // Emblem -> 192x192 PNG (header, footer, favicon, apple-touch).
 // Full lockup -> 1200px JPEG for Open Graph / social cards + Organization JSON-LD.
 // Run: node scripts/optimize-logos.mjs
-import sharp from "sharp";
+// Requires `sharp` (not a declared project dependency — install with `npm i -D sharp`).
+// Loaded dynamically so a missing install surfaces an actionable message instead of an opaque ERR_MODULE_NOT_FOUND.
 import { readFileSync, rmSync, existsSync } from "node:fs";
 import { join } from "node:path";
+
+let sharp;
+try {
+  sharp = (await import("sharp")).default;
+} catch {
+  console.error("This script needs `sharp`. Install it first: npm i -D sharp");
+  process.exit(1);
+}
 
 const pub = join(import.meta.dirname, "..", "public");
 const j = (f) => join(pub, f);

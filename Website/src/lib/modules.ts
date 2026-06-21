@@ -239,7 +239,7 @@ export const MODULE_PAGES: ModulePage[] = [
       { title: "Structured messaging", desc: "Class-level announcements and structured parent-teacher communication, not open chat." },
       { title: "Child-safe by design", desc: "Direct student-to-student messaging is disabled by default as a child-safety measure." },
     ],
-    connects: ["attendance", "fees", "safety"],
+    connects: ["attendance", "fees", "medical-safety"],
     kb: "06-communication",
     faqs: [
       { q: "Can students message each other?", a: "No. Direct messaging between students is disabled by default as a child-safety policy. Communication is structured at the class and school level." },
@@ -269,7 +269,7 @@ export const MODULE_PAGES: ModulePage[] = [
       { title: "RFID boarding", desc: "Optional RFID boarding to record when a student boards the bus." },
       { title: "Transport fees", desc: "Transport fees and concessions handled through the same fee ledger." },
     ],
-    connects: ["fees", "attendance", "safety"],
+    connects: ["fees", "attendance", "medical-safety"],
     kb: "10-safety",
     faqs: [
       { q: "Does Nexli track buses live?", a: "Yes. Live GPS tracking shows bus location on a map (via OpenStreetMap) for the transport office to monitor and respond to delays." },
@@ -299,7 +299,7 @@ export const MODULE_PAGES: ModulePage[] = [
       { title: "Medical & counselling links", desc: "Boarders' health and counselling are connected to the same welfare records." },
       { title: "Parent communication", desc: "Keep parents of boarders informed through the same communication channels." },
     ],
-    connects: ["safety", "communication", "attendance"],
+    connects: ["medical-safety", "communication", "attendance"],
     kb: "10-safety",
     faqs: [
       { q: "Does Nexli handle roll-call?", a: "Yes. Both morning and night roll-call are recorded so the hostel always knows who is present." },

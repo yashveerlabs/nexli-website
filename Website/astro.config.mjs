@@ -11,7 +11,10 @@ export default defineConfig({
   // Placeholder only — never a real or Nexli-branded domain until the owner registers one.
   site: 'https://domain.com',
   trailingSlash: 'ignore',
-  integrations: [sitemap()],
+  // Keep noindex legal documents (refund + /legal/<doc> privacy/terms/etc., which set
+  // <meta robots="noindex">) OUT of the sitemap — listing a noindex URL sends crawlers
+  // a mixed signal. The /legal index hub is indexable and stays in.
+  integrations: [sitemap({ filter: (page) => !/\/legal\/[^/]+/.test(page) })],
   vite: {
     plugins: [tailwindcss()],
   },

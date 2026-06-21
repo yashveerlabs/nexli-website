@@ -160,7 +160,8 @@ const dueCount = CLASS_ROSTER.filter((s) => s.fees === "Due").length;
     const inputs = Array.from(document.querySelectorAll("[data-mark-input]"));
     const avgEl = document.querySelector("[data-marks-avg]");
     function recompute() {
-      const vals = inputs.map((i) => parseFloat(i.value)).filter((v) => !isNaN(v));
+      // Clamp to 0–25: the max/min attributes only guard steppers/validation, not free typing.
+      const vals = inputs.map((i) => Math.min(25, Math.max(0, parseFloat(i.value)))).filter((v) => !isNaN(v));
       if (avgEl) avgEl.textContent = vals.length ? (vals.reduce((a, b) => a + b, 0) / vals.length).toFixed(1) : "–";
     }
     inputs.forEach((i) => i.addEventListener("input", recompute));
