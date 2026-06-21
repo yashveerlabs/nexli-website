@@ -6,7 +6,7 @@
 > and how to run/build/refresh it. For deeper architecture detail, also open
 > `Website/CONTEXT.md` (next to this file).
 
-_Last updated: 2026-06-20._
+_Last updated: **2026-06-22**. Latest commit **`ed9d867`** on branch **`website`**._
 
 ---
 
@@ -21,7 +21,7 @@ static (~2,237 pages, the bulk being a Knowledge Base of ~2,092 articles).
 
 ### Where it lives & how to stay isolated (do not break these)
 - Work **only inside the `Website/` folder** at:
-  `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli-website\Website`
+  `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\Lets_Build\NEXLI\Nexli-website\Website`
 - It is a **separate git worktree**. Git root is `Nexli-website` (parent of
   `Website/`); the branch is **`website`**.
 - **Stage only `Website/`** when committing — `git add Website`. **Never
@@ -70,6 +70,15 @@ filled-in legal details (data fiduciary Yashveer Labs, DPO Yashveer Singh Rajpoo
 two-tier quote-based pricing; `og-share.png` share image; favicon
 `/logo-emblem.png`. See `Website/CONTEXT.md` §6 for the full list.
 
+**Last audit (2026-06-22, commit `ed9d867`):** a deep code review fixed 6 website
+issues — the dead `"safety"` module slug → `"medical-safety"` in
+`src/lib/modules.ts` (restores the Medical & Safety cross-link on the
+Communication/Transport/Hostel pages); noindex legal docs excluded from the sitemap
+(`astro.config.mjs` filter); `<html lang="en-IN">` in `BaseLayout.astro`; the marks
+demo clamped to 0–25 in `components/demo/TeacherDemo.astro`; and `sharp` declared as
+a devDependency + loaded via a guarded import in `scripts/optimize-logos.mjs`. Build
+re-verified green afterward (~2,237 pages).
+
 ### The only open items (both deliberate — not bugs)
 1. **Production domain** — still the `https://domain.com` placeholder. The owner is
    launching first (GitHub + Vercel) and will buy a domain after onboarding ~10–15
@@ -83,7 +92,7 @@ qualified Indian lawyer should review them before the school relies on them.
 
 ### How to run & build
 ```bash
-cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli-website/Website"
+cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/Lets_Build/NEXLI/Nexli-website/Website"
 npm install        # first time only
 npm run dev        # dev server → http://localhost:4321
 npm run build      # production build → Website/dist  (~2,237 pages)
@@ -102,7 +111,7 @@ The articles are a **snapshot** taken when the `website` branch was cut; the blo
 generator keeps adding/editing articles on `master` in the main `Nexli` repo. To
 pull newer content in:
 ```bash
-cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli-website"
+cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/Lets_Build/NEXLI/Nexli-website"
 git fetch                 # if master was updated elsewhere
 git merge master          # brings updated Web/Blog (+ legal) into the website branch
 cd Website

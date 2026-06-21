@@ -4,7 +4,18 @@
 > Read this first if you're a new session with no prior memory. For the current
 > finished state and the exact rules to follow, see **RESUME.md** next to this file.
 
-_Last updated: 2026-06-20._
+_Last updated: **2026-06-22**. Latest commit **`ed9d867`** on branch **`website`**._
+
+> **Status (2026-06-22):** the site is complete and the build is green (~2,237
+> pages). A deep code audit (covering the app and this site) fixed **6 website
+> issues** in `ed9d867`: a dead "safety" module slug in `src/lib/modules.ts` →
+> `"medical-safety"` (so the Communication/Transport/Hostel pages render their
+> Medical & Safety cross-link); noindex legal docs excluded from the sitemap
+> (`astro.config.mjs` filter); `<html lang="en-IN">`; the marks demo clamped to its
+> 0–25 max; and `sharp` declared as a devDependency + loaded via a guarded import in
+> `scripts/optimize-logos.mjs`. **Location note:** the repo moved to
+> `…/Lets_Build/NEXLI/` (older docs/paths below may still cite the previous
+> `…/My-Apps/…` path — the current root is `Lets_Build/NEXLI/Nexli-website`).
 
 ---
 
@@ -45,7 +56,7 @@ The site lives in a **separate git worktree** so its commits never collide with 
 concurrent blog-generator process that commits to `master` in the main repo.
 
 ```
-C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\
+C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\Lets_Build\NEXLI\
 ├─ Nexli\            ← main app repo (branch: master) — the blog process commits here
 └─ Nexli-website\    ← THIS worktree (branch: website) — git root
    ├─ Website\       ← the Astro site (ALL website work happens here)
