@@ -8,9 +8,9 @@ export const SITE = {
   tagline: "Bringing clarity to complexity",
   description:
     "Nexli is the School Operating System for modern education, bringing admissions, academics, attendance, fees, compliance, communication, safety, HR, transport, hostel and operations into a single platform.",
-  // TODO(owner): replace with the real production domain once registered.
-  // Intentionally a placeholder, never a real or Nexli-branded domain.
-  url: "https://domain.com",
+  // Production URL. Drives canonical URLs, sitemap, and OG tags. If a custom domain
+  // is added later, update here plus astro.config.mjs (site) and public/robots.txt.
+  url: "https://nexli-website.vercel.app",
   locale: "en_IN",
   company: "Yashveer Labs",
   founder: "Yashveer Singh Rajpoot",

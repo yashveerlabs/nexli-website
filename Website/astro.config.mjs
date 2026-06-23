@@ -7,9 +7,9 @@ import tailwindcss from '@tailwindcss/vite';
 // KB article bodies are sanitized as strings inside the custom loader
 // (src/lib/kb-loader.mjs) before rendering, so no global remark plugin is needed.
 export default defineConfig({
-  // TODO(owner): set to the real production domain — used for canonical URLs, sitemap, and OG tags.
-  // Placeholder only — never a real or Nexli-branded domain until the owner registers one.
-  site: 'https://domain.com',
+  // Production URL, used for canonical URLs, sitemap, and OG tags. Keep in sync with
+  // SITE.url (src/lib/site.ts) and public/robots.txt if a custom domain is added.
+  site: 'https://nexli-website.vercel.app',
   trailingSlash: 'ignore',
   // Keep noindex legal documents (refund + /legal/<doc> privacy/terms/etc., which set
   // <meta robots="noindex">) OUT of the sitemap — listing a noindex URL sends crawlers
