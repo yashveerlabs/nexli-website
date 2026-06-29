@@ -44,7 +44,7 @@ function clean(md) {
   // "subject to final legal review" notice.
   out = out.replace(
     /\[NEEDS YASHVEER:[^\]]*grievance[^\]]*\]/gi,
-    "Yashveer Singh Rajpoot, Founder and Data Protection & Grievance Officer, Yashveer Labs, reachable at yashveersr4@gmail.com or through our [Contact page](/contact)"
+    "Yashveer Singh, Founder and Data Protection & Grievance Officer, Yashveer Labs, reachable at yashveersr4@gmail.com or through our [Contact page](/contact)"
   );
   out = out.replace(/\[NEEDS YASHVEER:[^\]]*(?:city|jurisdiction)[^\]]*\]/gi, "New Delhi, India");
   out = out.replace(/\[NEEDS YASHVEER:[^\]]*\]/gi, "Yashveer Labs");

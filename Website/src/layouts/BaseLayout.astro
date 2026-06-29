@@ -4,6 +4,7 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import FloatingContact from "../components/FloatingContact.astro";
 import { SITE, OG_IMAGE, SAME_AS, FOUNDER_SAME_AS } from "../lib/site";
+import { ldJson } from "../lib/seo";
 
 interface Props {
   title?: string;
@@ -26,6 +27,10 @@ const extraJsonLd = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 const pageTitle = title ? `${title} · ${SITE.name}` : `${SITE.name}: The School Operating System`;
 const canonical = new URL(Astro.url.pathname, SITE.url).href;
 const ogImage = new URL(image, SITE.url).href;
+const ogImageType = /\.png$/i.test(image) ? "image/png" : "image/jpeg";
+// Dimensions are known only for the default share image (1200x675); emit them so
+// crawlers can lay out the card without fetching the file first.
+const isDefaultOg = image === OG_IMAGE;
 
 const orgJsonLd = {
   "@context": "https://schema.org",
@@ -54,6 +59,9 @@ const orgJsonLd = {
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="generator" content={Astro.generator} />
+    <!-- Mark JS as available before first paint so .reveal content (incl. the LCP
+         hero) is hidden only when JS can animate it back in; no-JS paints it. -->
+    <script is:inline>document.documentElement.classList.add("js");</script>
 
     <title>{pageTitle}</title>
     <meta name="description" content={description} />
@@ -71,6 +79,9 @@ const orgJsonLd = {
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={ogImage} />
+    <meta property="og:image:type" content={ogImageType} />
+    {isDefaultOg && <meta property="og:image:width" content="1200" />}
+    {isDefaultOg && <meta property="og:image:height" content="675" />}
     <meta property="og:image:alt" content={`${SITE.name}: ${SITE.tagline}`} />
     <meta property="og:locale" content={SITE.locale} />
 
@@ -89,9 +100,9 @@ const orgJsonLd = {
       href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap"
     />
 
-    <script type="application/ld+json" set:html={JSON.stringify(orgJsonLd)} is:inline />
+    <script type="application/ld+json" set:html={ldJson(orgJsonLd)} is:inline />
     {extraJsonLd.map((block) => (
-      <script type="application/ld+json" set:html={JSON.stringify(block)} is:inline />
+      <script type="application/ld+json" set:html={ldJson(block)} is:inline />
     ))}
   </head>
   <body>

@@ -13,7 +13,7 @@ export const SITE = {
   url: "https://domain.com",
   locale: "en_IN",
   company: "Yashveer Labs",
-  founder: "Yashveer Singh Rajpoot",
+  founder: "Yashveer Singh",
   founderTitle: "Founder & Lead Engineer",
   founded: "2026",
 };
@@ -24,7 +24,8 @@ export const COMPANY_FOUNDED = "January 2026";
 export const NEXLI_FOUNDED = "June 2026";
 
 // Default social-share image (shown on WhatsApp, LinkedIn, Facebook, X, etc.).
-export const OG_IMAGE = "/og-share.png";
+// 1200x675 JPEG (~140KB) so chat apps reliably render the preview thumbnail.
+export const OG_IMAGE = "/og-share.jpg";
 
 // --- Contact channels ---------------------------------------------------------
 // Instagram is the primary, always-on contact channel; email is the written
@@ -110,7 +111,7 @@ export const NAV: NavItem[] = [
     href: "/about",
     items: [
       { label: "About Nexli", href: "/about", desc: "The story and the philosophy", icon: "sparkle" },
-      { label: "Founder", href: "/founder", desc: "Yashveer Singh Rajpoot", icon: "hr" },
+      { label: "Founder", href: "/founder", desc: "Yashveer Singh", icon: "hr" },
       { label: "Careers", href: "/careers", desc: "Help build Nexli", icon: "admissions" },
       { label: "Contact", href: "/contact", desc: "Talk to us", icon: "communication" },
     ],
@@ -161,21 +162,10 @@ export const FOOTER_GROUPS: FooterGroup[] = [
   },
 ];
 
-// --- Module pillars (homepage grid) -------------------------------------------
-export const MODULES: { icon: string; title: string; desc: string }[] = [
-  { icon: "admissions", title: "Admissions", desc: "Enquiry to enrolment: online forms, document checks, and offer letters." },
-  { icon: "academics", title: "Academics", desc: "Timetables, lesson plans, exams, gradebooks, and report cards." },
-  { icon: "attendance", title: "Attendance", desc: "Daily, period-wise, and biometric attendance with instant alerts." },
-  { icon: "fees", title: "Fees & Finance", desc: "Fee plans, invoices, receipts, refunds, and a clean per-student ledger." },
-  { icon: "compliance", title: "Compliance", desc: "DPDP, POCSO, RTE, CBSE, and UDISE+, handled by design." },
-  { icon: "communication", title: "Communication", desc: "Announcements, notices, and parent messaging in one place." },
-  { icon: "safety", title: "Safety & Wellbeing", desc: "Incident logs, health records, counselling, and POCSO workflows." },
-  { icon: "hr", title: "HR & Payroll", desc: "Staff records, leave, payroll with PF / ESI / TDS, and payslips." },
-  { icon: "transport", title: "Transport", desc: "Routes, stops, live bus tracking, and driver / conductor tools." },
-  { icon: "hostel", title: "Hostel", desc: "Room allocation, roll-call, mess, gate-pass, and warden tools." },
-  { icon: "operations", title: "Operations", desc: "Library, certificates, visitors, assets, and facility management." },
-  { icon: "analytics", title: "Analytics", desc: "Live dashboards for every role, from the classroom to management." },
-];
+// Note: the homepage module grid now derives from MODULE_PAGES (modules.ts), the
+// same source as the Platform nav and the /platform/<slug> pages, so the two can
+// never drift. The old standalone MODULES pillar list was removed to keep one
+// source of truth (see components/home/Modules.astro).
 
 // --- Compliance highlights ----------------------------------------------------
 export const COMPLIANCE: { icon: string; title: string; desc: string }[] = [

@@ -14,22 +14,22 @@ _Last updated: **2026-06-22**. Latest commit **`ed9d867`** on branch **`website`
 
 You are resuming work on the **Nexli marketing website** — a finished **Astro 5 +
 Tailwind v4** static marketing site for **Nexli**, the School Operating System
-(cloud ERP) built by **Yashveer Labs**, founder **Yashveer Singh Rajpoot**. It is
+(cloud ERP) built by **Yashveer Labs**, founder **Yashveer Singh**. It is
 **positioned globally** ("for schools worldwide, with India-grade compliance at its
 core"). It is a separate codebase from the Nexli app: no backend, no auth, fully
 static (~2,237 pages, the bulk being a Knowledge Base of ~2,092 articles).
 
 ### Where it lives & how to stay isolated (do not break these)
 - Work **only inside the `Website/` folder** at:
-  `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\Lets_Build\NEXLI\Nexli-website\Website`
+  `C:\Users\yashv\Desktop\Yashveer Singh\Lets_Build\NEXLI\Nexli-website\Website`
 - It is a **separate git worktree**. Git root is `Nexli-website` (parent of
   `Website/`); the branch is **`website`**.
 - **Stage only `Website/`** when committing — `git add Website`. **Never
   `git add -A`.** Every commit in this project must touch only `Website/`.
-- Two source images sit at the git root (`Yashveer Singh Rajpoot.jpg`,
+- Two source images sit at the git root (`Yashveer Singh.jpg`,
   `nexli-preview-share.png`) and are intentionally **untracked — never stage
   them**; their processed copies are already committed at `Website/public/`
-  (`founder.jpg`, `og-share.png`).
+  (`founder.jpg`, `og-share.jpg`).
 - **Never edit** `../Web/Blog/`, `../articles/`, the `../legal` source drafts, or
   the Python generators — they are **read-only inputs**. The site reads them at
   build via relative paths.
@@ -65,9 +65,9 @@ SEO/title/desc/canonical/OG/Twitter/JSON-LD, no placeholders, no missing images,
 em-dashes). All real-world details from the owner interview are wired in:
 Instagram-only contact + email + location; 9 social links (footer + contact +
 `sameAs`); founder page with the real photo + Person JSON-LD + global framing;
-filled-in legal details (data fiduciary Yashveer Labs, DPO Yashveer Singh Rajpoot /
+filled-in legal details (data fiduciary Yashveer Labs, DPO Yashveer Singh /
 `yashveersr4@gmail.com`, Google Firebase sub-processor, New Delhi jurisdiction);
-two-tier quote-based pricing; `og-share.png` share image; favicon
+two-tier quote-based pricing; `og-share.jpg` share image; favicon
 `/logo-emblem.png`. See `Website/CONTEXT.md` §6 for the full list.
 
 **Last audit (2026-06-22, commit `ed9d867`):** a deep code review fixed 6 website
@@ -92,7 +92,7 @@ qualified Indian lawyer should review them before the school relies on them.
 
 ### How to run & build
 ```bash
-cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/Lets_Build/NEXLI/Nexli-website/Website"
+cd "C:/Users/yashv/Desktop/Yashveer Singh/Lets_Build/NEXLI/Nexli-website/Website"
 npm install        # first time only
 npm run dev        # dev server → http://localhost:4321
 npm run build      # production build → Website/dist  (~2,237 pages)
@@ -111,7 +111,7 @@ The articles are a **snapshot** taken when the `website` branch was cut; the blo
 generator keeps adding/editing articles on `master` in the main `Nexli` repo. To
 pull newer content in:
 ```bash
-cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/Lets_Build/NEXLI/Nexli-website"
+cd "C:/Users/yashv/Desktop/Yashveer Singh/Lets_Build/NEXLI/Nexli-website"
 git fetch                 # if master was updated elsewhere
 git merge master          # brings updated Web/Blog (+ legal) into the website branch
 cd Website

@@ -22,8 +22,8 @@ _Last updated: **2026-06-22**. Latest commit **`ed9d867`** on branch **`website`
 ## 1. What it is
 
 The public marketing website for **Nexli — the School Operating System for modern
-education**, a cloud ERP built by **Yashveer Labs** (founder **Yashveer Singh
-Rajpoot**, "Founder & Lead Engineer").
+education**, a cloud ERP built by **Yashveer Labs** (founder **Yashveer Singh**,
+"Founder & Lead Engineer").
 
 Positioning is **global**: Nexli is built for **schools worldwide, with
 India-grade compliance at its core**. The idea began from operational problems the
@@ -56,7 +56,7 @@ The site lives in a **separate git worktree** so its commits never collide with 
 concurrent blog-generator process that commits to `master` in the main repo.
 
 ```
-C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\Lets_Build\NEXLI\
+C:\Users\yashv\Desktop\Yashveer Singh\Lets_Build\NEXLI\
 ├─ Nexli\            ← main app repo (branch: master) — the blog process commits here
 └─ Nexli-website\    ← THIS worktree (branch: website) — git root
    ├─ Website\       ← the Astro site (ALL website work happens here)
@@ -71,9 +71,9 @@ C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\Lets_Build\NEXLI\
 - **COMMIT RULE (do not break):** stage **only** `Website/` — `git add Website`.
   **Never `git add -A`.** Every commit in this project touches only `Website/`.
   This is what keeps the website work isolated from the app + blog process.
-- Two source images for the site live at the **git root** (`Yashveer Singh
-  Rajpoot.jpg`, `nexli-preview-share.png`); their processed copies are committed
-  inside `Website/public/` (`founder.jpg`, `og-share.png`). The originals at the
+- Two source images for the site live at the **git root** (`Yashveer Singh.jpg`,
+  `nexli-preview-share.png`); their processed copies are committed
+  inside `Website/public/` (`founder.jpg`, `og-share.jpg`). The originals at the
   root are intentionally left untracked — **do not stage them.**
 - The build reads sibling folders by relative path: `../Web/Blog/articles`,
   `../Web/Blog/BRANDING_BLOCKS.md`, `../Web/Blog/NEXLI_FACTS.md`, `../legal`. These
@@ -152,7 +152,7 @@ Total: **~2,237 static pages** (the vast majority are KB articles).
   semantic landmarks, single H1 per page, reduced-motion handling).
 - **Primary CTA everywhere = "Book Free Live Demo"** (→ `/demo`); **secondary =
   Instagram**. Favicon/app icon = `/logo-emblem.png`. Social-share image =
-  `/og-share.png`.
+  `/og-share.jpg`.
 
 ---
 
@@ -180,13 +180,13 @@ owner-confirmed URLs appear — no placeholder or dead icons. Brand glyphs live 
   It Was Inevitable." Footer copyright **"© 2026 Yashveer Labs. All Rights
   Reserved."** plus "Made in India · Built for schools everywhere".
 - **Founder page** (`src/pages/founder.astro`) is SEO/entity-tuned so a search for
-  "Yashveer Singh Rajpoot" resolves him as **Founder of Yashveer Labs / Founder &
+  "Yashveer Singh" resolves him as **Founder of Yashveer Labs / Founder &
   Lead Engineer of Nexli**: real photo `public/founder.jpg`, Person JSON-LD
   (`jobTitle`, `worksFor`, `image`, `knowsAbout`, `sameAs` →
   LinkedIn/Instagram/X/GitHub/Medium). Bio uses the global framing above.
 
 **Legal details (filled in).** Data fiduciary **Yashveer Labs**; DPO & grievance
-officer **Yashveer Singh Rajpoot** (`yashveersr4@gmail.com`); **Google Firebase**
+officer **Yashveer Singh** (`yashveersr4@gmail.com`); **Google Firebase**
 named as the principal sub-processor; jurisdiction **New Delhi, India**. Resolved at
 render time by `src/lib/legal-loader.mjs` (the `../legal` source drafts are never
 edited). Pages still carry "subject to final legal review" — a qualified Indian
@@ -198,7 +198,7 @@ direct founder line, money-back) vs **Standard School** (priced by size, full
 platform). The exact number is "shared as a written quote" — **no rupee figures by
 design.**
 
-**Share image & domain.** `public/og-share.png` is wired into `og:image` /
+**Share image & domain.** `public/og-share.jpg` is wired into `og:image` /
 `twitter:image` site-wide (with alt). The production domain is intentionally the
 placeholder **`https://domain.com`** (see RESUME.md open items).
 

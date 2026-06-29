@@ -1,5 +1,6 @@
 ---
 // Injects one or more JSON-LD blocks. Pass a single object or an array.
+import { ldJson } from "../lib/seo";
 interface Props {
   schema: Record<string, any> | Record<string, any>[];
 }
@@ -7,5 +8,5 @@ const { schema } = Astro.props;
 const blocks = Array.isArray(schema) ? schema : [schema];
 ---
 {blocks.map((block) => (
-  <script type="application/ld+json" set:html={JSON.stringify(block)} is:inline />
+  <script type="application/ld+json" set:html={ldJson(block)} is:inline />
 ))}

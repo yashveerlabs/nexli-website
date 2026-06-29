@@ -42,10 +42,19 @@ const first = screens[0]?.id;
 
   <div class="grid gap-6 lg:grid-cols-[14rem_1fr]">
     <!-- Nav -->
-    <aside class="flex gap-2 overflow-x-auto pb-1 lg:flex-col lg:gap-1 lg:overflow-visible lg:pb-0">
+    <aside class="flex gap-2 overflow-x-auto pb-1 lg:flex-col lg:gap-1 lg:overflow-visible lg:pb-0" role="tablist" aria-label={`${title} screens`}>
       <p class="hidden px-1 pb-2 text-xs font-semibold uppercase tracking-[0.16em] text-ivory-faint lg:block">{title}</p>
-      {screens.map((s) => (
-        <button type="button" class="demo-nav-item shrink-0" data-screen-nav={s.id}>
+      {screens.map((s, i) => (
+        <button
+          type="button"
+          role="tab"
+          id={`tab-${s.id}`}
+          aria-controls={`panel-${s.id}`}
+          aria-selected={i === 0 ? "true" : "false"}
+          tabindex={i === 0 ? 0 : -1}
+          class="demo-nav-item shrink-0"
+          data-screen-nav={s.id}
+        >
           <Icon name={s.icon} size={17} class="text-gold" />
           <span class="whitespace-nowrap">{s.label}</span>
         </button>
@@ -69,20 +78,48 @@ const first = screens[0]?.id;
     const navs = Array.from(root.querySelectorAll("[data-screen-nav]"));
     const screens = Array.from(root.querySelectorAll("[data-screen]"));
     const ids = screens.map((s) => s.getAttribute("data-screen"));
+    // Wire each panel as a tabpanel labelled by its tab (kept in JS so the six
+    // role components don't each have to repeat the ARIA plumbing).
+    screens.forEach((s) => {
+      const sid = s.getAttribute("data-screen");
+      s.setAttribute("role", "tabpanel");
+      s.setAttribute("id", "panel-" + sid);
+      s.setAttribute("aria-labelledby", "tab-" + sid);
+      s.setAttribute("tabindex", "0");
+    });
     function show(id) {
       if (!ids.includes(id)) id = root.getAttribute("data-first");
       screens.forEach((s) => (s.hidden = s.getAttribute("data-screen") !== id));
-      navs.forEach((n) => n.classList.toggle("is-active", n.getAttribute("data-screen-nav") === id));
+      navs.forEach((n) => {
+        const active = n.getAttribute("data-screen-nav") === id;
+        n.classList.toggle("is-active", active);
+        n.setAttribute("aria-selected", String(active));
+        n.tabIndex = active ? 0 : -1;
+      });
     }
-    navs.forEach((n) =>
+    navs.forEach((n, idx) => {
       n.addEventListener("click", () => {
         const id = n.getAttribute("data-screen-nav");
         show(id);
         history.replaceState(null, "", "#" + id);
         const top = root.getBoundingClientRect().top + window.scrollY - 84;
         window.scrollTo({ top, behavior: "smooth" });
-      })
-    );
+      });
+      // Roving-focus arrow-key navigation, per the WAI-ARIA tabs pattern.
+      n.addEventListener("keydown", (e) => {
+        let t = -1;
+        if (e.key === "ArrowRight" || e.key === "ArrowDown") t = (idx + 1) % navs.length;
+        else if (e.key === "ArrowLeft" || e.key === "ArrowUp") t = (idx - 1 + navs.length) % navs.length;
+        else if (e.key === "Home") t = 0;
+        else if (e.key === "End") t = navs.length - 1;
+        if (t < 0) return;
+        e.preventDefault();
+        const tid = navs[t].getAttribute("data-screen-nav");
+        show(tid);
+        navs[t].focus();
+        history.replaceState(null, "", "#" + tid);
+      });
+    });
     show(location.hash.slice(1) || root.getAttribute("data-first"));
   })();
 </script>

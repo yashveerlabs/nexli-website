@@ -18,7 +18,9 @@
 
   --color-ivory: #f7f2e8;
   --color-ivory-muted: #b4afa4;
-  --color-ivory-faint: #6d6a62;
+  /* Lightened from #6d6a62 (~3.7:1) to clear WCAG AA 4.5:1 on every dark surface
+     (now 5.4-6.1:1) while staying visibly dimmer than ivory-muted. */
+  --color-ivory-faint: #928d82;
 
   --color-line: #221f1a;
 
@@ -152,7 +154,11 @@ a { color: inherit; text-decoration: none; }
 }
 
 /* ---- Reveal on scroll ---- */
-.reveal { opacity: 0; transform: translateY(20px); transition: opacity 0.7s ease, transform 0.7s ease; }
+/* The hidden state is gated behind `.js` (set in <head> before paint) so that with
+   JS disabled or stalled the content, including the above-the-fold LCP hero, paints
+   immediately instead of being stuck at opacity:0. */
+.reveal { transition: opacity 0.7s ease, transform 0.7s ease; }
+.js .reveal { opacity: 0; transform: translateY(20px); }
 .reveal.is-visible { opacity: 1; transform: none; }
 .reveal-1 { transition-delay: 0.06s; }
 .reveal-2 { transition-delay: 0.12s; }

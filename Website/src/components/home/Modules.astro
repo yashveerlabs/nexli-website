@@ -1,6 +1,10 @@
 ---
 import Icon from "../Icon.astro";
-import { MODULES } from "../../lib/site";
+// Derive the homepage grid from the same source of truth as the Platform nav and
+// the /platform/<slug> pages, so the two can never drift and every card links to a
+// real module page (previously a hand-kept MODULES list advertised modules, e.g.
+// Operations/Analytics, that had no destination page).
+import { MODULE_PAGES } from "../../lib/modules";
 ---
 <section id="platform" class="section">
   <div class="container-nx">
@@ -16,17 +20,20 @@ import { MODULES } from "../../lib/site";
     </div>
 
     <div class="mt-14 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-      {MODULES.map((m) => (
-        <article class="card reveal">
-          <div
-            class="inline-flex h-11 w-11 items-center justify-center rounded-xl border border-line text-gold"
-            style="background:rgba(198,165,92,0.06)"
-          >
-            <Icon name={m.icon} size={21} />
+      {MODULE_PAGES.map((m) => (
+        <a href={`/platform/${m.slug}`} class="card group reveal flex flex-col">
+          <div class="flex items-start justify-between gap-3">
+            <div
+              class="inline-flex h-11 w-11 items-center justify-center rounded-xl border border-line text-gold"
+              style="background:rgba(198,165,92,0.06)"
+            >
+              <Icon name={m.icon} size={21} />
+            </div>
+            <Icon name="arrow-right" size={17} class="text-ivory-faint transition-all group-hover:translate-x-1 group-hover:text-gold" />
           </div>
-          <h3 class="mt-5 text-lg text-ivory">{m.title}</h3>
-          <p class="mt-2 text-sm leading-relaxed text-ivory-muted">{m.desc}</p>
-        </article>
+          <h3 class="mt-5 text-lg text-ivory transition-colors group-hover:text-gold-200">{m.nav}</h3>
+          <p class="mt-2 text-sm leading-relaxed text-ivory-muted">{m.summary}</p>
+        </a>
       ))}
     </div>
   </div>
