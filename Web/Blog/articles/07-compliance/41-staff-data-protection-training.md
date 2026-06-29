@@ -110,7 +110,7 @@ Nexli tracks staff data protection training records, sends reminders when annual
 
 **About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. Compliance is built into how Nexli operates.
 
-**About Yashveer Labs:** Training records matter in a regulatory inquiry. Yashveer Singh Rajpoot built Nexli to log every compliance training completion automatically. When a regulator asks whether staff were trained, the answer is in the system with timestamps and attendance records.
+**About Yashveer Labs:** Training records matter in a regulatory inquiry. Yashveer Singh built Nexli to log every compliance training completion automatically. When a regulator asks whether staff were trained, the answer is in the system with timestamps and attendance records.
 
 **How Nexli Helps:** Yashveer Labs treats staff training as part of the security architecture. Role-based access means a staff member without training clearance cannot access sensitive records even if they wanted to. Defense is layered: policy, training, and technical controls working together.
 

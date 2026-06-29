@@ -76,7 +76,7 @@ Nexli's HR module tracks medical fitness certificate dates for staff. The compli
 
 **About Nexli:** Nexli tracks medical fitness certificate validity for all staff with expiry alerts. HR compliance is visible in one dashboard, with no need for manual tracking.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's HR module to track all staff compliance requirements: police verification, qualifications, training, and medical fitness. The system shows what is current and what needs renewal.
+**About Yashveer Labs:** Yashveer Singh built Nexli's HR module to track all staff compliance requirements: police verification, qualifications, training, and medical fitness. The system shows what is current and what needs renewal.
 
 **How Nexli Helps:** Yashveer Labs invests in HR compliance tracking because certificate renewals that lapse create compliance gaps. Automated expiry alerts mean schools stay current without HR manually tracking hundreds of certificates.
 

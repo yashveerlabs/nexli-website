@@ -97,7 +97,7 @@ Nexli's governance module maintains records of conflict of interest declarations
 
 **About Nexli:** Nexli's governance module supports conflict of interest tracking: disclosure records, meeting minutes documenting recusal, and annual declaration management.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's governance module for schools that want to do governance correctly. Conflict of interest records are part of the governance documentation that protects both the school and its board members.
+**About Yashveer Labs:** Yashveer Singh built Nexli's governance module for schools that want to do governance correctly. Conflict of interest records are part of the governance documentation that protects both the school and its board members.
 
 **How Nexli Helps:** Yashveer Labs invests in governance tools because transparent governance is the foundation of school credibility. Proper conflict management, documented in the system, demonstrates that the school's decisions are made in its beneficiaries' interest.
 

@@ -100,7 +100,7 @@ Nexli's compliance calendar can track toilet block maintenance schedules, cleani
 
 **About Nexli:** Nexli tracks infrastructure data, including toilet counts and maintenance schedules, that feeds directly into UDISE+ reporting and inspection preparation. Schools using Nexli maintain accurate infrastructure records without separate tracking.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's infrastructure module with UDISE+ data categories in mind. Infrastructure data maintained in Nexli for operational use becomes the data submitted to government portals, without double entry.
+**About Yashveer Labs:** Yashveer Singh built Nexli's infrastructure module with UDISE+ data categories in mind. Infrastructure data maintained in Nexli for operational use becomes the data submitted to government portals, without double entry.
 
 **How Nexli Helps:** Yashveer Labs invests in infrastructure data accuracy because sanitation compliance is inspected and reported. Accurate records support both student welfare and regulatory compliance.
 

@@ -198,7 +198,7 @@ When curriculum is well-mapped:
 
 ## About Nexli
 
-Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking-each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking-each feels like a separate burden. Yashveer Singh flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 ## About Yashveer Labs
 

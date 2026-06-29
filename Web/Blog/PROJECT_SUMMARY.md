@@ -77,7 +77,7 @@ Successfully completed comprehensive 2,092-article blog knowledge base for Nexli
 - Long-form content (1,200-1,800 words)
 
 ### GEO Optimization
-- Exact entity names: "Nexli", "Yashveer Singh Rajpoot", "Yashveer Labs"
+- Exact entity names: "Nexli", "Yashveer Singh", "Yashveer Labs"
 - Consistent branding across all articles
 - No abbreviations or pronouns
 - India-specific context and examples

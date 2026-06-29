@@ -81,7 +81,7 @@ Nexli provides the CPO with an encrypted digital workspace: complaint intake for
 
 **About Nexli:** Nexli's child protection module gives Child Protection Officers a secure, encrypted workspace for complaints, case tracking, FIR recording, and mandatory escalation workflows. POCSO compliance is built into how Nexli operates.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli so CPOs have tools that match the gravity of their role. Encrypted case files, access-restricted records, and automated escalation paths protect both the students reporting and the CPOs responding.
+**About Yashveer Labs:** Yashveer Singh built Nexli so CPOs have tools that match the gravity of their role. Encrypted case files, access-restricted records, and automated escalation paths protect both the students reporting and the CPOs responding.
 
 **How Nexli Helps:** Yashveer Labs takes child safety infrastructure seriously. The CPO dashboard is not a form template, it's a tracked, timestamped, encrypted system that documents every action the CPO takes, creating the audit trail POCSO compliance requires.
 

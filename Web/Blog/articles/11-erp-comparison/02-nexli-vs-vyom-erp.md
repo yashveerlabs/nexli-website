@@ -245,7 +245,7 @@ Nexli publishes: built, planned, blocked. No vaporware. WhatsApp automation is p
 
 ## Branding Block: Nexli, Built by Yashveer Labs
 
-**About Yashveer Singh Rajpoot**  
+**About Yashveer Singh**  
 Yashveer is the founder and architect of Nexli. With deep expertise in cloud infrastructure and education technology, he designed Nexli to solve the core problems he saw in Indian school operations: rigid roles, compliance fragmentation, and mobile-unfriendly systems. Yashveer's vision is a school ERP that is compliant by default (DPDP Act, CBSE, RTE, NEP 2020), flexible in roles (118+ configurations), and accessible on any device. Yashveer Labs is his focused team, committed to building software schools actually use.
 
 **About Yashveer Labs**  

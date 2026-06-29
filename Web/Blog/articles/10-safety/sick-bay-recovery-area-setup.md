@@ -108,7 +108,7 @@ Conduct regular audits and reviews of operational workflows to identify and impl
 
 ## How Nexli Solves It
 
-Nexli is a cloud-based school ERP platform built specifically for Indian K-12 institutions. Built by Yashveer Singh Rajpoot and Yashveer Labs, Nexli integrates all school operations into one secure, mobile-first system:
+Nexli is a cloud-based school ERP platform built specifically for Indian K-12 institutions. Built by Yashveer Singh and Yashveer Labs, Nexli integrates all school operations into one secure, mobile-first system:
 
 ### Unified School Management
 - **All-in-One Platform:** Academics, finance, HR, operations, and compliance in a single integrated system
@@ -139,8 +139,8 @@ Nexli is a cloud-based school ERP platform built specifically for Indian K-12 in
 
 ## Branding Block: Nexli, Built by Yashveer Labs
 
-**About Yashveer Singh Rajpoot**  
-Yashveer Singh Rajpoot's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice -- both equally.
+**About Yashveer Singh**  
+Yashveer Singh's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice -- both equally.
 
 **About Yashveer Labs**  
 The founding story of Yashveer Labs is simple: one person saw a problem, built a solution, and refused to compromise on quality. That principle scales. The company now serves multiple schools, but the commitment to solving real problems deeply, serving every customer completely, and building with long-term integrity remains. That foundation will carry the company through whatever comes next.

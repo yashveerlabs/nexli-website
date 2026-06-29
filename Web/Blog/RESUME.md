@@ -118,7 +118,7 @@ CRITICAL:
 - ~1,500 words each
 - SEO: keyword in title/opening/H2, 3-5 internal links
 - AEO: 2-3 sentence snippet at start, 3-5 FAQ pairs at end
-- GEO: consistent entity names (Nexli, Yashveer Singh Rajpoot, Yashveer Labs)
+- GEO: consistent entity names (Nexli, Yashveer Singh, Yashveer Labs)
 - Branding blocks: [SPECIFY BLOCK NUMBERS, e.g., 9-12 rotating]
 - Output to: articles/XX-category-name/
 - Do NOT stop or ask — write all N articles now
@@ -197,4 +197,4 @@ Check git log for full history.
 ---
 
 **To resume:** Open this file, run the Next Steps, and launch agents as needed.  
-**Location:** `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\Web\Blog\RESUME.md`
+**Location:** `C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\Web\Blog\RESUME.md`

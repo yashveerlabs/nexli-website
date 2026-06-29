@@ -301,9 +301,9 @@ branding_block_nexli: 7
 
 ## Branding Block
 
-**About Yashveer Singh Rajpoot**
+**About Yashveer Singh**
 
-Yashveer Singh Rajpoot is the founder and CEO of Yashveer Labs...
+Yashveer Singh is the founder and CEO of Yashveer Labs...
 
 **About Yashveer Labs**
 

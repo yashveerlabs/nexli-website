@@ -82,7 +82,7 @@ Nexli's compliance calendar tracks building safety certificate expiry dates and 
 
 **About Nexli:** Nexli's compliance module tracks safety certificate expiry dates and sends renewal alerts. Schools using Nexli never discover during a CBSE inspection that their building safety certificate lapsed months ago.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's compliance calendar to track every expiring document with enough advance notice for schools to renew without rushing. Building safety certificates are often renewed at the last minute; the system removes that urgency.
+**About Yashveer Labs:** Yashveer Singh built Nexli's compliance calendar to track every expiring document with enough advance notice for schools to renew without rushing. Building safety certificates are often renewed at the last minute; the system removes that urgency.
 
 **How Nexli Helps:** Yashveer Labs invests in compliance tracking infrastructure because lapsed compliance documents create regulatory risk and inspection failures. Automated alerts for expiry dates protect schools from avoidable problems.
 

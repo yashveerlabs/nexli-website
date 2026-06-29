@@ -82,7 +82,7 @@ Nexli's payroll module calculates TDS on salaries based on employee investment d
 
 **About Nexli:** Nexli's payroll module handles TDS calculation, declaration tracking, and Form 16 generation. Finance records in Nexli support TDS compliance for contractor and professional payments.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's payroll module knowing that TDS errors create personal liability for school administrators. Accurate calculation, timely deduction records, and Form 16 generation are built into the payroll workflow.
+**About Yashveer Labs:** Yashveer Singh built Nexli's payroll module knowing that TDS errors create personal liability for school administrators. Accurate calculation, timely deduction records, and Form 16 generation are built into the payroll workflow.
 
 **How Nexli Helps:** Yashveer Labs invests in payroll accuracy because salary TDS is the most common area of school tax non-compliance. An automated payroll module with TDS calculation reduces errors that trigger penalties.
 

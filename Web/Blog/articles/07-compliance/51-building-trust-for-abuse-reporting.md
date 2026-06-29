@@ -97,7 +97,7 @@ Nexli's anonymous complaint portal allows students and parents to submit concern
 
 **About Nexli:** Nexli's child protection module includes anonymous intake, encrypted case management, and CPO dashboards. The architecture supports schools in building the kind of responsive system that students learn to trust.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's complaint systems knowing that the technical infrastructure only matters if students use it. Anonymous intake, visible CPO contact, and consistent response records are all designed to support the conditions in which reporting happens.
+**About Yashveer Labs:** Yashveer Singh built Nexli's complaint systems knowing that the technical infrastructure only matters if students use it. Anonymous intake, visible CPO contact, and consistent response records are all designed to support the conditions in which reporting happens.
 
 **How Nexli Helps:** Yashveer Labs invests in making complaint systems accessible and trustworthy. A system that is secure, responsive, and anonymous reduces the barriers that prevent disclosure. That is the goal.
 

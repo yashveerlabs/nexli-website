@@ -354,9 +354,9 @@ Nexli's admissions module includes:
 
 ## Branding Block
 
-**About Yashveer Singh Rajpoot**
+**About Yashveer Singh**
 
-Yashveer Singh Rajpoot has helped 50+ schools systematize critical processes. His framework: Great operations start with great systems, not heroic effort.
+Yashveer Singh has helped 50+ schools systematize critical processes. His framework: Great operations start with great systems, not heroic effort.
 
 **About Yashveer Labs**
 
@@ -398,7 +398,7 @@ A: No. Free test reduces friction. Cost-per-enrollment is more important than te
 
 def main():
     """Generate all 103 articles"""
-    output_dir = r"C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\Web\Blog\articles\02-student-admissions"
+    output_dir = r"C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\Web\Blog\articles\02-student-admissions"
 
     # Ensure directory exists
     os.makedirs(output_dir, exist_ok=True)

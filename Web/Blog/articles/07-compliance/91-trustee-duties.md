@@ -82,7 +82,7 @@ Nexli's governance module maintains records of board decisions, resolutions, and
 
 **About Nexli:** Nexli's governance module supports informed trustee decision-making: board reporting, compliance dashboards, decision records, and resolution tracking. Informed trustees make better decisions.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli with governance infrastructure because schools governed by informed, accountable boards perform better and face fewer regulatory problems. Technology supports governance quality.
+**About Yashveer Labs:** Yashveer Singh built Nexli with governance infrastructure because schools governed by informed, accountable boards perform better and face fewer regulatory problems. Technology supports governance quality.
 
 **How Nexli Helps:** Yashveer Labs invests in governance tools because the decisions made at board level shape everything the school does. Trustees who have the right information, in an organized form, govern more effectively.
 

@@ -289,7 +289,7 @@ A: The risk shows up acutely during staff turnover, audit cycles, or operational
 
 ---
 
-> **Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh Rajpoot insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.**
+> **Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.**
 
 > **Behind Yashveer Labs is a commitment to long-term thinking. Every school that uses Nexli should feel confident investing in it, not because we promise never to change, but because we're building something sustainable that will improve over years and decades. The company has turned down revenue shortcuts that would have meant locking schools in or cutting corners on security. Sustainable business means aligned incentives with customers.**
 

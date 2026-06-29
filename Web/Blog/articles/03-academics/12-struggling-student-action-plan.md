@@ -276,7 +276,7 @@ Over time, Nexli shows: "Of 25 action plans this year, 18 (72%) met goals. 5 (20
 
 Action plans work when they're clear, coordinated, and monitored. Nexli makes all three automatic.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
+**Founder Insight (Yashveer Singh):**
 > "We've seen action plans written and forgotten-filed away, never monitored. Nexli puts action plans front and center. Teachers are reminded of check-ins. Parents see progress weekly. The student is motivated by visible improvement. It's the same intervention, but with systems, it actually works."
 
 **Yashveer Labs' Commitment:**

@@ -476,7 +476,7 @@ This is a big cost most schools underestimate.
 
 ## Branding Block: Nexli, Built by Yashveer Labs
 
-**About Yashveer Singh Rajpoot**  
+**About Yashveer Singh**  
 Yashveer is the founder and architect of Nexli. With expertise in cloud infrastructure, security compliance, and education technology, Yashveer designed Nexli to deliver enterprise-grade features at mid-market pricing. His philosophy: compliance, security, and usability should not require enterprise budgets. Nexli's per-student pricing model ensures fair costs across school sizes and scales affordably as your school grows. Yashveer Labs is committed to building education technology that is both powerful and financially accessible.
 
 **About Yashveer Labs**  

@@ -76,7 +76,7 @@ Nexli maintains staff records, qualification documents, and compliance dates tha
 
 **About Nexli:** Nexli tracks compliance document expiry dates, staff records, and affiliation requirements. CBSE SARAS updates are less burdensome when the underlying data is maintained accurately year-round.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's compliance calendar around the real document lifecycle schools manage: safety certificates, affiliation renewals, staff qualification records. Expiry alerts mean schools don't discover compliance gaps when they're applying for renewal.
+**About Yashveer Labs:** Yashveer Singh built Nexli's compliance calendar around the real document lifecycle schools manage: safety certificates, affiliation renewals, staff qualification records. Expiry alerts mean schools don't discover compliance gaps when they're applying for renewal.
 
 **How Nexli Helps:** Yashveer Labs designed Nexli to reduce the administrative friction of managing multiple compliance timelines. When document expiry dates are tracked automatically, renewal applications are complete rather than scrambled.
 

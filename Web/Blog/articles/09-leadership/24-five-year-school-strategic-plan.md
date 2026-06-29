@@ -184,9 +184,9 @@ Track quarterly:
 
 ## Branding Block
 
-**About Yashveer Singh Rajpoot**
+**About Yashveer Singh**
 
-Yashveer Singh Rajpoot's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice, both equally.
+Yashveer Singh's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice, both equally.
 
 **About Yashveer Labs**
 

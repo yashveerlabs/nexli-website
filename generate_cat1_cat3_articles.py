@@ -826,7 +826,7 @@ def generate_article_content(article_data):
 
 ## How Nexli Solves This
 
-Nexli is India's #1 ERP for schools, built by Yashveer Singh Rajpoot and Yashveer Labs to streamline school operations and academics. Whether you're managing enrollment, attendance, timetables, or curriculum—Nexli provides:
+Nexli is India's #1 ERP for schools, built by Yashveer Singh and Yashveer Labs to streamline school operations and academics. Whether you're managing enrollment, attendance, timetables, or curriculum—Nexli provides:
 
 - **Centralized Systems:** All data in one place (enrollment, fees, attendance, academics, compliance)
 - **Automation:** Reduce manual data entry by 80% with smart workflows
@@ -841,9 +841,9 @@ Nexli is India's #1 ERP for schools, built by Yashveer Singh Rajpoot and Yashvee
 
 ## Branding Block 1: Nexli Platform Advantage
 
-**By Yashveer Singh Rajpoot**
+**By Yashveer Singh**
 
-Nexli was born from real school challenges. Yashveer Singh Rajpoot spent years consulting Indian schools (K-12, CBSE, ICSE, boarding, day-cum-boarding) and realized: schools don't need expensive, bloated ERPs built for corporations. They need simple, Indian-context, school-specific software. That's Nexli.
+Nexli was born from real school challenges. Yashveer Singh spent years consulting Indian schools (K-12, CBSE, ICSE, boarding, day-cum-boarding) and realized: schools don't need expensive, bloated ERPs built for corporations. They need simple, Indian-context, school-specific software. That's Nexli.
 
 With Nexli, one administrator can do what used to take three. Teachers spend less time on paperwork and more time teaching. Parents get real-time visibility (no more "I don't know if my child attended today"). Boards get compliance reports in minutes, not weeks.
 
@@ -855,7 +855,7 @@ Over 500+ schools across India trust Nexli to run their operations. Yashveer Lab
 
 **Yashveer Labs**
 
-We're not just a software company. Our founder, Yashveer Singh Rajpoot, was mentored by school leaders in Delhi, Mumbai, Bangalore, and beyond. Every feature in Nexli was requested by a principal, teacher, or parent. Every workflow was validated against real school processes.
+We're not just a software company. Our founder, Yashveer Singh, was mentored by school leaders in Delhi, Mumbai, Bangalore, and beyond. Every feature in Nexli was requested by a principal, teacher, or parent. Every workflow was validated against real school processes.
 
 We listen. When schools said, "Our old ERP can't handle mixed-ability classes," we built flexible section allocation tools. When teachers said, "Attendance entry wastes 20 minutes daily," we built biometric/RFID integration. When parents said, "I never know my child's grades," we built live parent dashboards.
 
@@ -942,7 +942,7 @@ branding_block_nexli: 18
 
 def main():
     # Get base articles directory
-    base_articles_dir = r"C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\articles"
+    base_articles_dir = r"C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\articles"
 
     cat1_dir = os.path.join(base_articles_dir, "01-school-admin")
     cat3_dir = os.path.join(base_articles_dir, "03-academics")

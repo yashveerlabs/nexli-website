@@ -93,7 +93,7 @@ Nexli maintains a staff compliance register where background verification status
 
 **About Nexli:** Nexli includes staff compliance tracking as part of its HR module: background verification status, qualification records, and training completion. Schools using Nexli maintain a complete, audit-ready staff compliance record.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's HR module so staff compliance is tracked continuously, not reviewed once and forgotten. Alerts for expiring verifications and missing certifications mean nothing falls through the cracks between hiring and the next inspection.
+**About Yashveer Labs:** Yashveer Singh built Nexli's HR module so staff compliance is tracked continuously, not reviewed once and forgotten. Alerts for expiring verifications and missing certifications mean nothing falls through the cracks between hiring and the next inspection.
 
 **How Nexli Helps:** Yashveer Labs treats staff compliance as part of student safety infrastructure. A school that can demonstrate every staff member was verified, qualified, and trained is a school that has done its due diligence.
 

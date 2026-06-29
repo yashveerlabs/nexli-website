@@ -94,7 +94,7 @@ Nexli's compliance calendar tracks electrical inspection dates and maintenance r
 
 **About Nexli:** Nexli tracks electrical inspection dates and compliance certificate validity as part of its infrastructure compliance module. Schools maintain continuous electrical safety compliance records without manual tracking.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's compliance tracking to cover the full range of school infrastructure compliance. Electrical safety sits alongside fire safety, structural safety, and water safety in the same system.
+**About Yashveer Labs:** Yashveer Singh built Nexli's compliance tracking to cover the full range of school infrastructure compliance. Electrical safety sits alongside fire safety, structural safety, and water safety in the same system.
 
 **How Nexli Helps:** Yashveer Labs invests in infrastructure compliance tracking because electrical safety inspection lapse is easy to overlook when managing a complex school. Automated alerts prevent lapse.
 

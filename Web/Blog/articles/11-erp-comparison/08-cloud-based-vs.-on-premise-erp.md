@@ -129,8 +129,8 @@ A: It is declining. Most new school ERP deployments in India are cloud-based. Bu
 
 ---
 
-**About Yashveer Singh Rajpoot**
-The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
+**About Yashveer Singh**
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 **About Yashveer Labs**
 Yashveer Labs is built around one philosophy: complex systems should be transparent, not opaque. In every project, from Nexli to future platforms, the company starts by asking "What's actually broken here?" and "Why do smart people put up with this?" The answers reveal where technology can genuinely help. Yashveer Labs doesn't build features because they're trendy. It builds features because they solve real problems that schools face today.

@@ -4,14 +4,14 @@
 
 ---
 
-You are taking over development of **NEXLI**, a premium, **mobile-first School Operating System** for Indian K-12 schools — a multi-tenant SaaS with a platform **Super Admin** layer above isolated per-school tenants. This is NOT a generic admin/ERP template. The quality bar is **Apple-Enterprise / Linear / Stripe**, in an **Obsidian + Gold + Ivory** identity, flawless mobile-first (320→1920px, no horizontal scroll, 60fps on 5-year-old Android), WCAG 2.1 AA. The project is **approved and actively under construction** in `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\Web`.
+You are taking over development of **NEXLI**, a premium, **mobile-first School Operating System** for Indian K-12 schools — a multi-tenant SaaS with a platform **Super Admin** layer above isolated per-school tenants. This is NOT a generic admin/ERP template. The quality bar is **Apple-Enterprise / Linear / Stripe**, in an **Obsidian + Gold + Ivory** identity, flawless mobile-first (320→1920px, no horizontal scroll, 60fps on 5-year-old Android), WCAG 2.1 AA. The project is **approved and actively under construction** in `C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\Web`.
 
 ## STEP 1 — Read these first, in this exact order
-1. `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\Web\context\LATEST_CONTEXT.md` — the canonical current project state (read fully).
-2. `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\NEXLI_MASTER_SPECIFICATION.md` — the business source of truth (~50 roles, ~40 modules, §12 Super Admin, §13 import, §14 tech).
-3. `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\Web\context\MODULE_STATUS.md` — the living module tracker (what's done / in-progress / pending, with %).
-4. `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\Web\docs\CONVENTIONS.md` — the engineering build contract (spine APIs, UI kit, feature-module layout, DOD).
-5. `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\Web\docs\QUALITY_REVIEW.md` — the module completion gate.
+1. `C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\Web\context\LATEST_CONTEXT.md` — the canonical current project state (read fully).
+2. `C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\NEXLI_MASTER_SPECIFICATION.md` — the business source of truth (~50 roles, ~40 modules, §12 Super Admin, §13 import, §14 tech).
+3. `C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\Web\context\MODULE_STATUS.md` — the living module tracker (what's done / in-progress / pending, with %).
+4. `C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\Web\docs\CONVENTIONS.md` — the engineering build contract (spine APIs, UI kit, feature-module layout, DOD).
+5. `C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\Web\docs\QUALITY_REVIEW.md` — the module completion gate.
 Also available if needed: repo-root `NEXLI_BUILD_PLAN.md` (full architecture, §13A AI strategy, §14A free-tier constraints, §20 build sequence) and `FIREBASE_SETUP.md` (§0 free-tier mode); and `reference/` (visual source of truth, already ported to `Web/src/styles/nexli.css`). The newest `Web/context/context-*.md` and `Web/resume/resume-prompt-*.md` are the rolling history.
 
 ## STEP 2 — Orient

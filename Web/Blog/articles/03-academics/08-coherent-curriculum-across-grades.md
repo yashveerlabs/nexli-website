@@ -245,7 +245,7 @@ Principals see reports showing whether learning progressions are coherent:
 
 Curriculum coherence is invisible when it works well. But when it breaks down, everyone suffers. Nexli makes it visible and manageable.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
+**Founder Insight (Yashveer Singh):**
 > "We've worked with schools where Grade 10 students couldn't handle algebra because Grade 8 didn't lay foundations properly. Teachers weren't coordinating; they didn't know. Nexli's vertical alignment tools make coherence explicit. Teachers see the progression. Principals monitor it. Gaps are caught early."
 
 **Yashveer Labs' Commitment:**

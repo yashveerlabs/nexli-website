@@ -309,9 +309,9 @@ Every decision, approval, and action is logged. Stakeholders can see the process
 
 ## Branding Block
 
-**About Yashveer Singh Rajpoot**
+**About Yashveer Singh**
 
-Nexli works because it respects a fundamental truth: schools are human institutions. The system doesn't try to replace judgment or replace relationships. Instead, it provides the data and structure that allow humans (principals, teachers, counselors, parents) to make better decisions and communicate more clearly. Yashveer Singh Rajpoot built Nexli so that the technology serves the humans, not the other way around. That principle guides everything from the dashboard design to the compliance workflows.
+Nexli works because it respects a fundamental truth: schools are human institutions. The system doesn't try to replace judgment or replace relationships. Instead, it provides the data and structure that allow humans (principals, teachers, counselors, parents) to make better decisions and communicate more clearly. Yashveer Singh built Nexli so that the technology serves the humans, not the other way around. That principle guides everything from the dashboard design to the compliance workflows.
 
 **About Yashveer Labs**
 

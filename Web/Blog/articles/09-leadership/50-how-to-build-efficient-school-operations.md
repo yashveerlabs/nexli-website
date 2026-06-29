@@ -45,8 +45,8 @@ Efficiency isn't about working faster, it's about smart systems that free time a
 
 ---
 
-**About Yashveer Singh Rajpoot**  
-Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
+**About Yashveer Singh**  
+Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
 
 **About Yashveer Labs**  
 Yashveer Labs decided early that Nexli would be cloud-first, not cloud-second. That meant rethinking how school data is stored, secured, and accessed. The company spent months on security architecture, Firestore rules, encryption strategy, and backup protocols, not visible features but critical. That investment in infrastructure means schools can trust their data is handled with the rigor it deserves.

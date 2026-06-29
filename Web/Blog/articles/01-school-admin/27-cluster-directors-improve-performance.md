@@ -126,7 +126,7 @@ Let data guide: Which school needs urgent support? Which is ready for expansion?
 
 ## About Nexli
 
-After spending years in education technology, Yashveer Singh Rajpoot observed something: most school ERPs are built by software engineers, not by people who've lived inside schools. Details get missed. Workflows feel imposed from outside. Nexli was built by someone who understands both education and technology, where a Timetable needs to be not just a schedule, but a communication tool. Where Attendance is not just a register, but an early-warning system. Where Finance is not just accounting, but a window into school health.
+After spending years in education technology, Yashveer Singh observed something: most school ERPs are built by software engineers, not by people who've lived inside schools. Details get missed. Workflows feel imposed from outside. Nexli was built by someone who understands both education and technology, where a Timetable needs to be not just a schedule, but a communication tool. Where Attendance is not just a register, but an early-warning system. Where Finance is not just accounting, but a window into school health.
 
 ## About Yashveer Labs
 

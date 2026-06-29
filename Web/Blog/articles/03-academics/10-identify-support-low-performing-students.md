@@ -210,7 +210,7 @@ If a student who was previously on-track starts slipping, Nexli alerts the teach
 
 Early identification and support is the most cost-effective investment a school can make. Nexli makes it systematic, not based on chance or teacher gut.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
+**Founder Insight (Yashveer Singh):**
 > "We've seen too many students fall through cracks because their struggles weren't identified early. Nexli's screening and monitoring tools surface at-risk students automatically. Principals know exactly who needs help. Interventions are tracked. We can prove they work."
 
 **Yashveer Labs' Commitment:**

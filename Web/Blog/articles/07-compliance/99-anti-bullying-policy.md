@@ -105,7 +105,7 @@ Nexli's student welfare module allows anonymous bullying complaints, tracks inci
 
 **About Nexli:** Nexli's student welfare module tracks bullying complaints, investigation outcomes, support provided, and follow-up. Schools using Nexli maintain welfare records that demonstrate responsive anti-bullying management.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's welfare tools knowing that student wellbeing cannot be managed from memory. Tracked complaints, documented follow-up, and counselor records create the evidence that the school took action and it worked (or did not, requiring escalation).
+**About Yashveer Labs:** Yashveer Singh built Nexli's welfare tools knowing that student wellbeing cannot be managed from memory. Tracked complaints, documented follow-up, and counselor records create the evidence that the school took action and it worked (or did not, requiring escalation).
 
 **How Nexli Helps:** Yashveer Labs invests in welfare management tools because every bullying incident that is tracked and resolved is a student whose school experience improved. The technology supports the people doing the difficult work.
 

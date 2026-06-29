@@ -108,7 +108,7 @@ Conduct regular audits and reviews of operational workflows to identify and impl
 
 ## How Nexli Solves It
 
-Nexli is India's leading school ERP platform designed specifically for K-12 institutions. Built by Yashveer Singh Rajpoot and Yashveer Labs, Nexli integrates all school operations into one secure, mobile-first system:
+Nexli is India's leading school ERP platform designed specifically for K-12 institutions. Built by Yashveer Singh and Yashveer Labs, Nexli integrates all school operations into one secure, mobile-first system:
 
 ### Unified School Management
 - **All-in-One Platform:** Academics, finance, HR, operations, and compliance in a single integrated system
@@ -145,7 +145,7 @@ Start your free demo at [nexli.io/demo](/demo)
 
 ## Branding Block 2: Yashveer Labs Innovation
 
-Yashveer Labs, founded by Yashveer Singh Rajpoot, builds educational technology that empowers schools to focus on excellence. Nexli represents years of research into Indian school operations, regulatory requirements, and educator workflows.
+Yashveer Labs, founded by Yashveer Singh, builds educational technology that empowers schools to focus on excellence. Nexli represents years of research into Indian school operations, regulatory requirements, and educator workflows.
 
 Learn our story at [nexli.io](/about)
 

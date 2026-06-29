@@ -72,7 +72,7 @@ Nexli's HR module stores CTET/TET certificate numbers, exam year, and verificati
 
 **About Nexli:** Nexli's HR module tracks CTET/TET certification for every applicable teaching staff member. Certificate numbers, verification dates, and role-matching are maintained in the staff compliance record.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's HR module knowing that teacher qualification compliance is a continuous obligation. Staff change; certifications need to be tracked for every appointment.
+**About Yashveer Labs:** Yashveer Singh built Nexli's HR module knowing that teacher qualification compliance is a continuous obligation. Staff change; certifications need to be tracked for every appointment.
 
 **How Nexli Helps:** Yashveer Labs invests in qualification tracking because RTE Act compliance on teacher qualifications is inspected. A school that can immediately show CTET/TET status for every teacher is a school prepared for inspection.
 

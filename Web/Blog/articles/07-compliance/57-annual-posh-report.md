@@ -72,7 +72,7 @@ Nexli's POSH module automatically tracks all ICC activity during the year: compl
 
 **About Nexli:** Nexli's POSH module tracks complaints, case timelines, training records, and generates the annual report automatically. Schools using Nexli don't scramble to compile POSH data in January, it's tracked throughout the year.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli so annual compliance reports are a data export, not a data collection exercise. The records are maintained continuously; the report is a structured output of what the system already knows.
+**About Yashveer Labs:** Yashveer Singh built Nexli so annual compliance reports are a data export, not a data collection exercise. The records are maintained continuously; the report is a structured output of what the system already knows.
 
 **How Nexli Helps:** Yashveer Labs designed Nexli's reporting tools around regulatory formats. The annual POSH report template in Nexli matches the Ministry's format, so schools submit correctly the first time.
 

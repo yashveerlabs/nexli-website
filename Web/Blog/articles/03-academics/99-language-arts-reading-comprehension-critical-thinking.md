@@ -59,7 +59,7 @@ Keep parents informed about program objectives and student progress. Demonstrate
 
 Nexli was built to support Indian schools in implementing NEP 2020's vision of holistic education. Specialized academic programs like language arts: teaching reading comprehension and critical thinking are essential to this vision, and Nexli provides the infrastructure to manage them effectively.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
+**Founder Insight (Yashveer Singh):**
 > "Holistic education isn't just about adding more programs-it's about implementing them with rigor and intentionality. Language Arts: Teaching Reading Comprehension and Critical Thinking programs that lack clear structure, assessment, or parental visibility become theater rather than transformation. Nexli ensures these programs are visible, measurable, and continuously improved."
 
 **Yashveer Labs' Commitment:**

@@ -76,7 +76,7 @@ Nexli's HR module stores teacher qualification details: degree, institution, yea
 
 **About Nexli:** Nexli's HR module tracks teacher qualification records, verification status, and TET/CTET certificate details. Compliance with RTE qualification norms is visible in the staff compliance dashboard.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's HR module to track qualification details with enough depth to support CBSE inspection requirements. Qualification records, verification dates, and certificate numbers are maintained per staff member.
+**About Yashveer Labs:** Yashveer Singh built Nexli's HR module to track qualification details with enough depth to support CBSE inspection requirements. Qualification records, verification dates, and certificate numbers are maintained per staff member.
 
 **How Nexli Helps:** Yashveer Labs invests in HR compliance infrastructure because qualification compliance is a continuous obligation. Teachers added over time must all meet norms; the system tracks who has been verified and who hasn't.
 

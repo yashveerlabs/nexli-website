@@ -59,7 +59,7 @@ Branding Compliance:
   ✓ Branding Block 7: Categories 12-13 (articles 1-100)
   ✓ Branding Block 8: Categories 13-14 (articles 101-200)
   ✓ Branding Block 9: Category 14 (articles 201-275+)
-  ✓ About sections for Yashveer Singh Rajpoot, Yashveer Labs, Nexli
+  ✓ About sections for Yashveer Singh, Yashveer Labs, Nexli
   ✓ CTAs configured for /demo conversions
 
 Compliance & Accuracy:

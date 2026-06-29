@@ -98,7 +98,7 @@ Nexli's compliance calendar tracks water filter maintenance schedules, annual wa
 
 **About Nexli:** Nexli's compliance tracking covers infrastructure maintenance schedules: water filter service, annual testing, and tank cleaning. Schools using Nexli maintain infrastructure compliance as part of regular operations.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's compliance calendar to track all recurring maintenance obligations. Water filter service is easy to forget; system alerts make it impossible to miss.
+**About Yashveer Labs:** Yashveer Singh built Nexli's compliance calendar to track all recurring maintenance obligations. Water filter service is easy to forget; system alerts make it impossible to miss.
 
 **How Nexli Helps:** Yashveer Labs invests in infrastructure compliance tracking because maintenance obligations that lapse create both student health risks and regulatory exposure. Continuous tracking prevents both.
 

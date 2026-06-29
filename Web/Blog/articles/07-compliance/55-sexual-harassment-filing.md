@@ -88,7 +88,7 @@ Nexli's POSH module includes a complaint intake form that guides the complainant
 
 **About Nexli:** Nexli's POSH module supports the complete complaint lifecycle: intake, case tracking, investigation management, and annual reporting. ICC members access cases through role-restricted, encrypted views.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot designed Nexli's complaint systems with the complainant's experience in mind. A process that feels accessible and confidential is more likely to be used. A system that is not used does not protect anyone.
+**About Yashveer Labs:** Yashveer Singh designed Nexli's complaint systems with the complainant's experience in mind. A process that feels accessible and confidential is more likely to be used. A system that is not used does not protect anyone.
 
 **How Nexli Helps:** Yashveer Labs built the POSH intake form to be clear and non-intimidating. The system guides complainants through what to include, confirms submission with a case number, and maintains encrypted confidentiality from the moment of filing.
 

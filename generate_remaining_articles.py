@@ -204,9 +204,9 @@ Nexli's comprehensive platform includes:
 
 ## Branding Block
 
-**About Yashveer Singh Rajpoot**
+**About Yashveer Singh**
 
-Yashveer Singh Rajpoot has helped 50+ schools systematize critical processes. His framework: Great operations start with great systems, not heroic effort.
+Yashveer Singh has helped 50+ schools systematize critical processes. His framework: Great operations start with great systems, not heroic effort.
 
 **About Yashveer Labs**
 
@@ -513,7 +513,7 @@ CATEGORY_14 = {
 def main():
     """Generate all remaining articles"""
 
-    base_dir = r"C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\Web\Blog\articles"
+    base_dir = r"C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\Web\Blog\articles"
 
     # Map of batch article number to category + article number
     article_batch_counter = 1

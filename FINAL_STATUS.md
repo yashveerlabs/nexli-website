@@ -136,7 +136,7 @@ Articles cover:
   - Articles 96-100 Category 14: Block 9
 
 All branding blocks contain:
-- About Yashveer Singh Rajpoot
+- About Yashveer Singh
 - About Yashveer Labs
 - About Nexli
 - Call-to-action linking to /demo or /free-trial

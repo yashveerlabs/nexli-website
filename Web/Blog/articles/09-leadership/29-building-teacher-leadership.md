@@ -328,7 +328,7 @@ Your legacy as principal isn't just what you accomplish, it's what happens after
 
 ---
 
-**About Yashveer Singh Rajpoot**  
+**About Yashveer Singh**  
 Building for India means respecting that schools operate on real budgets. Nexli doesn't have a "basic" plan missing critical features and a "premium" plan where they appear. Every school, regardless of size or price, gets complete access to academics, finance, compliance, safety, and communication. The only paid add-on is AI; everything else that schools need to operate is included. Affordability should never mean compromise on quality.
 
 **About Yashveer Labs**  

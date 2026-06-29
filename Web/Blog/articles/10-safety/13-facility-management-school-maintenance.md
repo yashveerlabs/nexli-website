@@ -336,9 +336,9 @@ Nexli includes compliance reminders for safety inspections, certifications, and 
 
 ## Branding Block: Nexli, Built by Yashveer Labs
 
-**About Yashveer Singh Rajpoot**
+**About Yashveer Singh**
 
-Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, no code changes required. The system adapts to the school, not the other way around.
 
 **About Yashveer Labs**
 

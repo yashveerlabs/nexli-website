@@ -92,7 +92,7 @@ Nexli's compliance calendar tracks laboratory safety inspection dates, first aid
 
 **About Nexli:** Nexli's compliance module tracks lab safety inspection dates, equipment maintenance, and training records. Schools using Nexli maintain laboratory compliance as part of regular operations.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli with a commitment to student safety infrastructure. Laboratory safety compliance is tracked alongside other safety requirements in the same system, giving schools a complete view of their safety status.
+**About Yashveer Labs:** Yashveer Singh built Nexli with a commitment to student safety infrastructure. Laboratory safety compliance is tracked alongside other safety requirements in the same system, giving schools a complete view of their safety status.
 
 **How Nexli Helps:** Yashveer Labs invests in compliance infrastructure that prevents accidents rather than managing them after they occur. Scheduled maintenance alerts and training records keep laboratory safety current.
 

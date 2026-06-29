@@ -99,7 +99,7 @@ Nexli maintains live records that match exactly what gets submitted to UDISE+. S
 
 **About Nexli:** Nexli's live database is the source for UDISE+ submissions. Schools are inspection-ready because the records in Nexli and the records submitted are the same data. No reconciliation required when inspectors arrive.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli so the records schools keep for daily operations are the same records that serve regulatory compliance. A single source of truth eliminates the reconciliation work that creates discrepancies between operational records and submitted data.
+**About Yashveer Labs:** Yashveer Singh built Nexli so the records schools keep for daily operations are the same records that serve regulatory compliance. A single source of truth eliminates the reconciliation work that creates discrepancies between operational records and submitted data.
 
 **How Nexli Helps:** Yashveer Labs invests in data accuracy because inspections reveal discrepancies and discrepancies create regulatory risk. Accurate, real-time records in Nexli mean inspections confirm compliance rather than reveal problems.
 

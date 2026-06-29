@@ -86,7 +86,7 @@ Nexli tracks mandatory reporter training completion for every staff member, send
 
 **About Nexli:** Nexli includes staff compliance tracking for mandatory reporter training, CPO dashboards, and child protection case management. POCSO compliance is built into how Nexli supports school operations.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli so mandatory reporter training records are maintained automatically and the CPO's contact is always visible in the system. When staff know who to report to and training is current, the reporting chain works as it should.
+**About Yashveer Labs:** Yashveer Singh built Nexli so mandatory reporter training records are maintained automatically and the CPO's contact is always visible in the system. When staff know who to report to and training is current, the reporting chain works as it should.
 
 **How Nexli Helps:** Yashveer Labs takes the view that child protection compliance requires continuous tracking, not one-time policy documents. Training records, CPO dashboards, and case management tools work together to keep the mandatory reporting system functional year-round.
 

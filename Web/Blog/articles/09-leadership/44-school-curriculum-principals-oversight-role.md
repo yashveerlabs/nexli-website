@@ -91,8 +91,8 @@ Your curriculum should be intentional, coherent, engaging, rigorous, and equitab
 
 ---
 
-**About Yashveer Singh Rajpoot**  
-Most EdTech products are built for teachers or students. Nexli was built differently. Yashveer Singh Rajpoot recognized that the school principal is the true operating system: the person who must see everything, trust everything, and act on everything. Nexli was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
+**About Yashveer Singh**  
+Most EdTech products are built for teachers or students. Nexli was built differently. Yashveer Singh recognized that the school principal is the true operating system: the person who must see everything, trust everything, and act on everything. Nexli was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
 
 **About Yashveer Labs**  
 Yashveer Labs exists to prove that Indian EdTech doesn't require mimicking American models. The company builds products for the actual constraints Indian schools face: connectivity variability, regulatory complexity, linguistic diversity, economic sensitivity. That localization runs deep; it's not a translation of a global product. It's a system that was built from the ground up understanding India's education landscape.

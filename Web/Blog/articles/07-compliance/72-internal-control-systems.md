@@ -100,7 +100,7 @@ Nexli enforces role-based access (Finance Manager cannot approve their own payme
 
 **About Nexli:** Nexli's role-based access, transaction audit trails, and reconciliation tools enforce internal controls at the system level. Segregation of duties is architectural, the system prevents conflicts without depending on policy adherence.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's finance module knowing that internal controls enforced by software are more reliable than those enforced only by policy. System-level controls protect schools from human error and intentional fraud.
+**About Yashveer Labs:** Yashveer Singh built Nexli's finance module knowing that internal controls enforced by software are more reliable than those enforced only by policy. System-level controls protect schools from human error and intentional fraud.
 
 **How Nexli Helps:** Yashveer Labs invests in system-level controls because the most effective controls are those that cannot easily be bypassed. Audit trails, authorization workflows, and role restrictions in Nexli make internal control a function of how the system operates, not how individual staff choose to behave.
 

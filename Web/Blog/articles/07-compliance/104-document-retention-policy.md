@@ -92,7 +92,7 @@ Nexli's data management maintains student, financial, and compliance records wit
 
 **About Nexli:** Nexli maintains structured records for students, staff, finance, and compliance. Retention periods are tracked by record category, and the system's audit trails are tamper-proof.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's data management knowing that schools accumulate compliance obligations over time. Records maintained in Nexli are organized by category and retention period, reducing the burden of document management.
+**About Yashveer Labs:** Yashveer Singh built Nexli's data management knowing that schools accumulate compliance obligations over time. Records maintained in Nexli are organized by category and retention period, reducing the burden of document management.
 
 **How Nexli Helps:** Yashveer Labs invests in records infrastructure because data that cannot be found is data that does not exist for compliance purposes. Organized, searchable, retention-tracked records support regulatory compliance when it matters.
 

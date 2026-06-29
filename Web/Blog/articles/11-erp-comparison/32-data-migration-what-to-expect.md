@@ -150,8 +150,8 @@ A: Yes, in a well-designed import tool. Preview mode shows what will be imported
 
 ---
 
-**About Yashveer Singh Rajpoot**
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+**About Yashveer Singh**
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 **About Yashveer Labs**
 The company was founded on the belief that technology companies should be located where their users are, thinking about their problems deeply. Yashveer Labs operates with the perspective of someone who understands Indian schools, the regulations, the economics, the social role schools play in communities. That deep contextual understanding shapes product decisions in ways that global companies, however well-intentioned, often miss.

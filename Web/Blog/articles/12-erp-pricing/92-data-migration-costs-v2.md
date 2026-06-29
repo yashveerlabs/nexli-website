@@ -142,7 +142,7 @@ Sixth, **document mapping decisions**. When mapping old data to new system field
 
 ## The Difference Between a School Using Spreadsheets and a School Using Nexli
 
-The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen, a chronically absent student, a teacher not submitting lesson plans, fees slipping, suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
+The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen, a chronically absent student, a teacher not submitting lesson plans, fees slipping, suddenly has real-time alerts. Yashveer Singh designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
 
 ## The Team Behind Nexli
 

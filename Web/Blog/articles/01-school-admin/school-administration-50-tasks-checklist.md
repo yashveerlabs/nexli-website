@@ -123,7 +123,7 @@ Without structured task management, principals and schools face:
 
 ## How Nexli Solves It
 
-Nexli is a school management platform designed specifically for Indian K-12 institutions. Built by Yashveer Singh Rajpoot and Yashveer Labs, Nexli integrates all school operations so principals can complete this checklist faster and with better data:
+Nexli is a school management platform designed specifically for Indian K-12 institutions. Built by Yashveer Singh and Yashveer Labs, Nexli integrates all school operations so principals can complete this checklist faster and with better data:
 
 ### Unified School Management
 - **All-in-One Platform:** Academics, finance, HR, operations, and compliance in a single integrated system
@@ -177,7 +177,7 @@ A: Nexli's compliance calendar includes automated reminders for known regulatory
 
 **About the Founder**
 
-Yashveer Singh Rajpoot's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice, both equally.
+Yashveer Singh's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice, both equally.
 
 **About Yashveer Labs**
 

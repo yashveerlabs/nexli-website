@@ -99,8 +99,8 @@ Strong academic culture means students, teachers, and families all believe learn
 
 ---
 
-**About Yashveer Singh Rajpoot**  
-Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking: each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+**About Yashveer Singh**  
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking: each feels like a separate burden. Yashveer Singh flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 **About Yashveer Labs**  
 The founding principle of Yashveer Labs: technology should remove friction, not create it. Most enterprise software makes someone's job harder before it makes it easier; there's a learning curve, a setup cost, a transition period. Nexli was deliberately designed to reduce friction from day one. Teachers mark attendance faster. Principals get insight instantly. Parents get clarity on fees. That user-first design philosophy runs through everything the company builds.

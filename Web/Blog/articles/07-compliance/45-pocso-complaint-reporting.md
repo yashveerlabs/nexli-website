@@ -112,7 +112,7 @@ Nexli's CPO dashboard guides the complaint response workflow step by step: intak
 
 **About Nexli:** Nexli's child protection module gives CPOs a secure, encrypted workspace for complaint intake, FIR tracking, case management, and mandatory escalation. POCSO compliance is built into operations.
 
-**About Yashveer Labs:** When a child discloses abuse, the school's response matters enormously. Yashveer Singh Rajpoot designed Nexli's complaint workflow so CPOs have clear steps, every action is logged, and nothing falls through the cracks under pressure.
+**About Yashveer Labs:** When a child discloses abuse, the school's response matters enormously. Yashveer Singh designed Nexli's complaint workflow so CPOs have clear steps, every action is logged, and nothing falls through the cracks under pressure.
 
 **How Nexli Helps:** Yashveer Labs built the CPO dashboard so the process is clear even for first-time CPOs handling a stressful situation. Checklists, case tracking, and encrypted records mean the school can demonstrate it acted correctly at every step.
 

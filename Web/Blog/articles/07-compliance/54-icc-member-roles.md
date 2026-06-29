@@ -86,7 +86,7 @@ Nexli's ICC module allows each member to access case files within their role per
 
 **About Nexli:** Nexli's POSH module gives ICC members role-appropriate access to cases, manages timelines, and generates the annual report. The system keeps the ICC informed and on schedule without adding administrative burden.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's POSH module around the real challenges ICC members face: maintaining confidentiality, managing timelines, coordinating across busy schedules. The system supports the ICC's work, not just its paperwork.
+**About Yashveer Labs:** Yashveer Singh built Nexli's POSH module around the real challenges ICC members face: maintaining confidentiality, managing timelines, coordinating across busy schedules. The system supports the ICC's work, not just its paperwork.
 
 **How Nexli Helps:** Yashveer Labs designed role-based access for ICC members so each person sees what they need and no more. Confidentiality is maintained by system design, not just by policy.
 

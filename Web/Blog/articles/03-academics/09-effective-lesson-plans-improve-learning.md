@@ -259,7 +259,7 @@ Parents see lesson objectives and can ask their child: "What was the objective t
 
 Great teaching is intentional, structured, and data-informed. Nexli treats effective lesson design not as an ideal, but as the foundation of your school's academic system.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
+**Founder Insight (Yashveer Singh):**
 > "We've learned that lesson effectiveness is measurable and improvable. Teachers who use Nexli's lesson planning system-with clear objectives, formative assessments, and reflection-see 15–20% improvements in student outcomes. That's not magic; it's deliberate design."
 
 **Yashveer Labs' Commitment:**

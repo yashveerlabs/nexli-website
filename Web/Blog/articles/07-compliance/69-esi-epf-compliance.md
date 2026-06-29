@@ -87,7 +87,7 @@ Nexli's payroll module tracks employee salaries and calculates EPF and ESI contr
 
 **About Nexli:** Nexli's payroll module handles EPF and ESI contribution calculation, maintains employee records, and generates payroll data for statutory filing. Schools using Nexli manage ESI/EPF compliance as part of payroll processing, not as a separate exercise.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli knowing that labour law compliance for schools is often neglected until an inspection or complaint arrives. Building ESI/EPF calculation into payroll means compliance is automatic for every salary cycle.
+**About Yashveer Labs:** Yashveer Singh built Nexli knowing that labour law compliance for schools is often neglected until an inspection or complaint arrives. Building ESI/EPF calculation into payroll means compliance is automatic for every salary cycle.
 
 **How Nexli Helps:** Yashveer Labs invests in payroll accuracy because employee welfare compliance protects employees and reduces legal risk for school management. Accurate contribution calculation and timely records mean the school demonstrates compliance continuously.
 

@@ -95,7 +95,7 @@ Nexli's HR module maintains behavioral records for staff: complaints, investigat
 
 **About Nexli:** Nexli's HR module records teacher conduct incidents, disciplinary actions, and investigation outcomes. Role-based access ensures teachers see only their assigned students' records, enforcing confidentiality at the system level.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli with teacher-student boundary protection as a design principle. Direct student messaging is disabled by default; communication goes through school channels. System architecture enforces professional boundaries.
+**About Yashveer Labs:** Yashveer Singh built Nexli with teacher-student boundary protection as a design principle. Direct student messaging is disabled by default; communication goes through school channels. System architecture enforces professional boundaries.
 
 **How Nexli Helps:** Yashveer Labs invests in role-based access and communication controls because professional boundaries are most reliably maintained when the technology makes it easy to comply and hard to circumvent.
 

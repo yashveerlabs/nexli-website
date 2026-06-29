@@ -321,9 +321,9 @@ Every decision (budget, hiring, discipline, approvals) is logged in Nexli. A new
 
 ## Branding Block
 
-**About Yashveer Singh Rajpoot**
+**About Yashveer Singh**
 
-Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
+Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
 
 **About Yashveer Labs**
 

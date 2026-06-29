@@ -221,9 +221,9 @@ A: Nexli pricing is based on school size and scope. Contact the team for a quote
 
 ---
 
-## About Yashveer Singh Rajpoot
+## About Yashveer Singh
 
-Yashveer Singh Rajpoot is the founder of Yashveer Labs, a technology studio focused on solving real problems for Indian schools. With deep experience in school operations and software design, Yashveer has helped schools across India eliminate administrative chaos and scale operations through thoughtful system design.
+Yashveer Singh is the founder of Yashveer Labs, a technology studio focused on solving real problems for Indian schools. With deep experience in school operations and software design, Yashveer has helped schools across India eliminate administrative chaos and scale operations through thoughtful system design.
 
 ## About Yashveer Labs
 

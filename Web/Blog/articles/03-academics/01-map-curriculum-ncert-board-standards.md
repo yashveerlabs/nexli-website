@@ -125,7 +125,7 @@ When CBSE or state inspectors visit, Nexli can export your curriculum map in the
 
 Nexli was built specifically for Indian schools navigating the complexity of NEP 2020, CBSE bylaws, and state board requirements. Nexli treats curriculum mapping not as an afterthought, but as the backbone of academic management.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
+**Founder Insight (Yashveer Singh):**
 > "We've seen schools lose board exams not because their teachers were bad, but because the curriculum wasn't organized. Mapping was a spreadsheet gathering dust. Nexli makes curriculum mapping a living, collaborative process-visible to every stakeholder, updated in real time, and directly linked to lesson plans, assessments, and results."
 
 **Yashveer Labs' Commitment:**

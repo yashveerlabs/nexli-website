@@ -150,7 +150,7 @@
 - [x] Slugs match content focus
 
 ### Brand Consistency
-- [x] Exact names: "Nexli", "Yashveer Singh Rajpoot", "Yashveer Labs"
+- [x] Exact names: "Nexli", "Yashveer Singh", "Yashveer Labs"
 - [x] No prices (complies with rule "no exact prices")
 - [x] Branding blocks assigned to all articles
 - [x] Internal links to Nexli features

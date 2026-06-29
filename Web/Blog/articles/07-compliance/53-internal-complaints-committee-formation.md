@@ -91,7 +91,7 @@ Nexli's POSH module records ICC member details, tracks term expiry dates, manage
 
 **About Nexli:** Nexli includes POSH ICC management as part of its compliance module: member records, term tracking, case management, and annual reporting. Schools using Nexli stay compliant without managing POSH as a separate administrative task.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli so administrative obligations like ICC term tracking and annual reports are managed by the system, not individual staff memory. Alerts for expiring terms and approaching annual report deadlines mean schools stay compliant without compliance requiring heroic effort.
+**About Yashveer Labs:** Yashveer Singh built Nexli so administrative obligations like ICC term tracking and annual reports are managed by the system, not individual staff memory. Alerts for expiring terms and approaching annual report deadlines mean schools stay compliant without compliance requiring heroic effort.
 
 **How Nexli Helps:** Yashveer Labs designed Nexli's POSH module to support the full lifecycle of ICC operation, from formation to annual reporting. Compliance is continuous, not a one-time event.
 

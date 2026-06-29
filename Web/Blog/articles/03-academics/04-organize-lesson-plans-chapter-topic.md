@@ -245,7 +245,7 @@ When you build your school timetable, Nexli suggests which lesson plans should b
 
 Organization is the foundation of scale. Nexli treats lesson plan management as central to your school's academic infrastructure-not an afterthought.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
+**Founder Insight (Yashveer Singh):**
 > "We've seen schools with 300+ lesson plans that were completely unusable because they weren't organized. Nexli's hierarchy, search, version control, and dashboard make lesson planning a collaborative, transparent process. Your school's intellectual capital-the work of generations of teachers-is now captured, organized, and continuously improved."
 
 **Yashveer Labs' Commitment:**

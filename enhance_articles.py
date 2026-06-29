@@ -1300,7 +1300,7 @@ Exam is over. Student feels relief or disappointment (or both). What now?
 
 
 def main():
-    base_articles_dir = r"C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\articles"
+    base_articles_dir = r"C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\articles"
     cat1_dir = os.path.join(base_articles_dir, "01-school-admin")
     cat3_dir = os.path.join(base_articles_dir, "03-academics")
 

@@ -69,7 +69,7 @@ Schools using Nexli report 40% reduction in parent "I didn't know" complaints an
 
 **About Yashveer Labs:** Yashveer Labs operates with a long-term commitment to education in India. The company invests in compliance and regulation not because they're mandated, but because schools deserve to trust the tools they rely on. Data security, privacy handling, audit trails: these are non-negotiable. The company builds for the Indian school context today, and the company will continue building for that context through the changing regulations of tomorrow.
 
-**About Yashveer Singh Rajpoot:** Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh Rajpoot insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
+**About Yashveer Singh:** Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
 
 ---
 

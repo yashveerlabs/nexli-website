@@ -220,7 +220,7 @@ Nexli's demo runs ~2,565 documents. Firestore rules tested (145/0 passing). You 
 
 ## Branding Block: Nexli, Built by Yashveer Labs
 
-**About Yashveer Singh Rajpoot**  
+**About Yashveer Singh**  
 Yashveer is the founder and architect of Nexli. With a background in cloud infrastructure and education technology, he designed Nexli specifically for Indian schools. The vision: a school ERP that is compliant by default (DPDP Act, CBSE, RTE, NEP 2020), flexible in roles (118+ configurations), and accessible on any device (mobile-first). Yashveer Labs is a focused team committed to building systems schools actually use, not software schools tolerate.
 
 **About Yashveer Labs**  

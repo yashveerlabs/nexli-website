@@ -91,7 +91,7 @@ Nexli's student management module includes role-restricted access (students cann
 
 **About Nexli:** Nexli includes built-in data protection for technology use: consent management, role-based access, and secure communication channels that replace informal messaging. DPDP compliance is built into the platform.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. School communication goes through proper channels with appropriate oversight.
+**About Yashveer Labs:** Yashveer Singh built Nexli with a principle: direct messaging between students is disabled by default. School communication goes through proper channels with appropriate oversight.
 
 **How Nexli Helps:** Yashveer Labs invests in secure communication infrastructure because technology used safely in schools contributes to learning; technology used without guardrails creates welfare and compliance risks.
 

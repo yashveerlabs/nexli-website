@@ -93,7 +93,7 @@ Nexli's finance module maintains fee receipts by category, expense records by le
 
 **About Nexli:** Nexli's finance module is built for school accounting structures: income by fee category, expenditure by department, development fund tracking, and grant management. Financial statements are generated from operational records.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's finance module for the reality of school financial management: multiple fee types, government grants, ring-fenced development funds, and audit requirements. The module handles the complexity that makes school accounts different from general business accounts.
+**About Yashveer Labs:** Yashveer Singh built Nexli's finance module for the reality of school financial management: multiple fee types, government grants, ring-fenced development funds, and audit requirements. The module handles the complexity that makes school accounts different from general business accounts.
 
 **How Nexli Helps:** Yashveer Labs invests in finance module depth because school financial compliance is multi-layered. Accurate records, proper categorization, and audit-ready reports come from a finance module built for schools, not adapted from a generic accounting tool.
 

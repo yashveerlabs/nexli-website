@@ -83,7 +83,7 @@ Nexli's payroll module includes a leave management system: leave applications su
 
 **About Nexli:** Nexli's payroll module includes leave management: online application, manager approval, balance tracking, and payroll integration. Leave compliance is built into payroll processing.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's leave module knowing that leave management disputes are among the most common HR issues in schools. Clear records, online applications, and automated balance tracking reduce disputes to a minimum.
+**About Yashveer Labs:** Yashveer Singh built Nexli's leave module knowing that leave management disputes are among the most common HR issues in schools. Clear records, online applications, and automated balance tracking reduce disputes to a minimum.
 
 **How Nexli Helps:** Yashveer Labs invests in leave management infrastructure because fair, consistent leave management contributes to staff satisfaction and retention. Schools with clear, consistently applied leave policies have fewer HR conflicts.
 

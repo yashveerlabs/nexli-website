@@ -84,7 +84,7 @@ Nexli maintains real-time school data that maps directly to UDISE+ reporting cat
 
 **About Nexli:** Nexli's UDISE+ export pulls enrollment, staff, infrastructure, and academic data from the live database and formats it for portal submission. Schools using Nexli don't compile UDISE+ data manually, they export it.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's government reporting tools around the actual data formats required by UDISE+ and CBSE. Integration with regulatory requirements was a design priority, not an afterthought.
+**About Yashveer Labs:** Yashveer Singh built Nexli's government reporting tools around the actual data formats required by UDISE+ and CBSE. Integration with regulatory requirements was a design priority, not an afterthought.
 
 **How Nexli Helps:** Yashveer Labs invests in making government reporting accurate and efficient. UDISE+ data quality matters for the school's standing, for government planning, and for the students whose enrollment is reflected in the data.
 

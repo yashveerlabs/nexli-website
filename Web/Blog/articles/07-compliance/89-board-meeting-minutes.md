@@ -89,7 +89,7 @@ Nexli's governance module maintains meeting records and resolution tracking. Boa
 
 **About Nexli:** Nexli's governance module supports board record-keeping: meeting schedules, attendance records, decision tracking, and resolution management. Schools using Nexli maintain governance records that meet regulatory standards.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli with governance tools because school boards that maintain proper records make better decisions and demonstrate accountability. Records that exist support governance; records that don't create vulnerability.
+**About Yashveer Labs:** Yashveer Singh built Nexli with governance tools because school boards that maintain proper records make better decisions and demonstrate accountability. Records that exist support governance; records that don't create vulnerability.
 
 **How Nexli Helps:** Yashveer Labs invests in governance infrastructure because school leadership requires accountability at every level. Board records are part of that accountability structure.
 

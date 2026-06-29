@@ -92,7 +92,7 @@ Nexli's governance module maintains records of board member appointment dates, t
 
 **About Nexli:** Nexli's governance module tracks board member terms, election records, and filing deadlines with the Registrar. Schools using Nexli manage governance calendars alongside operational calendars in one system.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's governance module because governance problems, expired trustee terms, missed Registrar filings, often emerge only when they create a crisis. Continuous tracking prevents the crisis.
+**About Yashveer Labs:** Yashveer Singh built Nexli's governance module because governance problems, expired trustee terms, missed Registrar filings, often emerge only when they create a crisis. Continuous tracking prevents the crisis.
 
 **How Nexli Helps:** Yashveer Labs invests in governance infrastructure because well-governed schools make better long-term decisions. Governance health and compliance health are connected.
 

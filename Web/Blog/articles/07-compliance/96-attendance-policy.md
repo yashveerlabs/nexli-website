@@ -83,7 +83,7 @@ Nexli's attendance module records daily attendance by class and generates real-t
 
 **About Nexli:** Nexli's attendance module records daily attendance, sends automated parent alerts, and generates monthly and annual attendance reports for CBSE LOC. Attendance data maintained in Nexli also feeds UDISE+ export directly.
 
-**About Yashveer Singh Rajpoot:** Yashveer Singh Rajpoot built Nexli's attendance module knowing that attendance tracking is both operationally critical and a compliance requirement. Real-time data and automated alerts mean schools catch attendance problems before they become exam eligibility problems.
+**About Yashveer Singh:** Yashveer Singh built Nexli's attendance module knowing that attendance tracking is both operationally critical and a compliance requirement. Real-time data and automated alerts mean schools catch attendance problems before they become exam eligibility problems.
 
 **How Nexli Helps:** Yashveer Labs invests in attendance infrastructure because 75% eligibility failures discovered at LOC time are too late to fix. Continuous tracking and parent alerts throughout the year prevent avoidable eligibility issues.
 

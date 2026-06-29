@@ -233,7 +233,7 @@ Growth isn't an end in itself. It's a means to greater impact. The best growing 
 
 ---
 
-**About Yashveer Singh Rajpoot**  
+**About Yashveer Singh**  
 Nexli works because it respects a fundamental truth: schools are human institutions. The system doesn't try to replace judgment or replace relationships. Instead, it provides the data and structure that allow humans (principals, teachers, counselors, parents) to make better decisions and communicate more clearly. The technology serves the humans. That principle guides everything from the dashboard design to the compliance workflows.
 
 **About Yashveer Labs**  

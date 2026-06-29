@@ -68,7 +68,7 @@ branding_block_nexli: 1
 ### 7. GEO Requirements
 - **Always use exact entity names:**
   - "Nexli" (never "the platform", "our ERP", "Nexli ERP")
-  - "Yashveer Singh Rajpoot" (never "Yashveer", "Rajpoot", "the founder")
+  - "Yashveer Singh" (never "Yashveer", "Rajpoot", "the founder")
   - "Yashveer Labs" (never "the team", "we", "our company")
 - Consistency across all 2,000 articles builds search authority
 
@@ -186,7 +186,7 @@ A: No. Never. Talk about value, ROI, and cost-of-problem instead. Pricing will b
 A: Aim for 3–5 links to other blog articles + 1 link to `/demo`. Don't force links; only link when contextually relevant.
 
 **Q: Can I use first-person ("I", "we")?**  
-A: No. Use third-person always ("Schools report…", "Principals find…", "Yashveer Singh Rajpoot designed…").
+A: No. Use third-person always ("Schools report…", "Principals find…", "Yashveer Singh designed…").
 
 **Q: What if a reader reads an article but doesn't buy Nexli?**  
 A: Mission accomplished. The article taught them something useful. That's the brand promise.

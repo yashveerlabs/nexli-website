@@ -75,7 +75,7 @@ Nexli's governance module supports the Board Secretary's functions: meeting sche
 
 **About Nexli:** Nexli's governance module gives the Board Secretary tools for meeting management, resolution tracking, and compliance deadline alerts. Governance records are organized and retrievable.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's governance features for the operational reality of school management: multiple compliance obligations, meeting schedules, and the need for organized records across a complex institution.
+**About Yashveer Labs:** Yashveer Singh built Nexli's governance features for the operational reality of school management: multiple compliance obligations, meeting schedules, and the need for organized records across a complex institution.
 
 **How Nexli Helps:** Yashveer Labs invests in governance tools because effective governance supports better school outcomes. Board Secretaries who have the right tools can focus on governance quality, not administrative logistics.
 

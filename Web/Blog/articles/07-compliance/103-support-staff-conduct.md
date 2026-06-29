@@ -103,7 +103,7 @@ Nexli's HR module covers support staff records alongside teaching staff: conduct
 
 **About Nexli:** Nexli's HR module tracks all staff, teaching and support, with background verification, conduct records, and training completion. Role-based access ensures support staff see only what their role requires.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's access controls knowing that support staff interact with students and data. System-level role restrictions enforce appropriate access without depending on individual staff discretion.
+**About Yashveer Labs:** Yashveer Singh built Nexli's access controls knowing that support staff interact with students and data. System-level role restrictions enforce appropriate access without depending on individual staff discretion.
 
 **How Nexli Helps:** Yashveer Labs invests in role-based access architecture because protecting student data and student welfare requires that everyone with system access, teachers, administrators, and support staff, has appropriate, limited access.
 

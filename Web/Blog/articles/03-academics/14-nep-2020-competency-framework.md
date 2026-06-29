@@ -193,7 +193,7 @@ When NEP 2020 is well-implemented:
 
 ## About Nexli
 
-When Yashveer Singh Rajpoot tested Nexli with real schools, the most surprising feedback was this: "We didn't realize we were missing so much visibility." Schools became aware of patterns they'd never seen before-the silent attendance decline before a student drops out, the systematic imbalance in subject performance across sections, the correlation between homework submission and exam success. Visibility enables intervention. Insight enables strategy. That's what modern systems should do.
+When Yashveer Singh tested Nexli with real schools, the most surprising feedback was this: "We didn't realize we were missing so much visibility." Schools became aware of patterns they'd never seen before-the silent attendance decline before a student drops out, the systematic imbalance in subject performance across sections, the correlation between homework submission and exam success. Visibility enables intervention. Insight enables strategy. That's what modern systems should do.
 
 ## About Yashveer Labs
 

@@ -112,7 +112,7 @@ Nexli's governance module maintains policy documents with version control: each 
 
 **About Nexli:** Nexli's governance module manages the full policy lifecycle: version control, approval records, distribution tracking, and review reminders. Policies in Nexli are current, versioned, and communicated.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's policy management because policies that are updated but not tracked create confusion about which version is current. A single authoritative version, maintained in the system and accessible to all relevant parties, eliminates version conflicts.
+**About Yashveer Labs:** Yashveer Singh built Nexli's policy management because policies that are updated but not tracked create confusion about which version is current. A single authoritative version, maintained in the system and accessible to all relevant parties, eliminates version conflicts.
 
 **How Nexli Helps:** Yashveer Labs invests in policy infrastructure because well-managed policies are the foundation of consistent school operations. The technology ensures policy updates are tracked, communicated, and not forgotten.
 

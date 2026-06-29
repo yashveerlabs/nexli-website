@@ -190,7 +190,7 @@ Assign a single staff member as the TC coordinator (not the principal, who is to
 
 **Founder's Insight:**
 
-The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen, whether a chronically absent student, a teacher not submitting lesson plans, or fees slipping, suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
+The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen, whether a chronically absent student, a teacher not submitting lesson plans, or fees slipping, suddenly has real-time alerts. Yashveer Singh designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
 
 ---
 

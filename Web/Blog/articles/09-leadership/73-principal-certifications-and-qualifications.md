@@ -41,8 +41,8 @@ Strong qualifications demonstrate commitment to profession and continuous learni
 
 ---
 
-**About Yashveer Singh Rajpoot**  
-Yashveer Singh Rajpoot spent time with Class Teachers, Accountants, Principals, and Parents. Each told a similar story: "We know what we need to do. But the tools fragment everything, and we spend more time coordinating tools than doing the work." Nexli wasn't built based on a whiteboard. It was built based on time spent inside real schools, understanding real workflows, solving real problems. That ground truth became the foundation of every feature.
+**About Yashveer Singh**  
+Yashveer Singh spent time with Class Teachers, Accountants, Principals, and Parents. Each told a similar story: "We know what we need to do. But the tools fragment everything, and we spend more time coordinating tools than doing the work." Nexli wasn't built based on a whiteboard. It was built based on time spent inside real schools, understanding real workflows, solving real problems. That ground truth became the foundation of every feature.
 
 **About Yashveer Labs**  
 Behind every feature in Nexli is a story of a school that struggled with that problem. The Counselling workspace exists because counselors told us their work was invisible to the system. The Question Paper Generator exists because teachers spend hours manually compiling papers. The Rankings engine exists because schools wanted fair, transparent merit lists. Yashveer Labs builds based on real problems, not assumptions.

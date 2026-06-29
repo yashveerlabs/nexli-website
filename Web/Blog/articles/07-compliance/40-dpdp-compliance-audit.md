@@ -84,7 +84,7 @@ Nexli maintains audit logs, consent records, and data registers automatically. T
 
 **About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. Compliance is built into operations, not managed as a separate layer.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli with the assumption that regulators will eventually ask to see the records. Every consent action, every data access, every breach response is logged. Schools using Nexli can answer an audit question in minutes because the system maintains the evidence continuously.
+**About Yashveer Labs:** Yashveer Singh built Nexli with the assumption that regulators will eventually ask to see the records. Every consent action, every data access, every breach response is logged. Schools using Nexli can answer an audit question in minutes because the system maintains the evidence continuously.
 
 **How Nexli Helps:** Yashveer Labs invests in audit infrastructure not because audits are frequent, but because schools that can demonstrate compliance at any time are schools that have built trust into their operations. That is the standard Yashveer Labs holds itself to.
 

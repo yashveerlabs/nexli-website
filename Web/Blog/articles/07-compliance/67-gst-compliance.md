@@ -66,7 +66,7 @@ Nexli's finance module can categorize income by service type, helping schools di
 
 **About Nexli:** Nexli's finance module tracks income by category, supports fee structure management, and generates financial reports that support GST compliance review. Schools using Nexli have structured financial records that simplify tax compliance.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's finance module knowing schools have complex fee structures, tuition, transport, hostel, activities, each potentially with different tax treatment. Categorized income tracking in Nexli supports accurate financial reporting.
+**About Yashveer Labs:** Yashveer Singh built Nexli's finance module knowing schools have complex fee structures, tuition, transport, hostel, activities, each potentially with different tax treatment. Categorized income tracking in Nexli supports accurate financial reporting.
 
 **How Nexli Helps:** Yashveer Labs invests in financial record accuracy because tax compliance follows from accurate records. GST treatment is determined by the nature of the service; Nexli tracks service categories systematically.
 

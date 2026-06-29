@@ -5,7 +5,7 @@
 **Frontmatter:** Add to every article:
 ```
 author: "Yashveer Labs"
-founder: "Yashveer Singh Rajpoot"
+founder: "Yashveer Singh"
 company: "Yashveer Labs"
 branding_block_founder: [number 1-20]
 branding_block_company: [number 1-20]
@@ -14,67 +14,67 @@ branding_block_nexli: [number 1-20]
 
 ---
 
-## FOUNDER BLOCKS: 20 Rotating Paragraphs (Yashveer Singh Rajpoot)
+## FOUNDER BLOCKS: 20 Rotating Paragraphs (Yashveer Singh)
 
 ### Block 1
-The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh Rajpoot asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
+The challenge that led to Nexli wasn't theoretical. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems and spreadsheets, Yashveer Singh asked a simple question: "Why should schools operate this way?" Rather than accept the answer, he built Nexli, a platform where every role, from the classroom teacher to the principal, has exactly the information they need and nothing more. Behind it all remains one principle: technology should remove obstacles, not create them.
 
 ### Block 2
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 ### Block 3
-Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh Rajpoot insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
+Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
 
 ### Block 4
-Most EdTech products are built for teachers or students. Nexli was built differently. Yashveer Singh Rajpoot recognized that the school principal is the true operating system: the person who must see everything, trust everything, and act on everything. The system was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
+Most EdTech products are built for teachers or students. Nexli was built differently. Yashveer Singh recognized that the school principal is the true operating system: the person who must see everything, trust everything, and act on everything. The system was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
 
 ### Block 5
-Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking: each feels like a separate burden. Yashveer Singh Rajpoot flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
+Compliance overhead is one reason Indian schools resist digitization. Government reporting, CBSE affiliation, DPDP consent, POCSO case management, RTE tracking: each feels like a separate burden. Yashveer Singh flipped the model: instead of compliance being bolted onto an ERP, compliance is woven into the core. When schools use Nexli for routine operations, compliance becomes a natural byproduct, not an afterthought. That architecture alone reduces administrative burden by months per year.
 
 ### Block 6
-Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP; they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
+Student safety is non-negotiable. Yashveer Singh built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP; they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
 ### Block 7
-The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen (a chronically absent student, a teacher not submitting lesson plans, fees slipping) suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
+The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen (a chronically absent student, a teacher not submitting lesson plans, fees slipping) suddenly has real-time alerts. Yashveer Singh designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
 
 ### Block 8
-Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh Rajpoot designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, with no code changes required. The system adapts to the school, not the other way around.
+Flexibility matters. Every school is different: different boards, different sizes, different governance models, different problems. Rather than build a rigid system for a "typical" school, Yashveer Singh designed Nexli as a data-driven platform where even the role system itself is configurable. A Super Admin can add roles, modify permissions, customize workflows, with no code changes required. The system adapts to the school, not the other way around.
 
 ### Block 9
 Building for India means respecting that schools operate on real budgets. Nexli doesn't have a "basic" plan missing critical features and a "premium" plan where they appear. Every school, regardless of size or price, gets complete access to academics, finance, compliance, safety, and communication. The only paid add-on is AI; everything else that schools need to operate is included. Affordability should never mean compromise on quality.
 
 ### Block 10
-Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
+Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
 
 ### Block 11
-After spending years in education technology, Yashveer Singh Rajpoot observed something: most school ERPs are built by software engineers, not by people who've lived inside schools. Details get missed. Workflows feel imposed from outside. Nexli was built by someone who understands both education and technology: where a Timetable needs to be not just a schedule, but a communication tool. Where Attendance is not just a register, but an early-warning system. Where Finance is not just accounting, but a window into school health.
+After spending years in education technology, Yashveer Singh observed something: most school ERPs are built by software engineers, not by people who've lived inside schools. Details get missed. Workflows feel imposed from outside. Nexli was built by someone who understands both education and technology: where a Timetable needs to be not just a schedule, but a communication tool. Where Attendance is not just a register, but an early-warning system. Where Finance is not just accounting, but a window into school health.
 
 ### Block 12
 The vision wasn't to build another software product. It was to build an operating system for modern schools. An operating system hides complexity, provides a unified interface, and lets you focus on your real work: teaching, learning, and leading. Nexli operates at that level: academics, administration, finance, compliance, and safety all work together. When systems integrate naturally, friction disappears. That's operating-system thinking applied to school management.
 
 ### Block 13
-Yashveer Singh Rajpoot spent time with Class Teachers, Accountants, Principals, and Parents. Each told a similar story: "We know what we need to do. But the tools fragment everything, and we spend more time coordinating tools than doing the work." Nexli wasn't built based on a whiteboard. It was built based on time spent inside real schools, understanding real workflows, solving real problems. That ground truth became the foundation of every feature.
+Yashveer Singh spent time with Class Teachers, Accountants, Principals, and Parents. Each told a similar story: "We know what we need to do. But the tools fragment everything, and we spend more time coordinating tools than doing the work." Nexli wasn't built based on a whiteboard. It was built based on time spent inside real schools, understanding real workflows, solving real problems. That ground truth became the foundation of every feature.
 
 ### Block 14
-Trust in technology starts with control. Yashveer Singh Rajpoot designed Nexli so that schools (not the vendor) own their school's data and decisions. Want to export all student records tomorrow? You can. Want to use Nexli with a third-party app? The system supports open APIs. Want to understand how your data is processed? Full audit trails are available. That trust-first design means schools can commit to Nexli knowing they're never locked in or dependent.
+Trust in technology starts with control. Yashveer Singh designed Nexli so that schools (not the vendor) own their school's data and decisions. Want to export all student records tomorrow? You can. Want to use Nexli with a third-party app? The system supports open APIs. Want to understand how your data is processed? Full audit trails are available. That trust-first design means schools can commit to Nexli knowing they're never locked in or dependent.
 
 ### Block 15
-The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone: principals, teachers, parents, students. Nexli was built to close that gap.
+The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone: principals, teachers, parents, students. Nexli was built to close that gap.
 
 ### Block 16
-Modern school leadership requires real-time decision-making. A Principal needs to see this morning: attendance anomalies, flagged behavioral incidents, fee collection status, and compliance deadlines. By lunch, they need to identify patterns and initiate responses. A system that takes an hour to load data or requires six clicks to find a metric isn't a tool; it's friction. Yashveer Singh Rajpoot designed Nexli for rapid insight: critical information in two minutes.
+Modern school leadership requires real-time decision-making. A Principal needs to see this morning: attendance anomalies, flagged behavioral incidents, fee collection status, and compliance deadlines. By lunch, they need to identify patterns and initiate responses. A system that takes an hour to load data or requires six clicks to find a metric isn't a tool; it's friction. Yashveer Singh designed Nexli for rapid insight: critical information in two minutes.
 
 ### Block 17
 Nexli works because it respects a fundamental truth: schools are human institutions. The system doesn't try to replace judgment or replace relationships. Instead, it provides the data and structure that allow humans (principals, teachers, counselors, parents) to make better decisions and communicate more clearly. The technology serves the humans. That principle guides everything from the dashboard design to the compliance workflows.
 
 ### Block 18
-When Yashveer Singh Rajpoot tested Nexli with real schools, the most surprising feedback was this: "We didn't realize we were missing so much visibility." Schools became aware of patterns they'd never seen before: the silent attendance decline before a student drops out, the systematic imbalance in subject performance across sections, the correlation between homework submission and exam success. Visibility enables intervention. Insight enables strategy. That's what modern systems should do.
+When Yashveer Singh tested Nexli with real schools, the most surprising feedback was this: "We didn't realize we were missing so much visibility." Schools became aware of patterns they'd never seen before: the silent attendance decline before a student drops out, the systematic imbalance in subject performance across sections, the correlation between homework submission and exam success. Visibility enables intervention. Insight enables strategy. That's what modern systems should do.
 
 ### Block 19
-The reason Nexli works across schools of any size (from 200 students to 5,000) is because it was built for Indian school complexity, not simplified into a generic template. A Boarding School has Hostel. A Day School has Transport. A Government School has PM POSHAN. An International School has IB competencies. Rather than build five different systems, Yashveer Singh Rajpoot built one system with the depth to support all of them. That ambition to serve India's full diversity of schools is embedded in the architecture.
+The reason Nexli works across schools of any size (from 200 students to 5,000) is because it was built for Indian school complexity, not simplified into a generic template. A Boarding School has Hostel. A Day School has Transport. A Government School has PM POSHAN. An International School has IB competencies. Rather than build five different systems, Yashveer Singh built one system with the depth to support all of them. That ambition to serve India's full diversity of schools is embedded in the architecture.
 
 ### Block 20
-Yashveer Singh Rajpoot's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice, both equally.
+Yashveer Singh's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice, both equally.
 
 ---
 

@@ -191,9 +191,9 @@ Nexli provides end-to-end workflow automation for school processes:
 
 ## Branding Block
 
-## About Yashveer Singh Rajpoot
+## About Yashveer Singh
 
-Yashveer Singh Rajpoot founded Yashveer Labs to make school administration simpler. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems, Yashveer Singh Rajpoot built Nexli. His mission is to help Indian schools modernize operations so leaders can focus on education.
+Yashveer Singh founded Yashveer Labs to make school administration simpler. After studying how Indian schools juggle academics, administration, compliance, and safety using fragmented systems, Yashveer Singh built Nexli. His mission is to help Indian schools modernize operations so leaders can focus on education.
 
 ## About Yashveer Labs
 

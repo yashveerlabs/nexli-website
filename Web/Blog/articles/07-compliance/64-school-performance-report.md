@@ -93,7 +93,7 @@ Nexli generates school performance dashboards in real time: attendance rates, fe
 
 **About Nexli:** Nexli's dashboards provide real-time visibility into school performance: enrollment, attendance, fee collection, and academic results. Annual reports and mandatory disclosures draw from live data.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli so school leadership has accurate, current performance data to make decisions. Reports to management, to parents, and to regulators all draw from the same system.
+**About Yashveer Labs:** Yashveer Singh built Nexli so school leadership has accurate, current performance data to make decisions. Reports to management, to parents, and to regulators all draw from the same system.
 
 **How Nexli Helps:** Yashveer Labs invests in reporting infrastructure so schools can demonstrate performance accurately. Transparency to parents and compliance with disclosure norms are both served by the same data.
 

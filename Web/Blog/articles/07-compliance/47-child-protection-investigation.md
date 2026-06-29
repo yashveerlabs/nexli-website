@@ -84,7 +84,7 @@ Nexli's child protection module provides the CPO with a clear workflow: intake, 
 
 **About Nexli:** Nexli's child protection module is built around POCSO compliance: encrypted case files, CPO-only access, FIR tracking, and investigation cooperation checklists. The architecture supports correct procedure.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot designed Nexli's case management so schools can demonstrate they followed proper POCSO procedures at every step. Every action is timestamped and logged. If a regulator or court asks what the school did and when, the record is there.
+**About Yashveer Labs:** Yashveer Singh designed Nexli's case management so schools can demonstrate they followed proper POCSO procedures at every step. Every action is timestamped and logged. If a regulator or court asks what the school did and when, the record is there.
 
 **How Nexli Helps:** Yashveer Labs understands that in child protection cases, procedural correctness protects everyone: the child, the school, and even the accused's right to a fair process. The system is built to support correct procedure, not work around it.
 

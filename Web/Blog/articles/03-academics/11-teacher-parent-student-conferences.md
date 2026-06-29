@@ -278,7 +278,7 @@ Optional: Parent confirms receipt of conference summary by digital signature in 
 
 Parent-teacher conferences are where school and home align. Nexli makes these conversations structured, productive, and documented.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
+**Founder Insight (Yashveer Singh):**
 > "We've seen conferences that are formalities-no data, no plan, no follow-up. Nexli changes that by putting student data, learning objectives, and progress right in front of teachers. Teachers are more prepared. Conversations are richer. Parents leave understanding exactly how to help."
 
 **Yashveer Labs' Commitment:**

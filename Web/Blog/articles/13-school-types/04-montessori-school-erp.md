@@ -304,9 +304,9 @@ Nexli's parent portal for Montessori schools shows observations, portfolio photo
 
 ---
 
-**About Yashveer Singh Rajpoot:**
+**About Yashveer Singh:**
 
-Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh Rajpoot insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
+Building Nexli required understanding something most software companies miss about Indian schools: they are not smaller versions of Western institutions. They have unique regulatory pressures (DPDP, POCSO, RTE), unique operational constraints (paper still matters, connectivity isn't guaranteed), and unique values (serving communities, protecting children). Yashveer Singh insisted Nexli be built from this ground up, not adapted from a global template. That commitment to India-first design runs through every line of code.
 
 **About Yashveer Labs:**
 

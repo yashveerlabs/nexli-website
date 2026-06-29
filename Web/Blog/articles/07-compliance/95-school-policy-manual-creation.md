@@ -107,7 +107,7 @@ Nexli's governance module maintains policy documents with version control, appro
 
 **About Nexli:** Nexli's governance module stores and manages school policies with version control and approval tracking. Staff access current policy versions through the system, reducing the "I didn't know" defense in disputes.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's document management with version control because policies that are updated without version tracking create confusion about which version applies. The system maintains the authoritative current version.
+**About Yashveer Labs:** Yashveer Singh built Nexli's document management with version control because policies that are updated without version tracking create confusion about which version applies. The system maintains the authoritative current version.
 
 **How Nexli Helps:** Yashveer Labs invests in policy management infrastructure because well-documented policies are the foundation of consistent school operations. A school where everyone knows the rules is a school that operates with less conflict.
 

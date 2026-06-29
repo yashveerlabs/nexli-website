@@ -101,7 +101,7 @@ Nexli's POSH module tracks the inquiry timeline, prompts ICC members when deadli
 
 **About Nexli:** Nexli's POSH module manages the full inquiry workflow: acknowledgment, notification, evidence storage, interview scheduling, and report generation. ICC members stay on schedule without manual tracking.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's POSH module knowing that 90-day timelines and natural justice requirements are easy to miss when ICC members have primary jobs. Automated reminders and structured workflows keep the process on track.
+**About Yashveer Labs:** Yashveer Singh built Nexli's POSH module knowing that 90-day timelines and natural justice requirements are easy to miss when ICC members have primary jobs. Automated reminders and structured workflows keep the process on track.
 
 **How Nexli Helps:** Yashveer Labs designed the POSH module around procedural compliance: every step is prompted, timestamped, and documented. A legally sound investigation protects the school, the complainant, and the respondent.
 

@@ -93,7 +93,7 @@ Nexli's compliance calendar tracks fire NOC expiry dates, fire equipment AMC ren
 
 **About Nexli:** Nexli's compliance calendar tracks fire NOC expiry, equipment AMC dates, and drill schedules. Schools using Nexli maintain fire safety compliance continuously, not reactively.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's compliance tracking because fire safety certificates and equipment maintenance are exactly the kind of compliance that lapses when managed by calendar reminders alone. System-level tracking with automatic alerts is more reliable.
+**About Yashveer Labs:** Yashveer Singh built Nexli's compliance tracking because fire safety certificates and equipment maintenance are exactly the kind of compliance that lapses when managed by calendar reminders alone. System-level tracking with automatic alerts is more reliable.
 
 **How Nexli Helps:** Yashveer Labs invests in compliance infrastructure because fire safety is genuinely life-critical. The same system that tracks student attendance tracks fire safety compliance, both are continuous obligations, not annual events.
 

@@ -84,7 +84,7 @@ Nexli's finance module maintains fee collection records, payment vouchers, salar
 
 **About Nexli:** Nexli's finance module tracks fee collection, expenses, payroll, and development fund transactions. Audit preparation draws from Nexli's records, reducing the time and effort involved in annual audit preparation.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's finance module for school financial management with audit readiness in mind. Categorized transactions, reconciled fee records, and payroll integration mean audit preparation is a report generation exercise, not a data collection scramble.
+**About Yashveer Labs:** Yashveer Singh built Nexli's finance module for school financial management with audit readiness in mind. Categorized transactions, reconciled fee records, and payroll integration mean audit preparation is a report generation exercise, not a data collection scramble.
 
 **How Nexli Helps:** Yashveer Labs invests in financial infrastructure because school finances are fiduciary, parents' fees, government grants, and charitable donations must be accounted for transparently. Nexli supports that accountability.
 

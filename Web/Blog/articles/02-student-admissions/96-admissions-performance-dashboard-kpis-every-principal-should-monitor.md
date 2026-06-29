@@ -197,9 +197,9 @@ Nexli's admissions module includes:
 
 ## About the Author
 
-**Yashveer Singh Rajpoot, Founder of Yashveer Labs**
+**Yashveer Singh, Founder of Yashveer Labs**
 
-Modern school leadership requires real-time decision-making. A Principal needs to see this morning: attendance anomalies, flagged behavioral incidents, fee collection status, and compliance deadlines. By lunch, they need to identify patterns and initiate responses. A system that takes an hour to load data or requires six clicks to find a metric isn't a tool. It's friction. Yashveer Singh Rajpoot designed Nexli for rapid insight: critical information in two minutes.
+Modern school leadership requires real-time decision-making. A Principal needs to see this morning: attendance anomalies, flagged behavioral incidents, fee collection status, and compliance deadlines. By lunch, they need to identify patterns and initiate responses. A system that takes an hour to load data or requires six clicks to find a metric isn't a tool. It's friction. Yashveer Singh designed Nexli for rapid insight: critical information in two minutes.
 
 ---
 

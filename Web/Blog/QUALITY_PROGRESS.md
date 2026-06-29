@@ -456,7 +456,7 @@
 |-----|-------|-------|
 | Em-dashes | ~75+ | Body em-dashes replaced with colons, commas, periods, hyphens per context |
 | AI clichés | ~40+ | seamlessly, leverage, utilize, comprehensive, robust, Seamless Communication heading |
-| Entity names | ~75+ | Nexli ERP→Nexli, bare Yashveer→Yashveer Singh Rajpoot, informal bios replaced |
+| Entity names | ~75+ | Nexli ERP→Nexli, bare Yashveer→Yashveer Singh, informal bios replaced |
 | CTA URL/text | ~140+ | nexli.in/nexli.io→/demo; Book a Free Demo /demo section added to all articles |
 | Branding blocks | 118 | Virtually all articles had wrong/placeholder block body text; replaced with exact BRANDING_BLOCKS.md text matching frontmatter numbers |
 | Factual claims | 8 | Unverifiable "500+ schools / 50,000+ students" claims removed from 8 legacy articles |

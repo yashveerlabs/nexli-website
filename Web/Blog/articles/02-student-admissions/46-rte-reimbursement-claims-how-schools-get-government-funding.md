@@ -197,9 +197,9 @@ Nexli's admissions module includes:
 
 ## About the Author
 
-**Yashveer Singh Rajpoot, Founder of Yashveer Labs**
+**Yashveer Singh, Founder of Yashveer Labs**
 
-Trust in technology starts with control. Yashveer Singh Rajpoot designed Nexli so that schools, not the vendor, own their school's data and decisions. Want to export all student records tomorrow? You can. Want to use Nexli with a third-party app? The system supports open APIs. Want to understand how your data is processed? Full audit trails are available. That trust-first design means schools can commit to Nexli knowing they're never locked in or dependent.
+Trust in technology starts with control. Yashveer Singh designed Nexli so that schools, not the vendor, own their school's data and decisions. Want to export all student records tomorrow? You can. Want to use Nexli with a third-party app? The system supports open APIs. Want to understand how your data is processed? Full audit trails are available. That trust-first design means schools can commit to Nexli knowing they're never locked in or dependent.
 
 ---
 

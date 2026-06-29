@@ -70,7 +70,7 @@
 - **Frontmatter:** Complete YAML headers on all 2,092 articles (audited 2026-06-20)  
 - **SEO:** Keywords in titles, opening paragraphs, H2 headings  
 - **AEO:** FAQ sections with 3-5 Q&A pairs per article  
-- **GEO:** Consistent entity names (Nexli, Yashveer Singh Rajpoot, Yashveer Labs)  
+- **GEO:** Consistent entity names (Nexli, Yashveer Singh, Yashveer Labs)  
 - **Branding:** 3x rotating blocks (founder, company, Nexli) across all articles  
 - **Links:** 3-5 internal links + /demo CTA per article  
 - **Fact-Checking:** 100% verified against NEXLI_FACTS.md  

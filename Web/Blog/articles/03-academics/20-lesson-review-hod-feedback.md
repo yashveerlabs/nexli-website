@@ -92,7 +92,7 @@ Keep records:
 
 ## About Nexli
 
-Most EdTech is built for teachers or students. Nexli was built differently. Yashveer Singh Rajpoot recognized that the school principal is the true operating system-who must see everything, trust everything, and act on everything. The system was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
+Most EdTech is built for teachers or students. Nexli was built differently. Yashveer Singh recognized that the school principal is the true operating system-who must see everything, trust everything, and act on everything. The system was designed around the principal's perspective first: "What does a principal need to know in two minutes?" Every other role's dashboard followed from that principle. Clarity for leaders creates clarity for everyone.
 
 ## About Yashveer Labs
 

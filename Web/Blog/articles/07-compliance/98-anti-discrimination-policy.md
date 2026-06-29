@@ -92,7 +92,7 @@ Nexli's admission module supports non-discriminatory admission by focusing on ac
 
 **About Nexli:** Nexli's admission and student management modules support non-discriminatory processes: merit-based admission criteria, objective assessment recording, and equal access to school services for all enrolled students.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli for diverse schools: 118+ configurable roles, multilingual support, and processes that work for students of all backgrounds. Inclusive by design, not by exception.
+**About Yashveer Labs:** Yashveer Singh built Nexli for diverse schools: 118+ configurable roles, multilingual support, and processes that work for students of all backgrounds. Inclusive by design, not by exception.
 
 **How Nexli Helps:** Yashveer Labs invests in systems that support fair treatment as the default. When processes are objective and documented, discrimination is harder to perpetrate and easier to identify.
 

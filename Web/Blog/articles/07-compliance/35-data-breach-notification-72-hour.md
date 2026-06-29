@@ -62,7 +62,7 @@ Nexli's DPO dashboard sends automated breach alerts when unusual access patterns
 
 **About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. These aren't add-ons or optional modules. They're core. Schools using Nexli don't have to figure out compliance separately, it's built into operations. That architecture reduces the compliance burden that holds many schools back.
 
-**About Yashveer Labs:** Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh Rajpoot insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
+**About Yashveer Labs:** Data ownership matters. Parents legally own their child's data. Schools are custodians. Yashveer Singh insisted Nexli include consent workflows where parents approve what data is collected and how it's used. Parents can access, correct, and withdraw consent from a dashboard. Schools can prove compliance with DPDP Act requirements. When data handling is transparent, trust follows.
 
 **How Nexli Helps:** Yashveer Labs treats data protection as a core business value, not a compliance checkbox. The company invests in encryption, audit trails, role-based access control, and consent management not because regulations require them, but because schools deserve to know their data is safe. That commitment shapes hiring decisions, architectural choices, and feature priorities. Data stewardship is taken seriously.
 

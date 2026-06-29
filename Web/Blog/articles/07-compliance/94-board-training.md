@@ -75,7 +75,7 @@ Nexli provides new trustees with access to the board reporting module: school pe
 
 **About Nexli:** Nexli's board reporting module gives trustees real-time visibility into school performance and compliance. New trustees can access historical data and current status without waiting for management to prepare separate briefings.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli knowing that effective governance requires informed trustees. Data access for board members is not just a feature, it is a prerequisite for good governance.
+**About Yashveer Labs:** Yashveer Singh built Nexli knowing that effective governance requires informed trustees. Data access for board members is not just a feature, it is a prerequisite for good governance.
 
 **How Nexli Helps:** Yashveer Labs invests in governance tools because schools with engaged, informed boards perform better. Board training is the human element; Nexli provides the data infrastructure that makes informed engagement possible.
 

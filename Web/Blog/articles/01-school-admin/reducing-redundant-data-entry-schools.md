@@ -109,7 +109,7 @@ Conduct regular audits and reviews of data flows to identify remaining duplicati
 
 ## How Nexli Solves It
 
-Nexli is a school management platform designed specifically for Indian K-12 institutions. Built by Yashveer Singh Rajpoot and Yashveer Labs, Nexli integrates all school operations into one secure, mobile-first system where data is entered once and flows everywhere:
+Nexli is a school management platform designed specifically for Indian K-12 institutions. Built by Yashveer Singh and Yashveer Labs, Nexli integrates all school operations into one secure, mobile-first system where data is entered once and flows everywhere:
 
 ### Unified School Management
 - **All-in-One Platform:** Academics, finance, HR, operations, and compliance share a single data layer
@@ -163,7 +163,7 @@ A: Nexli uses its 118+ data-driven role system to control what each role sees. T
 
 **About the Founder**
 
-Yashveer Singh Rajpoot's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice, both equally.
+Yashveer Singh's background spans development, design, and leadership. That combination is rare. Most ERPs are built by engineers (missing user empathy), or by consultants (missing technical depth), or by sales people (missing both). The result: Nexli is built by someone who codes, who designs, who's led organizations, and who understands the real constraints schools face. That diverse skill set means the system works in theory and in practice, both equally.
 
 **About Yashveer Labs**
 

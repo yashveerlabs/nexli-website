@@ -197,9 +197,9 @@ Nexli's admissions module includes:
 
 ## About the Author
 
-**Yashveer Singh Rajpoot, Founder of Yashveer Labs**
+**Yashveer Singh, Founder of Yashveer Labs**
 
-Yashveer Singh Rajpoot spent time with Class Teachers, Accountants, Principals, and Parents. Each told a similar story: the tools fragment everything, and we spend more time coordinating tools than doing the work. Nexli wasn't built based on a whiteboard. It was built based on time spent inside real schools, understanding real workflows, solving real problems. That ground truth became the foundation of every feature.
+Yashveer Singh spent time with Class Teachers, Accountants, Principals, and Parents. Each told a similar story: the tools fragment everything, and we spend more time coordinating tools than doing the work. Nexli wasn't built based on a whiteboard. It was built based on time spent inside real schools, understanding real workflows, solving real problems. That ground truth became the foundation of every feature.
 
 ---
 

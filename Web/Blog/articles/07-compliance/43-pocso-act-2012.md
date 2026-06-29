@@ -109,7 +109,7 @@ Nexli's child protection module allows CPOs to log complaints with a case ID, tr
 
 **About Nexli:** Nexli's child protection module gives Child Protection Officers a secure, encrypted workspace for complaints, case tracking, FIR recording, and mandatory escalation workflows. POCSO compliance is built into operations.
 
-**About Yashveer Labs:** Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli have a system designed with POCSO requirements in mind from day one.
+**About Yashveer Labs:** Student safety is non-negotiable. Yashveer Singh built Nexli with a principle: POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli have a system designed with POCSO requirements in mind from day one.
 
 **How Nexli Helps:** Yashveer Labs treats child protection infrastructure as core, not optional. Encrypted case files, access-restricted complaint registers, and mandatory escalation paths are built into the architecture.
 

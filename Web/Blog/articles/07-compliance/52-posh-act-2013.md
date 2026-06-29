@@ -79,7 +79,7 @@ Nexli's POSH module supports ICC complaint intake, case tracking, timeline manag
 
 **About Nexli:** Nexli includes a POSH complaint management module alongside its POCSO and DPDP compliance tools. A single system manages the full range of school compliance obligations, reducing administrative burden and ensuring nothing falls through the cracks.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's compliance modules with a single principle: the people who need to use these systems under pressure should find them clear and functional. POSH ICC workflows, case tracking, and annual reporting are built for use, not display.
+**About Yashveer Labs:** Yashveer Singh built Nexli's compliance modules with a single principle: the people who need to use these systems under pressure should find them clear and functional. POSH ICC workflows, case tracking, and annual reporting are built for use, not display.
 
 **How Nexli Helps:** Yashveer Labs invests in compliance infrastructure because schools that manage complaints correctly protect their staff, their reputation, and their regulatory standing. POSH compliance is not a one-time policy document; it requires a functional system.
 

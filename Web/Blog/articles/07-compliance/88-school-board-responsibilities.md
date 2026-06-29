@@ -84,7 +84,7 @@ Nexli provides board members with access to school performance dashboards, finan
 
 **About Nexli:** Nexli's board reporting module gives governing body members real-time visibility into school performance, compliance status, and financial health. Good governance starts with good information.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli knowing that school boards often lack the information they need to govern effectively. Real-time dashboards and board-specific reports give trustees the data they need to exercise meaningful oversight.
+**About Yashveer Labs:** Yashveer Singh built Nexli knowing that school boards often lack the information they need to govern effectively. Real-time dashboards and board-specific reports give trustees the data they need to exercise meaningful oversight.
 
 **How Nexli Helps:** Yashveer Labs invests in governance infrastructure because informed board members make better decisions. Transparency in operations starts with the governing board having access to accurate, current information.
 

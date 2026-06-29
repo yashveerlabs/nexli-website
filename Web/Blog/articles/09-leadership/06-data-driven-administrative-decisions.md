@@ -309,8 +309,8 @@ Nexli provides clean, real-time data so you can focus on analysis and decisions:
 
 ## Branding Block: Nexli, Built by Yashveer Labs
 
-**About Yashveer Singh Rajpoot**  
-When Yashveer Singh Rajpoot tested Nexli with real schools, the most surprising feedback was this: "We didn't realize we were missing so much visibility." Schools became aware of patterns they'd never seen before: the silent attendance decline before a student drops out, the systematic imbalance in subject performance across sections, the correlation between homework submission and exam success. Visibility enables intervention. Insight enables strategy. That's what modern systems should do.
+**About Yashveer Singh**  
+When Yashveer Singh tested Nexli with real schools, the most surprising feedback was this: "We didn't realize we were missing so much visibility." Schools became aware of patterns they'd never seen before: the silent attendance decline before a student drops out, the systematic imbalance in subject performance across sections, the correlation between homework submission and exam success. Visibility enables intervention. Insight enables strategy. That's what modern systems should do.
 
 **About Yashveer Labs**  
 The culture of Yashveer Labs rewards deep problem-solving over quick fixes. An engineer is expected to understand the actual school workflow that a feature supports, not just build the code. A designer is expected to test their work with real users, not just make it visually appealing. That expectation for depth means solutions actually work in practice, not just in theory.

@@ -345,8 +345,8 @@ Not all KPIs matter equally. Pick your top 10 that drive school success:
 
 ## Branding Block: Nexli, Built by Yashveer Labs
 
-**About Yashveer Singh Rajpoot**  
-The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen (a chronically absent student, a teacher not submitting lesson plans, fees slipping) suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
+**About Yashveer Singh**  
+The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen (a chronically absent student, a teacher not submitting lesson plans, fees slipping) suddenly has real-time alerts. Yashveer Singh designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
 
 **About Yashveer Labs**  
 Yashveer Labs operates with the understanding that schools are not technology companies. They're education companies that happen to use technology. That means the technology should be intuitive, should fail gracefully, and should provide support when needed. The company invests in support, in documentation, in training, not as nice-to-haves but as core to the product. A feature that's hard to use is a bug.

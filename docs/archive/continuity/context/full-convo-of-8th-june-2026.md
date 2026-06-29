@@ -7,7 +7,7 @@
 │                        ▘▘ ▝▝                       │ Bug fixes and reliability improvements                                                              │
 │     Opus 4.8 with high effort · Claude Pro ·       │ Added `fallbackModel` setting to configure up to three fallback models tried in order when the pri… │
 │     yashveersr4@gmail.com's Organization           │ /release-notes for more                                                                             │
-│   ~\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli   │                                                                                                     │
+│   ~\Desktop\Yashveer Singh\My-Apps\Nexli   │                                                                                                     │
 ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 
  ⚠ 1 setup issue: MCP · /doctor
@@ -22,17 +22,17 @@
   You are taking over development of **NEXLI**, a premium, **mobile-first School Operating System** for Indian K-12 schools — a multi-tenant SaaS with a
   platform **Super Admin** layer above isolated per-school tenants. This is NOT a generic admin/ERP template. The quality bar is **Apple-Enterprise /
   Linear / Stripe**, in an **Obsidian + Gold + Ivory** identity, flawless mobile-first (320→1920px, no horizontal scroll, 60fps on 5-year-old Android),
-  WCAG 2.1 AA. The project is **approved and actively under construction** in `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\Web`.
+  WCAG 2.1 AA. The project is **approved and actively under construction** in `C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\Web`.
 
   ## STEP 1 — Read these first, in this exact order
-  1. `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\Web\context\LATEST_CONTEXT.md` — the canonical current project state (read fully).
-  2. `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\NEXLI_MASTER_SPECIFICATION.md` — the business source of truth (~50 roles, ~40 modules,
+  1. `C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\Web\context\LATEST_CONTEXT.md` — the canonical current project state (read fully).
+  2. `C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\NEXLI_MASTER_SPECIFICATION.md` — the business source of truth (~50 roles, ~40 modules,
   §12 Super Admin, §13 import, §14 tech).
-  3. `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\Web\context\MODULE_STATUS.md` — the living module tracker (what's done / in-progress /
+  3. `C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\Web\context\MODULE_STATUS.md` — the living module tracker (what's done / in-progress /
   pending, with %).
-  4. `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\Web\docs\CONVENTIONS.md` — the engineering build contract (spine APIs, UI kit,
+  4. `C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\Web\docs\CONVENTIONS.md` — the engineering build contract (spine APIs, UI kit,
   feature-module layout, DOD).
-  5. `C:\Users\yashv\Desktop\Yashveer Singh Rajpoot\My-Apps\Nexli\Web\docs\QUALITY_REVIEW.md` — the module completion gate.
+  5. `C:\Users\yashv\Desktop\Yashveer Singh\My-Apps\Nexli\Web\docs\QUALITY_REVIEW.md` — the module completion gate.
   Also available if needed: repo-root `NEXLI_BUILD_PLAN.md` (full architecture, §13A AI strategy, §14A free-tier constraints, §20 build sequence) and
   `FIREBASE_SETUP.md` (§0 free-tier mode); and `reference/` (visual source of truth, already ported to `Web/src/styles/nexli.css`). The newest
   `Web/context/context-*.md` and `Web/resume/resume-prompt-*.md` are the rolling history.
@@ -99,7 +99,7 @@
 
 ● Now let me confirm the current state of the codebase and build. Let me check the structure and run the build in parallel.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && ls node_modules >/dev/null 2>&1 && echo "node_modules: present" || echo
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && ls node_modules >/dev/null 2>&1 && echo "node_modules: present" || echo
       "node_modules: M…)
   ⎿  node_modules: present
 
@@ -107,7 +107,7 @@
 
 ● Build is the priority check. Let me run it and read a couple of key spine files to understand conventions for the form kit I'll build next.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run build 2>&1 | tail -30)
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run build 2>&1 | tail -30)
   ⎿  > nexli-web@0.1.0 build
      > tsc --noEmit && vite build
      … +24 lines (ctrl+o to expand)
@@ -714,7 +714,7 @@
 
 ● Now let me typecheck to catch any TS issues before wiring the demo.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | head -50)
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | head -50)
   ⎿  > nexli-web@0.1.0 typecheck
      > tsc --noEmit
      … +5 lines (ctrl+o to expand)
@@ -732,7 +732,7 @@
       7    size?: 'sm' | 'md' | 'lg';
       8    /** Leading glyph (e.g. 'search', 'mail'). */
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | head -50)
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | head -50)
   ⎿  > nexli-web@0.1.0 typecheck
      > tsc --noEmit
 
@@ -809,7 +809,7 @@
 
 ● Now run the full build to confirm everything is green.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run build 2>&1 | tail -30)
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run build 2>&1 | tail -30)
   ⎿  > nexli-web@0.1.0 build
      > tsc --noEmit && vite build
      … +24 lines (ctrl+o to expand)
@@ -818,13 +818,13 @@
 ● Build is green — 148 modules, TypeScript clean. Let me verify the dev server boots without runtime errors, then update the recovery docs. First, check the
   existing checkpoint file naming convention.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && ls -1 context/ resume/ 2>&1)
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && ls -1 context/ resume/ 2>&1)
   ⎿  context/:
      LATEST_CONTEXT.md
      MODULE_STATUS.md
      … +15 lines (ctrl+o to expand)
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && timeout 18 npm run dev > dev.log 2>&1 & sleep 11 && (curl -s -o /dev/null -w
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && timeout 18 npm run dev > dev.log 2>&1 & sleep 11 && (curl -s -o /dev/null -w
       "HTTP %{htt…)
   ⎿  HTTP 200
      ---log tail---
@@ -833,7 +833,7 @@
 
 ● Dev server boots cleanly and /kit returns HTTP 200. Let me clean up the temp log, then mark tasks complete and update the recovery system.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && rm -f dev.log && echo "cleaned")
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && rm -f dev.log && echo "cleaned")
   ⎿  cleaned
 
 ● Now update the recovery system. First the module tracker:
@@ -1060,7 +1060,7 @@
 
 ● Now snapshot both canonical files into timestamped rolling-history copies.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && cp resume/LATEST_RESUME_PROMPT.md resume/resume-prompt-2026-06-07-11-20.md &&
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && cp resume/LATEST_RESUME_PROMPT.md resume/resume-prompt-2026-06-07-11-20.md &&
       echo "resu…)
   ⎿  resume snapshot written
      resume-prompt-2026-06-07-01-31.md
@@ -1191,14 +1191,14 @@
 
 ● I now have the full spine in view. Let me check what Firebase project config already exists before architecting P1.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli" && echo "=== repo root ===" && ls -1a Web/ | grep -iE
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli" && echo "=== repo root ===" && ls -1a Web/ | grep -iE
       'env|firebase|firestore|\.firebaserc' ; e…)
   ⎿  === repo root ===
      .env
      .env.example
      … +22 lines (ctrl+o to expand)
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && node -e "const fs=require('fs');const t=fs.readFileSync('.env','utf8');const
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && node -e "const fs=require('fs');const t=fs.readFileSync('.env','utf8');const
       m=t.match(/…)
   ⎿  API key set: true
      Project ID: nexli-erp
@@ -1501,7 +1501,7 @@
 
 ● Let me typecheck the P1 routing/auth work before moving to Firestore rules.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | head -40)
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | head -40)
   ⎿  > nexli-web@0.1.0 typecheck
      > tsc --noEmit
      … +5 lines (ctrl+o to expand)
@@ -1530,7 +1530,7 @@
       31 +  void registerModule;
       32  }
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | head -20)
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | head -20)
   ⎿  > nexli-web@0.1.0 typecheck
      > tsc --noEmit
 
@@ -1682,7 +1682,7 @@
 ● Now let me run the full build to confirm P1 is green. (firebase-admin is only used by the bootstrap script, outside the Vite/tsc scope, so it won't affect
   the build.)
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run build 2>&1 | tail -22)
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run build 2>&1 | tail -22)
   ⎿  ✓ 163 modules transformed.
      rendering chunks...
      computing gzip size...
@@ -1691,7 +1691,7 @@
 
 ● Build green (163 modules). Let me boot the dev server and confirm the new auth/router wiring serves without transform errors.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && (npm run dev > dev.log 2>&1 &) ; sleep 9 ; echo "--- /login ---"; curl -s -o
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && (npm run dev > dev.log 2>&1 &) ; sleep 9 ; echo "--- /login ---"; curl -s -o
       /dev/null -…)
   ⎿  --- /login ---
      HTTP 200
@@ -1873,7 +1873,7 @@
           -QR uploads.
       48  - A reCAPTCHA site key (App Check) when hardening auth.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && cp resume/LATEST_RESUME_PROMPT.md resume/resume-prompt-2026-06-07-12-05.md &&
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && cp resume/LATEST_RESUME_PROMPT.md resume/resume-prompt-2026-06-07-12-05.md &&
       echo "snap…)
   ⎿  snapshot written
 
@@ -2171,7 +2171,7 @@
 
 ● Foundation done. Let me verify it typechecks and read the DataTable/KPICard APIs before building the registry UI.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | head -20)
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | head -20)
   ⎿  > nexli-web@0.1.0 typecheck
      > tsc --noEmit
 
@@ -2225,7 +2225,7 @@
 
 ● Let me re-orient by checking the exact state of the P2 schools module and what's been wired so far.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && echo "=== schools dir ===" && ls -1 src/features/platform/schools/
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && echo "=== schools dir ===" && ls -1 src/features/platform/schools/
       2>/dev/null && echo "…)
   ⎿  === schools dir ===
      SchoolDetailPage.tsx
@@ -2419,7 +2419,7 @@
       126            state: st.state || undefined,
       127            pincode: st.pincode || undefined,
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | head -30)
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | head -30)
   ⎿  > nexli-web@0.1.0 typecheck
      > tsc --noEmit
 
@@ -2435,7 +2435,7 @@
       16  } from '@/components/form';
       17  import { useToast } from '@/components/Toast';
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run build 2>&1 | tail -16)
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run build 2>&1 | tail -16)
   ⎿  dist/assets/routes-q3z7viza.js     37.71 kB │ gzip:  11.96 kB │ map:   119.35 kB
      dist/assets/router--pA3agt4.js     91.28 kB │ gzip:  30.91 kB │ map:   560.46 kB
      dist/assets/index-CvHFTQKD.js     104.32 kB │ gzip:  30.72 kB │ map:   315.87 kB
@@ -2526,7 +2526,7 @@
 
 ● The data contract is complete. Let me typecheck it before subagents build on it, and mark the reference module done.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | head -15)
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | head -15)
   ⎿  > nexli-web@0.1.0 typecheck
      > tsc --noEmit
 
@@ -2632,7 +2632,7 @@
 ● Now let me typecheck — filtering for my dashboard files (subagent folders may show in-progress errors, which is expected; they self-verify before
   finishing).
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | grep -iE "dashboard|screens/Dashboard" || echo "no
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run typecheck 2>&1 | grep -iE "dashboard|screens/Dashboard" || echo "no
       errors in da…)
   ⎿  no errors in dashboard files
 
@@ -2814,7 +2814,7 @@
 
 ● Now the full integration build — all 13 platform modules together:
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run build 2>&1 | grep -iE "error|Error TS|✓ built|modules transformed" |
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run build 2>&1 | grep -iE "error|Error TS|✓ built|modules transformed" |
       head -40 ||…)
   ⎿  ✓ 214 modules transformed.
      ✓ built in 2.16s
@@ -2823,7 +2823,7 @@
 ● Build green — 214 modules (up from 163), all platform modules integrated as lazy chunks. Let me confirm the dev server boots cleanly, then finalize P2
   docs.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && (npm run dev > dev.log 2>&1 &) ; sleep 9 ; curl -s -o /dev/null -w "login
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && (npm run dev > dev.log 2>&1 &) ; sleep 9 ; curl -s -o /dev/null -w "login
       HTTP %{http_co…)
   ⎿  login HTTP 200
      root HTTP 200
@@ -2837,7 +2837,7 @@
 
 ● No shortcuts or placeholders. P2 is complete and build-green. Let me mark it done and update the recovery docs.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && echo "Platform modules:" && ls -1 src/features/platform/ && echo "" && echo
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && echo "Platform modules:" && ls -1 src/features/platform/ && echo "" && echo
       "Total platf…)
   ⎿  Platform modules:
      activities
@@ -2981,7 +2981,7 @@
       44
       45  **Continue the autonomous build (do NOT stop between phases):**
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && cp resume/LATEST_RESUME_PROMPT.md resume/resume-prompt-2026-06-07-13-10.md &&
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && cp resume/LATEST_RESUME_PROMPT.md resume/resume-prompt-2026-06-07-13-10.md &&
       echo "snap…)
   ⎿  snapshot written
 
@@ -3220,7 +3220,7 @@
       40    // --- P4 Daily operations & dashboards ---
       41    // (registered as built)
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run build 2>&1 | grep -iE "error|Error TS|✓ built|modules transformed" |
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run build 2>&1 | grep -iE "error|Error TS|✓ built|modules transformed" |
       head -30 ||…)
   ⎿  src/features/students/StudentProfilePage.tsx(14,15): error TS6196: 'Student' is declared but never used.
   ⎿  (timeout 4m)
@@ -3236,7 +3236,7 @@
       16
       17  const label = <T extends string>(opts: { value: T; label: string }[], v?: T) => opts.find((o) => o.value === v)?.label ?? v ?? '—';
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run build 2>&1 | grep -iE "error|Error TS|✓ built|modules transformed" |
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run build 2>&1 | grep -iE "error|Error TS|✓ built|modules transformed" |
       head -30 ||…)
   ⎿  ✓ 222 modules transformed.
      ✓ built in 2.22s
@@ -3281,7 +3281,7 @@
 ● The session limit terminated the three running subagents mid-work, so their files may be partial and could break the build. Let me assess exactly what
   exists and whether it compiles.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && echo "=== admissions ===" && ls -1 src/features/admissions/ 2>/dev/null ||
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && echo "=== admissions ===" && ls -1 src/features/admissions/ 2>/dev/null ||
       echo "none";…)
   ⎿  === admissions ===
      none
@@ -3291,7 +3291,7 @@
 ● The subagents hit the limit before writing any files — nothing landed, so nothing is broken, but the four fan-out modules don't exist. Let me confirm the
   build is still green, then build them myself (reliable, no re-spawn risk).
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run build 2>&1 | grep -iE "error|✓ built|modules transformed" | head -10
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run build 2>&1 | grep -iE "error|✓ built|modules transformed" | head -10
       || echo don…)
   ⎿  ✓ 222 modules transformed.
      ✓ built in 2.47s
@@ -3413,7 +3413,7 @@
       43    // --- P4 Daily operations & dashboards ---
       44    // (registered as built)
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run build 2>&1 | grep -iE "error|Error TS|✓ built|modules transformed" |
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run build 2>&1 | grep -iE "error|Error TS|✓ built|modules transformed" |
       head -30 ||…)
   ⎿  src/features/hr/LeaveRequestsPage.tsx(8,17): error TS6133: 'Input' is declared but its value is never read.
      src/features/hr/LeaveRequestsPage.tsx(9,1): error TS6133: 'EmptyState' is declared but its value is never read.
@@ -3465,7 +3465,7 @@
       43    // --- P4 Daily operations & dashboards ---
       44    // (registered as built)
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web" && npm run build 2>&1 | grep -iE
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web" && npm run build 2>&1 | grep -iE
       "error|Error TS|✓ built|modules transformed" | head -30 ||…)
   ⎿  src/features/hr/LeaveRequestsPage.tsx(8,17): error TS6133: 'Input' is declared but its value is never read.
      src/features/hr/LeaveRequestsPage.tsx(9,1): error TS6133: 'EmptyState' is declared but its value is never read
@@ -3501,7 +3501,7 @@
   their files may be partial and could break the build. Let me assess
   exactly what exists and whether it compiles.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web"
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web"
       && echo "=== admissions ===" && ls -1 src/features/admissions/
       2>/dev/null || echo "none";…)
   ⎿  === admissions ===
@@ -3514,7 +3514,7 @@
   confirm the build is still green, then build them myself (reliable, no
   re-spawn risk).
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web"
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web"
       && npm run build 2>&1 | grep -iE "error|✓ built|modules transformed" |
       head -10 || echo don…)
   ⎿  ✓ 222 modules transformed.
@@ -3648,7 +3648,7 @@
       43    // --- P4 Daily operations & dashboards ---
       44    // (registered as built)
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web"
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web"
       && npm run build 2>&1 | grep -iE "error|Error TS|✓ built|modules
       transformed" | head -30 ||…)
   ⎿  src/features/hr/LeaveRequestsPage.tsx(8,17): error TS6133: 'Input'
@@ -3674,7 +3674,7 @@
       11  import { useLeaveRequests, useStaff, createLeaveRequest, up
           dateLeaveRequest } from '@/features/school/data';
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web"
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web"
       && npm run build 2>&1 | grep -iE "error|Error TS|✓ built|modules
       transformed" | head -30 ||…)
   ⎿  ✓ 242 modules transformed.
@@ -3753,7 +3753,7 @@
 ● Let me verify the dev server boots cleanly with the integrated P3 modules
   while the subagent works.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web"
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web"
       && (npm run dev > dev.log 2>&1 &) ; sleep 9 ; curl -s -o /dev/null -w
       "login HTTP %{http_co…)
   ⎿  login HTTP 200
@@ -3793,7 +3793,7 @@
   written partial files. Let me check what landed and whether the build
   still compiles.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web"
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web"
       && echo "=== import ===" && ls -1 src/features/students/import/
       2>/dev/null || echo "none";…)
   ⎿  === import ===
@@ -3954,7 +3954,7 @@
       5   background: rgba(198, 165, 92, 0.03);
       6 }
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web"
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web"
       && npm run build 2>&1 | grep -iE "error|Error TS|✓ built|modules
       transformed" | head -30 ||…)
   ⎿  ✓ 249 modules transformed.
@@ -3966,7 +3966,7 @@
   (structure/timetable/substitutions), HR (staff/leave). Let me verify dev
   boots and finalize.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web"
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web"
       && (npm run dev > dev.log 2>&1 &) ; sleep 9 ; curl -s -o /dev/null -w
       "login HTTP %{http_co…)
   ⎿  login HTTP 200
@@ -4191,7 +4191,7 @@
           ule; QUALITY_REVIEW before Complete; update `MODULE_STATUS.
           md` + rolling checkpoints (~10 min).
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web"
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web"
       && cp resume/LATEST_RESUME_PROMPT.md
       resume/resume-prompt-2026-06-08-p3.md && echo "snapsho…)
   ⎿  snapshot written
@@ -4327,7 +4327,7 @@
 ● Now let me typecheck the P4 foundation before building the attendance
   reference module.
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web"
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web"
       && npm run typecheck 2>&1 | head -20)
   ⎿  > nexli-web@0.1.0 typecheck
      > tsc --noEmit
@@ -4485,7 +4485,7 @@
          +MyAttendanceRoutes }))));
       47  }
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web"
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web"
       && npm run build 2>&1 | grep -iE "error|Error TS|✓ built|modules
       transformed" | head -20 ||…)
   ⎿  src/features/attendance/MarkAttendancePage.tsx(6,1): error TS6133:
@@ -4504,7 +4504,7 @@
          ;
       8  import { useToast } from '@/components/Toast';
 
-● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh Rajpoot/My-Apps/Nexli/Web"
+● Bash(cd "C:/Users/yashv/Desktop/Yashveer Singh/My-Apps/Nexli/Web"
       && npm run build 2>&1 | grep -iE "error|Error TS|✓ built|modules
       transformed" | head -20 ||…)
   ⎿  ✓ 256 modules transformed.

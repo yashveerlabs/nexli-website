@@ -101,7 +101,7 @@ Nexli's school operations module includes attendance tracking that provides the 
 
 **About Nexli:** Nexli tracks student attendance, enrollment, and scheme participation data that feeds into PM POSHAN reporting and inspections. Schools using Nexli have accurate, audit-ready records for government scheme compliance.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli so government scheme participation data is a byproduct of daily operations, not a parallel recording exercise. Attendance and enrollment records maintained for school management serve PM POSHAN compliance at the same time.
+**About Yashveer Labs:** Yashveer Singh built Nexli so government scheme participation data is a byproduct of daily operations, not a parallel recording exercise. Attendance and enrollment records maintained for school management serve PM POSHAN compliance at the same time.
 
 **How Nexli Helps:** Yashveer Labs invests in operational records that serve multiple compliance purposes. Accurate attendance data maintained in Nexli supports both school management and government scheme reporting.
 

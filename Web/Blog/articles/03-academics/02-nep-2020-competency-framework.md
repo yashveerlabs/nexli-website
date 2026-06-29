@@ -171,7 +171,7 @@ When auditors or education boards request proof of NEP 2020 alignment, Nexli gen
 
 Nexli was built by Yashveer Labs with deep understanding of NEP 2020 requirements. Competencies are not an add-on in Nexli; they're core to how the system measures student progress.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
+**Founder Insight (Yashveer Singh):**
 > "NEP 2020 is a watershed moment for Indian education. It shifts schools from asking 'Did students memorize the chapter?' to 'Can students think critically and work together?' Nexli's HPC and competency tracking modules make this transition direct. We built them because we know this is the future of school education in India."
 
 **Yashveer Labs' Commitment:**

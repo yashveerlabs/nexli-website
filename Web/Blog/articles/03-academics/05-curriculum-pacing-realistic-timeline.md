@@ -221,7 +221,7 @@ Parents see the pacing guide and actual progress. "Grade 8 is on pace; Chapter 5
 
 Realistic pacing is the glue that holds curriculum implementation together. Nexli makes it data-driven, visible, and adjustable.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
+**Founder Insight (Yashveer Singh):**
 > "We've watched teachers grind through material at unsustainable speeds because there was no pacing guide-or the guide was unrealistic. Nexli's pacing dashboard shows principals exactly how much time each chapter deserves, tracks actual progress, and alerts when adjustment is needed. This simple transparency transforms how schools manage their academic year."
 
 **Yashveer Labs' Commitment:**

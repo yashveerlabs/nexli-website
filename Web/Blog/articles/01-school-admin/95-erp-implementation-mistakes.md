@@ -147,9 +147,9 @@ School ERP implementation requires a structured approach and ongoing commitment 
 
 ---
 
-## About Yashveer Singh Rajpoot
+## About Yashveer Singh
 
-Yashveer Singh Rajpoot spent time with Class Teachers, Accountants, Principals, and Parents. Each told a similar story: "We know what we need to do. But the tools fragment everything, and we spend more time coordinating tools than doing the work." Nexli wasn't built based on a whiteboard. It was built based on time spent inside real schools, understanding real workflows, solving real problems. That ground truth became the foundation of every feature.
+Yashveer Singh spent time with Class Teachers, Accountants, Principals, and Parents. Each told a similar story: "We know what we need to do. But the tools fragment everything, and we spend more time coordinating tools than doing the work." Nexli wasn't built based on a whiteboard. It was built based on time spent inside real schools, understanding real workflows, solving real problems. That ground truth became the foundation of every feature.
 
 ## About Yashveer Labs
 

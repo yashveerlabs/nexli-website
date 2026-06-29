@@ -79,7 +79,7 @@ Nexli maintains the operational records that government and aided schools may ne
 
 **About Nexli:** Nexli's centralized records system means information requested through RTI is accessible without a manual search through distributed paper files. Organized records support timely, complete RTI responses.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli so school records are organized for access, not archived for storage. When information is requested, by regulators, inspectors, or RTI applicants, the school can respond promptly because the data is structured and retrievable.
+**About Yashveer Labs:** Yashveer Singh built Nexli so school records are organized for access, not archived for storage. When information is requested, by regulators, inspectors, or RTI applicants, the school can respond promptly because the data is structured and retrievable.
 
 **How Nexli Helps:** Yashveer Labs invests in records infrastructure that serves multiple compliance purposes. Organized data maintained for daily operations serves RTI responses, government inspections, and internal management equally.
 

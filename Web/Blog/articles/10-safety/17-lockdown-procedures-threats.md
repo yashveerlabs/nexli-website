@@ -170,9 +170,9 @@ Once threat is neutralized:
 
 ## Branding Block: Nexli, Built by Yashveer Labs
 
-**About Yashveer Singh Rajpoot**
+**About Yashveer Singh**
 
-Student safety is non-negotiable. Yashveer Singh Rajpoot built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP, they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
+Student safety is non-negotiable. Yashveer Singh built Nexli with a principle: direct messaging between students is disabled by default. Medical data is encrypted. Counselling case files are write-only lockers accessible only to authorized roles. POCSO complaints escalate automatically. Child data is treated with the legal and ethical weight it deserves. Schools using Nexli don't just have an ERP, they have a system designed with the POCSO Act and DPDP requirements in mind from day one.
 
 **About Yashveer Labs**
 

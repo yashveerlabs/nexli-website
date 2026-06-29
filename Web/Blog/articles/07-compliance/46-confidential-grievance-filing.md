@@ -85,7 +85,7 @@ Nexli's complaint intake system assigns a case ID to each complaint, restricts a
 
 **About Nexli:** Nexli's child protection module is built for confidentiality: encrypted case files, access-restricted records, anonymous intake, and audit trails. POCSO and POSH compliance is built into operations.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's complaint systems with write-only case logs, once an entry is made, it cannot be edited or deleted by staff. This protects both the complainant and the school's integrity. Records that cannot be tampered with are records that hold up under scrutiny.
+**About Yashveer Labs:** Yashveer Singh built Nexli's complaint systems with write-only case logs, once an entry is made, it cannot be edited or deleted by staff. This protects both the complainant and the school's integrity. Records that cannot be tampered with are records that hold up under scrutiny.
 
 **How Nexli Helps:** Yashveer Labs takes the structural protection of complainants seriously. The system's architecture, access controls, encryption, audit trails, is designed so confidentiality is maintained by default, not by relying on individual staff discretion.
 

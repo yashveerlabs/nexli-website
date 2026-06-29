@@ -94,7 +94,7 @@ Nexli's student management module includes behavioral incident records: incident
 
 **About Nexli:** Nexli's student management module tracks behavioral incidents, disciplinary actions, and parental communications. Schools using Nexli maintain fair, documented disciplinary records.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's behavioral tracking with fairness in mind. Documented incidents, balanced with documented responses, demonstrate that the school acts proportionately and consistently.
+**About Yashveer Labs:** Yashveer Singh built Nexli's behavioral tracking with fairness in mind. Documented incidents, balanced with documented responses, demonstrate that the school acts proportionately and consistently.
 
 **How Nexli Helps:** Yashveer Labs invests in student management infrastructure because fair discipline requires documentation. Records that exist protect both the student's right to fair treatment and the school's ability to demonstrate it.
 

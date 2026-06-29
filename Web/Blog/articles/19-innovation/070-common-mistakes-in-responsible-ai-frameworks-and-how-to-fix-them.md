@@ -221,9 +221,9 @@ A: Nexli uses per-student, per-month pricing with no per-staff fees. Most school
 
 ---
 
-## About Yashveer Singh Rajpoot
+## About Yashveer Singh
 
-The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh Rajpoot noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone: principals, teachers, parents, students. Nexli was built to close that gap.
+The idea behind creating Nexli wasn't to build a company. It was to solve a problem. Yashveer Singh noticed that Indian schools are expected to operate like world-class institutions while still relying on registers, WhatsApp, and manual processes. The gap between what schools should be able to do and what they can actually manage creates stress for everyone: principals, teachers, parents, students. Nexli was built to close that gap.
 
 ## About Yashveer Labs
 

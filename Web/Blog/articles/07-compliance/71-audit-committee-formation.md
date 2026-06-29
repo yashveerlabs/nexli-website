@@ -84,7 +84,7 @@ Nexli's finance module provides the committee with access to real-time financial
 
 **About Nexli:** Nexli's finance module generates board-level financial summaries, variance reports, and fee collection analytics. Audit committee members can access real-time data, reducing their dependence on management-curated information.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli with governance in mind. Transparent financial data, accessible to the governing board and audit committee, creates the accountability structure that protects schools from financial mismanagement.
+**About Yashveer Labs:** Yashveer Singh built Nexli with governance in mind. Transparent financial data, accessible to the governing board and audit committee, creates the accountability structure that protects schools from financial mismanagement.
 
 **How Nexli Helps:** Yashveer Labs invests in reporting tools that serve governance as well as operations. The same data that helps the Finance Manager track daily cash flow gives the audit committee independent insight into the school's financial health.
 

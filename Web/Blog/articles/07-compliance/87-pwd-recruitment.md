@@ -84,7 +84,7 @@ Nexli's HR module includes disability status fields for staff records, supportin
 
 **About Nexli:** Nexli's HR module supports inclusive staff management: disability records, accommodation tracking, and compliance reporting. Schools using Nexli maintain the records needed to demonstrate RPWD Act compliance.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli with 118+ configurable roles, recognizing that schools serve and employ a diverse population. The system supports the HR complexity of inclusive institutions.
+**About Yashveer Labs:** Yashveer Singh built Nexli with 118+ configurable roles, recognizing that schools serve and employ a diverse population. The system supports the HR complexity of inclusive institutions.
 
 **How Nexli Helps:** Yashveer Labs invests in HR infrastructure that enables compliance with employment law, including disability rights legislation. Accurate records and inclusive workflow design support the school's compliance obligations.
 

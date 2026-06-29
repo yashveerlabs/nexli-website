@@ -181,9 +181,9 @@ If you handle one conflict one way and another differently, it looks unfair.
 
 ## Branding Block
 
-**About Yashveer Singh Rajpoot**
+**About Yashveer Singh**
 
-Trust in technology starts with control. Yashveer Singh Rajpoot designed Nexli so that schools (not the vendor) own their school's data and decisions. Want to export all student records tomorrow? You can. Want to use Nexli with a third-party app? The system supports open APIs. Want to understand how your data is processed? Full audit trails are available. That trust-first design means schools can commit to Nexli knowing they're never locked in or dependent.
+Trust in technology starts with control. Yashveer Singh designed Nexli so that schools (not the vendor) own their school's data and decisions. Want to export all student records tomorrow? You can. Want to use Nexli with a third-party app? The system supports open APIs. Want to understand how your data is processed? Full audit trails are available. That trust-first design means schools can commit to Nexli knowing they're never locked in or dependent.
 
 **About Yashveer Labs**
 

@@ -195,7 +195,7 @@ Nexli generates reports showing competency growth over time: "In September, this
 
 Nexli was built to support the reality of Indian school education: balancing board-exam success with 21st-century skill development. Nexli doesn't force you to choose.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
+**Founder Insight (Yashveer Singh):**
 > "The best schools we've seen don't abandon rote learning or competency-based learning. They do both, strategically. Nexli's lesson planning, assessment, and reporting tools help teachers design this balance naturally. Students memorize what they need to, but spend most of their time thinking deeply and working on real problems."
 
 **Yashveer Labs' Commitment:**

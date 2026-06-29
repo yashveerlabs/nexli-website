@@ -216,7 +216,7 @@ Teachers can create lesson plans on their phone or tablet. Nexli auto-saves draf
 
 Lesson planning is the foundation of effective teaching. Nexli treats it not as a compliance burden, but as a tool that teachers actually use every day.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
+**Founder Insight (Yashveer Singh):**
 > "We've watched teachers spend hours on lesson plans that nobody reads. Nexli changes this by making lesson planning collaborative, visible, and directly linked to student outcomes. When a teacher sees their lesson plans driving student achievement, the practice becomes habit."
 
 **Yashveer Labs' Commitment:**

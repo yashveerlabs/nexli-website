@@ -86,7 +86,7 @@ Nexli tracks POSH training attendance, records dates and topics for each session
 
 **About Nexli:** Nexli's POSH module tracks training sessions, attendance, and ICC activities throughout the year. Annual report generation pulls from these records automatically.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's training records module because annual compliance reports are only as good as the records behind them. Training is tracked when it happens; reporting is a data output at year-end.
+**About Yashveer Labs:** Yashveer Singh built Nexli's training records module because annual compliance reports are only as good as the records behind them. Training is tracked when it happens; reporting is a data output at year-end.
 
 **How Nexli Helps:** Yashveer Labs designed Nexli's POSH module to handle the full cycle: training tracking, complaint management, ICC oversight, and annual reporting. One system for the full POSH compliance obligation.
 

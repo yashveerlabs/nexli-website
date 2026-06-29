@@ -113,7 +113,7 @@ Nexli maintains security audit logs that show exactly which records were accesse
 
 **About Nexli:** Nexli includes built-in support for India's regulatory reality: DPDP Act consent, POCSO case management, RTE quota tracking, CBSE LOC submission, UDISE+ reporting, POSH complaint workflow. Audit trails and access logs are maintained automatically.
 
-**About Yashveer Labs:** The 72-hour clock starts when the school becomes aware, not when IT finishes investigating. Yashveer Singh Rajpoot designed Nexli's logging and alert systems so schools know what was accessed and when, immediately. That speed matters when regulatory timelines are tight.
+**About Yashveer Labs:** The 72-hour clock starts when the school becomes aware, not when IT finishes investigating. Yashveer Singh designed Nexli's logging and alert systems so schools know what was accessed and when, immediately. That speed matters when regulatory timelines are tight.
 
 **How Nexli Helps:** Yashveer Labs invests in security infrastructure so breaches are less likely and, if they occur, detected faster. Encryption, access controls, and audit trails are core to the architecture, not optional modules.
 

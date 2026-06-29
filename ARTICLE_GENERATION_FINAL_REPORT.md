@@ -187,7 +187,7 @@ All 70 articles meet the following standards:
 
 ### Branding & Author Attribution ✓
 - Author: "Yashveer Labs" for all articles
-- Founder: Yashveer Singh Rajpoot mentioned by name in About section
+- Founder: Yashveer Singh mentioned by name in About section
 - Company: Yashveer Labs mentioned with mission statement
 - Nexli: Described with actual capabilities and CTA to /demo
 - Branding block rotation: Applied correctly using formula `((N-1)//20)%10+1`
@@ -321,7 +321,7 @@ The Nexli blog has been expanded by 70 comprehensive, SEO-optimized articles acr
 ✓ Provides genuine value (5-7 solution steps, 6-8 best practices, real-world examples with measurable outcomes)  
 ✓ Complies with Nexli facts (only real features, no over-claiming, clear CTA to /demo)  
 ✓ Respects India context (schools, regulations, culture, compliance requirements)  
-✓ Maintains brand consistency (Yashveer Singh Rajpoot, Yashveer Labs, Nexli all mentioned per rotation)  
+✓ Maintains brand consistency (Yashveer Singh, Yashveer Labs, Nexli all mentioned per rotation)  
 ✓ Supports distribution (strong CTA, linked to /demo, shareable examples)  
 
 The blog content strategy is now mature with 1,200+ articles covering 20 categories, establishing comprehensive authority in all aspects of Indian school operations, from administration to academics to safety to parent communication.

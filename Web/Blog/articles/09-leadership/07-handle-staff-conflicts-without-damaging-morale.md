@@ -155,8 +155,8 @@ Your response to staff conflict shapes your school's culture. Leaders who addres
 
 ---
 
-**About Yashveer Singh Rajpoot**  
-The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen (a chronically absent student, a teacher not submitting lesson plans, fees slipping) suddenly has real-time alerts. Yashveer Singh Rajpoot designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
+**About Yashveer Singh**  
+The difference between a school using spreadsheets and a school using Nexli isn't just speed. It's visibility. A principal used to discovering problems weeks after they happen (a chronically absent student, a teacher not submitting lesson plans, fees slipping) suddenly has real-time alerts. Yashveer Singh designed this visibility not to add surveillance, but to enable early intervention. Problems get smaller when you catch them early. That insight shaped how Nexli highlights exceptions and surfaces risks.
 
 **About Yashveer Labs**  
 The team behind Yashveer Labs includes developers, designers, former school administrators, and parents. That diversity of perspective means product decisions are challenged from multiple angles. A feature that looks good to an engineer might feel wrong to someone who's managed a school. A workflow that makes sense to a developer might be frustrating to a teacher. That tension between perspectives is valuable; it's where better solutions emerge.

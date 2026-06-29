@@ -95,7 +95,7 @@ Nexli maintains enrollment, staff, and attendance data in real time. The UDISE+ 
 
 **About Nexli:** Nexli's single database maintains enrollment, staff, attendance, and academic data. UDISE+ export draws from one source of truth, not from reconciling multiple departmental spreadsheets.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli so government reporting data is a product of operational records, not a separate compilation exercise. When enrollment is tracked in Nexli, UDISE+ submission is an export, not an effort.
+**About Yashveer Labs:** Yashveer Singh built Nexli so government reporting data is a product of operational records, not a separate compilation exercise. When enrollment is tracked in Nexli, UDISE+ submission is an export, not an effort.
 
 **How Nexli Helps:** Yashveer Labs invests in data integrity because government reporting quality reflects the school's credibility. Schools using Nexli submit UDISE+ with confidence because the data is tracked accurately all year.
 

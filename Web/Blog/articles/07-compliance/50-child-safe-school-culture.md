@@ -97,7 +97,7 @@ Nexli's CPO dashboard tracks prevention program implementation: training session
 
 **About Nexli:** Nexli's child protection module tracks staff training, student programs, and prevention activities alongside complaint management and case tracking. Child safety is built into school operations, not managed as a separate system.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli with a belief that technology should make it easier for schools to do what they know is right. Child protection records, training tracking, and CPO dashboards make compliance visible and manageable without adding administrative burden.
+**About Yashveer Labs:** Yashveer Singh built Nexli with a belief that technology should make it easier for schools to do what they know is right. Child protection records, training tracking, and CPO dashboards make compliance visible and manageable without adding administrative burden.
 
 **How Nexli Helps:** Yashveer Labs builds tools that support professionals doing serious work. The CPO's job is demanding; the technology should reduce friction, not add to it. Clear dashboards, automated reminders, and encrypted case records help CPOs focus on what matters: keeping children safe.
 

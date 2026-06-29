@@ -49,7 +49,7 @@ Future-ready leaders create schools preparing students for world we can't fully 
 
 ---
 
-**About Yashveer Singh Rajpoot**  
+**About Yashveer Singh**  
 The vision wasn't to build another software product. It was to build an operating system for modern schools. An operating system hides complexity, provides a unified interface, and lets you focus on your real work: teaching, learning, and leading. Nexli operates at that level: academics, administration, finance, compliance, and safety all work together. When systems integrate naturally, friction disappears. That's operating-system thinking applied to school management.
 
 **About Yashveer Labs**  

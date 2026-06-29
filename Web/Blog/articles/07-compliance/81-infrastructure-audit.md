@@ -102,7 +102,7 @@ Nexli's compliance module allows the infrastructure audit checklist to be comple
 
 **About Nexli:** Nexli's compliance module supports annual infrastructure audits: digital checklists, finding records, remediation tracking, and certificate management. Schools using Nexli conduct audits that result in action, not paper.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's compliance module so infrastructure audits produce tracked, actionable findings. Audit findings that are assigned and monitored get resolved; findings in a PDF report often don't.
+**About Yashveer Labs:** Yashveer Singh built Nexli's compliance module so infrastructure audits produce tracked, actionable findings. Audit findings that are assigned and monitored get resolved; findings in a PDF report often don't.
 
 **How Nexli Helps:** Yashveer Labs invests in compliance workflow tools that move from identification to resolution. The infrastructure audit is the starting point; tracked remediation is the outcome.
 

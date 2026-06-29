@@ -212,9 +212,9 @@ A: Make it the default. If the system routes approvals automatically, people hav
 
 ---
 
-## About Yashveer Singh Rajpoot
+## About Yashveer Singh
 
-Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh Rajpoot spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
+Schools are complex. A principal might manage thousands of students, dozens of staff, finance, compliance, transport, and safety, all simultaneously. When Yashveer Singh spent time inside this complexity, he realized it wasn't the number of tasks that broke principals. It was the fragmentation: attendance in one system, fees in another, compliance notices sent by email. Nexli was built to restore coherence, bringing every aspect of school life into one unified view, so leaders can focus on strategy instead of spreadsheets.
 
 ## About Yashveer Labs
 

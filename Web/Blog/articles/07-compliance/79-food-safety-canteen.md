@@ -99,7 +99,7 @@ Nexli's cafeteria module tracks daily meal counts, menu records, and canteen act
 
 **About Nexli:** Nexli's cafeteria module tracks meal records, menu management, and canteen activity. Compliance tracking ensures FSSAI renewal and health inspection dates are monitored.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's cafeteria module for the operational realities of school food service. Meal counts, menu records, and compliance tracking work together in one system.
+**About Yashveer Labs:** Yashveer Singh built Nexli's cafeteria module for the operational realities of school food service. Meal counts, menu records, and compliance tracking work together in one system.
 
 **How Nexli Helps:** Yashveer Labs invests in cafeteria management tools that reduce the administrative burden of canteen oversight while improving food safety record-keeping.
 

@@ -78,7 +78,7 @@ Nexli's HR module tracks police verification status for each staff member: appli
 
 **About Nexli:** Nexli's HR module tracks police verification status, character certificate dates, and compliance status for every staff member. Schools know immediately which staff are pending verification.
 
-**About Yashveer Labs:** Yashveer Singh Rajpoot built Nexli's HR module to make staff compliance visible and trackable. Police verification status is a compliance field in the staff record, not a paper note in a filing cabinet.
+**About Yashveer Labs:** Yashveer Singh built Nexli's HR module to make staff compliance visible and trackable. Police verification status is a compliance field in the staff record, not a paper note in a filing cabinet.
 
 **How Nexli Helps:** Yashveer Labs invests in HR compliance infrastructure because the consequences of employing an unverified staff member who causes harm are severe. Continuous tracking prevents the situation where verification was "meant to be done" but was not followed through.
 

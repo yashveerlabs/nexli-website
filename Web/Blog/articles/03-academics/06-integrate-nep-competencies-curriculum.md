@@ -209,7 +209,7 @@ Parents receive clear HPC reports showing competency progress. Visual charts mak
 
 NEP 2020 is not an overlay on your existing curriculum; it's the foundation of 21st-century school education. Nexli treats competency integration as central, not optional.
 
-**Founder Insight (Yashveer Singh Rajpoot):**
+**Founder Insight (Yashveer Singh):**
 > "We've seen schools struggle because they tried to bolt competencies onto their existing system. Nexli was built from the start with NEP 2020's five competency domains as core. Lesson planning, assessment, and reporting all flow through competency frameworks. It's not an extra burden; it's how the system works."
 
 **Yashveer Labs' Commitment:**

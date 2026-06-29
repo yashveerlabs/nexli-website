@@ -241,9 +241,9 @@ Total time: 5 weeks. Investment: Principal + 8-10 staff/parents spending 6-8 hou
 
 ---
 
-## About Yashveer Singh Rajpoot
+## About Yashveer Singh
 
-Yashveer Singh Rajpoot, founder of Yashveer Labs, has worked with 50+ schools on strategic planning and implementation. He observed that schools with clear 5-year strategies execute better, waste fewer resources, and create cultures of accountability. Nexli was built partly to enable this kind of strategic execution.
+Yashveer Singh, founder of Yashveer Labs, has worked with 50+ schools on strategic planning and implementation. He observed that schools with clear 5-year strategies execute better, waste fewer resources, and create cultures of accountability. Nexli was built partly to enable this kind of strategic execution.
 
 ## About Yashveer Labs
 
